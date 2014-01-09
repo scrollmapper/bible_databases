@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM bible.bible_version_key
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="id">001</field>
+	<field name="table">t_asv</field>
+	<field name="abbreviation">ASV</field>
+	<field name="language">english</field>
+	<field name="version">American Standard-ASV1901</field>
+	<field name="info_text"></field>
+	<field name="info_url">http://en.wikipedia.org/wiki/American_Standard_Version</field>
+	<field name="publisher"></field>
+	<field name="copyright">Public Domain</field>
+	<field name="copyright_info"></field>
+  </row>
+
+  <row>
+	<field name="id">002</field>
+	<field name="table">t_bbe</field>
+	<field name="abbreviation">BBE</field>
+	<field name="language">english</field>
+	<field name="version">Bible in Basic English</field>
+	<field name="info_text"></field>
+	<field name="info_url">http://en.wikipedia.org/wiki/Bible_in_Basic_English</field>
+	<field name="publisher"></field>
+	<field name="copyright">Public Domain</field>
+	<field name="copyright_info"></field>
+  </row>
+
+  <row>
+	<field name="id">003</field>
+	<field name="table">t_dby</field>
+	<field name="abbreviation">DARBY</field>
+	<field name="language">english</field>
+	<field name="version">Darby English Bible</field>
+	<field name="info_text"></field>
+	<field name="info_url">http://en.wikipedia.org/wiki/Darby_Bible</field>
+	<field name="publisher"></field>
+	<field name="copyright">Public Domain</field>
+	<field name="copyright_info"></field>
+  </row>
+
+  <row>
+	<field name="id">004</field>
+	<field name="table">t_kjv</field>
+	<field name="abbreviation">KJV</field>
+	<field name="language">english</field>
+	<field name="version">King James Version</field>
+	<field name="info_text"></field>
+	<field name="info_url">http://en.wikipedia.org/wiki/King_James_Version</field>
+	<field name="publisher"></field>
+	<field name="copyright">Public Domain</field>
+	<field name="copyright_info"></field>
+  </row>
+
+  <row>
+	<field name="id">005</field>
+	<field name="table">t_wbt</field>
+	<field name="abbreviation">WBT</field>
+	<field name="language">english</field>
+	<field name="version">Webster's Bible</field>
+	<field name="info_text"></field>
+	<field name="info_url">http://en.wikipedia.org/wiki/Webster%27s_Revision</field>
+	<field name="publisher"></field>
+	<field name="copyright">Public Domain</field>
+	<field name="copyright_info"></field>
+  </row>
+
+  <row>
+	<field name="id">006</field>
+	<field name="table">t_web</field>
+	<field name="abbreviation">WEB</field>
+	<field name="language">english</field>
+	<field name="version">World English Bible</field>
+	<field name="info_text"></field>
+	<field name="info_url">http://en.wikipedia.org/wiki/World_English_Bible</field>
+	<field name="publisher"></field>
+	<field name="copyright">Public Domain</field>
+	<field name="copyright_info"></field>
+  </row>
+
+  <row>
+	<field name="id">007</field>
+	<field name="table">t_ylt</field>
+	<field name="abbreviation">YLT</field>
+	<field name="language">english</field>
+	<field name="version">Young's Literal Translation</field>
+	<field name="info_text"></field>
+	<field name="info_url">http://en.wikipedia.org/wiki/Young%27s_Literal_Translation</field>
+	<field name="publisher"></field>
+	<field name="copyright">Public Domain</field>
+	<field name="copyright_info"></field>
+  </row>
+</resultset>
