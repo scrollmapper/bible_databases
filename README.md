@@ -1,7 +1,7 @@
 Bible Versions and Cross-Reference Databases: mysql, xml, csv, json.
 ===============
 
-Here you will find the following bible versions in sql, xml, csv, and json format:
+Here you will find the following bible versions in **sql, xml, csv, and json* format:
 
 - American Standard-ASV1901 (ASV)
 - Bible in Basic English (BBE)
@@ -11,7 +11,7 @@ Here you will find the following bible versions in sql, xml, csv, and json forma
 - World English Bible (WEB)
 - Young's Literal Translation (YLT)
 
-Also find a **Master SQL file** (top level) containing all tables.
+Also find a **Master SQL file** (top level) containing all tables. All of these can be imported into mysql as a ready-made bible database complete with cross-references. 
 
 
 *Please let me know if any verses/text were inaccurately transferred in conversion.*
