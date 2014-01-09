@@ -1,7 +1,7 @@
 Bible Versions and Cross-Reference Databases: mysql, xml, csv, json.
 ===============
 
-Here you will find the following bible versions in **sql, xml, csv, and json* format:
+Here you will find the following bible versions in **sql, xml, csv, and json** format:
 
 - American Standard-ASV1901 (ASV)
 - Bible in Basic English (BBE)
