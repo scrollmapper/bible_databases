@@ -1,11 +1,7 @@
 Bible Versions and Cross-Reference Databases: mysql, sqlite, xml, csv, json.
 ===============
 
-<<<<<<< HEAD
 Here you will find the following bible versions in sql, sqlite, xml, csv, and json format:
-=======
-Here you will find the following bible versions in **sql, xml, csv, and json** format:
->>>>>>> b517b03df0a478fb3313e4aab88a594177e1d954
 
 - American Standard-ASV1901 (ASV)
 - Bible in Basic English (BBE)
@@ -15,11 +11,7 @@ Here you will find the following bible versions in **sql, xml, csv, and json** f
 - World English Bible (WEB)
 - Young's Literal Translation (YLT)
 
-<<<<<<< HEAD
 Also find a **Master SQL and SQLite file** (top level) containing all tables.
-=======
-Also find a **Master SQL file** (top level) containing all tables. All of these can be imported into mysql as a ready-made bible database complete with cross-references. 
->>>>>>> b517b03df0a478fb3313e4aab88a594177e1d954
 
 
 *Please let me know if any verses/text were inaccurately transferred in conversion.*
@@ -72,82 +64,112 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(3) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td>PRI</td>
       <td></td>
       <td>auto_increment</td>
+      <td></td>
+      <td></td>
    </tr>
    <tr>
       <td>table</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Database Table Name </td>
    </tr>
    <tr>
       <td>abbreviation</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Version Abbreviation</td>
    </tr>
    <tr>
       <td>language</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Language of bible translation (used for language key tables)</td>
    </tr>
    <tr>
       <td>version</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Version Name</td>
    </tr>
    <tr>
       <td>info_text</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>About / Info</td>
    </tr>
    <tr>
       <td>info_url</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Info URL</td>
    </tr>
    <tr>
       <td>publisher</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Publisher</td>
    </tr>
    <tr>
       <td>copyright</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Copyright </td>
    </tr>
    <tr>
       <td>copyright_info</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Extended Copyright info</td>
    </tr>
 </table>
 <br />
@@ -164,34 +186,46 @@ SQL Database Layout:
    <tr>
       <td>vid</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td>MUL</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>verse ID</td>
    </tr>
    <tr>
       <td>r</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Rank</td>
    </tr>
    <tr>
       <td>sv</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Start Verse</td>
    </tr>
    <tr>
       <td>ev</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>End Verse</td>
    </tr>
 </table>
 <br />
@@ -208,18 +242,24 @@ SQL Database Layout:
    <tr>
       <td>b</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
       <td>PRI</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Book #</td>
    </tr>
    <tr>
       <td>n</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td>Name</td>
    </tr>
 </table>
 <br />
@@ -236,15 +276,21 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td>PRI</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
    </tr>
    <tr>
       <td>b</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -252,7 +298,10 @@ SQL Database Layout:
    <tr>
       <td>c</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -260,7 +309,10 @@ SQL Database Layout:
    <tr>
       <td>v</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -268,7 +320,10 @@ SQL Database Layout:
    <tr>
       <td>t</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -288,15 +343,21 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td>PRI</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
    </tr>
    <tr>
       <td>b</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -304,7 +365,10 @@ SQL Database Layout:
    <tr>
       <td>c</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -312,7 +376,10 @@ SQL Database Layout:
    <tr>
       <td>v</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -320,7 +387,10 @@ SQL Database Layout:
    <tr>
       <td>t</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -340,15 +410,21 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td>PRI</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
    </tr>
    <tr>
       <td>b</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -356,7 +432,10 @@ SQL Database Layout:
    <tr>
       <td>c</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -364,7 +443,10 @@ SQL Database Layout:
    <tr>
       <td>v</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -372,7 +454,10 @@ SQL Database Layout:
    <tr>
       <td>t</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -392,15 +477,21 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td>PRI</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
    </tr>
    <tr>
       <td>b</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -408,7 +499,10 @@ SQL Database Layout:
    <tr>
       <td>c</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -416,7 +510,10 @@ SQL Database Layout:
    <tr>
       <td>v</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -424,7 +521,10 @@ SQL Database Layout:
    <tr>
       <td>t</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -444,7 +544,10 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -452,7 +555,10 @@ SQL Database Layout:
    <tr>
       <td>b</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -460,7 +566,10 @@ SQL Database Layout:
    <tr>
       <td>c</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -468,7 +577,10 @@ SQL Database Layout:
    <tr>
       <td>v</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -476,7 +588,10 @@ SQL Database Layout:
    <tr>
       <td>t</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -496,15 +611,21 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td>PRI</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
    </tr>
    <tr>
       <td>b</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -512,7 +633,10 @@ SQL Database Layout:
    <tr>
       <td>c</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -520,7 +644,10 @@ SQL Database Layout:
    <tr>
       <td>v</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -528,7 +655,10 @@ SQL Database Layout:
    <tr>
       <td>t</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -548,15 +678,21 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(8) unsigned zerofill</td>
+      <td></td>
       <td>NO</td>
       <td>PRI</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
    </tr>
    <tr>
       <td>b</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -564,7 +700,10 @@ SQL Database Layout:
    <tr>
       <td>c</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -572,7 +711,10 @@ SQL Database Layout:
    <tr>
       <td>v</td>
       <td>int(11)</td>
+      <td></td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -580,11 +722,13 @@ SQL Database Layout:
    <tr>
       <td>t</td>
       <td>text</td>
+      <td>latin1_swedish_ci</td>
       <td>NO</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
    </tr>
 </table>
 <br />
-
