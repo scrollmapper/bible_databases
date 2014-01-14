@@ -215,7 +215,7 @@ SQL Database Layout:
    </tr>
 </table>
 <br />
-<h3>t_<version abbreviation></h3>
+<h3>t_\<version abbreviation\></h3>
 <table cellpadding="0" cellspacing="0" class="db-table">
    <tr>
       <th>Field</th>
