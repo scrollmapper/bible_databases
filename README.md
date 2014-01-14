@@ -11,6 +11,8 @@ Here you will find the following bible versions in sql, sqlite, xml, csv, and js
 - World English Bible (WEB)
 - Young's Literal Translation (YLT)
 
+All included Bible translations are in the public domain. 
+
 Also find a **Master SQL and SQLite file** (top level) containing all tables.
 
 
@@ -274,3 +276,19 @@ SQL Database Layout:
 </table>
 <br />
 
+
+
+LICENSE:
+-------------------
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see http://www.gnu.org/licenses/.
