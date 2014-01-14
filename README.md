@@ -64,112 +64,82 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(3) unsigned zerofill</td>
-      <td></td>
       <td>NO</td>
       <td>PRI</td>
       <td></td>
       <td>auto_increment</td>
-      <td></td>
-      <td></td>
    </tr>
    <tr>
       <td>table</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Database Table Name </td>
+      <td>Corresponding Bible version table name.</td>
    </tr>
    <tr>
       <td>abbreviation</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Version Abbreviation</td>
+      <td>Bible version abbreviation.</td>
    </tr>
    <tr>
       <td>language</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Language of bible translation (used for language key tables)</td>
+      <td>Language translation.</td>
    </tr>
    <tr>
       <td>version</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Version Name</td>
+      <td>Version name.</td>
    </tr>
    <tr>
       <td>info_text</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>About / Info</td>
+      <td>Extra info.</td>
    </tr>
    <tr>
       <td>info_url</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Info URL</td>
+      <td>Wiki info or similar URL</td>
    </tr>
    <tr>
       <td>publisher</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Publisher</td>
+      <td>Who published.</td>
    </tr>
    <tr>
       <td>copyright</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Copyright </td>
+      <td>Copyright</td>
    </tr>
    <tr>
       <td>copyright_info</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Extended Copyright info</td>
+      <td>More info on copyright.</td>
    </tr>
 </table>
 <br />
@@ -186,46 +156,34 @@ SQL Database Layout:
    <tr>
       <td>vid</td>
       <td>int(8) unsigned zerofill</td>
-      <td></td>
       <td>NO</td>
       <td>MUL</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>verse ID</td>
+      <td>VERSE ID</td>
    </tr>
    <tr>
       <td>r</td>
       <td>int(11)</td>
-      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Rank</td>
+      <td>RANK</td>
    </tr>
    <tr>
       <td>sv</td>
       <td>int(8) unsigned zerofill</td>
-      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Start Verse</td>
+      <td>START VERSE</td>
    </tr>
    <tr>
       <td>ev</td>
       <td>int(8) unsigned zerofill</td>
-      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>End Verse</td>
+      <td>END VERSE</td>
    </tr>
 </table>
 <br />
@@ -242,28 +200,22 @@ SQL Database Layout:
    <tr>
       <td>b</td>
       <td>int(11)</td>
-      <td></td>
       <td>NO</td>
       <td>PRI</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td>Book #</td>
    </tr>
    <tr>
       <td>n</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>Name</td>
+      <td>Book Name</td>
    </tr>
 </table>
 <br />
-<h3>t_asv</h3>
+<h3>t_<version abbreviation></h3>
 <table cellpadding="0" cellspacing="0" class="db-table">
    <tr>
       <th>Field</th>
@@ -276,459 +228,43 @@ SQL Database Layout:
    <tr>
       <td>id</td>
       <td>int(8) unsigned zerofill</td>
-      <td></td>
       <td>NO</td>
       <td>PRI</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Verse ID</td>
    </tr>
    <tr>
       <td>b</td>
       <td>int(11)</td>
-      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Book</td>
    </tr>
    <tr>
       <td>c</td>
       <td>int(11)</td>
-      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Chapter</td>
    </tr>
    <tr>
       <td>v</td>
       <td>int(11)</td>
-      <td></td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Verse</td>
    </tr>
    <tr>
       <td>t</td>
       <td>text</td>
-      <td>latin1_swedish_ci</td>
       <td>NO</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Text</td>
    </tr>
 </table>
 <br />
-<h3>t_bbe</h3>
-<table cellpadding="0" cellspacing="0" class="db-table">
-   <tr>
-      <th>Field</th>
-      <th>Type</th>
-      <th>Null</th>
-      <th>Key</th>
-      <th>Default
-      <th>Extra</th>
-   </tr>
-   <tr>
-      <td>id</td>
-      <td>int(8) unsigned zerofill</td>
-      <td></td>
-      <td>NO</td>
-      <td>PRI</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>b</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>c</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>v</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>t</td>
-      <td>text</td>
-      <td>latin1_swedish_ci</td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-</table>
-<br />
-<h3>t_dby</h3>
-<table cellpadding="0" cellspacing="0" class="db-table">
-   <tr>
-      <th>Field</th>
-      <th>Type</th>
-      <th>Null</th>
-      <th>Key</th>
-      <th>Default
-      <th>Extra</th>
-   </tr>
-   <tr>
-      <td>id</td>
-      <td>int(8) unsigned zerofill</td>
-      <td></td>
-      <td>NO</td>
-      <td>PRI</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>b</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>c</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>v</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>t</td>
-      <td>text</td>
-      <td>latin1_swedish_ci</td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-</table>
-<br />
-<h3>t_kjv</h3>
-<table cellpadding="0" cellspacing="0" class="db-table">
-   <tr>
-      <th>Field</th>
-      <th>Type</th>
-      <th>Null</th>
-      <th>Key</th>
-      <th>Default
-      <th>Extra</th>
-   </tr>
-   <tr>
-      <td>id</td>
-      <td>int(8) unsigned zerofill</td>
-      <td></td>
-      <td>NO</td>
-      <td>PRI</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>b</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>c</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>v</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>t</td>
-      <td>text</td>
-      <td>latin1_swedish_ci</td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-</table>
-<br />
-<h3>t_wbt</h3>
-<table cellpadding="0" cellspacing="0" class="db-table">
-   <tr>
-      <th>Field</th>
-      <th>Type</th>
-      <th>Null</th>
-      <th>Key</th>
-      <th>Default
-      <th>Extra</th>
-   </tr>
-   <tr>
-      <td>id</td>
-      <td>int(8) unsigned zerofill</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>b</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>c</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>v</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>t</td>
-      <td>text</td>
-      <td>latin1_swedish_ci</td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-</table>
-<br />
-<h3>t_web</h3>
-<table cellpadding="0" cellspacing="0" class="db-table">
-   <tr>
-      <th>Field</th>
-      <th>Type</th>
-      <th>Null</th>
-      <th>Key</th>
-      <th>Default
-      <th>Extra</th>
-   </tr>
-   <tr>
-      <td>id</td>
-      <td>int(8) unsigned zerofill</td>
-      <td></td>
-      <td>NO</td>
-      <td>PRI</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>b</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>c</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>v</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>t</td>
-      <td>text</td>
-      <td>latin1_swedish_ci</td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-</table>
-<br />
-<h3>t_ylt</h3>
-<table cellpadding="0" cellspacing="0" class="db-table">
-   <tr>
-      <th>Field</th>
-      <th>Type</th>
-      <th>Null</th>
-      <th>Key</th>
-      <th>Default
-      <th>Extra</th>
-   </tr>
-   <tr>
-      <td>id</td>
-      <td>int(8) unsigned zerofill</td>
-      <td></td>
-      <td>NO</td>
-      <td>PRI</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>b</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>c</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>v</td>
-      <td>int(11)</td>
-      <td></td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>t</td>
-      <td>text</td>
-      <td>latin1_swedish_ci</td>
-      <td>NO</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
-</table>
-<br />
+
