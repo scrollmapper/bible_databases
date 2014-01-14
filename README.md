@@ -16,6 +16,9 @@ Also find a **Master SQL and SQLite file** (top level) containing all tables.
 
 *Please let me know if any verses/text were inaccurately transferred in conversion.*
 
+Verse ID System:
+-------------------
+
 Each verse is accessed by a unique key, the combination of the BOOK+CHAPTER+VERSE id.
 
 Example: 
@@ -26,7 +29,7 @@ Example:
 
 The verse-id system is used for faster, simplified queries. For instance:
 
-***01001001*** - ***02001005*** would capture all verses between Genesis 1:1 through Exodus 1:5. 
+***01001001*** - ***02001005*** would capture all verses between **Genesis 1:1** through **Exodus 1:5**. 
 
 Written simply:
 
@@ -38,11 +41,14 @@ BETWEEN 01001001
 AND 02001005
 </code>
 
+Coordinating Tables
+-------------------
+
 There is also a number-to-book key (**key_english** table), a cross-reference list (**cross_reference** table), and a bible key containing meta information about the included translations (**bible_version_key** table). ***See below SQL table layout.*** These tables work together providing you a great basis for a bible-reading and cross-referencing app. 
 
 While its expected that your programs would use the verse-id system, *book #, chapter #, and verse #* columns have been included in the bible versions tables.
 
-Special Note on Cross-Reference Table
+A Valuable Cross-Reference Table
 -------------------
 A very special and valuable addition to these databases is the extensive cross-reference table. Its combined from trustworthy sources. Its extremely useful in bible study for discovering related scriptures. For any given verse, you simply query ***vid*** (verse id), and a list of rows will be returned. Each of those rows has a rank (r) for relevance, start-verse (sv), and end verse (ev) if there is one. 
 
