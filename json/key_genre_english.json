@@ -1,0 +1,4 @@
+// Database 'bible'
+// bible.key_genre_english
+
+[{"g": 1,"n": "Law"}, {"g": 2,"n": "History"}, {"g": 3,"n": "Wisdom"}, {"g": 4,"n": "Prophets"}, {"g": 5,"n": "Gospels"}, {"g": 6,"n": "Acts"}, {"g": 7,"n": "Epistles"}, {"g": 8,"n": "Apocalyptic"}]
