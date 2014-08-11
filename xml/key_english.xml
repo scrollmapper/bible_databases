@@ -1,334 +1,400 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 
-<resultset statement="SELECT * FROM bible.key_english
-" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<resultset statement="SELECT * FROM bible.key_english" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <row>
-	<field name="b">1</field>
-	<field name="n">Genesis</field>
+  <field name="b">1</field>
+  <field name="n">Genesis</field>
+  <field name="t">OT</field>
+  <field name="g">1</field>
   </row>
-
   <row>
-	<field name="b">2</field>
-	<field name="n">Exodus</field>
+  <field name="b">2</field>
+  <field name="n">Exodus</field>
+  <field name="t">OT</field>
+  <field name="g">1</field>
   </row>
-
   <row>
-	<field name="b">3</field>
-	<field name="n">Leviticus</field>
+  <field name="b">3</field>
+  <field name="n">Leviticus</field>
+  <field name="t">OT</field>
+  <field name="g">1</field>
   </row>
-
   <row>
-	<field name="b">4</field>
-	<field name="n">Numbers</field>
+  <field name="b">4</field>
+  <field name="n">Numbers</field>
+  <field name="t">OT</field>
+  <field name="g">1</field>
   </row>
-
   <row>
-	<field name="b">5</field>
-	<field name="n">Deuteronomy</field>
+  <field name="b">5</field>
+  <field name="n">Deuteronomy</field>
+  <field name="t">OT</field>
+  <field name="g">1</field>
   </row>
-
   <row>
-	<field name="b">6</field>
-	<field name="n">Joshua</field>
+  <field name="b">6</field>
+  <field name="n">Joshua</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">7</field>
-	<field name="n">Judges</field>
+  <field name="b">7</field>
+  <field name="n">Judges</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">8</field>
-	<field name="n">Ruth</field>
+  <field name="b">8</field>
+  <field name="n">Ruth</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">9</field>
-	<field name="n">1 Samuel</field>
+  <field name="b">9</field>
+  <field name="n">1 Samuel</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">10</field>
-	<field name="n">2 Samuel</field>
+  <field name="b">10</field>
+  <field name="n">2 Samuel</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">11</field>
-	<field name="n">1 Kings</field>
+  <field name="b">11</field>
+  <field name="n">1 Kings</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">12</field>
-	<field name="n">2 Kings</field>
+  <field name="b">12</field>
+  <field name="n">2 Kings</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">13</field>
-	<field name="n">1 Chronicles</field>
+  <field name="b">13</field>
+  <field name="n">1 Chronicles</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">14</field>
-	<field name="n">2 Chronicles</field>
+  <field name="b">14</field>
+  <field name="n">2 Chronicles</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">15</field>
-	<field name="n">Ezra</field>
+  <field name="b">15</field>
+  <field name="n">Ezra</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">16</field>
-	<field name="n">Nehemiah</field>
+  <field name="b">16</field>
+  <field name="n">Nehemiah</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">17</field>
-	<field name="n">Esther</field>
+  <field name="b">17</field>
+  <field name="n">Esther</field>
+  <field name="t">OT</field>
+  <field name="g">2</field>
   </row>
-
   <row>
-	<field name="b">18</field>
-	<field name="n">Job</field>
+  <field name="b">18</field>
+  <field name="n">Job</field>
+  <field name="t">OT</field>
+  <field name="g">3</field>
   </row>
-
   <row>
-	<field name="b">19</field>
-	<field name="n">Psalms</field>
+  <field name="b">19</field>
+  <field name="n">Psalms</field>
+  <field name="t">OT</field>
+  <field name="g">3</field>
   </row>
-
   <row>
-	<field name="b">20</field>
-	<field name="n">Proverbs</field>
+  <field name="b">20</field>
+  <field name="n">Proverbs</field>
+  <field name="t">OT</field>
+  <field name="g">3</field>
   </row>
-
   <row>
-	<field name="b">21</field>
-	<field name="n">Ecclesiastes</field>
+  <field name="b">21</field>
+  <field name="n">Ecclesiastes</field>
+  <field name="t">OT</field>
+  <field name="g">3</field>
   </row>
-
   <row>
-	<field name="b">22</field>
-	<field name="n">Song of Solomon</field>
+  <field name="b">22</field>
+  <field name="n">Song of Solomon</field>
+  <field name="t">OT</field>
+  <field name="g">3</field>
   </row>
-
   <row>
-	<field name="b">23</field>
-	<field name="n">Isaiah</field>
+  <field name="b">23</field>
+  <field name="n">Isaiah</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">24</field>
-	<field name="n">Jeremiah</field>
+  <field name="b">24</field>
+  <field name="n">Jeremiah</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">25</field>
-	<field name="n">Lamentations</field>
+  <field name="b">25</field>
+  <field name="n">Lamentations</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">26</field>
-	<field name="n">Ezekiel</field>
+  <field name="b">26</field>
+  <field name="n">Ezekiel</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">27</field>
-	<field name="n">Daniel</field>
+  <field name="b">27</field>
+  <field name="n">Daniel</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">28</field>
-	<field name="n">Hosea</field>
+  <field name="b">28</field>
+  <field name="n">Hosea</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">29</field>
-	<field name="n">Joel</field>
+  <field name="b">29</field>
+  <field name="n">Joel</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">30</field>
-	<field name="n">Amos</field>
+  <field name="b">30</field>
+  <field name="n">Amos</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">31</field>
-	<field name="n">Obadiah</field>
+  <field name="b">31</field>
+  <field name="n">Obadiah</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">32</field>
-	<field name="n">Jonah</field>
+  <field name="b">32</field>
+  <field name="n">Jonah</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">33</field>
-	<field name="n">Micah</field>
+  <field name="b">33</field>
+  <field name="n">Micah</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">34</field>
-	<field name="n">Nahum</field>
+  <field name="b">34</field>
+  <field name="n">Nahum</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">35</field>
-	<field name="n">Habakkuk</field>
+  <field name="b">35</field>
+  <field name="n">Habakkuk</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">36</field>
-	<field name="n">Zephaniah</field>
+  <field name="b">36</field>
+  <field name="n">Zephaniah</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">37</field>
-	<field name="n">Haggai</field>
+  <field name="b">37</field>
+  <field name="n">Haggai</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">38</field>
-	<field name="n">Zechariah</field>
+  <field name="b">38</field>
+  <field name="n">Zechariah</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">39</field>
-	<field name="n">Malachi</field>
+  <field name="b">39</field>
+  <field name="n">Malachi</field>
+  <field name="t">OT</field>
+  <field name="g">4</field>
   </row>
-
   <row>
-	<field name="b">40</field>
-	<field name="n">Matthew</field>
+  <field name="b">40</field>
+  <field name="n">Matthew</field>
+  <field name="t">NT</field>
+  <field name="g">5</field>
   </row>
-
   <row>
-	<field name="b">41</field>
-	<field name="n">Mark</field>
+  <field name="b">41</field>
+  <field name="n">Mark</field>
+  <field name="t">NT</field>
+  <field name="g">5</field>
   </row>
-
   <row>
-	<field name="b">42</field>
-	<field name="n">Luke</field>
+  <field name="b">42</field>
+  <field name="n">Luke</field>
+  <field name="t">NT</field>
+  <field name="g">5</field>
   </row>
-
   <row>
-	<field name="b">43</field>
-	<field name="n">John</field>
+  <field name="b">43</field>
+  <field name="n">John</field>
+  <field name="t">NT</field>
+  <field name="g">5</field>
   </row>
-
   <row>
-	<field name="b">44</field>
-	<field name="n">Acts</field>
+  <field name="b">44</field>
+  <field name="n">Acts</field>
+  <field name="t">NT</field>
+  <field name="g">6</field>
   </row>
-
   <row>
-	<field name="b">45</field>
-	<field name="n">Romans</field>
+  <field name="b">45</field>
+  <field name="n">Romans</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">46</field>
-	<field name="n">1 Corinthians</field>
+  <field name="b">46</field>
+  <field name="n">1 Corinthians</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">47</field>
-	<field name="n">2 Corinthians</field>
+  <field name="b">47</field>
+  <field name="n">2 Corinthians</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">48</field>
-	<field name="n">Galatians</field>
+  <field name="b">48</field>
+  <field name="n">Galatians</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">49</field>
-	<field name="n">Ephesians</field>
+  <field name="b">49</field>
+  <field name="n">Ephesians</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">50</field>
-	<field name="n">Philippians</field>
+  <field name="b">50</field>
+  <field name="n">Philippians</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">51</field>
-	<field name="n">Colossians</field>
+  <field name="b">51</field>
+  <field name="n">Colossians</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">52</field>
-	<field name="n">1 Thessalonians</field>
+  <field name="b">52</field>
+  <field name="n">1 Thessalonians</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">53</field>
-	<field name="n">2 Thessalonians</field>
+  <field name="b">53</field>
+  <field name="n">2 Thessalonians</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">54</field>
-	<field name="n">1 Timothy</field>
+  <field name="b">54</field>
+  <field name="n">1 Timothy</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">55</field>
-	<field name="n">2 Timothy</field>
+  <field name="b">55</field>
+  <field name="n">2 Timothy</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">56</field>
-	<field name="n">Titus</field>
+  <field name="b">56</field>
+  <field name="n">Titus</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">57</field>
-	<field name="n">Philemon</field>
+  <field name="b">57</field>
+  <field name="n">Philemon</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">58</field>
-	<field name="n">Hebrews</field>
+  <field name="b">58</field>
+  <field name="n">Hebrews</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">59</field>
-	<field name="n">James</field>
+  <field name="b">59</field>
+  <field name="n">James</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">60</field>
-	<field name="n">1 Peter</field>
+  <field name="b">60</field>
+  <field name="n">1 Peter</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">61</field>
-	<field name="n">2 Peter</field>
+  <field name="b">61</field>
+  <field name="n">2 Peter</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">62</field>
-	<field name="n">1 John</field>
+  <field name="b">62</field>
+  <field name="n">1 John</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">63</field>
-	<field name="n">2 John</field>
+  <field name="b">63</field>
+  <field name="n">2 John</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">64</field>
-	<field name="n">3 John</field>
+  <field name="b">64</field>
+  <field name="n">3 John</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">65</field>
-	<field name="n">Jude</field>
+  <field name="b">65</field>
+  <field name="n">Jude</field>
+  <field name="t">NT</field>
+  <field name="g">7</field>
   </row>
-
   <row>
-	<field name="b">66</field>
-	<field name="n">Revelation</field>
+  <field name="b">66</field>
+  <field name="n">Revelation</field>
+  <field name="t">NT</field>
+  <field name="g">8</field>
   </row>
 </resultset>
