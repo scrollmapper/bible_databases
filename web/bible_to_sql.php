@@ -26,14 +26,33 @@ function convertToNumber($book = NULL, $database = NULL) {
      $stmt->close();
 }
 
+function convertToBook($number = NULL, $database = NULL) {
+	if (!$database) { die('you forgot to specify the database in your bible_to_sql call.'); }
+	
+	$query = "SELECT n from bible.key_english WHERE b=?";
+	
+	$stmt = $database->stmt_init();
+	$stmt->prepare($query);
+	$stmt->bind_param("s", $number);
+	$stmt->execute();
+        $result = $stmt->get_result();
+        if ($row = $result->fetch_array(MYSQLI_NUM)) {
+            return $row[0];
+		}
+     $stmt->close();
+     
+}
+
 //JOSHUA 1:8-10 to 0601008-0601010
 
 //return book number
 class bible_to_sql {
 	
 	protected $book = null;
+	protected $bookName = null;
 	protected $chapter = null;
-	protected $verse = null;
+	protected $chapterHuman = null;
+	protected $verse = 001;
 	protected $endverse = 999;
 	protected $range = FALSE;
 	
@@ -46,9 +65,11 @@ class bible_to_sql {
 		//split
 		$separatedArray = explode(".",$string);
 		$this->book = $this->addZeros(convertToNumber($separatedArray[0], $database),2);
+		$this->bookName = convertToBook($this->book, $database);
 		
 		//split chapter and verse
 		$separatedVerse = explode(":",$separatedArray[1]);
+		$this->chapterHuman = $separatedVerse[0];
 		$this->chapter = $this->addZeros($separatedVerse[0],3);
 		
 		//determine if single or range
@@ -86,29 +107,21 @@ class bible_to_sql {
 		return $input;
 		
 	}
-    
-    public function bookToNumber($book) {
-		
-		//TODO: replace with sql query:
-		//SELECT B from key_abbreviations_english WHERE a='';
-		return "01";
-
-	}
 	
 	public function sql() {
 		if ($this->range) {
-			return "BETWEEN (".$this->book.$this->chapter.$this->verse." and ".$this->book.$this->chapter.$this->endverse.")";
+			return "id BETWEEN ".$this->book.$this->chapter.$this->verse." and ".$this->book.$this->chapter.$this->endverse." ";
 		} else {
-			return "='".$this->book.$this->chapter.$this->verse."'";
+			return "id='".$this->book.$this->chapter.$this->verse."'";
 		}
 	}
     	
 	public function getBook() {
-		return $this->book;
+		return $this->bookName;
 	}
 	
 	public function getChapter() {
-		return $this-chapter;
+		return $this->chapterHuman;
 	}
 	
 	public function getVerse() {
