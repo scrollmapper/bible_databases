@@ -46,13 +46,19 @@ AND 02001005
 Coordinating Tables
 -------------------
 
-There is also a number-to-book key (**key_english** table), a cross-reference list (**cross_reference** table), and a bible key containing meta information about the included translations (**bible_version_key** table). ***See below SQL table layout.*** These tables work together providing you a great basis for a bible-reading and cross-referencing app. 
+There is also a number-to-book key (**key_english** table), a cross-reference list (**cross_reference** table), and a bible key containing meta information about the included translations (**bible_version_key** table). ***See below SQL table layout.*** These tables work together providing you a great basis for a bible-reading and cross-referencing app. In addition, each book is marked with a particular genre, mapping in the number-to-genre key (**key_genre_english** table) and common abbreviations for each book can be looked up in the abbreviations list (**key_abbreviations_english** table).
 
 While its expected that your programs would use the verse-id system, *book #, chapter #, and verse #* columns have been included in the bible versions tables.
 
 A Valuable Cross-Reference Table
 -------------------
 A very special and valuable addition to these databases is the extensive cross-reference table. Its combined from trustworthy sources. Its extremely useful in bible study for discovering related scriptures. For any given verse, you simply query ***vid*** (verse id), and a list of rows will be returned. Each of those rows has a rank (r) for relevance, start-verse (sv), and end verse (ev) if there is one. 
+
+Basic Web Interaction
+-------------------
+The web folder contains two php files. Edit the first few lines of index.php to match your server's settings. Place these in a folder on your webserver.
+
+The references search box can be multiple comma separated values. (i.e. John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10) You can also directly link to a verse by altering the URI: [http://localhost/index.php?b=John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10](http://localhost/index.php?b=John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10)
 
 -----------------------------
 
@@ -66,7 +72,7 @@ SQL Database Layout:
       <th>Type</th>
       <th>Null</th>
       <th>Key</th>
-      <th>Default
+      <th>Default</th>
       <th>Extra</th>
    </tr>
    <tr>
@@ -158,7 +164,7 @@ SQL Database Layout:
       <th>Type</th>
       <th>Null</th>
       <th>Key</th>
-      <th>Default
+      <th>Default</th>
       <th>Extra</th>
    </tr>
    <tr>
@@ -202,7 +208,7 @@ SQL Database Layout:
       <th>Type</th>
       <th>Null</th>
       <th>Key</th>
-      <th>Default
+      <th>Default</th>
       <th>Extra</th>
    </tr>
    <tr>
@@ -220,6 +226,94 @@ SQL Database Layout:
       <td></td>
       <td></td>
       <td>Book Name</td>
+   </tr>
+   <tr>
+      <td>t</td>
+      <td>VARCHAR(2)</td>
+      <td>NO</td>
+      <td></td>
+      <td></td>
+      <td>Testament (OT or NT)</td>
+   </tr>
+   <tr>
+      <td>g</td>
+      <td>tinyint(3)</td>
+      <td>NO</td>
+      <td></td>
+      <td></td>
+      <td>Genre ID</td>
+   </tr>
+</table>
+<br />
+<h3>key_abbreviations_english</h3>
+<table cellpadding="0" cellspacing="0" class="db-table">
+   <tr>
+      <th>Field</th>
+      <th>Type</th>
+      <th>Null</th>
+      <th>Key</th>
+      <th>Default</th>
+      <th>Extra</th>
+   </tr>
+   <tr>
+      <td>id</td>
+      <td>smallint(5)</td>
+      <td>NO</td>
+      <td>PRI</td>
+      <td></td>
+      <td>Abbreviation ID</td>
+   </tr>
+   <tr>
+      <td>a</td>
+      <td>VARCHAR(255)</td>
+      <td>NO</td>
+      <td></td>
+      <td></td>
+      <td>Abbreviation</td>
+   </tr>
+   <tr>
+      <td>b</td>
+      <td>smallint(5)</td>
+      <td>NO</td>
+      <td></td>
+      <td></td>
+      <td>Book ID this is refers to</td>
+   </tr>
+   <tr>
+      <td>p</td>
+      <td>tinyint(1)</td>
+      <td>NO</td>
+      <td></td>
+      <td>0</td>
+      <td>If this is the desired abbreviation</td>
+   </tr>
+</table>
+<br />
+<h3>key_genre_english</h3>
+<table cellpadding="0" cellspacing="0" class="db-table">
+   <tr>
+      <th>Field</th>
+      <th>Type</th>
+      <th>Null</th>
+      <th>Key</th>
+      <th>Default</th>
+      <th>Extra</th>
+   </tr>
+   <tr>
+      <td>g</td>
+      <td>tinyint(3)</td>
+      <td>NO</td>
+      <td>PRI</td>
+      <td></td>
+      <td>Genre ID</td>
+   </tr>
+   <tr>
+      <td>n</td>
+      <td>VARCHAR(255)</td>
+      <td>NO</td>
+      <td></td>
+      <td></td>
+      <td>Genre name</td>
    </tr>
 </table>
 <br />

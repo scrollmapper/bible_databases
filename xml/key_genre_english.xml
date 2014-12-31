@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resultset statement="SELECT * FROM bible.key_genre_english" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+  <field name="g">1</field>
+  <field name="n">Law</field>
+  </row>
+  <row>
+  <field name="g">2</field>
+  <field name="n">History</field>
+  </row>
+  <row>
+  <field name="g">3</field>
+  <field name="n">Wisdom</field>
+  </row>
+  <row>
+  <field name="g">4</field>
+  <field name="n">Prophets</field>
+  </row>
+  <row>
+  <field name="g">5</field>
+  <field name="n">Gospels</field>
+  </row>
+  <row>
+  <field name="g">6</field>
+  <field name="n">Acts</field>
+  </row>
+  <row>
+  <field name="g">7</field>
+  <field name="n">Epistles</field>
+  </row>
+  <row>
+  <field name="g">8</field>
+  <field name="n">Apocalyptic</field>
+  </row>
+</resultset>
