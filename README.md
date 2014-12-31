@@ -58,7 +58,7 @@ Basic Web Interaction
 -------------------
 The web folder contains two php files. Edit the first few lines of index.php to match your server's settings. Place these in a folder on your webserver.
 
-The references search box can be multiple comma separated values. (i.e. John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10) You can also directly link to a verse by altering the URI: [[http://localhost/index.php?b=John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10]]
+The references search box can be multiple comma separated values. (i.e. John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10) You can also directly link to a verse by altering the URI: [http://localhost/index.php?b=John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10](http://localhost/index.php?b=John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10)
 
 -----------------------------
 
