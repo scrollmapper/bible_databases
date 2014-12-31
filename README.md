@@ -54,6 +54,12 @@ A Valuable Cross-Reference Table
 -------------------
 A very special and valuable addition to these databases is the extensive cross-reference table. Its combined from trustworthy sources. Its extremely useful in bible study for discovering related scriptures. For any given verse, you simply query ***vid*** (verse id), and a list of rows will be returned. Each of those rows has a rank (r) for relevance, start-verse (sv), and end verse (ev) if there is one. 
 
+Basic Web Interaction
+-------------------
+The web folder contains two php files. Edit the first few lines of index.php to match your server's settings. Place these in a folder on your webserver.
+
+The references search box can be multiple comma separated values. (i.e. John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10) You can also directly link to a verse by altering the URI: [[http://localhost/index.php?b=John 3:16, Rom 3:23, 1 Jn 1:9, Romans 10:9-10]]
+
 -----------------------------
 
 SQL Database Layout:

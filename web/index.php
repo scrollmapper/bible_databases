@@ -1,8 +1,15 @@
 <?php
+// Edit these variables to meet your environment:
+$mysql_server = "localhost";
+$mysql_username = "bible";
+$mysql_password = "bible";
+$mysql_db = "bible"; // this is the default table name
 
-// TEST: /index.php?b=Exodus%2011,Philippians%201:2,Psalms%20119,1%20John%201:9,Song%20Of%20Solomon%209:6&r=0
+$default_text = "John 3:16";
 
-$mysqli = new mysqli('localhost', 'bible', 'bible', 'bible');
+/*** DO NOT EDIT BELOW THIS LINE (Unless you know what you are doing :) ) ***/
+
+$mysqli = new mysqli($mysql_server, $mysql_username, $mysql_password, $mysql_db);
 
 /*
  * This is the "official" OO way to do it,
@@ -30,7 +37,7 @@ $references = explode(",",$_GET['b']);
 <header>
 <form action="index.php" action="GET">
 <!-- TODO: Bible dropdown. Defaults to KJV. -->
-<label for="b">Reference(s): </label><input type="text" name="b" value="<?php if ($_GET['b']) { echo $_GET['b']; } else { echo "John 3:16"; } ?>" /><input type="submit" value="Search" /><br />
+<label for="b">Reference(s): </label><input type="text" name="b" value="<?php if ($_GET['b']) { echo $_GET['b']; } else { echo $default_text; } ?>" /><input type="submit" value="Search" /><br />
 
 </form>
 </header>
