@@ -5,7 +5,6 @@ function convertToNumber($book = NULL, $database = NULL) {
 	if (!$database) { die('you forgot to specify the database in your bible_to_sql call.'); }
 		
 	$query = "SELECT B from bible.key_abbreviations_english WHERE A=?";
-	$query2 = "SELECT b from bible.key_english WHERE n=?";
 	
 	$stmt = $database->stmt_init();
 	$stmt->prepare($query);
@@ -14,15 +13,7 @@ function convertToNumber($book = NULL, $database = NULL) {
         $result = $stmt->get_result();
         if ($row = $result->fetch_array(MYSQLI_NUM)) {
             return $row[0];
-        } else {
-			$stmt->prepare($query2);
-			$stmt->bind_param("s", $book);
-			$stmt->execute();
-			$result = $stmt->get_result();
-			if ($row = $result->fetch_array(MYSQLI_NUM)) {
-				return $row[0];
-			}
-		}
+        } 
      $stmt->close();
 }
 
