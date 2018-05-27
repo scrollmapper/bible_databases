@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W8RKPHPUF398G)
+
 Bible Versions and Cross-Reference Databases: mysql, sqlite, xml, csv, json.
 ===============
 
@@ -11,10 +13,11 @@ Here you will find the following bible versions in sql, sqlite, xml, csv, and js
 - World English Bible (WEB)
 - Young's Literal Translation (YLT)
 
-
 All included Bible translations are in the public domain. 
 
 *Please let me know if any verses/text were inaccurately transferred in conversion.*
+
+Looking for deuterocanonical / apocryphal books? Find them here: https://github.com/scrollmapper/bible_databases_deuterocanonical
 
 Summary:
 -------------------
