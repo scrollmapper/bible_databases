@@ -1,88 +1,132 @@
 <?php
-// Edit these variables to meet your environment:
-$mysql_server = "localhost";
-$mysql_username = "bible";
-$mysql_password = "bible";
-$mysql_db = "bible"; // this is the default table name
+require('Database.php');
+require('BibleSearch.php');
+$db = new Database('localhost', 'bible', 'bible42', 'bible');
+$db->connect();
 
-$default_text = "John 3:16";
-
-/*** DO NOT EDIT BELOW THIS LINE (Unless you know what you are doing :) ) ***/
-
-$mysqli = new mysqli($mysql_server, $mysql_username, $mysql_password, $mysql_db);
-
-/*
- * This is the "official" OO way to do it,
- * BUT $connect_error was broken until PHP 5.2.9 and 5.3.0.
- */
-if ($mysqli->connect_error) {
-    die('Connect Error (' . $mysqli->connect_errno . ') '
-            . $mysqli->connect_error);
+$searchString = trim(@$_POST['searchField']);
+$selectedVersion = trim(@$_POST['version']);
+if (empty($selectedVersion)) {
+    $selectedVersion = 't_kjv';
 }
-
-require("bible_to_sql.php");
-//echo "b: ".$_GET['b']." r: ".$_GET['r']."<br />";
-
-
-//split at commas
-$references = explode(",",$_GET['b']);
-
-
+$search = new BibleSearch($db);
+$searchType = $search->type($searchString);
+$orderCol = $searchType === BibleSearch::TYPE_TEXT? 4 : 1;
+$orderDir = $searchType === BibleSearch::TYPE_TEXT? 'desc' : 'asc';
+$versions = $search->getVersions();
+$references = $search->search($searchString, $selectedVersion);
 ?>
-<html>
-<head>
-<title>Bible Search</title>
-</head>
-<body>
-<header>
-<form action="index.php" action="GET">
-<!-- TODO: Bible dropdown. Defaults to KJV. -->
-<label for="b">Reference(s): </label><input type="text" name="b" value="<?php if ($_GET['b']) { echo $_GET['b']; } else { echo $default_text; } ?>" /><input type="submit" value="Search" /><br />
+    <html lang="en">
+    <head>
+        <title>Bible Search</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
 
-</form>
-</header>
-<main>
-	<?php 
-	//return results
-	
-	foreach ($references as $r) {
-				
-		$ret = new bible_to_sql($r, NULL, $mysqli);
-		//echo "sql query: " . $ret->sql() . "<br />";
-		//SELECT * FROM bible.t_kjv WHERE id BETWEEN 01001001 AND 02001005
-		$sqlquery = "SELECT * FROM bible.t_kjv WHERE " . $ret->sql();
-		$stmt = $mysqli->stmt_init();
-		$stmt->prepare($sqlquery);
-		$stmt->execute();
-        $result = $stmt->get_result();
-        if ($result->num_rows > 0) {
-			//$row = $result->fetch_array(MYSQLI_NUM);
-			//0: ID 1: Book# 2:Chapter 3:Verse 4:Text
-			
-			print "<article><header><h1>{$ret->getBook()} {$ret->getChapter()}</h1></header>";
-			
-            while ($row = $result->fetch_row()) {
-			 print "<div class=\"versenum\">${row[3]}</div> <div class=\"versetext\">${row[4]}</div><br />";
-			}
-			print "</article>";
-			
-        } else {
-			print "Did not understand your input.";
-		}
-		$stmt->close();
-	}
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" crossorigin="anonymous">
 
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
+        <link rel="stylesheet" href="bible.css">
+    </head>
+    <body>
+    <div class="container-fluid">
+        <form action="/" method="POST">
+            <div class="row header-bar mb-1 p-1">
+                <div class="col-4"><h1>Bible Search</h1></div>
+                <div class="col-4">
+                    <div class="input-group">
+                        <input class="form-control" type="search" value="" placeholder="enter 'book chapter.verse, or text to search for" name="searchField" id="searchField">
+                        <span class="input-group-append"><button class="btn btn-outline-secondary" type="button"><i class="fa fa-search"></i></button></span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <select name="version">
+                        <?php
+                        foreach ($versions as $version) {
+                            ?>
+                            <option value="<?= $version->table ?>"<?= $selectedVersion == $version->table ? ' selected' : '' ?>><?= $version->version ?></option>
+                            <?php
+                        }
+                        ?>
+                    </select>
+                </div>
+            </div>
+        </form>
+        <?php
+        if (!empty($searchString)) {
+            ?>
+            <div class="row">
+                <div class="col text-center">
+                    <h4>Results for: <?= $searchString ?></h4>
+                </div>
+            </div>
+            <?php
+        }
+        if (is_string($references)) {
+            ?>
+            <div class="error"><?= $references ?></div>
+        <?php
+        }
+        else {
+        ?>
+            <table class="table table-striped" id="references" data-order='[[ <?=$orderCol?>, "<?=$orderDir?>" ]]'>
+                <thead>
+                <tr>
+                    <th>Book</th>
+                    <th>Chapter</th>
+                    <th>Verse</th>
+                    <th>Text</th>
+                    <?php
+                    if ($searchType === BibleSearch::TYPE_TEXT) {
+                        ?>
+                        <th>Rank</th>
+                        <?php
+                    }
+                    ?>
+                </tr>
+                </thead>
+                <tbody>
+                <?php
+                /** @var \BibleReference[] $references */
+                foreach ($references as $reference) {
+                    ?>
+                    <?php
+                    foreach ($reference->matches as $match) {
+                        ?>
+                        <tr>
+                            <td class="book"><?= $reference->bookName ?></td>
+                            <td class="chapter"><?= $reference->chapterHuman ?></td>
+                            <td class="verse"><?= $match->v ?></td>
+                            <td class="text"><?= $match->t ?></td>
+                            <?php
+                            if ($searchType === BibleSearch::TYPE_TEXT) {
+                                ?>
+                                <td class="rank"><?= str_repeat('<i class="fa fa-star green"></i>', $match->normalized) ?></td>
+                                <?php
+                            }
+                            ?>
+                        </tr>
+                        <?php
+                    }
+                    ?>
+                    <?php
+                }
+                ?>
+                </tbody>
+            </table>
+            <script>
+				window.$('#references').DataTable({paging: true, pageLength: 10, deferRender: true, language: {search: 'filter:'}});
+            </script>
+            <?php
+        }
+        ?>
+    </div>
+    </body>
+    </html>
+<?php
+$db->close();
 
-	?>
-</main>
-<footer>
-<form action="index.php" action="GET">
-<!-- TODO: Bible dropdown. Defaults to KJV. -->
-<label for="b">Reference(s): </label><input type="text" name="b" value="<?php if ($_GET['b']) { echo $_GET['b']; } else { echo "John 3:16"; } ?>" /><input type="submit" value="Search" /><br />
-
-</form>
-</footer>
-</body>
-</html>
-<?php $mysqli->close(); ?>

@@ -1,0 +1,55 @@
+
+h1 {
+    font-size: 1.6rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 1.1rem;
+}
+
+.header-bar {
+    background: #E5F5FF;
+    color: #555;
+}
+
+input[type="search"] {
+    font-size: 1rem;
+}
+
+input[type="search"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #E3E3E3;
+    opacity: 1; /* Firefox */
+}
+
+input[type="search"]:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #E3E3E3;
+}
+
+input[type="search"]::-ms-input-placeholder { /* Microsoft Edge */
+    color: #E3E3E3;
+}
+
+i.green:before {
+    color: green;
+}
+
+td.book {
+    min-width: 10rem;
+    font-weight: 600;
+}
+
+td.rank {
+    min-width: 8rem;
+}
+
+td.chapter, td.verse {
+    text-align: center;
+}
