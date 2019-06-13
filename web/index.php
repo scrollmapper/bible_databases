@@ -29,7 +29,7 @@ $references = $search->search($searchString, $selectedVersion);
         <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
         <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
-
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
         <link rel="stylesheet" href="bible.css">
     </head>
     <body>
@@ -119,7 +119,10 @@ $references = $search->search($searchString, $selectedVersion);
                 </tbody>
             </table>
             <script>
-				window.$('#references').DataTable({paging: true, pageLength: 10, deferRender: true, language: {search: 'filter:'}});
+				$(document).ready(function() {
+					window.$('#references').DataTable({paging: true, pageLength: 10, deferRender: true, language: {search: 'filter:'}});
+					$('#references').mark('<?= $searchString ?>');
+				});
             </script>
             <?php
         }
