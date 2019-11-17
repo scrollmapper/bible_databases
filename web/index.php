@@ -80,7 +80,6 @@
 
 		<main>
 			<?php 
-
 				//return results
 				foreach ($references as $r) {
 							
@@ -107,9 +106,7 @@
 					}
 					$stmt->close();
 				}
-
 				$mysqli->close();
-
 			?>
 		</main>
 	</body>
