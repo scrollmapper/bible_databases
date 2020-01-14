@@ -1,1 +1,90 @@
-{"resultset": {"row": [{"field": ["001", "t_asv", "ASV", "english", "American Standard-ASV1901", "http://en.wikipedia.org/wiki/American_Standard_Version", "Public Domain"]}, {"field": ["002", "t_bbe", "BBE", "english", "Bible in Basic English", "http://en.wikipedia.org/wiki/Bible_in_Basic_English", "Public Domain"]}, {"field": ["003", "t_dby", "DARBY", "english", "Darby English Bible", "http://en.wikipedia.org/wiki/Darby_Bible", "Public Domain"]}, {"field": ["004", "t_kjv", "KJV", "english", "King James Version", "http://en.wikipedia.org/wiki/King_James_Version", "Public Domain"]}, {"field": ["005", "t_wbt", "WBT", "english", "Webster's Bible", "http://en.wikipedia.org/wiki/Webster%27s_Revision", "Public Domain"]}, {"field": ["006", "t_web", "WEB", "english", "World English Bible", "http://en.wikipedia.org/wiki/World_English_Bible", "Public Domain"]}, {"field": ["007", "t_ylt", "YLT", "english", "Young's Literal Translation", "http://en.wikipedia.org/wiki/Young%27s_Literal_Translation", "Public Domain"]}]}}
+{
+    "resultset": {
+        "row": [
+            {
+                "field": [
+                    "001",
+                    "t_asv",
+                    "ASV",
+                    "english",
+                    "American Standard Version",
+                    "https://en.wikipedia.org/wiki/American_Standard_Version",
+                    "Public Domain",
+                    "The Revised Version, Standard American Edition of the Bible, more commonly known as the American Standard Version (ASV), is a Bible translation into English that was completed in 1901, with the publication of the revision of the Old Testament; the revised New Testament had been released in 1900. It was originally best known by its full name, but soon came to have other names, such as the American Revised Version, the American Standard Revision, the American Standard Revised Bible, and the American Standard Edition. By the time its copyright was renewed in 1929, it had come to be known by its present name, the American Standard Version. Because of its prominence in seminaries, it was sometimes simply called the \"Standard Bible\" in the United States."
+                ]
+            },
+            {
+                "field": [
+                    "002",
+                    "t_bbe",
+                    "BBE",
+                    "english",
+                    "Bible in Basic English",
+                    "https://en.wikipedia.org/wiki/Bible_in_Basic_English",
+                    "Public Domain",
+                    "The Bible In Basic English (also known as BBE) is a translation of the Bible into Basic English. The BBE was translated by Professor S. H. Hooke using the standard 850 Basic English words. 100 words that were helpful to understand poetry were added along with 50 'Bible' words for a total of 1,000 words. This version is effective in communicating the Bible to those with limited education or where English is a second language. The New Testament was released in 1941 and the Old Testament was released in 1949"
+                ]
+            },
+            {
+                "field": [
+                    "003",
+                    "t_dby",
+                    "DARBY",
+                    "english",
+                    "Darby English Bible",
+                    "https://en.wikipedia.org/wiki/Darby_Bible",
+                    "Public Domain",
+                    "The Darby Bible (DBY, formal title The Holy Scriptures: A New Translation from the Original Languages by J. N. Darby) refers to the Bible as translated from Hebrew and Greek by John Nelson Darby. Darby published a translation of the New Testament in 1867, with revised editions in 1872 and 1884. After his death, some of his students produced an Old Testament translation based on Darby's French and German translations (see below). The complete Darby Bible, including Darby's 3rd edition New Testament and his students' Old Testament, was first published in 1890."
+                ]
+            },
+            {
+                "field": [
+                    "004",
+                    "t_kjv",
+                    "KJV",
+                    "english",
+                    "King James Version",
+                    "https://en.wikipedia.org/wiki/King_James_Version",
+                    "Public Domain",
+                    "The King James Version (KJV), also known as the King James Bible (KJB) or simply the Authorized Version (AV), is an English translation of the Christian Bible for the Church of England, begun in 1604 and completed as well as published in 1611 under the sponsorship of James VI and I.[a][b] The books of the King James Version include the 39 books of the Old Testament, an intertestamental section containing 14 books of the Apocrypha, and the 27 books of the New Testament. The translation is noted for its \"majesty of style\", and has been described as one of the most important books in English culture[2] and a driving force in the shaping of the English-speaking world."
+                ]
+            },
+            {
+                "field": [
+                    "005",
+                    "t_wbt",
+                    "WBT",
+                    "english",
+                    "Webster's Bible",
+                    "https://en.wikipedia.org/wiki/Webster%27s_Revision",
+                    "Public Domain",
+                    "Noah Webster's 1833 limited revision of the King James Version focused mainly on replacing archaic words and making simple grammatical changes. For example: \"why\" instead of \"wherefore\", \"its\" instead of \"his\" when referring to nonliving things, \"male child\" instead of \"manchild\", etc. He also introduced euphemisms to remove words he found offensive: \"whore\" becomes \"lewd woman\" and changed some of the spelling of the 1611 version, some of which had been changed by British usage since 1611 and others that he himself had deliberately changed in his dictionary to reflect an American identity over a British one. Overall, very few changes were made, and the result is a book which is almost indistinguishable from the King James Version. It has sometimes been called the \"Common Version\" (which is not to be confused with the Common Bible of 1973, an ecumenical edition of the Revised Standard Version)."
+                ]
+            },
+            {
+                "field": [
+                    "006",
+                    "t_web",
+                    "WEB",
+                    "english",
+                    "World English Bible",
+                    "https://en.wikipedia.org/wiki/World_English_Bible",
+                    "Public Domain",
+                    "The World English Bible (also known as the WEB) is a free updated revision of the American Standard Version (1901). It is one of the few public domain, present-day English translations of the entire Bible, and it is freely distributed to the public using electronic formats. The Bible was created by volunteers using the ASV as the base text as part of the ebible.org project through Rainbow Missions, Inc., a Colorado nonprofit corporation."
+                ]
+            },
+            {
+                "field": [
+                    "007",
+                    "t_ylt",
+                    "YLT",
+                    "english",
+                    "Young's Literal Translation",
+                    "https://en.wikipedia.org/wiki/Young%27s_Literal_Translation",
+                    "Public Domain",
+                    "Young's Literal Translation (YLT) is a translation of the Bible into English, published in 1862. The translation was made by Robert Young, compiler of Young's Analytical Concordance to the Bible and Concise Critical Comments on the New Testament. Young used the Textus Receptus (TR) and the Masoretic Text (MT) as the basis for his translation. He wrote in the preface to the first edition, \"It has been no part of the Translator's plan to attempt to form a New Hebrew or Greek Text—he has therefore somewhat rigidly adhered to the received ones.\""
+                ]
+            }
+        ]
+    }
+}
