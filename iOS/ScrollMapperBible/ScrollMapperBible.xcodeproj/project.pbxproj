@@ -24,6 +24,7 @@
 		52D57C7524B3A9A1001D4E4D /* ScrollMapperBibleBookInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C7424B3A9A1001D4E4D /* ScrollMapperBibleBookInfo.swift */; };
 		52D57C7724B3C59F001D4E4D /* ScrollMapperBibleCrossReference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C7624B3C59F001D4E4D /* ScrollMapperBibleCrossReference.swift */; };
 		52D57C7924B3C97A001D4E4D /* ScrollMapperBibleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C7824B3C97A001D4E4D /* ScrollMapperBibleText.swift */; };
+		52D57C7B24B3F947001D4E4D /* tricks.md in Resources */ = {isa = PBXBuildFile; fileRef = 52D57C7A24B3F947001D4E4D /* tricks.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		52D57C7424B3A9A1001D4E4D /* ScrollMapperBibleBookInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleBookInfo.swift; sourceTree = "<group>"; };
 		52D57C7624B3C59F001D4E4D /* ScrollMapperBibleCrossReference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleCrossReference.swift; sourceTree = "<group>"; };
 		52D57C7824B3C97A001D4E4D /* ScrollMapperBibleText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleText.swift; sourceTree = "<group>"; };
+		52D57C7A24B3F947001D4E4D /* tricks.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = tricks.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,8 +195,9 @@
 			isa = PBXGroup;
 			children = (
 				52D57C6224ACDD88001D4E4D /* bible-sqlite.db */,
-				52D57C6324ACDD88001D4E4D /* readme.md */,
 				52D57C6424ACDD88001D4E4D /* book_info.sql */,
+				52D57C6324ACDD88001D4E4D /* readme.md */,
+				52D57C7A24B3F947001D4E4D /* tricks.md */,
 			);
 			path = ScrollMapperBible;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 			files = (
 				52D57C6524ACDD88001D4E4D /* bible-sqlite.db in Resources */,
 				52D57C3A24ACDAE5001D4E4D /* LaunchScreen.storyboard in Resources */,
+				52D57C7B24B3F947001D4E4D /* tricks.md in Resources */,
 				52D57C3724ACDAE5001D4E4D /* Preview Assets.xcassets in Resources */,
 				52D57C6624ACDD88001D4E4D /* readme.md in Resources */,
 				52D57C3424ACDAE5001D4E4D /* Assets.xcassets in Resources */,
