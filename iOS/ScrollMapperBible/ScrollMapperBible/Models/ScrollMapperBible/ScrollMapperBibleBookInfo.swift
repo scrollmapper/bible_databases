@@ -1,0 +1,184 @@
+//
+//  ScrollMapperBibleBookInfo.swift
+//  ScrollMapperBible
+//
+//  Created by Zhengqian Kuang on 2020-07-06.
+//  Copyright © 2020 Kuang. All rights reserved.
+//
+
+import Foundation
+import SQLite3
+
+public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
+    public enum BibleOTNT {
+        case OT(title: String = "Old Testament", chapters: Int = 39)
+        case NT(title: String = "New Testament", chapters: Int = 27)
+    }
+    
+    public enum BibleBook: Int {
+        static let books: [BookInfo] = {
+            if let books = ScrollMapperBibleBookInfo()?.result {
+                return books
+            }
+            return []
+        }()
+        
+        case Genesis = 1
+        case Exodus = 2
+        case Leviticus = 3
+        case Numbers = 4
+        case Deuteronomy = 5
+        
+        case Joshua = 6
+        case Judges = 7
+        case Ruth = 8
+        case Samuel1 = 9
+        case Samuel2 = 10
+        case Kings1 = 11
+        case Kings2 = 12
+        case Chronicles1 = 13
+        case Chronicles2 = 14
+        case Ezra = 15
+        case Nehemiah = 16
+        case Esther = 17
+        
+        case Job = 18
+        case Psalms = 19
+        case Proverbs = 20
+        case Ecclesiastes = 21
+        case Song = 22
+        
+        case Isaiah = 23
+        case Jeremiah = 24
+        case Lamentations = 25
+        case Ezekiel = 26
+        case Daniel = 27
+        
+        case Hosea = 28
+        case Joel = 29
+        case Amos = 30
+        case Obadiah = 31
+        case Jonah = 32
+        case Micah = 33
+        case Nahum = 34
+        case Habakkuk = 35
+        case Zephaniah = 36
+        case Haggai = 37
+        case Zechariah = 38
+        case Malachi = 39
+        
+        case Matthew = 40
+        case Mark = 41
+        case Luke = 42
+        case John = 43
+        case Acts = 44
+        
+        case Romans = 45
+        case Corinthians1 = 46
+        case Corinthians2 = 47
+        case Galatians = 48
+        case Ephesians = 49
+        case Philippians = 50
+        case Colossians = 51
+        case Thessalonians1 = 52
+        case Thessalonians2 = 53
+        case Timothy1 = 54
+        case Timothy2 = 55
+        case Titus = 56
+        case Philemon = 57
+        
+        case Hebrews = 58
+        case James = 59
+        case Peter1 = 60
+        case Peter2 = 61
+        case John1 = 62
+        case John2 = 63
+        case John3 = 64
+        case Jude = 65
+        case Revelation = 66
+        
+        public func order() -> Int {
+            return self.rawValue
+        }
+        
+        public func titleShort() -> String {
+            let book = BibleBook.books.first { $0.order == self.order() }
+            return book?.title_short ?? ""
+        }
+        
+        public func titleFull() -> String {
+            let book = BibleBook.books.first { $0.order == self.order() }
+            return book?.title_full ?? ""
+        }
+        
+        public func abbreviation() -> String {
+            let book = BibleBook.books.first { $0.order == self.order() }
+            return book?.abbreviation ?? ""
+        }
+        
+        public func category() -> String {
+            let book = BibleBook.books.first { $0.order == self.order() }
+            return book?.category ?? ""
+        }
+        
+        public func otnt() -> String {
+            let book = BibleBook.books.first { $0.order == self.order() }
+            return book?.otnt ?? ""
+        }
+        
+        public func chapters() -> Int {
+            let book = BibleBook.books.first { $0.order == self.order() }
+            return book?.chapters ?? 0
+        }
+    }
+    
+    public typealias StructType = BookInfo
+    
+    public struct BookInfo {
+        var order: Int = 0
+        var title_short: String = ""
+        var title_full: String = ""
+        var abbreviation: String = ""
+        var category: String = ""
+        var otnt: String = ""
+        var chapters: Int = 0
+    }
+    
+    public lazy var result: [StructType] = {
+        return getResult()
+    }()
+    
+    public required init?(statement: String = "SELECT * FROM book_info") {
+        super.init(statement: statement)
+    }
+    
+    private func getResult() -> [StructType] {
+        guard let queryStatement =  queryStatement else {
+            return []
+        }
+        var result: [StructType] = []
+        while sqlite3_step(queryStatement) == SQLITE_ROW {
+            let order = sqlite3_column_int(queryStatement, 0)
+            guard
+                let title_short = sqlite3_column_text(queryStatement, 1),
+                let title_full = sqlite3_column_text(queryStatement, 2),
+                let abbreviation = sqlite3_column_text(queryStatement, 3),
+                let category = sqlite3_column_text(queryStatement, 4),
+                let otnt = sqlite3_column_text(queryStatement, 5)
+            else {
+                continue
+            }
+            let chapters = sqlite3_column_int(queryStatement, 6)
+            let row = StructType(order: Int(order), title_short: String(cString: title_short), title_full: String(cString: title_full), abbreviation: String(cString: abbreviation), category: String(cString: category), otnt: String(cString: otnt), chapters: Int(chapters))
+            result.append(row)
+        }
+        return result.sorted { $0.order < $1.order }
+    }
+    
+    public static func test() {
+        print("testScrollMapperBibleBookInfo")
+        let _ = ScrollMapperBibleBookInfo()?.result.map {
+            print("\($0.order), \($0.title_short), \($0.title_full), \($0.abbreviation), \($0.category), \($0.otnt)")
+        }
+    }
+}

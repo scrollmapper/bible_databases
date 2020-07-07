@@ -14,7 +14,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
         // Override point for customization after application launch.
+        test()
+        
         return true
     }
 
@@ -33,5 +36,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
+}
+
+// MARK: - custom
+
+extension AppDelegate {
+    func test() {
+        ScrollMapperBibleVersion.test()
+        ScrollMapperBibleBookInfo.test()
+        ScrollMapperBibleCrossReference.test()
+        
+        print("*** ASV: \(ScrollMapperBibleVersion.BibleVersion.ASV.table() ?? "<nil>")")
+        print("*** BBE: \(ScrollMapperBibleVersion.BibleVersion.BBE.table() ?? "<nil>")")
+        print("*** DARBY: \(ScrollMapperBibleVersion.BibleVersion.DARBY.table() ?? "<nil>")")
+        print("*** KJV: \(ScrollMapperBibleVersion.BibleVersion.KJV.table() ?? "<nil>")")
+        print("*** WBT: \(ScrollMapperBibleVersion.BibleVersion.WBT.table() ?? "<nil>")")
+        print("*** WEB: \(ScrollMapperBibleVersion.BibleVersion.WEB.table() ?? "<nil>")")
+        print("*** YLT: \(ScrollMapperBibleVersion.BibleVersion.YLT.table() ?? "<nil>")")
+        
+        print("*** Genesis: \(ScrollMapperBibleBookInfo.BibleBook.Genesis.order()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.titleShort()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.titleFull()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.abbreviation()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.category()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.otnt()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.chapters())")
+    }
 }
 
