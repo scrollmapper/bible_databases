@@ -28,6 +28,25 @@ public class ScrollMapperBibleVersion: ScrollMapperBibleModelBase {
             let version = BibleVersion.versions.first { $0.abbreviation == self.abbreviation() }
             return version?.table
         }
+        
+        public func next() -> BibleVersion {
+            switch self {
+            case .ASV:
+                return .BBE
+            case .BBE:
+                return .DARBY
+            case .DARBY:
+                return .KJV
+            case .KJV:
+                return .WBT
+            case .WBT:
+                return .WEB
+            case .WEB:
+                return .YLT
+            case .YLT:
+                return .ASV
+            }
+        }
     }
     
     public typealias StructType = BibleVersionKey

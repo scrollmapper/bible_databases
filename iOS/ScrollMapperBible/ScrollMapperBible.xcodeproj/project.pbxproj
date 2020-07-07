@@ -7,9 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		522AF64B24B510B000FE503C /* ScrollMapperBiblePublishers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF64A24B510B000FE503C /* ScrollMapperBiblePublishers.swift */; };
+		522AF65324B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF64F24B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift */; };
+		522AF65424B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF65024B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift */; };
 		52D57C2E24ACDAE5001D4E4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */; };
 		52D57C3024ACDAE5001D4E4D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */; };
-		52D57C3224ACDAE5001D4E4D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C3124ACDAE5001D4E4D /* ContentView.swift */; };
 		52D57C3424ACDAE5001D4E4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52D57C3324ACDAE5001D4E4D /* Assets.xcassets */; };
 		52D57C3724ACDAE5001D4E4D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52D57C3624ACDAE5001D4E4D /* Preview Assets.xcassets */; };
 		52D57C3A24ACDAE5001D4E4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52D57C3824ACDAE5001D4E4D /* LaunchScreen.storyboard */; };
@@ -26,6 +28,16 @@
 		52D57C7924B3C97A001D4E4D /* ScrollMapperBibleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C7824B3C97A001D4E4D /* ScrollMapperBibleText.swift */; };
 		52D57C7B24B3F947001D4E4D /* tricks.md in Resources */ = {isa = PBXBuildFile; fileRef = 52D57C7A24B3F947001D4E4D /* tricks.md */; };
 		52D57C7D24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C7C24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift */; };
+		52D57C8324B4BB20001D4E4D /* ScrollMapperBibleMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C8124B4BB20001D4E4D /* ScrollMapperBibleMainView.swift */; };
+		52D57C8424B4BB20001D4E4D /* ScrollMapperBibleMainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C8224B4BB20001D4E4D /* ScrollMapperBibleMainViewModel.swift */; };
+		52D57C9324B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C8F24B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift */; };
+		52D57C9424B4BBE9001D4E4D /* ScrollMapperBibleSettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9024B4BBE9001D4E4D /* ScrollMapperBibleSettingsViewModel.swift */; };
+		52D57C9924B4BC0A001D4E4D /* JKCSUIShared.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9524B4BC0A001D4E4D /* JKCSUIShared.swift */; };
+		52D57C9A24B4BC0A001D4E4D /* JKCSShared.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9624B4BC0A001D4E4D /* JKCSShared.swift */; };
+		52D57C9B24B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9724B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift */; };
+		52D57C9C24B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9824B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift */; };
+		52D57CA024B4CA09001D4E4D /* BundleExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9F24B4CA09001D4E4D /* BundleExtensions.swift */; };
+		52D57CA224B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57CA124B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,10 +58,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		522AF64A24B510B000FE503C /* ScrollMapperBiblePublishers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBiblePublishers.swift; sourceTree = "<group>"; };
+		522AF64F24B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTranslationsView.swift; sourceTree = "<group>"; };
+		522AF65024B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTranslationsViewModel.swift; sourceTree = "<group>"; };
 		52D57C2A24ACDAE5001D4E4D /* ScrollMapperBible.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollMapperBible.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		52D57C3124ACDAE5001D4E4D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		52D57C3324ACDAE5001D4E4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52D57C3624ACDAE5001D4E4D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		52D57C3924ACDAE5001D4E4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -71,6 +85,16 @@
 		52D57C7824B3C97A001D4E4D /* ScrollMapperBibleText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleText.swift; sourceTree = "<group>"; };
 		52D57C7A24B3F947001D4E4D /* tricks.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = tricks.md; sourceTree = "<group>"; };
 		52D57C7C24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleChapter.swift; sourceTree = "<group>"; };
+		52D57C8124B4BB20001D4E4D /* ScrollMapperBibleMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleMainView.swift; sourceTree = "<group>"; };
+		52D57C8224B4BB20001D4E4D /* ScrollMapperBibleMainViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleMainViewModel.swift; sourceTree = "<group>"; };
+		52D57C8F24B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleSettingsView.swift; sourceTree = "<group>"; };
+		52D57C9024B4BBE9001D4E4D /* ScrollMapperBibleSettingsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleSettingsViewModel.swift; sourceTree = "<group>"; };
+		52D57C9524B4BC0A001D4E4D /* JKCSUIShared.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JKCSUIShared.swift; sourceTree = "<group>"; };
+		52D57C9624B4BC0A001D4E4D /* JKCSShared.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JKCSShared.swift; sourceTree = "<group>"; };
+		52D57C9724B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTextView.swift; sourceTree = "<group>"; };
+		52D57C9824B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTextViewModel.swift; sourceTree = "<group>"; };
+		52D57C9F24B4CA09001D4E4D /* BundleExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleExtensions.swift; sourceTree = "<group>"; };
+		52D57CA124B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBiblePreferences.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +122,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		522AF64C24B51F6E00FE503C /* Translations */ = {
+			isa = PBXGroup;
+			children = (
+				522AF64F24B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift */,
+				522AF65024B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift */,
+			);
+			path = Translations;
+			sourceTree = "<group>";
+		};
 		52D57C2124ACDAE4001D4E4D = {
 			isa = PBXGroup;
 			children = (
@@ -121,6 +154,7 @@
 		52D57C2C24ACDAE5001D4E4D /* ScrollMapperBible */ = {
 			isa = PBXGroup;
 			children = (
+				52D57C9E24B4C9F8001D4E4D /* Extensions */,
 				52D57C5F24ACDBFF001D4E4D /* Facilities */,
 				52D57C5D24ACDBDE001D4E4D /* Models */,
 				52D57C6024ACDD0A001D4E4D /* Resources */,
@@ -128,7 +162,6 @@
 				52D57C5E24ACDBE7001D4E4D /* Views */,
 				52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */,
 				52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */,
-				52D57C3124ACDAE5001D4E4D /* ContentView.swift */,
 				52D57C3324ACDAE5001D4E4D /* Assets.xcassets */,
 				52D57C3824ACDAE5001D4E4D /* LaunchScreen.storyboard */,
 				52D57C3B24ACDAE5001D4E4D /* Info.plist */,
@@ -174,6 +207,10 @@
 		52D57C5E24ACDBE7001D4E4D /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				52D57C7E24B4BAEA001D4E4D /* Main */,
+				52D57C7F24B4BAF5001D4E4D /* Bible */,
+				52D57C8024B4BB00001D4E4D /* Settings */,
+				522AF64C24B51F6E00FE503C /* Translations */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,6 +218,10 @@
 		52D57C5F24ACDBFF001D4E4D /* Facilities */ = {
 			isa = PBXGroup;
 			children = (
+				52D57C9524B4BC0A001D4E4D /* JKCSUIShared.swift */,
+				52D57C9624B4BC0A001D4E4D /* JKCSShared.swift */,
+				52D57CA124B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift */,
+				522AF64A24B510B000FE503C /* ScrollMapperBiblePublishers.swift */,
 			);
 			path = Facilities;
 			sourceTree = "<group>";
@@ -239,6 +280,41 @@
 				52D57C7C24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift */,
 			);
 			path = ScrollMapperBible;
+			sourceTree = "<group>";
+		};
+		52D57C7E24B4BAEA001D4E4D /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				52D57C8124B4BB20001D4E4D /* ScrollMapperBibleMainView.swift */,
+				52D57C8224B4BB20001D4E4D /* ScrollMapperBibleMainViewModel.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		52D57C7F24B4BAF5001D4E4D /* Bible */ = {
+			isa = PBXGroup;
+			children = (
+				52D57C9724B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift */,
+				52D57C9824B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift */,
+			);
+			path = Bible;
+			sourceTree = "<group>";
+		};
+		52D57C8024B4BB00001D4E4D /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				52D57C8F24B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift */,
+				52D57C9024B4BBE9001D4E4D /* ScrollMapperBibleSettingsViewModel.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		52D57C9E24B4C9F8001D4E4D /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				52D57C9F24B4CA09001D4E4D /* BundleExtensions.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -376,16 +452,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52D57C9A24B4BC0A001D4E4D /* JKCSShared.swift in Sources */,
+				522AF64B24B510B000FE503C /* ScrollMapperBiblePublishers.swift in Sources */,
+				52D57C9324B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift in Sources */,
 				52D57C7D24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift in Sources */,
+				522AF65324B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift in Sources */,
+				52D57CA224B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift in Sources */,
 				52D57C6C24B360CD001D4E4D /* JKCSSQLite.swift in Sources */,
 				52D57C2E24ACDAE5001D4E4D /* AppDelegate.swift in Sources */,
+				52D57CA024B4CA09001D4E4D /* BundleExtensions.swift in Sources */,
 				52D57C7324B3A900001D4E4D /* ScrollMapperBibleModelBase.swift in Sources */,
 				52D57C7724B3C59F001D4E4D /* ScrollMapperBibleCrossReference.swift in Sources */,
 				52D57C3024ACDAE5001D4E4D /* SceneDelegate.swift in Sources */,
-				52D57C3224ACDAE5001D4E4D /* ContentView.swift in Sources */,
+				52D57C9C24B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift in Sources */,
+				52D57C9B24B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift in Sources */,
+				522AF65424B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift in Sources */,
+				52D57C9924B4BC0A001D4E4D /* JKCSUIShared.swift in Sources */,
+				52D57C8324B4BB20001D4E4D /* ScrollMapperBibleMainView.swift in Sources */,
+				52D57C9424B4BBE9001D4E4D /* ScrollMapperBibleSettingsViewModel.swift in Sources */,
 				52D57C6F24B39B72001D4E4D /* ScrollMapperBibleVersion.swift in Sources */,
 				52D57C7524B3A9A1001D4E4D /* ScrollMapperBibleBookInfo.swift in Sources */,
 				52D57C7924B3C97A001D4E4D /* ScrollMapperBibleText.swift in Sources */,
+				52D57C8424B4BB20001D4E4D /* ScrollMapperBibleMainViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
