@@ -10,19 +10,19 @@ import Foundation
 import SQLite3
 
 public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
+    static let books: [BookInfo] = {
+        if let books = ScrollMapperBibleBookInfo()?.result {
+            return books
+        }
+        return []
+    }()
+    
     public enum BibleOTNT {
         case OT(title: String = "Old Testament", chapters: Int = 39)
         case NT(title: String = "New Testament", chapters: Int = 27)
     }
     
-    public enum BibleBook: Int {
-        static let books: [BookInfo] = {
-            if let books = ScrollMapperBibleBookInfo()?.result {
-                return books
-            }
-            return []
-        }()
-        
+    public enum BibleBook: Int, CaseIterable {
         case Genesis = 1
         case Exodus = 2
         case Leviticus = 3
@@ -97,38 +97,13 @@ public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
         case Jude = 65
         case Revelation = 66
         
+        public func bookInfo() -> BookInfo? {
+            let book = ScrollMapperBibleBookInfo.books.first { $0.order == self.order() }
+            return book
+        }
+        
         public func order() -> Int {
             return self.rawValue
-        }
-        
-        public func titleShort() -> String {
-            let book = BibleBook.books.first { $0.order == self.order() }
-            return book?.title_short ?? ""
-        }
-        
-        public func titleFull() -> String {
-            let book = BibleBook.books.first { $0.order == self.order() }
-            return book?.title_full ?? ""
-        }
-        
-        public func abbreviation() -> String {
-            let book = BibleBook.books.first { $0.order == self.order() }
-            return book?.abbreviation ?? ""
-        }
-        
-        public func category() -> String {
-            let book = BibleBook.books.first { $0.order == self.order() }
-            return book?.category ?? ""
-        }
-        
-        public func otnt() -> String {
-            let book = BibleBook.books.first { $0.order == self.order() }
-            return book?.otnt ?? ""
-        }
-        
-        public func chapters() -> Int {
-            let book = BibleBook.books.first { $0.order == self.order() }
-            return book?.chapters ?? 0
         }
     }
     
@@ -142,6 +117,29 @@ public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
         var category: String = ""
         var otnt: String = ""
         var chapters: Int = 0
+        
+        init(order: Int, title_short: String, title_full: String, abbreviation: String, category: String, otnt: String, chapters: Int) {
+            self.order = order
+            self.title_short = title_short
+            self.title_full = title_full
+            self.abbreviation = abbreviation
+            self.category = category
+            self.otnt = otnt
+            self.chapters = chapters
+        }
+        
+        init?(order: Int) {
+            guard let book = ScrollMapperBibleBookInfo.books.first(where: { (bookInfo) -> Bool in
+                bookInfo.order == order
+            }) else { return nil }
+            self.order = book.order
+            title_short = book.title_short
+            title_full = book.title_full
+            abbreviation = book.abbreviation
+            category = book.category
+            otnt = book.otnt
+            chapters = book.chapters
+        }
     }
     
     public lazy var result: [StructType] = {

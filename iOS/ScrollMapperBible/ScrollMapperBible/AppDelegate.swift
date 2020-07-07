@@ -45,6 +45,8 @@ extension AppDelegate {
         ScrollMapperBibleVersion.test()
         ScrollMapperBibleBookInfo.test()
         ScrollMapperBibleCrossReference.test()
+        ScrollMapperBibleText.test()
+        ScrollMapperBibleChapter.test()
         
         print("*** ASV: \(ScrollMapperBibleVersion.BibleVersion.ASV.table() ?? "<nil>")")
         print("*** BBE: \(ScrollMapperBibleVersion.BibleVersion.BBE.table() ?? "<nil>")")
@@ -54,7 +56,7 @@ extension AppDelegate {
         print("*** WEB: \(ScrollMapperBibleVersion.BibleVersion.WEB.table() ?? "<nil>")")
         print("*** YLT: \(ScrollMapperBibleVersion.BibleVersion.YLT.table() ?? "<nil>")")
         
-        print("*** Genesis: \(ScrollMapperBibleBookInfo.BibleBook.Genesis.order()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.titleShort()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.titleFull()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.abbreviation()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.category()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.otnt()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.chapters())")
+        print("*** Genesis: \(ScrollMapperBibleBookInfo.BibleBook.Genesis.order()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.title_short ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.title_full ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.abbreviation ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.category ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.otnt ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.chapters ?? 0)")
     }
 }
 

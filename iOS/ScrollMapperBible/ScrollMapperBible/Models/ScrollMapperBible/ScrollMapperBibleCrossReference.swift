@@ -23,7 +23,18 @@ public class ScrollMapperBibleCrossReference: ScrollMapperBibleModelBase {
         return getResult()
     }()
     
-    public required init?(statement: String = "SELECT * FROM cross_reference") {
+    public required init?(statement: String) {
+        super.init(statement: statement)
+    }
+    
+    public init?(book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verse: Int) {
+        let vid = book.order() * 1_000_000 + chapter * 1_000 + verse
+        let statement = "SELECT * FROM cross_reference WHERE vid = \(vid)"
+        super.init(statement: statement)
+    }
+    
+    public init?(vid: Int) {
+        let statement = "SELECT * FROM cross_reference WHERE vid = \(vid)"
         super.init(statement: statement)
     }
     
@@ -44,9 +55,21 @@ public class ScrollMapperBibleCrossReference: ScrollMapperBibleModelBase {
     }
     
     public static func test() {
-        print("testScrollMapperBibleCrossReference")
-        let _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE vid = 1001001")?.result.map {
-            print("vid: \($0.vid), r: \($0.r), sv: \($0.sv), ev: \($0.ev)")
+        print("testScrollMapperBibleCrossReference 1001001")
+        let _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE vid = 1001001")?.result.compactMap { crossReference -> CrossReference? in
+            print("vid: \(crossReference.vid), r: \(crossReference.r), sv: \(crossReference.sv), ev: \(crossReference.ev)")
+            return nil
+        }
+        
+        print("Cross references that run across books")
+        let _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE ev > 0")?.result.compactMap { crossReference -> CrossReference? in
+            let bookStart = crossReference.sv / 1_000_000
+            let bookEnd = crossReference.ev / 1_000_000
+            if bookEnd > bookStart {
+                print("vid: \(crossReference.vid), r: \(crossReference.r), sv: \(crossReference.sv), ev: \(crossReference.ev)")
+                return crossReference
+            }
+            return nil
         }
     }
 }

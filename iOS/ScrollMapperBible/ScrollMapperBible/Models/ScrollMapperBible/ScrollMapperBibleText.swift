@@ -24,13 +24,64 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         return getResult()
     }()
     
-    public required init?(version: ScrollMapperBibleVersion.BibleVersion, book: ScrollMapperBibleBookInfo.BibleBook, chapter: Range<Int>, verses: Range<Int>) {
-        let statement = "SELECT * FROM"
+    public required init?(statement: String) {
         super.init(statement: statement)
     }
     
-    public required init?(statement: String) {
-        fatalError("init(statement:) has not been implemented")
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, vidStart: Int, vidEnd: Int) {
+        guard let table = version.table() else {
+            return nil
+        }
+        let statement = "SELECT * FROM \(table) WHERE id >= \(vidStart) AND id <= \(vidEnd)"
+        super.init(statement: statement)
+    }
+    
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int) {
+        guard let table = version.table() else {
+            return nil
+        }
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter)"
+        super.init(statement: statement)
+    }
+    
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verseFrom: Int) {
+        guard let table = version.table() else {
+            return nil
+        }
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseFrom)"
+        super.init(statement: statement)
+    }
+    
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verseUntil: Int) {
+        guard let table = version.table() else {
+            return nil
+        }
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v < \(verseUntil)"
+        super.init(statement: statement)
+    }
+    
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verseThrough: Int) {
+        guard let table = version.table() else {
+            return nil
+        }
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v <= \(verseThrough)"
+        super.init(statement: statement)
+    }
+    
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verseRange: Range<Int>) {
+        guard let table = version.table() else {
+            return nil
+        }
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseRange.lowerBound) AND v < \(verseRange.upperBound)"
+        super.init(statement: statement)
+    }
+    
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verseRangeClosed: ClosedRange<Int>) {
+        guard let table = version.table() else {
+            return nil
+        }
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseRangeClosed.lowerBound) AND v <= \(verseRangeClosed.upperBound)"
+        super.init(statement: statement)
     }
     
     private func getResult() -> [StructType] {
@@ -53,9 +104,39 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
     }
     
     public static func test() {
-        print("testScrollMapperBibleCrossReference")
-        let _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE vid = 1001001")?.result.map {
-            print("vid: \($0.vid), r: \($0.r), sv: \($0.sv), ev: \($0.ev)")
+        print("testScrollMapperBibleText 63001001~64001015")
+        let _ = ScrollMapperBibleText(version: .KJV, vidStart: 63001001, vidEnd: 64001015)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText [Matthew 28]")
+        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText [Matthew 28:16-]")
+        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseFrom: 16)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText [Matthew 28:-<16]")
+        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseUntil: 16)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText [Matthew 28:-15]")
+        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseThrough: 15)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText [Matthew 28:1-<16]")
+        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseRange: 1..<16)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText [Matthew 28:1-15]")
+        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseRangeClosed: 1...15)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
         }
     }
 }
