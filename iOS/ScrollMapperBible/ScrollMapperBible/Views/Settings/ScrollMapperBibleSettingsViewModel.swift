@@ -9,37 +9,20 @@
 import Foundation
 import Combine
 
-class ScrollMapperBibleSettingsViewModel: ObservableObject {
-    var translationSubscriber: AnyCancellable? = nil
-    var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
-        didSet {
-            if translation != oldValue {
-                setupListData()
-            }
-        }
-    }
+class ScrollMapperBibleSettingsViewModel: ScrollMapperBibleViewModelBase {
     
-    init() {
-        subscribe()
+    override init() {
+        super.init()
         
         DispatchQueue.main.async {
             self.setupListData()
         }
     }
     
-    deinit {
-        unsubscribe()
-    }
-    
-    func subscribe() {
-        translationSubscriber = scrollMapperBiblePublishers.tranlationPublisher.sink(receiveValue: { [weak self] (translation) in
-            self?.translation = translation
-        })
-    }
-    
-    func unsubscribe() {
-        translationSubscriber?.cancel()
-        translationSubscriber = nil
+    override func translationDidChange() {
+        super.translationDidChange()
+        
+        setupListData()
     }
     
     struct Section: Identifiable {

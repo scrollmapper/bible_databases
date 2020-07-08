@@ -9,89 +9,71 @@
 import Foundation
 import Combine
 
-class ScrollMapperBibleTextViewModel: ObservableObject {
-    var viewTitle: String
-    
-    init(viewTitle: String) {
-        self.viewTitle = viewTitle
+class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
+    override init() {
+        super.init()
         
         DispatchQueue.main.async {
             self.setupListData()
         }
     }
     
+    override func translationDidChange() {
+        super.translationDidChange()
+        
+        setupListData()
+    }
+    
     struct Section: Identifiable {
         var id = UUID()
-        var title: String
-        var items: [Item]
+        var bibleChapter: ScrollMapperBibleChapter? = nil
+        var verses: [ScrollMapperBibleText.BibleText] = []
+        var title: String = ""
+        var items: [Item] = [] // each section contains only one item because we join all verses of a chapter into one string
     }
     
     struct Item: Identifiable {
         var id = UUID()
-        var title: String
-        var detail: String? = nil
-        var imageName: JKCSImageName? = nil
-        var navigationLink: Bool = false
+        var text: String = ""
     }
-    
-    static let itemImmediatePushTitle = "Immediate Push"
-    static let itemLoadAndPushTitle = "Load And Push"
-    static let itemAlertAndPushTitle = "Alert And Push"
-    static let itemAlertAndToggleTitle = "Alert And Toggle"
-    static let itemAlertAndPopTitle = "Alert And Pop"
-    static let itemVersionTitle = "Version" // Unclickable
     
     @Published var listData: [Section] = []
     
     private func setupListData() {
-        var listData: [Section] = []
-        listData.append(
-            Section(title: "GENERAL", items: [
-                Item(title: ScrollMapperBibleTextViewModel.itemImmediatePushTitle, imageName: JKCSImageName.system(systemName: "p.circle"), navigationLink: true),
-                Item(title: ScrollMapperBibleTextViewModel.itemLoadAndPushTitle, imageName: JKCSImageName.system(systemName: "l.circle")),
-                Item(title: ScrollMapperBibleTextViewModel.itemAlertAndPushTitle, imageName: JKCSImageName.system(systemName: "a.circle")),
-                Item(title: ScrollMapperBibleTextViewModel.itemAlertAndToggleTitle, imageName: JKCSImageName.system(systemName: "t.circle")),
-                Item(title: ScrollMapperBibleTextViewModel.itemAlertAndPopTitle, imageName: JKCSImageName.system(systemName: "b.circle"))
-            ])
-        )
-        listData.append(
-            Section(title: "ABOUT", items: [
-                Item(title: ScrollMapperBibleTextViewModel.itemVersionTitle, imageName: JKCSImageName.system(systemName: "v.circle")),
-            ])
-        )
-        self.listData = listData
-    }
-    
-    private func version() -> String {
-        return "x.y.z (build)"
-    }
-    
-    var somethingLoaded: [String : String]? = nil
-    
-    private var loadSomethingRequest: AnyCancellable? = nil
-    func loadSomething(completionHandler: @escaping (Result<Any?, JKCSError>) -> ()) {
-        loadSomethingRequest = self.mockingModelLoadSomething().receive(on: RunLoop.main).sink(receiveCompletion: { (completion) in
-            switch completion {
-            case .failure(let error):
-                completionHandler(Result.failure(error))
-            case .finished:
-                self.loadSomethingRequest = nil
-                completionHandler(Result.success(nil))
+        var listData = [Section]()
+        var currentChapter = Section()
+        var currentChapterText = ""
+        var currentB: Int = 0
+        var currentC: Int = 0
+        _ = ScrollMapperBibleText(version: translation, vidStart: 1001001, vidEnd: 66022021)?.result.compactMap({ (bibleText) -> ScrollMapperBibleText.BibleText? in
+            if (bibleText.b != currentB) || (bibleText.c != currentC) {
+                if (currentB != 0) && (currentC != 0) {
+                    currentChapter.bibleChapter = ScrollMapperBibleChapter(b: currentB, c: currentC)
+                    let bookInfo = ScrollMapperBibleBookInfo.BookInfo(order: currentB)
+                    currentChapter.title = "\(bookInfo?.title_short ?? "<nil>") \(currentC)"
+                    let item = Item(text: currentChapterText)
+                    currentChapter.items.append(item)
+                    listData.append(currentChapter)
+                    currentChapter = Section()
+                    currentChapterText = ""
+                }
+                currentB = bibleText.b
+                currentC = bibleText.c
             }
-        }, receiveValue: { (response) in
-            if let result = response["result"] {
-                self.somethingLoaded = result
+            currentChapter.verses.append(bibleText)
+            if currentChapterText.count > 0 {
+                currentChapterText.append(contentsOf: " ")
             }
+            currentChapterText.append(contentsOf: "\(bibleText.v) \(bibleText.t)")
+            return nil
         })
-    }
-    
-    private func mockingModelLoadSomething() -> AnyPublisher<[String : [String : String]], JKCSError> {
-        let success = true
-        return Future<[String : [String : String]], JKCSError> { promise in
-            DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
-                let result = success ? Result.success(["result" : ["result" : "success", "hint": "To trigger the 'Failed to load' case, go to viewModel's mockingModelLoadSomething method, change 'let success = true' to 'let success = false'"]]) : Result.failure(JKCSError.customError(message: "Server side failure\n\nTo trigger the 'Success' case, go to viewModel's mockingModelLoadSomething method, change 'let success = false' to 'let success = true'"))
-                promise(result)
-            }
-        }.eraseToAnyPublisher()
+        currentChapter.bibleChapter = ScrollMapperBibleChapter(b: currentB, c: currentC)
+        let bookInfo = ScrollMapperBibleBookInfo.BookInfo(order: currentB)
+        currentChapter.title = "\(bookInfo?.title_short ?? "<nil>") \(currentC)"
+        let item = Item(text: currentChapterText)
+        currentChapter.items.append(item)
+        listData.append(currentChapter)
+        
+        self.listData = listData
     }
 }
