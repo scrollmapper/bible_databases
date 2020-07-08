@@ -13,9 +13,7 @@ class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
     override init() {
         super.init()
         
-        DispatchQueue.main.async {
-            self.setupListData()
-        }
+        self.setupListData()
     }
     
     override func translationDidChange() {
@@ -45,6 +43,7 @@ class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
         var currentChapterText = ""
         var currentB: Int = 0
         var currentC: Int = 0
+        // vidStart: 1001001, vidEnd: 66022021
         _ = ScrollMapperBibleText(version: translation, vidStart: 1001001, vidEnd: 66022021)?.result.compactMap({ (bibleText) -> ScrollMapperBibleText.BibleText? in
             if (bibleText.b != currentB) || (bibleText.c != currentC) {
                 if (currentB != 0) && (currentC != 0) {

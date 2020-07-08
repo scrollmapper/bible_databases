@@ -13,6 +13,7 @@ struct ScrollMapperBibleTranslationsView: View, ScrollMapperBibleTranslationsVie
     @ObservedObject private var viewModel: ScrollMapperBibleTranslationsViewModel
     @EnvironmentObject var scrollMapperBiblePreferences: ScrollMapperBiblePreferences
     @Environment(\.presentationMode) var presentationMode
+    @State private var showActivityIndicator = false
     @State private var showAlert = false
     @State private var alert: ScrollMapperBibleTranslationsViewAlert = .none {
         didSet {
@@ -27,9 +28,11 @@ struct ScrollMapperBibleTranslationsView: View, ScrollMapperBibleTranslationsVie
     func onAlertActionConfirm(alert: ScrollMapperBibleTranslationsViewAlert) {
         switch alert {
         case .confirmSwitch(let target):
+            self.showActivityIndicator = true
             DispatchQueue.main.async {
                 self.switchTranslation(to: target)
                 self.presentationMode.wrappedValue.dismiss()
+                self.showActivityIndicator = false
             }
         default:
             break
@@ -41,17 +44,27 @@ struct ScrollMapperBibleTranslationsView: View, ScrollMapperBibleTranslationsVie
     }
 
     var body: some View {
-        List {
-            ForEach(viewModel.listData) { section in
-                Section(header: Text(section.title)) {
-                    ForEach(section.items) { item in
-                        self.itemView(item: item)
+        ZStack {
+            List {
+                ForEach(viewModel.listData) { section in
+                    Section(header: Text(section.title)) {
+                        ForEach(section.items) { item in
+                            self.itemView(item: item)
+                        }
                     }
                 }
             }
-        }
-        .alert(isPresented: $showAlert) {
-            return alert.alert(delegate: self)
+            .disabled(showActivityIndicator)
+            .alert(isPresented: $showAlert) {
+                return alert.alert(delegate: self)
+            }
+            
+            if showActivityIndicator {
+                JKCSActivityIndicatorView().startAnimating()
+            }
+            else {
+                JKCSActivityIndicatorView().stopAnimating()
+            }
         }
         .navigationBarTitle(Text("Translations"))
     }

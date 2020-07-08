@@ -10,13 +10,10 @@ import Foundation
 import Combine
 
 class ScrollMapperBibleSettingsViewModel: ScrollMapperBibleViewModelBase {
-    
     override init() {
         super.init()
         
-        DispatchQueue.main.async {
-            self.setupListData()
-        }
+        self.setupListData()
     }
     
     override func translationDidChange() {
