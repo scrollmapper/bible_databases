@@ -14,7 +14,7 @@ import Combine
 let scrollMapperBiblePublishers = ScrollMapperBiblePublishers()
 
 class ScrollMapperBiblePublishers {
-    let translationSubject = CurrentValueSubject<ScrollMapperBibleVersion.BibleVersion, Never>(ScrollMapperBibleVersion.BibleVersion.KJV)
+    let translationSubject = CurrentValueSubject<ScrollMapperBibleVersion.BibleVersion, Never>(.KJV)
     let tranlationPublisher: AnyPublisher<ScrollMapperBibleVersion.BibleVersion, Never>
     
     init() {

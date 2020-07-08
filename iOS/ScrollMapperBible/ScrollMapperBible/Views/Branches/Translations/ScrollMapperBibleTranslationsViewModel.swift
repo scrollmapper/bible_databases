@@ -16,9 +16,7 @@ class ScrollMapperBibleTranslationsViewModel: ObservableObject {
     }()
     
     init() {
-        DispatchQueue.main.async {
-            self.setupListData()
-        }
+        setupListData()
     }
     
     struct Section: Identifiable {

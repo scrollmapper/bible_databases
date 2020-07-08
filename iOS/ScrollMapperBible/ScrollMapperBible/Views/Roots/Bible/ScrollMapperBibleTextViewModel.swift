@@ -13,7 +13,7 @@ class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
     override init() {
         super.init()
         
-        self.setupListData()
+        setupListData()
     }
     
     override func translationDidChange() {

@@ -57,7 +57,7 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
                     Text("")
                 }.hidden()
                 
-                NavigationLink(destination: EmptyView(), isActive: self.$pushSearchView) {
+                NavigationLink(destination: ScrollMapperBibleSearchView(), isActive: self.$pushSearchView) {
                     Text("")
                 }.hidden()
                 
@@ -68,8 +68,18 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
                     JKCSActivityIndicatorView().stopAnimating()
                 }
             }
+            .navigationBarTitle(Text("\(scrollMapperBiblePreferences.translation.rawValue)"), displayMode: .inline)
+            .navigationBarItems(trailing: navigationBarTrailing())
         }
         .navigationViewStyle(StackNavigationViewStyle()) // to prevent it from showing as split view on iPad
+    }
+    
+    private func navigationBarTrailing() -> some View {
+        Button(action: {
+            self.pushSearchView = true
+        }) {
+            Image(systemName: "magnifyingglass")
+        }
     }
     
     private func sectionHeaderView(section: ScrollMapperBibleTextViewModel.Section) -> AnyView {

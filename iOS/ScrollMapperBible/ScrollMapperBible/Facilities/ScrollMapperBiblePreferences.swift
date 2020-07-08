@@ -8,7 +8,8 @@
 
 import Foundation
 
-fileprivate let scrollMapperBiblePreferencesKeyTranslation = "83EB5B53-6982-44A9-A382-DA08AA48ABF1"
+let scrollMapperBiblePreferencesKeyTranslation = "83EB5B53-6982-44A9-A382-DA08AA48ABF1"
+let scrollMapperBiblePreferencesKeySearchScope = "268C5DE5-D9D3-491C-9147-C6217DBF876E"
 
 // https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-environmentobject-to-share-data-between-views
 

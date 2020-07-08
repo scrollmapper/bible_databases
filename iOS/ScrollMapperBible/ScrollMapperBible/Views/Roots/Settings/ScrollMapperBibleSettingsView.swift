@@ -28,7 +28,7 @@ struct ScrollMapperBibleSettingsView: View {
                     }
                 }
             }
-            .navigationBarTitle(Text("Bible"))
+            .navigationBarTitle(Text("Bible"), displayMode: .inline)
         }
         .navigationViewStyle(StackNavigationViewStyle()) // to prevent it from showing as split view on iPad
     }

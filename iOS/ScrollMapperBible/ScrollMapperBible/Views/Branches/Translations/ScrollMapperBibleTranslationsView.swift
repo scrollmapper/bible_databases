@@ -66,7 +66,7 @@ struct ScrollMapperBibleTranslationsView: View, ScrollMapperBibleTranslationsVie
                 JKCSActivityIndicatorView().stopAnimating()
             }
         }
-        .navigationBarTitle(Text("Translations"))
+        .navigationBarTitle(Text("Translations"), displayMode: .inline)
     }
     
     private func itemView(item: ScrollMapperBibleTranslationsViewModel.Item) -> AnyView {
