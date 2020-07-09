@@ -13,6 +13,7 @@
 		522AF65724B5674800FE503C /* ScrollMapperBibleViewModelBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF65624B5674800FE503C /* ScrollMapperBibleViewModelBase.swift */; };
 		522AF66A24B6344D00FE503C /* ScrollMapperBibleSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF66624B6344D00FE503C /* ScrollMapperBibleSearchView.swift */; };
 		522AF66B24B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF66724B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift */; };
+		522AF66F24B66C9600FE503C /* UIKitSearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF66E24B66C9600FE503C /* UIKitSearchBar.swift */; };
 		52D57C2E24ACDAE5001D4E4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */; };
 		52D57C3024ACDAE5001D4E4D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */; };
 		52D57C3424ACDAE5001D4E4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52D57C3324ACDAE5001D4E4D /* Assets.xcassets */; };
@@ -67,6 +68,7 @@
 		522AF65624B5674800FE503C /* ScrollMapperBibleViewModelBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleViewModelBase.swift; sourceTree = "<group>"; };
 		522AF66624B6344D00FE503C /* ScrollMapperBibleSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleSearchView.swift; sourceTree = "<group>"; };
 		522AF66724B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleSearchViewModel.swift; sourceTree = "<group>"; };
+		522AF66E24B66C9600FE503C /* UIKitSearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitSearchBar.swift; sourceTree = "<group>"; };
 		52D57C2A24ACDAE5001D4E4D /* ScrollMapperBible.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollMapperBible.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -173,6 +175,22 @@
 			path = Search;
 			sourceTree = "<group>";
 		};
+		522AF66C24B66B5800FE503C /* UIKitWidgets */ = {
+			isa = PBXGroup;
+			children = (
+				522AF66D24B66B6B00FE503C /* UIKitSearchBar */,
+			);
+			path = UIKitWidgets;
+			sourceTree = "<group>";
+		};
+		522AF66D24B66B6B00FE503C /* UIKitSearchBar */ = {
+			isa = PBXGroup;
+			children = (
+				522AF66E24B66C9600FE503C /* UIKitSearchBar.swift */,
+			);
+			path = UIKitSearchBar;
+			sourceTree = "<group>";
+		};
 		52D57C2124ACDAE4001D4E4D = {
 			isa = PBXGroup;
 			children = (
@@ -196,6 +214,7 @@
 		52D57C2C24ACDAE5001D4E4D /* ScrollMapperBible */ = {
 			isa = PBXGroup;
 			children = (
+				522AF66C24B66B5800FE503C /* UIKitWidgets */,
 				52D57C9E24B4C9F8001D4E4D /* Extensions */,
 				52D57C5F24ACDBFF001D4E4D /* Facilities */,
 				52D57C5D24ACDBDE001D4E4D /* Models */,
@@ -497,6 +516,7 @@
 				522AF66A24B6344D00FE503C /* ScrollMapperBibleSearchView.swift in Sources */,
 				522AF64B24B510B000FE503C /* ScrollMapperBiblePublishers.swift in Sources */,
 				52D57C9324B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift in Sources */,
+				522AF66F24B66C9600FE503C /* UIKitSearchBar.swift in Sources */,
 				522AF66B24B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift in Sources */,
 				52D57C7D24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift in Sources */,
 				522AF65724B5674800FE503C /* ScrollMapperBibleViewModelBase.swift in Sources */,

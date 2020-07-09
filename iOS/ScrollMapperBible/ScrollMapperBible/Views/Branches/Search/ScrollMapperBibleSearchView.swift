@@ -13,6 +13,7 @@ struct ScrollMapperBibleSearchView: View {
     @ObservedObject private var viewModel: ScrollMapperBibleSearchViewModel
     @Environment(\.presentationMode) var presentationMode
     @State private var showActivityIndicator = false
+    @State private var searchTerm = ""
     
     init() {
         self.viewModel = ScrollMapperBibleSearchViewModel()
@@ -33,6 +34,10 @@ struct ScrollMapperBibleSearchView: View {
                     }
                 }
                 .pickerStyle(SegmentedPickerStyle())
+                
+                UIKitSearchBar(text: $searchTerm, placeholder: "Input some keywords and search").onSearchButtonClicked {
+                    self.searchButtonClicked()
+                }
                 
                 List {
                     ForEach(viewModel.listData) { section in
@@ -73,6 +78,10 @@ struct ScrollMapperBibleSearchView: View {
             print("*** \(item.title) tapped")
             return
         }
+    }
+    
+    private func searchButtonClicked() {
+        print("*** Searching for ", searchTerm, "...")
     }
 }
 
