@@ -100,7 +100,7 @@ public class ScrollMapperBibleVersion: ScrollMapperBibleModelBase {
     
     public static func test() {
         print("testScrollMapperBibleVersion")
-        let _ = self.init()?.result.map {
+        _ = self.init()?.result.map {
             print("id: \($0.id), table: \($0.table), abbreviation: \($0.abbreviation), language: \($0.language), version: \($0.version), info_text: \($0.info_text), info_url: \($0.info_url), publisher: \($0.publisher), copyright: \($0.copyright), copyright_info: \($0.copyright_info)")
         }
     }

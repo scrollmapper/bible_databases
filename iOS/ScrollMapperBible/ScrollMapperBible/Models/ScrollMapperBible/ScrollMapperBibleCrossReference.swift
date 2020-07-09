@@ -56,13 +56,13 @@ public class ScrollMapperBibleCrossReference: ScrollMapperBibleModelBase {
     
     public static func test() {
         print("testScrollMapperBibleCrossReference 1001001")
-        let _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE vid = 1001001")?.result.compactMap { crossReference -> CrossReference? in
+        _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE vid = 1001001")?.result.compactMap { crossReference -> CrossReference? in
             print("vid: \(crossReference.vid), r: \(crossReference.r), sv: \(crossReference.sv), ev: \(crossReference.ev)")
             return nil
         }
         
         print("Cross references that run across books")
-        let _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE ev > 0")?.result.compactMap { crossReference -> CrossReference? in
+        _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE ev > 0")?.result.compactMap { crossReference -> CrossReference? in
             let bookStart = crossReference.sv / 1_000_000
             let bookEnd = crossReference.ev / 1_000_000
             if bookEnd > bookStart {

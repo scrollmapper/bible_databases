@@ -33,8 +33,18 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
         }
     }
     
+    private var tableViewFinderOverlay: AnyView {
+        // we only need to add one overlay view to find the parent table view, we don't want an overlay view on each row
+        if scrollManager.tableView == nil {
+            return AnyView(LMTableViewFinder(scrollManager: scrollManager))
+        }
+        return AnyView(EmptyView())
+    }
+    private let scrollManager = LMScrollManager()
+    @State private var indexPathToSetVisible: IndexPath?
+    
     init(viewTitle: String) {
-        self.viewModel = ScrollMapperBibleTextViewModel()
+        viewModel = ScrollMapperBibleTextViewModel()
     }
 
     var body: some View {
@@ -49,6 +59,10 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
                         }
                     }
                 }
+                .overlay(
+                    LMScrollManagerView(scrollManager: scrollManager, indexPathToSetVisible: $indexPathToSetVisible)
+                    .frame(width: 0, height: 0)
+                )
                 .alert(isPresented: $showAlert) {
                     return alert.alert(delegate: self)
                 }
@@ -72,6 +86,12 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
             .navigationBarItems(trailing: navigationBarTrailing())
         }
         .navigationViewStyle(StackNavigationViewStyle()) // to prevent it from showing as split view on iPad
+        .onAppear {
+            if let bibleChapter = self.viewModel.getCurrentChapter() {
+                print("*** scroll to section \(bibleChapter.order - 1)")
+                self.indexPathToSetVisible = IndexPath(row: 0, section: bibleChapter.order - 1)
+            }
+        }
     }
     
     private func navigationBarTrailing() -> some View {
@@ -89,12 +109,18 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
                 Text(section.title)
                 Spacer()
             }
+            .onAppear(perform: {
+                self.viewModel.didMoveToChapter(bibleChapter: section.bibleChapter)
+            })
         )
     }
     
     private func itemView(item: ScrollMapperBibleTextViewModel.Item) -> AnyView {
         return AnyView(
             Text(item.text)
+            .overlay(
+                self.tableViewFinderOverlay.frame(width: 0, height: 0)
+            )
         )
     }
 }

@@ -9,6 +9,34 @@
 import Foundation
 import SQLite3
 
+public enum ScrollMapperBibleSearchScope: Int, CaseIterable {
+    case All = 0
+    case OT = 1
+    case NT = 2
+    
+    public var titleFull: String {
+        switch self {
+        case .All:
+            return "All"
+        case .OT:
+            return "Old Testament"
+        case .NT:
+            return "New Testament"
+        }
+    }
+    
+    public var titleAbbreviated: String {
+        switch self {
+        case .All:
+            return "All"
+        case .OT:
+            return "OT"
+        case .NT:
+            return "NT"
+        }
+    }
+}
+
 public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
     public typealias StructType = BibleText
     
@@ -84,6 +112,37 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         super.init(statement: statement)
     }
     
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, searchBy term: String, in scope: ScrollMapperBibleSearchScope) {
+        guard let table = version.table() else {
+            return nil
+        }
+        let keywords = term.components(separatedBy: .whitespaces).compactMap { (keyword) -> String? in
+            if keyword.trimmingCharacters(in: .whitespaces).count == 0 {
+                return nil
+            }
+            return keyword
+        }
+        guard keywords.count > 0 else {
+            return nil
+        }
+        var statementKeywordsPart = ""
+        _ = keywords.compactMap({ (keyword) -> String? in
+            if statementKeywordsPart.count > 0 {
+                statementKeywordsPart += " AND"
+            }
+            statementKeywordsPart += " t LIKE '%\(keyword)%'"
+            return nil
+        })
+        var statement = "SELECT * FROM \(table) WHERE" + statementKeywordsPart
+        if scope == .OT {
+            statement += " AND b < 40"
+        }
+        else if scope == .NT {
+            statement += " AND b > 39"
+        }
+        super.init(statement: statement)
+    }
+    
     private func getResult() -> [StructType] {
         guard let queryStatement =  queryStatement else {
             return []
@@ -105,37 +164,52 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
     
     public static func test() {
         print("testScrollMapperBibleText 63001001~64001015")
-        let _ = ScrollMapperBibleText(version: .KJV, vidStart: 63001001, vidEnd: 64001015)?.result.map {
+        _ = ScrollMapperBibleText(version: .KJV, vidStart: 63001001, vidEnd: 64001015)?.result.map {
             print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
         }
         
         print("testScrollMapperBibleText [Matthew 28]")
-        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28)?.result.map {
+        _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28)?.result.map {
             print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
         }
         
         print("testScrollMapperBibleText [Matthew 28:16-]")
-        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseFrom: 16)?.result.map {
+        _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseFrom: 16)?.result.map {
             print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
         }
         
         print("testScrollMapperBibleText [Matthew 28:-<16]")
-        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseUntil: 16)?.result.map {
+        _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseUntil: 16)?.result.map {
             print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
         }
         
         print("testScrollMapperBibleText [Matthew 28:-15]")
-        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseThrough: 15)?.result.map {
+        _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseThrough: 15)?.result.map {
             print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
         }
         
         print("testScrollMapperBibleText [Matthew 28:1-<16]")
-        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseRange: 1..<16)?.result.map {
+        _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseRange: 1..<16)?.result.map {
             print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
         }
         
         print("testScrollMapperBibleText [Matthew 28:1-15]")
-        let _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseRangeClosed: 1...15)?.result.map {
+        _ = ScrollMapperBibleText(version: .KJV, book: .Matthew, chapter: 28, verseRangeClosed: 1...15)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText search for 'in the beginning' in all")
+        _ = ScrollMapperBibleText(version: .KJV, searchBy: "in the beginning", in: .All)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText search for 'in the beginning' in OT")
+        _ = ScrollMapperBibleText(version: .KJV, searchBy: "in the beginning", in: .OT)?.result.map {
+            print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
+        }
+        
+        print("testScrollMapperBibleText search for 'in the beginning' in NT")
+        _ = ScrollMapperBibleText(version: .KJV, searchBy: "in the beginning", in: .NT)?.result.map {
             print("\($0.id), (\($0.b), \($0.c), \($0.v)), t: \($0.t)")
         }
     }

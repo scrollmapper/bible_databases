@@ -10,7 +10,7 @@ import Foundation
 import SQLite3
 
 public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
-    static let books: [BookInfo] = {
+    public static let books: [BookInfo] = {
         if let books = ScrollMapperBibleBookInfo()?.result {
             return books
         }
@@ -175,7 +175,7 @@ public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
     
     public static func test() {
         print("testScrollMapperBibleBookInfo")
-        let _ = ScrollMapperBibleBookInfo()?.result.map {
+        _ = ScrollMapperBibleBookInfo()?.result.map {
             print("\($0.order), \($0.title_short), \($0.title_full), \($0.abbreviation), \($0.category), \($0.otnt)")
         }
     }

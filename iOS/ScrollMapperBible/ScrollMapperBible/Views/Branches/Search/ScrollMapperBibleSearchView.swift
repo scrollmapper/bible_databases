@@ -11,7 +11,6 @@ import Combine
 
 struct ScrollMapperBibleSearchView: View {
     @ObservedObject private var viewModel: ScrollMapperBibleSearchViewModel
-    @Environment(\.presentationMode) var presentationMode
     @State private var showActivityIndicator = false
     @State private var searchTerm = ""
     

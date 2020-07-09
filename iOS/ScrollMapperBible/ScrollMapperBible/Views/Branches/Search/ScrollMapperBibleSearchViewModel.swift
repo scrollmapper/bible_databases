@@ -9,39 +9,13 @@
 import Foundation
 import Combine
 
-enum ScrollMapperBibleSearchScope: Int, CaseIterable {
-    case All = 0
-    case OT = 1
-    case NT = 2
-    
-    var titleFull: String {
-        switch self {
-        case .All:
-            return "All"
-        case .OT:
-            return "Old Testament"
-        case .NT:
-            return "New Testament"
-        }
-    }
-    
-    var titleAbbreviated: String {
-        switch self {
-        case .All:
-            return "All"
-        case .OT:
-            return "OT"
-        case .NT:
-            return "NT"
-        }
-    }
-}
+let scrollMapperBibleSceneStorageKeySearchScope = "268C5DE5-D9D3-491C-9147-C6217DBF876E"
 
 class ScrollMapperBibleSearchViewModel: ScrollMapperBibleViewModelBase {
     override init() {
         super.init()
         
-        if let searchScopeInt = UserDefaults.standard.value(forKey: scrollMapperBiblePreferencesKeySearchScope) as? Int,
+        if let searchScopeInt = UserDefaults.standard.value(forKey: scrollMapperBibleSceneStorageKeySearchScope) as? Int,
             let _ = ScrollMapperBibleSearchScope(rawValue: searchScopeInt),
             searchScopeInt != self.selectedScopeInt {
             self.selectedScopeInt = searchScopeInt
@@ -68,7 +42,7 @@ class ScrollMapperBibleSearchViewModel: ScrollMapperBibleViewModelBase {
         didSet {
             if selectedScopeInt != oldValue {
                 setupListData()
-                UserDefaults.standard.set(selectedScopeInt, forKey: scrollMapperBiblePreferencesKeySearchScope)
+                UserDefaults.standard.set(selectedScopeInt, forKey: scrollMapperBibleSceneStorageKeySearchScope)
             }
         }
     }
