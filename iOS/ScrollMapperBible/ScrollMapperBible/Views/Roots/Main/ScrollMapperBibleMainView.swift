@@ -14,12 +14,12 @@ struct ScrollMapperBibleMainView: View {
 
     var body: some View {
         TabView {
-            ScrollMapperBibleTextView(viewTitle: "Bible")
+            ScrollMapperBibleTextView()
                 .tabItem {
                     Image(systemName: "book")
                     Text("Bible")
                 }
-            ScrollMapperBibleSettingsView(viewTitle: "Settings")
+            ScrollMapperBibleSettingsView()
                 .tabItem {
                     Image(systemName: "gear")
                     Text("Settings")

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                var p = $(".clickable");
+                p.click(function(e) {
+                    var sel_obj = window.getSelection();
+                    sel_obj.modify("move", "forward", "character");
+                    sel_obj.modify("extend", "backward", "word");
+
+                    sel_obj.modify("move", "backward", "character");
+                    sel_obj.modify("extend", "forward", "word");
+
+                    var text = sel_obj.toString().trim(); // var text = sel_obj.toString().trim().toLowerCase();
+                    postMessage(text);
+                    window.getSelection().removeAllRanges();
+                    });
+                });
+        </script>
+        <script>
+            postMessage = function(text) {
+                window.webkit.messageHandlers.wordClickHandler.postMessage({ param1: text });
+            }
+        </script>
+    </header>
+    
+    <body>
+        <h1>CLICK TO PICK THE WORD</h1>
+        <br/>
+        <p class="clickable"><font size=20>Baa Baa Black Sheep<font></p>
+    </body>
+</html>

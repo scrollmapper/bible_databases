@@ -13,9 +13,12 @@
 		522AF65724B5674800FE503C /* ScrollMapperBibleViewModelBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF65624B5674800FE503C /* ScrollMapperBibleViewModelBase.swift */; };
 		522AF66A24B6344D00FE503C /* ScrollMapperBibleSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF66624B6344D00FE503C /* ScrollMapperBibleSearchView.swift */; };
 		522AF66B24B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF66724B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift */; };
-		522AF66F24B66C9600FE503C /* UIKitSearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF66E24B66C9600FE503C /* UIKitSearchBar.swift */; };
 		522AF67424B76B5500FE503C /* LMListOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF67324B76B5500FE503C /* LMListOverlay.swift */; };
 		522AF67824B79EC100FE503C /* ScrollMapperBibleTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF67724B79EC100FE503C /* ScrollMapperBibleTable.swift */; };
+		52555D4224B9860500502EE6 /* SearchBarUIViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */; };
+		52BFF79624B8B479009CBB18 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BFF79524B8B479009CBB18 /* WebKit.framework */; };
+		52BFF79924B8BA39009CBB18 /* PeekabooWKWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */; };
+		52BFF79C24B8BD58009CBB18 /* click_to_select_test.html in Resources */ = {isa = PBXBuildFile; fileRef = 52BFF79B24B8BD58009CBB18 /* click_to_select_test.html */; };
 		52D57C2E24ACDAE5001D4E4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */; };
 		52D57C3024ACDAE5001D4E4D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */; };
 		52D57C3424ACDAE5001D4E4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52D57C3324ACDAE5001D4E4D /* Assets.xcassets */; };
@@ -70,9 +73,12 @@
 		522AF65624B5674800FE503C /* ScrollMapperBibleViewModelBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleViewModelBase.swift; sourceTree = "<group>"; };
 		522AF66624B6344D00FE503C /* ScrollMapperBibleSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleSearchView.swift; sourceTree = "<group>"; };
 		522AF66724B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleSearchViewModel.swift; sourceTree = "<group>"; };
-		522AF66E24B66C9600FE503C /* UIKitSearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitSearchBar.swift; sourceTree = "<group>"; };
 		522AF67324B76B5500FE503C /* LMListOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMListOverlay.swift; sourceTree = "<group>"; };
 		522AF67724B79EC100FE503C /* ScrollMapperBibleTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTable.swift; sourceTree = "<group>"; };
+		52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchBarUIViewRepresentable.swift; sourceTree = "<group>"; };
+		52BFF79524B8B479009CBB18 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeekabooWKWebView.swift; sourceTree = "<group>"; };
+		52BFF79B24B8BD58009CBB18 /* click_to_select_test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = click_to_select_test.html; sourceTree = "<group>"; };
 		52D57C2A24ACDAE5001D4E4D /* ScrollMapperBible.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollMapperBible.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -114,6 +120,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52BFF79624B8B479009CBB18 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,17 +190,10 @@
 			isa = PBXGroup;
 			children = (
 				522AF67224B76AD300FE503C /* ListOverlay */,
-				522AF66D24B66B6B00FE503C /* UIKitSearchBar */,
+				52BFF79724B8BA39009CBB18 /* PeekabooWKWebView */,
+				52555D4024B9860500502EE6 /* SearchBarUIViewRepresentable */,
 			);
 			path = UIKitWidgets;
-			sourceTree = "<group>";
-		};
-		522AF66D24B66B6B00FE503C /* UIKitSearchBar */ = {
-			isa = PBXGroup;
-			children = (
-				522AF66E24B66C9600FE503C /* UIKitSearchBar.swift */,
-			);
-			path = UIKitSearchBar;
 			sourceTree = "<group>";
 		};
 		522AF67224B76AD300FE503C /* ListOverlay */ = {
@@ -204,6 +204,38 @@
 			path = ListOverlay;
 			sourceTree = "<group>";
 		};
+		52555D4024B9860500502EE6 /* SearchBarUIViewRepresentable */ = {
+			isa = PBXGroup;
+			children = (
+				52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */,
+			);
+			path = SearchBarUIViewRepresentable;
+			sourceTree = "<group>";
+		};
+		52BFF79424B8B479009CBB18 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52BFF79524B8B479009CBB18 /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52BFF79724B8BA39009CBB18 /* PeekabooWKWebView */ = {
+			isa = PBXGroup;
+			children = (
+				52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */,
+			);
+			path = PeekabooWKWebView;
+			sourceTree = "<group>";
+		};
+		52BFF79A24B8BD58009CBB18 /* HTMLs */ = {
+			isa = PBXGroup;
+			children = (
+				52BFF79B24B8BD58009CBB18 /* click_to_select_test.html */,
+			);
+			path = HTMLs;
+			sourceTree = "<group>";
+		};
 		52D57C2124ACDAE4001D4E4D = {
 			isa = PBXGroup;
 			children = (
@@ -211,6 +243,7 @@
 				52D57C4324ACDAE5001D4E4D /* ScrollMapperBibleTests */,
 				52D57C4E24ACDAE5001D4E4D /* ScrollMapperBibleUITests */,
 				52D57C2B24ACDAE5001D4E4D /* Products */,
+				52BFF79424B8B479009CBB18 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -302,6 +335,7 @@
 		52D57C6024ACDD0A001D4E4D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				52BFF79A24B8BD58009CBB18 /* HTMLs */,
 				52D57C6124ACDD88001D4E4D /* ScrollMapperBible */,
 			);
 			path = Resources;
@@ -499,6 +533,7 @@
 				52D57C3A24ACDAE5001D4E4D /* LaunchScreen.storyboard in Resources */,
 				52D57C7B24B3F947001D4E4D /* tricks.md in Resources */,
 				52D57C3724ACDAE5001D4E4D /* Preview Assets.xcassets in Resources */,
+				52BFF79C24B8BD58009CBB18 /* click_to_select_test.html in Resources */,
 				52D57C6624ACDD88001D4E4D /* readme.md in Resources */,
 				52D57C3424ACDAE5001D4E4D /* Assets.xcassets in Resources */,
 				52D57C6724ACDD88001D4E4D /* book_info.sql in Resources */,
@@ -530,7 +565,6 @@
 				522AF66A24B6344D00FE503C /* ScrollMapperBibleSearchView.swift in Sources */,
 				522AF64B24B510B000FE503C /* ScrollMapperBiblePublishers.swift in Sources */,
 				52D57C9324B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift in Sources */,
-				522AF66F24B66C9600FE503C /* UIKitSearchBar.swift in Sources */,
 				522AF66B24B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift in Sources */,
 				52D57C7D24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift in Sources */,
 				522AF65724B5674800FE503C /* ScrollMapperBibleViewModelBase.swift in Sources */,
@@ -541,6 +575,7 @@
 				52D57CA024B4CA09001D4E4D /* BundleExtensions.swift in Sources */,
 				52D57C7324B3A900001D4E4D /* ScrollMapperBibleModelBase.swift in Sources */,
 				52D57C7724B3C59F001D4E4D /* ScrollMapperBibleCrossReference.swift in Sources */,
+				52BFF79924B8BA39009CBB18 /* PeekabooWKWebView.swift in Sources */,
 				52D57C3024ACDAE5001D4E4D /* SceneDelegate.swift in Sources */,
 				52D57C9C24B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift in Sources */,
 				52D57C9B24B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift in Sources */,
@@ -554,6 +589,7 @@
 				522AF67824B79EC100FE503C /* ScrollMapperBibleTable.swift in Sources */,
 				52D57C7924B3C97A001D4E4D /* ScrollMapperBibleText.swift in Sources */,
 				52D57C8424B4BB20001D4E4D /* ScrollMapperBibleMainViewModel.swift in Sources */,
+				52555D4224B9860500502EE6 /* SearchBarUIViewRepresentable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

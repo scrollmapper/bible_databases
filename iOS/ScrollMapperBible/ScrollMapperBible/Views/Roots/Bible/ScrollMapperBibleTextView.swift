@@ -43,26 +43,22 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
     private let scrollManager = LMScrollManager()
     @State private var indexPathToSetVisible: IndexPath?
     
-    init(viewTitle: String) {
+    // UIKit-related
+    @State var someBindingVariable: Int = 0
+    //
+    
+    init() {
         viewModel = ScrollMapperBibleTextViewModel()
     }
 
     var body: some View {
         NavigationView {
             ZStack {
-                List {
-                    ForEach(viewModel.listData) { section in
-                        Section(header: self.sectionHeaderView(section: section)) {
-                            ForEach(section.items) { item in
-                                self.itemView(item: item)
-                            }
-                        }
-                    }
-                }
-                .overlay(
-                    LMScrollManagerView(scrollManager: scrollManager, indexPathToSetVisible: $indexPathToSetVisible)
-                    .frame(width: 0, height: 0)
-                )
+                PeekabooWKWebView(postMessageHandlers: [.wordClickHandler])
+                .load(source: .file("click_to_select_test", "html"))
+                .onClickWord(delegate: { (word) in
+                    print("*** Word clicked: \(word)")
+                })
                 .alert(isPresented: $showAlert) {
                     return alert.alert(delegate: self)
                 }
@@ -101,33 +97,11 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
             Image(systemName: "magnifyingglass")
         }
     }
-    
-    private func sectionHeaderView(section: ScrollMapperBibleTextViewModel.Section) -> AnyView {
-        return AnyView(
-            HStack {
-                Spacer()
-                Text(section.title)
-                Spacer()
-            }
-            .onAppear(perform: {
-                self.viewModel.didMoveToChapter(bibleChapter: section.bibleChapter)
-            })
-        )
-    }
-    
-    private func itemView(item: ScrollMapperBibleTextViewModel.Item) -> AnyView {
-        return AnyView(
-            Text(item.text)
-            .overlay(
-                self.tableViewFinderOverlay.frame(width: 0, height: 0)
-            )
-        )
-    }
 }
 
 struct ScrollMapperBibleTextView_Previews: PreviewProvider {
     static var previews: some View {
-        ScrollMapperBibleTextView(viewTitle: "Bible")
+        ScrollMapperBibleTextView()
     }
 }
 

@@ -13,7 +13,7 @@ struct ScrollMapperBibleSettingsView: View {
     @ObservedObject private var viewModel: ScrollMapperBibleSettingsViewModel
     @EnvironmentObject var scrollMapperBiblePreferences: ScrollMapperBiblePreferences
     
-    init(viewTitle: String) {
+    init() {
         self.viewModel = ScrollMapperBibleSettingsViewModel()
     }
 
@@ -87,6 +87,6 @@ struct ScrollMapperBibleSettingsView: View {
 
 struct ScrollMapperBibleSettingsView_Previews: PreviewProvider {
     static var previews: some View {
-        ScrollMapperBibleSettingsView(viewTitle: "Settings")
+        ScrollMapperBibleSettingsView()
     }
 }
