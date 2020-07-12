@@ -42,21 +42,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 extension AppDelegate {
     func test() {
-//        ScrollMapperBibleVersion.test()
-//        ScrollMapperBibleBookInfo.test()
-//        ScrollMapperBibleCrossReference.test()
-//        ScrollMapperBibleText.test()
-//        ScrollMapperBibleChapter.test()
-//        
-//        print("*** ASV: \(ScrollMapperBibleVersion.BibleVersion.ASV.table() ?? "<nil>")")
-//        print("*** BBE: \(ScrollMapperBibleVersion.BibleVersion.BBE.table() ?? "<nil>")")
-//        print("*** DARBY: \(ScrollMapperBibleVersion.BibleVersion.DARBY.table() ?? "<nil>")")
-//        print("*** KJV: \(ScrollMapperBibleVersion.BibleVersion.KJV.table() ?? "<nil>")")
-//        print("*** WBT: \(ScrollMapperBibleVersion.BibleVersion.WBT.table() ?? "<nil>")")
-//        print("*** WEB: \(ScrollMapperBibleVersion.BibleVersion.WEB.table() ?? "<nil>")")
-//        print("*** YLT: \(ScrollMapperBibleVersion.BibleVersion.YLT.table() ?? "<nil>")")
-//        
-//        print("*** Genesis: \(ScrollMapperBibleBookInfo.BibleBook.Genesis.order()), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.title_short ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.title_full ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.abbreviation ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.category ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.otnt ?? ""), \(ScrollMapperBibleBookInfo.BibleBook.Genesis.bookInfo()?.chapters ?? 0)")
+        
     }
 }
 

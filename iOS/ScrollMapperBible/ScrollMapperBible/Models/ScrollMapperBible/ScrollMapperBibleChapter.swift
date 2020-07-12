@@ -150,6 +150,10 @@ public class ScrollMapperBibleChapter: ScrollMapperBibleModelBase {
             }
             return BibleChapter(order: (rhs.order - 1), b: b, c: c)
         }
+        
+        var bibleBook: ScrollMapperBibleBookInfo.BibleBook {
+            ScrollMapperBibleBookInfo.BibleBook(rawValue: b)!
+        }
     }
     
     public lazy var result: [StructType] = {

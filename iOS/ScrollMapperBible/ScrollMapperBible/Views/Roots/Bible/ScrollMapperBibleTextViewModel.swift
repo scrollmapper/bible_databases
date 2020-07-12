@@ -12,10 +12,10 @@ import Combine
 let scrollMapperBibleSceneStorageKeyCurrentChapterCid = "ED1BD62A-8E2F-4626-9D17-22E78298FE69"
 
 class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
-    private var currentChapterCid: Int {
+    private var currentChapter: ScrollMapperBibleChapter.BibleChapter {
         didSet {
-            if currentChapterCid != oldValue {
-                UserDefaults.standard.set(currentChapterCid, forKey: scrollMapperBibleSceneStorageKeyCurrentChapterCid)
+            if currentChapter != oldValue {
+                UserDefaults.standard.set(currentChapter.cid, forKey: scrollMapperBibleSceneStorageKeyCurrentChapterCid)
             }
         }
     }
@@ -25,83 +25,68 @@ class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
         if currentChapterCid == 0 {
             currentChapterCid = 1001
         }
-        self.currentChapterCid = currentChapterCid
+        currentChapter = ScrollMapperBibleChapter.BibleChapter(cid: currentChapterCid)!
         
         super.init()
         
-        setupListData()
+        generateCurrentChapterHTMLString()
     }
     
     override func translationDidChange() {
         super.translationDidChange()
         
-        setupListData()
+        generateCurrentChapterHTMLString()
     }
     
-    struct Section: Identifiable {
-        var id = UUID()
-        var bibleChapter: ScrollMapperBibleChapter.BibleChapter? = nil
-        var verses: [ScrollMapperBibleText.BibleText] = []
-        var title: String = ""
-        var items: [Item] = [] // each section contains only one item because we join all verses of a chapter into one string
-    }
+    @Published var currentChapterHTMLString: String = ""
     
-    struct Item: Identifiable {
-        var id = UUID()
-        var text: String = ""
-    }
-    
-    @Published var listData: [Section] = []
-    
-    private func setupListData() {
-        var listData = [Section]()
-        var currentChapter = Section()
-        var currentChapterText = ""
-        var currentB: Int = 0
-        var currentC: Int = 0
-        // vidStart: 1001001, vidEnd: 66022021
-        _ = ScrollMapperBibleText(version: translation, vidStart: 1001001, vidEnd: 66022021)?.result.compactMap({ (bibleText) -> ScrollMapperBibleText.BibleText? in
-            if (bibleText.b != currentB) || (bibleText.c != currentC) {
-                if (currentB != 0) && (currentC != 0) {
-                    currentChapter.bibleChapter = ScrollMapperBibleChapter.BibleChapter(b: currentB, c: currentC)
-                    let bookInfo = ScrollMapperBibleBookInfo.BookInfo(order: currentB)
-                    currentChapter.title = "\(bookInfo?.title_short ?? "<nil>") \(currentC)"
-                    let item = Item(text: currentChapterText)
-                    currentChapter.items.append(item)
-                    listData.append(currentChapter)
-                    currentChapter = Section()
-                    currentChapterText = ""
-                }
-                currentB = bibleText.b
-                currentC = bibleText.c
-            }
-            currentChapter.verses.append(bibleText)
-            if currentChapterText.count > 0 {
-                currentChapterText.append(contentsOf: " ")
-            }
-            currentChapterText.append(contentsOf: "\(bibleText.v) \(bibleText.t)")
-            return nil
-        })
-        currentChapter.bibleChapter = ScrollMapperBibleChapter.BibleChapter(b: currentB, c: currentC)
-        let bookInfo = ScrollMapperBibleBookInfo.BookInfo(order: currentB)
-        currentChapter.title = "\(bookInfo?.title_short ?? "<nil>") \(currentC)"
-        let item = Item(text: currentChapterText)
-        currentChapter.items.append(item)
-        listData.append(currentChapter)
-        
-        self.listData = listData
-    }
-    
-    func getCurrentChapter() -> ScrollMapperBibleChapter.BibleChapter? {
-        let currentChapter = ScrollMapperBibleChapter.BibleChapter(cid: currentChapterCid)
-        return currentChapter
-    }
-    
-    func didMoveToChapter(bibleChapter: ScrollMapperBibleChapter.BibleChapter?) {
-        print("*** didMoveToChapter \(bibleChapter?.cid ?? -1)")
-        guard let bibleChapter = bibleChapter else {
-            return
+    private func generateCurrentChapterHTMLString() {
+        let textFontSize = 60
+        let verseNumberFontSize = 36
+
+        var htmlString = ""
+        htmlString += "<!DOCTYPE html>\n"
+        htmlString += "<html>\n"
+        htmlString += "  <head>\n"
+        htmlString += "    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js\"></script>\n"
+        htmlString += "    <script>\n"
+        htmlString += "      $(document).ready(function() {\n"
+        htmlString += "        let p_clickable = $(\".p_clickable\");\n"
+        htmlString += "        p_clickable.click(function(e) {\n"
+        htmlString += "          let sel_obj = window.getSelection();\n"
+        htmlString += "          var sel_obj_word = sel_obj;\n"
+        htmlString += "          sel_obj_word.modify(\"move\", \"forward\", \"character\");\n"
+        htmlString += "          sel_obj_word.modify(\"extend\", \"backward\", \"word\");\n"
+        htmlString += "          sel_obj_word.modify(\"move\", \"backward\", \"character\");\n"
+        htmlString += "          sel_obj_word.modify(\"extend\", \"forward\", \"word\");\n"
+        htmlString += "          let sel_word = sel_obj_word.toString().trim();\n"
+        htmlString += "          var sel_obj_sentence = sel_obj;\n"
+        htmlString += "          sel_obj_sentence.modify(\"move\", \"forward\", \"character\");\n"
+        htmlString += "          sel_obj_sentence.modify(\"extend\", \"backward\", \"word\");\n"
+        htmlString += "          sel_obj_sentence.modify(\"move\", \"backward\", \"character\");\n"
+        htmlString += "          sel_obj_sentence.modify(\"extend\", \"forward\", \"sentence\");\n"
+        htmlString += "          let sel_sentence = sel_obj_sentence.toString().trim();\n"
+        htmlString += "          let message = {clicked: {word: sel_word, sentence: sel_sentence}};\n"
+        htmlString += "          postMessage(message);\n"
+        htmlString += "          window.getSelection().removeAllRanges();\n"
+        htmlString += "        });\n"
+        htmlString += "      });\n"
+        htmlString += "    </script>\n"
+        htmlString += "    <script>\n"
+        htmlString += "      postMessage = function(message) {\n"
+        htmlString += "        window.webkit.messageHandlers.wordClickHandler.postMessage(message);\n"
+        htmlString += "      }\n"
+        htmlString += "    </script>\n"
+        htmlString += "  </head>\n"
+        htmlString += "  <body>\n"
+        var bodyContent = ""
+        _ = ScrollMapperBibleVerseWithCrossReference(version: translation, book: currentChapter.bibleBook, chapter: currentChapter.c)?.result.map {
+            bodyContent += "\(" ".withHTMLTags(fontSize: textFontSize))\("\($0.v)".withHTMLTags(fontSize: verseNumberFontSize, color: (($0.cr.count > 0) ? "blue" : ""), sup: true))\(" ".withHTMLTags(fontSize: textFontSize))\($0.t.withHTMLTags(fontSize: textFontSize))"
         }
-        currentChapterCid = bibleChapter.cid
+        htmlString += "    <p class=\"p_clickable\">\(bodyContent)</p>\n"
+        htmlString += "  </body>\n"
+        htmlString += "</html>\n"
+        
+        currentChapterHTMLString = htmlString
     }
 }

@@ -22,6 +22,8 @@ public enum PeekabooWKWebViewLoad {
     case htmlString(_ htmlString: String)
 }
 
+public typealias PeekabooWKWebViewMessage = [String : Any]
+
 // Ref.
 //  https://medium.com/john-lewis-software-engineering/ios-wkwebview-communication-using-javascript-and-swift-ee077e0127eb
 //  https://www.hackingwithswift.com/quick-start/swiftui/how-to-wrap-a-custom-uiview-for-swiftui
@@ -49,7 +51,7 @@ public struct PeekabooWKWebView: UIViewRepresentable {
         var delegateWrapper = DelegateWrapper()
         
         class DelegateWrapper {
-            var onClickWordDelegate: ((String) -> ())? = nil
+            var onClickDelegate: ((PeekabooWKWebViewMessage) -> ())? = nil
         }
         
         @discardableResult func createWKWebView(postMessagehandlers: [PeekabooWKWebViewEvent]? = nil) -> WKWebView {
@@ -92,13 +94,12 @@ public struct PeekabooWKWebView: UIViewRepresentable {
         func userContentController(_ userContentController: WKUserContentController, didReceive message: WKScriptMessage) {
             if message.name == PeekabooWKWebViewEvent.wordClickHandler.rawValue {
                 guard
-                    let body = message.body as? [String: Any],
-                    let param1 = body["param1"] as? String
+                    let body = message.body as? [String: Any]
                 else {
                     return
                 }
-                if let delegate = delegateWrapper.onClickWordDelegate {
-                    delegate(param1)
+                if let delegate = delegateWrapper.onClickDelegate {
+                    delegate(body)
                 }
             }
         }
@@ -202,8 +203,8 @@ public extension PeekabooWKWebView {
 }
 
 public extension PeekabooWKWebView {
-    @discardableResult func onClickWord(delegate: @escaping (String) -> ()) -> Self {
-        viewController.delegateWrapper.onClickWordDelegate = delegate
+    @discardableResult func onClick(delegate: @escaping (PeekabooWKWebViewMessage) -> ()) -> Self {
+        viewController.delegateWrapper.onClickDelegate = delegate
         return self
     }
 }

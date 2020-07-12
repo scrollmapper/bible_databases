@@ -55,10 +55,19 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
         NavigationView {
             ZStack {
                 PeekabooWKWebView(postMessageHandlers: [.wordClickHandler])
-                .load(source: .file("click_to_select_test", "html"))
-                .onClickWord(delegate: { (word) in
-                    print("*** Word clicked: \(word)")
+                    .load(source: .htmlString(self.viewModel.currentChapterHTMLString))
+                .onClick(delegate: { (message) in
+                    print("*** onClick: \(message)")
+                    if let clicked = message["clicked"] as? [String : Any] {
+                        if let word = clicked["word"] as? String {
+                            print("*** word clicked: \(word)")
+                        }
+                        if let sentence = clicked["sentence"] as? String {
+                            print("*** sentence clicked: \(sentence)")
+                        }
+                    }
                 })
+                .padding()
                 .alert(isPresented: $showAlert) {
                     return alert.alert(delegate: self)
                 }
@@ -82,12 +91,6 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
             .navigationBarItems(trailing: navigationBarTrailing())
         }
         .navigationViewStyle(StackNavigationViewStyle()) // to prevent it from showing as split view on iPad
-        .onAppear {
-            if let bibleChapter = self.viewModel.getCurrentChapter() {
-                print("*** scroll to section \(bibleChapter.order - 1)")
-                self.indexPathToSetVisible = IndexPath(row: 0, section: bibleChapter.order - 1)
-            }
-        }
     }
     
     private func navigationBarTrailing() -> some View {
