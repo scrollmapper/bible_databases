@@ -9,38 +9,59 @@
 import Foundation
 import Combine
 
-let scrollMapperBibleSceneStorageKeyCurrentChapterCid = "ED1BD62A-8E2F-4626-9D17-22E78298FE69"
-
-class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
-    private var currentChapter: ScrollMapperBibleChapter.BibleChapter {
+class ScrollMapperBibleTextViewModel: ObservableObject {
+    @Published var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
         didSet {
-            if currentChapter != oldValue {
-                UserDefaults.standard.set(currentChapter.cid, forKey: scrollMapperBibleSceneStorageKeyCurrentChapterCid)
+            if translation != oldValue {
+                generateCurrentChapterHTMLString()
             }
         }
     }
+    var translationSubscriber: AnyCancellable? = nil
     
-    override init() {
-        var currentChapterCid = UserDefaults.standard.integer(forKey: scrollMapperBibleSceneStorageKeyCurrentChapterCid)
-        if currentChapterCid == 0 {
-            currentChapterCid = 1001
+    private var currentChapter: ScrollMapperBibleChapter.BibleChapter = ScrollMapperBibleChapter.BibleChapter(b: 1, c: 1)! {
+        didSet {
+            if currentChapter != oldValue {
+                generateCurrentChapterHTMLString()
+                scrollMapperBiblePublishers.publishCurrentChapter(cid: currentChapter.cid)
+            }
         }
-        currentChapter = ScrollMapperBibleChapter.BibleChapter(cid: currentChapterCid)!
-        
-        super.init()
-        
+    }
+    var currentChapterSubscriber: AnyCancellable? = nil
+    
+    var currentChapterHTMLString: String = ""
+    let currentChapterUpdatedSubject = CurrentValueSubject<String, Never>("")
+    let currentChapterUpdatedPublisher: AnyPublisher<String, Never>
+    
+    init() {
+        currentChapterUpdatedPublisher = currentChapterUpdatedSubject.eraseToAnyPublisher()
+        subscribe()
         generateCurrentChapterHTMLString()
     }
     
-    override func translationDidChange() {
-        super.translationDidChange()
-        
-        generateCurrentChapterHTMLString()
+    deinit {
+        unsubscribe()
     }
     
-    @Published var currentChapterHTMLString: String = ""
+    func subscribe() {
+        translationSubscriber = scrollMapperBiblePublishers.tranlationPublisher.sink(receiveValue: { (translation) in
+            self.translation = ScrollMapperBibleVersion.BibleVersion(rawValue: translation) ?? ScrollMapperBibleVersion.BibleVersion.KJV
+        })
+        currentChapterSubscriber = scrollMapperBiblePublishers.currentChapterCidPublisher.sink(receiveValue: { (cid) in
+            self.currentChapter = ScrollMapperBibleChapter.BibleChapter(cid: cid) ?? ScrollMapperBibleChapter.BibleChapter(b: 1, c: 1)!
+        })
+    }
+    
+    func unsubscribe() {
+        translationSubscriber?.cancel()
+        translationSubscriber = nil
+        currentChapterSubscriber?.cancel()
+        currentChapterSubscriber = nil
+    }
     
     private func generateCurrentChapterHTMLString() {
+        print("*** generating chapter \(currentChapter.cid)...")
+        
         let textFontSize = 60
         let verseNumberFontSize = 36
 
@@ -78,6 +99,7 @@ class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
         htmlString += "      }\n"
         htmlString += "    </script>\n"
         htmlString += "  </head>\n"
+        htmlString += "  <h1 style=\"text-align:center; font-size:48pt\">\(currentChapter.bibleBook.bookInfo()?.title_short ?? "") \(currentChapter.c)</h1>\n"
         htmlString += "  <body>\n"
         var bodyContent = ""
         _ = ScrollMapperBibleVerseWithCrossReference(version: translation, book: currentChapter.bibleBook, chapter: currentChapter.c)?.result.map {
@@ -87,6 +109,30 @@ class ScrollMapperBibleTextViewModel: ScrollMapperBibleViewModelBase {
         htmlString += "  </body>\n"
         htmlString += "</html>\n"
         
+        // print("*** html:\n\(htmlString)")
+        
         currentChapterHTMLString = htmlString
+        currentChapterUpdatedSubject.send(currentChapterHTMLString)
+    }
+    
+    func gotoPreviousChapter() {
+        print("*** current chapter: \(currentChapter.cid)")
+        if let previousChapter = <~currentChapter {
+            print("*** previous chapter: \(previousChapter.cid)")
+            currentChapter = previousChapter
+            
+        }
+    }
+    
+    func gotoNextChapter() {
+        print("*** current chapter: \(currentChapter.cid)")
+        if let nextChapter = currentChapter~> {
+            print("*** next chapter: \(nextChapter.cid)")
+            currentChapter = nextChapter
+        }
+    }
+    
+    func webViewDidFinishNavigation() {
+        
     }
 }

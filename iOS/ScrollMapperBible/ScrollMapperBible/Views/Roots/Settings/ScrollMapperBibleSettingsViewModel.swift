@@ -9,17 +9,34 @@
 import Foundation
 import Combine
 
-class ScrollMapperBibleSettingsViewModel: ScrollMapperBibleViewModelBase {
-    override init() {
-        super.init()
-        
+class ScrollMapperBibleSettingsViewModel: ObservableObject {
+    @Published var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
+        didSet {
+            if translation != oldValue {
+                setupListData()
+            }
+        }
+    }
+    var translationSubscriber: AnyCancellable? = nil
+    
+    init() {
+        subscribe()
         setupListData()
     }
     
-    override func translationDidChange() {
-        super.translationDidChange()
-        
-        setupListData()
+    deinit {
+        unsubscribe()
+    }
+    
+    func subscribe() {
+        translationSubscriber = scrollMapperBiblePublishers.tranlationPublisher.sink(receiveValue: { (translation) in
+            self.translation = ScrollMapperBibleVersion.BibleVersion(rawValue: translation) ?? ScrollMapperBibleVersion.BibleVersion.KJV
+        })
+    }
+    
+    func unsubscribe() {
+        translationSubscriber?.cancel()
+        translationSubscriber = nil
     }
     
     struct Section: Identifiable {

@@ -11,9 +11,28 @@ import Combine
 
 let scrollMapperBibleSceneStorageKeySearchScope = "268C5DE5-D9D3-491C-9147-C6217DBF876E"
 
-class ScrollMapperBibleSearchViewModel: ScrollMapperBibleViewModelBase {
-    override init() {
-        super.init()
+class ScrollMapperBibleSearchViewModel: ObservableObject {
+    @Published var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
+        didSet {
+            if translation != oldValue {
+                setupListData()
+            }
+        }
+    }
+    var translationSubscriber: AnyCancellable? = nil
+    
+    let scopes: [ScrollMapperBibleSearchScope] = ScrollMapperBibleSearchScope.allCases
+    @Published var selectedScopeInt: Int = 0 {
+        didSet {
+            if selectedScopeInt != oldValue {
+                setupListData()
+                UserDefaults.standard.set(selectedScopeInt, forKey: scrollMapperBibleSceneStorageKeySearchScope)
+            }
+        }
+    }
+    
+    init() {
+        subscribe()
         
         if let searchScopeInt = UserDefaults.standard.value(forKey: scrollMapperBibleSceneStorageKeySearchScope) as? Int,
             let _ = ScrollMapperBibleSearchScope(rawValue: searchScopeInt),
@@ -27,24 +46,19 @@ class ScrollMapperBibleSearchViewModel: ScrollMapperBibleViewModelBase {
         setupListData()
     }
     
-    override func translationDidChange() {
-        super.translationDidChange()
-        
-        setupListData()
+    deinit {
+        unsubscribe()
     }
     
-    func searchScopeDidChange() {
-        setupListData()
+    func subscribe() {
+        translationSubscriber = scrollMapperBiblePublishers.tranlationPublisher.sink(receiveValue: { (translation) in
+            self.translation = ScrollMapperBibleVersion.BibleVersion(rawValue: translation) ?? ScrollMapperBibleVersion.BibleVersion.KJV
+        })
     }
     
-    let scopes: [ScrollMapperBibleSearchScope] = ScrollMapperBibleSearchScope.allCases
-    @Published var selectedScopeInt: Int = 0 {
-        didSet {
-            if selectedScopeInt != oldValue {
-                setupListData()
-                UserDefaults.standard.set(selectedScopeInt, forKey: scrollMapperBibleSceneStorageKeySearchScope)
-            }
-        }
+    func unsubscribe() {
+        translationSubscriber?.cancel()
+        translationSubscriber = nil
     }
     
     struct Section: Identifiable {

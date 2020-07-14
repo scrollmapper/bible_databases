@@ -49,7 +49,6 @@
 		52D57C9B24B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9724B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift */; };
 		52D57C9C24B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9824B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift */; };
 		52D57CA024B4CA09001D4E4D /* BundleExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C9F24B4CA09001D4E4D /* BundleExtensions.swift */; };
-		52D57CA224B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57CA124B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -118,7 +117,6 @@
 		52D57C9724B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTextView.swift; sourceTree = "<group>"; };
 		52D57C9824B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTextViewModel.swift; sourceTree = "<group>"; };
 		52D57C9F24B4CA09001D4E4D /* BundleExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleExtensions.swift; sourceTree = "<group>"; };
-		52D57CA124B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBiblePreferences.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -196,7 +194,6 @@
 			isa = PBXGroup;
 			children = (
 				522AF67224B76AD300FE503C /* ListOverlay */,
-				52BFF79724B8BA39009CBB18 /* PeekabooWKWebView */,
 				52555D4024B9860500502EE6 /* SearchBarUIViewRepresentable */,
 			);
 			path = UIKitWidgets;
@@ -224,14 +221,6 @@
 				52BFF79524B8B479009CBB18 /* WebKit.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		52BFF79724B8BA39009CBB18 /* PeekabooWKWebView */ = {
-			isa = PBXGroup;
-			children = (
-				52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */,
-			);
-			path = PeekabooWKWebView;
 			sourceTree = "<group>";
 		};
 		52BFF79A24B8BD58009CBB18 /* HTMLs */ = {
@@ -332,7 +321,6 @@
 			children = (
 				52D57C9524B4BC0A001D4E4D /* JKCSUIShared.swift */,
 				52D57C9624B4BC0A001D4E4D /* JKCSShared.swift */,
-				52D57CA124B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift */,
 				522AF64A24B510B000FE503C /* ScrollMapperBiblePublishers.swift */,
 				52555D4724BA35F900502EE6 /* ScrollMapperBibleFacilities.swift */,
 			);
@@ -411,6 +399,7 @@
 			isa = PBXGroup;
 			children = (
 				52D57C9724B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift */,
+				52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */,
 				52D57C9824B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift */,
 			);
 			path = Bible;
@@ -578,7 +567,6 @@
 				52D57C7D24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift in Sources */,
 				522AF65724B5674800FE503C /* ScrollMapperBibleViewModelBase.swift in Sources */,
 				522AF65324B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift in Sources */,
-				52D57CA224B4E59B001D4E4D /* ScrollMapperBiblePreferences.swift in Sources */,
 				52D57C6C24B360CD001D4E4D /* JKCSSQLite.swift in Sources */,
 				52D57C2E24ACDAE5001D4E4D /* AppDelegate.swift in Sources */,
 				52D57CA024B4CA09001D4E4D /* BundleExtensions.swift in Sources */,

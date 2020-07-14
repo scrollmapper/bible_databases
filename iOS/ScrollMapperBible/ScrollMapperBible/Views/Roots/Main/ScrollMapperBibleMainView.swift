@@ -10,7 +10,6 @@ import SwiftUI
 
 struct ScrollMapperBibleMainView: View {
     @ObservedObject var viewModel = ScrollMapperBibleMainViewModel()
-    @EnvironmentObject var scrollMapperBiblePreferences: ScrollMapperBiblePreferences
 
     var body: some View {
         TabView {

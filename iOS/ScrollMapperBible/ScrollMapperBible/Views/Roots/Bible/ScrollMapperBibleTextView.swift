@@ -11,7 +11,6 @@ import Combine
 
 struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDelegate {
     @ObservedObject private var viewModel: ScrollMapperBibleTextViewModel
-    @EnvironmentObject var scrollMapperBiblePreferences: ScrollMapperBiblePreferences
     @State private var showActivityIndicator = false
     @State private var showAlert = false
     @State private var pushJumpToView = false
@@ -33,19 +32,7 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
         }
     }
     
-    private var tableViewFinderOverlay: AnyView {
-        // we only need to add one overlay view to find the parent table view, we don't want an overlay view on each row
-        if scrollManager.tableView == nil {
-            return AnyView(LMTableViewFinder(scrollManager: scrollManager))
-        }
-        return AnyView(EmptyView())
-    }
-    private let scrollManager = LMScrollManager()
-    @State private var indexPathToSetVisible: IndexPath?
-    
-    // UIKit-related
-    @State var someBindingVariable: Int = 0
-    //
+    @State var reloadChapter = false
     
     init() {
         viewModel = ScrollMapperBibleTextViewModel()
@@ -54,8 +41,7 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
     var body: some View {
         NavigationView {
             ZStack {
-                PeekabooWKWebView(postMessageHandlers: [.wordClickHandler])
-                    .load(source: .htmlString(self.viewModel.currentChapterHTMLString))
+                PeekabooWKWebView(viewModel: viewModel, postMessageHandlers: [.wordClickHandler])
                 .onClick(delegate: { (message) in
                     print("*** onClick: \(message)")
                     if let clicked = message["clicked"] as? [String : Any] {
@@ -65,6 +51,14 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
                         if let sentence = clicked["sentence"] as? String {
                             print("*** sentence clicked: \(sentence)")
                         }
+                    }
+                })
+                .onSwipe(delegate: { (direction) in
+                    if direction == .left {
+                        self.viewModel.gotoNextChapter()
+                    }
+                    else if direction == .right {
+                        self.viewModel.gotoPreviousChapter()
                     }
                 })
                 .padding()
@@ -87,10 +81,18 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
                     JKCSActivityIndicatorView().stopAnimating()
                 }
             }
-            .navigationBarTitle(Text("\(scrollMapperBiblePreferences.translation.rawValue)"), displayMode: .inline)
-            .navigationBarItems(trailing: navigationBarTrailing())
+            .navigationBarTitle(Text("\(viewModel.translation.rawValue)"), displayMode: .inline)
+            .navigationBarItems(leading: navigationBarLeading(), trailing: navigationBarTrailing())
         }
         .navigationViewStyle(StackNavigationViewStyle()) // to prevent it from showing as split view on iPad
+    }
+    
+    private func navigationBarLeading() -> some View {
+        Button(action: {
+            self.pushJumpToView = true
+        }) {
+            Image(systemName: "map")
+        }
     }
     
     private func navigationBarTrailing() -> some View {

@@ -11,7 +11,6 @@ import Combine
 
 struct ScrollMapperBibleTranslationsView: View, ScrollMapperBibleTranslationsViewAlertActionDelegate {
     @ObservedObject private var viewModel: ScrollMapperBibleTranslationsViewModel
-    @EnvironmentObject var scrollMapperBiblePreferences: ScrollMapperBiblePreferences
     @Environment(\.presentationMode) var presentationMode
     @State private var showActivityIndicator = false
     @State private var showAlert = false
@@ -30,7 +29,7 @@ struct ScrollMapperBibleTranslationsView: View, ScrollMapperBibleTranslationsVie
         case .confirmSwitch(let target):
             self.showActivityIndicator = true
             DispatchQueue.main.async {
-                self.switchTranslation(to: target)
+                self.viewModel.switchTranslation(to: target)
                 self.presentationMode.wrappedValue.dismiss()
                 self.showActivityIndicator = false
             }
@@ -77,7 +76,7 @@ struct ScrollMapperBibleTranslationsView: View, ScrollMapperBibleTranslationsVie
                     Text(item.title)
                     self.itemDetailView(item)
                 }
-                if (item.title == scrollMapperBiblePreferences.translation.rawValue) {
+                if (item.title == viewModel.translation) {
                     Spacer()
                     Image(systemName: "checkmark")
                 }
@@ -101,16 +100,10 @@ struct ScrollMapperBibleTranslationsView: View, ScrollMapperBibleTranslationsVie
     }
     
     private func itemTapped(_ item: ScrollMapperBibleTranslationsViewModel.Item) {
-        if (item.title == scrollMapperBiblePreferences.translation.rawValue) {
+        if (item.title == viewModel.translation) {
             return
         }
         alert = .confirmSwitch(target: item.title)
-    }
-    
-    private func switchTranslation(to translation: String) {
-        if let translation = ScrollMapperBibleVersion.BibleVersion(rawValue: translation) {
-            scrollMapperBiblePreferences.translation = translation
-        }
     }
 }
 

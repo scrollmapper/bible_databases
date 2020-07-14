@@ -11,7 +11,6 @@ import Combine
 
 struct ScrollMapperBibleSettingsView: View {
     @ObservedObject private var viewModel: ScrollMapperBibleSettingsViewModel
-    @EnvironmentObject var scrollMapperBiblePreferences: ScrollMapperBiblePreferences
     
     init() {
         self.viewModel = ScrollMapperBibleSettingsViewModel()

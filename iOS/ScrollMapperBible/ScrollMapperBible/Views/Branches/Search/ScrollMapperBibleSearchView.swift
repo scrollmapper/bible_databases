@@ -65,7 +65,7 @@ struct ScrollMapperBibleSearchView: View {
         return AnyView(
             VStack(alignment: .leading) {
                 Text(item.title)
-                Text(item.detail ?? "").font(.subheadline).foregroundColor(.gray)
+                Text(item.detail).font(.subheadline).foregroundColor(.gray)
             }
             .gesture(TapGesture().onEnded({
                 self.itemTapped(item)

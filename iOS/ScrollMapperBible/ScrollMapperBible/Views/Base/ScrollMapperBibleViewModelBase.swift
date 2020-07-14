@@ -9,7 +9,7 @@
 import Foundation
 import Combine
 
-class ScrollMapperBibleViewModelBase: ObservableObject {
+class ScrollMapperBibleViewModelBase {
     var translationSubscriber: AnyCancellable? = nil
     var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
         didSet {
@@ -29,7 +29,9 @@ class ScrollMapperBibleViewModelBase: ObservableObject {
     
     func subscribe() {
         translationSubscriber = scrollMapperBiblePublishers.tranlationPublisher.sink(receiveValue: { [weak self] (translation) in
-            self?.translation = translation
+            if let bibleVersion = ScrollMapperBibleVersion.BibleVersion(rawValue: translation) {
+                self?.translation = bibleVersion
+            }
         })
     }
     
