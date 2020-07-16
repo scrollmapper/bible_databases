@@ -10,12 +10,13 @@ import Foundation
 import Combine
 
 fileprivate let scrollMapperBibleSceneStorageKeySearchScope = "268C5DE5-D9D3-491C-9147-C6217DBF876E"
+fileprivate let scrollMapperBibleSceneStorageKeySearchTerm = "8BD9E40A-A2F3-49B7-9F69-2055AA38EC9E"
 
 class ScrollMapperBibleSearchViewModel: ObservableObject {
     @Published var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
         didSet {
             if translation != oldValue {
-                setupListData()
+                search()
             }
         }
     }
@@ -37,7 +38,19 @@ class ScrollMapperBibleSearchViewModel: ObservableObject {
     private var selectedScope: ScrollMapperBibleSearchScope = .All {
         didSet {
             if selectedScope != oldValue {
-                setupListData()
+                expandedBook = nil
+                search()
+            }
+        }
+    }
+    
+    @Published var expandedBook: ScrollMapperBibleBookInfo.BookInfo? = nil
+    
+    @Published var searchTerm: String = "" {
+        didSet {
+            search()
+            if searchTerm != oldValue {
+                UserDefaults.standard.set(searchTerm, forKey: scrollMapperBibleSceneStorageKeySearchTerm)
             }
         }
     }
@@ -54,7 +67,11 @@ class ScrollMapperBibleSearchViewModel: ObservableObject {
             selectedScopeInt = ScrollMapperBibleSearchScope.All.rawValue
         }
         
-        setupListData()
+        DispatchQueue.main.async {
+            if let searchTerm = UserDefaults.standard.string(forKey: scrollMapperBibleSceneStorageKeySearchTerm) {
+                self.searchTerm = searchTerm
+            }
+        }
     }
     
     deinit {
@@ -74,21 +91,42 @@ class ScrollMapperBibleSearchViewModel: ObservableObject {
     
     struct Section: Identifiable {
         var id = UUID()
-        var title: String
+        var book: ScrollMapperBibleBookInfo.BookInfo
         var items: [Item]
     }
     
     struct Item: Identifiable {
         var id = UUID()
-        var title: String
-        var detail: String
-        var isSeeMorePlaceholder: Bool
+        var verse: ScrollMapperBibleText.BibleText
     }
     
     @Published var listData: [Section] = []
     
-    private func setupListData() {
-        var listData: [Section] = []
-        self.listData = listData
+    private func search() {
+        let term = searchTerm.trimmingCharacters(in: .whitespaces)
+        guard term.count > 0 else { return }
+        guard let result = ScrollMapperBibleText(version: translation, searchBy: term, in: selectedScope)?.result else { return }
+        var currentBook: ScrollMapperBibleBookInfo.BookInfo? = nil
+        var items: [Item] = []
+        var list: [Section] = []
+        for verse in result {
+            if verse.b != currentBook?.order {
+                if currentBook != nil {
+                    list.append(Section(book: currentBook!, items: items))
+                    items = []
+                }
+                currentBook = ScrollMapperBibleBookInfo.BookInfo(order: verse.b)
+            }
+            items.append(Item(verse: verse))
+        }
+        if let currentBook = currentBook {
+            list.append(Section(book: currentBook, items: items))
+        }
+        self.listData = list
+    }
+    
+    func jumpTo(item: Item) {
+        let cid = item.verse.b * 1_000 + item.verse.c
+        scrollMapperBiblePublishers.publishCurrentChapter(cid: cid)
     }
 }

@@ -60,7 +60,7 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     }
     
     private func generateCurrentChapterHTMLString() {
-        print("*** generating chapter \(currentChapter.cid)...")
+        // https://useyourloaf.com/blog/supporting-dark-mode-in-wkwebview/
         
         let textFontSize = 60
         let verseNumberFontSize = 36
@@ -109,25 +109,19 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
         htmlString += "  </body>\n"
         htmlString += "</html>\n"
         
-        // print("*** html:\n\(htmlString)")
-        
         currentChapterHTMLString = htmlString
         currentChapterUpdatedSubject.send(currentChapterHTMLString)
     }
     
     func gotoPreviousChapter() {
-        print("*** current chapter: \(currentChapter.cid)")
         if let previousChapter = <~currentChapter {
-            print("*** previous chapter: \(previousChapter.cid)")
             currentChapter = previousChapter
             
         }
     }
     
     func gotoNextChapter() {
-        print("*** current chapter: \(currentChapter.cid)")
         if let nextChapter = currentChapter~> {
-            print("*** next chapter: \(nextChapter.cid)")
             currentChapter = nextChapter
         }
     }

@@ -55,7 +55,6 @@ struct PeekabooWKWebView: UIViewRepresentable {
         }
         
         @objc func didSwipe(swipeGestureRecognizer: UISwipeGestureRecognizer) {
-            print("*** didSwipe")
             if let delegate = onSwipeDelegate {
                 delegate(swipeGestureRecognizer.direction)
             }

@@ -11,6 +11,7 @@ import Combine
 
 struct ScrollMapperBibleSearchView: View {
     @ObservedObject private var viewModel: ScrollMapperBibleSearchViewModel
+    @Environment(\.presentationMode) var presentationMode
     @State private var showActivityIndicator = false
     @State private var searchTerm = ""
     
@@ -34,18 +35,23 @@ struct ScrollMapperBibleSearchView: View {
                 }
                 .pickerStyle(SegmentedPickerStyle())
                 
-                SearchBarUIViewRepresentable(binding: $searchTerm)
+                SearchBarUIViewRepresentable(binding: $viewModel.searchTerm)
                 .placeholder("Input some keywords and search")
                 .onSearchButtonClicked { (searchText) in
-                    self.searchButtonClicked()
+                    //
                 }
                 
                 List {
                     ForEach(viewModel.listData) { section in
-                        Section(header: Text(section.title)) {
-                            ForEach(section.items) { item in
-                                self.itemView(item: item)
+                        Section(header: Text(section.book.title_short)) {
+                            ForEach(0..<self.numberOfRowsInSection(section), id: \.self) { (i) in
+                                self.itemView(book: section.book, item: section.items[i], index: i)
                             }
+                            
+                            
+//                            ForEach(section.items) { item in
+//                                self.itemView(book: section.book, item: item)
+//                            }
                         }
                     }
                 }
@@ -61,28 +67,33 @@ struct ScrollMapperBibleSearchView: View {
         .navigationBarTitle(Text("Search"), displayMode: .inline)
     }
     
-    private func itemView(item: ScrollMapperBibleSearchViewModel.Item) -> AnyView {
+    private func numberOfRowsInSection(_ section: ScrollMapperBibleSearchViewModel.Section) -> Int {
+        if section.book == viewModel.expandedBook {
+            return section.items.count
+        }
+        return min(3, section.items.count)
+    }
+    
+    private func itemView(book: ScrollMapperBibleBookInfo.BookInfo, item: ScrollMapperBibleSearchViewModel.Item, index: Int) -> AnyView {
+        if (book == viewModel.expandedBook) || (index < 2) {
+            return AnyView(
+                Text(item.verse.t)
+                    .onTapGesture {
+                        self.viewModel.jumpTo(item: item)
+                        self.presentationMode.wrappedValue.dismiss()
+                }
+            )
+        }
         return AnyView(
-            VStack(alignment: .leading) {
-                Text(item.title)
-                Text(item.detail).font(.subheadline).foregroundColor(.gray)
+            Text("See more...")
+                .onTapGesture {
+                    self.viewModel.expandedBook = book
             }
-            .gesture(TapGesture().onEnded({
-                self.itemTapped(item)
-            }))
         )
     }
     
     private func itemTapped(_ item: ScrollMapperBibleSearchViewModel.Item) {
-        switch item.title {
-        default:
-            print("*** \(item.title) tapped")
-            return
-        }
-    }
-    
-    private func searchButtonClicked() {
-        print("*** Searching for ", searchTerm, "...")
+        
     }
 }
 
