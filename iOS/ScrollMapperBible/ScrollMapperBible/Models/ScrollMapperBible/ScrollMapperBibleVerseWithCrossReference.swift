@@ -40,7 +40,7 @@ public class ScrollMapperBibleVerseWithCrossReference: ScrollMapperBibleModelBas
         guard let table = version.table() else {
             return nil
         }
-        let statement = "SELECT bk.id, bk.b, bk.c, bk.v, bk.t, cr.r, cr.sv, cr.ev FROM \(table) as bk LEFT JOIN cross_reference as cr ON bk.id = cr.vid WHERE bk.b = \(book.order()) AND bk.c = \(chapter) ORDER BY bk.id, cr.r;"
+        let statement = "SELECT bk.id, bk.b, bk.c, bk.v, bk.t, cr.r, cr.sv, cr.ev FROM \(table) as bk LEFT JOIN cross_reference as cr ON bk.id = cr.vid WHERE bk.b = \(book.order()) AND bk.c = \(chapter) ORDER BY bk.id, cr.r"
         super.init(statement: statement)
     }
     

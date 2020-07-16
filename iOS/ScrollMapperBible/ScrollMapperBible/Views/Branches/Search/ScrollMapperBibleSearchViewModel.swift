@@ -9,7 +9,7 @@
 import Foundation
 import Combine
 
-let scrollMapperBibleSceneStorageKeySearchScope = "268C5DE5-D9D3-491C-9147-C6217DBF876E"
+fileprivate let scrollMapperBibleSceneStorageKeySearchScope = "268C5DE5-D9D3-491C-9147-C6217DBF876E"
 
 class ScrollMapperBibleSearchViewModel: ObservableObject {
     @Published var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
@@ -24,9 +24,20 @@ class ScrollMapperBibleSearchViewModel: ObservableObject {
     let scopes: [ScrollMapperBibleSearchScope] = ScrollMapperBibleSearchScope.allCases
     @Published var selectedScopeInt: Int = 0 {
         didSet {
+            var rawValue = selectedScopeInt + 3
+            if rawValue > 3 {
+                rawValue -= 3
+            }
+            selectedScope = ScrollMapperBibleSearchScope(rawValue: rawValue)!
             if selectedScopeInt != oldValue {
-                setupListData()
                 UserDefaults.standard.set(selectedScopeInt, forKey: scrollMapperBibleSceneStorageKeySearchScope)
+            }
+        }
+    }
+    private var selectedScope: ScrollMapperBibleSearchScope = .All {
+        didSet {
+            if selectedScope != oldValue {
+                setupListData()
             }
         }
     }

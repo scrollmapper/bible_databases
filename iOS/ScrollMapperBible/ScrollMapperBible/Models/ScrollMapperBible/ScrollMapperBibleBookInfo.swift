@@ -17,9 +17,26 @@ public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
         return []
     }()
     
-    public enum BibleOTNT {
-        case OT(title: String = "Old Testament", chapters: Int = 39)
-        case NT(title: String = "New Testament", chapters: Int = 27)
+    public enum BibleOTNT: CaseIterable {
+        case OT, NT
+        
+        public var title: String {
+            switch self {
+            case .OT:
+                return "Old Testament"
+            case .NT:
+                return "New Testament"
+            }
+        }
+        
+        public var chapters: Int {
+            switch self {
+            case .OT:
+                return 39
+            case .NT:
+                return 27
+            }
+        }
     }
     
     public enum BibleBook: Int, CaseIterable {
@@ -109,7 +126,7 @@ public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
     
     public typealias StructType = BookInfo
     
-    public struct BookInfo {
+    public struct BookInfo: Equatable {
         var order: Int = 0
         var title_short: String = ""
         var title_full: String = ""
@@ -140,13 +157,17 @@ public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
             otnt = book.otnt
             chapters = book.chapters
         }
+        
+        public static func ==(lhs: Self, rhs: Self) -> Bool {
+            return lhs.order == rhs.order
+        }
     }
     
     public lazy var result: [StructType] = {
         return getResult()
     }()
     
-    public required init?(statement: String = "SELECT * FROM book_info") {
+    public required init?(statement: String = "SELECT * FROM book_info ORDER BY \"order\"") {
         super.init(statement: statement)
     }
     
@@ -170,7 +191,7 @@ public class ScrollMapperBibleBookInfo: ScrollMapperBibleModelBase {
             let row = StructType(order: Int(order), title_short: String(cString: title_short), title_full: String(cString: title_full), abbreviation: String(cString: abbreviation), category: String(cString: category), otnt: String(cString: otnt), chapters: Int(chapters))
             result.append(row)
         }
-        return result.sorted { $0.order < $1.order }
+        return result
     }
     
     public static func test() {

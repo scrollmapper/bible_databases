@@ -68,7 +68,7 @@ public class ScrollMapperBibleVersion: ScrollMapperBibleModelBase {
         return getResult()
     }()
     
-    public required init?(statement: String = "SELECT * FROM bible_version_key") {
+    public required init?(statement: String = "SELECT * FROM bible_version_key ORDER BY id") {
         super.init(statement: statement)
     }
     
@@ -95,7 +95,7 @@ public class ScrollMapperBibleVersion: ScrollMapperBibleModelBase {
             let row = StructType(id: Int(id), table: String(cString: table), abbreviation: String(cString: abbreviation), language: String(cString: language), version: String(cString: version), info_text: String(cString: info_text), info_url: String(cString: info_url), publisher: String(cString: publisher), copyright: String(cString: copyright), copyright_info: String(cString: copyright_info))
             result.append(row)
         }
-        return result.sorted { $0.id < $1.id }
+        return result
     }
     
     public static func test() {

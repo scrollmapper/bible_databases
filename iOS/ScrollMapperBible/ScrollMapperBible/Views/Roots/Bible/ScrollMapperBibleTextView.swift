@@ -41,32 +41,36 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
     var body: some View {
         NavigationView {
             ZStack {
-                PeekabooWKWebView(viewModel: viewModel, postMessageHandlers: [.wordClickHandler])
-                .onClick(delegate: { (message) in
-                    print("*** onClick: \(message)")
-                    if let clicked = message["clicked"] as? [String : Any] {
-                        if let word = clicked["word"] as? String {
-                            print("*** word clicked: \(word)")
+                HStack {
+                    Spacer().frame(width: 8)
+                    PeekabooWKWebView(viewModel: viewModel, postMessageHandlers: [.wordClickHandler])
+                    .onClick(delegate: { (message) in
+                        print("*** onClick: \(message)")
+                        if let clicked = message["clicked"] as? [String : Any] {
+                            if let word = clicked["word"] as? String {
+                                print("*** word clicked: \(word)")
+                            }
+                            if let sentence = clicked["sentence"] as? String {
+                                print("*** sentence clicked: \(sentence)")
+                            }
                         }
-                        if let sentence = clicked["sentence"] as? String {
-                            print("*** sentence clicked: \(sentence)")
+                    })
+                    .onSwipe(delegate: { (direction) in
+                        if direction == .left {
+                            self.viewModel.gotoNextChapter()
                         }
-                    }
-                })
-                .onSwipe(delegate: { (direction) in
-                    if direction == .left {
-                        self.viewModel.gotoNextChapter()
-                    }
-                    else if direction == .right {
-                        self.viewModel.gotoPreviousChapter()
-                    }
-                })
-                .padding()
+                        else if direction == .right {
+                            self.viewModel.gotoPreviousChapter()
+                        }
+                    })
+                    Spacer().frame(width: 8)
+                }
+                
                 .alert(isPresented: $showAlert) {
                     return alert.alert(delegate: self)
                 }
                 
-                NavigationLink(destination: EmptyView(), isActive: self.$pushJumpToView) {
+                NavigationLink(destination: JumpToView(), isActive: self.$pushJumpToView) {
                     Text("")
                 }.hidden()
                 

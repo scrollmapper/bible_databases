@@ -29,12 +29,12 @@ public class ScrollMapperBibleCrossReference: ScrollMapperBibleModelBase {
     
     public init?(book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verse: Int) {
         let vid = book.order() * 1_000_000 + chapter * 1_000 + verse
-        let statement = "SELECT * FROM cross_reference WHERE vid = \(vid)"
+        let statement = "SELECT * FROM cross_reference WHERE vid = \(vid) ORDER BY r, sv"
         super.init(statement: statement)
     }
     
     public init?(vid: Int) {
-        let statement = "SELECT * FROM cross_reference WHERE vid = \(vid)"
+        let statement = "SELECT * FROM cross_reference WHERE vid = \(vid) ORDER BY r, sv"
         super.init(statement: statement)
     }
     
@@ -51,7 +51,7 @@ public class ScrollMapperBibleCrossReference: ScrollMapperBibleModelBase {
             let row = StructType(vid: Int(vid), r: Int(r), sv: Int(sv), ev: Int(ev))
             result.append(row)
         }
-        return result.sorted { $0.r < $1.r }
+        return result
     }
     
     public static func test() {

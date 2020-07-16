@@ -10,18 +10,17 @@
 		522AF64B24B510B000FE503C /* ScrollMapperBiblePublishers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF64A24B510B000FE503C /* ScrollMapperBiblePublishers.swift */; };
 		522AF65324B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF64F24B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift */; };
 		522AF65424B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF65024B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift */; };
-		522AF65724B5674800FE503C /* ScrollMapperBibleViewModelBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF65624B5674800FE503C /* ScrollMapperBibleViewModelBase.swift */; };
 		522AF66A24B6344D00FE503C /* ScrollMapperBibleSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF66624B6344D00FE503C /* ScrollMapperBibleSearchView.swift */; };
 		522AF66B24B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF66724B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift */; };
-		522AF67424B76B5500FE503C /* LMListOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF67324B76B5500FE503C /* LMListOverlay.swift */; };
 		522AF67824B79EC100FE503C /* ScrollMapperBibleTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF67724B79EC100FE503C /* ScrollMapperBibleTable.swift */; };
+		5245370624BDFF1400EC11B4 /* JumpToView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370424BDFF1400EC11B4 /* JumpToView.swift */; };
+		5245370724BDFF1400EC11B4 /* JumpToViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370524BDFF1400EC11B4 /* JumpToViewModel.swift */; };
 		52555D4224B9860500502EE6 /* SearchBarUIViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */; };
 		52555D4424BA2DE400502EE6 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4324BA2DE400502EE6 /* StringExtensions.swift */; };
 		52555D4824BA35F900502EE6 /* ScrollMapperBibleFacilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4724BA35F900502EE6 /* ScrollMapperBibleFacilities.swift */; };
 		52555D4A24BA942F00502EE6 /* ScrollMapperBibleVerseWithCrossReference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4924BA942F00502EE6 /* ScrollMapperBibleVerseWithCrossReference.swift */; };
 		52BFF79624B8B479009CBB18 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BFF79524B8B479009CBB18 /* WebKit.framework */; };
 		52BFF79924B8BA39009CBB18 /* PeekabooWKWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */; };
-		52BFF79C24B8BD58009CBB18 /* click_to_pick_test.html in Resources */ = {isa = PBXBuildFile; fileRef = 52BFF79B24B8BD58009CBB18 /* click_to_pick_test.html */; };
 		52D57C2E24ACDAE5001D4E4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */; };
 		52D57C3024ACDAE5001D4E4D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */; };
 		52D57C3424ACDAE5001D4E4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52D57C3324ACDAE5001D4E4D /* Assets.xcassets */; };
@@ -72,18 +71,17 @@
 		522AF64A24B510B000FE503C /* ScrollMapperBiblePublishers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBiblePublishers.swift; sourceTree = "<group>"; };
 		522AF64F24B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTranslationsView.swift; sourceTree = "<group>"; };
 		522AF65024B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTranslationsViewModel.swift; sourceTree = "<group>"; };
-		522AF65624B5674800FE503C /* ScrollMapperBibleViewModelBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleViewModelBase.swift; sourceTree = "<group>"; };
 		522AF66624B6344D00FE503C /* ScrollMapperBibleSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleSearchView.swift; sourceTree = "<group>"; };
 		522AF66724B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleSearchViewModel.swift; sourceTree = "<group>"; };
-		522AF67324B76B5500FE503C /* LMListOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMListOverlay.swift; sourceTree = "<group>"; };
 		522AF67724B79EC100FE503C /* ScrollMapperBibleTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTable.swift; sourceTree = "<group>"; };
+		5245370424BDFF1400EC11B4 /* JumpToView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpToView.swift; sourceTree = "<group>"; };
+		5245370524BDFF1400EC11B4 /* JumpToViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpToViewModel.swift; sourceTree = "<group>"; };
 		52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchBarUIViewRepresentable.swift; sourceTree = "<group>"; };
 		52555D4324BA2DE400502EE6 /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
 		52555D4724BA35F900502EE6 /* ScrollMapperBibleFacilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleFacilities.swift; sourceTree = "<group>"; };
 		52555D4924BA942F00502EE6 /* ScrollMapperBibleVerseWithCrossReference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleVerseWithCrossReference.swift; sourceTree = "<group>"; };
 		52BFF79524B8B479009CBB18 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeekabooWKWebView.swift; sourceTree = "<group>"; };
-		52BFF79B24B8BD58009CBB18 /* click_to_pick_test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = click_to_pick_test.html; sourceTree = "<group>"; };
 		52D57C2A24ACDAE5001D4E4D /* ScrollMapperBible.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollMapperBible.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52D57C2F24ACDAE5001D4E4D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -154,14 +152,6 @@
 			path = Translations;
 			sourceTree = "<group>";
 		};
-		522AF65524B5672100FE503C /* Base */ = {
-			isa = PBXGroup;
-			children = (
-				522AF65624B5674800FE503C /* ScrollMapperBibleViewModelBase.swift */,
-			);
-			path = Base;
-			sourceTree = "<group>";
-		};
 		522AF66124B6337600FE503C /* Roots */ = {
 			isa = PBXGroup;
 			children = (
@@ -175,6 +165,7 @@
 		522AF66224B633B700FE503C /* Branches */ = {
 			isa = PBXGroup;
 			children = (
+				5245370324BDFE6800EC11B4 /* JumpTo */,
 				522AF66324B6340600FE503C /* Search */,
 				522AF64C24B51F6E00FE503C /* Translations */,
 			);
@@ -193,18 +184,18 @@
 		522AF66C24B66B5800FE503C /* UIKitWidgets */ = {
 			isa = PBXGroup;
 			children = (
-				522AF67224B76AD300FE503C /* ListOverlay */,
 				52555D4024B9860500502EE6 /* SearchBarUIViewRepresentable */,
 			);
 			path = UIKitWidgets;
 			sourceTree = "<group>";
 		};
-		522AF67224B76AD300FE503C /* ListOverlay */ = {
+		5245370324BDFE6800EC11B4 /* JumpTo */ = {
 			isa = PBXGroup;
 			children = (
-				522AF67324B76B5500FE503C /* LMListOverlay.swift */,
+				5245370424BDFF1400EC11B4 /* JumpToView.swift */,
+				5245370524BDFF1400EC11B4 /* JumpToViewModel.swift */,
 			);
-			path = ListOverlay;
+			path = JumpTo;
 			sourceTree = "<group>";
 		};
 		52555D4024B9860500502EE6 /* SearchBarUIViewRepresentable */ = {
@@ -221,14 +212,6 @@
 				52BFF79524B8B479009CBB18 /* WebKit.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		52BFF79A24B8BD58009CBB18 /* HTMLs */ = {
-			isa = PBXGroup;
-			children = (
-				52BFF79B24B8BD58009CBB18 /* click_to_pick_test.html */,
-			);
-			path = HTMLs;
 			sourceTree = "<group>";
 		};
 		52D57C2124ACDAE4001D4E4D = {
@@ -309,7 +292,6 @@
 		52D57C5E24ACDBE7001D4E4D /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				522AF65524B5672100FE503C /* Base */,
 				522AF66124B6337600FE503C /* Roots */,
 				522AF66224B633B700FE503C /* Branches */,
 			);
@@ -330,7 +312,6 @@
 		52D57C6024ACDD0A001D4E4D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				52BFF79A24B8BD58009CBB18 /* HTMLs */,
 				52D57C6124ACDD88001D4E4D /* ScrollMapperBible */,
 			);
 			path = Resources;
@@ -531,7 +512,6 @@
 				52D57C3A24ACDAE5001D4E4D /* LaunchScreen.storyboard in Resources */,
 				52D57C7B24B3F947001D4E4D /* tricks.md in Resources */,
 				52D57C3724ACDAE5001D4E4D /* Preview Assets.xcassets in Resources */,
-				52BFF79C24B8BD58009CBB18 /* click_to_pick_test.html in Resources */,
 				52D57C6624ACDD88001D4E4D /* readme.md in Resources */,
 				52D57C3424ACDAE5001D4E4D /* Assets.xcassets in Resources */,
 				52D57C6724ACDD88001D4E4D /* book_info.sql in Resources */,
@@ -564,8 +544,8 @@
 				522AF64B24B510B000FE503C /* ScrollMapperBiblePublishers.swift in Sources */,
 				52D57C9324B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift in Sources */,
 				522AF66B24B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift in Sources */,
+				5245370624BDFF1400EC11B4 /* JumpToView.swift in Sources */,
 				52D57C7D24B41E7F001D4E4D /* ScrollMapperBibleChapter.swift in Sources */,
-				522AF65724B5674800FE503C /* ScrollMapperBibleViewModelBase.swift in Sources */,
 				522AF65324B51F9200FE503C /* ScrollMapperBibleTranslationsView.swift in Sources */,
 				52D57C6C24B360CD001D4E4D /* JKCSSQLite.swift in Sources */,
 				52D57C2E24ACDAE5001D4E4D /* AppDelegate.swift in Sources */,
@@ -582,7 +562,6 @@
 				52D57C9924B4BC0A001D4E4D /* JKCSUIShared.swift in Sources */,
 				52555D4A24BA942F00502EE6 /* ScrollMapperBibleVerseWithCrossReference.swift in Sources */,
 				52D57C8324B4BB20001D4E4D /* ScrollMapperBibleMainView.swift in Sources */,
-				522AF67424B76B5500FE503C /* LMListOverlay.swift in Sources */,
 				52D57C9424B4BBE9001D4E4D /* ScrollMapperBibleSettingsViewModel.swift in Sources */,
 				52D57C6F24B39B72001D4E4D /* ScrollMapperBibleVersion.swift in Sources */,
 				52D57C7524B3A9A1001D4E4D /* ScrollMapperBibleBookInfo.swift in Sources */,
@@ -590,6 +569,7 @@
 				52D57C7924B3C97A001D4E4D /* ScrollMapperBibleText.swift in Sources */,
 				52D57C8424B4BB20001D4E4D /* ScrollMapperBibleMainViewModel.swift in Sources */,
 				52555D4224B9860500502EE6 /* SearchBarUIViewRepresentable.swift in Sources */,
+				5245370724BDFF1400EC11B4 /* JumpToViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

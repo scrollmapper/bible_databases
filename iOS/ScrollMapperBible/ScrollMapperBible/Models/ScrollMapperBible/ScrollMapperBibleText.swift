@@ -10,9 +10,9 @@ import Foundation
 import SQLite3
 
 public enum ScrollMapperBibleSearchScope: Int, CaseIterable {
-    case All = 0
     case OT = 1
     case NT = 2
+    case All = 3
     
     public var titleFull: String {
         switch self {
@@ -60,7 +60,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         guard let table = version.table() else {
             return nil
         }
-        let statement = "SELECT * FROM \(table) WHERE id >= \(vidStart) AND id <= \(vidEnd)"
+        let statement = "SELECT * FROM \(table) WHERE id >= \(vidStart) AND id <= \(vidEnd) ORDER BY id"
         super.init(statement: statement)
     }
     
@@ -68,7 +68,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         guard let table = version.table() else {
             return nil
         }
-        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter)"
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) ORDER BY id"
         super.init(statement: statement)
     }
     
@@ -76,7 +76,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         guard let table = version.table() else {
             return nil
         }
-        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseFrom)"
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseFrom) ORDER BY id"
         super.init(statement: statement)
     }
     
@@ -84,7 +84,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         guard let table = version.table() else {
             return nil
         }
-        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v < \(verseUntil)"
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v < \(verseUntil) ORDER BY id"
         super.init(statement: statement)
     }
     
@@ -92,7 +92,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         guard let table = version.table() else {
             return nil
         }
-        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v <= \(verseThrough)"
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v <= \(verseThrough) ORDER BY id"
         super.init(statement: statement)
     }
     
@@ -100,7 +100,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         guard let table = version.table() else {
             return nil
         }
-        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseRange.lowerBound) AND v < \(verseRange.upperBound)"
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseRange.lowerBound) AND v < \(verseRange.upperBound) ORDER BY id"
         super.init(statement: statement)
     }
     
@@ -108,7 +108,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         guard let table = version.table() else {
             return nil
         }
-        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseRangeClosed.lowerBound) AND v <= \(verseRangeClosed.upperBound)"
+        let statement = "SELECT * FROM \(table) WHERE b = \(book.order()) AND c = \(chapter) AND v >= \(verseRangeClosed.lowerBound) AND v <= \(verseRangeClosed.upperBound) ORDER BY id"
         super.init(statement: statement)
     }
     
@@ -140,6 +140,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
         else if scope == .NT {
             statement += " AND b > 39"
         }
+        statement += " ORDER BY id"
         super.init(statement: statement)
     }
     
@@ -159,7 +160,7 @@ public class ScrollMapperBibleText: ScrollMapperBibleModelBase {
             let row = StructType(id: Int(id), b: Int(b), c: Int(c), v: Int(v), t: String(cString: t))
             result.append(row)
         }
-        return result.sorted {$0.id < $1.id }
+        return result
     }
     
     public static func test() {

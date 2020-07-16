@@ -160,7 +160,7 @@ public class ScrollMapperBibleChapter: ScrollMapperBibleModelBase {
         return getResult()
     }()
     
-    public required init?(statement: String = "SELECT * FROM chapter") {
+    public required init?(statement: String = "SELECT * FROM chapter ORDER BY cid") {
         super.init(statement: statement)
     }
     
@@ -179,6 +179,6 @@ public class ScrollMapperBibleChapter: ScrollMapperBibleModelBase {
             }
             result.append(row)
         }
-        return result.sorted { $0.order < $1.order }
+        return result
     }
 }
