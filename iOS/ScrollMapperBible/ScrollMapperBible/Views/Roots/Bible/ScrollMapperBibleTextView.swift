@@ -11,6 +11,7 @@ import Combine
 
 struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDelegate {
     @ObservedObject private var viewModel: ScrollMapperBibleTextViewModel
+    @Environment(\.colorScheme) var colorScheme
     @State private var showActivityIndicator = false
     @State private var showAlert = false
     @State private var pushJumpToView = false
@@ -43,29 +44,9 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
             ZStack {
                 HStack {
                     Spacer().frame(width: 8)
-                    PeekabooWKWebView(viewModel: viewModel, postMessageHandlers: [.wordClickHandler])
-                    .onClick(delegate: { (message) in
-                        print("*** onClick: \(message)")
-                        if let clicked = message["clicked"] as? [String : Any] {
-                            if let word = clicked["word"] as? String {
-                                print("*** word clicked: \(word)")
-                            }
-                            if let sentence = clicked["sentence"] as? String {
-                                print("*** sentence clicked: \(sentence)")
-                            }
-                        }
-                    })
-                    .onSwipe(delegate: { (direction) in
-                        if direction == .left {
-                            self.viewModel.gotoNextChapter()
-                        }
-                        else if direction == .right {
-                            self.viewModel.gotoPreviousChapter()
-                        }
-                    })
+                    createWebView()
                     Spacer().frame(width: 8)
                 }
-                
                 .alert(isPresented: $showAlert) {
                     return alert.alert(delegate: self)
                 }
@@ -89,6 +70,31 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
             .navigationBarItems(leading: navigationBarLeading(), trailing: navigationBarTrailing())
         }
         .navigationViewStyle(StackNavigationViewStyle()) // to prevent it from showing as split view on iPad
+    }
+    
+    private func createWebView() -> PeekabooWKWebView {
+        viewModel.colorSchemeDidChange(darkMode: colorScheme == .dark)
+        let webView = PeekabooWKWebView(viewModel: viewModel, postMessageHandlers: [.wordClickHandler])
+            .onClick(delegate: { (message) in
+                print("*** onClick: \(message)")
+                if let clicked = message["clicked"] as? [String : Any] {
+                    if let word = clicked["word"] as? String {
+                        print("*** word clicked: \(word)")
+                    }
+                    if let sentence = clicked["sentence"] as? String {
+                        print("*** sentence clicked: \(sentence)")
+                    }
+                }
+            })
+            .onSwipe(delegate: { (direction) in
+                if direction == .left {
+                    self.viewModel.gotoNextChapter()
+                }
+                else if direction == .right {
+                    self.viewModel.gotoPreviousChapter()
+                }
+            })
+        return webView
     }
     
     private func navigationBarLeading() -> some View {

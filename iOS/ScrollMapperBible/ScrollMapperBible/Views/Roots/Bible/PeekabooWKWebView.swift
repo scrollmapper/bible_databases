@@ -85,6 +85,7 @@ struct PeekabooWKWebView: UIViewRepresentable {
             }
         }
         webView = WKWebView(frame: .zero, configuration: config)
+        webView.isOpaque = false
         let leftSwipeGestureRecognizer = UISwipeGestureRecognizer(target: viewController, action: #selector(viewController.didSwipe(swipeGestureRecognizer:)))
         leftSwipeGestureRecognizer.direction = .left
         webView.addGestureRecognizer(leftSwipeGestureRecognizer)

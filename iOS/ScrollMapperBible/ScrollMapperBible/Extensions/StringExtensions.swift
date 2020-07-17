@@ -9,7 +9,7 @@
 import Foundation
 
 extension String {
-    func withHTMLTags(fontSize: Int = 0, color: String = "", sup: Bool = false) -> String {
+    func withHTMLTags(fontSize: Int = 0, color: String = "", backgroundColor: String = "", sup: Bool = false) -> String {
         var htmlString = "\(self)"
         var styleContent = ""
         if fontSize > 0 {
@@ -23,6 +23,12 @@ extension String {
                 styleContent += "; "
             }
             styleContent += "color:\(color)"
+        }
+        if backgroundColor.count > 0 {
+            if styleContent.count > 0 {
+                styleContent += "; "
+            }
+            styleContent += "background-color:\(backgroundColor)"
         }
         var style: String
         if styleContent.count > 0 {

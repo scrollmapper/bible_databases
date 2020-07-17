@@ -47,11 +47,6 @@ struct ScrollMapperBibleSearchView: View {
                             ForEach(0..<self.numberOfRowsInSection(section), id: \.self) { (i) in
                                 self.itemView(book: section.book, item: section.items[i], index: i)
                             }
-                            
-                            
-//                            ForEach(section.items) { item in
-//                                self.itemView(book: section.book, item: item)
-//                            }
                         }
                     }
                 }
@@ -77,7 +72,7 @@ struct ScrollMapperBibleSearchView: View {
     private func itemView(book: ScrollMapperBibleBookInfo.BookInfo, item: ScrollMapperBibleSearchViewModel.Item, index: Int) -> AnyView {
         if (book == viewModel.expandedBook) || (index < 2) {
             return AnyView(
-                Text(item.verse.t)
+                Text("\(item.verse.c):\(item.verse.v) \(item.verse.t)")
                     .onTapGesture {
                         self.viewModel.jumpTo(item: item)
                         self.presentationMode.wrappedValue.dismiss()

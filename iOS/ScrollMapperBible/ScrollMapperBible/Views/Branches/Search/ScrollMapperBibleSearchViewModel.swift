@@ -104,7 +104,10 @@ class ScrollMapperBibleSearchViewModel: ObservableObject {
     
     private func search() {
         let term = searchTerm.trimmingCharacters(in: .whitespaces)
-        guard term.count > 0 else { return }
+        guard term.count > 0 else {
+            listData = []
+            return
+        }
         guard let result = ScrollMapperBibleText(version: translation, searchBy: term, in: selectedScope)?.result else { return }
         var currentBook: ScrollMapperBibleBookInfo.BookInfo? = nil
         var items: [Item] = []

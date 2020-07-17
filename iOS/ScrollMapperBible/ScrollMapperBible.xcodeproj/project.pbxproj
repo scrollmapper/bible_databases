@@ -15,6 +15,7 @@
 		522AF67824B79EC100FE503C /* ScrollMapperBibleTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522AF67724B79EC100FE503C /* ScrollMapperBibleTable.swift */; };
 		5245370624BDFF1400EC11B4 /* JumpToView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370424BDFF1400EC11B4 /* JumpToView.swift */; };
 		5245370724BDFF1400EC11B4 /* JumpToViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370524BDFF1400EC11B4 /* JumpToViewModel.swift */; };
+		5245370924C0F6AB00EC11B4 /* ScrollMapperBibleWebViewColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370824C0F6AB00EC11B4 /* ScrollMapperBibleWebViewColor.swift */; };
 		52555D4224B9860500502EE6 /* SearchBarUIViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */; };
 		52555D4424BA2DE400502EE6 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4324BA2DE400502EE6 /* StringExtensions.swift */; };
 		52555D4824BA35F900502EE6 /* ScrollMapperBibleFacilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4724BA35F900502EE6 /* ScrollMapperBibleFacilities.swift */; };
@@ -76,6 +77,7 @@
 		522AF67724B79EC100FE503C /* ScrollMapperBibleTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleTable.swift; sourceTree = "<group>"; };
 		5245370424BDFF1400EC11B4 /* JumpToView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpToView.swift; sourceTree = "<group>"; };
 		5245370524BDFF1400EC11B4 /* JumpToViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpToViewModel.swift; sourceTree = "<group>"; };
+		5245370824C0F6AB00EC11B4 /* ScrollMapperBibleWebViewColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleWebViewColor.swift; sourceTree = "<group>"; };
 		52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchBarUIViewRepresentable.swift; sourceTree = "<group>"; };
 		52555D4324BA2DE400502EE6 /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
 		52555D4724BA35F900502EE6 /* ScrollMapperBibleFacilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleFacilities.swift; sourceTree = "<group>"; };
@@ -382,6 +384,7 @@
 				52D57C9724B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift */,
 				52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */,
 				52D57C9824B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift */,
+				5245370824C0F6AB00EC11B4 /* ScrollMapperBibleWebViewColor.swift */,
 			);
 			path = Bible;
 			sourceTree = "<group>";
@@ -541,6 +544,7 @@
 			files = (
 				52D57C9A24B4BC0A001D4E4D /* JKCSShared.swift in Sources */,
 				522AF66A24B6344D00FE503C /* ScrollMapperBibleSearchView.swift in Sources */,
+				5245370924C0F6AB00EC11B4 /* ScrollMapperBibleWebViewColor.swift in Sources */,
 				522AF64B24B510B000FE503C /* ScrollMapperBiblePublishers.swift in Sources */,
 				52D57C9324B4BBE9001D4E4D /* ScrollMapperBibleSettingsView.swift in Sources */,
 				522AF66B24B6344D00FE503C /* ScrollMapperBibleSearchViewModel.swift in Sources */,

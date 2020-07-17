@@ -29,6 +29,14 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     }
     var currentChapterSubscriber: AnyCancellable? = nil
     
+    private var darkMode: Bool = false {
+        didSet {
+            if darkMode != oldValue {
+                generateCurrentChapterHTMLString()
+            }
+        }
+    }
+    
     var currentChapterHTMLString: String = ""
     let currentChapterUpdatedSubject = CurrentValueSubject<String, Never>("")
     let currentChapterUpdatedPublisher: AnyPublisher<String, Never>
@@ -103,7 +111,7 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
         htmlString += "  <body>\n"
         var bodyContent = ""
         _ = ScrollMapperBibleVerseWithCrossReference(version: translation, book: currentChapter.bibleBook, chapter: currentChapter.c)?.result.map {
-            bodyContent += "\(" ".withHTMLTags(fontSize: textFontSize))\("\($0.v)".withHTMLTags(fontSize: verseNumberFontSize, color: (($0.cr.count > 0) ? "blue" : ""), sup: true))\(" ".withHTMLTags(fontSize: textFontSize))\($0.t.withHTMLTags(fontSize: textFontSize))"
+            bodyContent += "\(" ".withHTMLTags(fontSize: textFontSize))\("\($0.v)".withHTMLTags(fontSize: verseNumberFontSize, color: (($0.cr.count > 0) ? (darkMode ? "#FFFF00" : "#0000FF") : ""), sup: true))\(" ".withHTMLTags(fontSize: textFontSize))\($0.t.withHTMLTags(fontSize: textFontSize, color: darkMode ? "white" : "black"))"
         }
         htmlString += "    <p class=\"p_clickable\">\(bodyContent)</p>\n"
         htmlString += "  </body>\n"
@@ -128,5 +136,9 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     
     func webViewDidFinishNavigation() {
         
+    }
+    
+    func colorSchemeDidChange(darkMode: Bool) {
+        self.darkMode = darkMode
     }
 }
