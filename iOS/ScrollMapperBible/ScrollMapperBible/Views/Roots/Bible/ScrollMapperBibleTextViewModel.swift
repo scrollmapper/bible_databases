@@ -19,17 +19,17 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     }
     var translationSubscriber: AnyCancellable? = nil
     
-    var actionSheet: ActionSheetType = .unknown {
+    var alert: AlertType = .unknown {
         didSet {
-            switch actionSheet {
-            case .unknown:
-                break
+            switch alert {
+            case .verseNumber( _, _, _):
+                showAlert = true
             default:
-                showActionSheet = true
+                break
             }
         }
     }
-    @Published var showActionSheet = false
+    @Published var showAlert = false
     
     @Published var crossReferenceVid: Int = 0
     
@@ -164,7 +164,7 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
 }
 
 extension ScrollMapperBibleTextViewModel {
-    enum ActionSheetType {
+    enum AlertType {
         case unknown
         case verseNumber(_ book: ScrollMapperBibleBookInfo.BibleBook, _ chapter: Int, _ number: Int)
         case word(_ word: String)
@@ -185,13 +185,13 @@ extension ScrollMapperBibleTextViewModel {
                 let length = min(sentence.count, verse.count)
                 if sentence.prefix(length) == verse.prefix(length),
                     let number = Int(word) {
-                    actionSheet = .verseNumber(currentChapter.bibleBook, currentChapter.c, number)
+                    alert = .verseNumber(currentChapter.bibleBook, currentChapter.c, number)
                     return
                 }
             }
         }
         else { // word
-            actionSheet = .word(word)
+            alert = .word(word)
         }
     }
     

@@ -13,7 +13,6 @@ struct ScrollMapperBibleTextView: View {
     @ObservedObject private var viewModel: ScrollMapperBibleTextViewModel
     @Environment(\.colorScheme) var colorScheme
     @State private var showActivityIndicator = false
-    @State private var showAlert = false
     @State private var pushJumpToView = false
     @State private var pushSearchView = false
     
@@ -31,31 +30,15 @@ struct ScrollMapperBibleTextView: View {
                     createWebView()
                     Spacer().frame(width: 8)
                 }
-                .actionSheet(isPresented: self.$viewModel.showActionSheet, content: { () -> ActionSheet in
-                    var buttonTitle = "Unknown"
-                    switch self.viewModel.actionSheet {
+                .alert(isPresented: self.$viewModel.showAlert, content: { () -> Alert in
+                    switch self.viewModel.alert {
                     case .verseNumber(let book, let chapter, let verse):
-                        buttonTitle = "Cross Ref. \(book.bookInfo()?.abbreviation ?? "") \(chapter):\(verse)"
-                    case .word(let word):
-                        buttonTitle = "Look up \"\(word)\" in dictionary"
+                        return Alert(title: Text("CROSS REFERENCE"), message: Text("Show cross reference for \(book.bookInfo()?.abbreviation ?? "") \(chapter):\(verse)?"), primaryButton: .destructive(Text("YES"), action: {
+                            self.viewModel.retrieveCrossReference(book: book, chapter: chapter, verse: verse)
+                        }), secondaryButton: .cancel())
                     default:
-                        break
+                        return Alert(title: Text("TO BE ACCOMPLISHED"), message: nil, dismissButton: .destructive(Text("OK")))
                     }
-                    return ActionSheet(title: Text("Action"), message: nil, buttons: [
-                        .default(Text(buttonTitle), action: {
-                            DispatchQueue.main.async {
-                                switch self.viewModel.actionSheet {
-                                case .verseNumber(let book, let chapter, let verse):
-                                    self.viewModel.retrieveCrossReference(book: book, chapter: chapter, verse: verse)
-                                case .word(let word):
-                                    self.viewModel.lookUp(word)
-                                default:
-                                    break
-                                }
-                            }
-                        }),
-                        .cancel()
-                    ])
                 })
                 
                 GeometryReader { (geometryProxy) in
