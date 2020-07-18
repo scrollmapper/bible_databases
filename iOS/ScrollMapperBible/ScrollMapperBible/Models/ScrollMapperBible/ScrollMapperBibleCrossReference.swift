@@ -11,12 +11,14 @@ import SQLite3
 
 public class ScrollMapperBibleCrossReference: ScrollMapperBibleModelBase {
     public typealias StructType = CrossReference
+    private var vid: Int = 0
     
     public struct CrossReference {
-        var vid: Int = 0
-        var r: Int = 0
-        var sv: Int = 0
-        var ev: Int = 0
+        public let vid: Int
+        public let r: Int
+        public let sv: Int
+        public let ev: Int
+        public let verses: [ScrollMapperBibleText.BibleText]
     }
     
     public lazy var result: [StructType] = {
@@ -27,14 +29,16 @@ public class ScrollMapperBibleCrossReference: ScrollMapperBibleModelBase {
         super.init(statement: statement)
     }
     
-    public init?(book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verse: Int) {
-        let vid = book.order() * 1_000_000 + chapter * 1_000 + verse
-        let statement = "SELECT * FROM cross_reference WHERE vid = \(vid) ORDER BY r, sv"
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verse: Int) {
+        vid = book.order() * 1_000_000 + chapter * 1_000 + verse
+        let statement = "SELECT cr.vid, cr.r, cr.sv, cr.ev, tbl.id, tbl.b, tbl.c, tbl.v, tbl.t FROM cross_reference AS cr LEFT JOIN \(version.table() ?? "t_kjv") AS tbl ON (cr.ev = 0 AND tbl.id = cr.sv) OR (cr.ev > 0 AND tbl.id >= cr.sv AND tbl.id <= cr.ev) WHERE cr.vid = \(vid) ORDER BY cr.r, cr.sv"
         super.init(statement: statement)
     }
     
-    public init?(vid: Int) {
-        let statement = "SELECT * FROM cross_reference WHERE vid = \(vid) ORDER BY r, sv"
+    public init?(version: ScrollMapperBibleVersion.BibleVersion, vid: Int) {
+        // SELECT cr.vid, cr.r, cr.sv, cr.ev, tbl.b, tbl.c, tbl.v, tbl.t FROM cross_reference AS cr LEFT JOIN t_kjv AS tbl ON (cr.ev = 0 AND tbl.id = cr.sv) OR (cr.ev > 0 AND tbl.id >= cr.sv AND tbl.id <= cr.ev) WHERE cr.vid = 1001001 ORDER BY cr.r, cr.sv
+        self.vid = vid
+        let statement = "SELECT cr.vid, cr.r, cr.sv, cr.ev, tbl.id, tbl.b, tbl.c, tbl.v, tbl.t FROM cross_reference AS cr LEFT JOIN \(version.table() ?? "t_kjv") AS tbl ON (cr.ev = 0 AND tbl.id = cr.sv) OR (cr.ev > 0 AND tbl.id >= cr.sv AND tbl.id <= cr.ev) WHERE cr.vid = \(vid) ORDER BY cr.r, cr.sv"
         super.init(statement: statement)
     }
     
@@ -43,33 +47,35 @@ public class ScrollMapperBibleCrossReference: ScrollMapperBibleModelBase {
             return []
         }
         var result: [StructType] = []
+        var verses: [ScrollMapperBibleText.BibleText] = []
+        var currentRank: Int = 0
+        var currentSv: Int = 0
+        var currentEv: Int = 0
         while sqlite3_step(queryStatement) == SQLITE_ROW {
-            let vid = sqlite3_column_int(queryStatement, 0)
-            let r = sqlite3_column_int(queryStatement, 1)
-            let sv = sqlite3_column_int(queryStatement, 2)
-            let ev = sqlite3_column_int(queryStatement, 3)
-            let row = StructType(vid: Int(vid), r: Int(r), sv: Int(sv), ev: Int(ev))
-            result.append(row)
-        }
-        return result
-    }
-    
-    public static func test() {
-        print("testScrollMapperBibleCrossReference 1001001")
-        _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE vid = 1001001")?.result.compactMap { crossReference -> CrossReference? in
-            print("vid: \(crossReference.vid), r: \(crossReference.r), sv: \(crossReference.sv), ev: \(crossReference.ev)")
-            return nil
-        }
-        
-        print("Cross references that run across books")
-        _ = ScrollMapperBibleCrossReference(statement: "SELECT * FROM cross_reference WHERE ev > 0")?.result.compactMap { crossReference -> CrossReference? in
-            let bookStart = crossReference.sv / 1_000_000
-            let bookEnd = crossReference.ev / 1_000_000
-            if bookEnd > bookStart {
-                print("vid: \(crossReference.vid), r: \(crossReference.r), sv: \(crossReference.sv), ev: \(crossReference.ev)")
-                return crossReference
+            let _ = Int(sqlite3_column_int(queryStatement, 0)) // vid
+            let r = Int(sqlite3_column_int(queryStatement, 1))
+            let sv = Int(sqlite3_column_int(queryStatement, 2)) // sv
+            let ev = Int(sqlite3_column_int(queryStatement, 3)) // ev
+            let id = Int(sqlite3_column_int(queryStatement, 4))
+            let b = Int(sqlite3_column_int(queryStatement, 5))
+            let c = Int(sqlite3_column_int(queryStatement, 6))
+            let v = Int(sqlite3_column_int(queryStatement, 7))
+            guard let t = sqlite3_column_text(queryStatement, 8) else {
+                continue
             }
-            return nil
+            let text = String(cString: t)
+            if (sv != currentSv) || (ev != currentEv) {
+                if currentSv != 0 {
+                    result.append((StructType(vid: vid, r: currentRank, sv: currentSv, ev: currentEv, verses: verses)))
+                    verses = []
+                }
+                currentRank = r
+                currentSv = sv
+                currentEv = ev
+            }
+            verses.append(ScrollMapperBibleText.BibleText(id: id, b: b, c: c, v: v, t: text))
         }
+        result.append((StructType(vid: vid, r: currentRank, sv: currentSv, ev: currentEv, verses: verses)))
+        return result
     }
 }

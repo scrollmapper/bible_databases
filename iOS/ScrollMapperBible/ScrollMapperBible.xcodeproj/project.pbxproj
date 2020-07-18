@@ -16,10 +16,13 @@
 		5245370624BDFF1400EC11B4 /* JumpToView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370424BDFF1400EC11B4 /* JumpToView.swift */; };
 		5245370724BDFF1400EC11B4 /* JumpToViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370524BDFF1400EC11B4 /* JumpToViewModel.swift */; };
 		5245370924C0F6AB00EC11B4 /* ScrollMapperBibleWebViewColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370824C0F6AB00EC11B4 /* ScrollMapperBibleWebViewColor.swift */; };
+		5245370D24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370B24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceView.swift */; };
+		5245370E24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5245370C24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceViewModel.swift */; };
 		52555D4224B9860500502EE6 /* SearchBarUIViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */; };
 		52555D4424BA2DE400502EE6 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4324BA2DE400502EE6 /* StringExtensions.swift */; };
 		52555D4824BA35F900502EE6 /* ScrollMapperBibleFacilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4724BA35F900502EE6 /* ScrollMapperBibleFacilities.swift */; };
 		52555D4A24BA942F00502EE6 /* ScrollMapperBibleVerseWithCrossReference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52555D4924BA942F00502EE6 /* ScrollMapperBibleVerseWithCrossReference.swift */; };
+		52B2378924C3A9EE0081BF55 /* UIDeviceExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B2378824C3A9EE0081BF55 /* UIDeviceExtensions.swift */; };
 		52BFF79624B8B479009CBB18 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BFF79524B8B479009CBB18 /* WebKit.framework */; };
 		52BFF79924B8BA39009CBB18 /* PeekabooWKWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */; };
 		52D57C2E24ACDAE5001D4E4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D57C2D24ACDAE5001D4E4D /* AppDelegate.swift */; };
@@ -78,10 +81,13 @@
 		5245370424BDFF1400EC11B4 /* JumpToView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpToView.swift; sourceTree = "<group>"; };
 		5245370524BDFF1400EC11B4 /* JumpToViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpToViewModel.swift; sourceTree = "<group>"; };
 		5245370824C0F6AB00EC11B4 /* ScrollMapperBibleWebViewColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleWebViewColor.swift; sourceTree = "<group>"; };
+		5245370B24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleCrossReferenceView.swift; sourceTree = "<group>"; };
+		5245370C24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleCrossReferenceViewModel.swift; sourceTree = "<group>"; };
 		52555D4124B9860500502EE6 /* SearchBarUIViewRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchBarUIViewRepresentable.swift; sourceTree = "<group>"; };
 		52555D4324BA2DE400502EE6 /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
 		52555D4724BA35F900502EE6 /* ScrollMapperBibleFacilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleFacilities.swift; sourceTree = "<group>"; };
 		52555D4924BA942F00502EE6 /* ScrollMapperBibleVerseWithCrossReference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollMapperBibleVerseWithCrossReference.swift; sourceTree = "<group>"; };
+		52B2378824C3A9EE0081BF55 /* UIDeviceExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIDeviceExtensions.swift; sourceTree = "<group>"; };
 		52BFF79524B8B479009CBB18 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		52BFF79824B8BA39009CBB18 /* PeekabooWKWebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeekabooWKWebView.swift; sourceTree = "<group>"; };
 		52D57C2A24ACDAE5001D4E4D /* ScrollMapperBible.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollMapperBible.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -167,6 +173,7 @@
 		522AF66224B633B700FE503C /* Branches */ = {
 			isa = PBXGroup;
 			children = (
+				5245370A24C132BD00EC11B4 /* CrossReference */,
 				5245370324BDFE6800EC11B4 /* JumpTo */,
 				522AF66324B6340600FE503C /* Search */,
 				522AF64C24B51F6E00FE503C /* Translations */,
@@ -198,6 +205,15 @@
 				5245370524BDFF1400EC11B4 /* JumpToViewModel.swift */,
 			);
 			path = JumpTo;
+			sourceTree = "<group>";
+		};
+		5245370A24C132BD00EC11B4 /* CrossReference */ = {
+			isa = PBXGroup;
+			children = (
+				5245370B24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceView.swift */,
+				5245370C24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceViewModel.swift */,
+			);
+			path = CrossReference;
 			sourceTree = "<group>";
 		};
 		52555D4024B9860500502EE6 /* SearchBarUIViewRepresentable */ = {
@@ -403,6 +419,7 @@
 			children = (
 				52D57C9F24B4CA09001D4E4D /* BundleExtensions.swift */,
 				52555D4324BA2DE400502EE6 /* StringExtensions.swift */,
+				52B2378824C3A9EE0081BF55 /* UIDeviceExtensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -558,12 +575,14 @@
 				52555D4824BA35F900502EE6 /* ScrollMapperBibleFacilities.swift in Sources */,
 				52D57C7324B3A900001D4E4D /* ScrollMapperBibleModelBase.swift in Sources */,
 				52D57C7724B3C59F001D4E4D /* ScrollMapperBibleCrossReference.swift in Sources */,
+				5245370E24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceViewModel.swift in Sources */,
 				52BFF79924B8BA39009CBB18 /* PeekabooWKWebView.swift in Sources */,
 				52D57C3024ACDAE5001D4E4D /* SceneDelegate.swift in Sources */,
 				52D57C9C24B4BC0A001D4E4D /* ScrollMapperBibleTextViewModel.swift in Sources */,
 				52D57C9B24B4BC0A001D4E4D /* ScrollMapperBibleTextView.swift in Sources */,
 				522AF65424B51F9200FE503C /* ScrollMapperBibleTranslationsViewModel.swift in Sources */,
 				52D57C9924B4BC0A001D4E4D /* JKCSUIShared.swift in Sources */,
+				5245370D24C13C9500EC11B4 /* ScrollMapperBibleCrossReferenceView.swift in Sources */,
 				52555D4A24BA942F00502EE6 /* ScrollMapperBibleVerseWithCrossReference.swift in Sources */,
 				52D57C8324B4BB20001D4E4D /* ScrollMapperBibleMainView.swift in Sources */,
 				52D57C9424B4BBE9001D4E4D /* ScrollMapperBibleSettingsViewModel.swift in Sources */,
@@ -574,6 +593,7 @@
 				52D57C8424B4BB20001D4E4D /* ScrollMapperBibleMainViewModel.swift in Sources */,
 				52555D4224B9860500502EE6 /* SearchBarUIViewRepresentable.swift in Sources */,
 				5245370724BDFF1400EC11B4 /* JumpToViewModel.swift in Sources */,
+				52B2378924C3A9EE0081BF55 /* UIDeviceExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

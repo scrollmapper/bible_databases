@@ -9,29 +9,13 @@
 import SwiftUI
 import Combine
 
-struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDelegate {
+struct ScrollMapperBibleTextView: View {
     @ObservedObject private var viewModel: ScrollMapperBibleTextViewModel
     @Environment(\.colorScheme) var colorScheme
     @State private var showActivityIndicator = false
     @State private var showAlert = false
     @State private var pushJumpToView = false
     @State private var pushSearchView = false
-    @State private var alert: ScrollMapperBibleTextViewAlert = .none {
-        didSet {
-            switch alert {
-            case .failed(_):
-                showAlert = true
-            default:
-                break
-            }
-        }
-    }
-    func onAlertActionConfirm(alert: ScrollMapperBibleTextViewAlert) {
-        switch alert {
-        default:
-            break
-        }
-    }
     
     @State var reloadChapter = false
     
@@ -47,8 +31,35 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
                     createWebView()
                     Spacer().frame(width: 8)
                 }
-                .alert(isPresented: $showAlert) {
-                    return alert.alert(delegate: self)
+                .actionSheet(isPresented: self.$viewModel.showActionSheet, content: { () -> ActionSheet in
+                    var buttonTitle = "Unknown"
+                    switch self.viewModel.actionSheet {
+                    case .verseNumber(let book, let chapter, let verse):
+                        buttonTitle = "Cross Ref. \(book.bookInfo()?.abbreviation ?? "") \(chapter):\(verse)"
+                    case .word(let word):
+                        buttonTitle = "Look up \"\(word)\" in dictionary"
+                    default:
+                        break
+                    }
+                    return ActionSheet(title: Text("Action"), message: nil, buttons: [
+                        .default(Text(buttonTitle), action: {
+                            DispatchQueue.main.async {
+                                switch self.viewModel.actionSheet {
+                                case .verseNumber(let book, let chapter, let verse):
+                                    self.viewModel.retrieveCrossReference(book: book, chapter: chapter, verse: verse)
+                                case .word(let word):
+                                    self.viewModel.lookUp(word)
+                                default:
+                                    break
+                                }
+                            }
+                        }),
+                        .cancel()
+                    ])
+                })
+                
+                GeometryReader { (geometryProxy) in
+                    self.crossRefView(geometryProxy: geometryProxy)
                 }
                 
                 NavigationLink(destination: JumpToView(), isActive: self.$pushJumpToView) {
@@ -76,14 +87,8 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
         viewModel.colorSchemeDidChange(darkMode: colorScheme == .dark)
         let webView = PeekabooWKWebView(viewModel: viewModel, postMessageHandlers: [.wordClickHandler])
             .onClick(delegate: { (message) in
-                print("*** onClick: \(message)")
-                if let clicked = message["clicked"] as? [String : Any] {
-                    if let word = clicked["word"] as? String {
-                        print("*** word clicked: \(word)")
-                    }
-                    if let sentence = clicked["sentence"] as? String {
-                        print("*** sentence clicked: \(sentence)")
-                    }
+                DispatchQueue.main.async {
+                    self.viewModel.checkClickedMessage(message: message)
                 }
             })
             .onSwipe(delegate: { (direction) in
@@ -95,6 +100,37 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
                 }
             })
         return webView
+    }
+    
+    private func crossRefView(geometryProxy: GeometryProxy) -> AnyView? {
+        guard viewModel.crossReferenceVid != 0 else {
+            return nil
+        }
+        return AnyView(
+            ZStack {
+                AnyView(
+                    Text("")
+                        .frame(width: geometryProxy.size.width, height: geometryProxy.size.height)
+                        .background(Color.black)
+                        .opacity(0.5)
+                        .onTapGesture {
+                            DispatchQueue.main.async {
+                                self.viewModel.dismissCrossReference()
+                            }
+                    }
+                )
+                
+                VStack {
+                    Spacer()
+                    HStack {
+                        Spacer()
+                        ScrollMapperBibleCrossReferenceView(vid: viewModel.crossReferenceVid).frame(width: geometryProxy.size.width * 0.8, height: geometryProxy.size.height * 0.8)
+                        Spacer()
+                    }
+                    Spacer()
+                }
+            }
+        )
     }
     
     private func navigationBarLeading() -> some View {
@@ -117,29 +153,5 @@ struct ScrollMapperBibleTextView: View, ScrollMapperBibleTextViewAlertActionDele
 struct ScrollMapperBibleTextView_Previews: PreviewProvider {
     static var previews: some View {
         ScrollMapperBibleTextView()
-    }
-}
-
-// MARK: - Alert
-
-protocol ScrollMapperBibleTextViewAlertActionDelegate {
-    func onAlertActionConfirm(alert: ScrollMapperBibleTextViewAlert)
-}
-
-enum ScrollMapperBibleTextViewAlert {
-    case none
-    case failed(error: JKCSError)
-    
-    func alert<T: ScrollMapperBibleTextViewAlertActionDelegate>(delegate: T) -> Alert {
-        var title: String
-        var message: String
-        switch self {
-        case .none:
-            return Alert(title: Text("NONE"))
-        case .failed(let error):
-            title = "FAILED"
-            message = error.message
-            return Alert(title: Text(title), message: Text(message), dismissButton: .default(Text("OK")))
-        }
     }
 }

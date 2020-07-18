@@ -13,16 +13,30 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     @Published var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
         didSet {
             if translation != oldValue {
-                generateCurrentChapterHTMLString()
+                retrieveCurrentChapterText()
             }
         }
     }
     var translationSubscriber: AnyCancellable? = nil
     
+    var actionSheet: ActionSheetType = .unknown {
+        didSet {
+            switch actionSheet {
+            case .unknown:
+                break
+            default:
+                showActionSheet = true
+            }
+        }
+    }
+    @Published var showActionSheet = false
+    
+    @Published var crossReferenceVid: Int = 0
+    
     private var currentChapter: ScrollMapperBibleChapter.BibleChapter = ScrollMapperBibleChapter.BibleChapter(b: 1, c: 1)! {
         didSet {
             if currentChapter != oldValue {
-                generateCurrentChapterHTMLString()
+                retrieveCurrentChapterText()
                 scrollMapperBiblePublishers.publishCurrentChapter(cid: currentChapter.cid)
             }
         }
@@ -32,11 +46,12 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     private var darkMode: Bool = false {
         didSet {
             if darkMode != oldValue {
-                generateCurrentChapterHTMLString()
+                retrieveCurrentChapterText()
             }
         }
     }
     
+    var bibleText: [ScrollMapperBibleText.BibleText] = []
     var currentChapterHTMLString: String = ""
     let currentChapterUpdatedSubject = CurrentValueSubject<String, Never>("")
     let currentChapterUpdatedPublisher: AnyPublisher<String, Never>
@@ -44,7 +59,7 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     init() {
         currentChapterUpdatedPublisher = currentChapterUpdatedSubject.eraseToAnyPublisher()
         subscribe()
-        generateCurrentChapterHTMLString()
+        retrieveCurrentChapterText()
     }
     
     deinit {
@@ -67,7 +82,9 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
         currentChapterSubscriber = nil
     }
     
-    private func generateCurrentChapterHTMLString() {
+    private func retrieveCurrentChapterText() {
+        bibleText.removeAll()
+        
         // https://useyourloaf.com/blog/supporting-dark-mode-in-wkwebview/
         
         let textFontSize = 60
@@ -107,11 +124,14 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
         htmlString += "      }\n"
         htmlString += "    </script>\n"
         htmlString += "  </head>\n"
-        htmlString += "  <h1 style=\"text-align:center; font-size:48pt\">\(currentChapter.bibleBook.bookInfo()?.title_short ?? "") \(currentChapter.c)</h1>\n"
+        htmlString += "  <h1 style=\"text-align:center; font-size:48pt; color:\(darkMode ? "white" : "black")\">\(currentChapter.bibleBook.bookInfo()?.title_short ?? "") \(currentChapter.c)</h1>\n"
         htmlString += "  <body>\n"
         var bodyContent = ""
-        _ = ScrollMapperBibleVerseWithCrossReference(version: translation, book: currentChapter.bibleBook, chapter: currentChapter.c)?.result.map {
-            bodyContent += "\(" ".withHTMLTags(fontSize: textFontSize))\("\($0.v)".withHTMLTags(fontSize: verseNumberFontSize, color: (($0.cr.count > 0) ? (darkMode ? "#FFFF00" : "#0000FF") : ""), sup: true))\(" ".withHTMLTags(fontSize: textFontSize))\($0.t.withHTMLTags(fontSize: textFontSize, color: darkMode ? "white" : "black"))"
+        if let result = ScrollMapperBibleVerseWithCrossReference(version: translation, book: currentChapter.bibleBook, chapter: currentChapter.c)?.result {
+            for verse in result {
+                bibleText.append(ScrollMapperBibleText.BibleText(id: verse.id, b: verse.b, c: verse.c, v: verse.v, t: verse.t))
+                bodyContent += "\(" ".withHTMLTags(fontSize: textFontSize))\("\(verse.v)".withHTMLTags(fontSize: verseNumberFontSize, color: ((verse.cr.count > 0) ? (darkMode ? "#FFFF00" : "#0000FF") : ""), sup: true))\(" ".withHTMLTags(fontSize: textFontSize))\(verse.t.withHTMLTags(fontSize: textFontSize, color: darkMode ? "white" : "black"))"
+            }
         }
         htmlString += "    <p class=\"p_clickable\">\(bodyContent)</p>\n"
         htmlString += "  </body>\n"
@@ -140,5 +160,50 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     
     func colorSchemeDidChange(darkMode: Bool) {
         self.darkMode = darkMode
+    }
+}
+
+extension ScrollMapperBibleTextViewModel {
+    enum ActionSheetType {
+        case unknown
+        case verseNumber(_ book: ScrollMapperBibleBookInfo.BibleBook, _ chapter: Int, _ number: Int)
+        case word(_ word: String)
+    }
+    
+    func checkClickedMessage(message: Any?) {
+        guard
+            let message = message as? [String : Any],
+            let clicked = message["clicked"] as? [String : Any],
+            let word = clicked["word"] as? String,
+            let sentence = clicked["sentence"] as? String
+        else {
+            return
+        }
+        if CharacterSet.decimalDigits.isSuperset(of: CharacterSet(charactersIn: word)) { // number
+            for text in bibleText {
+                let verse = "\(text.v) \(text.t)"
+                let length = min(sentence.count, verse.count)
+                if sentence.prefix(length) == verse.prefix(length),
+                    let number = Int(word) {
+                    actionSheet = .verseNumber(currentChapter.bibleBook, currentChapter.c, number)
+                    return
+                }
+            }
+        }
+        else { // word
+            actionSheet = .word(word)
+        }
+    }
+    
+    func retrieveCrossReference(book: ScrollMapperBibleBookInfo.BibleBook, chapter: Int, verse: Int) {
+        crossReferenceVid = book.rawValue * 1_000_000 + chapter * 1_000 + verse
+    }
+    
+    func lookUp(_ word: String) {
+        print("*** lookUp: \(word)")
+    }
+    
+    func dismissCrossReference() {
+        crossReferenceVid = 0
     }
 }
