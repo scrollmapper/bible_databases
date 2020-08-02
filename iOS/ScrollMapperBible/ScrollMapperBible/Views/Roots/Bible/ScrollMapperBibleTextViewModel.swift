@@ -10,10 +10,12 @@ import Foundation
 import Combine
 
 class ScrollMapperBibleTextViewModel: ObservableObject {
+    private var uiViewModel = UIViewModel()
+    
     @Published var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
         didSet {
             if translation != oldValue {
-                retrieveCurrentChapterText()
+                createCurrentChapterPage()
             }
         }
     }
@@ -36,7 +38,7 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     private var currentChapter: ScrollMapperBibleChapter.BibleChapter = ScrollMapperBibleChapter.BibleChapter(b: 1, c: 1)! {
         didSet {
             if currentChapter != oldValue {
-                retrieveCurrentChapterText()
+                createCurrentChapterPage()
                 scrollMapperBiblePublishers.publishCurrentChapter(cid: currentChapter.cid)
             }
         }
@@ -46,7 +48,7 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     private var darkMode: Bool = false {
         didSet {
             if darkMode != oldValue {
-                retrieveCurrentChapterText()
+                createCurrentChapterPage()
             }
         }
     }
@@ -59,7 +61,7 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
     init() {
         currentChapterUpdatedPublisher = currentChapterUpdatedSubject.eraseToAnyPublisher()
         subscribe()
-        retrieveCurrentChapterText()
+        createCurrentChapterPage()
     }
     
     deinit {
@@ -73,6 +75,10 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
         currentChapterSubscriber = scrollMapperBiblePublishers.currentChapterCidPublisher.sink(receiveValue: { (cid) in
             self.currentChapter = ScrollMapperBibleChapter.BibleChapter(cid: cid) ?? ScrollMapperBibleChapter.BibleChapter(b: 1, c: 1)!
         })
+        
+        uiViewModel.onInterfaceOrientationChange { (_) in
+            self.createCurrentChapterPage()
+        }
     }
     
     func unsubscribe() {
@@ -82,13 +88,13 @@ class ScrollMapperBibleTextViewModel: ObservableObject {
         currentChapterSubscriber = nil
     }
     
-    private func retrieveCurrentChapterText() {
+    private func createCurrentChapterPage() {
         bibleText.removeAll()
         
         // https://useyourloaf.com/blog/supporting-dark-mode-in-wkwebview/
         
-        let textFontSize = 60
-        let verseNumberFontSize = 36
+        let textFontSize = (isPhone && uiViewModel.isPortrait) ? 60 : 24
+        let verseNumberFontSize = (isPhone && uiViewModel.isPortrait) ? 36 : 14
 
         var htmlString = ""
         htmlString += "<!DOCTYPE html>\n"

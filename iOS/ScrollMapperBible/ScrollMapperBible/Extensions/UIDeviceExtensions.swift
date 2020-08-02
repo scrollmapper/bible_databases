@@ -9,15 +9,15 @@
 import UIKit
 
 extension UIDevice {
-    func isPad() -> Bool {
+    var isPad: Bool {
         return userInterfaceIdiom == .pad
     }
     
-    func isPhone() -> Bool {
+    var isPhone: Bool {
         return userInterfaceIdiom == .phone
     }
     
-    func currentInterfaceOrientation() -> UIInterfaceOrientation {
+    var currentInterfaceOrientation: UIInterfaceOrientation {
         if let interfaceOrientation = UIApplication.shared.windows.first(where: { $0.isKeyWindow })?.windowScene?.interfaceOrientation {
             return interfaceOrientation
         }
@@ -26,11 +26,11 @@ extension UIDevice {
         }
     }
     
-    func isPortrait() -> Bool {
-        return currentInterfaceOrientation().isPortrait
+    var isPortrait: Bool {
+        return currentInterfaceOrientation.isPortrait
     }
     
-    func isLandscape() -> Bool {
-        return currentInterfaceOrientation().isLandscape
+    var isLandscape: Bool {
+        return currentInterfaceOrientation.isLandscape
     }
 }
