@@ -1,5 +1,3 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W8RKPHPUF398G)
-
 Bible Versions and Cross-Reference Databases: mysql, sqlite, xml, csv, json.
 ===============
 
@@ -7,9 +5,7 @@ Here you will find the following bible versions in sql, sqlite, xml, csv, and js
 
 - American Standard-ASV1901 (ASV)
 - Bible in Basic English (BBE)
-- Darby English Bible (DARBY)
 - King James Version (KJV)
-- Webster's Bible (WBT)
 - World English Bible (WEB)
 - Young's Literal Translation (YLT)
 
