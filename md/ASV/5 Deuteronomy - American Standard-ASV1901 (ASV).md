@@ -1,0 +1,1919 @@
+# Deuteronomy - American Standard-ASV1901 (ASV)
+
+**[1:1]** These are the words which Moses spake unto all Israel beyond the Jordan in the wilderness, in the Arabah over against Suph, between Paran, and Tophel, and Laban, and Hazeroth, and Di-zahab.
+
+**[1:2]** It is eleven days' `journey' from Horeb by the way of mount Seir unto Kadesh-barnea.
+
+**[1:3]** And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that Jehovah had given him in commandment unto them;
+
+**[1:4]** after he had smitten Sihon the king of the Amorites, who dwelt in Heshbon, and Og the king of Bashan, who dwelt in Ashtaroth, at Edrei.
+
+**[1:5]** Beyond the Jordan, in the land of Moab, began Moses to declare this law, saying,
+
+**[1:6]** Jehovah our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mountain:
+
+**[1:7]** turn you, and take your journey, and go to the hill-country of the Amorites, and unto all `the places' nigh thereunto, in the Arabah, in the hill-country, and in the lowland, and in the South, and by the sea-shore, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates.
+
+**[1:8]** Behold, I have set the land before you: go in and possess the land which Jehovah sware unto your fathers, to Abraham, to Isaac, and to Jacob, to give unto them and to their seed after them.
+
+**[1:9]** And I spake unto you at that time, saying, I am not able to bear you myself alone:
+
+**[1:10]** Jehovah your God hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude.
+
+**[1:11]** Jehovah, the God of your fathers, make you a thousand times as many as ye are, and bless you, as he hath promised you!
+
+**[1:12]** How can I myself alone bear your cumbrance, and your burden, and your strife?
+
+**[1:13]** Take you wise men, and understanding, and known, according to your tribes, and I will make them heads over you.
+
+**[1:14]** And ye answered me, and said, The thing which thou hast spoken is good `for us' to do.
+
+**[1:15]** So I took the heads of your tribes, wise men, and known, and made them heads over you, captains of thousands, and captains of hundreds, and captains of fifties, and captains of tens, and officers, according to your tribes.
+
+**[1:16]** And I charged your judges at that time, saying, Hear `the causes' between your brethren, and judge righteously between a man and his brother, and the sojourner that is with him.
+
+**[1:17]** Ye shall not respect persons in judgment; ye shall hear the small and the great alike; ye shall not be afraid of the face of man; for the judgment is God's: and the cause that is too hard for you ye shall bring unto me, and I will hear it.
+
+**[1:18]** And I commanded you at that time all the things which ye should do.
+
+**[1:19]** And we journeyed from Horeb, and went through all that great and terrible wilderness which ye saw, by the way to the hill-country of the Amorites, as Jehovah our God commanded us; and we came to Kadesh-barnea.
+
+**[1:20]** And I said unto you, Ye are come unto the hill-country of the Amorites, which Jehovah our God giveth unto us.
+
+**[1:21]** Behold, Jehovah thy God hath set the land before thee: go up, take possession, as Jehovah, the God of thy fathers, hath spoken unto thee; fear not, neither be dismayed.
+
+**[1:22]** And ye came near unto me every one of you, and said, Let us send men before us, that they may search the land for us, and bring us word again of the way by which we must go up, and the cities unto which we shall come.
+
+**[1:23]** And the thing pleased me well; and I took twelve men of you, one man for every tribe:
+
+**[1:24]** and they turned and went up into the hill-country, and came unto the valley of Eshcol, and spied it out.
+
+**[1:25]** And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which Jehovah our God giveth unto us.
+
+**[1:26]** Yet ye would not go up, but rebelled against the commandment of Jehovah your God:
+
+**[1:27]** and ye murmured in your tents, and said, Because Jehovah hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.
+
+**[1:28]** Whither are we going up? our brethren have made our heart to melt, saying, The people are greater and taller than we; the cities are great and fortified up to heaven; and moreover we have seen the sons of the Anakim there.
+
+**[1:29]** Then I said unto you, Dread not, neither be afraid of them.
+
+**[1:30]** Jehovah your God who goeth before you, he will fight for you, according to all that he did for you in Egypt before your eyes,
+
+**[1:31]** and in the wilderness, where thou hast seen how that Jehovah thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came unto this place.
+
+**[1:32]** Yet in this thing ye did not believe Jehovah your God,
+
+**[1:33]** who went before you in the way, to seek you out a place to pitch your tents in, in fire by night, to show you by what way ye should go, and in the cloud by day.
+
+**[1:34]** And Jehovah heard the voice of your words, and was wroth, and sware, saying,
+
+**[1:35]** Surely there shall not one of these men of this evil generation see the good land, which I sware to give unto your fathers,
+
+**[1:36]** save Caleb the son of Jephunneh: he shall see it; and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed Jehovah.
+
+**[1:37]** Also Jehovah was angry with me for your sakes, saying, Thou also shalt not go in thither:
+
+**[1:38]** Joshua the son of Nun, who standeth before thee, he shall go in thither: encourage thou him; for he shall cause Israel to inherit it.
+
+**[1:39]** Moreover your little ones, that ye said should be a prey, and your children, that this day have no knowledge of good or evil, they shall go in thither, and unto them will I give it, and they shall possess it.
+
+**[1:40]** But as for you, turn you, and take your journey into the wilderness by the way to the Red Sea.
+
+**[1:41]** Then ye answered and said unto me, We have sinned against Jehovah, we will go up and fight, according to all that Jehovah our God commanded us. And ye girded on every man his weapons of war, and were forward to go up into the hill-country.
+
+**[1:42]** And Jehovah said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies.
+
+**[1:43]** So I spake unto you, and ye hearkened not; but ye rebelled against the commandment of Jehovah, and were presumptuous, and went up into the hill-country.
+
+**[1:44]** And the Amorites, that dwelt in that hill-country, came out against you, and chased you, as bees do, and beat you down in Seir, even unto Hormah.
+
+**[1:45]** And ye returned and wept before Jehovah; but Jehovah hearkened not to your voice, nor gave ear unto you.
+
+**[1:46]** So ye abode in Kadesh many days, according unto the days that ye abode `there'.
+
+**[2:1]** Then we turned, and took our journey into the wilderness by the way to the Red Sea, as Jehovah spake unto me; and we compassed mount Seir many days.
+
+**[2:2]** And Jehovah spake unto me, saying,
+
+**[2:3]** Ye have compassed this mountain long enough: turn you northward.
+
+**[2:4]** And command thou the people, saying, Ye are to pass through the border of your brethren the children of Esau, that dwell in Seir; and they will be afraid of you: take ye good heed unto yourselves therefore;
+
+**[2:5]** contend not with them; for I will not give you of their land, no, not so much as for the sole of the foot to tread on; because I have given mount Seir unto Esau for a possession.
+
+**[2:6]** Ye shall purchase food of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.
+
+**[2:7]** For Jehovah thy God hath blessed thee in all the work of thy hand; he hath known thy walking through this great wilderness: these forty years Jehovah thy God hath been with thee; thou hast lacked nothing.
+
+**[2:8]** So we passed by from our brethren the children of Esau, that dwell in Seir, from the way of the Arabah from Elath and from Ezion-geber. And we turned and passed by the way of the wilderness of Moab.
+
+**[2:9]** And Jehovah said unto me, Vex not Moab, neither contend with them in battle; for I will not give thee of his land for a possession; because I have given Ar unto the children of Lot for a possession.
+
+**[2:10]** (The Emim dwelt therein aforetime, a people great, and many, and tall, as the Anakim:
+
+**[2:11]** these also are accounted Rephaim, as the Anakim; but the Moabites call them Emim.
+
+**[2:12]** The Horites also dwelt in Seir aforetime, but the children of Esau succeeded them; and they destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which Jehovah gave unto them.)
+
+**[2:13]** Now rise up, and get you over the brook Zered. And we went over the brook Zered.
+
+**[2:14]** And the days in which we came from Kadesh-barnea, until we were come over the brook Zered, were thirty and eight years; until all the generation of the men of war were consumed from the midst of the camp, as Jehovah sware unto them.
+
+**[2:15]** Moreover the hand of Jehovah was against them, to destroy them from the midst of the camp, until they were consumed.
+
+**[2:16]** So it came to pass, when all the men of war were consumed and dead from among the people,
+
+**[2:17]** that Jehovah spake unto me, saying,
+
+**[2:18]** Thou art this day to pass over Ar, the border of Moab:
+
+**[2:19]** and when thou comest nigh over against the children of Ammon, vex them not, nor contend with them; for I will not give thee of the land of the children of Ammon for a possession; because I have given it unto the children of Lot for a possession.
+
+**[2:20]** (That also is accounted a land of Rephaim: Rephaim dwelt therein aforetime; but the Ammonites call them Zamzummim,
+
+**[2:21]** a people great, and many, and tall, as the Anakim; but Jehovah destroyed them before them; and they succeeded them, and dwelt in their stead;
+
+**[2:22]** as he did for the children of Esau, that dwell in Seir, when he destroyed the Horites from before them; and they succeeded them, and dwelt in their stead even unto this day:
+
+**[2:23]** and the Avvim, that dwelt in villages as far as Gaza, the Caphtorim, that came forth out of Caphtor, destroyed them, and dwelt in their stead.)
+
+**[2:24]** Rise ye up, take your journey, and pass over the valley of the Arnon: behold, I have given into thy hand Sihon the Amorite, king of Heshbon, and his land; begin to possess it, and contend with him in battle.
+
+**[2:25]** This day will I begin to put the dread of thee and the fear of thee upon the peoples that are under the whole heaven, who shall hear the report of thee, and shall tremble, and be in anguish because of thee.
+
+**[2:26]** And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,
+
+**[2:27]** Let me pass through thy land: I will go along by the highway, I will turn neither unto the right hand nor to the left.
+
+**[2:28]** Thou shalt sell me food for money, that I may eat; and give me water for money, that I may drink: only let me pass through on my feet,
+
+**[2:29]** as the children of Esau that dwell in Seir, and the Moabites that dwell in Ar, did unto me; until I shall pass over the Jordan into the land which Jehovah our God giveth us.
+
+**[2:30]** But Sihon king of Heshbon would not let us pass by him; for Jehovah thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as at this day.
+
+**[2:31]** And Jehovah said unto me, Behold, I have begun to deliver up Sihon and his land before thee: begin to possess, that thou mayest inherit his land.
+
+**[2:32]** Then Sihon came out against us, he and all his people, unto battle at Jahaz.
+
+**[2:33]** And Jehovah our God delivered him up before us; and we smote him, and his sons, and all his people.
+
+**[2:34]** And we took all his cities at that time, and utterly destroyed every inhabited city, with the women and the little ones; we left none remaining:
+
+**[2:35]** only the cattle we took for a prey unto ourselves, with the spoil of the cities which we had taken.
+
+**[2:36]** From Aroer, which is on the edge of the valley of the Arnon, and `from' the city that is in the valley, even unto Gilead, there was not a city too high for us; Jehovah our God delivered up all before us:
+
+**[2:37]** only to the land of the children of Ammon thou camest not near; all the side of the river Jabbok, and the cities of the hill-country, and wheresoever Jehovah our God forbade us.
+
+**[3:1]** Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, unto battle at Edrei.
+
+**[3:2]** And Jehovah said unto me, Fear him not; for I have delivered him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, who dwelt at Heshbon.
+
+**[3:3]** So Jehovah our God delivered into our hand Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.
+
+**[3:4]** And we took all his cities at that time; there was not a city which we took not from them; threescore cities, all the region of Argob, the kingdom of Og in Bashan.
+
+**[3:5]** All these were cities fortified with high walls, gates, and bars; besides the unwalled towns a great many.
+
+**[3:6]** And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying every inhabited city, with the women and the little ones.
+
+**[3:7]** But all the cattle, and the spoil of the cities, we took for a prey unto ourselves.
+
+**[3:8]** And we took the land at that time out of the hand of the two kings of the Amorites that were beyond the Jordan, from the valley of the Arnon unto mount Hermon;
+
+**[3:9]** (`which' Hermon the Sidonians call Sirion, and the Amorites call it Senir;)
+
+**[3:10]** all the cities of the plain, and all Gilead, and all Bashan, unto Salecah and Edrei, cities of the kingdom of Og in Bashan.
+
+**[3:11]** (For only Og king of Bashan remained of the remnant of the Rephaim; behold, his bedstead was a bedstead of iron; is it not in Rabbah of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man.)
+
+**[3:12]** And this land we took in possession at that time: from Aroer, which is by the valley of the Arnon, and half the hill-country of Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites:
+
+**[3:13]** and the rest of Gilead, and all Bashan, the kingdom of Og, gave I unto the half-tribe of Manasseh; all the region of Argob, even all Bashan. (The same is called the land of Rephaim.
+
+**[3:14]** Jair the son of Manasseh took all the region of Argob, unto the border of the Geshurites and the Maacathites, and called them, even Bashan, after his own name, Havvoth-jair, unto this day.)
+
+**[3:15]** And I gave Gilead unto Machir.
+
+**[3:16]** And unto the Reubenites and unto the Gadites I gave from Gilead even unto the valley of the Arnon, the middle of the valley, and the border `thereof', even unto the river Jabbok, which is the border of the children of Ammon;
+
+**[3:17]** the Arabah also, and the Jordan and the border `thereof', from Chinnereth even unto the sea of the Arabah, the Salt Sea, under the slopes of Pisgah eastward.
+
+**[3:18]** And I commanded you at that time, saying, Jehovah your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all the men of valor.
+
+**[3:19]** But your wives, and your little ones, and your cattle, (I know that ye have much cattle,) shall abide in your cities which I have given you,
+
+**[3:20]** until Jehovah give rest unto your brethren, as unto you, and they also possess the land which Jehovah your God giveth them beyond the Jordan: then shall ye return every man unto his possession, which I have given you.
+
+**[3:21]** And I commanded Joshua at that time, saying, Thine eyes have seen all that Jehovah your God hath done unto these two kings: so shall Jehovah do unto all the kingdoms whither thou goest over.
+
+**[3:22]** Ye shall not fear them; for Jehovah your God, he it is that fighteth for you.
+
+**[3:23]** And I besought Jehovah at that time, saying,
+
+**[3:24]** O Lord Jehovah, thou hast begun to show thy servant thy greatness, and thy strong hand: for what god is there in heaven or in earth, that can do according to thy works, and according to thy mighty acts?
+
+**[3:25]** Let me go over, I pray thee, and see the good land that is beyond the Jordan, that goodly mountain, and Lebanon.
+
+**[3:26]** But Jehovah was wroth with me for your sakes, and hearkened not unto me; and Jehovah said unto me, Let it suffice thee; speak no more unto me of this matter.
+
+**[3:27]** Get thee up unto the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold with thine eyes: for thou shalt not go over this Jordan.
+
+**[3:28]** But charge Joshua, and encourage him, and strengthen him; for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see.
+
+**[3:29]** So we abode in the valley over against Beth-peor.
+
+**[4:1]** And now, O Israel, hearken unto the statutes and unto the ordinances, which I teach you, to do them; that ye may live, and go in and possess the land which Jehovah, the God of your fathers, giveth you.
+
+**[4:2]** Ye shall not add unto the word which I command you, neither shall ye diminish from it, that ye may keep the commandments of Jehovah your God which I command you.
+
+**[4:3]** Your eyes have seen what Jehovah did because of Baal-peor; for all the men that followed Baal-peor, Jehovah thy God hath destroyed them from the midst of thee.
+
+**[4:4]** But ye that did cleave unto Jehovah your God are alive every one of you this day.
+
+**[4:5]** Behold, I have taught you statutes and ordinances, even as Jehovah my God commanded me, that ye should do so in the midst of the land whither ye go in to possess it.
+
+**[4:6]** Keep therefore and do them; for this is your wisdom and your understanding in the sight of the peoples, that shall hear all these statutes, and say, Surely this great nation is a wise and understanding people.
+
+**[4:7]** For what great nation is there, that hath a god so nigh unto them, as Jehovah our God is whensoever we call upon him?
+
+**[4:8]** And what great nation is there, that hath statutes and ordinances so righteous as all this law, which I set before you this day?
+
+**[4:9]** Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes saw, and lest they depart from thy heart all the days of thy life; but make them known unto thy children and thy children's children;
+
+**[4:10]** the day that thou stoodest before Jehovah thy God in Horeb, when Jehovah said unto me, Assemble me the people, and I will make them hear my words, that they may learn to fear me all the days that they live upon the earth, and that they may teach their children.
+
+**[4:11]** And ye came near and stood under the mountain; and the mountain burned with fire unto the heart of heaven, with darkness, cloud, and thick darkness.
+
+**[4:12]** And Jehovah spake unto you out of the midst of the fire: ye heard the voice of words, but ye saw no form; only `ye heard' a voice.
+
+**[4:13]** And he declared unto you his covenant, which he commanded you to perform, even the ten commandments; and he wrote them upon two tables of stone.
+
+**[4:14]** And Jehovah commanded me at that time to teach you statutes and ordinances, that ye might do them in the land whither ye go over to possess it.
+
+**[4:15]** Take ye therefore good heed unto yourselves; for ye saw no manner of form on the day that Jehovah spake unto you in Horeb out of the midst of the fire.
+
+**[4:16]** Lest ye corrupt yourselves, and make you a graven image in the form of any figure, the likeness of male or female,
+
+**[4:17]** the likeness of any beast that is on the earth, the likeness of any winged bird that flieth in the heavens,
+
+**[4:18]** the likeness of anything that creepeth on the ground, the likeness of any fish that is in the water under the earth;
+
+**[4:19]** and lest thou lift up thine eyes unto heaven, and when thou seest the sun and the moon and the stars, even all the host of heaven, thou be drawn away and worship them, and serve them, which Jehovah thy God hath allotted unto all the peoples under the whole heaven.
+
+**[4:20]** But Jehovah hath taken you, and brought you forth out of the iron furnace, out of Egypt, to be unto him a people of inheritance, as at this day.
+
+**[4:21]** Furthermore Jehovah was angry with me for your sakes, and sware that I should not go over the Jordan, and that I should not go in unto that good land, which Jehovah thy God giveth thee for an inheritance:
+
+**[4:22]** but I must die in this land, I must not go over the Jordan; but ye shall go over, and possess that good land.
+
+**[4:23]** Take heed unto yourselves, lest ye forget the covenant of Jehovah your God, which he made with you, and make you a graven image in the form of anything which Jehovah thy God hath forbidden thee.
+
+**[4:24]** For Jehovah thy God is a devouring fire, a jealous God.
+
+**[4:25]** When thou shalt beget children, and children's children, and ye shall have been long in the land, and shall corrupt yourselves, and make a graven image in the form of anything, and shall do that which is evil in the sight of Jehovah thy God, to provoke him to anger;
+
+**[4:26]** I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over the Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed.
+
+**[4:27]** And Jehovah will scatter you among the peoples, and ye shall be left few in number among the nations, whither Jehovah shall lead you away.
+
+**[4:28]** And there ye shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
+
+**[4:29]** But from thence ye shall seek Jehovah thy God, and thou shalt find him, when thou searchest after him with all thy heart and with all thy soul.
+
+**[4:30]** When thou art in tribulation, and all these things are come upon thee, in the latter days thou shalt return to Jehovah thy God, and hearken unto his voice:
+
+**[4:31]** for Jehovah thy God is a merciful God; he will not fail thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.
+
+**[4:32]** For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and from the one end of heaven unto the other, whether there hath been `any such thing' as this great thing is, or hath been heard like it?
+
+**[4:33]** Did ever a people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?
+
+**[4:34]** Or hath God assayed to go and take him a nation from the midst of `another' nation, by trials, by signs, and by wonders, and by war, and by a mighty hand, and by an outstretched arm, and by great terrors, according to all that Jehovah your God did for you in Egypt before your eyes?
+
+**[4:35]** Unto thee it was showed, that thou mightest know that Jehovah he is God; there is none else besides him.
+
+**[4:36]** Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he made thee to see his great fire; and thou heardest his words out of the midst of the fire.
+
+**[4:37]** And because he loved thy fathers, therefore he chose their seed after them, and brought thee out with his presence, with his great power, out of Egypt;
+
+**[4:38]** to drive out nations from before thee greater and mightier than thou, to bring thee in, to give thee their land for an inheritance, as at this day.
+
+**[4:39]** Know therefore this day, and lay it to thy heart, that Jehovah he is God in heaven above and upon the earth beneath; there is none else.
+
+**[4:40]** And thou shalt keep his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong thy days in the land, which Jehovah thy God giveth thee, for ever.
+
+**[4:41]** Then Moses set apart three cities beyond the Jordan toward the sunrising;
+
+**[4:42]** that the manslayer might flee thither, that slayeth his neighbor unawares, and hated him not in time past; and that fleeing unto one of these cities he might live:
+
+**[4:43]** `namely', Bezer in the wilderness, in the plain country, for the Reubenites; and Ramoth in Gilead, for the Gadites; and Golan in Bashan, for the Manassites.
+
+**[4:44]** And this is the law which Moses set before the children of Israel:
+
+**[4:45]** these are the testimonies, and the statutes, and the ordinances, which Moses spake unto the children of Israel, when they came forth out of Egypt,
+
+**[4:46]** beyond the Jordan, in the valley over against Beth-peor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, when they came forth out of Egypt.
+
+**[4:47]** And they took his land in possession, and the land of Og king of Bashan, the two kings of the Amorites, who were beyond the Jordan toward the sunrising;
+
+**[4:48]** from Aroer, which is on the edge of the valley of the Arnon, even unto mount Sion (the same is Hermon),
+
+**[4:49]** and all the Arabah beyond the Jordan eastward, even unto the sea of the Arabah, under the slopes of Pisgah.
+
+**[5:1]** And Moses called unto all Israel, and said unto them, Hear, O Israel, the statutes and the ordinances which I speak in your ears this day, that ye may learn them, and observe to do them.
+
+**[5:2]** Jehovah our God made a covenant with us in Horeb.
+
+**[5:3]** Jehovah made not this covenant with our fathers, but with us, even us, who are all of us here alive this day.
+
+**[5:4]** Jehovah spake with you face to face in the mount out of the midst of the fire,
+
+**[5:5]** (I stood between Jehovah and you at that time, to show you the word of Jehovah: for ye were afraid because of the fire, and went not up into the mount;) saying,
+
+**[5:6]** I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage.
+
+**[5:7]** Thou shalt have no other gods before me.
+
+**[5:8]** Thou shalt not make unto thee a graven image, `nor' any likeness `of anything' that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:
+
+**[5:9]** thou shalt not bow down thyself unto them, nor serve them; for I, Jehovah, thy God, am a jealous God, visiting the iniquity of the fathers upon the children, and upon the third and upon the fourth generation of them that hate me;
+
+**[5:10]** and showing lovingkindness unto thousands of them that love me and keep my commandments.
+
+**[5:11]** Thou shalt not take the name of Jehovah thy God in vain: for Jehovah will not hold him guiltless that taketh his name in vain.
+
+**[5:12]** Observe the sabbath day, to keep it holy, as Jehovah thy God commanded thee.
+
+**[5:13]** Six days shalt thou labor, and do all thy work;
+
+**[5:14]** but the seventh day is a sabbath unto Jehovah thy God: `in it' thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy man-servant and thy maid-servant may rest as well as thou.
+
+**[5:15]** And thou shalt remember that thou wast a servant in the land of Egypt, and Jehovah thy God brought thee out thence by a mighty hand and by an outstretched arm: therefore Jehovah thy God commanded thee to keep the sabbath day.
+
+**[5:16]** Honor thy father and thy mother, as Jehovah thy God commanded thee; that thy days may be long, and that it may go well with thee, in the land which Jehovah thy God giveth thee.
+
+**[5:17]** Thou shalt not kill.
+
+**[5:18]** Neither shalt thou commit adultery.
+
+**[5:19]** Neither shalt thou steal.
+
+**[5:20]** Neither shalt thou bear false witness against thy neighbor.
+
+**[5:21]** Neither shalt thou covet thy neighbor's wife; neither shalt thou desire thy neighbor's house, his field, or his man-servant, or his maid-servant, his ox, or his ass, or anything that is thy neighbor's.
+
+**[5:22]** These words Jehovah spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them upon two tables of stone, and gave them unto me.
+
+**[5:23]** And it came to pass, when ye heard the voice out of the midst of the darkness, while the mountain was burning with fire, that ye came near unto me, even all the heads of your tribes, and your elders;
+
+**[5:24]** and ye said, Behold, Jehovah our God hath showed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth speak with man, and he liveth.
+
+**[5:25]** Now therefore why should we die? for this great fire will consume us: if we hear the voice of Jehovah our God any more, then we shall die.
+
+**[5:26]** For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?
+
+**[5:27]** Go thou near, and hear all that Jehovah our God shall say: and speak thou unto us all that Jehovah our God shall speak unto thee; and we will hear it, and do it.
+
+**[5:28]** And Jehovah heard the voice of your words, when ye spake unto me; and Jehovah said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken.
+
+**[5:29]** Oh that there were such a heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!
+
+**[5:30]** Go say to them, Return ye to your tents.
+
+**[5:31]** But as for thee, stand thou here by me, and I will speak unto thee all the commandment, and the statutes, and the ordinances, which thou shalt teach them, that they may do them in the land which I give them to possess it.
+
+**[5:32]** Ye shall observe to do therefore as Jehovah your God hath commanded you: ye shall not turn aside to the right hand or to the left.
+
+**[5:33]** Ye shall walk in all the way which Jehovah your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess.
+
+**[6:1]** Now this is the commandment, the statutes, and the ordinances, which Jehovah your God commanded to teach you, that ye might do them in the land whither ye go over to possess it;
+
+**[6:2]** that thou mightest fear Jehovah thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son's son, all the days of thy life; and that thy days may be prolonged.
+
+**[6:3]** Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as Jehovah, the God of thy fathers, hath promised unto thee, in a land flowing with milk and honey.
+
+**[6:4]** Hear, O Israel: Jehovah our God is one Jehovah:
+
+**[6:5]** and thou shalt love Jehovah thy God with all thy heart, and with all thy soul, and with all thy might.
+
+**[6:6]** And these words, which I command thee this day, shall be upon thy heart;
+
+**[6:7]** and thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thy house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
+
+**[6:8]** And thou shalt bind them for a sign upon thy hand, and they shall be for frontlets between thine eyes.
+
+**[6:9]** And thou shalt write them upon the door-posts of thy house, and upon thy gates.
+
+**[6:10]** And it shall be, when Jehovah thy God shall bring thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee, great and goodly cities, which thou buildest not,
+
+**[6:11]** and houses full of all good things, which thou filledst not, and cisterns hewn out, which thou hewedst not, vineyards and olive-trees, which thou plantedst not, and thou shalt eat and be full;
+
+**[6:12]** then beware lest thou forget Jehovah, who brought thee forth out of the land of Egypt, out of the house of bondage.
+
+**[6:13]** Thou shalt fear Jehovah thy God; and him shalt thou serve, and shalt swear by his name.
+
+**[6:14]** Ye shall not go after other gods, of the gods of the peoples that are round about you;
+
+**[6:15]** for Jehovah thy God in the midst of thee is a jealous God; lest the anger of Jehovah thy God be kindled against thee, and he destroy thee from off the face of the earth.
+
+**[6:16]** Ye shall not tempt Jehovah your God, as ye tempted him in Massah.
+
+**[6:17]** Ye shall diligently keep the commandments of Jehovah your God, and his testimonies, and his statutes, which he hath commanded thee.
+
+**[6:18]** And thou shalt do that which is right and good in the sight of Jehovah; that it may be well with thee, and that thou mayest go in and possess the good land which Jehovah sware unto thy fathers,
+
+**[6:19]** to thrust out all thine enemies from before thee, as Jehovah hath spoken.
+
+**[6:20]** When thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the ordinances, which Jehovah our God hath commanded you?
+
+**[6:21]** then thou shalt say unto thy son, We were Pharaoh's bondmen in Egypt: and Jehovah brought us out of Egypt with a mighty hand;
+
+**[6:22]** and Jehovah showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his house, before our eyes;
+
+**[6:23]** and he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.
+
+**[6:24]** And Jehovah commanded us to do all these statutes, to fear Jehovah our God, for our good always, that he might preserve us alive, as at this day.
+
+**[6:25]** And it shall be righteousness unto us, if we observe to do all this commandment before Jehovah our God, as he hath commanded us.
+
+**[7:1]** When Jehovah thy God shall bring thee into the land whither thou goest to possess it, and shall cast out many nations before thee, the Hittite, and the Girgashite, and the Amorite, and the Canaanite, and the Perizzite, and the Hivite, and the Jebusite, seven nations greater and mightier than thou;
+
+**[7:2]** and when Jehovah thy God shall deliver them up before thee, and thou shalt smite them; then thou shalt utterly destroy them: thou shalt make no covenant with them, nor show mercy unto them;
+
+**[7:3]** neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.
+
+**[7:4]** For he will turn away thy son from following me, that they may serve other gods: so will the anger of Jehovah be kindled against you, and he will destroy thee quickly.
+
+**[7:5]** But thus shall ye deal with them: ye shall break down their altars, and dash in pieces their pillars, and hew down their Asherim, and burn their graven images with fire.
+
+**[7:6]** For thou art a holy people unto Jehovah thy God: Jehovah thy God hath chosen thee to be a people for his own possession, above all peoples that are upon the face of the earth.
+
+**[7:7]** Jehovah did not set his love upon you, nor choose you, because ye were more in number than any people; for ye were the fewest of all peoples:
+
+**[7:8]** but because Jehovah loveth you, and because he would keep the oath which he sware unto your fathers, hath Jehovah brought you out with a mighty hand, and redeemed you out of the house of bondage, from the hand of Pharaoh king of Egypt.
+
+**[7:9]** Know therefore that Jehovah thy God, he is God, the faithful God, who keepeth covenant and lovingkindness with them that love him and keep his commandments to a thousand generations,
+
+**[7:10]** and repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face.
+
+**[7:11]** Thou shalt therefore keep the commandment, and the statutes, and the ordinances, which I command thee this day, to do them.
+
+**[7:12]** And it shall come to pass, because ye hearken to these ordinances, and keep and do them, that Jehovah thy God will keep with thee the covenant and the lovingkindness which he sware unto thy fathers:
+
+**[7:13]** and he will love thee, and bless thee, and multiply thee; he will also bless the fruit of thy body and the fruit of thy ground, thy grain and thy new wine and thine oil, the increase of thy cattle and the young of thy flock, in the land which he sware unto thy fathers to give thee.
+
+**[7:14]** Thou shalt be blessed above all peoples: there shall not be male or female barren among you, or among your cattle.
+
+**[7:15]** And Jehovah will take away from thee all sickness; and none of the evil diseases of Egypt, which thou knowest, will he put upon thee, but will lay them upon all them that hate thee.
+
+**[7:16]** And thou shalt consume all the peoples that Jehovah thy God shall deliver unto thee; thine eye shall not pity them: neither shalt thou serve their gods; for that will be a snare unto thee.
+
+**[7:17]** If thou shalt say in thy heart, These nations are more than I; how can I dispossess them?
+
+**[7:18]** thou shalt not be afraid of them: thou shalt well remember what Jehovah thy God did unto Pharaoh, and unto all Egypt;
+
+**[7:19]** the great trials which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the outstretched arm, whereby Jehovah thy God brought thee out: so shall Jehovah thy God do unto all the peoples of whom thou art afraid.
+
+**[7:20]** Moreover Jehovah thy God will send the hornet among them, until they that are left, and hide themselves, perish from before thee.
+
+**[7:21]** Thou shalt not be affrighted at them; for Jehovah thy God is in the midst of thee, a great God and a terrible.
+
+**[7:22]** And Jehovah thy God will cast out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee.
+
+**[7:23]** But Jehovah thy God will deliver them up before thee, and will discomfit them with a great discomfiture, until they be destroyed.
+
+**[7:24]** And he will deliver their kings into thy hand, and thou shalt make their name to perish from under heaven: there shall no man be able to stand before thee, until thou have destroyed them.
+
+**[7:25]** The graven images of their gods shall ye burn with fire: thou shalt not covet the silver or the gold that is on them, nor take it unto thee, lest thou be snared therein; for it is an abomination to Jehovah thy God.
+
+**[7:26]** And thou shalt not bring an abomination into thy house, and become a devoted thing like unto it: thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a devoted thing.
+
+**[8:1]** All the commandment which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which Jehovah sware unto your fathers.
+
+**[8:2]** And thou shalt remember all the way which Jehovah thy God hath led thee these forty years in the wilderness, that he might humble thee, to prove thee, to know what was in thy heart, whether thou wouldest keep his commandments, or not.
+
+**[8:3]** And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by everything that proceedeth out of the mouth of Jehovah doth man live.
+
+**[8:4]** Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.
+
+**[8:5]** And thou shalt consider in thy heart, that, as a man chasteneth his son, so Jehovah thy God chasteneth thee.
+
+**[8:6]** And thou shalt keep the commandments of Jehovah thy God, to walk in his ways, and to fear him.
+
+**[8:7]** For Jehovah thy God bringeth thee into a good land, a land of brooks of water, of fountains and springs, flowing forth in valleys and hills;
+
+**[8:8]** a land of wheat and barley, and vines and fig-trees and pomegranates; a land of olive-trees and honey;
+
+**[8:9]** a land wherein thou shalt eat bread without scarceness, thou shalt not lack anything in it; a land whose stones are iron, and out of whose hills thou mayest dig copper.
+
+**[8:10]** And thou shalt eat and be full, and thou shalt bless Jehovah thy God for the good land which he hath given thee.
+
+**[8:11]** Beware lest thou forget Jehovah thy God, in not keeping his commandments, and his ordinances, and his statutes, which I command thee this day:
+
+**[8:12]** lest, when thou hast eaten and art full, and hast built goodly houses, and dwelt therein;
+
+**[8:13]** and when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;
+
+**[8:14]** then thy heart be lifted up, and thou forget Jehovah thy God, who brought thee forth out of the land of Egypt, out of the house of bondage;
+
+**[8:15]** who led thee through the great and terrible wilderness, `wherein were' fiery serpents and scorpions, and thirsty ground where was no water; who brought thee forth water out of the rock of flint;
+
+**[8:16]** who fed thee in the wilderness with manna, which thy fathers knew not; that he might humble thee, and that he might prove thee, to do thee good at thy latter end:
+
+**[8:17]** and `lest' thou say in thy heart, My power and the might of my hand hath gotten me this wealth.
+
+**[8:18]** But thou shalt remember Jehovah thy God, for it is he that giveth thee power to get wealth; that he may establish his covenant which he sware unto thy fathers, as at this day.
+
+**[8:19]** And it shall be, if thou shalt forget Jehovah thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish.
+
+**[8:20]** As the nations that Jehovah maketh to perish before you, so shall ye perish; because ye would not hearken unto the voice of Jehovah your God.
+
+**[9:1]** Hear, O Israel: thou art to pass over the Jordan this day, to go in to dispossess nations greater and mightier than thyself, cities great and fortified up to heaven,
+
+**[9:2]** a people great and tall, the sons of the Anakim, whom thou knowest, and of whom thou hast heard say, Who can stand before the sons of Anak?
+
+**[9:3]** Know therefore this day, that Jehovah thy God is he who goeth over before thee as a devouring fire; he will destroy them, and he will bring them down before thee: so shalt thou drive them out, and make them to perish quickly, as Jehovah hath spoken unto thee.
+
+**[9:4]** Speak not thou in thy heart, after that Jehovah thy God hath thrust them out from before thee, saying, For my righteousness Jehovah hath brought me in to possess this land; whereas for the wickedness of these nations Jehovah doth drive them out from before thee.
+
+**[9:5]** Not for thy righteousness, or for the uprightness of thy heart, dost thou go in to possess their land; but for the wickedness of these nations Jehovah thy God doth drive them out from before thee, and that he may establish the word which Jehovah sware unto thy fathers, to Abraham, to Isaac, and to Jacob.
+
+**[9:6]** Know therefore, that Jehovah thy God giveth thee not this good land to possess it for thy righteousness; for thou art a stiffnecked people.
+
+**[9:7]** Remember, forget thou not, how thou provokedst Jehovah thy God to wrath in the wilderness: from the day that thou wentest forth out of the land of Egypt, until ye came unto this place, ye have been rebellious against Jehovah.
+
+**[9:8]** Also in Horeb ye provoked Jehovah to wrath, and Jehovah was angry with you to destroy you.
+
+**[9:9]** When I was gone up into the mount to receive the tables of stone, even the tables of the covenant which Jehovah made with you, then I abode in the mount forty days and forty nights; I did neither eat bread nor drink water.
+
+**[9:10]** And Jehovah delivered unto me the two tables of stone written with the finger of God; and on them `was written' according to all the words, which Jehovah speak with you in the mount out of the midst of the fire in the day of the assembly.
+
+**[9:11]** And it came to pass at the end of forty days and forty nights, that Jehovah gave me the two tables of stone, even the tables of the covenant.
+
+**[9:12]** And Jehovah said unto me, Arise, get thee down quickly from hence; for thy people that thou hast brought forth out of Egypt have corrupted themselves; they are quickly turned aside out of the way which I commanded them; they have made them a molten image.
+
+**[9:13]** Furthermore Jehovah spake unto me, saying, I have seen this people, and, behold, it is a stiffnecked people:
+
+**[9:14]** let me alone, that I may destroy them, and blot out their name from under heaven; and I will make of thee a nation mightier and greater than they.
+
+**[9:15]** So I turned and came down from the mount, and the mount was burning with fire: and the two tables of the covenant were in my two hands.
+
+**[9:16]** And I looked, and, behold, ye had sinned against Jehovah your God; ye had made you a molten calf: ye had turned aside quickly out of the way which Jehovah had commanded you.
+
+**[9:17]** And I took hold of the two tables, and cast them out of my two hands, and brake them before your eyes.
+
+**[9:18]** And I fell down before Jehovah, as at the first, forty days and forty nights; I did neither eat bread nor drink water; because of all your sin which ye sinned, in doing that which was evil in the sight of Jehovah, to provoke him to anger.
+
+**[9:19]** For I was afraid of the anger and hot displeasure, wherewith Jehovah was wroth against you to destroy you. But Jehovah hearkened unto me that time also.
+
+**[9:20]** And Jehovah was very angry with Aaron to destroy him: and I prayed for Aaron also at the same time.
+
+**[9:21]** And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, grinding it very small, until it was as fine as dust: and I cast the dust thereof into the brook that descended out of the mount.
+
+**[9:22]** And at Taberah, and at Massah, and at Kibroth-hattaavah, ye provoked Jehovah to wrath.
+
+**[9:23]** And when Jehovah sent you from Kadesh-barnea, saying, Go up and possess the land which I have given you; then ye rebelled against the commandment of Jehovah your God, and ye believed him not, nor hearkened to his voice.
+
+**[9:24]** Ye have been rebellious against Jehovah from the day that I knew you.
+
+**[9:25]** So I fell down before Jehovah the forty days and forty nights that I fell down, because Jehovah had said he would destroy you.
+
+**[9:26]** And I prayed unto Jehovah, and said, O Lord Jehovah, destroy not thy people and thine inheritance, that thou hast redeemed through thy greatness, that thou hast brought forth out of Egypt with a mighty hand.
+
+**[9:27]** Remember thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin,
+
+**[9:28]** lest the land whence thou broughtest us out say, Because Jehovah was not able to bring them into the land which he promised unto them, and because he hated them, he hath brought them out to slay them in the wilderness.
+
+**[9:29]** Yet they are thy people and thine inheritance, which thou broughtest out by thy great power and by thine outstretched arm.
+
+**[10:1]** At that time Jehovah said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.
+
+**[10:2]** And I will write on the tables the words that were on the first tables which thou brakest, and thou shalt put them in the ark.
+
+**[10:3]** So I made an ark of acacia wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in my hand.
+
+**[10:4]** And he wrote on the tables, according to the first writing, the ten commandments, which Jehovah spake unto you in the mount out of the midst of the fire in the day of the assembly: and Jehovah gave them unto me.
+
+**[10:5]** And I turned and came down from the mount, and put the tables in the ark which I had made; and there they are as Jehovah commanded me.
+
+**[10:6]** (And the children of Israel journeyed from Beeroth Bene-jaakan to Moserah. There Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.
+
+**[10:7]** From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbathah, a land of brooks of water.
+
+**[10:8]** At that time Jehovah set apart the tribe of Levi, to bear the ark of the covenant of Jehovah, to stand before Jehovah to minister unto him, and to bless in his name, unto this day.
+
+**[10:9]** Wherefore Levi hath no portion nor inheritance with his brethren; Jehovah is his inheritance, according as Jehovah thy God spake unto him.)
+
+**[10:10]** And I stayed in the mount, as at the first time, forty days and forty nights: and Jehovah hearkened unto me that time also; Jehovah would not destroy thee.
+
+**[10:11]** And Jehovah said unto me, Arise, take thy journey before the people; and they shall go in and possess the land, which I sware unto their fathers to give unto them.
+
+**[10:12]** And now, Israel, what doth Jehovah thy God require of thee, but to fear Jehovah thy God, to walk in all his ways, and to love him, and to serve Jehovah thy God with all thy heart and with all thy soul,
+
+**[10:13]** to keep the commandments of Jehovah, and his statutes, which I command thee this day for thy good?
+
+**[10:14]** Behold, unto Jehovah thy God belongeth heaven and the heaven of heavens, the earth, with all that is therein.
+
+**[10:15]** Only Jehovah had a delight in thy fathers to love them, and he chose their seed after them, even you above all peoples, as at this day.
+
+**[10:16]** Circumcise therefore the foreskin of your heart, and be no more stiffnecked.
+
+**[10:17]** For Jehovah your God, he is God of gods, and Lord of lords, the great God, the mighty, and the terrible, who regardeth not persons, nor taketh reward.
+
+**[10:18]** He doth execute justice for the fatherless and widow, and loveth the sojourner, in giving him food and raiment.
+
+**[10:19]** Love ye therefore the sojourner; for ye were sojourners in the land of Egypt.
+
+**[10:20]** Thou shalt fear Jehovah thy God; him shalt thou serve; and to him shalt thou cleave, and by his name shalt thou swear.
+
+**[10:21]** He is thy praise, and he is thy God, that hath done for thee these great and terrible things, which thine eyes have seen.
+
+**[10:22]** Thy fathers went down into Egypt with threescore and ten persons; and now Jehovah thy God hath made thee as the stars of heaven for multitude.
+
+**[11:1]** Therefore thou shalt love Jehovah thy God, and keep his charge, and his statutes, and his ordinances, and his commandments, alway.
+
+**[11:2]** And know ye this day: for `I speak' not with your children that have not known, and that have not seen the chastisement of Jehovah your God, his greatness, his mighty hand, and his outstretched arm,
+
+**[11:3]** and his signs, and his works, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;
+
+**[11:4]** and what he did unto the army of Egypt, unto their horses, and to their chariots; how he made the water of the Red Sea to overflow them as they pursued after you, and how Jehovah hath destroyed them unto this day;
+
+**[11:5]** and what he did unto you in the wilderness, until ye came unto this place;
+
+**[11:6]** and what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben; how the earth opened its mouth, and swallowed them up, and their households, and their tents, and every living thing that followed them, in the midst of all Israel:
+
+**[11:7]** but your eyes have seen all the great work of Jehovah which he did.
+
+**[11:8]** Therefore shall ye keep all the commandment which I command thee this day, that ye may be strong, and go in and possess the land, whither ye go over to possess it;
+
+**[11:9]** and that ye may prolong your days in the land, which Jehovah sware unto your fathers to give unto them and to their seed, a land flowing with milk and honey.
+
+**[11:10]** For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs;
+
+**[11:11]** but the land, whither ye go over to possess it, is a land of hills and valleys, `and' drinketh water of the rain of heaven,
+
+**[11:12]** a land which Jehovah thy God careth for: the eyes of Jehovah thy God are always upon it, from the beginning of the year even unto the end of the year.
+
+**[11:13]** And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love Jehovah your God, and to serve him with all your heart and with all your soul,
+
+**[11:14]** that I will give the rain of your land in its season, the former rain and the latter rain, that thou mayest gather in thy grain, and thy new wine, and thine oil.
+
+**[11:15]** And I will give grass in thy fields for thy cattle, and thou shalt eat and be full.
+
+**[11:16]** Take heed to yourselves, lest your heart be deceived, and ye turn aside, and serve other gods, and worship them;
+
+**[11:17]** and the anger of Jehovah be kindled against you, and he shut up the heavens, so that there shall be no rain, and the land shall not yield its fruit; and ye perish quickly from off the good land which Jehovah giveth you.
+
+**[11:18]** Therefore shall ye lay up these my words in your heart and in your soul; and ye shall bind them for a sign upon your hand, and they shall be for frontlets between your eyes.
+
+**[11:19]** And ye shall teach them your children, talking of them, when thou sittest in thy house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
+
+**[11:20]** And thou shalt write them upon the door-posts of thy house, and upon thy gates;
+
+**[11:21]** that your days may be multiplied, and the days of your children, in the land which Jehovah sware unto your fathers to give them, as the days of the heavens above the earth.
+
+**[11:22]** For if ye shall diligently keep all this commandment which I command you, to do it, to love Jehovah your God, to walk in all his ways, and to cleave unto him;
+
+**[11:23]** then will Jehovah drive out all these nations from before you, and ye shall dispossess nations greater and mightier than yourselves.
+
+**[11:24]** Every place whereon the sole of your foot shall tread shall be yours: from the wilderness, and Lebanon, from the river, the river Euphrates, even unto the hinder sea shall be your border.
+
+**[11:25]** There shall no man be able to stand before you: Jehovah your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath spoken unto you.
+
+**[11:26]** Behold, I set before you this day a blessing and a curse:
+
+**[11:27]** the blessing, if ye shall hearken unto the commandments of Jehovah your God, which I command you this day;
+
+**[11:28]** and the curse, if ye shall not hearken unto the commandments of Jehovah your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known.
+
+**[11:29]** And it shall come to pass, when Jehovah thy God shall bring thee into the land whither thou goest to possess it, that thou shalt set the blessing upon mount Gerizim, and the curse upon mount Ebal.
+
+**[11:30]** Are they not beyond the Jordan, behind the way of the going down of the sun, in the land of the Canaanites that dwell in the Arabah, over against Gilgal, beside the oaks of Moreh?
+
+**[11:31]** For ye are to pass over the Jordan to go in to possess the land which Jehovah your God giveth you, and ye shall possess it, and dwell therein.
+
+**[11:32]** And ye shall observe to do all the statutes and the ordinances which I set before you this day.
+
+**[12:1]** These are the statutes and the ordinances which ye shall observe to do in the land which Jehovah, the God of thy fathers, hath given thee to possess it, all the days that ye live upon the earth.
+
+**[12:2]** Ye shall surely destroy all the places wherein the nations that ye shall dispossess served their gods, upon the high mountains, and upon the hills, and under every green tree:
+
+**[12:3]** and ye shall break down their altars, and dash in pieces their pillars, and burn their Asherim with fire; and ye shall hew down the graven images of their gods; and ye shall destroy their name out of that place.
+
+**[12:4]** Ye shall not do so unto Jehovah your God.
+
+**[12:5]** But unto the place which Jehovah your God shall choose out of all your tribes, to put his name there, even unto his habitation shall ye seek, and thither thou shalt come;
+
+**[12:6]** and thither ye shall bring your burnt-offerings, and your sacrifices, and your tithes, and the heave-offering of your hand, and your vows, and your freewill-offerings, and the firstlings of your herd and of your flock:
+
+**[12:7]** and there ye shall eat before Jehovah your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein Jehovah thy God hath blessed thee.
+
+**[12:8]** Ye shall not do after all the things that we do here this day, every man whatsoever is right in his own eyes;
+
+**[12:9]** for ye are not as yet come to the rest and to the inheritance, which Jehovah thy God giveth thee.
+
+**[12:10]** But when ye go over the Jordan, and dwell in the land which Jehovah your God causeth you to inherit, and he giveth you rest from all your enemies round about, so that ye dwell in safety;
+
+**[12:11]** then it shall come to pass that to the place which Jehovah your God shall choose, to cause his name to dwell there, thither shall ye bring all that I command you: your burnt-offerings, and your sacrifices, your tithes, and the heave-offering of your hand, and all your choice vows which ye vow unto Jehovah.
+
+**[12:12]** And ye shall rejoice before Jehovah your God, ye, and your sons, and your daughters, and your men-servants, and your maid-servants, and the Levite that is within your gates, forasmuch as he hath no portion nor inheritance with you.
+
+**[12:13]** Take heed to thyself that thou offer not thy burnt-offerings in every place that thou seest;
+
+**[12:14]** but in the place which Jehovah shall choose in one of thy tribes, there thou shalt offer thy burnt-offerings, and there thou shalt do all that I command thee.
+
+**[12:15]** Notwithstanding, thou mayest kill and eat flesh within all thy gates, after all the desire of thy soul, according to the blessing of Jehovah thy God which he hath given thee: the unclean and the clean may eat thereof, as of the gazelle, and as of the hart.
+
+**[12:16]** Only ye shall not eat the blood; thou shalt pour it out upon the earth as water.
+
+**[12:17]** Thou mayest not eat within thy gates the tithe of thy grain, or of thy new wine, or of thine oil, or the firstlings of thy herd or of thy flock, nor any of thy vows which thou vowest, nor thy freewill-offerings, nor the heave-offering of thy hand;
+
+**[12:18]** but thou shalt eat them before Jehovah thy God in the place which Jehovah thy God shall choose, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite that is within thy gates: and thou shalt rejoice before Jehovah thy God in all that thou puttest thy hand unto.
+
+**[12:19]** Take heed to thyself that thou forsake not the Levite as long as thou livest in thy land.
+
+**[12:20]** When Jehovah thy God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul desireth to eat flesh; thou mayest eat flesh, after all the desire of thy soul.
+
+**[12:21]** If the place which Jehovah thy God shall choose, to put his name there, be too far from thee, then thou shalt kill of thy herd and of thy flock, which Jehovah hath given thee, as I have commanded thee; and thou mayest eat within thy gates, after all the desire of thy soul.
+
+**[12:22]** Even as the gazelle and as the hart is eaten, so thou shalt eat thereof: the unclean and the clean may eat thereof alike.
+
+**[12:23]** Only be sure that thou eat not the blood: for the blood is the life; and thou shalt not eat the life with the flesh.
+
+**[12:24]** Thou shalt not eat it; thou shalt pour it out upon the earth as water.
+
+**[12:25]** Thou shalt not eat it; that it may go well with thee, and with thy children after thee, when thou shalt do that which is right in the eyes of Jehovah.
+
+**[12:26]** Only thy holy things which thou hast, and thy vows, thou shalt take, and go unto the place which Jehovah shall choose:
+
+**[12:27]** and thou shalt offer thy burnt-offerings, the flesh and the blood, upon the altar of Jehovah thy God; and the blood of thy sacrifices shall be poured out upon the altar of Jehovah thy God; and thou shalt eat the flesh.
+
+**[12:28]** Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest that which is good and right in the eyes of Jehovah thy God.
+
+**[12:29]** When Jehovah thy God shall cut off the nations from before thee, whither thou goest in to dispossess them, and thou dispossessest them, and dwellest in their land;
+
+**[12:30]** take heed to thyself that thou be not ensnared to follow them, after that they are destroyed from before thee; and that thou inquire not after their gods, saying, How do these nations serve their gods? even so will I do likewise.
+
+**[12:31]** Thou shalt not do so unto Jehovah thy God: for every abomination to Jehovah, which he hateth, have they done unto their gods; for even their sons and their daughters do they burn in the fire to their gods.
+
+**[12:32]** What thing soever I command you, that shall ye observe to do: thou shalt not add thereto, nor diminish from it.
+
+**[13:1]** If there arise in the midst of thee a prophet, or a dreamer of dreams, and he give thee a sign or a wonder,
+
+**[13:2]** and the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;
+
+**[13:3]** thou shalt not hearken unto the words of that prophet, or unto that dreamer of dreams: for Jehovah your God proveth you, to know whether ye love Jehovah your God with all your heart and with all your soul.
+
+**[13:4]** Ye shall walk after Jehovah your God, and fear him, and keep his commandments, and obey his voice, and ye shall serve him, and cleave unto him.
+
+**[13:5]** And that prophet, or that dreamer of dreams, shall be put to death, because he hath spoken rebellion against Jehovah your God, who brought you out of the land of Egypt, and redeemed thee out of the house of bondage, to draw thee aside out of the way which Jehovah thy God commanded thee to walk in. So shalt thou put away the evil from the midst of thee.
+
+**[13:6]** If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, that is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;
+
+**[13:7]** of the gods of the peoples that are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth;
+
+**[13:8]** thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him:
+
+**[13:9]** but thou shalt surely kill him; thy hand shall be first upon him to put him to death, and afterwards the hand of all the people.
+
+**[13:10]** And thou shalt stone him to death with stones, because he hath sought to draw thee away from Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage.
+
+**[13:11]** And all Israel shall hear, and fear, and shall do not more any such wickedness as this is in the midst of thee.
+
+**[13:12]** If thou shalt hear tell concerning one of thy cities, which Jehovah thy God giveth thee to dwell there, saying,
+
+**[13:13]** Certain base fellows are gone out from the midst of thee, and have drawn away the inhabitants of their city, saying, Let us go and serve other gods, which ye have not known;
+
+**[13:14]** then shalt thou inquire, and make search, and ask diligently; and, behold, if it be truth, and the thing certain, that such abomination is wrought in the midst of thee,
+
+**[13:15]** thou shalt surely smite the inhabitants of that city with the edge of the sword, destroying it utterly, and all that is therein and the cattle thereof, with the edge of the sword.
+
+**[13:16]** And thou shalt gather all the spoil of it into the midst of the street thereof, and shalt burn with fire the city, and all the spoil thereof every whit, unto Jehovah thy God: and it shall be a heap for ever; it shall not be built again.
+
+**[13:17]** And there shall cleave nought of the devoted thing to thy hand; that Jehovah may turn from the fierceness of his anger, and show thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;
+
+**[13:18]** when thou shalt hearken to the voice of Jehovah thy God, to keep all his commandments which I command thee this day, to do that which is right in the eyes of Jehovah thy God.
+
+**[14:1]** Ye are the children of Jehovah your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.
+
+**[14:2]** For thou art a holy people unto Jehovah thy God, and Jehovah hath chosen thee to be a people for his own possession, above all peoples that are upon the face of the earth.
+
+**[14:3]** Thou shalt not eat any abominable thing.
+
+**[14:4]** These are the beasts which ye may eat: the ox, the sheep, and the goat,
+
+**[14:5]** the hart, and the gazelle, and the roebuck, and the wild goat, and the pygarg, and the antelope, and the chamois.
+
+**[14:6]** And every beast that parteth the hoof, and hath the hoof cloven in two, `and' cheweth the cud, among the beasts, that may ye eat.
+
+**[14:7]** Nevertheless these ye shall not eat of them that chew the cud, or of them that have the hoof cloven: the camel, and the hare, and the coney; because they chew the cud but part not the hoof, they are unclean unto you.
+
+**[14:8]** And the swine, because he parteth the hoof but cheweth not the cud, he is unclean unto you: of their flesh ye shall not eat, and their carcasses ye shall not touch.
+
+**[14:9]** These ye may eat of all that are in the waters: whatsoever hath fins and scales may ye eat;
+
+**[14:10]** and whatsoever hath not fins and scales ye shall not eat; it is unclean unto you.
+
+**[14:11]** Of all clean birds ye may eat.
+
+**[14:12]** But these are they of which ye shall not eat: the eagle, and the gier-eagle, and the ospray,
+
+**[14:13]** and the glede, and the falcon, and the kite after its kind,
+
+**[14:14]** and every raven after its kind,
+
+**[14:15]** and the ostrich, and the night-hawk, and the sea-mew, and the hawk after its kind,
+
+**[14:16]** the little owl, and the great owl, and the horned owl,
+
+**[14:17]** and the pelican, and the vulture, and the cormorant,
+
+**[14:18]** and the stork, and the heron after its kind, and the hoopoe, and the bat.
+
+**[14:19]** And all winged creeping things are unclean unto you: they shall not be eaten.
+
+**[14:20]** Of all clean birds ye may eat.
+
+**[14:21]** Ye shall not eat of anything that dieth of itself: thou mayest give it unto the sojourner that is within thy gates, that he may eat it; or thou mayest sell it unto a foreigner: for thou art a holy people unto Jehovah thy God. Thou shalt not boil a kid in its mother's milk.
+
+**[14:22]** Thou shalt surely tithe all the increase of thy seed, that which cometh forth from the field year by year.
+
+**[14:23]** And thou shalt eat before Jehovah thy God, in the place which he shall choose, to cause his name to dwell there, the tithe of thy grain, of thy new wine, and of thine oil, and the firstlings of thy herd and of thy flock; that thou mayest learn to fear Jehovah thy God always.
+
+**[14:24]** And if the way be too long for thee, so that thou art not able to carry it, because the place is too far from thee, which Jehovah thy God shall choose, to set his name there, when Jehovah thy God shall bless thee;
+
+**[14:25]** then shalt thou turn it into money, and bind up the money in thy hand, and shalt go unto the place which Jehovah thy God shall choose:
+
+**[14:26]** and thou shalt bestow the money for whatsoever thy soul desireth, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul asketh of thee; and thou shalt eat there before Jehovah thy God, and thou shalt rejoice, thou and thy household.
+
+**[14:27]** And the Levite that is within thy gates, thou shalt not forsake him; for he hath no portion nor inheritance with thee.
+
+**[14:28]** At the end of every three years thou shalt bring forth all the tithe of thine increase in the same year, and shalt lay it up within thy gates:
+
+**[14:29]** and the Levite, because he hath no portion nor inheritance with thee, and the sojourner, and the fatherless, and the widow, that are within thy gates, shall come, and shall eat and be satisfied; that Jehovah thy God may bless thee in all the work of thy hand which thou doest.
+
+**[15:1]** At the end of every seven years thou shalt make a release.
+
+**[15:2]** And this is the manner of the release: every creditor shall release that which he hath lent unto his neighbor; he shall not exact it of his neighbor and his brother; because Jehovah's release hath been proclaimed.
+
+**[15:3]** Of a foreigner thou mayest exact it: but whatsoever of thine is with thy brother thy hand shall release.
+
+**[15:4]** Howbeit there shall be no poor with thee; (for Jehovah will surely bless thee in the land which Jehovah thy God giveth thee for an inheritance to possess it;)
+
+**[15:5]** if only thou diligently hearken unto the voice of Jehovah thy God, to observe to do all this commandment which I command thee this day.
+
+**[15:6]** For Jehovah thy God will bless thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt rule over many nations, but they shall not rule over thee.
+
+**[15:7]** If there be with thee a poor man, one of thy brethren, within any of thy gates in thy land which Jehovah thy God giveth thee, thou shalt not harden thy heart, nor shut thy hand from thy poor brother;
+
+**[15:8]** but thou shalt surely open thy hand unto him, and shalt surely lend him sufficient for his need `in that' which he wanteth.
+
+**[15:9]** Beware that there be not a base thought in thy heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou give him nought; and he cry unto Jehovah against thee, and it be sin unto thee.
+
+**[15:10]** Thou shalt surely give him, and thy heart shall not be grieved when thou givest unto him; because that for this thing Jehovah thy God will bless thee in all thy work, and in all that thou puttest thy hand unto.
+
+**[15:11]** For the poor will never cease out of the land: therefore I command thee, saying, Thou shalt surely open thy hand unto thy brother, to thy needy, and to thy poor, in thy land.
+
+**[15:12]** If thy brother, a Hebrew man, or a Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.
+
+**[15:13]** And when thou lettest him go free from thee, thou shalt not let him go empty:
+
+**[15:14]** thou shalt furnish him liberally out of thy flock, and out of thy threshing-floor, and out of thy winepress; as Jehovah thy God hath blessed thee thou shalt give unto him.
+
+**[15:15]** And thou shalt remember that thou wast a bondman in the land of Egypt, and Jehovah thy God redeemed thee: therefore I command thee this thing to-day.
+
+**[15:16]** And it shall be, if he say unto thee, I will not go out from thee; because he loveth thee and thy house, because he is well with thee;
+
+**[15:17]** then thou shalt take an awl, and thrust it through his ear unto the door, and he shall be thy servant for ever. And also unto thy maid-servant thou shalt do likewise.
+
+**[15:18]** It shall not seem hard unto thee, when thou lettest him go free from thee; for to the double of the hire of a hireling hath he served thee six years: and Jehovah thy God will bless thee in all that thou doest.
+
+**[15:19]** All the firstling males that are born of thy herd and of thy flock thou shalt sanctify unto Jehovah thy God: thou shalt do no work with the firstling of thy herd, nor shear the firstling of thy flock.
+
+**[15:20]** Thou shalt eat it before Jehovah thy God year by year in the place which Jehovah shall choose, thou and thy household.
+
+**[15:21]** And if it have any blemish, `as if it be' lame or blind, any ill blemish whatsoever, thou shalt not sacrifice it unto Jehovah thy God.
+
+**[15:22]** Thou shalt eat it within thy gates: the unclean and the clean `shall eat it' alike, as the gazelle, and as the hart.
+
+**[15:23]** Only thou shalt not eat the blood thereof; thou shalt pour it out upon the ground as water.
+
+**[16:1]** Observe the month of Abib, and keep the passover unto Jehovah thy God; for in the month of Abib Jehovah thy God brought thee forth out of Egypt by night.
+
+**[16:2]** And thou shalt sacrifice the passover unto Jehovah thy God, of the flock and the herd, in the place which Jehovah shall choose, to cause his name to dwell there.
+
+**[16:3]** Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
+
+**[16:4]** And there shall be no leaven seen with thee in all thy borders seven days; neither shall any of the flesh, which thou sacrificest the first day at even, remain all night until the morning.
+
+**[16:5]** Thou mayest not sacrifice the passover within any of thy gates, which Jehovah thy God giveth thee;
+
+**[16:6]** but at the place which Jehovah thy God shall choose, to cause his name to dwell in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt.
+
+**[16:7]** And thou shalt roast and eat it in the place which Jehovah thy God shall choose: and thou shalt turn in the morning, and go unto thy tents.
+
+**[16:8]** Six days thou shalt eat unleavened bread; and on the seventh day shall be a solemn assembly to Jehovah thy God; thou shalt do no work `therein'.
+
+**[16:9]** Seven weeks shalt thou number unto thee: from the time thou beginnest to put the sickle to the standing grain shalt thou begin to number seven weeks.
+
+**[16:10]** And thou shalt keep the feast of weeks unto Jehovah thy God with a tribute of a freewill-offering of thy hand, which thou shalt give, according as Jehovah thy God blesseth thee:
+
+**[16:11]** and thou shalt rejoice before Jehovah thy God, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite that is within thy gates, and the sojourner, and the fatherless, and the widow, that are in the midst of thee, in the place which Jehovah thy God shall choose, to cause his name to dwell there.
+
+**[16:12]** And thou shalt remember that thou wast a bondman in Egypt: and thou shalt observe and do these statutes.
+
+**[16:13]** Thou shalt keep the feast of tabernacles seven days, after that thou hast gathered in from thy threshing-floor and from thy winepress:
+
+**[16:14]** and thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite, and the sojourner, and the fatherless, and the widow, that are within thy gates.
+
+**[16:15]** Seven days shalt thou keep a feast unto Jehovah thy God in the place which Jehovah shall choose; because Jehovah thy God will bless thee in all thine increase, and in all the work of thy hands, and thou shalt be altogether joyful.
+
+**[16:16]** Three times in a year shall all thy males appear before Jehovah thy God in the place which he shall choose: in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles; and they shall not appear before Jehovah empty:
+
+**[16:17]** every man shall give as he is able, according to the blessing of Jehovah thy God which he hath given thee.
+
+**[16:18]** Judges and officers shalt thou make thee in all thy gates, which Jehovah thy God giveth thee, according to thy tribes; and they shall judge the people with righteous judgment.
+
+**[16:19]** Thou shalt not wrest justice: thou shalt not respect persons; neither shalt thou take a bribe; for a bribe doth blind the eyes of the wise, and pervert the words of the righteous.
+
+**[16:20]** That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which Jehovah thy God giveth thee.
+
+**[16:21]** Thou shalt not plant thee an Asherah of any kind of tree beside the altar of Jehovah thy God, which thou shalt make thee.
+
+**[16:22]** Neither shalt thou set thee up a pillar; which Jehovah thy God hateth.
+
+**[17:1]** Thou shalt not sacrifice unto Jehovah thy God an ox, or a sheep, wherein is a blemish, `or' anything evil; for that is an abomination unto Jehovah thy God.
+
+**[17:2]** If there be found in the midst of thee, within any of thy gates which Jehovah thy God giveth thee, man or woman, that doeth that which is evil in the sight of Jehovah thy God, in transgressing his covenant,
+
+**[17:3]** and hath gone and served other gods, and worshipped them, or the sun, or the moon, or any of the host of heaven, which I have not commanded;
+
+**[17:4]** and it be told thee, and thou hast heard of it, then shalt thou inquire diligently; and, behold, if it be true, and the thing certain, that such abomination is wrought in Israel,
+
+**[17:5]** then shalt thou bring forth that man or that woman, who hath done this evil thing, unto thy gates, even the man or the woman; and thou shalt stone them to death with stones.
+
+**[17:6]** At the mouth of two witnesses, or three witnesses, shall he that is to die be put to death; at the mouth of one witness he shall not be put to death.
+
+**[17:7]** The hand of the witnesses shall be first upon him to put him to death, and afterward the hand of all the people. So thou shalt put away the evil from the midst of thee.
+
+**[17:8]** If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within thy gates; then shalt thou arise, and get thee up unto the place which Jehovah thy God shall choose;
+
+**[17:9]** and thou shalt come unto the priests the Levites, and unto the judge that shall be in those days: and thou shalt inquire; and they shall show thee the sentence of judgment.
+
+**[17:10]** And thou shalt do according to the tenor of the sentence which they shall show thee from that place which Jehovah shall choose; and thou shalt observe to do according to all that they shall teach thee:
+
+**[17:11]** according to the tenor of the law which they shall teach thee, and according to the judgment which they shall tell thee, thou shalt do; thou shalt not turn aside from the sentence which they shall show thee, to the right hand, nor to the left.
+
+**[17:12]** And the man that doeth presumptuously, in not hearkening unto the priest that standeth to minister there before Jehovah thy God, or unto the judge, even that man shall die: and thou shalt put away the evil from Israel.
+
+**[17:13]** And all the people shall hear, and fear, and do no more presumptuously.
+
+**[17:14]** When thou art come unto the land which Jehovah thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like all the nations that are round about me;
+
+**[17:15]** thou shalt surely set him king over thee, whom Jehovah thy God shall choose: one from among thy brethren shalt thou set king over thee; thou mayest not put a foreigner over thee, who is not thy brother.
+
+**[17:16]** Only he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he may multiply horses; forasmuch as Jehovah hath said unto you, Ye shall henceforth return no more that way.
+
+**[17:17]** Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold.
+
+**[17:18]** And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book, out of `that which is' before the priests the Levites:
+
+**[17:19]** and it shall be with him, and he shall read therein all the days of his life; that he may learn to fear Jehovah his God, to keep all the words of this law and these statutes, to do them;
+
+**[17:20]** that his heart be not lifted up above his brethren, and that he turn not aside from the commandment, to the right hand, or to the left: to the end that he may prolong his days in his kingdom, he and his children, in the midst of Israel.
+
+**[18:1]** The priests the Levites, `even' all the tribe of Levi, shall have no portion nor inheritance with Israel: they shall eat the offerings of Jehovah made by fire, and his inheritance.
+
+**[18:2]** And they shall have no inheritance among their brethren: Jehovah is their inheritance, as he hath spoken unto them.
+
+**[18:3]** And this shall be the priests' due from the people, from them that offer a sacrifice, whether it be ox or sheep, that they shall give unto the priest the shoulder, and the two cheeks, and the maw.
+
+**[18:4]** The first-fruits of thy grain, of thy new wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.
+
+**[18:5]** For Jehovah thy God hath chosen him out of all thy tribes, to stand to minister in the name of Jehovah, him and his sons for ever.
+
+**[18:6]** And if a Levite come from any of thy gates out of all Israel, where he sojourneth, and come with all the desire of his soul unto the place which Jehovah shall choose;
+
+**[18:7]** then he shall minister in the name of Jehovah his God, as all his brethren the Levites do, who stand there before Jehovah.
+
+**[18:8]** They shall have like portions to eat, besides that which cometh of the sale of his patrimony.
+
+**[18:9]** When thou art come into the land which Jehovah thy God giveth thee, thou shalt not learn to do after the abominations of those nations.
+
+**[18:10]** There shall not be found with thee any one that maketh his son or his daughter to pass through the fire, one that useth divination, one that practiseth augury, or an enchanter, or a sorcerer,
+
+**[18:11]** or a charmer, or a consulter with a familiar spirit, or a wizard, or a necromancer.
+
+**[18:12]** For whosoever doeth these things is an abomination unto Jehovah: and because of these abominations Jehovah thy God doth drive them out from before thee.
+
+**[18:13]** Thou shalt be perfect with Jehovah thy God.
+
+**[18:14]** For these nations, that thou shalt dispossess, hearken unto them that practise augury, and unto diviners; but as for thee, Jehovah thy God hath not suffered thee so to do.
+
+**[18:15]** Jehovah thy God will raise up unto thee a prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;
+
+**[18:16]** according to all that thou desiredst of Jehovah thy God in Horeb in the day of the assembly, saying, Let me not hear again the voice of Jehovah my God, neither let me see this great fire any more, that I die not.
+
+**[18:17]** And Jehovah said unto me, They have well said that which they have spoken.
+
+**[18:18]** I will raise them up a prophet from among their brethren, like unto thee; and I will put my words in his mouth, and he shall speak unto them all that I shall command him.
+
+**[18:19]** And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.
+
+**[18:20]** But the prophet, that shall speak a word presumptuously in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, that same prophet shall die.
+
+**[18:21]** And if thou say in thy heart, How shall we know the word which Jehovah hath not spoken?
+
+**[18:22]** when a prophet speaketh in the name of Jehovah, if the thing follow not, nor come to pass, that is the thing which Jehovah hath not spoken: the prophet hath spoken it presumptuously, thou shalt not be afraid of him.
+
+**[19:1]** When Jehovah thy God shall cut off the nations, whose land Jehovah thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
+
+**[19:2]** thou shalt set apart three cities for thee in the midst of thy land, which Jehovah thy God giveth thee to possess it.
+
+**[19:3]** Thou shalt prepare thee the way, and divide the borders of thy land, which Jehovah thy God causeth thee to inherit, into three parts, that every manslayer may flee thither.
+
+**[19:4]** And this is the case of the manslayer, that shall flee thither and live: whoso killeth his neighbor unawares, and hated him not in time past;
+
+**[19:5]** as when a man goeth into the forest with his neighbor to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbor, so that he dieth; he shall flee unto one of these cities and live:
+
+**[19:6]** lest the avenger of blood pursue the manslayer, while his heart is hot, and overtake him, because the way is long, and smite him mortally; whereas he was not worthy of death, inasmuch as he hated him not in time past.
+
+**[19:7]** Wherefore I command thee, saying, Thou shalt set apart three cities for thee.
+
+**[19:8]** And if Jehovah thy God enlarge thy border, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;
+
+**[19:9]** if thou shalt keep all this commandment to do it, which I command thee this day, to love Jehovah thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, besides these three:
+
+**[19:10]** that innocent blood be not shed in the midst of thy land, which Jehovah thy God giveth thee for an inheritance, and so blood be upon thee.
+
+**[19:11]** But if any man hate his neighbor, and lie in wait for him, and rise up against him, and smite him mortally so that he dieth, and he flee into one of these cities;
+
+**[19:12]** then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
+
+**[19:13]** Thine eye shall not pity him, but thou shalt put away the innocent blood from Israel, that it may go well with thee.
+
+**[19:14]** Thou shalt not remove thy neighbor's landmark, which they of old time have set, in thine inheritance which thou shalt inherit, in the land that Jehovah thy God giveth thee to possess it.
+
+**[19:15]** One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.
+
+**[19:16]** If an unrighteous witness rise up against any man to testify against him of wrong-doing,
+
+**[19:17]** then both the men, between whom the controversy is, shall stand before Jehovah, before the priests and the judges that shall be in those days;
+
+**[19:18]** and the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and have testified falsely against his brother;
+
+**[19:19]** then shall ye do unto him, as he had thought to do unto his brother: so shalt thou put away the evil from the midst of thee.
+
+**[19:20]** And those that remain shall hear, and fear, and shall henceforth commit no more any such evil in the midst of thee.
+
+**[19:21]** And thine eyes shall not pity; life `shall go' for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
+
+**[20:1]** When thou goest forth to battle against thine enemies, and seest horses, and chariots, `and' a people more than thou, thou shalt not be afraid of them; for Jehovah thy God is with thee, who brought thee up out of the land of Egypt.
+
+**[20:2]** And it shall be, when ye draw nigh unto the battle, that the priest shall approach and speak unto the people,
+
+**[20:3]** and shall say unto them, Hear, O Israel, ye draw nigh this day unto battle against your enemies: let not your heart faint; fear not, nor tremble, neither be ye affrighted at them;
+
+**[20:4]** for Jehovah your God is he that goeth with you, to fight for you against your enemies, to save you.
+
+**[20:5]** And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.
+
+**[20:6]** And what man is there that hath planted a vineyard, and hath not used the fruit thereof? let him go and return unto his house, lest he die in the battle, and another man use the fruit thereof.
+
+**[20:7]** And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.
+
+**[20:8]** And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and faint-hearted? let him go and return unto his house, lest his brethren's heart melt as his heart.
+
+**[20:9]** And it shall be, when the officers have made an end of speaking unto the people, that they shall appoint captains of hosts at the head of the people.
+
+**[20:10]** When thou drawest nigh unto a city to fight against it, then proclaim peace unto it.
+
+**[20:11]** And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that are found therein shall become tributary unto thee, and shall serve thee.
+
+**[20:12]** And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:
+
+**[20:13]** and when Jehovah thy God delivereth it into thy hand, thou shalt smite every male thereof with the edge of the sword:
+
+**[20:14]** but the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take for a prey unto thyself; and thou shalt eat the spoil of thine enemies, which Jehovah thy God hath given thee.
+
+**[20:15]** Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations.
+
+**[20:16]** But of the cities of these peoples, that Jehovah thy God giveth thee for an inheritance, thou shalt save alive nothing that breatheth;
+
+**[20:17]** but thou shalt utterly destroy them: the Hittite, and the Amorite, the Canaanite, and the Perizzite, the Hivite, and the Jebusite; as Jehovah thy God hath commanded thee;
+
+**[20:18]** that they teach you not to do after all their abominations, which they have done unto their gods; so would ye sin against Jehovah your God.
+
+**[20:19]** When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by wielding an axe against them; for thou mayest eat of them, and thou shalt not cut them down; for is the tree of the field man, that it should be besieged of thee?
+
+**[20:20]** Only the trees of which thou knowest that they are not trees for food, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it fall.
+
+**[21:1]** If one be found slain in the land which Jehovah thy God giveth thee to possess it, lying in the field, and it be not known who hath smitten him;
+
+**[21:2]** then thy elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain:
+
+**[21:3]** and it shall be, that the city which is nearest unto the slain man, even the elders of that city shall take a heifer of the herd, which hath not been wrought with, and which hath not drawn in the yoke;
+
+**[21:4]** and the elders of that city shall bring down the heifer unto a valley with running water, which is neither plowed nor sown, and shall break the heifer's neck there in the valley.
+
+**[21:5]** And the priests the sons of Levi shall come near; for them Jehovah thy God hath chosen to minister unto him, and to bless in the name of Jehovah; and according to their word shall every controversy and every stroke be.
+
+**[21:6]** And all the elders of that city, who are nearest unto the slain man, shall wash their hands over the heifer whose neck was broken in the valley;
+
+**[21:7]** and they shall answer and say, Our hands have not shed this blood, neither have our eyes seen it.
+
+**[21:8]** Forgive, O Jehovah, thy people Israel, whom thou hast redeemed, and suffer not innocent blood `to remain' in the midst of thy people Israel. And the blood shall be forgiven them.
+
+**[21:9]** So shalt thou put away the innocent blood from the midst of thee, when thou shalt do that which is right in the eyes of Jehovah.
+
+**[21:10]** When thou goest forth to battle against thine enemies, and Jehovah thy God delivereth them into thy hands, and thou carriest them away captive,
+
+**[21:11]** and seest among the captives a beautiful woman, and thou hast a desire unto her, and wouldest take her to thee to wife;
+
+**[21:12]** then thou shalt bring her home to thy house; and she shall shave her head, and pare her nails;
+
+**[21:13]** and she shall put the raiment of her captivity from off her, and shall remain in thy house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.
+
+**[21:14]** And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not deal with her as a slave, because thou hast humbled her.
+
+**[21:15]** If a man have two wives, the one beloved, and the other hated, and they have borne him children, both the beloved and the hated; and if the first-born son be hers that was hated;
+
+**[21:16]** then it shall be, in the day that he causeth his sons to inherit that which he hath, that he may not make the son of the beloved the first-born before the son of the hated, who is the first-born:
+
+**[21:17]** but he shall acknowledge the first-born, the son of the hated, by giving him a double portion of all that he hath; for he is the beginning of his strength; the right of the first-born is his.
+
+**[21:18]** If a man have a stubborn and rebellious son, that will not obey the voice of his father, or the voice of his mother, and, though they chasten him, will not hearken unto them;
+
+**[21:19]** then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;
+
+**[21:20]** and they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard.
+
+**[21:21]** And all the men of his city shall stone him to death with stones: so shalt thou put away the evil from the midst of thee; and all Israel shall hear, and fear.
+
+**[21:22]** And if a man have committed a sin worthy of death, and he be put to death, and thou hang him on a tree;
+
+**[21:23]** his body shall not remain all night upon the tree, but thou shalt surely bury him the same day; for he that is hanged is accursed of God; that thou defile not thy land which Jehovah thy God giveth thee for an inheritance.
+
+**[22:1]** Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt surely bring them again unto thy brother.
+
+**[22:2]** And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it home to thy house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him.
+
+**[22:3]** And so shalt thou do with his ass; and so shalt thou do with his garment; and so shalt thou do with every lost thing of thy brother's, which he hath lost, and thou hast found: thou mayest not hide thyself.
+
+**[22:4]** Thou shalt not see thy brother's ass or his ox fallen down by the way, and hide thyself from them: thou shalt surely help him to lift them up again.
+
+**[22:5]** A woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment; for whosoever doeth these things is an abomination unto Jehovah thy God.
+
+**[22:6]** If a bird's nest chance to be before thee in the way, in any tree or on the ground, with young ones or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:
+
+**[22:7]** thou shalt surely let the dam go, but the young thou mayest take unto thyself; that it may be well with thee, and that thou mayest prolong thy days.
+
+**[22:8]** When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thy house, if any man fall from thence.
+
+**[22:9]** Thou shalt not sow thy vineyard with two kinds of seed, lest the whole fruit be forfeited, the seed which thou hast sown, and the increase of the vineyard.
+
+**[22:10]** Thou shalt not plow with an ox and an ass together.
+
+**[22:11]** Thou shalt not wear a mingled stuff, wool and linen together.
+
+**[22:12]** Thou shalt make thee fringes upon the four borders of thy vesture, wherewith thou coverest thyself.
+
+**[22:13]** If any man take a wife, and go in unto her, and hate her,
+
+**[22:14]** and lay shameful things to her charge, and bring up an evil name upon her, and say, I took this woman, and when I came nigh to her, I found not in her the tokens of virginity;
+
+**[22:15]** then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel's virginity unto the elders of the city in the gate;
+
+**[22:16]** and the damsel's father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;
+
+**[22:17]** and, lo, he hath laid shameful things `to her charge', saying, I found not in thy daughter the tokens of virginity; and yet these are the tokens of my daughter's virginity. And they shall spread the garment before the elders of the city.
+
+**[22:18]** And the elders of that city shall take the man and chastise him;
+
+**[22:19]** and they shall fine him a hundred `shekels' of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
+
+**[22:20]** But if this thing be true, that the tokens of virginity were not found in the damsel;
+
+**[22:21]** then they shall bring out the damsel to the door of her father's house, and the men of her city shall stone her to death with stones, because she hath wrought folly in Israel, to play the harlot in her father's house: so shalt thou put away the evil from the midst of thee.
+
+**[22:22]** If a man be found lying with a woman married to a husband, then they shall both of them die, the man that lay with the woman, and the woman: so shalt thou put away the evil from Israel.
+
+**[22:23]** If there be a damsel that is a virgin betrothed unto a husband, and a man find her in the city, and lie with her;
+
+**[22:24]** then ye shall bring them both out unto the gate of that city, and ye shall stone them to death with stones; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbor's wife: so thou shalt put away the evil from the midst of thee.
+
+**[22:25]** But if the man find the damsel that is betrothed in the field, and the man force her, and lie with her; then the man only that lay with her shall die:
+
+**[22:26]** but unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbor, and slayeth him, even so is this matter;
+
+**[22:27]** for he found her in the field, the betrothed damsel cried, and there was none to save her.
+
+**[22:28]** If a man find a damsel that is a virgin, that is not betrothed, and lay hold on her, and lie with her, and they be found;
+
+**[22:29]** then the man that lay with her shall give unto the damsel's father fifty `shekels' of silver, and she shall be his wife, because he hath humbled her; he may not put her away all his days.
+
+**[22:30]** A man shall not take his father's wife, and shall not uncover his father's skirt.
+
+**[23:1]** He that is wounded in the stones, or hath his privy member cut off, shall not enter into the assembly of Jehovah.
+
+**[23:2]** A bastard shall not enter into the assembly of Jehovah; even to the tenth generation shall none of his enter into the assembly of Jehovah.
+
+**[23:3]** An Ammonite or a Moabite shall not enter into the assembly of Jehovah; even to the tenth generation shall none belonging to them enter into the assembly of Jehovah for ever:
+
+**[23:4]** because they met you not with bread and with water in the way, when ye came forth out of Egypt, and because they hired against thee Balaam the son of Beor from Pethor of Mesopotamia, to curse thee.
+
+**[23:5]** Nevertheless Jehovah thy God would not hearken unto Balaam; but Jehovah thy God turned the curse into a blessing unto thee, because Jehovah thy God loved thee.
+
+**[23:6]** Thou shalt not seek their peace nor their prosperity all thy days for ever.
+
+**[23:7]** Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian, because thou wast a sojourner in his land.
+
+**[23:8]** The children of the third generation that are born unto them shall enter into the assembly of Jehovah.
+
+**[23:9]** When thou goest forth in camp against thine enemies, then thou shalt keep thee from every evil thing.
+
+**[23:10]** If there be among you any man, that is not clean by reason of that which chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp:
+
+**[23:11]** but it shall be, when evening cometh on, he shall bathe himself in water; and when the sun is down, he shall come within the camp.
+
+**[23:12]** Thou shalt have a place also without the camp, whither thou shalt go forth abroad:
+
+**[23:13]** and thou shalt have a paddle among thy weapons; and it shall be, when thou sittest down abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:
+
+**[23:14]** for Jehovah thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy, that he may not see an unclean thing in thee, and turn away from thee.
+
+**[23:15]** Thou shalt not deliver unto his master a servant that is escaped from his master unto thee:
+
+**[23:16]** he shall dwell with thee, in the midst of thee, in the place which he shall choose within one of thy gates, where it pleaseth him best: thou shalt not oppress him.
+
+**[23:17]** There shall be no prostitute of the daughters of Israel, neither shall there be a sodomite of the sons of Israel.
+
+**[23:18]** Thou shalt not bring the hire of a harlot, or the wages of a dog, into the house of Jehovah thy God for any vow: for even both these are an abomination unto Jehovah thy God.
+
+**[23:19]** Thou shalt not lend upon interest to thy brother; interest of money, interest of victuals, interest of anything that is lent upon interest:
+
+**[23:20]** unto a foreigner thou mayest lend upon interest; but unto thy brother thou shalt not lend upon interest, that Jehovah thy God may bless thee in all that thou puttest thy hand unto, in the land whither thou goest in to possess it.
+
+**[23:21]** When thou shalt vow a vow unto Jehovah thy God, thou shalt not be slack to pay it: for Jehovah thy God will surely require it of thee; and it would be sin in thee.
+
+**[23:22]** But if thou shalt forbear to vow, it shall be no sin in thee.
+
+**[23:23]** That which is gone out of thy lips thou shalt observe and do; according as thou hast vowed unto Jehovah thy God, a freewill-offering, which thou hast promised with thy mouth.
+
+**[23:24]** When thou comest into thy neighbor's vineyard, then thou mayest eat of grapes thy fill at thine own pleasure; but thou shalt not put any in thy vessel.
+
+**[23:25]** When thou comest into thy neighbor's standing grain, then thou mayest pluck the ears with thy hand; but thou shalt not move a sickle unto thy neighbor's standing grain.
+
+**[24:1]** When a man taketh a wife, and marrieth her, then it shall be, if she find no favor in his eyes, because he hath found some unseemly thing in her, that he shall write her a bill of divorcement, and give it in her hand, and send her out of his house.
+
+**[24:2]** And when she is departed out of his house, she may go and be another man's `wife'.
+
+**[24:3]** And if the latter husband hate her, and write her a bill of divorcement, and give it in her hand, and send her out of his house; or if the latter husband die, who took her to be his wife;
+
+**[24:4]** her former husband, who sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before Jehovah: and thou shalt not cause the land to sin, which Jehovah thy God giveth thee for an inheritance.
+
+**[24:5]** When a man taketh a new wife, he shall not go out in the host, neither shall he be charged with any business: he shall be free at home one year, and shall cheer his wife whom he hath taken.
+
+**[24:6]** No man shall take the mill or the upper millstone to pledge; for he taketh `a man's' life to pledge.
+
+**[24:7]** If a man be found stealing any of his brethren of the children of Israel, and he deal with him as a slave, or sell him; then that thief shall die: so shalt thou put away the evil from the midst of thee.
+
+**[24:8]** Take heed in the plague of leprosy, that thou observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, so ye shall observe to do.
+
+**[24:9]** Remember what Jehovah thy God did unto Miriam, by the way as ye came forth out of Egypt.
+
+**[24:10]** When thou dost lend thy neighbor any manner of loan, thou shalt not go into his house to fetch his pledge.
+
+**[24:11]** Thou shalt stand without, and the man to whom thou dost lend shall bring forth the pledge without unto thee.
+
+**[24:12]** And if he be a poor man, thou shalt not sleep with his pledge;
+
+**[24:13]** thou shalt surely restore to him the pledge when the sun goeth down, that he may sleep in his garment, and bless thee: and it shall be righteousness unto thee before Jehovah thy God.
+
+**[24:14]** Thou shalt not oppress a hired servant that is poor and needy, whether he be of thy brethren, or of thy sojourners that are in thy land within thy gates:
+
+**[24:15]** in his day thou shalt give him his hire, neither shall the sun go down upon it; for he is poor, and setteth his heart upon it: lest he cry against thee unto Jehovah, and it be sin unto thee.
+
+**[24:16]** The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin.
+
+**[24:17]** Thou shalt not wrest the justice `due' to the sojourner, `or' to the fatherless, nor take the widow's raiment to pledge;
+
+**[24:18]** but thou shalt remember that thou wast a bondman in Egypt, and Jehovah thy God redeemed thee thence: therefore I command thee to do this thing.
+
+**[24:19]** When thou reapest thy harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the sojourner, for the fatherless, and for the widow; that Jehovah thy God may bless thee in all the work of thy hands.
+
+**[24:20]** When thou beatest thine olive-tree, thou shalt not go over the boughs again: it shall be for the sojourner, for the fatherless, and for the widow.
+
+**[24:21]** When thou gatherest `the grapes of' thy vineyard, thou shalt not glean it after thee: it shall be for the sojourner, for the fatherless, and for the widow.
+
+**[24:22]** And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing.
+
+**[25:1]** If there be a controversy between men, and they come unto judgment, and `the judges' judge them; then they shall justify the righteous, and condemn the wicked;
+
+**[25:2]** and it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his wickedness, by number.
+
+**[25:3]** Forty stripes he may give him, he shall not exceed; lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee.
+
+**[25:4]** Thou shalt not muzzle the ox when he treadeth out `the grain'.
+
+**[25:5]** If brethren dwell together, and one of them die, and have no son, the wife of the dead shall not be married without unto a stranger: her husband's brother shall go in unto her, and take her to him to wife, and perform the duty of a husband's brother unto her.
+
+**[25:6]** And it shall be, that the first-born that she beareth shall succeed in the name of his brother that is dead, that his name be not blotted out of Israel.
+
+**[25:7]** And if the man like not to take his brother's wife, then his brother's wife shall go up to the gate unto the elders, and say, My husband's brother refuseth to raise up unto his brother a name in Israel; he will not perform the duty of a husband's brother unto me.
+
+**[25:8]** Then the elders of his city shall call him, and speak unto him: and if he stand, and say, I like not to take her;
+
+**[25:9]** then shall his brother's wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face; and she shall answer and say, So shall it be done unto the man that doth not build up his brother's house.
+
+**[25:10]** And his name shall be called in Israel, The house of him that hath his shoe loosed.
+
+**[25:11]** When men strive together one with another, and the wife of the one draweth near to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets;
+
+**[25:12]** then thou shalt cut off her hand, thine eye shall have no pity.
+
+**[25:13]** Thou shalt not have in thy bag diverse weights, a great and a small.
+
+**[25:14]** Thou shalt not have in thy house diverse measures, a great and a small.
+
+**[25:15]** A perfect and just weight shalt thou have; a perfect and just measure shalt thou have: that thy days may be long in the land which Jehovah thy God giveth thee.
+
+**[25:16]** For all that do such things, `even' all that do unrighteously, are an abomination unto Jehovah thy God.
+
+**[25:17]** Remember what Amalek did unto thee by the way as ye came forth out of Egypt;
+
+**[25:18]** how he met thee by the way, and smote the hindmost of thee, all that were feeble behind thee, when thou wast faint and weary; and he feared not God.
+
+**[25:19]** Therefore it shall be, when Jehovah thy God hath given thee rest from all thine enemies round about, in the land which Jehovah thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget.
+
+**[26:1]** And it shall be, when thou art come in unto the land which Jehovah thy God giveth thee for an inheritance, and possessest it, and dwellest therein,
+
+**[26:2]** that thou shalt take of the first of all the fruit of the ground, which thou shalt bring in from thy land that Jehovah thy God giveth thee; and thou shalt put it in a basket, and shalt go unto the place which Jehovah thy God shall choose, to cause his name to dwell there.
+
+**[26:3]** And thou shalt come unto the priest that shall be in those days, and say unto him, I profess this day unto Jehovah thy God, that I am come unto the land which Jehovah sware unto our fathers to give us.
+
+**[26:4]** And the priest shall take the basket out of thy hand, and set it down before the altar of Jehovah thy God.
+
+**[26:5]** And thou shalt answer and say before Jehovah thy God, A Syrian ready to perish was my father; and he went down into Egypt, and sojourned there, few in number; and he became there a nation, great, mighty, and populous.
+
+**[26:6]** And the Egyptians dealt ill with us, and afflicted us, and laid upon us hard bondage:
+
+**[26:7]** and we cried unto Jehovah, the God of our fathers, and Jehovah heard our voice, and saw our affliction, and our toil, and our oppression;
+
+**[26:8]** and Jehovah brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders;
+
+**[26:9]** and he hath brought us into this place, and hath given us this land, a land flowing with milk and honey.
+
+**[26:10]** And now, behold, I have brought the first of the fruit of the ground, which thou, O Jehovah, hast given me. And thou shalt set it down before Jehovah thy God, and worship before Jehovah thy God:
+
+**[26:11]** and thou shalt rejoice in all the good which Jehovah thy God hath given unto thee, and unto thy house, thou, and the Levite, and the sojourner that is in the midst of thee.
+
+**[26:12]** When thou hast made an end of tithing all the tithe of thine increase in the third year, which is the year of tithing, then thou shalt give it unto the Levite, to the sojourner, to the fatherless, and to the widow, that they may eat within thy gates, and be filled.
+
+**[26:13]** And thou shalt say before Jehovah thy God, I have put away the hallowed things out of my house, and also have given them unto the Levite, and unto the sojourner, to the fatherless, and to the widow, according to all thy commandment which thou hast commanded me: I have not transgressed any of thy commandments, neither have I forgotten them:
+
+**[26:14]** I have not eaten thereof in my mourning, neither have I put away thereof, being unclean, nor given thereof for the dead: I have hearkened to the voice of Jehovah my God; I have done according to all that thou hast commanded me.
+
+**[26:15]** Look down from thy holy habitation, from heaven, and bless thy people Israel, and the ground which thou hast given us, as thou swarest unto our fathers, a land flowing with milk and honey.
+
+**[26:16]** This day Jehovah thy God commandeth thee to do these statutes and ordinances: thou shalt therefore keep and do them with all thy heart, and with all thy soul.
+
+**[26:17]** Thou hast avouched Jehovah this day to be thy God, and that thou wouldest walk in his ways, and keep his statutes, and his commandments, and his ordinances, and hearken unto his voice:
+
+**[26:18]** and Jehovah hath avouched thee this day to be a people for his own possession, as he hath promised thee, and that thou shouldest keep all his commandments;
+
+**[26:19]** and to make thee high above all nations that he hath made, in praise, and in name, and in honor; and that thou mayest be a holy people unto Jehovah thy God, as he hath spoken.
+
+**[27:1]** And Moses and the elders of Israel commanded the people, saying, Keep all the commandment which I command you this day.
+
+**[27:2]** And it shall be on the day when ye shall pass over the Jordan unto the land which Jehovah thy God giveth thee, that thou shalt set thee up great stones, and plaster them with plaster:
+
+**[27:3]** and thou shalt write upon them all the words of this law, when thou art passed over; that thou mayest go in unto the land which Jehovah thy God giveth thee, a land flowing with milk and honey, as Jehovah, the God of thy fathers, hath promised thee.
+
+**[27:4]** And it shall be, when ye are passed over the Jordan, that ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaster them with plaster.
+
+**[27:5]** And there shalt thou build an altar unto Jehovah thy God, an altar of stones: thou shalt lift up no iron `tool' upon them.
+
+**[27:6]** Thou shalt build the altar of Jehovah thy God of unhewn stones; and thou shalt offer burnt-offerings thereon unto Jehovah thy God:
+
+**[27:7]** and thou shalt sacrifice peace-offerings, and shalt eat there; and thou shalt rejoice before Jehovah thy God.
+
+**[27:8]** And thou shalt write upon the stones all the words of this law very plainly.
+
+**[27:9]** And Moses and the priests the Levites spake unto all Israel, saying, Keep silence, and hearken, O Israel: this day thou art become the people of Jehovah thy God.
+
+**[27:10]** Thou shalt therefore obey the voice of Jehovah thy God, and do his commandments and his statutes, which I command thee this day.
+
+**[27:11]** And Moses charged the people the same day, saying,
+
+**[27:12]** These shall stand upon mount Gerizim to bless the people, when ye are passed over the Jordan: Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin.
+
+**[27:13]** And these shall stand upon mount Ebal for the curse: Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.
+
+**[27:14]** And the Levites shall answer, and say unto all the men of Israel with a loud voice,
+
+**[27:15]** Cursed be the man that maketh a graven or molten image, an abomination unto Jehovah, the work of the hands of the craftsman, and setteth it up in secret. And all the people shall answer and say, Amen.
+
+**[27:16]** Cursed be he that setteth light by his father or his mother. And all the people shall say, Amen.
+
+**[27:17]** Cursed be he that removeth his neighbor's landmark. And all the people shall say, Amen.
+
+**[27:18]** Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen.
+
+**[27:19]** Cursed be he that wresteth the justice `due' to the sojourner, fatherless, and widow. And all the people shall say, Amen.
+
+**[27:20]** Cursed be he that lieth with his father's wife, because he hath uncovered his father's skirt. And all the people shall say, Amen.
+
+**[27:21]** Cursed be he that lieth with any manner of beast. And all the people shall say, Amen.
+
+**[27:22]** Cursed be he that lieth with his sister, the daughter of his father, or the daughter of his mother. And all the people shall say, Amen.
+
+**[27:23]** Cursed be he that lieth with his mother-in-law. And all the people shall say, Amen.
+
+**[27:24]** Cursed be he that smiteth his neighbor in secret. And all the people shall say, Amen.
+
+**[27:25]** Cursed be he that taketh a bribe to slay an innocent person. And all the people shall say, Amen.
+
+**[27:26]** Cursed be he that confirmeth not the words of this law to do them. And all the people shall say, Amen.
+
+**[28:1]** And it shall come to pass, if thou shalt hearken diligently unto the voice of Jehovah thy God, to observe to do all his commandments which I command thee this day, that Jehovah thy God will set thee on high above all the nations of the earth:
+
+**[28:2]** and all these blessings shall come upon thee, and overtake thee, if thou shalt hearken unto the voice of Jehovah thy God.
+
+**[28:3]** Blessed shalt thou be in the city, and blessed shalt thou be in the field.
+
+**[28:4]** Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy beasts, the increase of thy cattle, and the young of thy flock.
+
+**[28:5]** Blessed shall be thy basket and thy kneading-trough.
+
+**[28:6]** Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out.
+
+**[28:7]** Jehovah will cause thine enemies that rise up against thee to be smitten before thee: they shall come out against thee one way, and shall flee before thee seven ways.
+
+**[28:8]** Jehovah will command the blessing upon thee in thy barns, and in all that thou puttest thy hand unto; and he will bless thee in the land which Jehovah thy God giveth thee.
+
+**[28:9]** Jehovah will establish thee for a holy people unto himself, as he hath sworn unto thee; if thou shalt keep the commandments of Jehovah thy God, and walk in his ways.
+
+**[28:10]** And all the peoples of the earth shall see that thou art called by the name of Jehovah; and they shall be afraid of thee.
+
+**[28:11]** And Jehovah will make thee plenteous for good, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which Jehovah sware unto thy fathers to give thee.
+
+**[28:12]** Jehovah will open unto thee his good treasure the heavens, to give the rain of thy land in its season, and to bless all the work of thy hand: and thou shalt lend unto many nations, and thou shalt not borrow.
+
+**[28:13]** And Jehovah will make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if thou shalt hearken unto the commandments of Jehovah thy God, which I command thee this day, to observe and to do `them',
+
+**[28:14]** and shalt not turn aside from any of the words which I command you this day, to the right hand, or to the left, to go after other gods to serve them.
+
+**[28:15]** But it shall come to pass, if thou wilt not hearken unto the voice of Jehovah thy God, to observe to do all his commandments and his statutes which I command thee this day, that all these curses shall come upon thee, and overtake thee.
+
+**[28:16]** Cursed shalt thou be in the city, and cursed shalt thou be in the field.
+
+**[28:17]** Cursed shall be thy basket and thy kneading-trough.
+
+**[28:18]** Cursed shall be the fruit of thy body, and the fruit of thy ground, the increase of thy cattle, and the young of thy flock.
+
+**[28:19]** Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out.
+
+**[28:20]** Jehovah will send upon thee cursing, discomfiture, and rebuke, in all that thou puttest thy hand unto to do, until thou be destroyed, and until thou perish quickly; because of the evil of thy doings, whereby thou hast forsaken me.
+
+**[28:21]** Jehovah will make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest in to possess it.
+
+**[28:22]** Jehovah will smite thee with consumption, and with fever, and with inflammation, and with fiery heat, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish.
+
+**[28:23]** And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron.
+
+**[28:24]** Jehovah will make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.
+
+**[28:25]** Jehovah will cause thee to be smitten before thine enemies; thou shalt go out one way against them, and shalt flee seven ways before them: and thou shalt be tossed to and from among all the kingdoms of the earth.
+
+**[28:26]** And thy dead body shall be food unto all birds of the heavens, and unto the beasts of the earth; and there shall be none to frighten them away.
+
+**[28:27]** Jehovah will smite thee with the boil of Egypt, and with the emerods, and with the scurvy, and with the itch, whereof thou canst not be healed.
+
+**[28:28]** Jehovah will smite thee with madness, and with blindness, and with astonishment of heart;
+
+**[28:29]** and thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and robbed alway, and there shall be none to save thee.
+
+**[28:30]** Thou shalt betroth a wife, and another man shall lie with her: thou shalt build a house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not use the fruit thereof.
+
+**[28:31]** Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to save thee.
+
+**[28:32]** Thy sons and thy daughters shall be given unto another people; and thine eyes shall look, and fail with longing for them all the day: and there shall be nought in the power of thy hand.
+
+**[28:33]** The fruit of thy ground, and all thy labors, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway;
+
+**[28:34]** so that thou shalt be mad for the sight of thine eyes which thou shalt see.
+
+**[28:35]** Jehovah will smite thee in the knees, and in the legs, with a sore boil, whereof thou canst not be healed, from the sole of thy foot unto the crown of thy head.
+
+**[28:36]** Jehovah will bring thee, and thy king whom thou shalt set over thee, unto a nation that thou hast not known, thou nor thy fathers; and there shalt thou serve other gods, wood and stone.
+
+**[28:37]** And thou shalt become an astonishment, a proverb, and a byword, among all the peoples whither Jehovah shall lead thee away.
+
+**[28:38]** Thou shalt carry much seed out into the field, and shalt gather little in; for the locust shall consume it.
+
+**[28:39]** Thou shalt plant vineyards and dress them, but thou shalt neither drink of the wine, nor gather `the grapes'; for the worm shall eat them.
+
+**[28:40]** Thou shalt have olive-trees throughout all thy borders, but thou shalt not anoint thyself with the oil; for thine olive shall cast `its fruit'.
+
+**[28:41]** Thou shalt beget sons and daughters, but they shall not be thine; for they shall go into captivity.
+
+**[28:42]** All thy trees and the fruit of thy ground shall the locust possess.
+
+**[28:43]** The sojourner that is in the midst of thee shall mount up above thee higher and higher; and thou shalt come down lower and lower.
+
+**[28:44]** He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.
+
+**[28:45]** And all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of Jehovah thy God, to keep his commandments and his statutes which he commanded thee:
+
+**[28:46]** and they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.
+
+**[28:47]** Because thou servedst not Jehovah thy God with joyfulness, and with gladness of heart, by reason of the abundance of all things;
+
+**[28:48]** therefore shalt thou serve thine enemies that Jehovah shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
+
+**[28:49]** Jehovah will bring a nation against thee from far, from the end of the earth, as the eagle flieth; a nation whose tongue thou shalt not understand;
+
+**[28:50]** a nation of fierce countenance, that shall not regard the person of the old, nor show favor to the young,
+
+**[28:51]** and shall eat the fruit of thy cattle, and the fruit of thy ground, until thou be destroyed; that also shall not leave thee grain, new wine, or oil, the increase of thy cattle, or the young of thy flock, until they have caused thee to perish.
+
+**[28:52]** And they shall besiege thee in all thy gates, until thy high and fortified walls come down, wherein thou trustedst, throughout all thy land; and they shall besiege thee in all thy gates throughout all thy land, which Jehovah thy God hath given thee.
+
+**[28:53]** And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, whom Jehovah thy God hath given thee, in the siege and in the distress wherewith thine enemies shall distress thee.
+
+**[28:54]** The man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children whom he hath remaining;
+
+**[28:55]** so that he will not give to any of them of the flesh of his children whom he shall eat, because he hath nothing left him, in the siege and in the distress wherewith thine enemy shall distress thee in all thy gates.
+
+**[28:56]** The tender and delicate woman among you, who would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
+
+**[28:57]** and toward her young one that cometh out from between her feet, and toward her children whom she shall bear; for she shall eat them for want of all things secretly, in the siege and in the distress wherewith thine enemy shall distress thee in thy gates.
+
+**[28:58]** If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, JEHOVAH THY GOD;
+
+**[28:59]** then Jehovah will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance.
+
+**[28:60]** And he will bring upon thee again all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee.
+
+**[28:61]** Also every sickness, and every plague, which is not written in the book of this law, them will Jehovah bring upon thee, until thou be destroyed.
+
+**[28:62]** And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou didst not hearken unto the voice of Jehovah thy God.
+
+**[28:63]** And it shall come to pass, that, as Jehovah rejoiced over you to do you good, and to multiply you, so Jehovah will rejoice over you to cause you to perish, and to destroy you; and ye shall be plucked from off the land whither thou goest in to possess it.
+
+**[28:64]** And Jehovah will scatter thee among all peoples, from the one end of the earth even unto the other end of the earth; and there thou shalt serve other gods, which thou hast not known, thou nor thy fathers, even wood and stone.
+
+**[28:65]** And among these nations shalt thou find no ease, and there shall be no rest for the sole of thy foot: but Jehovah will give thee there a trembling heart, and failing of eyes, and pining of soul;
+
+**[28:66]** and thy life shall hang in doubt before thee; and thou shalt fear night and day, and shalt have no assurance of thy life.
+
+**[28:67]** In the morning thou shalt say, Would it were even! and at even thou shalt say, Would it were morning! for the fear of thy heart which thou shalt fear, and for the sight of thine eyes which thou shalt see.
+
+**[28:68]** And Jehovah will bring thee into Egypt again with ships, by the way whereof I said unto thee, Thou shalt see it no more again: and there ye shall sell yourselves unto your enemies for bondmen and for bondwomen, and no man shall buy you.
+
+**[29:1]** These are the words of the covenant which Jehovah commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Horeb.
+
+**[29:2]** And Moses called unto all Israel, and said unto them, Ye have seen all that Jehovah did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;
+
+**[29:3]** the great trials which thine eyes saw, the signs, and those great wonders:
+
+**[29:4]** but Jehovah hath not given you a heart to know, and eyes to see, and ears to hear, unto this day.
+
+**[29:5]** And I have led you forty years in the wilderness: your clothes are not waxed old upon you, and thy shoe is not waxed old upon thy foot.
+
+**[29:6]** Ye have not eaten bread, neither have ye drunk wine or strong drink; that ye may know that I am Jehovah your God.
+
+**[29:7]** And when ye came unto this place, Sihon the king of Heshbon, and Og the king of Bashan, came out against us unto battle, and we smote them:
+
+**[29:8]** and we took their land, and gave it for an inheritance unto the Reubenites, and to the Gadites, and to the half-tribe of the Manassites.
+
+**[29:9]** Keep therefore the words of this covenant, and do them, that ye may prosper in all that ye do.
+
+**[29:10]** Ye stand this day all of you before Jehovah your God; your heads, your tribes, your elders, and your officers, even all the men of Israel,
+
+**[29:11]** your little ones, your wives, and thy sojourner that is in the midst of thy camps, from the hewer of thy wood unto the drawer of thy water;
+
+**[29:12]** that thou mayest enter into the covenant of Jehovah thy God, and into his oath, which Jehovah thy God maketh with thee this day;
+
+**[29:13]** that he may establish thee this day unto himself for a people, and that he may be unto thee a God, as he spake unto thee, and as he sware unto thy fathers, to Abraham, to Isaac, and to Jacob.
+
+**[29:14]** Neither with you only do I make this covenant and this oath,
+
+**[29:15]** but with him that standeth here with us this day before Jehovah our God, and also with him that is not here with us this day;
+
+**[29:16]** (for ye know how we dwelt in the land of Egypt, and how we came through the midst of the nations through which ye passed;
+
+**[29:17]** and ye have seen their abominations, and their idols, wood and stone, silver and gold, which were among them);
+
+**[29:18]** lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from Jehovah our God, to go to serve the gods of those nations; lest there should be among you a root that beareth gall and wormwood;
+
+**[29:19]** and it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the stubbornness of my heart, to destroy the moist with the dry.
+
+**[29:20]** Jehovah will not pardon him, but then the anger of Jehovah and his jealousy will smoke against that man, and all the curse that is written in this book shall lie upon him, and Jehovah will blot out his name from under heaven.
+
+**[29:21]** And Jehovah will set him apart unto evil out of all the tribes of Israel, according to all the curses of the covenant that is written in this book of the law.
+
+**[29:22]** And the generation to come, your children that shall rise up after you, and the foreigner that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses wherewith Jehovah hath made it sick;
+
+**[29:23]** `and that' the whole land thereof is brimstone, and salt, `and' a burning, `that' it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom and Gomorrah, Admah and Zeboiim, which Jehovah overthrew in his anger, and in his wrath:
+
+**[29:24]** even all the nations shall say, Wherefore hath Jehovah done thus unto this land? what meaneth the heat of this great anger?
+
+**[29:25]** Then men shall say, Because they forsook the covenant of Jehovah, the God of their fathers, which he made with them when he brought them forth out of the land of Egypt,
+
+**[29:26]** and went and served other gods, and worshipped them, gods that they knew not, and that he had not given unto them:
+
+**[29:27]** therefore the anger of Jehovah was kindled against this land, to bring upon it all the curse that is written in this book;
+
+**[29:28]** and Jehovah rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as at this day.
+
+**[29:29]** The secret things belong unto Jehovah our God; but the things that are revealed belong unto us and to our children for ever, that we may do all the words of this law.
+
+**[30:1]** And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither Jehovah thy God hath driven thee,
+
+**[30:2]** and shalt return unto Jehovah thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thy heart, and with all thy soul;
+
+**[30:3]** that then Jehovah thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the peoples, whither Jehovah thy God hath scattered thee.
+
+**[30:4]** If `any of' thine outcasts be in the uttermost parts of heaven, from thence will Jehovah thy God gather thee, and from thence will he fetch thee:
+
+**[30:5]** and Jehovah thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.
+
+**[30:6]** And Jehovah thy God will circumcise thy heart, and the heart of thy seed, to love Jehovah thy God with all thy heart, and with all thy soul, that thou mayest live.
+
+**[30:7]** And Jehovah thy God will put all these curses upon thine enemies, and on them that hate thee, that persecuted thee.
+
+**[30:8]** And thou shalt return and obey the voice of Jehovah, and do all his commandments which I command thee this day.
+
+**[30:9]** And Jehovah thy God will make thee plenteous in all the work of thy hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, for good: for Jehovah will again rejoice over thee for good, as he rejoiced over thy fathers;
+
+**[30:10]** if thou shalt obey the voice of Jehovah thy God, to keep his commandments and his statutes which are written in this book of the law; if thou turn unto Jehovah thy God with all thy heart, and with all thy soul.
+
+**[30:11]** For this commandment which I command thee this day, it is not too hard for thee, neither is it far off.
+
+**[30:12]** It is not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, and make us to hear it, that we may do it?
+
+**[30:13]** Neither is it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, and make us to hear it, that we may do it?
+
+**[30:14]** But the word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.
+
+**[30:15]** See, I have set before thee this day life and good, and death and evil;
+
+**[30:16]** in that I command thee this day to love Jehovah thy God, to walk in his ways, and to keep his commandments and his statutes and his ordinances, that thou mayest live and multiply, and that Jehovah thy God may bless thee in the land whither thou goest in to possess it.
+
+**[30:17]** But if thy heart turn away, and thou wilt not hear, but shalt be drawn away, and worship other gods, and serve them;
+
+**[30:18]** I denounce unto you this day, that ye shall surely perish; ye shall not prolong your days in the land, whither thou passest over the Jordan to go in to possess it.
+
+**[30:19]** I call heaven and earth to witness against you this day, that I have set before thee life and death, the blessing and the curse: therefore choose life, that thou mayest live, thou and thy seed;
+
+**[30:20]** to love Jehovah thy God, to obey his voice, and to cleave unto him; for he is thy life, and the length of thy days; that thou mayest dwell in the land which Jehovah sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.
+
+**[31:1]** And Moses went and spake these words unto all Israel.
+
+**[31:2]** And he said unto them, I am a hundred and twenty years old this day; I can no more go out and come in: and Jehovah hath said unto me, Thou shalt not go over this Jordan.
+
+**[31:3]** Jehovah thy God, he will go over before thee; he will destroy these nations from before thee, and thou shalt dispossess them: `and' Joshua, he shall go over before thee, as Jehovah hath spoken.
+
+**[31:4]** And Jehovah will do unto them as he did to Sihon and to Og, the kings of the Amorites, and unto their land; whom he destroyed.
+
+**[31:5]** And Jehovah will deliver them up before you, and ye shall do unto them according unto all the commandment which I have commanded you.
+
+**[31:6]** Be strong and of good courage, fear not, nor be affrighted at them: for Jehovah thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.
+
+**[31:7]** And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of good courage: for thou shalt go with this people into the land which Jehovah hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.
+
+**[31:8]** And Jehovah, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.
+
+**[31:9]** And Moses wrote this law, and delivered it unto the priests the sons of Levi, that bare the ark of the covenant of Jehovah, and unto all the elders of Israel.
+
+**[31:10]** And Moses commanded them, saying, At the end of `every' seven years, in the set time of the year of release, in the feast of tabernacles,
+
+**[31:11]** when all Israel is come to appear before Jehovah thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing.
+
+**[31:12]** Assemble the people, the men and the women and the little ones, and thy sojourner that is within thy gates, that they may hear, and that they may learn, and fear Jehovah your God, and observe to do all the words of this law;
+
+**[31:13]** and that their children, who have not known, may hear, and learn to fear Jehovah your God, as long as ye live in the land whither ye go over the Jordan to possess it.
+
+**[31:14]** And Jehovah said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tent of meeting, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tent of meeting.
+
+**[31:15]** And Jehovah appeared in the Tent in a pillar of cloud: and the pillar of cloud stood over the door of the Tent.
+
+**[31:16]** And Jehovah said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and play the harlot after the strange gods of the land, whither they go to be among them, and will forsake me, and break my covenant which I have made with them.
+
+**[31:17]** Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall come upon them; so that they will say in that day, Are not these evils come upon us because our God is not among us?
+
+**[31:18]** And I will surely hide my face in that day for all the evil which they shall have wrought, in that they are turned unto other gods.
+
+**[31:19]** Now therefore write ye this song for you, and teach thou it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
+
+**[31:20]** For when I shall have brought them into the land which I sware unto their fathers, flowing with milk and honey, and they shall have eaten and filled themselves, and waxed fat; then will they turn unto other gods, and serve them, and despise me, and break my covenant.
+
+**[31:21]** And it shall come to pass, when many evils and troubles are come upon them, that this song shall testify before them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they frame this day, before I have brought them into the land which I sware.
+
+**[31:22]** So Moses wrote this song the same day, and taught it the children of Israel.
+
+**[31:23]** And he gave Joshua the son of Nun a charge, and said, Be strong and of good courage; for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee.
+
+**[31:24]** And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,
+
+**[31:25]** that Moses commanded the Levites, that bare the ark of the covenant of Jehovah, saying,
+
+**[31:26]** Take this book of the law, and put it by the side of the ark of the covenant of Jehovah your God, that it may be there for a witness against thee.
+
+**[31:27]** For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against Jehovah; and how much more after my death?
+
+**[31:28]** Assemble unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to witness against them.
+
+**[31:29]** For I know that after my death ye will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because ye will do that which is evil in the sight of Jehovah, to provoke him to anger through the work of your hands.
+
+**[31:30]** And Moses spake in the ears of all the assembly of Israel the words of this song, until they were finished.
+
+**[32:1]** Give ear, ye heavens, and I will speak; And let the earth hear the words of my mouth.
+
+**[32:2]** My doctrine shall drop as the rain; My speech shall distil as the dew, As the small rain upon the tender grass, And as the showers upon the herb.
+
+**[32:3]** For I will proclaim the name of Jehovah: Ascribe ye greatness unto our God.
+
+**[32:4]** The Rock, his work is perfect; For all his ways are justice: A God of faithfulness and without iniquity, Just and right is he.
+
+**[32:5]** They have dealt corruptly with him, `they are' not his children, `it is' their blemish; `They are' a perverse and crooked generation.
+
+**[32:6]** Do ye thus requite Jehovah, O foolish people and unwise? Is not he thy father that hath bought thee? He hath made thee, and established thee.
+
+**[32:7]** Remember the days of old, Consider the years of many generations: Ask thy father, and he will show thee; Thine elders, and they will tell thee.
+
+**[32:8]** When the Most High gave to the nations their inheritance, When he separated the children of men, He set the bounds of the peoples According to the number of the children of Israel.
+
+**[32:9]** For Jehovah's portion is his people; Jacob is the lot of his inheritance.
+
+**[32:10]** He found him in a desert land, And in the waste howling wilderness; He compassed him about, he cared for him, He kept him as the apple of his eye.
+
+**[32:11]** As an eagle that stirreth up her nest, That fluttereth over her young, He spread abroad his wings, he took them, He bare them on his pinions.
+
+**[32:12]** Jehovah alone did lead him, And there was no foreign god with him.
+
+**[32:13]** He made him ride on the high places of the earth, And he did eat the increase of the field; And he made him to suck honey out of the rock, And oil out of the flinty rock;
+
+**[32:14]** Butter of the herd, and milk of the flock, With fat of lambs, And rams of the breed of Bashan, and goats, With the finest of the wheat; And of the blood of the grape thou drankest wine.
+
+**[32:15]** But Jeshurun waxed fat, and kicked: Thou art waxed fat, thou art grown thick, thou art become sleek; Then he forsook God who made him, And lightly esteemed the Rock of his salvation.
+
+**[32:16]** They moved him to jealousy with strange `gods'; With abominations provoked they him to anger.
+
+**[32:17]** They sacrificed unto demons, `which were' no God, To gods that they knew not, To new `gods' that came up of late, Which your fathers dreaded not.
+
+**[32:18]** Of the Rock that begat thee thou art unmindful, And hast forgotten God that gave thee birth.
+
+**[32:19]** And Jehovah saw `it', and abhorred `them', Because of the provocation of his sons and his daughters.
+
+**[32:20]** And he said, I will hide my face from them, I will see what their end shall be: For they are a very perverse generation, Children in whom is no faithfulness.
+
+**[32:21]** They have moved me to jealousy with that which is not God; They have provoked me to anger with their vanities: And I will move them to jealousy with those that are not a people; I will provoke them to anger with a foolish nation.
+
+**[32:22]** For a fire is kindled in mine anger, And burneth unto the lowest Sheol, And devoureth the earth with its increase, And setteth on fire the foundations of the mountains.
+
+**[32:23]** I will heap evils upon them; I will spend mine arrows upon them:
+
+**[32:24]** `They shall be' wasted with hunger, and devoured with burning heat And bitter destruction; And the teeth of beasts will I send upon them, With the poison of crawling things of the dust.
+
+**[32:25]** Without shall the sword bereave, And in the chambers terror; `It shall destroy' both young man and virgin, The suckling with the man of gray hairs.
+
+**[32:26]** I said, I would scatter them afar, I would make the remembrance of them to cease from among men;
+
+**[32:27]** Were it not that I feared the provocation of the enemy, Lest their adversaries should judge amiss, Lest they should say, Our hand is exalted, And Jehovah hath not done all this.
+
+**[32:28]** For they are a nation void of counsel, And there is no understanding in them.
+
+**[32:29]** Oh that they were wise, that they understood this, That they would consider their latter end!
+
+**[32:30]** How should one chase a thousand, And two put ten thousand to flight, Except their Rock had sold them, And Jehovah had delivered them up?
+
+**[32:31]** For their rock is not as our Rock, Even our enemies themselves being judges.
+
+**[32:32]** For their vine is of the vine of Sodom, And of the fields of Gomorrah: Their grapes are grapes of gall, Their clusters are bitter:
+
+**[32:33]** Their wine is the poison of serpents, And the cruel venom of asps.
+
+**[32:34]** Is not this laid up in store with me, Sealed up among my treasures?
+
+**[32:35]** Vengeance is mine, and recompense, At the time when their foot shall slide: For the day of their calamity is at hand, And the things that are to come upon them shall make haste.
+
+**[32:36]** For Jehovah will judge his people, And repent himself for his servants; When he seeth that `their' power is gone, And there is none `remaining', shut up or left at large.
+
+**[32:37]** And he will say, Where are their gods, The rock in which they took refuge;
+
+**[32:38]** Which did eat the fat of their sacrifices, `And' drank the wine of their drink-offering? Let them rise up and help you, Let them be your protection.
+
+**[32:39]** See now that I, even I, am he, And there is no god with me: I kill, and I make alive; I wound, and I heal; And there is none that can deliver out of my hand.
+
+**[32:40]** For I lift up my hand to heaven, And say, As I live for ever,
+
+**[32:41]** If I whet my glittering sword, And my hand take hold on judgment; I will render vengeance to mine adversaries, And will recompense them that hate me.
+
+**[32:42]** I will make mine arrows drunk with blood, And my sword shall devour flesh; With the blood of the slain and the captives, From the head of the leaders of the enemy.
+
+**[32:43]** Rejoice, O ye nations, `with' his people: For he will avenge the blood of his servants, And will render vengeance to his adversaries, And will make expiation for his land, for his people.
+
+**[32:44]** And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.
+
+**[32:45]** And Moses made an end of speaking all these words to all Israel;
+
+**[32:46]** And he said unto them, Set your heart unto all the words which I testify unto you this day, which ye shall command your children to observe to do, `even' all the words of this law.
+
+**[32:47]** For it is no vain thing for you; because it is your life, and through this thing ye shall prolong your days in the land, whither ye go over the Jordan to possess it.
+
+**[32:48]** And Jehovah spake unto Moses that selfsame day, saying,
+
+**[32:49]** Get thee up into this mountain of Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession;
+
+**[32:50]** and die in the mount whither thou goest up, and be gathered unto thy people, as Aaron thy brother died in mount Hor, and was gathered unto his people:
+
+**[32:51]** because ye trespassed against me in the midst of the children of Israel at the waters of Meribah of Kadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.
+
+**[32:52]** For thou shalt see the land before thee; but thou shalt not go thither into the land which I give the children of Israel.
+
+**[33:1]** And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.
+
+**[33:2]** And he said, Jehovah came from Sinai, And rose from Seir unto them; He shined forth from mount Paran, And he came from the ten thousands of holy ones: At his right hand was a fiery law for them.
+
+**[33:3]** Yea, he loveth the people; All his saints are in thy hand: And they sat down at thy feet; `Every one' shall receive of thy words.
+
+**[33:4]** Moses commanded us a law, An inheritance for the assembly of Jacob.
+
+**[33:5]** And he was king in Jeshurun, When the heads of the people were gathered, All the tribes of Israel together.
+
+**[33:6]** Let Reuben live, and not die; Nor let his men be few.
+
+**[33:7]** And this is `the blessing' of Judah: and he said, Hear, Jehovah, the voice of Judah, And bring him in unto his people. With his hands he contended for himself; And thou shalt be a help against his adversaries.
+
+**[33:8]** And of Levi he said, Thy Thummim and thy Urim are with thy godly one, Whom thou didst prove at Massah, With whom thou didst strive at the waters of Meribah;
+
+**[33:9]** Who said of his father, and of his mother, I have not seen him; Neither did he acknowledge his brethren, Nor knew he his own children: For they have observed thy word, And keep thy covenant.
+
+**[33:10]** They shall teach Jacob thine ordinances, And Israel thy law: They shall put incense before thee, And whole burnt-offering upon thine altar.
+
+**[33:11]** Bless, Jehovah, his substance, And accept the work of his hands: Smite through the loins of them that rise up against him, And of them that hate him, that they rise not again.
+
+**[33:12]** Of Benjamin he said, The beloved of Jehovah shall dwell in safety by him; He covereth him all the day long, And he dwelleth between his shoulders.
+
+**[33:13]** And of Joseph he said, Blessed of Jehovah be his land, For the precious things of heaven, for the dew, And for the deep that coucheth beneath,
+
+**[33:14]** And for the precious things of the fruits of the sun, And for the precious things of the growth of the moons,
+
+**[33:15]** And for the chief things of the ancient mountains, And for the precious things of the everlasting hills,
+
+**[33:16]** And for the precious things of the earth and the fulness thereof, And the good will of him that dwelt in the bush. Let `the blessing' come upon the head of Joseph, And upon the crown of the head of him that was separate from his brethren.
+
+**[33:17]** The firstling of his herd, majesty is his; And his horns are the horns of the wild-ox: With them he shall push the peoples all of them, `even' the ends of the earth: And they are the ten thousands of Ephraim, And they are the thousands of Manasseh.
+
+**[33:18]** And of Zebulun he said, Rejoice, Zebulun, in thy going out; And, Issachar, in thy tents.
+
+**[33:19]** They shall call the peoples unto the mountain; There shall they offer sacrifices of righteousness: For they shall suck the abundance of the seas, And the hidden treasures of the sand.
+
+**[33:20]** And of Gad he said, Blessed be he that enlargeth Gad: He dwelleth as a lioness, And teareth the arm, yea, the crown of the head.
+
+**[33:21]** And he provided the first part for himself, For there was the lawgiver's portion reserved; And he came `with' the heads of the people; He executed the righteousness of Jehovah, And his ordinances with Israel.
+
+**[33:22]** And of Dan he said, Dan is a lion's whelp, That leapeth forth from Bashan.
+
+**[33:23]** And of Naphtali he said, O Naphtali, satisfied with favor, And full with the blessing of Jehovah, Possess thou the west and the south.
+
+**[33:24]** And of Asher he said, Blessed be Asher with children; Let him be acceptable unto his brethren, And let him dip his foot in oil.
+
+**[33:25]** Thy bars shall be iron and brass; And as thy days, so shall thy strength be.
+
+**[33:26]** There is none like unto God, O Jeshurun, Who rideth upon the heavens for thy help, And in his excellency on the skies.
+
+**[33:27]** The eternal God is `thy' dwelling-place, And underneath are the everlasting arms. And he thrust out the enemy from before thee, And said, Destroy.
+
+**[33:28]** And Israel dwelleth in safety, The fountain of Jacob alone, In a land of grain and new wine; Yea, his heavens drop down dew.
+
+**[33:29]** Happy art thou, O Israel: Who is like unto thee, a people saved by Jehovah, The shield of thy help, And the sword of thy excellency! And thine enemies shall submit themselves unto thee; And thou shalt tread upon their high places.
+
+**[34:1]** And Moses went up from the plains of Moab unto mount Nebo, to the top of Pisgah, that is over against Jericho. And Jehovah showed him all the land of Gilead, unto Dan,
+
+**[34:2]** and all Naphtali, and the land of Ephraim and Manasseh, and all the land of Judah, unto the hinder sea,
+
+**[34:3]** and the South, and the Plain of the valley of Jericho the city of palm-trees, unto Zoar.
+
+**[34:4]** And Jehovah said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither.
+
+**[34:5]** So Moses the servant of Jehovah died there in the land of Moab, according to the word of Jehovah.
+
+**[34:6]** And he buried him in the valley in the land of Moab over against Beth-peor: but no man knoweth of his sepulchre unto this day.
+
+**[34:7]** And Moses was a hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.
+
+**[34:8]** And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping in the mourning for Moses were ended.
+
+**[34:9]** And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as Jehovah commanded Moses.
+
+**[34:10]** And there hath not arisen a prophet since in Israel like unto Moses, whom Jehovah knew face to face,
+
+**[34:11]** in all the signs and the wonders, which Jehovah sent him to do in the land of Egypt, to Pharaoh, and to all his servants, and to all his land,
+
+**[34:12]** and in all the mighty hand, and in all the great terror, which Moses wrought in the sight of all Israel.

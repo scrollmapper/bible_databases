@@ -1,0 +1,2585 @@
+# Isaiah - Young's Literal Translation (YLT)
+
+**[1:1]** The Visions of Isaiah son of Amoz, that he hath seen concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, Hezekiah, kings of Judah.
+
+**[1:2]** Hear, O heavens, and give ear, O earth, For Jehovah hath spoken: Sons I have nourished and brought up, And they -- they transgressed against Me.
+
+**[1:3]** An ox hath known its owner, And an ass the crib of its master, Israel hath not known, My people hath not understood.
+
+**[1:4]** Ah, sinning nation, a people heavy `with' iniquity, A seed of evil doers, sons -- corrupters! They have forsaken Jehovah, They have despised the Holy One of Israel, They have gone away backward.
+
+**[1:5]** Wherefore are ye stricken any more? Ye do add apostacy! Every head is become diseased, and every heart `is' sick.
+
+**[1:6]** From the sole of the foot -- unto the head, There is no soundness in it, Wound, and bruise, and fresh smiting! They have not been closed nor bound, Nor have they softened with ointment.
+
+**[1:7]** Your land `is' a desolation, your cities burnt with fire, Your ground, before you strangers are consuming it, And a desolation as overthrown by strangers!
+
+**[1:8]** And left hath been the daughter of Zion, As a booth in a vineyard, As a lodge in a place of cucumbers -- as a city besieged.
+
+**[1:9]** Unless Jehovah of Hosts had left to us a remnant, Shortly -- as Sodom we had been, To Gomorrah we had been like!
+
+**[1:10]** Hear the word of Jehovah, ye rulers of Sodom, Give ear to the law of our God, ye people of Gomorrah,
+
+**[1:11]** `Why to Me the abundance of your sacrifices? saith Jehovah, I have been satiated `with' burnt-offerings of rams, And fat of fatlings; And blood of bullocks, and lambs, And he-goats I have not desired.
+
+**[1:12]** When ye come in to appear before Me, Who hath required this of your hand, To trample My courts?
+
+**[1:13]** Add not to bring in a vain present, Incense -- an abomination it `is' to Me, New moon, and sabbath, calling of convocation! Rendure not iniquity -- and a restraint!
+
+**[1:14]** Your new moons and your set seasons hath My soul hated, They have been upon me for a burden, I have been weary of bearing.
+
+**[1:15]** And in your spreading forth your hands, I hide mine eyes from you, Also when ye increase prayer, I do not hear, Your hands of blood have been full.
+
+**[1:16]** Wash ye, make ye pure, Turn aside the evil of your doings, from before Mine eyes, Cease to do evil, learn to do good.
+
+**[1:17]** Seek judgment, make happy the oppressed, Judge the fatherless, strive `for' the widow.
+
+**[1:18]** Come, I pray you, and we reason, saith Jehovah, If your sins are as scarlet, as snow they shall be white, If they are red as crimson, as wool they shall be!
+
+**[1:19]** If ye are willing, and have hearkened, The good of the land ye consume,
+
+**[1:20]** And if ye refuse, and have rebelled, `By' the sword ye are consumed, For the mouth of Jehovah hath spoken.
+
+**[1:21]** How hath a faithful city become a harlot? I have filled it `with' judgment, Righteousness lodgeth in it -- now murderers.
+
+**[1:22]** Thy silver hath become dross, Thy drink polluted with water.
+
+**[1:23]** Thy princes `are' apostates, and companions of thieves, Every one loving a bribe, and pursuing rewards, The fatherless they judge not, And the plea of the widow cometh not to them.
+
+**[1:24]** Therefore -- the affirmation of the Lord -- Jehovah of Hosts, the Mighty One of Israel: Ah, I am eased of Mine adversaries, And I am avenged of Mine enemies,
+
+**[1:25]** And I turn back My hand upon thee, And I refine as purity thy dross, And I turn aside all thy tin,
+
+**[1:26]** And I give back thy judges as at the first, And thy counsellors as in the beginning, After this thou art called, `A city of righteousness -- a faithful city.'
+
+**[1:27]** Zion in judgment is redeemed, And her captivity in righteousness.
+
+**[1:28]** And the destruction of transgressors and sinners `is' together, And those forsaking Jehovah are consumed.
+
+**[1:29]** For `men' are ashamed because of the oaks That ye have desired, And ye are confounded because of the gardens That ye have chosen.
+
+**[1:30]** For ye are as an oak whose leaf is fading, And as a garden that hath no water.
+
+**[1:31]** And the strong hath been for tow, And his work for a spark, And burned have both of them together, And there is none quenching!
+
+**[2:1]** The thing that Isaiah son of Amoz hath seen concerning Judah and Jerusalem:
+
+**[2:2]** And it hath come to pass, In the latter end of the days, Established is the mount of Jehovah's house, Above the top of the mounts, And it hath been lifted up above the heights, And flowed unto it have all the nations.
+
+**[2:3]** And gone have many peoples and said, `Come, and we go up unto the mount of Jehovah, Unto the house of the God of Jacob, And He doth teach us of His ways, And we walk in His paths, For from Zion goeth forth a law, And a word of Jehovah from Jerusalem.
+
+**[2:4]** And He hath judged between the nations, And hath given a decision to many peoples, And they have beat their swords to ploughshares, And their spears to pruning-hooks, Nation doth not lift up sword unto nation, Nor do they learn any more -- war.
+
+**[2:5]** O house of Jacob, come, And we walk in the light of Jehovah.'
+
+**[2:6]** For Thou hast left Thy people, the house of Jacob. For they have been filled from the east, And `are' sorcerers like the Philistines, And with the children of strangers strike hands.
+
+**[2:7]** And its land is full of silver and gold, And there is no end to its treasures, And its land is full of horses, And there is no end to its chariots,
+
+**[2:8]** And its land is full of idols, To the work of its hands it boweth itself, To that which its fingers have made,
+
+**[2:9]** And the low boweth down, and the high is humbled, And Thou acceptest them not.
+
+**[2:10]** Enter into a rock, and be hidden in dust, Because of the fear of Jehovah, And because of the honour of His excellency.
+
+**[2:11]** The haughty eyes of man have been humbled, And bowed down hath been the loftiness of men, And set on high hath Jehovah alone been in that day.
+
+**[2:12]** For a day `is' to Jehovah of Hosts, For every proud and high one, And for every lifted up and low one,
+
+**[2:13]** And for all cedars of Lebanon, The high and the exalted ones, And for all oaks of Bashan,
+
+**[2:14]** And for all the high mountains, And for all the exalted heights,
+
+**[2:15]** And for every high tower, And for every fenced wall,
+
+**[2:16]** And for all ships of Tarshish, And for all desirable pictures.
+
+**[2:17]** And bowed down hath been the haughtiness of man, And humbled the loftiness of men, And set on high hath Jehovah alone been in that day.
+
+**[2:18]** And the idols -- they completely pass away.
+
+**[2:19]** And `men' have entered into caverns of rocks, And into caves of dust, Because of the fear of Jehovah, And because of the honour of His excellency, In His rising to terrify the earth.
+
+**[2:20]** In that day doth man cast his idols of silver, And his idols of gold, That they have made for him to worship, To moles, and to bats,
+
+**[2:21]** To enter into cavities of the rocks, And into clefts of the high places, Because of the fear of Jehovah, And because of the honour of His excellency, In His rising to terrify the earth.
+
+**[2:22]** Cease for you from man, Whose breath `is' in his nostrils, For -- in what is he esteemed?
+
+**[3:1]** For, lo, the Lord, Jehovah of Hosts, Is turning aside from Jerusalem, And from Judah, stay and staff, Every stay of bread, and every stay of water.
+
+**[3:2]** Hero and man of war, judge and prophet, And diviner and elder,
+
+**[3:3]** Head of fifty, and accepted of faces, And counsellor, and the wise of artificers, And the intelligent of charmers.
+
+**[3:4]** And I have made youths their heads, And sucklings rule over them.
+
+**[3:5]** And the people hath exacted -- man upon man, Even a man on his neighbour, Enlarge themselves do the youths against the aged, And the lightly esteemed against the honoured.
+
+**[3:6]** When one layeth hold on his brother, `Of' the house of his father, `by' the garment, `Come, a ruler thou art to us, And this ruin `is' under thy hand.'
+
+**[3:7]** He lifteth up, in that day, saying: `I am not a binder up, And in my house is neither bread nor garment, Ye do not make me a ruler of the people.'
+
+**[3:8]** For stumbled hath Jerusalem, and Judah hath fallen, For their tongue and their doings `are' against Jehovah, To provoke the eyes of His glory.
+
+**[3:9]** The appearance of their faces witnessed against them, And their sin, as Sodom, they declared, They have not hidden! Wo to their soul, For they have done to themselves evil.
+
+**[3:10]** Say ye to the righteous, that `it is' good, Because the fruit of their doings they eat.
+
+**[3:11]** Wo to the wicked -- evil, Because the deed of his hand is done to him.
+
+**[3:12]** My people -- its exactors `are' sucklings, And women have ruled over it. My people -- thy eulogists are causing to err, And the way of thy paths swallowed up.
+
+**[3:13]** Jehovah hath stood up to plead, And He is standing to judge the peoples.
+
+**[3:14]** Jehovah into judgment doth enter With elders of His people, and its heads: `And ye, ye have consumed the vineyard, Plunder of the poor `is' in your houses.
+
+**[3:15]** What -- to you? ye bruise My people, And the faces of the poor ye grind.' An affirmation of the Lord, Jehovah of Hosts, And Jehovah saith:
+
+**[3:16]** `Because that daughters of Zion have been haughty, And they walk stretching out the neck, And deceiving `with' the eyes, Walking and mincing they go, And with their feet they make a tinkling,
+
+**[3:17]** The Lord also hath scabbed The crown of the head of daughters of Zion, And Jehovah their simplicity exposeth.
+
+**[3:18]** In that day doth the Lord turn aside The beauty of the tinkling ornaments, And of the embroidered works, And of the round tires like moons,
+
+**[3:19]** Of the drops, and the bracelets, and the mufflers,
+
+**[3:20]** Of the bonnets, and the ornaments of the legs, And of the bands, And of the perfume boxes, and the amulets,
+
+**[3:21]** Of the seals, and of the nose-rings,
+
+**[3:22]** Of the costly apparel, and of the mantles, And of the coverings, and of the purses,
+
+**[3:23]** Of the mirrors, and of the linen garments, And of the hoods, and of the vails,
+
+**[3:24]** And it hath been, instead of spice is muck, And instead of a girdle, a rope, And instead of curled work, baldness, And instead of a stomacher a girdle of sackcloth.
+
+**[3:25]** For instead of glory, thy men by sword do fall, And thy might in battle.
+
+**[3:26]** And lamented and mourned have her openings, Yea, she hath been emptied, on the earth she sitteth!
+
+**[4:1]** And taken hold have seven women on one man, In that day, saying, `Our own bread we do eat, And our own raiment we put on, Only, let thy name be called over us, Remove thou our reproach.'
+
+**[4:2]** In that day is the Shoot of Jehovah for desire and for honour, And the fruit of the earth For excellence and for beauty to the escaped of Israel.
+
+**[4:3]** And it hath been, he who is left in Zion, And he who is remaining in Jerusalem, `Holy' is said of him, Of every one who is written for life in Jerusalem.
+
+**[4:4]** If the Lord hath washed away The filth of daughters of Zion, And the blood of Jerusalem purgeth from her midst, By the spirit of judgment, and by the spirit of burning.
+
+**[4:5]** Then hath Jehovah prepared Over every fixed place of Mount Zion, And over her convocations, A cloud by day, and smoke, And the shining of a flaming fire by night, That, over all honour a safe-guard,
+
+**[4:6]** And a covering may be, For a shadow by day from drought, And for a refuge, and for a hiding place, From inundation and from rain!
+
+**[5:1]** Let me sing, I pray you, for my beloved, A song of my beloved as to his vineyard: My beloved hath a vineyard in a fruitful hill,
+
+**[5:2]** And he fenceth it, and casteth out its stones, And planteth it `with' a choice vine, And buildeth a tower in its midst, And also a wine press hath hewn out in it, And he waiteth for the yielding of grapes, And it yieldeth bad ones!
+
+**[5:3]** And now, O inhabitant of Jerusalem, and man of Judah, Judge, I pray you, between me and my vineyard.
+
+**[5:4]** What -- to do still to my vineyard, That I have not done in it! Wherefore, I waited to the yielding of grapes, And it yieldeth bad ones!
+
+**[5:5]** And now, pray, let me cause you to know, That which I am doing to my vineyard, To turn aside its hedge, And it hath been for consumption, To break down its wall, And it hath been for a treading-place.
+
+**[5:6]** And I make it a waste, It is not pruned, nor arranged, And gone up have brier and thorn, And on the thick clouds I lay a charge, From raining upon it rain.
+
+**[5:7]** Because the vineyard of Jehovah of Hosts `Is' the house of Israel, And the man of Judah His pleasant plant, And He waiteth for judgment, and lo, oppression, For righteousness, and lo, a cry.
+
+**[5:8]** Wo `to' those joining house to house, Field to field they bring near, till there is no place, And ye have been settled by yourselves In the midst of the land!
+
+**[5:9]** By the weapons of Jehovah of Hosts Do not many houses a desolation become? Great and good without inhabitant!
+
+**[5:10]** For ten acres of vineyard do yield one bath, And an homer of seed yieldeth an ephah.
+
+**[5:11]** Wo `to' those rising early in the morning, Strong drink they pursue! Tarrying in twilight, wine inflameth them!
+
+**[5:12]** And harp, and psaltery, tabret, and pipe, And wine, have been their banquets, And the work of Jehovah they behold not, Yea, the work of His hands they have not seen.
+
+**[5:13]** Therefore my people removed without knowledge, And its honourable ones are famished, And its multitude dried up of thirst.
+
+**[5:14]** Therefore hath Sheol enlarged herself, And hath opened her mouth without limit. And gone down hath its honour, and its multitude, And its noise, and its exulting one -- into her.
+
+**[5:15]** And bowed down is the low, and humbled the high, And the eyes of the haughty become low,
+
+**[5:16]** And Jehovah of Hosts is high in judgment, And the Holy God sanctified in righteousness,
+
+**[5:17]** And fed have lambs according to their leading, And waste places of the fat ones Do sojourners consume.
+
+**[5:18]** Wo `to' those drawing out iniquity with cords of vanity, And as `with' thick ropes of the cart -- sin.
+
+**[5:19]** Who are saying, `Let Him hurry, Let Him hasten His work, that we may see, And let the counsel of the Holy One of Israel Draw near and come, and we know.'
+
+**[5:20]** Wo `to' those saying to evil `good,' And to good `evil,' Putting darkness for light, and light for darkness, Putting bitter for sweet, and sweet for bitter.
+
+**[5:21]** Wo `to' the wise in their own eyes, And -- before their own faces -- intelligent!
+
+**[5:22]** Wo `to' the mighty to drink wine, And men of strength to mingle strong drink.
+
+**[5:23]** Declaring righteous the wicked for a bribe, And the righteousness of the righteous They turn aside from him.
+
+**[5:24]** Therefore, as a tongue of fire devoureth stubble, And flaming hay falleth, Their root is as muck, And their flower as dust goeth up. Because they have rejected the law of Jehovah of Hosts, And the saying of the Holy One of Israel despised.
+
+**[5:25]** Therefore hath the anger of Jehovah burned among His people, And He stretcheth out His hand against it, And smiteth it, and the mountains tremble, And their carcase is as filth in the midst of the out-places. With all this His anger did not turn back, And still His hand is stretched out!
+
+**[5:26]** And He lifted up an ensign to nations afar off, And hissed to it from the end of the earth, And lo, with haste, swift it cometh.
+
+**[5:27]** There is none weary, nor stumbling in it, It doth not slumber, nor sleep, Nor opened hath been the girdle of its loins, Nor drawn away the latchet of its sandals.
+
+**[5:28]** Whose arrows `are' sharp, and all its bows bent, Hoofs of its horses as flint have been reckoned, And its wheels as a hurricane!
+
+**[5:29]** Its roaring `is' like a lioness, It roareth like young lions, And it howleth, and seizeth prey, And carrieth away safely, and there is none delivering.
+
+**[5:30]** And it howleth against it in that day as the howling of a sea, And it hath looked attentively to the land, And lo, darkness -- distress, And light hath been darkened by its abundance!
+
+**[6:1]** In the year of the death of king Uzziah -- I see the Lord, sitting on a throne, high and lifted up, and His train is filling the temple.
+
+**[6:2]** Seraphs are standing above it: six wings hath each one; with two `each' covereth its face, and with two `each' covereth its feet, and with two `each' flieth.
+
+**[6:3]** And this one hath called unto that, and hath said: `Holy, Holy, Holy, `is' Jehovah of Hosts, The fulness of all the earth `is' His glory.'
+
+**[6:4]** And the posts of the thresholds are moved by the voice of him who is calling, and the house is full of smoke.
+
+**[6:5]** And I say, `Wo to me, for I have been silent, For a man -- unclean of lips `am' I, And in midst of a people unclean of lips I am dwelling, Because the King, Jehovah of Hosts, have my eyes seen.'
+
+**[6:6]** And flee unto me doth one of the seraphs, and in his hand a burning coal, (with tongs he hath taken `it' from off the altar,)
+
+**[6:7]** and he striketh against my mouth, and saith: `Lo, this hath stricken against thy lips, And turned aside is thine iniquity, And thy sin is covered.'
+
+**[6:8]** And I hear the voice of the Lord, saying: `Whom do I send? and who doth go for Us?' And I say, `Here `am' I, send me.'
+
+**[6:9]** And He saith, `Go, and thou hast said to this people, Hear ye -- to hear, and ye do not understand, And see ye -- to see, and ye do not know.
+
+**[6:10]** Declare fat the heart of this people, And its ears declare heavy, And its eyes declare dazzled, Lest it see with its eyes, And with its ears hear, and its heart consider, And it hath turned back, and hath health.'
+
+**[6:11]** And I say, `Till when, O Lord?' And He saith, `Surely till cities have been wasted without inhabitant, And houses without man, And the ground be wasted -- a desolation,
+
+**[6:12]** And Jehovah hath put man far off, And great `is' the forsaken part in the heart of the land.
+
+**[6:13]** And yet in it a tenth, and it hath turned, And hath been for a burning, As a teil-tree, and as an oak, that in falling, Have substance in them, The holy seed `is' its substance!'
+
+**[7:1]** And it cometh to pass in the days of Ahaz, son of Jotham, son of Uzziah, king of Judah, gone up hath Rezin king of Aram, and Pekah, son of Remaliah, king of Israel, to Jerusalem, to battle against it, and he is not able to fight against it.
+
+**[7:2]** And it is declared to the house of David, saying, `Aram hath been led towards Ephraim,' And his heart and the heart of his people is moved, like the moving of trees of a forest by the presence of wind.
+
+**[7:3]** And Jehovah saith unto Isaiah, `Go forth, I pray thee, to meet Ahaz, thou, and Shear-Jashub thy son, unto the end of the conduit of the upper pool, unto the highway of the fuller's field,
+
+**[7:4]** and thou hast said unto him: `Take heed, and be quiet, fear not, And let not thy heart be timid, Because of these two tails of smoking brands, For the fierceness of the anger of Rezin and Aram, And the son of Remaliah.
+
+**[7:5]** Because that Aram counselled against thee evil, Ephraim and the son of Remaliah, saying:
+
+**[7:6]** We go up into Judah, and we vex it, And we rend it unto ourselves, And we cause a king to reign in its midst -- The son of Tabeal.
+
+**[7:7]** Thus said the Lord Jehovah: It doth not stand, nor shall it be!
+
+**[7:8]** For the head of Aram `is' Damascus, And the head of Damascus `is' Rezin, And within sixty and five years Is Ephraim broken from `being' a people.
+
+**[7:9]** And the head of Ephraim `is' Samaria, And the head of Samaria `is' the son of Remaliah. If ye do not give credence, Surely ye are not stedfast.'
+
+**[7:10]** And Jehovah addeth to speak unto Ahaz, saying:
+
+**[7:11]** `Ask for thee a sign from Jehovah thy God, Make deep the request, or make `it' high upwards.'
+
+**[7:12]** And Ahaz saith, `I do not ask nor try Jehovah.'
+
+**[7:13]** And he saith, `Hear, I pray you, O house of David, Is it a little thing for you to weary men, That ye weary also my God?
+
+**[7:14]** Therefore the Lord Himself giveth to you a sign, Lo, the Virgin is conceiving, And is bringing forth a son, And hath called his name Immanuel,
+
+**[7:15]** Butter and honey he doth eat, When he knoweth to refuse evil, and to fix on good.
+
+**[7:16]** For before the youth doth know To refuse evil, and to fix on good, Forsaken is the land thou art vexed with, because of her two kings.
+
+**[7:17]** Jehovah bringeth on thee, and on thy people, And on the house of thy father, Days that have not come, Even from the day of the turning aside of Ephraim from Judah, By the king of Asshur.
+
+**[7:18]** And it hath come to pass, in that day, Jehovah doth hiss for a fly that `is' in the extremity of the brooks of Egypt, And for a bee that `is' in the land of Asshur.
+
+**[7:19]** And they have come, and rested all of them in the desolate valleys, And in holes of the rocks, and on all the thorns, And on all the commendable things.
+
+**[7:20]** In that day doth the Lord shave, By a razor that is hired beyond the river, By the king of Asshur, The head, and the hair of the feet, Yea, also the beard it consumeth.
+
+**[7:21]** And it hath come to pass, in that day, A man keepeth alive a heifer of the herd, And two of the flock,
+
+**[7:22]** And it hath come to pass, From the abundance of the yielding of milk he eateth butter, For butter and honey doth every one eat Who is left in the heart of the land.
+
+**[7:23]** And it hath come to pass, in that day, Every place where there are a thousand vines, At a thousand silverlings, Is for briers and for thorns.
+
+**[7:24]** With arrows and with bow he cometh thither, Because all the land is brier and thorn.
+
+**[7:25]** And all the hills that with a mattock are kept in order, Thither cometh not the fear of brier and thorn, And it hath been for the sending forth of ox, And for the treading of sheep!'
+
+**[8:1]** And Jehovah saith unto me, `Take to thee a great tablet, and write upon it with a graving tool of man, To haste spoil, enjoy prey.'
+
+**[8:2]** And I cause faithful witnesses to testify to me, Uriah the priest, and Zechariah son of Jeberechiah.
+
+**[8:3]** And I draw near unto the prophetess, and she conceiveth, and beareth a son; and Jehovah saith unto me, `Call his name Maher-shalal-hash-baz,
+
+**[8:4]** for before the youth doth know to cry, My father, and My mother, one taketh away the wealth of Damascus and the spoil of Samaria, before the king of Asshur.'
+
+**[8:5]** And Jehovah addeth to speak unto me again, saying:
+
+**[8:6]** `Because that this people hath refused The waters of Shiloah that go softly, And is rejoicing with Rezin and the son of Remaliah,
+
+**[8:7]** Therefore, lo, the Lord is bringing up on them, The waters of the river, the mighty and the great, (The king of Asshur, and all his glory,) And it hath gone up over all its streams, And hath gone on over all its banks.
+
+**[8:8]** And it hath passed on into Judah, It hath overflown and passed over, Unto the neck it cometh, And the stretching out of its wings Hath been the fulness of the breadth of thy land, O Emmanu-El!
+
+**[8:9]** Be friends, O nations, and be broken, And give ear, all ye far off ones of earth, Gird yourselves, and be broken, Gird yourselves, and be broken.
+
+**[8:10]** Take counsel, and it is broken, Speak a word, and it doth not stand, Because of Emmanu-El!'
+
+**[8:11]** For thus hath Jehovah spoken unto me with strength of hand, and instructeth me against walking in the way of this people, saying,
+
+**[8:12]** `Ye do not say, A confederacy, To all to whom this people saith, A confederacy, And its fear ye do not fear, Nor declare fearful.
+
+**[8:13]** Jehovah of Hosts -- Him ye do sanctify, And He `is' your Fear, and He your Dread,
+
+**[8:14]** And He hath been for a sanctuary, And for a stone of stumbling, and for a rock of falling, To the two houses of Israel, For a gin and for a snare to the inhabitants of Jerusalem.
+
+**[8:15]** And many among them have stumbled and fallen, And been broken, and snared, and captured.
+
+**[8:16]** Bind up the testimony, Seal the law among My disciples.
+
+**[8:17]** And I have waited for Jehovah, Who is hiding His face from the house of Jacob, And I have looked for Him.
+
+**[8:18]** Lo, I, and the children whom Jehovah hath given to me, `Are' for signs and for wonders in Israel, From Jehovah of Hosts, who is dwelling in Mount Zion.
+
+**[8:19]** And when they say unto you, `Seek unto those having familiar spirits, And unto wizards, who chatter and mutter, Doth not a people seek unto its God? -- For the living unto the dead!
+
+**[8:20]** To the law and to the testimony! If not, let them say after this manner, `That there is no dawn to it.'
+
+**[8:21]** -- And it hath passed over into it, hardened and hungry, And it hath come to pass, That it is hungry, and hath been wroth, And made light of its king, and of its God, And hath looked upwards.
+
+**[8:22]** And unto the land it looketh attentively, And lo, adversity and darkness! -- Dimness, distress, and thick darkness is driven away, But not the dimness for which she is in distress!
+
+**[9:1]** As the former time made light The land of Zebulun and the land of Naphtali, So the latter hath honoured the way of the sea, Beyond the Jordan, Galilee of the nations.
+
+**[9:2]** The people who are walking in darkness Have seen a great light, Dwellers in a land of death-shade, Light hath shone upon them.
+
+**[9:3]** Thou hast multiplied the nation, Thou hast made great its joy, They have joyed before Thee as the joy in harvest, As `men' rejoice in their apportioning spoil.
+
+**[9:4]** Because the yoke of its burden, And the staff of its shoulder, the rod of its exactor, Thou hast broken as `in' the day of Midian.
+
+**[9:5]** For every battle of a warrior `is' with rushing, and raiment rolled in blood, And it hath been for burning -- fuel of fire.
+
+**[9:6]** For a Child hath been born to us, A Son hath been given to us, And the princely power is on his shoulder, And He doth call his name Wonderful, Counsellor, Mighty God, Father of Eternity, Prince of Peace.
+
+**[9:7]** To the increase of the princely power, And of peace, there is no end, On the throne of David, and on his kingdom, To establish it, and to support it, In judgment and in righteousness, Henceforth, even unto the age, The zeal of Jehovah of Hosts doth this.
+
+**[9:8]** A word hath the Lord sent into Jacob, And it hath fallen in Israel.
+
+**[9:9]** And the people have known -- all of it, Ephraim, and the inhabitant of Samaria, In pride and in greatness of heart, saying,
+
+**[9:10]** `Bricks have fallen, and hewn work we build, Sycamores have been cut down, and cedars we renew.'
+
+**[9:11]** And Jehovah setteth the adversaries of Rezin on high above him, And his enemies he joineth together,
+
+**[9:12]** Aram from before, and Philistia from behind, And they devour Israel with the whole mouth. With all this not turned back hath His anger, And still His hand is stretched out.
+
+**[9:13]** And the people hath not turned back unto Him who is smiting it, And Jehovah of Hosts they have not sought.
+
+**[9:14]** And Jehovah cutteth off from Israel head and tail, Branch and reed -- the same day,
+
+**[9:15]** Elder, and accepted of face, he `is' the head, Prophet, teacher of falsehood, he `is' the tail.
+
+**[9:16]** And the eulogists of this people are causing to err, And its eulogised ones are consumed.
+
+**[9:17]** Therefore, over its young men the Lord rejoiceth not, And its orphans, and its widows He pitieth not, For every one `is' profane, and an evil doer, And every mouth is speaking folly. With all this not turned back hath His anger, And still His hand is stretched out.
+
+**[9:18]** For burned as a fire hath wickedness, Brier and thorn it devoureth, And it kindleth in thickets of the forest, And they lift themselves up, an exaltation of smoke!
+
+**[9:19]** In the wrath of Jehovah of Hosts Hath the land been consumed, And the people is as fuel of fire; A man on his brother hath no pity,
+
+**[9:20]** And cutteth down on the right, and hath been hungry, And he devoureth on the left, And they have not been satisfied, Each the flesh of his own arm they devour.
+
+**[9:21]** Manasseh -- Ephraim, and Ephraim -- Manasseh, Together they `are' against Judah, With all this not turned back hath His anger. And still His hand is stretched out!
+
+**[10:1]** Wo `to' those decreeing decrees of iniquity, And writers who have prescribed perverseness.
+
+**[10:2]** To turn aside from judgment the poor, And to take violently away the judgment Of the afflicted of My people, That widows may be their prey, That the fatherless they may spoil.
+
+**[10:3]** And what do ye at a day of inspection? And at desolation? -- from afar it cometh. Near whom do ye flee for help? And where do ye leave your honour?
+
+**[10:4]** Without Me it hath bowed down In the place of a bound one, And in the place of the slain they fall. With all this not turned back hath His anger, And still His hand is stretched out.
+
+**[10:5]** Wo `to' Asshur, a rod of Mine anger, And a staff in their hand `is' Mine indignation.
+
+**[10:6]** Against a profane nation I send him, And concerning a people of My wrath I charge him, To spoil spoil, and to seize prey, And to make it a treading-place as the clay of out places.
+
+**[10:7]** And he -- he thinketh not so, And his heart reckoneth not so, For -- to destroy `is' in his heart, And to cut off nations not a few.
+
+**[10:8]** For he saith, `Are not my princes altogether kings?
+
+**[10:9]** Is not Calno as Carchemish? Is not Hamath as Arpad? Is not Samaria as Damascus?
+
+**[10:10]** As my hand hath got to the kingdoms of a worthless thing, and their graven images, `Greater' than Jerusalem and than Samaria,
+
+**[10:11]** Do I not -- as I have done to Samaria, And to her worthless things, So do to Jerusalem and to her grievous things?
+
+**[10:12]** And it hath come to pass, When the Lord doth fulfil all His work In mount Zion and in Jerusalem, I see concerning the fruit of the greatness Of the heart of the king of Asshur. And concerning the glory of the height of his eyes.
+
+**[10:13]** For he hath said, `By the power of my hand I have wrought, And by my wisdom, for I have been intelligent, And I remove borders of the peoples, And their chief ones I have spoiled, And I put down as a mighty one the inhabitants,
+
+**[10:14]** And my hand as to a nest Getteth to the wealth of the peoples, And as a gathering of forsaken eggs All the earth I -- I have gathered, And there hath not been one moving wing, Or opening mouth, or whispering.'
+
+**[10:15]** -- Doth the axe glorify itself Against him who is hewing with it? Doth the saw magnify itself Against him who is shaking it? As a rod waving those lifting it up! As a staff lifting up that which is not wood!
+
+**[10:16]** Therefore doth the Lord, the Lord of Hosts, Send among his fat ones leanness, And under his honour He kindleth a burning As the burning of a fire.
+
+**[10:17]** And the light of Israel hath been for a fire, And his Holy One for a flame, And it hath burned, and devoured his thorn And his brier in one day.
+
+**[10:18]** And the honour of his forest, and his fruitful field, From soul even unto flesh He doth consume, And it hath been as the fainting of a standard-bearer.
+
+**[10:19]** And the rest of the trees of his forest `are' few, And a youth doth write them.
+
+**[10:20]** And it hath come to pass, in that day, The remnant of Israel, And the escaped of the house of Jacob, Do not add any more to lean on its smiter, And have leant on Jehovah, The Holy One of Israel, in truth.
+
+**[10:21]** A remnant returneth -- a remnant of Jacob, Unto the Mighty God.
+
+**[10:22]** For though thy people Israel be as the sand of the sea, A remnant doth return of it, A consumption determined, Overflowing `with' righteousness.
+
+**[10:23]** For a consumption that is determined, The Lord, Jehovah of Hosts, Is making in the midst of all the land.
+
+**[10:24]** Therefore, thus said the Lord, Jehovah of Hosts, `Be not afraid, my people, inhabiting Zion, because of Asshur, With a rod he doth smite thee, And his staff lifteth up against thee, in the way of Egypt.
+
+**[10:25]** For yet a very little, And the indignation hath been completed, And Mine anger by their wearing out.
+
+**[10:26]** And awaking for him is Jehovah of Hosts, A scourge like the smiting of Midian at the rock Oreb, And his rod `is' over the sea, And he hath lifted it in the way of Egypt.
+
+**[10:27]** And it hath come to pass, in that day, Turned is his burden from off thy shoulder, And his yoke from off thy neck, And destroyed hath been the yoke, because of prosperity.
+
+**[10:28]** He hath come in against Aiath, He hath passed over into Migron, At Michmash he looketh after his vessels.
+
+**[10:29]** They have gone over the passage, Geba they have made a lodging place, Trembled hath Rama, Gibeah of Saul fled.
+
+**[10:30]** Cry aloud `with' thy voice, daughter of Gallim, Give attention, Laish! answer her, Anathoth.
+
+**[10:31]** Fled away hath Madmenah, The inhabitants of the high places have hardened themselves.
+
+**[10:32]** Yet to-day in Nob to remain, Wave its hand doth the mount of the daughter of Zion, The hill of Jerusalem.
+
+**[10:33]** Lo, the Lord, Jehovah of Hosts, Is lopping a branch with violence, And the high of stature are cut down, And the lofty are become low,
+
+**[10:34]** And He hath gone round the thickets of the forest with iron, And Lebanon by a mighty one falleth!
+
+**[11:1]** And a rod hath come out from the stock of Jesse, And a branch from his roots is fruitful.
+
+**[11:2]** Rested on him hath the Spirit of Jehovah, The spirit of wisdom and understanding, The spirit of counsel and might, The spirit of knowledge and fear of Jehovah.
+
+**[11:3]** To refresh him in the fear of Jehovah, And by the sight of his eyes he judgeth not, Nor by the hearing of his ears decideth.
+
+**[11:4]** And he hath judged in righteousness the poor, And decided in uprightness for the humble of earth, And hath smitten earth with the rod of his mouth, And with the breath of his lips he putteth the wicked to death.
+
+**[11:5]** And righteousness hath been the girdle of his loins, And faithfulness -- the girdle of his reins.
+
+**[11:6]** And a wolf hath sojourned with a lamb, And a leopard with a kid doth lie down, And calf, and young lion, and fatling `are' together, And a little youth is leader over them.
+
+**[11:7]** And cow and bear do feed, Together lie down their young ones, And a lion as an ox eateth straw.
+
+**[11:8]** And played hath a suckling by the hole of an asp, And on the den of a cockatrice Hath the weaned one put his hand.
+
+**[11:9]** Evil they do not, nor destroy in all My holy mountain, For full hath been the earth with the knowledge of Jehovah, As the waters are covering the sea.
+
+**[11:10]** And there hath been, in that day, A root of Jesse that is standing for an ensign of peoples, Unto him do nations seek, And his rest hath been -- honour!
+
+**[11:11]** And it hath come to pass, in that day, The Lord addeth a second time his power, To get the remnant of His people that is left, From Asshur, and from Egypt, And from Pathros, and from Cush, And from Elam, and from Shinar, And from Hamath, and from isles of the sea,
+
+**[11:12]** And He hath lifted up an ensign to nations, And gathereth the driven away of Israel, And the scattered of Judah He assembleth, From the four wings of the earth.
+
+**[11:13]** And turned aside hath the envy of Ephraim, And the adversaries of Judah are cut off, Ephraim doth not envy Judah, And Judah doth not distress Ephraim.
+
+**[11:14]** And they have flown on the shoulder of the Philistines westward, Together they spoil the sons of the east, Edom and Moab sending forth their hand, And sons of Ammon obeying them.
+
+**[11:15]** And Jehovah hath devoted to destruction The tongue of the sea of Egypt, And hath waved His hand over the river, In the terror of his wind, And hath smitten it at the seven streams, And hath caused `men' to tread `it' with shoes.
+
+**[11:16]** And there hath been a highway, For the remnant of His people that is left, from Asshur, As there was for Israel in the day of his coming up out of the land of Egypt!
+
+**[12:1]** And thou hast said in that day: `I thank thee, O Jehovah, Though Thou hast been angry with me, Turn back doth Thine anger, And Thou dost comfort me.
+
+**[12:2]** Lo, God `is' my salvation, I trust, and fear not, For my strength and song `is' Jah Jehovah, And He is to me for salvation.
+
+**[12:3]** And ye have drawn waters with joy Out of the fountains of salvation,
+
+**[12:4]** And ye have said in that day, Give ye praise to Jehovah, call in His name. Make known among the peoples His acts. Make mention that set on high is His name.
+
+**[12:5]** Praise ye Jehovah, for excellence He hath done, Known is this in all the earth.
+
+**[12:6]** Cry aloud, and sing, O inhabitant of Zion, For great in thy midst `is' the Holy One of Israel!'
+
+**[13:1]** The burden of Babylon that Isaiah son of Amoz hath seen:
+
+**[13:2]** `On a high mountain lift ye up an ensign, Raise the voice to them, wave the hand, And they go in to the openings of nobles.
+
+**[13:3]** I have given charge to My sanctified ones, Also I have called My mighty ones for Mine anger, Those rejoicing at Mine excellency.'
+
+**[13:4]** A voice of a multitude in the mountains, A likeness of a numerous people, A voice of noise from the kingdoms of nations who are gathered, Jehovah of Hosts inspecting a host of battle!
+
+**[13:5]** They are coming in from a land afar off, From the end of the heavens, Jehovah and the instruments of His indignation, To destroy all the land.
+
+**[13:6]** Howl ye, for near `is' the day of Jehovah, As destruction from the Mighty it cometh.
+
+**[13:7]** Therefore, all hands do fail, And every heart of man doth melt.
+
+**[13:8]** And they have been troubled, Pains and pangs they take, As a travailing woman they are pained, A man at his friend they marvel, The appearance of flames -- their faces!
+
+**[13:9]** Lo, the day of Jehovah doth come, Fierce, with wrath, and heat of anger, To make the land become a desolation, Yea, its sinning ones He destroyeth from it.
+
+**[13:10]** For the stars of the heavens, and their constellations, Cause not their light to shine, Darkened hath been the sun in its going out, And the moon causeth not its light to come forth.
+
+**[13:11]** And I have appointed on the world evil, And on the wicked their iniquity, And have caused to cease the excellency of the proud, And the excellency of the terrible I make low.
+
+**[13:12]** I make man more rare than fine gold, And a common man than pure gold of Ophir.
+
+**[13:13]** Therefore the heavens I cause to tremble, And the earth doth shake from its place, In the wrath of Jehovah of Hosts, And in a day of the heat of his anger.
+
+**[13:14]** And it hath been, as a roe driven away, And as a flock that hath no gatherer, Each unto his people -- they turn, And each unto his land -- they flee.
+
+**[13:15]** Every one who is found is thrust through, And every one who is added falleth by sword.
+
+**[13:16]** And their sucklings are dashed to pieces before their eyes, Spoiled are their houses, and their wives lain with.
+
+**[13:17]** Lo, I am stirring up against them the Medes, Who silver esteem not, And gold -- they delight not in it.
+
+**[13:18]** And bows dash young men to pieces, And the fruit of the womb they pity not, On sons their eye hath no pity.
+
+**[13:19]** And Babylon, the beauty of kingdoms, The glory, the excellency of the Chaldeans, Hath been as overthrown by God, With Sodom and with Gomorrah.
+
+**[13:20]** She doth not sit for ever, Nor continueth unto many generations, Nor doth Arab pitch tent there, And shepherds lie not down there.
+
+**[13:21]** And Ziim have lain down there, And full have been their houses of howlings, And dwelt there have daughters of an ostrich, And goats do skip there.
+
+**[13:22]** And Aiim have responded in his forsaken habitations, And dragons in palaces of delight, And near to come `is' her time, And her days are not drawn out!
+
+**[14:1]** Because Jehovah loveth Jacob, And hath fixed again on Israel, And given them rest on their own land, And joined hath been the sojourner to them, And they have been admitted to the house of Jacob.
+
+**[14:2]** And peoples have taken them, And have brought them in unto their place, And the house of Israel have inherited them, On the land of Jehovah, For men-servants and for maid-servants, And they have been captors of their captors, And have ruled over their exactors.
+
+**[14:3]** And it hath come to pass, In the day of Jehovah's giving rest to thee, From thy grief, and from thy trouble, And from the sharp bondage, That hath been served upon thee,
+
+**[14:4]** That thou hast taken up this simile Concerning the king of Babylon, and said, How hath the exactor ceased,
+
+**[14:5]** Ceased hath the golden one. Broken hath Jehovah the staff of the wicked, The sceptre of rulers.
+
+**[14:6]** He who is smiting peoples in wrath, A smiting without intermission, He who is ruling in anger nations, Pursuing without restraint!
+
+**[14:7]** At rest -- quiet hath been all the earth, They have broken forth `into' singing.
+
+**[14:8]** Even firs have rejoiced over thee, Cedars of Lebanon -- `saying': Since thou hast lain down, The hewer cometh not up against us.
+
+**[14:9]** Sheol beneath hath been troubled at thee, To meet thy coming in, It is waking up for thee Rephaim, All chiefs ones of earth, It hath raised up from their thrones All kings of nations.
+
+**[14:10]** All of them answer and say unto thee, Even thou hast become weak like us! Unto us thou hast become like!
+
+**[14:11]** Brought down to Sheol hath been thine excellency, The noise of thy psaltery, Under thee spread out hath been the worm, Yea, covering thee is the worm.
+
+**[14:12]** How hast thou fallen from the heavens, O shining one, son of the dawn! Thou hast been cut down to earth, O weakener of nations.
+
+**[14:13]** And thou saidst in thy heart: the heavens I go up, Above stars of God I raise my throne, And I sit in the mount of meeting in the sides of the north.
+
+**[14:14]** I go up above the heights of a thick cloud, I am like to the Most High.
+
+**[14:15]** Only -- unto Sheol thou art brought down, Unto the sides of the pit.
+
+**[14:16]** Thy beholders look to thee, to thee they attend, Is this the man causing the earth to tremble, Shaking kingdoms?
+
+**[14:17]** He hath made the world as a wilderness, And his cities he hath broken down, Of his bound ones he opened not the house.
+
+**[14:18]** All kings of nations -- all of them, Have lain down in honour, each in his house,
+
+**[14:19]** And -- thou hast been cast out of thy grave, As an abominable branch, raiment of the slain, Thrust through ones of the sword, Going down unto the sons of the pit, As a carcase trodden down.
+
+**[14:20]** Thou art not united with them in burial, For thy land thou hast destroyed, Thy people thou hast slain, Not named to the age is the seed of evil doers.
+
+**[14:21]** Prepare ye for his sons slaughter; Because of the iniquity of their fathers, They rise not, nor have possessed the land, Nor filled the face of the world `with' cities.
+
+**[14:22]** And I have risen up against them, (The affirmation of Jehovah of Hosts,) And have cut off, in reference to Babylon, Name and remnant, and continuator and successor, The affirmation of Jehovah.
+
+**[14:23]** And have made it for a possession of a bittern, And ponds of waters, And daubed it with the mire of destruction, The affirmation of Jehovah of Hosts!
+
+**[14:24]** Sworn hath Jehovah of Hosts, saying, `As I thought -- so hath it not been? And as I counselled -- it standeth;
+
+**[14:25]** To break Asshur in My land, And on My mountains I tread him down, And turned from off them hath his yoke, Yea, his burden from off their shoulder turneth aside.
+
+**[14:26]** This `is' the counsel that is counselled for all the earth, And this `is' the hand that is stretched out for all the nations.
+
+**[14:27]** For Jehovah of Hosts hath purposed, And who doth make void? And His hand that is stretched out, Who doth turn it back?'
+
+**[14:28]** In the year of the death of king Ahaz was this burden:
+
+**[14:29]** Rejoice not thou, Philistia, all of thee, That broken hath been the rod of thy smiter, For from the root of a serpent cometh out a viper, And its fruit `is' a flying saraph.
+
+**[14:30]** And delighted have the first-born of the poor, And the needy in confidence lie down, And I have put to death with famine thy root, And thy remnant it slayeth.
+
+**[14:31]** Howl, O gate; cry, O city, Melted art thou, Philistia, all of thee, For from the north smoke hath come, And there is none alone in his set places.
+
+**[14:32]** And what doth one answer the messengers of a nation? `That Jehovah hath founded Zion, And in it do the poor of His people trust!'
+
+**[15:1]** The burden of Moab. Because in a night destroyed was Ar of Moab -- It hath been cut off, Because in a night destroyed was Kir of Moab -- It hath been cut off.
+
+**[15:2]** He hath gone up to Bajith and Dibon, The high places -- to weep, On Nebo and on Medeba Moab howleth, On all its heads `is' baldness, every beard cut off.
+
+**[15:3]** In its out-places they girded on sackcloth, On its pinnacles, and in its broad places, Every one howleth -- going down with weeping.
+
+**[15:4]** And cry doth Heshbon and Elealeh, Unto Jahaz heard hath been their voice, Therefore the armed ones of Moab do shout, His life hath been grievous to him.
+
+**[15:5]** My heart `is' toward Moab, Cry do her fugitives unto Zoar, a heifer of the third `year', For -- the ascent of Luhith -- With weeping he goeth up in it, For, in the way of Horonaim, A cry of destruction they wake up.
+
+**[15:6]** For, the waters of Nimrim are desolations, For, withered hath been the hay, Finished hath been the tender grass, A green thing there hath not been.
+
+**[15:7]** Therefore the abundance he made, and their store, Unto the brook of the willows they carry.
+
+**[15:8]** For gone round hath the cry the border of Moab, Unto Eglaim `is' its howling, And to Beer-Elim `is' its howling.
+
+**[15:9]** For the waters of Dimon have been full of blood, For I set on Dimon additions, For the escaped of Moab a lion, And for the remnant of Adamah!
+
+**[16:1]** Send ye a lamb `to' the ruler of the land, From Selah in the wilderness, Unto the mount of the daughter of Zion.
+
+**[16:2]** And it hath come to pass, As a wandering bird, a nest cast out, Are daughters of Moab, `at' fords of Arnon.
+
+**[16:3]** Bring ye in counsel, do judgment, Make as night thy shadow in the midst of noon, Hide outcasts, the wanderer reveal not.
+
+**[16:4]** Sojourn in thee do My outcasts, O Moab, Be a secret hiding-place to them, From the face of a destroyer, For ceased hath the extortioner, Finished hath been a destroyer, Consumed the treaders down out of the land.
+
+**[16:5]** And established in kindness is the throne, And `one' hath sat on it in truth, in the tent of David, Judging and seeking judgment, and hasting righteousness.
+
+**[16:6]** We have heard of the pride of Moab -- very proud, His pride, and his arrogance, and his wrath, Not right `are' his devices.
+
+**[16:7]** Therefore howl doth Moab for Moab, all of it doth howl, For the grape-cakes of Kir-Hareseth it meditateth, Surely they are smitten.
+
+**[16:8]** Because fields of Heshbon languish, The vine of Sibmah, Lords of nations did beat her choice vines, Unto Jazer they have come, They have wandered in a wilderness, Her plants have spread themselves, They have passed over a sea.
+
+**[16:9]** Therefore I weep with the weeping of Jazer, The vine of Sibmah, I water thee `with' my tear, O Heshbon and Elealeh, For -- for thy summer fruits, and for thy harvest, The shouting hath fallen.
+
+**[16:10]** And removed have been gladness and joy from the fruitful field, And in vineyards they sing not, nor shout, Wine in the presses treadeth not the treader, Shouting I have caused to cease.
+
+**[16:11]** Therefore my bowels for Moab as a harp do sound, And mine inward parts for Kir-Haresh.
+
+**[16:12]** And it hath come to pass, when it hath been seen, That weary hath been Moab on the high place, And he hath come unto his sanctuary to pray, And is not able.
+
+**[16:13]** This `is' the word that Jehovah hath spoken unto Moab from that time,
+
+**[16:14]** And now hath Jehovah spoken, saying, `In three years, as years of an hireling, Lightly esteemed is the honour of Moab, With all the great multitude, And the remnant `is' little, small, not mighty!'
+
+**[17:1]** The burden of Damascus. Lo, Damascus is taken away from `being' a city, And it hath been a heap -- a ruin.
+
+**[17:2]** Forsaken are the cities of Aroer, For droves they are, and they have lain down, And there is none troubling.
+
+**[17:3]** And ceased hath the fortress from Ephraim, And the kingdom from Damascus, And the remnant of Aram are as the honour of the sons of Israel, The affirmation of Jehovah of Hosts!
+
+**[17:4]** And it hath come to pass, in that day, Wax poor doth the honour of Jacob, And the fatness of his flesh doth wax lean.
+
+**[17:5]** And it hath come to pass, As the gathering by the reaper of the standing corn, And his arm the ears reapeth, And it hath come to pass, As the gathering of the ears in the valley of Rephaim,
+
+**[17:6]** And left in him have been gleanings, As the compassing of an olive, Two -- three berries on the top of a branch, Four -- five on the fruitful boughs, The affirmation of Jehovah, God of Israel!
+
+**[17:7]** In that day doth man look to His Maker, Yea, his eyes to the Holy One of Israel look,
+
+**[17:8]** And he looketh not unto the altars. The work of his own hands, And that which his own fingers made He seeth not -- the shrines and the images.
+
+**[17:9]** In that day are the cities of his strength As the forsaken thing of the forest, And the branch that they have left, Because of the sons of Israel, It also hath been a desolation.
+
+**[17:10]** Because thou hast forgotten the God of thy salvation, And the rock of thy strength hast not remembered, Therefore thou plantest plants of pleasantness, And with a strange slip sowest it,
+
+**[17:11]** In the day thy plant thou causest to become great, And in the morning thy seed makest to flourish, A heap `is' the harvest in a day of overflowing, And of mortal pain.
+
+**[17:12]** Wo `to' the multitude of many peoples, As the sounding of seas they sound; And `to' the wasting of nations, As the wasting of mighty waters they are wasted.
+
+**[17:13]** Nations as the wasting of many waters are wasted, And He hath pushed against it, And it hath fled afar off, And been pursued as chaff of hills before wind, And as a rolling thing before a hurricane.
+
+**[17:14]** At even-time, lo, terror, before morning it is not, This `is' the portion of our spoilers, And the lot of our plunderers!
+
+**[18:1]** Ho, land shadowed `with' wings, That `is' beyond the rivers of Cush,
+
+**[18:2]** That is sending by sea ambassadors, Even with implements of reed on the face of the waters, -- Go, ye light messengers, Unto a nation drawn out and peeled, Unto a people fearful from its beginning and onwards, A nation meeting out by line, and treading down, Whose land floods have spoiled.
+
+**[18:3]** All ye inhabitants of the world, And ye dwellers of earth, At the lifting up of an ensign on hills ye look, And at the blowing of a trumpet ye hear.
+
+**[18:4]** For thus said Jehovah unto me, `I rest, and I look on My settled place, As a clear heat on an herb. As a thick cloud of dew in the heat of harvest.
+
+**[18:5]** For before harvest, when the flower is perfect, And the blossom is producing unripe fruit, Then hath `one' cut the sprigs with pruning hooks, And the branches he hath turned aside, cut down.
+
+**[18:6]** They are left together to the ravenous fowl of the mountains, And to the beast of the earth, And summered on them hath the ravenous fowl, And every beast of the earth wintereth on them.
+
+**[18:7]** At that time brought is a present to Jehovah of Hosts, A nation drawn out and peeled. Even of a people fearful from the beginning hitherto, A nation meting out by line, and treading down, Whose land floods have spoiled, Unto the place of the name of Jehovah of Hosts -- mount Zion!'
+
+**[19:1]** The burden of Egypt. Lo, Jehovah is riding on a swift thick cloud, And He hath entered Egypt, And moved have been the idols of Egypt at His presence, And the heart of Egypt melteth in its midst.
+
+**[19:2]** And I armed Egyptians against Egyptians, And they fought, each against his brother, And each against his neighbour, City against city, kingdom against kingdom.
+
+**[19:3]** And emptied out hath been in its midst the spirit of Egypt. And its counsel I swallow up, And they have sought unto the idols, And unto the charmers, And unto those having familiar spirits, And unto the wizards.
+
+**[19:4]** And I have delivered the Egyptians Into the hand of a hard lord, And a strong king doth rule over them, An affirmation of the Lord, Jehovah of Hosts.
+
+**[19:5]** And failed have waters from the sea, And a river is wasted and dried up.
+
+**[19:6]** And they have turned away the flowings, Weak and dried up have been brooks of the bulwark, Reed and flag have withered.
+
+**[19:7]** Exposed things by the brook, by the edge of the brook, And every sown thing of the brook, hath withered, It hath been driven away, and is not.
+
+**[19:8]** And lamented have the fishers, And mourned have all casting angle into a brook, And those spreading nets on the face of the waters have languished.
+
+**[19:9]** And ashamed have been makers of fine flax, And weavers of net-works.
+
+**[19:10]** And its foundations have been smitten, All making wages `are' afflicted in soul.
+
+**[19:11]** Only, fools `are' the princes of Zoan, The counsel of the wise ones of the counsellors of Pharaoh hath become brutish. How say ye unto Pharaoh, `A son of the wise am I, a son of kings of antiquity?'
+
+**[19:12]** Where `are' they now, thy wise ones? Yea, let them tell to thee, I pray thee, And they know what Jehovah of Hosts hath counselled against Egypt!
+
+**[19:13]** Foolish have been princes of Zoan, Lifted up have been princes of Noph, And they have caused Egypt to err, The chief of her tribes.
+
+**[19:14]** Jehovah hath mingled in her midst A spirit of perverseness, And they have caused Egypt to err in all its work, As a drunkard erreth in his vomit.
+
+**[19:15]** And there is no work to Egypt, That head or tail, branch or reed, may do.
+
+**[19:16]** In that day is Egypt like women, And it hath mourned, and been afraid, Because of the waving of the hand of Jehovah of Hosts, That He is waving over it.
+
+**[19:17]** And the land of Judah hath been to Egypt for a cause of staggering, Every one who doth mention it, for himself feareth, Because of the counsel of Jehovah of Hosts, That He is counselling against it.
+
+**[19:18]** In that day there are five cities in the land of Egypt, Speaking the lip of Canaan, And swearing to Jehovah of Hosts, `The city of destruction,' is said of one.
+
+**[19:19]** In that day there is an altar to Jehovah In the midst of the land of Egypt, And a standing pillar near its border to Jehovah,
+
+**[19:20]** And it hath been for a sign and for a testimony, To Jehovah of Hosts in the land of Egypt, For they cry unto Jehovah from the face of oppressors, And He sendeth to them a saviour, Even a great one, and hath delivered them.
+
+**[19:21]** And known hath been Jehovah to Egypt, And the Egyptians have known Jehovah in that day, And done sacrifice and present, And vowed a vow to Jehovah, and completed `it'.
+
+**[19:22]** And Jehovah hath smitten Egypt, smiting and healing, And they have turned back unto Jehovah, And He hath been entreated of them, And hath healed them.
+
+**[19:23]** In that day is a highway out of Egypt to Asshur, And come in have the Assyrians to Egypt, And the Egyptians into Asshur, And the Egyptians have served with the Assyrians.
+
+**[19:24]** In that day is Israel third, After Egypt, and after Asshur, A blessing in the heart of the earth.
+
+**[19:25]** In that Jehovah of Hosts did bless it, saying, `Blessed `is' My people -- Egypt, And the work of My hands -- Asshur, And Mine inheritance -- Israel!'
+
+**[20:1]** In the year of the coming in of Tartan to Ashdod, when Sargon king of Asshur sendeth him, and he fighteth against Ashdod, and captureth it,
+
+**[20:2]** at that time spake Jehovah by the hand of Isaiah son of Amoz, saying, `Go, and thou hast loosed the sackcloth from off thy loins, and thy sandal thou dost draw from off thy foot,' and he doth so, going naked and barefoot.
+
+**[20:3]** And Jehovah saith, `As My servant Isaiah hath gone naked and barefoot three years, a sign and a wonder for Egypt and for Cush,
+
+**[20:4]** so doth the king of Asshur lead the captivity of Egypt, and the removal of Cush, young and old, naked and barefoot, with seat uncovered -- the nakedness of Egypt;
+
+**[20:5]** and they have been affrighted and ashamed of Cush their confidence, and of Egypt their beauty,
+
+**[20:6]** and the inhabitant of this isle hath said in that day -- Lo, thus `is' our trust, Whither we have fled for help, To be delivered from the king of Asshur, And how do we escape -- we?'
+
+**[21:1]** The burden of the wilderness of the sea. `Like hurricanes in the south for passing through, From the wilderness it hath come, From a fearful land.
+
+**[21:2]** A hard vision hath been declared to me, The treacherous dealer is dealing treacherously, And the destroyer is destroying. Go up, O Elam, besiege, O Media, All its sighing I have caused to cease.
+
+**[21:3]** Therefore filled have been my loins `with' great pain, Pangs have seized me as pangs of a travailing woman, I have been bent down by hearing, I have been troubled by seeing.
+
+**[21:4]** Wandered hath my heart, trembling hath terrified me, The twilight of my desire He hath made a fear to me,
+
+**[21:5]** Arrange the table, watch in the watch-tower, Eat, drink, rise, ye heads, anoint the shield,
+
+**[21:6]** For thus said the Lord unto me: `Go, station the watchman, That which he seeth let him declare.'
+
+**[21:7]** And he hath seen a chariot -- a couple of horsemen, The rider of an ass, the rider of a camel, And he hath given attention -- He hath increased attention!
+
+**[21:8]** And he crieth -- a lion, `On a watch-tower my lord, I am standing continually by day, And on my ward I am stationed whole nights.
+
+**[21:9]** And lo, this, the chariot of a man is coming, A couple of horsemen.' And he answereth and saith: `Fallen, fallen hath Babylon, And all the graven images of her gods He hath broken to the earth.
+
+**[21:10]** O my threshing, and the son of my floor, That which I heard from Jehovah of Hosts, God of Israel, I have declared to you!'
+
+**[21:11]** The burden of Dumah. Unto me is `one' calling from Seir `Watchman, what of the night? Watchman, what of the night?'
+
+**[21:12]** The watchman hath said, `Come hath morning, and also night, If ye inquire, inquire ye, turn back, come.'
+
+**[21:13]** The burden on Arabia. In a forest in Arabia ye lodge, O travellers of Dedanim.
+
+**[21:14]** To meet the thirsty brought water have Inhabitants of the land of Tema, With his bread they came before a fugitive.
+
+**[21:15]** For from the face of destructions they fled, From the face of a stretched-out sword, And from the face of a trodden bow, And from the face of the grievousness of battle.
+
+**[21:16]** For thus said the Lord unto me: `Within a year, as years of a hireling, Consumed hath been all the honour of Kedar.
+
+**[21:17]** And the remnant of the number of bow-men, The mighty of the sons of Kedar are few, For Jehovah, God of Israel, hath spoken!'
+
+**[22:1]** The burden of the Valley of Vision. What -- to thee, now, that thou hast gone up, All of thee -- to the roofs?
+
+**[22:2]** Full of stirs -- a noisy city -- an exulting city, Thy pierced are not pierced of the sword, Nor dead in battle.
+
+**[22:3]** All thy rulers fled together from the bow, Bound have been all found of thee, They have been kept bound together, Afar off they have fled.
+
+**[22:4]** Therefore I said, `Look ye from me, I am bitter in my weeping, Haste not to comfort me, For the destruction of the daughter of my people.'
+
+**[22:5]** For a day of noise, and of treading down, And of perplexity, `is' to the Lord, Jehovah of Hosts, In the valley of vision, digging down a wall, And crying unto the mountain.
+
+**[22:6]** And Elam hath borne a quiver, In a chariot of men -- horsemen, And Kir hath exposed a shield.
+
+**[22:7]** And it cometh to pass, The choice of thy valleys have been full of chariots, And the horsemen place themselves diligently at the gate.
+
+**[22:8]** And one removeth the covering of Judah, And thou lookest in that day Unto the armour of the house of the forest,
+
+**[22:9]** And the breaches of the city of David ye have seen, For they have become many, And ye gather the waters of the lower pool,
+
+**[22:10]** And the houses of Jerusalem ye did number, And ye break down the houses to fence the wall.
+
+**[22:11]** And a ditch ye made between the two walls, For the waters of the old pool, And ye have not looked unto its Maker, And its Framer of old ye have not seen.
+
+**[22:12]** And call doth the Lord, Jehovah of Hosts, In that day, to weeping and to lamentation, And to baldness and to girding on of sackcloth,
+
+**[22:13]** And lo, joy and gladness, slaying of oxen, And slaughtering of sheep, Eating of flesh, and drinking of wine, Eat and drink, for to-morrow we die.
+
+**[22:14]** And revealed it hath been in mine ears, `By' Jehovah of Hosts: Not pardoned is this iniquity to you, Till ye die, said the Lord, Jehovah of Hosts.
+
+**[22:15]** Thus said the Lord, Jehovah of Hosts: `Go, enter in unto this steward, Unto Shebna, who `is' over the house:
+
+**[22:16]** What -- to thee here? And who -- to thee here? That thou hast hewn out to thee here -- a sepulchre? Hewing on high his sepulchre, Graving in a rock a dwelling for himself.
+
+**[22:17]** Lo, Jehovah is casting thee up and down, A casting up and down, O mighty one,
+
+**[22:18]** And thy coverer covering, wrapping round, Wrappeth thee round, O babbler, On a land broad of sides -- there thou diest, And there the chariots of thine honour `Are' the shame of the house of thy lord.
+
+**[22:19]** And I have thrust thee from thy station, And from thine office he throweth thee down.
+
+**[22:20]** And it hath come to pass, in that day, That I have called to my servant, To Eliakim son of Hilkiah.
+
+**[22:21]** And I have clothed him with thy coat, And with thy girdle I strengthen him, And thy garment I give into his hand, And he hath been for a father to the inhabitant of Jerusalem, And to the house of Judah.
+
+**[22:22]** And I have placed the key Of the house of David on his shoulder, And he hath opened, and none is shutting, And hath shut, and none is opening.
+
+**[22:23]** And I have fixed him a nail in a stedfast place, And he hath been for a throne of honour To the house of his father.
+
+**[22:24]** And they have hanged on him All the honour of the house of his father, The offspring and the issue, All vessels of small quality, From vessels of basins to all vessels of flagons.
+
+**[22:25]** In that day -- an affirmation of Jehovah of Hosts, Moved is the nail that is fixed In a stedfast place, Yea, it hath been cut down, and hath fallen, And cut off hath been the burden that `is' on it, For Jehovah hath spoken!'
+
+**[23:1]** The Burden of Tyre. Howl, ye ships of Tarshish, For it hath been destroyed, Without house, without entrance, From the land of Chittim it was revealed to them.
+
+**[23:2]** Be silent, ye inhabitants of the isle, Trader of Zidon, passing the sea, they filled thee.
+
+**[23:3]** And in many waters `is' the seed of Sihor, The harvest of the brook `is' her increase, And she is a mart of nations.
+
+**[23:4]** Be ashamed, O Zidon; for the sea spake, The strength of the sea, saying: `I have not been pained, nor have I brought forth, Nor have I nourished young men, `nor' brought up virgins.'
+
+**[23:5]** As `at' the report of Egypt they are pained, So `at' the report of Tyre.
+
+**[23:6]** Pass over to Tarshish, howl, ye inhabitants of the isle,
+
+**[23:7]** Is this your exulting one? From the days of old `is' her antiquity, Carry her do her own feet afar off to sojourn.
+
+**[23:8]** Who hath counselled this against Tyre, The crowning one, whose traders `are' princes, Her merchants the honoured of earth?'
+
+**[23:9]** Jehovah of Hosts hath counselled it, To pollute the excellency of all beauty, To make light all the honoured of earth.
+
+**[23:10]** Pass through thy land as a brook, Daughter of Tarshish, there is no more a girdle.
+
+**[23:11]** His hand He hath stretched out over the sea, He hath caused kingdoms to tremble, Jehovah hath charged concerning the merchant one, To destroy her strong places.
+
+**[23:12]** And He saith, `Thou dost not add any more to exult, O oppressed one, virgin daughter of Zidon, To Chittim arise, pass over, Even there -- there is no rest for thee.'
+
+**[23:13]** Lo, the land of the Chaldeans -- this people was not, Asshur founded it for the Ziim, They raised its watch-towers, They lifted up her palaces, -- He hath appointed her for a ruin!
+
+**[23:14]** Howl, ye ships of Tarshish, For your strength hath been destroyed.
+
+**[23:15]** And it hath come to pass, in that day, That forgotten is Tyre seventy years, According to the days of one king. At the end of seventy years there is to Tyre as the song of the harlot.
+
+**[23:16]** Take a harp, go round the city, O forgotten harlot, play well, Multiply song that thou mayest be remembered.
+
+**[23:17]** And it hath come to pass, At the end of seventy years Jehovah inspecteth Tyre, And she hath repented of her gift, That she committed fornication With all kingdoms of the earth on the face of the ground.
+
+**[23:18]** And her merchandise and her gift have been holy to Jehovah, Not treasured up nor stored, For to those sitting before Jehovah is her merchandise, To eat to satiety, and for a lasting covering!
+
+**[24:1]** Lo, Jehovah is emptying the land, And is making it waste, And hath overturned `it on' its face, And hath scattered its inhabitants.
+
+**[24:2]** And it hath been -- as a people so a priest, As the servant so his master, As the maid-servant so her mistress, As the buyer so the seller, As the lender so the borrower, As the usurer so he who is lifting `it' on himself.
+
+**[24:3]** Utterly emptied is the land, and utterly spoiled, For Jehovah hath spoken this word:
+
+**[24:4]** Mourned, faded hath the land, Languished, faded hath the world, Languished have they -- the high place of the people of the land.
+
+**[24:5]** And the land hath been defiled under its inhabitants, Because they have transgressed laws, They have changed a statute, They have made void a covenant age-during.
+
+**[24:6]** Therefore a curse hath consumed the land, And the inhabitants in it are become desolate, Therefore consumed have been inhabitants of the land, And few men have been left.
+
+**[24:7]** Mourned hath the new wine, languished the vine, Sighed have all the joyful of heart.
+
+**[24:8]** Ceased hath the joy of tabrets, Ceased hath the noise of exulting ones, Ceased hath the joy of a harp.
+
+**[24:9]** With a song they drink not wine, Bitter is strong drink to those drinking it.
+
+**[24:10]** It was broken down -- a city of emptiness, Shut hath been every house from entrance.
+
+**[24:11]** A cry over the wine `is' in out-places, Darkened hath been all joy, Removed hath been the joy of the land.
+
+**[24:12]** Left in the city `is' desolation, And `with' wasting is the gate smitten.
+
+**[24:13]** When thus it is in the heart of the land, In the midst of the peoples, As the compassing of the olive, As gleanings when harvest hath been finished,
+
+**[24:14]** They -- they lift up their voice, They sing of the excellency of Jehovah, They have cried aloud from the sea.
+
+**[24:15]** Therefore in prosperity honour ye Jehovah, In isles of the sea, the name of Jehovah, God of Israel.
+
+**[24:16]** From the skirt of the earth we heard songs, The desire of the righteous. And I say, `Leanness `is' to me, Leanness `is' to me, wo `is' to me.' Treacherous dealers dealt treacherously, Yea, treachery, treacherous dealers dealt treacherously.
+
+**[24:17]** Fear, and a snare, and a gin, `Are' on thee, O inhabitant of the land.
+
+**[24:18]** And it hath come to pass, He who is fleeing from the noise of the fear Doth fall into the snare, And he who is coming up from the midst of the snare, Is captured by the gin, For windows on high have been opened, And shaken are foundations of the land.
+
+**[24:19]** Utterly broken down hath been the land, Utterly broken hath been the land, Utterly moved hath been the land.
+
+**[24:20]** Stagger greatly doth the land as a drunkard, And it hath been moved as a lodge, And heavy on it hath been its transgression, And it hath fallen, and addeth not to rise.
+
+**[24:21]** And it hath come to pass, in that day, Jehovah layeth a charge on the host of the high place in the high place, And on the kings of the land on the land.
+
+**[24:22]** And they have been gathered -- A gathering of bound ones in a pit, And shut up they have been in a prison, And after a multitude of days are inspected.
+
+**[24:23]** And confounded hath been the moon, And ashamed hath been the sun, For reigned hath Jehovah of Hosts In mount Zion, and in Jerusalem, And over-against His elders -- honour!
+
+**[25:1]** O Jehovah, my God `art' Thou, I exalt Thee, I confess Thy name, For Thou hast done a wonderful thing, Counsels of old, stedfastness, O stedfast One.
+
+**[25:2]** For Thou didst make of a city a heap, Of a fenced city a ruin, A high place of strangers from `being' a city, To the age it is not built.
+
+**[25:3]** Therefore honour Thee do a strong people, A city of the terrible nations feareth Thee.
+
+**[25:4]** For Thou hast been a stronghold for the poor, A stronghold for the needy in his distress, A refuge from storm, a shadow from heat, When the spirit of the terrible `is' as a storm -- a wall.
+
+**[25:5]** As heat in a dry place, The noise of strangers Thou humblest, Heat with the shadow of a thick cloud, The singing of the terrible is humbled.
+
+**[25:6]** And made hath Jehovah of Hosts, For all the peoples in this mount, A banquet of fat things, a banquet of preserved things, Fat things full of marrow, preserved things refined.
+
+**[25:7]** And swallowed up hath He in this mountain The face of the wrapping that is wrapped over all the peoples, And of the covering that is spread over all the nations.
+
+**[25:8]** He hath swallowed up death in victory, And wiped hath the Lord Jehovah, The tear from off all faces, And the reproach of His people He turneth aside from off all the earth, For Jehovah hath spoken.
+
+**[25:9]** And `one' hath said in that day, `Lo, this `is' our God, We waited for Him, and He saveth us, This `is' Jehovah, we have waited for Him, We joy and rejoice in His salvation.'
+
+**[25:10]** For rest doth the hand of Jehovah on this mountain, And trodden down is Moab under Him, As trodden down is straw on a dunghill.
+
+**[25:11]** And he spread out his hands in its midst, As spread out doth the swimmer to swim; And He hath humbled his excellency With the machinations of his hands.
+
+**[25:12]** And the fortress of the high place of thy walls He hath bowed down -- He hath made low, He hath caused `it' to come to the earth, -- unto dust.
+
+**[26:1]** In that day sung is this song in the land of Judah: `We have a strong city, Salvation He doth make walls and bulwark.
+
+**[26:2]** Open ye the gates, that enter may a righteous nation, Preserving stedfastness.
+
+**[26:3]** An imagination supported Thou fortifiest peace -- peace! For in Thee it is confident.
+
+**[26:4]** Trust ye in Jehovah for ever, For in Jah Jehovah `is' a rock of ages,
+
+**[26:5]** For He bowed down the dwellers on high, A city set on high He maketh low, He maketh it low unto the earth, He causeth it to come unto the dust,
+
+**[26:6]** Tread it down doth a foot, Feet of the poor -- steps of the weak.
+
+**[26:7]** The path for the righteous `is' uprightness, O upright One, The path of the righteous Thou dost ponder.
+
+**[26:8]** Also, `in' the path of Thy judgments, O Jehovah, we have waited `for' Thee, To Thy name and to Thy remembrance `Is' the desire of the soul.
+
+**[26:9]** `With' my soul I desired Thee in the night, Also, `with' my spirit within me I seek Thee earnestly, For when Thy judgments `are' on the earth, The inhabitants of the world have learned righteousness.
+
+**[26:10]** The wicked findeth favour, He hath not learned righteousness, In a land of straightforwardness he dealeth perversely, And seeth not the excellency of Jehovah.
+
+**[26:11]** O Jehovah, high `is' Thy hand -- they see not, They see the zeal of the people, and are ashamed, Also, the fire -- Thine adversaries, consumeth them.
+
+**[26:12]** O Jehovah, Thou appointest peace to us, For, all our works also Thou hast wrought for us.
+
+**[26:13]** O Jehovah our God, lords have ruled us besides Thee, Only, by Thee we make mention of Thy name.
+
+**[26:14]** Dead -- they live not, Rephaim, they rise not, Therefore Thou hast inspected and dost destroy them, Yea, thou destroyest all their memory.
+
+**[26:15]** Thou hast added to the nation, O Jehovah, Thou hast added to the nation, Thou hast been honoured, Thou hast put far off all the ends of earth.
+
+**[26:16]** O Jehovah, in distress they missed Thee, They have poured out a whisper, Thy chastisement `is' on them.
+
+**[26:17]** When a pregnant woman cometh near to the birth, She is pained -- she crieth in her pangs, So we have been from Thy face, O Jehovah.
+
+**[26:18]** We have conceived, we have been pained. We have brought forth as it were wind, Salvation we do not work in the earth, Nor do the inhabitants of the world fall.
+
+**[26:19]** `Thy dead live -- My dead body they rise. Awake and sing, ye dwellers in the dust, For the dew of herbs `is' thy dew, And the land of Rephaim thou causest to fall.
+
+**[26:20]** Come, My people, enter into thy inner chambers, And shut thy doors behind thee, Hide thyself shortly a moment till the indignation pass over.
+
+**[26:21]** For, lo, Jehovah is coming out of His place, To charge the iniquity of the inhabitant of the earth upon him, And revealed hath the earth her blood, Nor doth she cover any more her slain!'
+
+**[27:1]** In that day lay a charge doth Jehovah, With his sword -- the sharp, and the great, and the strong, On leviathan -- a fleeing serpent, And on leviathan -- a crooked serpent, And He hath slain the dragon that `is' in the sea.
+
+**[27:2]** In that day, `A desirable vineyard,' respond ye to her,
+
+**[27:3]** I, Jehovah, am its keeper, every moment I water it, Lest any lay a charge against it, Night and day I keep it!
+
+**[27:4]** Fury is not in Me; Who giveth Me a brier -- a thorn in battle? I step into it, I burn it at once.
+
+**[27:5]** Or -- he doth take hold on My strength, He doth make peace with Me, Peace he doth make with Me.
+
+**[27:6]** Those coming in He causeth to take root, Jacob doth blossom, and flourished hath Israel, And they have filled the face of the world `with' increase.
+
+**[27:7]** As the smiting of his smiter hath He smitten him? As the slaying of his slain doth He slay?
+
+**[27:8]** In measure, in sending it forth, thou strivest with it, He hath taken away by His sharp wind, In the day of an east wind,
+
+**[27:9]** Therefore by this is the iniquity of Jacob covered, And this `is' all the fruit -- To take away his sin, in His setting all the stones of an altar, As chalkstones beaten in pieces, They rise not -- shrines and images.
+
+**[27:10]** For the fenced city `is' alone, A habitation cast out and forsaken as a wilderness, There doth the calf delight, And there it lieth down, And hath consumed its branches.
+
+**[27:11]** In the withering of its branch it is broken off, Women are coming in setting it on fire, For it `is' not a people of understanding, Therefore pity it not doth its Maker, And its Former doth not favour it.
+
+**[27:12]** And it hath come to pass, in that day, Beat out doth Jehovah from the branch of the river, Unto the stream of Egypt, And ye are gathered one by one, O sons of Israel.
+
+**[27:13]** And it hath come to pass, in that day, It is blown with a great trumpet, And come in have those perishing in the land of Asshur, And those cast out in the land of Egypt, And have bowed themselves to Jehovah, In the holy mount -- in Jerusalem!
+
+**[28:1]** Wo `to' the proud crown of the drunkards of Ephraim. And the fading flower of the beauty of his glory, That `is' on the head of the fat valley of the broken down of wine.
+
+**[28:2]** Lo, a mighty and strong one `is' to the Lord, As a storm of hail -- a destructive shower, As an inundation of mighty waters overflowing, He cast down to the earth with the hand.
+
+**[28:3]** By feet trodden down is the proud crown of the drunkards of Ephraim,
+
+**[28:4]** And the fading flower of the beauty of his glory That `is' on the head of the fat valley, Hath been as its first-fruit before summer, That its beholder seeth, While it `is' yet in his hand he swalloweth it.
+
+**[28:5]** In that day is Jehovah of Hosts For a crown of beauty, and for a diadem of glory, To the remnant of His people.
+
+**[28:6]** And for a spirit of judgment To him who is sitting in the judgment, And for might `to' those turning back the battle to the gate.
+
+**[28:7]** And even these through wine have erred, And through strong drink have wandered, Priest and prophet erred through strong drink, They have been swallowed up of the wine, They wandered because of the strong drink, They have erred in seeing, They have stumbled judicially.
+
+**[28:8]** For all tables have been full of vomit, Filth -- without place!
+
+**[28:9]** By whom doth He teach knowledge? And by whom doth He cause to understand the report? The weaned from milk, the removed from breasts,
+
+**[28:10]** For rule `is' on rule, rule on rule, line on line, line on line, A little here, a little there,
+
+**[28:11]** For by scorned lip, and by another tongue, Doth He speak unto this people.
+
+**[28:12]** Unto whom He hath said, `This `is' the rest, give ye rest to the weary, And this -- the refreshing:' And they have not been willing to hear,
+
+**[28:13]** And to whom a word of Jehovah hath been, Rule on rule, rule on rule, line on line, line on line, A little here, a little there, So that they go and have stumbled backward, And been broken, and snared, and captured.
+
+**[28:14]** Therefore, hear a word of Jehovah, ye men of scorning, Ruling this people that `is' in Jerusalem.
+
+**[28:15]** Because ye have said: `We have made a covenant with death, And with Sheol we have made a provision, An overflowing scourge, when it passeth over, Doth not meet us, Though we have made a lie our refuge, And in falsehood have been hidden.'
+
+**[28:16]** Therefore, thus said the Lord Jehovah: `Lo, I am laying a foundation in Zion, A stone -- a tried stone, a corner stone precious, a settled foundation, He who is believing doth not make haste.
+
+**[28:17]** And I have put judgment for a line, And righteousness for a plummet, And sweep away doth hail the refuge of lies, And the secret hiding-place do waters overflow.
+
+**[28:18]** And disannulled hath been your covenant with death, And your provision with Sheol doth not stand, An overflowing scourge, when it passeth over, Then ye have been to it for a treading-place.
+
+**[28:19]** From the fulness of its passing over it taketh you, For morning by morning it passeth over, By day and by night, And it hath been only a trembling to consider the report.
+
+**[28:20]** For shorter hath been the bed Than to stretch one's self out in, And the covering hath been narrower Than to wrap one's self up in.
+
+**[28:21]** For as `at' mount Perazim rise doth Jehovah, As `at' the valley in Gibeon He is troubled, To do His work -- strange `is' His work, And to do His deed -- strange `is' His deed.'
+
+**[28:22]** And now, show not yourselves scorners, Lest strong be your bands, For a consumption, that is determined, I have heard, by the Lord, Jehovah of Hosts, `Is' for all the land.
+
+**[28:23]** Give ear, and hear my voice, Attend, and hear my saying:
+
+**[28:24]** The whole day plougheth the ploughman to sow? He openeth and harroweth his ground!
+
+**[28:25]** Hath he not, if he have made level its face, Then scattered fitches, and cummin sprinkle, And hath placed the principal wheat, And the appointed barley, And the rie `in' its own border?
+
+**[28:26]** And instruct him for judgment doth his God, He doth direct him.
+
+**[28:27]** For not with a sharp-pointed thing threshed are fitches, And the wheel of a cart on cummin turned round, For with a staff beaten out are fitches, And cummin with a rod.
+
+**[28:28]** Bread-`corn' is beaten small, For not for ever doth he sorely thresh it, Nor crushed `it' hath a wheel of his cart, Nor do his hoofs beat it small.
+
+**[28:29]** Even this from Jehovah of Hosts hath gone out, He hath made counsel wonderful, He hath made wisdom great!
+
+**[29:1]** Wo `to' Ariel, Ariel, The city of the encampment of David! Add year to year, let festivals go round.
+
+**[29:2]** And I have sent distress to Ariel, And it hath been lamentation and mourning, And it hath been to me as Ariel.
+
+**[29:3]** And I encamped, O babbler, against thee, And I laid siege against thee -- a camp. And I raised up against thee bulwarks.
+
+**[29:4]** And thou hast been low, From the earth thou speakest, And from the dust makest thy saying low, And thy voice hath been from the earth, As one having a familiar spirit, And from the dust thy saying whisperest,
+
+**[29:5]** And as small dust hath been The multitude of those scattering thee, And as chaff passing on the multitude of the terrible, And it hath been at an instant -- suddenly.
+
+**[29:6]** By Jehovah of Hosts thou art inspected, With thunder, and with an earthquake, And great noise, hurricane, and whirlwind, And flame of devouring fire.
+
+**[29:7]** And as a dream, a vision of night, hath been The multitude of all the nations Who are warring against Ariel, And all its warriors, and its bulwark, Even of those distressing her.
+
+**[29:8]** And it hath been, as when the hungry dreameth, And lo, he is eating, And he hath waked, and empty `is' his soul, And as when the thirsty dreameth, And lo, he is drinking, and he hath waked, And lo, he is weary, and his soul is longing, So is the multitude of all the nations Who are warring against mount Zion.
+
+**[29:9]** Tarry and wonder, look ye, yea, look, Be drunk, and not with wine, Stagger, and not with strong drink.
+
+**[29:10]** For poured out on you hath Jehovah a spirit of deep sleep, And He closeth your eyes -- the prophets, And your heads -- the seers -- He covered.
+
+**[29:11]** And the vision of the whole is to you, As words of the sealed book, That they give unto one knowing books, Saying, `Read this, we pray thee,' And he hath said, `I am not able, for it `is' sealed;'
+
+**[29:12]** And the book is given to him who hath not known books, Saying, `Read this, we pray thee,' And he hath said, `I have not known books.'
+
+**[29:13]** And the Lord saith: Because drawn near hath this people, with its mouth, And with its lips they have honoured Me, And its heart it hath put far off from Me, And their fear of Me is -- A precept of men is taught!
+
+**[29:14]** Therefore, lo, I am adding to do wonderfully with this people, A wonder, and a marvel, And perished hath the wisdom of its wise ones, And the understanding of its intelligent ones hideth itself.'
+
+**[29:15]** Wo `to' those going deep from Jehovah to hide counsel, And whose works have been in darkness. And they say, `Who is seeing us? And who is knowing us?'
+
+**[29:16]** Your perversion! as clay is the potter esteemed? That the work saith of its maker, `He hath not made me?' And the framed thing said of its framer, `He did not understand?'
+
+**[29:17]** Is it not yet a very little, And turned hath Lebanon to a fruitful field, And the fruitful field for a forest is reckoned?
+
+**[29:18]** And heard in that day have the deaf the words of a book, And out of thick darkness, and out of darkness, The eyes of the blind do see.
+
+**[29:19]** And the humble have added joy in Jehovah, And the poor among men In the Holy One of Israel rejoice.
+
+**[29:20]** For ceased hath the terrible one, And consumed hath been the scorner, And cut off have been all watching for iniquity,
+
+**[29:21]** Causing men to sin in word, And for a reprover in the gate lay a snare, And turn aside into emptiness the righteous.
+
+**[29:22]** Therefore, thus said Jehovah, Who ransomed Abraham, Concerning the house of Jacob: `Not now ashamed is Jacob, Nor now doth his face become pale,
+
+**[29:23]** For in his seeing his children, The work of My hand, in his midst, They sanctify My name, And have sanctified the Holy One of Jacob, And the God of Israel they declare fearful.
+
+**[29:24]** And the erring in spirit have known understanding, And murmurers learn doctrine!'
+
+**[30:1]** Wo `to' apostate sons, The affirmation of Jehovah! To do counsel, and not from Me, And to spread out a covering, and not of My spirit, So as to add sin to sin.
+
+**[30:2]** Who are walking to go down to Egypt, And My mouth have not asked, To be strong in the strength of Pharaoh, And to trust in the shadow of Egypt.
+
+**[30:3]** And the strength of Pharaoh Hath been to you for shame, And the trust in the shadow of Egypt confusion,
+
+**[30:4]** For in Zoan were his princes, And his messengers reach Hanes.
+
+**[30:5]** All he made ashamed of a people that profit not, Neither for help, not for profit, But for shame, and also for reproach!
+
+**[30:6]** The burden of the beasts of the south. Into a land of adversity and distress, Of young lion and of old lion, Whence `are' viper and flying saraph, They carry on the shoulder of asses their wealth, And on the hump of camels their treasures, Unto a people not profitable.
+
+**[30:7]** Yea, Egyptians `are' vanity, and in vain do help, Therefore I have cried concerning this: `Their strength `is' to sit still.'
+
+**[30:8]** No, go in, write it on a tablet with them, And on a book engrave it, And it is for a latter day, for a witness unto the age,
+
+**[30:9]** That a rebellious people `is' this, sons -- liars, Sons not willing to hear the law of Jehovah.
+
+**[30:10]** Who have said to seers, `Ye do not see,' And to prophets, `Ye do not prophesy to us Straightforward things, Speak to us smooth things, prophesy deceits,
+
+**[30:11]** Turn aside from the way, decline from the path, Cause to cease from before us the Holy One of Israel.'
+
+**[30:12]** Therefore, thus said the Holy One of Israel, Because of your kicking against this word, And ye trust in oppression, And perverseness, and rely on it,
+
+**[30:13]** Therefore is this iniquity to you as a breach falling, Swelled out in a wall set on high, Whose destruction suddenly, at an instant cometh.
+
+**[30:14]** And He hath broken it As the breaking of the potters' bottle, Beaten down -- He doth not spare, Nor is there found, in its beating down, A potsherd to take fire from the burning, And to draw out waters from a ditch.
+
+**[30:15]** For thus said the Lord Jehovah, The Holy One of Israel: `In returning and rest ye are saved, In keeping quiet and in confidence is your might, And ye have not been willing.
+
+**[30:16]** And ye say, No, for on a horse we flee? Therefore ye flee, And on the swift we ride! Therefore swift are your pursuers.
+
+**[30:17]** One thousand because of the rebuke of one, Because of the rebuke of five ye flee, Till ye have been surely left as a pole On the top of the mountain, And as an ensign on the height.
+
+**[30:18]** And therefore doth wait Jehovah to favour you, And therefore He is exalted to pity you, For a God of judgment `is' Jehovah, O the blessedness of all waiting for Him.
+
+**[30:19]** For the people in Zion dwell in Jerusalem, Weep thou not, weeping, Pitying, He pitieth thee at the voice of thy cry, When He heareth He answereth thee.
+
+**[30:20]** And the Lord hath given to you bread of adversity, And water of oppression. And thy directors remove no more, And thine eyes have seen thy directors,
+
+**[30:21]** And thine ear heareth a word behind thee, Saying, `This `is' the way, go ye in it,' When ye turn to the right, And when ye turn to the left.
+
+**[30:22]** And ye have defiled the covering of Thy graven images of silver, And the ephod of thy molten image of gold, Thou scatterest them as a sickening thing, `Go out,' thou sayest to it.
+
+**[30:23]** And He hath given rain `for' thy seed, With which thou dost sow the ground, And bread, the increase of the ground, And it hath been fat and plenteous, Enjoy do thy cattle in that day an enlarged pasture.
+
+**[30:24]** And the oxen and the young asses serving the ground, Fermented provender do eat, That one is winnowing with shovel and fan.
+
+**[30:25]** And there hath been on every high mount, And on every exalted hill, Rivulets -- streams of waters, In a day of much slaughter, in the falling of towers.
+
+**[30:26]** And the light of the moon hath been as the light of the sun, And the light of the sun is sevenfold, As the light of seven days, In the day of Jehovah's binding up the breach of His people, When the stroke of its wound He healeth.
+
+**[30:27]** Lo, the name of Jehovah is coming from far, Burning is His anger, and great the flame, His lips have been full of indignation, And His tongue `is' as a devouring fire.
+
+**[30:28]** And His breath `is' as an overflowing stream, Unto the neck it divideth, To sift nations with a sieve of vanity, And a bridle causing to err, `Is' on the jaws of the peoples.
+
+**[30:29]** Singing is to you as in a night sanctified for a festival, And joy of heart as he who is going with a pipe, To go in to the mountain of Jehovah, Unto the rock of Israel.
+
+**[30:30]** And caused to be heard hath Jehovah The honour of His voice, And the coming down of His arm He doth shew with the raging of anger, And the flame of a consuming fire, Scattering, and inundation, and hailstone.
+
+**[30:31]** For from the voice of Jehovah broken down `is' Asshur, With a rod He smiteth.
+
+**[30:32]** And every passage of the settled staff, That Jehovah causeth to rest on him, Hath been with tabrets, and with harps, And in battles of shaking he hath fought with it.
+
+**[30:33]** For, arranged from former time is Tophet, Even it for the king is prepared, He hath made deep, He hath made large, Its pile `is' fire and much wood, The breath of Jehovah, As a stream of brim stone, is burning in it!
+
+**[31:1]** Wo `to' those going down to Egypt for help, And on horses lean, And trust on chariots, because many, And on horsemen, because very strong, And have not looked on the Holy One of Israel, And Jehovah have not sought.
+
+**[31:2]** And He also `is' wise, and bringeth in evil, And His words He hath not turned aside, And He hath risen against a house of evil doers, And against the help of workers of iniquity.
+
+**[31:3]** And the Egyptians `are men', and not God, And their horses `are' flesh, and not spirit, And Jehovah stretcheth out His hand, And stumbled hath the helper, And fallen hath the helped one, And together all of them are consumed.
+
+**[31:4]** For thus said Jehovah unto me: `As growl doth the lion and the young lion over his prey, Called against whom is a multitude of shepherds, From their voice he is not affrighted, And from their noise he is not humbled; So come down doth Jehovah of Hosts To war on mount Zion, and on her height.
+
+**[31:5]** As birds flying, so doth Jehovah of Hosts Cover over Jerusalem, covering and delivering, Passing over, and causing to escape.'
+
+**[31:6]** Turn back to Him from whom sons of Israel Have deepened apostacy.
+
+**[31:7]** For in that day despise doth each His idols of silver, and his idols of gold, That your hands made to you -- a sin.
+
+**[31:8]** And fallen hath Asshur by sword, not of the high, Yea, a sword -- not of the low, doth consume him, And he hath fled for himself from the face of a sword, And his young men become tributary.
+
+**[31:9]** And `to' his rock from fear he passeth on, And affrighted by the ensign have been his princes -- an affirmation of Jehovah, Who hath a light in Zion, And who hath a furnace in Jerusalem!
+
+**[32:1]** Lo, for righteousness doth a king reign, As to princes, for judgment they rule.
+
+**[32:2]** And each hath been as a hiding-place `from' wind, And as a secret hiding-place `from' inundation, As rivulets of waters in a dry place, As a shadow of a heavy rock in a weary land.
+
+**[32:3]** And not dazzled are the eyes of beholders, And the ears of hearers do attend.
+
+**[32:4]** And the heart of those hastened Understandeth to know, And the tongue of stammerers hasteth to speak clearly.
+
+**[32:5]** A fool is no more called `noble,' And to a miser it is not said, `rich;'
+
+**[32:6]** For a fool speaketh folly, And his heart doth iniquity, to do profanity, And to speak concerning Jehovah error, To empty the soul of the hungry, Yea, drink of the thirsty he causeth to lack.
+
+**[32:7]** And the miser -- his instruments `are' evil, He hath counselled wicked devices, To corrupt the poor with lying sayings, Even when the needy speaketh justly.
+
+**[32:8]** And the noble counselled noble things, And he for noble things riseth up.
+
+**[32:9]** Women, easy ones, rise, hear my voice, Daughters, confident ones, give ear `to' my saying,
+
+**[32:10]** Days and a year ye are troubled, O confident ones, For consumed hath been harvest, The gathering cometh not.
+
+**[32:11]** Tremble ye women, ye easy ones, Be troubled, ye confident ones, Strip and make bare, with a girdle on the loins,
+
+**[32:12]** For breasts they are lamenting, For fields of desire, for the fruitful vine.
+
+**[32:13]** Over the ground of my people thorn -- brier goeth up, Surely over all houses of joy of the exulting city,
+
+**[32:14]** Surely the palace hath been left, The multitude of the city forsaken, Fort and watch-tower hath been for dens unto the age, A joy of wild asses -- a pasture of herds;
+
+**[32:15]** Till emptied out on us is the Spirit from on high, And a wilderness hath become a fruitful field, And the fruitful field for a forest is reckoned.
+
+**[32:16]** And dwelt in the wilderness hath judgment, And righteousness in the fruitful field remaineth.
+
+**[32:17]** And a work of the righteousness hath been peace, And a service of the righteousness -- Keeping quiet and confidence unto the age.
+
+**[32:18]** And dwelt hath My people in a peaceful habitation, And in stedfast tabernacles, And in quiet resting-places.
+
+**[32:19]** And it hath hailed in the going down of the forest, And in the valley is the city low.
+
+**[32:20]** Happy `are' ye sowing by all waters, Sending forth the foot of the ox and the ass!
+
+**[33:1]** Wo, spoiler! and thou not spoiled, And treacherous! and they dealt not treacherously with thee, When thou dost finish, O spoiler, thou art spoiled, When thou dost finish dealing treacherously, They deal treacherously with thee.
+
+**[33:2]** O Jehovah, favour us, for thee we have waited, Be their arm, in the mornings, Yea, our salvation in time of adversity.
+
+**[33:3]** From the voice of a multitude fled have peoples, From thine exaltation scattered have been nations.
+
+**[33:4]** And gathered hath been your spoil, A gathering of the caterpillar, As a running to and fro of locusts is he running on it.
+
+**[33:5]** Set on high is Jehovah, for He is dwelling on high, He filled Zion `with' judgment and righteousness,
+
+**[33:6]** And hath been the stedfastness of thy times, The strength of salvation, wisdom, and knowledge, Fear of Jehovah -- it `is' His treasure.
+
+**[33:7]** Lo, `Their Ariel,' they have cried without, Messengers of peace do weep bitterly.
+
+**[33:8]** Desolated have been highways, Ceased hath he who passeth along the path, He hath broken covenant, He hath despised enemies, He hath not esteemed a man.
+
+**[33:9]** Mourned, languished hath the land, Confounded hath been Lebanon, Withered hath been Sharon as a wilderness, And shaking are Bashan and Carmel.
+
+**[33:10]** Now, do I arise, saith Jehovah, Now I am exalted, now I am lifted up.
+
+**[33:11]** Ye conceive chaff, ye bear stubble, Your spirit! -- fire devoureth you.
+
+**[33:12]** And peoples have been `as' burnings of lime, Thorns, as sweepings, with fire they burn.
+
+**[33:13]** Hear, ye far off, that which I have done, And know, ye near ones, My might.
+
+**[33:14]** Afraid in Zion have been sinners, Seized hath trembling the profane: Who doth dwell for us -- consuming fire, Who doth dwell for us -- burnings of the age?
+
+**[33:15]** Whoso is walking righteously, And is speaking uprightly, Kicking against gain of oppressions, Shaking his hands from taking hold on a bribe, Stopping his ear from hearing of blood, And shutting his eyes from looking on evil,
+
+**[33:16]** He high places doth inhabit, Strongholds of rock `are' his high tower, His bread hath been given, his waters stedfast.
+
+**[33:17]** A king in his beauty, see do thine eyes, They see a land afar off.
+
+**[33:18]** Thy heart doth meditate terror, Where `is' he who is counting? Where `is' he who is weighing? Where `is' he who is counting the towers?
+
+**[33:19]** The strong people thou seest not, A people deeper of lip than to be understood, Of a scorned tongue, there is no understanding.
+
+**[33:20]** See Zion, the city of our meetings, Thine eyes see Jerusalem a quiet habitation, A tent not taken down, Not removed are its pins for ever, And none of its cords are broken.
+
+**[33:21]** But there mighty `is' Jehovah for us, A place of rivers -- streams broad of sides, No ship with oars doth go into it, And a mighty ship doth not pass over it.
+
+**[33:22]** For Jehovah our judge, Jehovah our lawgiver, Jehovah our king -- He doth save us.
+
+**[33:23]** Left have been thy ropes, They strengthen not rightly their mast, They have not spread out a sail, Then apportioned hath been a prey of much spoil, The lame have taken spoil.
+
+**[33:24]** Nor doth an inhabitant say, `I was sick,' The people that is dwelling in it, is forgiven of iniquity!
+
+**[34:1]** Come near, ye nations, to hear, And ye peoples, give attention, Hear doth the earth and its fulness, The world, and all its productions.
+
+**[34:2]** For wrath `is' to Jehovah against all the nations, And fury against all their host, He hath devoted them to destruction, He hath given them to slaughter.
+
+**[34:3]** And their wounded are cast out, And their carcases cause their stench to ascend, And melted have been mountains from their blood.
+
+**[34:4]** And consumed have been all the host of the heavens, And rolled together as a book have been the heavens, And all their hosts do fade, As the fading of a leaf of a vine, And as the fading one of a fig-tree.
+
+**[34:5]** For soaked in the heavens was My sword, Lo, on Edom it cometh down, On the people of My curse for judgment.
+
+**[34:6]** A sword `is' to Jehovah -- it hath been full of blood, It hath been made fat with fatness, With blood of lambs and he-goats. With fat of kidneys of rams, For a sacrifice `is' to Jehovah in Bozrah, And a great slaughter in the land of Edom.
+
+**[34:7]** And come down have reems with them, And bullocks with bulls, And soaked hath been their land from blood, And their dust from fatness is made fat.
+
+**[34:8]** (For a day of vengeance `is' to Jehovah, A year of recompences for Zion's strife,)
+
+**[34:9]** And turned have been her streams to pitch, And her dust to brimstone, And her land hath become burning pitch.
+
+**[34:10]** By night and by day she is not quenched, To the age go up doth her smoke, From generation to generation she is waste, For ever and ever, none is passing into her.
+
+**[34:11]** And possess her do pelican and hedge-hog, And owl and raven dwell in her, And He hath stretched out over her A line of vacancy, and stones of emptiness.
+
+**[34:12]** `To' the kingdom her freemen they call, But there are none there, And all her princes are at an end.
+
+**[34:13]** And gone up her palaces have thorns, Nettle and bramble `are' in her fortresses, And it hath been a habitation of dragons, A court for daughters of an ostrich.
+
+**[34:14]** And met have Ziim with Aiim, And the goat for its companion calleth, Only there rested hath the night-owl, And hath found for herself a place of rest.
+
+**[34:15]** There made her nest hath the bittern, Yea, she layeth, and hath hatched, And hath gathered under her shadow, Only there gathered have been vultures, Each with its companion.
+
+**[34:16]** Seek out of the book of Jehovah, and read, One of these hath not been lacking, None hath missed its companion, For My mouth -- it hath commanded, And His spirit -- He hath gathered them.
+
+**[34:17]** And He hath cast for them a lot, And His hand hath apportioned `it' to them by line, Unto the age they possess it, To all generations they dwell in it!
+
+**[35:1]** They joy from the wilderness and dry place, And rejoice doth the desert, and flourish as the rose,
+
+**[35:2]** Flourishing it doth flourish, and rejoice, Yea, `with' joy and singing, The honour of Lebanon hath been given to it, The beauty of Carmel and Sharon, They -- they see the honour of Jehovah, The majesty of our God.
+
+**[35:3]** Strengthen ye the feeble hands, Yea, the stumbling knees strengthen.
+
+**[35:4]** Say to the hastened of heart, `Be strong, Fear not, lo, your God; vengeance cometh, The recompence of God, He Himself doth come and save you.'
+
+**[35:5]** Then opened are eyes of the blind, And ears of the deaf are unstopped,
+
+**[35:6]** Then leap as a hart doth the lame, And sing doth the tongue of the dumb, For broken up in a wilderness have been waters, And streams in a desert.
+
+**[35:7]** And the mirage hath become a pond, And the thirsty land fountains of waters, In the habitation of dragons, Its place of couching down, a court for reed and rush.
+
+**[35:8]** And a highway hath been there, and a way, And the `way of holiness' is called to it, Not pass over it doth the unclean, And He Himself `is' by them, Whoso is going in the way -- even fools err not.
+
+**[35:9]** No lion is there, yea, a destructive beast Ascendeth it not, it is not found there, And walked have the redeemed,
+
+**[35:10]** And the ransomed of Jehovah return, And have entered Zion with singing. And joy age-during on their head, Joy and gladness they attain, And fled away have sorrow and sighing!
+
+**[36:1]** And it cometh to pass, in the fourteenth year of king Hezekiah, come up hath Sennacherib king of Asshur against all the fenced cities of Judah, and seizeth them.
+
+**[36:2]** And the king of Asshur sendeth Rabshakeh from Lachish to Jerusalem, unto the king Hezekiah, with a heavy force, and he standeth by the conduit of the upper pool, in the highway of the fuller's field,
+
+**[36:3]** and go forth unto him doth Eliakim son of Hilkiah, who `is' over the house, and Shebna the scribe, and Joah son of Asaph, the remembrancer.
+
+**[36:4]** And Rabshakeh saith unto them, `Say ye, I pray you, unto Hezekiah, `Thus said the great king, the king of Asshur, What `is' this confidence in which thou hast confided?
+
+**[36:5]** I have said: Only, a word of the lips! counsel and might `are' for battle: now, on whom hast thou trusted, that thou hast rebelled against me?
+
+**[36:6]** `Lo, thou hast trusted on the staff of this broken reed -- on Egypt -- which a man leaneth on, and it hath gone into his hand, and pierced it -- so `is' Pharaoh king of Egypt to all those trusting on him.
+
+**[36:7]** `And dost thou say unto me, Unto Jehovah our God we have trusted? is it not He, whose high places and whose altars Hezekiah hath turned aside, and saith to Judah and to Jerusalem, Before this altar ye do bow yourselves?
+
+**[36:8]** `And now, negotiate, I pray thee, with my lord the king of Asshur, and I give to thee two thousand horses, if thou art able to put for thee riders on them.
+
+**[36:9]** And how dost thou turn back the face of one captain of the least of the servants of my lord, and dost trust for thee on Egypt, for chariot and for horsemen?
+
+**[36:10]** And now, without Jehovah have I come up against this land to destroy it? Jehovah said unto me, Go up unto this land, and thou hast destroyed it.'
+
+**[36:11]** And Eliakim saith -- and Shebna and Joah -- unto Rabshakeh, `Speak, we pray thee, unto thy servants `in' Aramaean, for we are understanding; and do not speak unto us `in' Jewish, in the ears of the people who `are' on the wall.'
+
+**[36:12]** And Rabshakeh saith, `Unto thy lord, and unto thee, hath my lord sent me to speak these words? is it not for the men -- those sitting on the wall to eat their own dung and to drink their own water with you?'
+
+**[36:13]** And Rabshakeh standeth and calleth with a great voice `in' Jewish, and saith, `Hear ye the words of the great king, the king of Asshur:
+
+**[36:14]** Thus said the king, Let not Hezekiah lift you up, for he is not able to deliver you;
+
+**[36:15]** and let not Hezekiah make you trust unto Jehovah, saying, Jehovah doth certainly deliver us, this city is not given into the hand of the king of Asshur.
+
+**[36:16]** `Do not hearken unto Hezekiah, for thus said the king of Asshur, Make ye with me a blessing, and come out unto me, and eat ye each of his vine, and each of his fig-tree, and drink ye each the waters of his own well,
+
+**[36:17]** till my coming in, and I have taken you unto a land like your own land, a land of corn and wine, a land of bread and vineyards;
+
+**[36:18]** lest Hezekiah doth persuade you, saying, Jehovah doth deliver us. `Have the gods of the nations delivered each his land out of the hand of the king of Asshur?
+
+**[36:19]** Where `are' the gods of Hamath and Arpad? Where the gods of Sepharvaim, that they have delivered Samaria out of my hand?
+
+**[36:20]** Who among all the gods of these lands `are' they who have delivered their land out of my hand, that Jehovah doth deliver Jerusalem out of my hand?'
+
+**[36:21]** And they keep silent, and have not answered him a word, for a command of the king is, saying, `Do not answer him.'
+
+**[36:22]** And Eliakim son of Hilkiah, who `is' over the house, cometh in, and Shebna the scribe, and Joah son of Asaph, the remembrancer, unto Hezekiah with rent garments, and they declare to him the words of Rabshakeh.
+
+**[37:1]** And it cometh to pass, at the king Hezekiah's hearing, that he rendeth his garments, and covereth himself with sackcloth, and entereth the house of Jehovah,
+
+**[37:2]** and sendeth Eliakim, who `is' over the house, and Shebna the scribe, and the elders of the priests, covering themselves with sackcloth, unto Isaiah son of Amoz the prophet,
+
+**[37:3]** and they say unto him, `Thus said Hezekiah, A day of distress, and rebuke, and despising, `is' this day; for come have sons unto the birth, and power there is not to bear.
+
+**[37:4]** `It may be Jehovah thy God doth hear the words of Rabshakeh with which the king of Asshur his lord hath sent him to reproach the living God, and hath decided concerning the words that Jehovah thy God hath heard, and thou hast lifted up prayer for the remnant that is found.'
+
+**[37:5]** And the servants of king Hezekiah come in unto Isaiah,
+
+**[37:6]** and Isaiah saith unto them, `Thus do ye say unto your lord, Thus said Jehovah, Be not afraid because of the words that thou hast heard, with which the servants of the king of Asshur have reviled Me.
+
+**[37:7]** Lo, I am giving in him a spirit, and he hath heard a report, and hath turned back unto his land, and I have caused him to fall by the sword in his land.'
+
+**[37:8]** And Rabshakeh turneth back and findeth the king of Asshur fighting against Libnah, for he hath heard that he hath journeyed from Lachish.
+
+**[37:9]** And he heareth concerning Tirhakah king of Cush, saying, `He hath come out to fight with thee;' and he heareth, and sendeth messengers unto Hezekiah, saying,
+
+**[37:10]** `Thus do ye speak unto Hezekiah king of Judah, saying, Let not thy God lift thee up in whom thou art trusting, saying, Jerusalem is not given into the hand of the king of Asshur.
+
+**[37:11]** Lo, thou hast heard that which the kings of Asshur have done to all the lands -- to devote them -- and thou art delivered!
+
+**[37:12]** Did the gods of the nations deliver them whom my fathers destroyed -- Gozan, and Haran, and Rezeph, and the sons of Eden, who `are' in Telassar?
+
+**[37:13]** Where `is' the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, Hena, and Ivvah?'
+
+**[37:14]** And Hezekiah taketh the letters out of the hand of the messengers, and readeth them, and Hezekiah goeth up to the house of Jehovah, and Hezekiah spreadeth it before Jehovah.
+
+**[37:15]** And Hezekiah prayeth unto Jehovah, saying,
+
+**[37:16]** `Jehovah of Hosts, God of Israel, inhabiting the cherubs, Thou `art' God Himself -- Thyself alone -- to all kingdoms of the earth, Thou hast made the heavens and the earth.
+
+**[37:17]** Incline, O Jehovah, Thine ear, and hear; open, O Jehovah, Thine eyes and see; and hear Thou all the words of Sennacherib that he hath sent to reproach the living God.
+
+**[37:18]** `Truly, O Jehovah, kings of Asshur have laid waste all the lands and their land,
+
+**[37:19]** so as to put their gods into fire -- for they `are' no gods, but work of the hands of man, wood and stone -- and they destroy them.
+
+**[37:20]** And now, Jehovah our God, save us from his hand, and all kingdoms of the earth do know that Thou `art' Jehovah, Thyself alone.'
+
+**[37:21]** And Isaiah son of Amoz sendeth unto Hezekiah, saying, `Thus said Jehovah, God of Israel, That which thou hast prayed unto me concerning Sennacherib king of Asshur --
+
+**[37:22]** this `is' the word that Jehovah spake concerning him: Trampled on thee, laughed at thee, Hath the virgin daughter of Zion, Behind thee shaken the head hath the daughter of Jerusalem.
+
+**[37:23]** Whom hast thou reproached and reviled? And against whom lifted up the voice? Yea, thou dost lift up on high thine eyes Against the Holy One of Israel.
+
+**[37:24]** By the hand of thy servants Thou hast reviled the Lord, and sayest: In the multitude of my chariots I have come up to a high place of hills, The sides of Lebanon, And I cut down the height of its cedars, The choice of its firs, And I enter the high place of its extremity, The forest of its Carmel.
+
+**[37:25]** I -- I have dug and drunk waters, And I dry up with the sole of my steps All floods of a bulwark.
+
+**[37:26]** Hast thou not heard from afar? -- it I did, From days of old -- that I formed it. Now, I have brought it in, And it is to make desolate, Ruinous heaps -- fenced cities,
+
+**[37:27]** And their inhabitants are feeble-handed, They were broken down, and are dried up. They have been the herb of the field, And the greenness of the tender grass, Grass of the roofs, And blasted corn, before it hath risen up.
+
+**[37:28]** And thy sitting down, and thy going out, And thy coming in, I have known, And thy anger towards Me.
+
+**[37:29]** Because of thy anger towards Me, And thy noise -- it came up into Mine ears, I have put My hook in thy nose, And My bridle in thy lips, And I have caused thee to turn back In the way in which thou camest.
+
+**[37:30]** -- And this to thee `is' the sign, Food of the year `is' self-sown grain, And in the second year the spontaneous growth, And in the third year, sow ye and reap, And plant vineyards, and eat their fruit.
+
+**[37:31]** And it hath continued -- the escaped Of the house of Judah that hath been left -- To take root beneath, And it hath made fruit upward.
+
+**[37:32]** For from Jerusalem goeth forth a remnant, And an escape from mount Zion, The zeal of Jehovah of Hosts doth this.
+
+**[37:33]** Therefore, thus said Jehovah, Concerning the king of Asshur: He doth not come in unto this city, Nor doth he shoot there an arrow, Nor doth he come before it `with' shield, Nor doth he pour out against it a mount.
+
+**[37:34]** In the way that he came, in it he turneth back, And unto this city he doth not come in, An affirmation of Jehovah,
+
+**[37:35]** And I have covered over this city, To save it, for Mine own sake, And for the sake of David My servant.'
+
+**[37:36]** And a messenger of Jehovah goeth out, and smiteth in the camp of Asshur a hundred and eighty and five thousand; and `men' rise early in the morning, and lo, all of them `are' dead corpses.
+
+**[37:37]** And journey, and go, and turn back doth Sennacherib king of Asshur, and dwelleth in Nineveh.
+
+**[37:38]** And it cometh to pass, he is bowing himself in the house of Nisroch his god, and Adrammelech and Sharezer his sons have smitten him with the sword, and they have escaped to the land of Ararat, and Esar-Haddon his son reigneth in his stead.
+
+**[38:1]** In those days hath Hezekiah been sick unto death, and come in unto him doth Isaiah son of Amoz, the prophet, and saith unto him, `Thus said Jehovah: Give a charge to thy house, for thou `art' dying, and dost not live.'
+
+**[38:2]** And Hezekiah turneth round his face unto the wall, and prayeth unto Jehovah,
+
+**[38:3]** and saith, `I pray thee, O Jehovah, remember, I pray Thee, how I have walked habitually before Thee in truth, and with a perfect heart, and that which `is' good in thine eyes I have done;' and Hezekiah weepeth -- a great weeping.
+
+**[38:4]** And a word of Jehovah is unto Isaiah, saying,
+
+**[38:5]** Go, and thou hast said to Hezekiah, Thus said Jehovah, God of David thy father, `I have heard thy prayer, I have seen thy tear, lo, I am adding to thy days fifteen years,
+
+**[38:6]** and out of the hand of the king of Asshur I deliver thee and this city, and have covered over this city.
+
+**[38:7]** And this `is' to thee the sign from Jehovah, that Jehovah doth this thing that He hath spoken.
+
+**[38:8]** Lo, I am bringing back the shadow of the degrees that it hath gone down on the degrees of Ahaz, by the sun, backward ten degrees:' and the sun turneth back ten degrees in the degrees that it had gone down.
+
+**[38:9]** A writing of Hezekiah king of Judah concerning his being sick, when he reviveth from his sickness:
+
+**[38:10]** `I -- I said in the cutting off of my days, I go in to the gates of Sheol, I have numbered the remnant of mine years.
+
+**[38:11]** I said, I do not see Jah -- Jah! In the land of the living, I do not behold man any more, With the inhabitants of the world.
+
+**[38:12]** My sojourning hath departed, And been removed from me as a shepherd's tent, I have drawn together, as a weaver, my life, By weakness it cutteth me off, From day unto night Thou dost end me.
+
+**[38:13]** I have set `Him' till morning as a lion, So doth He break all my bones, From day unto night Thou dost end me.
+
+**[38:14]** As a crane -- a swallow -- so I chatter, I mourn as a dove, Drawn up have been mine eyes on high, O Jehovah, oppression `is' on me, be my surety.
+
+**[38:15]** -- What do I say? seeing He said to me, And He Himself hath wrought, I go softly all my years for the bitterness of my soul.
+
+**[38:16]** Lord, by these do `men' live, And by all in them `is' the life of my spirit, And Thou savest me, make me also to live,
+
+**[38:17]** Lo, to peace He changed for me bitterness, And Thou hast delighted in my soul without corruption, For Thou hast cast behind Thy back all my sins.
+
+**[38:18]** For Sheol doth not confess Thee, Death doth not praise Thee, Those going down to the pit hope not for Thy truth.
+
+**[38:19]** The living, the living, he doth confess Thee.
+
+**[38:20]** Like myself to-day -- a father to sons Doth make known of Thy faithfulness, O Jehovah -- to save me: And my songs we sing all days of our lives In the house of Jehovah.'
+
+**[38:21]** And Isaiah saith, `Let them take a bunch of figs, and plaster over the ulcer, and he liveth.'
+
+**[38:22]** And Hezekiah saith, `What `is' the sign that I go up to the house of Jehovah!'
+
+**[39:1]** At that time hath Merodach-Baladan, son of Baladan, king of Babylon, sent letters and a present unto Hezekiah, when he heareth that he hath been sick, and is become strong.
+
+**[39:2]** And Hezekiah rejoiceth over them, and sheweth them the house of his spices, the silver, and the gold, and the spices, and the good ointment, and all the house of his vessels, and all that hath been found in his treasures; there hath not been a thing in his house, and in all his dominion, that Hezekiah hath not shewed them.
+
+**[39:3]** And Isaiah the prophet cometh in unto king Hezekiah, and saith unto him, `What said these men? and whence come they unto thee?' And Hezekiah saith, `From a land afar off they have come unto me -- from Babylon.'
+
+**[39:4]** And he saith, `What saw they in thy house?' and Hezekiah saith, `All that `is' in my house they saw; there hath not been a thing that I have not shewed them among my treasures.'
+
+**[39:5]** And Isaiah saith unto Hezekiah, `Hear a word of Jehovah of Hosts:
+
+**[39:6]** Lo, days are coming, and borne hath been all that `is' in thy house, and that thy fathers have treasured up till this day, to Babylon; there is not left a thing, said Jehovah;
+
+**[39:7]** and of thy sons who come forth from thee, whom thou begettest, they take, and they have been eunuchs in a palace of the king of Babylon.'
+
+**[39:8]** And Hezekiah saith unto Isaiah, `Good `is' the word of Jehovah that thou hast spoken;' and he saith, `Because there is peace and truth in my days.'
+
+**[40:1]** Comfort ye, comfort ye, My people, saith your God.
+
+**[40:2]** Speak to the heart of Jerusalem, and call to her, That her warfare hath been completed, That accepted hath been her punishment, That she hath received from the hand of Jehovah Double for all her sins.
+
+**[40:3]** A voice is crying -- in a wilderness -- Prepare ye the way of Jehovah, Make straight in a desert a highway to our God.
+
+**[40:4]** Every valley is raised up, And every mountain and hill become low, And the crooked place hath become a plain, And the entangled places a valley.
+
+**[40:5]** And revealed hath been the honour of Jehovah, And seen `it' have all flesh together, For the mouth of Jehovah hath spoken.
+
+**[40:6]** A voice is saying, `Call,' And he said, `What do I call?' All flesh `is' grass, and all its goodliness `is' As a flower of the field:
+
+**[40:7]** Withered hath grass, faded the flower, For the Spirit of Jehovah blew upon it, Surely the people `is' grass;
+
+**[40:8]** Withered hath grass, faded the flower, But a word of our God riseth for ever.
+
+**[40:9]** On a high mountain get thee up, O Zion, Proclaiming tidings, Lift up with power thy voice, O Jerusalem, proclaiming tidings, Lift up, fear not, say to cities of Judah, `Lo, your God.'
+
+**[40:10]** Lo, the Lord Jehovah with strength cometh, And His arm is ruling for Him, Lo, His hire `is' with Him, and His wage before Him.
+
+**[40:11]** As a shepherd His flock He feedeth, With His arm He gathereth lambs, And in His bosom He carrieth `them': Suckling ones He leadeth.
+
+**[40:12]** Who hath measured in the hollow of his hand the waters? And the heavens by a span hath meted out, And comprehended in a measure the dust of the earth, And hath weighed in scales the mountains, And the hills in a balance?
+
+**[40:13]** Who hath meted out the Spirit of Jehovah, And, `being' His counsellor, doth teach Him!
+
+**[40:14]** With whom consulted He, That he causeth Him to understand? And teacheth Him in the path of judgment, And teacheth Him knowledge? And the way of understanding causeth Him to know?
+
+**[40:15]** Lo, nations as a drop from a bucket, And as small dust of the balance, have been reckoned, Lo, isles as a small thing He taketh up.
+
+**[40:16]** And Lebanon is not sufficient to burn, Nor its beasts sufficient for a burnt-offering.
+
+**[40:17]** All the nations `are' as nothing before Him, Less than nothing and emptiness, They have been reckoned to Him.
+
+**[40:18]** And unto whom do ye liken God, And what likeness do ye compare to Him?
+
+**[40:19]** The graven image poured out hath a artizan, And a refiner with gold spreadeth it over, And chains of silver he is refining.
+
+**[40:20]** He who is poor `by' heave-offerings, A tree not rotten doth choose, A skilful artizan he seeketh for it, To establish a graven image -- not moved.
+
+**[40:21]** Do ye not know -- do ye not hear? Hath it not been declared from the first to you? Have ye not understood `From' the foundations of the earth?
+
+**[40:22]** He who is sitting on the circle of the earth, And its inhabitants `are' as grasshoppers, He who is stretching out as a thin thing the heavens, And spreadeth them as a tent to dwell in.
+
+**[40:23]** He who is making princes become nothing, Judges of earth as emptiness hath made;
+
+**[40:24]** Yea, they have not been planted, Yea, they have not been sown, Yea, not taking root in the earth is their stock, And also He hath blown upon them, and they wither, And a whirlwind as stubble taketh them away.
+
+**[40:25]** And unto whom do ye liken Me, And `am' I equal? saith the Holy One.
+
+**[40:26]** Lift up on high your eyes, And see -- who hath prepared these? He who is bringing out by number their host, To all of them by name He calleth, By abundance of strength (And `he is' strong in power) not one is lacking.
+
+**[40:27]** Why sayest thou, O Jacob? and speakest thou, O Israel? `My way hath been hid from Jehovah, And from my God my judgment passeth over.'
+
+**[40:28]** Hast thou not known? hast thou not heard? The God of the age -- Jehovah, Preparer of the ends of the earth, Is not wearied nor fatigued, There is no searching of His understanding.
+
+**[40:29]** He is giving power to the weary, And to those not strong He increaseth might.
+
+**[40:30]** Even youths are wearied and fatigued, And young men utterly stumble,
+
+**[40:31]** But those expecting Jehovah pass `to' power, They raise up the pinion as eagles, They run and are not fatigued, They go on and do not faint!
+
+**[41:1]** Keep silent towards Me, O isles, And the peoples pass on `to' power, They come nigh, then they speak, `Together -- to judgment we draw near.'
+
+**[41:2]** Who stirred up from the east a righteous one? He calleth him to His foot, He giveth before him nations, And kings He causeth him to rule, He giveth `them' as dust `to' his sword, As driven stubble `to' his bow.
+
+**[41:3]** He pursueth them, he passeth over in safety A path with his feet he entereth not.
+
+**[41:4]** Who hath wrought and done, Calling the generations from the first? I, Jehovah, the first, and with the last I `am' He.
+
+**[41:5]** Seen have isles and fear, ends of the earth tremble, They have drawn near, yea, they come.
+
+**[41:6]** Each his neighbour they help, And to his brother he saith, `Be strong.'
+
+**[41:7]** And strengthen doth an artizan the refiner, A smoother `with' a hammer, Him who is beating `on' an anvil, Saying, `For joining it `is' good,' And he strengtheneth it with nails, it is not moved!
+
+**[41:8]** -- And thou, O Israel, My servant, Jacob, whom I have chosen, Seed of Abraham, My lover,
+
+**[41:9]** Whom I have taken hold of, from the ends of the earth, And from its near places I have called thee, And I say to thee, My servant Thou `art', I have chosen thee, and not rejected thee.
+
+**[41:10]** Be not afraid, for with thee I `am', Look not around, for I `am' thy God, I have strengthened thee, Yea, I have helped thee, yea, I upheld thee, With the right hand of My righteousness.
+
+**[41:11]** Lo, all those displeased with thee, They are ashamed and blush, They are as nothing, yea, perish Do the men who strive with thee.
+
+**[41:12]** Thou seekest them, and findest them not, The men who debate with thee, They are as nothing, yea, as nothing, The men who war with thee.
+
+**[41:13]** For I, Jehovah thy God, Am strengthening thy right hand, He who is saying to thee, `Fear not, I have helped thee.'
+
+**[41:14]** Fear not, O worm Jacob, ye men of Israel, I helped thee, an affirmation of Jehovah, Even thy redeemer, the Holy One of Israel.
+
+**[41:15]** Lo, I have set thee for a new sharp threshing instrument, Possessing teeth, thou threshest mountains, And beatest small, and hills as chaff thou makest.
+
+**[41:16]** Thou winnowest them, and a wind lifteth them up, And a whirlwind scattereth them, And thou -- thou rejoicest in Jehovah, In the Holy One of Israel dost boast thyself.
+
+**[41:17]** The poor and the needy are seeking water, And there is none, Their tongue with thirst hath failed, I, Jehovah do answer them, The God of Israel -- I forsake them not.
+
+**[41:18]** I open on high places rivers, And in midst of valleys fountains, I make a wilderness become a pond of water, And a dry land become springs of water.
+
+**[41:19]** I give in a wilderness the cedar, Shittah, and myrtle, and oil-tree, I set in a desert the fir-pine and box-wood together.
+
+**[41:20]** So that they see, and know, And regard, and act wisely together, For the hand of Jehovah hath done this, And the Holy One of Israel hath prepared it.
+
+**[41:21]** Bring near your cause, saith Jehovah, Bring nigh your mighty ones, saith the king of Jacob.
+
+**[41:22]** They bring nigh, and declare to us that which doth happen, The first things -- what they `are' declare ye, And we set our heart, and know their latter end, Or the coming things cause us to hear.
+
+**[41:23]** Declare the things that are coming hereafter, And we know that ye `are' gods, Yea, ye may do good or do evil, And we look around and see `it' together.
+
+**[41:24]** Lo, ye `are' of nothing, and your work of nought, An abomination -- it fixeth on you.
+
+**[41:25]** I have stirred up `one' from the north, And he cometh, From the rising of the sun he calleth in My name, And he cometh in `on' prefects as `on' clay, And as a potter treadeth down mire.
+
+**[41:26]** Who hath declared from the first, and we know? And beforetime, and we say, `Righteous?' yea, there is none declaring, Yea, there is none proclaiming, Yea, there is none hearing your sayings.
+
+**[41:27]** First to Zion, Behold, behold them, And to Jerusalem one proclaiming tidings I give,
+
+**[41:28]** And I see that there is no man, Yea, of these that there is no counsellor, And I ask them, and they return word:
+
+**[41:29]** `Lo, all of them `are' vanity, Nought `are' their works, Wind and emptiness their molten images!'
+
+**[42:1]** Lo, My servant, I take hold on him, My chosen one -- My soul hath accepted, I have put My Spirit upon him, Judgment to nations he bringeth forth.
+
+**[42:2]** He doth not cry, nor lift up, Nor cause his voice to be heard, in the street.
+
+**[42:3]** A bruised reed he breaketh not, And dim flax he quencheth not, To truth he bringeth forth judgment.
+
+**[42:4]** He doth not become weak nor bruised, Till he setteth judgment in the earth, And for his law isles wait with hope.
+
+**[42:5]** Thus said God, Jehovah, preparing The heavens, and stretching them out, Spreading out the earth and its productions, Giving breath to the people on it, And spirit to those walking in it.
+
+**[42:6]** I, Jehovah, did call thee in righteousness, And I lay hold on thy hand, and keep thee, And I give thee for a covenant of a people, And a light of nations.
+
+**[42:7]** To open the eyes of the blind, To bring forth from prison the bound one, From the house of restraint those sitting in darkness.
+
+**[42:8]** I `am' Jehovah, this `is' My name, And Mine honour to another I give not, Nor My praise to graven images.
+
+**[42:9]** The former things, lo, have come, And new things I am declaring, Before they spring up I cause you to hear.
+
+**[42:10]** Sing to Jehovah a new song, His praise from the end of the earth, Ye who are going down to the sea, and its fulness, Isles, and their inhabitants.
+
+**[42:11]** The wilderness and its cities do lift up `the voice', The villages Kedar doth inhabit, Sing do the inhabitants of Sela, From the top of mountains they cry.
+
+**[42:12]** They ascribe to Jehovah honour, And His praise in the isles they declare.
+
+**[42:13]** Jehovah as a mighty one goeth forth. As a man of war He stirreth up zeal, He crieth, yea, He shrieketh, Against His enemies He showeth Himself mighty.
+
+**[42:14]** I have kept silent from of old, I keep silent, I refrain myself, As a travailing woman I cry out, I desolate and swallow up together.
+
+**[42:15]** I make waste mountains and hills, And all their herbs I dry up, And I have made rivers become isles, And ponds I dry up.
+
+**[42:16]** And I have caused the blind to go, In a way they have not known, In paths they have not known I cause them to tread, I make a dark place before them become light, And unlevelled places become a plain, These `are' the things I have done to them, And I have not forsaken them.
+
+**[42:17]** Removed backward -- utterly ashamed, Are those trusting in a graven image, Those saying to a molten image, `Ye `are' our gods.'
+
+**[42:18]** Ye deaf, hear; and ye blind, look to see.
+
+**[42:19]** Who `is' blind but My servant? And deaf as My messenger I send? Who `is' blind as he who is at peace, Yea, blind, as the servant of Jehovah?
+
+**[42:20]** Seeing many things, and thou observest not, Opening ears, and he heareth not.
+
+**[42:21]** Jehovah hath delight for the sake of His righteousness, He magnifieth law, and maketh honourable.
+
+**[42:22]** And this `is' a people seized and spoiled, Snared in holes -- all of them, And in houses of restraint they were hidden, They have been for a prey, And there is no deliverer, A spoil, and none is saying, `Restore.'
+
+**[42:23]** Who among you giveth ear `to' this? Attendeth, and heareth afterwards.
+
+**[42:24]** Who hath given Jacob for a spoil, And Israel to the spoilers? Is it not Jehovah -- He against whom we sinned? Yea, they have not been willing in His ways to walk, Nor have they hearkened to His law.
+
+**[42:25]** And He poureth on him fury, His anger, and the strength of battle, And it setteth him on fire round about, And he hath not known, And it burneth against him, and he layeth it not to heart!
+
+**[43:1]** And now, thus said Jehovah, Thy Creator, O Jacob, and thy Fashioner, O Israel, Be not afraid, for I have redeemed thee, I have called on thy name -- thou `art' Mine.
+
+**[43:2]** When thou passest into waters, I `am' with thee, And into floods, they do not overflow thee, When thou goest into fire, thou art not burnt, And a flame doth not burn against thee.
+
+**[43:3]** For I -- Jehovah thy God, The Holy One of Israel, thy Saviour, I have appointed Egypt thine atonement, Cush and Seba in thy stead.
+
+**[43:4]** Since thou wast precious in Mine eyes, Thou wast honoured, and I have loved thee, And I appoint men in thy stead, And peoples instead of thy life.
+
+**[43:5]** Be not afraid, for I `am' with thee, From the east I bring in thy seed, And from the west I gather thee.
+
+**[43:6]** I am saying to the north, `Give up,' And to the south, `Restrain not.' Bring in My sons from afar, And My daughters from the end of the earth.
+
+**[43:7]** Every one who is called by My name, Even for My honour I have created him, I have formed him, yea, I have made him.
+
+**[43:8]** He brought out a blind people who have eyes, And deaf ones who have ears.
+
+**[43:9]** All the nations have been gathered together, And the peoples are assembled, Who among them declareth this, And former things causeth us to hear? They give their witnesses, And they are declared righteous, And they hear and say, `Truth.'
+
+**[43:10]** Ye `are' My witnesses, an affirmation of Jehovah, And My servant whom I have chosen, So that ye know and give credence to Me, And understand that I `am' He, Before Me there was no God formed, And after Me there is none.
+
+**[43:11]** I -- I `am' Jehovah, And besides Me there is no saviour.
+
+**[43:12]** I -- I declared, and saved, and proclaimed, And there is no stranger with you, And ye `are' My witnesses, an affirmation of Jehovah, And I `am' God.
+
+**[43:13]** Even from the day I `am' He, And there is no deliverer from My hand, I work, and who doth turn it back?
+
+**[43:14]** Thus said Jehovah, your Redeemer, The Holy One of Israel: `For your sake I have sent to Babylon, And caused bars to descend -- all of them, And the Chaldeans, whose song `is' in the ships.
+
+**[43:15]** I `am' Jehovah, your Holy One, Creator of Israel, your King.'
+
+**[43:16]** Thus said Jehovah, Who is giving in the sea a way, And in the strong waters a path.
+
+**[43:17]** Who is bringing forth chariot and horse, A force, even a strong one: `Together they lie down -- they rise not, They have been extinguished, As flax they have been quenched.'
+
+**[43:18]** Remember not former things, And ancient things consider not.
+
+**[43:19]** Lo, I am doing a new thing, now it springeth up, Do ye not know it? Yea, I put in a wilderness a way, In a desolate place -- floods.
+
+**[43:20]** Honour me doth the beast of the field, Dragons and daughters of an ostrich, For I have given in a wilderness waters, Floods in a desolate place, To give drink to My people -- My chosen.
+
+**[43:21]** This people I have formed for Myself, My praise they recount.
+
+**[43:22]** And Me thou hast not called, O Jacob, For thou hast been wearied of me, O Israel,
+
+**[43:23]** Thou hast not brought in to Me, The lamb of thy burnt-offerings, And `with' thy sacrifices thou hast not honoured Me, I have not caused thee to serve with a present, Nor wearied thee with frankincense.
+
+**[43:24]** Thou hast not bought for Me with money sweet cane, And `with' the fat of thy sacrifices hast not filled Me, Only -- thou hast caused Me to serve with thy sins, Thou hast wearied Me with thine iniquities.
+
+**[43:25]** I -- I `am' He who is blotting out Thy transgressions for Mine own sake, And thy sins I do not remember.
+
+**[43:26]** Cause me to remember -- we are judged together, Declare thou that thou mayest be justified.
+
+**[43:27]** Thy first father sinned, And thine interpreters transgressed against me,
+
+**[43:28]** And I pollute princes of the sanctuary, And I give Jacob to destruction, and Israel to revilings!
+
+**[44:1]** And now, hear, O Jacob, My servant, And Israel, whom I have fixed on:
+
+**[44:2]** Thus said Jehovah, thy Maker, and thy Former, From the womb He doth help thee; Fear not, my servant Jacob, And Jeshurun, whom I have fixed on.
+
+**[44:3]** For I pour waters on a thirsty one, And floods on a dry land, I pour My Spirit on thy seed, And My blessing on thine offspring.
+
+**[44:4]** And they have sprung up as among grass, As willows by streams of water.
+
+**[44:5]** This `one' saith, For Jehovah I `am', And this calleth `himself' by the name of Jacob, And this `one' writeth `with' his hand, `For Jehovah,' and by the name of Israel surnameth himself.
+
+**[44:6]** Thus said Jehovah, king of Israel, And his Redeemer, Jehovah of Hosts: `I `am' the first, and I the last, And besides Me there is no God.
+
+**[44:7]** And who as I, doth call and declare it, And arrange it for Me, Since My placing the people of antiquity, And things that are coming, And those that do come, declare they to them?
+
+**[44:8]** Fear not, nor be afraid, Have I not from that time caused thee to hear, and declared? And ye `are' My witnesses, Is there a God besides Me? yea, there is none, A Rock I have not known.
+
+**[44:9]** Framers of a graven image `are' all of them emptiness, And their desirable things do not profit, And their own witnesses they `are', They see not, nor know, that they may be ashamed.
+
+**[44:10]** Who hath formed a god, And a molten image poured out -- not profitable?
+
+**[44:11]** Lo, all his companions are ashamed, As to artizans -- they `are' of men, All of them gather together, they stand up, They fear, they are ashamed together.
+
+**[44:12]** He hath wrought iron `with' an axe, And hath wrought with coals, And with hammers doth form it, And doth work it by his powerful arm, Yea, he is hungry, and there is no power, He doth not drink water, and he is wearied.
+
+**[44:13]** He hath wrought `with' wood, He hath stretched out a rule, He doth mark it out with a line, He maketh it with carving tools, And with a compass he marketh it out, And maketh it according to the form of a man, According to the beauty of a man, To remain in the house.
+
+**[44:14]** Cutting down to himself cedars, He taketh also a cypress, and an oak, And he strengtheneth `it' for himself Among the trees of a forest, He hath planted an ash, and the shower doth nourish `it'.
+
+**[44:15]** And it hath been for man to burn, And he taketh of them, and becometh warm, Yea, he kindleth `it', and hath baked bread, Yea, he maketh a god, and boweth himself, He hath made it a graven image, And he falleth down to it.
+
+**[44:16]** Half of it he hath burnt in the fire, By `this' half of it he eateth flesh, He roasteth a roasting, and is satisfied, Yea, he is warm, and saith: `Aha, I have become warm, I have enjoyed the light.
+
+**[44:17]** And its remnant for a god he hath made -- For his graven image, He falleth down to it, and worshippeth, And prayeth unto it, and he saith, `Deliver me, for my god thou `art'.'
+
+**[44:18]** They have not known, nor do they understand, For He hath daubed their eyes from seeing, Their heart from acting wisely.
+
+**[44:19]** And none doth turn `it' back unto his heart, Nor hath knowledge nor understanding to say, `Half of it I have burned in the fire, Yea, also, I have baked bread over its coals, I roast flesh and I eat, And its remnant for an abomination I make, To the stock of a tree I fall down.'
+
+**[44:20]** Feeding on ashes, the heart is deceived, It hath turned him aside, And he delivereth not his soul, nor saith: `Is there not a lie in my right hand?'
+
+**[44:21]** Remember these, O Jacob, and Israel, For My servant thou `art', I formed thee, a servant to Me thou `art', O Israel, thou dost not forget Me.
+
+**[44:22]** I have blotted out, as `by' a thick cloud, Thy transgressions, And as `by' a cloud thy sins, Return unto Me, for I have redeemed thee.
+
+**[44:23]** Sing, O heavens, for Jehovah hath wrought, Shout, O lower parts of earth, Break forth, O mountains, with singing, Forest, and every tree in it, For Jehovah hath redeemed Jacob, And in Israel He doth beautify Himself.
+
+**[44:24]** Thus said Jehovah, thy redeemer, And thy framer from the womb: `I `am' Jehovah, doing all things, Stretching out the heavens by Myself, Spreading out the earth -- who `is' with Me?
+
+**[44:25]** Making void the tokens of devisers, And diviners it maketh mad, Turning the wise backward, And their knowledge it maketh foolish.
+
+**[44:26]** Confirming the word of His servant, The counsel of His messengers it perfecteth, Who is saying of Jerusalem, She is inhabited, And of cities of Judah, They shall be built, and her wastes I raise up,
+
+**[44:27]** Who is saying to the deep, Be dry, and thy rivers I cause to dry up,
+
+**[44:28]** Who is saying of Cyrus, My shepherd, And all my delight He doth perfect, So as to say of Jerusalem, Thou art built, And of the temple, Thou art founded.
+
+**[45:1]** Thus said Jehovah, To His anointed, to Cyrus, Whose right hand I have laid hold on, To subdue nations before him, Yea, loins of kings I loose, To open before him two-leaved doors, Yea, gates are not shut:
+
+**[45:2]** `I go before thee, and crooked places make straight, Two-leaved doors of brass I shiver, And bars of iron I cut asunder,
+
+**[45:3]** And have given to thee treasures of darkness, Even treasures of secret places, So that thou knowest that I, Jehovah, Who am calling on thy name -- `am' the God of Israel.
+
+**[45:4]** For the sake of my servant Jacob, And of Israel My chosen, I call also thee by thy name, I surname thee, And thou hast not known Me.
+
+**[45:5]** I `am' Jehovah, and there is none else, Except Me there is no God, I gird thee, and thou hast not known Me.
+
+**[45:6]** So that they know from the rising of the sun, And from the west, that there is none besides Me, I `am' Jehovah, and there is none else,
+
+**[45:7]** Forming light, and preparing darkness, Making peace, and preparing evil, I `am' Jehovah, doing all these things.'
+
+**[45:8]** Drop, ye heavens, from above, And clouds do cause righteousness to flow, Earth openeth, and they are fruitful, Salvation and righteousness spring up together, I, Jehovah, have prepared it.
+
+**[45:9]** Wo `to' him who is striving with his Former, (A potsherd with potsherds of the ground!) Doth clay say to its Framer, `What dost thou?' And thy work, `He hath no hands?'
+
+**[45:10]** Wo `to' him who is saying to a father, `What dost thou beget?' Or to a wife, `What dost thou bring forth?
+
+**[45:11]** Thus said Jehovah, The Holy One of Israel, and his Former: Ask Me of the things coming concerning My sons, Yea, concerning the work of My hands, ye command Me.'
+
+**[45:12]** I made earth, and man on it prepared, I -- My hands stretched out the heavens, And all their host I have commanded.
+
+**[45:13]** I have stirred him up in righteousness, And all his ways I make straight, He doth build My city, and My captivity doth send out, Not for price, nor for bribe, said Jehovah of Hosts.
+
+**[45:14]** Thus said Jehovah, `The labour of Egypt, And the merchandise of Cush, And of the Sebaim -- men of measure, Unto thee pass over, and thine they are, After thee they go, in fetters they pass over, And unto thee they bow themselves, Unto thee they pray: Only in thee `is' God, And there is none else, no `other' God.
+
+**[45:15]** Surely Thou `art' a God hiding Thyself, God of Israel -- Saviour!
+
+**[45:16]** They have been ashamed, And they have even blushed -- all of them, Together gone in confusion have those carving images.
+
+**[45:17]** Israel hath been saved in Jehovah, A salvation age-during! Ye are not ashamed nor confounded Unto the ages of eternity!
+
+**[45:18]** For thus said Jehovah, Creator of heaven, He is God, Former of earth, and its Maker, He established it -- not empty He prepared it, For inhabiting He formed it: `I `am' Jehovah, and there is none else.
+
+**[45:19]** Not in secret have I spoken, in a dark place of the earth, I have not said to the seed of Jacob, In vain seek ye Me, I `am' Jehovah, speaking righteousness, Declaring uprightness.
+
+**[45:20]** Be gathered, and come in, Come nigh together, ye escaped of the nations, They have not known, Who are lifting up the wood of their graven image, And praying unto a god `that' saveth not.
+
+**[45:21]** Declare ye, and bring near, Yea, they take counsel together, Who hath proclaimed this from of old? From that time hath declared it? Is it not I -- Jehovah? And there is no other god besides Me, A God righteous and saving, there is none save Me.
+
+**[45:22]** Turn to Me, and be saved, all ends of the earth, For I `am' God, and there is none else.
+
+**[45:23]** By Myself I have sworn, Gone out from my mouth in righteousness hath a word, And it turneth not back, That to Me, bow doth every knee, every tongue swear.
+
+**[45:24]** Only in Jehovah, said hath one, Have I righteousness and strength, Unto Him he cometh in, And ashamed are all those displeased with Him.
+
+**[45:25]** In Jehovah are all the seed of Israel justified, And they boast themselves.'
+
+**[46:1]** Bowed down hath Bel, stooping is Nebo, Their idols have been for the beast and for cattle, Your burdens are loaded, a burden to the weary.
+
+**[46:2]** They have stooped, they have bowed together, They have not been able to deliver the burden, And themselves into captivity have gone.
+
+**[46:3]** Hearken unto Me, O house of Jacob, And all the remnant of Israel, Who are borne from the belly, Who are carried from the womb,
+
+**[46:4]** Even to old age I `am' He, and to grey hairs I carry, I made, and I bear, yea, I carry and deliver.
+
+**[46:5]** To whom do ye liken Me, and make equal? And compare Me, that we may be like?
+
+**[46:6]** -- They are pouring out gold from a bag, And silver on the beam they weigh, They hire a refiner, and he maketh it a god, They fall down, yea, they bow themselves.
+
+**[46:7]** They lift him up on the shoulder, They carry him, and cause him to rest in his place, And he standeth, from his place he moveth not, Yea, one crieth unto him, and he answereth not, From his adversity he saveth him not.
+
+**[46:8]** Remember this, and shew yourselves men, Turn `it' back, O transgressors, to the heart.
+
+**[46:9]** Remember former things of old, For I `am' Mighty, and there is none else, God -- and there is none like Me.
+
+**[46:10]** Declaring from the beginning the latter end, And from of old that which hath not been done, Saying, `My counsel doth stand, And all My delight I do.'
+
+**[46:11]** Calling from the east a ravenous bird, From a far land the man of My counsel, Yea, I have spoken, yea, I bring it in, I have formed `it', yea, I do it.
+
+**[46:12]** Hearken unto Me, ye mighty in heart, Who are far from righteousness.
+
+**[46:13]** I have brought near My righteousness, It is not far off, And My salvation -- it doth not tarry, And I have given in Zion salvation, To Israel My glory!
+
+**[47:1]** Come down, and sit on the dust, O virgin daughter of Babylon, Sit on the earth, there is no throne, O daughter of the Chaldeans, For no more do they cry to thee, `O tender and delicate one.'
+
+**[47:2]** Take millstones, and grind flour, Remove thy veil, draw up the skirt, Uncover the leg, pass over the floods.
+
+**[47:3]** Revealed is thy nakedness, yea, seen is thy reproach, Vengeance I take, and I meet not a man.
+
+**[47:4]** Our redeemer `is' Jehovah of Hosts, His name `is' the Holy One of Israel.
+
+**[47:5]** Sit silent, and go into darkness, O daughter of the Chaldeans, For no more do they cry to thee, `Mistress of kingdoms.'
+
+**[47:6]** I have been wroth against My people, I have polluted Mine inheritance And I give them into thy hand, Thou hast not appointed for them mercies, On the aged thou hast made thy yoke very heavy,
+
+**[47:7]** And thou sayest, `To the age I am mistress,' While thou hast not laid these things to thy heart, Thou hast not remembered the latter end of it.
+
+**[47:8]** And now, hear this, O luxurious one, Who is sitting confidently -- Who is saying in her heart, `I `am', and none else, I sit not a widow, nor know bereavement.'
+
+**[47:9]** And come in to thee do these two things, In a moment, in one day, childlessness and widowhood, According to their perfection they have come upon thee, In the multitude of thy sorceries, In the exceeding might of thy charms.
+
+**[47:10]** And thou art confident in thy wickedness, Thou hast said, `There is none seeing me,' Thy wisdom and thy knowledge, It is turning thee back, And thou sayest in thy heart, `I `am', and none else.'
+
+**[47:11]** And come in on thee hath evil, Thou knowest not its rising, And fall on thee doth mischief, Thou art not able to pacify it, And come on thee suddenly doth desolation, Thou knowest not.
+
+**[47:12]** Stand, I pray thee, in thy charms, And in the multitude of thy sorceries, In which thou hast laboured from thy youth, It may be thou art able to profit, It may be thou dost terrify!
+
+**[47:13]** Thou hast been wearied in the multitude of thy counsels, Stand up, I pray thee, and save thee, Let the charmers of the heavens, Those looking on the stars, Those teaching concerning the months, From those things that come on thee!
+
+**[47:14]** Lo, they have been as stubble! Fire hath burned them, They deliver not themselves from the power of the flame, There is not a coal to warm them, a light to sit before it.
+
+**[47:15]** So have they been to thee with whom thou hast laboured, Thy merchants from thy youth, Each to his passage they have wandered, Thy saviour is not!
+
+**[48:1]** Hear ye this, O house of Jacob, Who are called by the name of Israel, And from the waters of Judah came out, Who are swearing by the name of Jehovah, And of the God of Israel make mention, Not in truth nor in righteousness.
+
+**[48:2]** For from the Holy City they have been called, And on the God of Israel been supported, Jehovah of Hosts `is' His name.
+
+**[48:3]** The former things from that time I declared, And from my mouth they have gone forth, And I proclaim them, Suddenly I have done, and it cometh.
+
+**[48:4]** From my knowing that thou art obstinate, And a sinew of iron thy neck, And thy forehead brass,
+
+**[48:5]** And I declare to thee from that time, Before it cometh I have caused thee to hear, Lest thou say, `Mine idol hath done them, And my graven image, And my molten image did command them.
+
+**[48:6]** Thou hast heard, see the whole of it, And ye, do ye not declare? I have caused thee to hear new things from this time, And things reserved that ye knew not.
+
+**[48:7]** Now they have been produced and not from that time, Yea, before the day, and thou hast not heard them, Lest thou say, `Lo, I have known them.'
+
+**[48:8]** Yea, thou hast not heard, Yea, thou hast not known, Yea, from that time not opened hath thine ear, For I have known thou dealest treacherously, And `Transgressor from the belly,' One is crying to thee.
+
+**[48:9]** For My name's sake I defer Mine anger, And My praise I restrain for thee, So as not to cut thee off.
+
+**[48:10]** Lo, I have refined thee, and not with silver, I have chosen thee in a furnace of affliction.
+
+**[48:11]** For My sake, for Mine own sake, I do `it', For how is it polluted? And Mine honour to another I give not.
+
+**[48:12]** Hearken to me, O Jacob, and Israel, My called one, I `am' He, I `am' first, and I `am' last;
+
+**[48:13]** Also, My hand hath founded earth, And My right hand stretched out the heavens, I am calling unto them, they stand together.
+
+**[48:14]** Be gathered all of you, and hear, Who among them did declare these things? Jehovah hath loved him, He doth His pleasure on Babylon, And His arm `is on' the Chaldeans.
+
+**[48:15]** I -- I have spoken, yea, I have called him, I have brought him in, And he hath made prosperous his way.
+
+**[48:16]** Come ye near unto me, hear this, Not from the beginning in secret spake I, From the time of its being, there `am' I, And now the Lord Jehovah hath sent me, and His Spirit.
+
+**[48:17]** Thus said Jehovah, thy redeemer, The Holy One of Israel, `I `am' Jehovah thy God, teaching thee to profit, Causing thee to tread in the way thou goest.
+
+**[48:18]** O that thou hadst attended to My commands, Then as a river is thy peace, And thy righteousness as billows of the sea,
+
+**[48:19]** And as sand is thy seed, And the offspring of thy bowels as its gravel, Not cut off nor destroyed his name before Me.
+
+**[48:20]** Go out from Babylon, flee from the Chaldeans, With a voice of singing declare, Cause ye this to be heard, Bring it forth unto the end of the earth, Say, Redeemed hath Jehovah His servant Jacob.
+
+**[48:21]** And they have not thirsted in waste places, He hath caused them to go on, Waters from a rock he hath caused to flow to them, Yea, he cleaveth a rock, and flow do waters.
+
+**[48:22]** There is no peace, said Jehovah, to the wicked!
+
+**[49:1]** Hearken, O isles, unto me, And attend, O peoples, from afar, Jehovah from the womb hath called me, From the bowels of my mother He hath made mention of my name.
+
+**[49:2]** And he maketh my mouth as a sharp sword, In the shadow of His hand He hath hid me, And He maketh me for a clear arrow, In His quiver He hath hid me.
+
+**[49:3]** And He saith to me, `My servant Thou art, O Israel, In whom I beautify Myself.'
+
+**[49:4]** And I said, `For a vain thing I laboured, For emptiness and vanity my power I consumed, But my judgment `is' with Jehovah, And my wage with my God.
+
+**[49:5]** And now, said Jehovah, who is forming me from the belly for a servant to Him, To bring back Jacob unto Him, (Though Israel is not gathered, Yet I am honoured in the eyes of Jehovah, And my God hath been my strength.)
+
+**[49:6]** And He saith, `It hath been a light thing That thou art to Me for a servant To raise up the tribes of Jacob, And the preserved of Israel to bring back, And I have given thee for a light of nations, To be My salvation unto the end of the earth.'
+
+**[49:7]** Thus said Jehovah, Redeemer of Israel, His Holy One, To the despised in soul, To the abominated of a nation, To the servant of rulers: `Kings see, and have risen, princes, and worship, For the sake of Jehovah, who is faithful, The Holy of Israel, and He chooseth thee.'
+
+**[49:8]** Thus said Jehovah: `In a time of good pleasure I answered thee, And in a day of salvation I helped thee, And I keep thee, and give thee, For a covenant of the people, To establish the earth, To cause to inherit desolate inheritances.
+
+**[49:9]** To say to the bound, Go out, To those in darkness, Be uncovered. On the ways they feed, And in all high places is their pasture.
+
+**[49:10]** They do not hunger, nor thirst, Nor smite them doth mirage and sun, For He who is pitying them doth lead them, And by fountains of waters doth tend them.
+
+**[49:11]** And I have made all My mountains for a way, And My highways are lifted up.
+
+**[49:12]** Lo, these from afar come in, And lo, these from the north, and from the sea, And these from the land of Sinim.
+
+**[49:13]** Sing, O heavens, and joy, O earth, And break forth, O mountains, with singing, For comforted hath Jehovah His people, And His afflicted ones He doth pity.
+
+**[49:14]** And Zion saith, `Jehovah hath forsaken me, And my Lord hath forgotten me.'
+
+**[49:15]** Forget doth a woman her suckling, The loved one -- the son of her womb? Yea, these forget -- but I -- I forget not thee.
+
+**[49:16]** Lo, on the palms of the hand I have graven thee, Thy walls `are' before Me continually.
+
+**[49:17]** Hastened have those building thee, Those destroying thee, and laying thee waste, go out from thee.
+
+**[49:18]** Lift up round about thine eyes and see, All of them have been gathered, They have come to thee. I live, an affirmation of Jehovah! Surely all of them as an ornament thou puttest on, And thou bindest them on like a bride.
+
+**[49:19]** Because thy wastes, and thy desolate places, And the land of thy ruins, Surely now are straitened because of inhabitants, And far off have been those consuming thee.
+
+**[49:20]** Again do the sons of thy bereavement say in thine ears: `The place is too strait for me, Come nigh to me -- and I dwell.'
+
+**[49:21]** And thou hast said in thy heart: `Who hath begotten for me -- these? And I bereaved and gloomy, A captive, and turned aside, And these -- who hath nourished? Lo, I -- I was left by myself, these -- whence `are' they?
+
+**[49:22]** Thus said the Lord Jehovah: `Lo, I lift up unto nations My hand, And unto peoples I raise up Mine ensign, And they have brought thy sons in the bosom, And thy daughters on the shoulder are carried.
+
+**[49:23]** And kings have been thy nursing fathers, And their princesses thy nursing mothers; Face to the earth -- they bow down to thee, And the dust of thy feet they lick up, And thou hast known that I `am' Jehovah, That those expecting Me are not ashamed.
+
+**[49:24]** Is prey taken from the mighty? And the captive of the righteous delivered?
+
+**[49:25]** For thus said Jehovah: Even the captive of the mighty is taken, And the prey of the terrible is delivered, And with thy striver I strive, and thy sons I save.
+
+**[49:26]** And I have caused thine oppressors to eat their own flesh, And as new wine they drink their own blood, And known have all flesh that I, Jehovah, Thy saviour, and thy redeemer, `Am' the Mighty One of Jacob!'
+
+**[50:1]** Thus said Jehovah: `Where `is' this -- the bill of your mother's divorce, Whom I sent away? Or to which of My creditors have I sold you? Lo, for your iniquities ye have been sold, And for your transgressions Hath your mother been sent away.
+
+**[50:2]** Wherefore have I come, and there is no one? I called, and there is none answering, Hath My hand been at all short of redemption? And is there not in me power to deliver? Lo, by My rebuke I dry up a sea, I make rivers a wilderness, Their fish stinketh, for there is no water, And dieth with thirst.
+
+**[50:3]** I clothe the heavens `with' blackness, And sackcloth I make their covering.
+
+**[50:4]** The Lord Jehovah hath given to me The tongue of taught ones, To know to aid the weary `by' a word, He waketh morning by morning, He waketh for me an ear to hear as taught ones.
+
+**[50:5]** The Lord Jehovah opened for me the ear, And I rebelled not -- backward I moved not.
+
+**[50:6]** My back I have given to those smiting, And my cheeks to those plucking out, My face I hid not from shame and spitting.
+
+**[50:7]** And the Lord Jehovah giveth help to me, Therefore I have not been ashamed, Therefore I have set my face as a flint, And I know that I am not ashamed.
+
+**[50:8]** Near `is' He who is justifying me, Who doth contend with me? We stand together, who `is' mine opponent? Let him come nigh unto me.
+
+**[50:9]** Lo, the Lord Jehovah giveth help to me, Who `is' he that declareth me wicked? Lo, all of them as a garment wear out, A moth doth eat them.
+
+**[50:10]** Who `is' among you, fearing Jehovah, Hearkening to the voice of His servant, That hath walked in dark places, And there is no brightness for him? Let him trust in the name of Jehovah, And lean upon his God.
+
+**[50:11]** Lo, all ye kindling a fire, girding on sparks, Walk ye in the light of your fire, And in the sparks ye have caused to burn, From my hand hath this been to you, In grief ye lie down!
+
+**[51:1]** Hearken unto Me, ye pursuing righteousness, Seeking Jehovah, Look attentively unto the rock -- ye have been hewn, And unto the hole of the pit -- ye have been digged.
+
+**[51:2]** Look attentively unto Abraham your father, And unto Sarah -- she bringeth you forth, For -- one -- I have called him, And I bless him, and multiply him.
+
+**[51:3]** For Jehovah hath comforted Zion, He hath comforted all her wastes, And He setteth her wilderness as Eden, And her desert as a garden of Jehovah, Joy, yea, gladness is found in her, Confession, and the voice of song.
+
+**[51:4]** Attend unto Me, O My people, And, O My nation, unto Me give ear. For a law from Me goeth out, And My judgment to the light, Peoples I do cause to rest.
+
+**[51:5]** Near `is' My righteousness, Gone out hath My salvation and Mine arms, Peoples they judge, on Me isles do wait, Yea, on Mine arm they do wait with hope.
+
+**[51:6]** Lift ye up to the heavens your eyes, And look attentively unto the earth beneath, For the heavens as smoke have vanished, And the earth as a garment weareth out, And its inhabitants as gnats do die, And My salvation is to the age, And My righteousness is not broken.
+
+**[51:7]** Hearken unto Me, ye who know righteousness, A people, in whose heart `is' My law, Fear ye not the reproach of men, And for their reviling be not affrighted,
+
+**[51:8]** For as a garment eat them doth a moth, And as wool eat them doth a worm, And My righteousness is to the age, And My salvation to all generations.
+
+**[51:9]** Awake, awake, put on strength, O arm of Jehovah, Awake, as `in' days of old, generations of the ages, Art not Thou it that is hewing down Rahab, Piercing a dragon!
+
+**[51:10]** Art not Thou it that is drying up a sea, Waters of a great deep? That hath made deep places of a sea A way for the passing of the redeemed?
+
+**[51:11]** And the ransomed of Jehovah turn back, And they have come to Zion with singing, And joy age-during `is' on their head, Gladness and joy they attain, Fled away have sorrow and sighing,
+
+**[51:12]** I -- I `am' He -- your comforter, Who `art' thou -- and thou art afraid of man? he dieth! And of the son of man -- grass he is made!
+
+**[51:13]** And thou dost forget Jehovah thy maker, Who is stretching out the heavens, and founding earth, And thou dost fear continually all the day, Because of the fury of the oppressor, As he hath prepared to destroy. And where `is' the fury of the oppressor?
+
+**[51:14]** Hastened hath a wanderer to be loosed, And he doth not die at the pit, And his bread is not lacking.
+
+**[51:15]** And I `am' Jehovah thy God, Quieting the sea, when its billows roar, Jehovah of Hosts `is' His name.
+
+**[51:16]** And I put My words in thy mouth, And with the shadow of My hand have covered thee, To plant the heavens, and to found earth, And to say to Zion, `My people `art' thou.'
+
+**[51:17]** Stir thyself, stir thyself, rise, Jerusalem, Who hast drunk from the hand of Jehovah The cup of His fury, The goblet, the cup of trembling, thou hast drunk, Thou hast wrung out.
+
+**[51:18]** There is not a leader to her Out of all the sons she hath borne, And there is none laying hold on her hand Out of all the sons she hath nourished.
+
+**[51:19]** These two are meeting thee, who is moved for thee? Spoiling and destruction -- Famine and sword, who -- I comfort thee?
+
+**[51:20]** Thy sons have been wrapt up, they have lain down, At the head of all out places, as a wild ox `in' a net, They are full of the fury of Jehovah, The rebuke of Thy God.
+
+**[51:21]** Therefore, hear, I pray thee, this, O afflicted and drunken one, and not with wine,
+
+**[51:22]** Thus said thy Lord Jehovah, and thy God, He pleadeth `for' his people: `Lo, I have taken out of thy hand the cup of trembling, The goblet, the cup of My fury, Thou dost not add to drink it any more.
+
+**[51:23]** And I have put it into the hand of those afflicting thee, Who have said to thy soul, Bow down, and we pass over, And thou makest as the earth thy body, And as the street to those passing by!'
+
+**[52:1]** Awake, awake, put on thy strength, O Zion, Put on the garments of thy beauty, Jerusalem -- the Holy City; For enter no more into thee again, Do the uncircumcised and unclean.
+
+**[52:2]** Shake thyself from dust, arise, sit, O Jerusalem, Bands of thy neck have loosed themselves, O captive, daughter of Zion.
+
+**[52:3]** For thus said Jehovah: `For nought ye have been sold, And not by money are ye redeemed.'
+
+**[52:4]** For thus said the Lord Jehovah: `To Egypt My people went down at first to sojourn there, And Asshur -- for nought he hath oppressed it.
+
+**[52:5]** And now, what -- to Me here, An affirmation of Jehovah, That taken is My people for nought? Its rulers cause howling, -- an affirmation of Jehovah, And continually all the day My name is despised.
+
+**[52:6]** Therefore doth My people know My name, Therefore, in that day, Surely I `am' He who is speaking, behold Me.'
+
+**[52:7]** How comely on the mountains, Have been the feet of one proclaiming tidings, Sounding peace, proclaiming good tidings, Sounding salvation, Saying to Zion, `Reigned hath thy God.'
+
+**[52:8]** The voice of thy watchmen! They have lifted up the voice, together they cry aloud, Because eye to eye they see, in Jehovah's turning back `to' Zion.
+
+**[52:9]** Break forth, sing together, O wastes of Jerusalem, For Jehovah hath comforted His people, He hath redeemed Jerusalem.
+
+**[52:10]** Jehovah hath made bare His holy arm Before the eyes of all the nations, And seen have all the ends of the earth, The salvation of our God.
+
+**[52:11]** Turn aside, turn aside, go out thence, The unclean touch not, go out from her midst, Be ye pure, who are bearing the weapons of Jehovah.
+
+**[52:12]** For not in haste do ye go out, Yea, with flight ye go not on, For going before you `is' Jehovah, And gathering you `is' the God of Israel!
+
+**[52:13]** Lo, My servant doth act wisely, He is high, and hath been lifted up, And hath been very high.
+
+**[52:14]** As astonished at thee have been many, (So marred by man his appearance, And his form by sons of men.)
+
+**[52:15]** So doth he sprinkle many nations. Concerning him kings shut their mouth, For that which was not recounted to them they have seen, And that which they had not heard they have understood!
+
+**[53:1]** Who hath given credence to that which we heard? And the arm of Jehovah, On whom hath it been revealed?
+
+**[53:2]** Yea, he cometh up as a tender plant before Him, And as a root out of a dry land, He hath no form, nor honour, when we observe him, Nor appearance, when we desire him.
+
+**[53:3]** He is despised, and left of men, A man of pains, and acquainted with sickness, And as one hiding the face from us, He is despised, and we esteemed him not.
+
+**[53:4]** Surely our sicknesses he hath borne, And our pains -- he hath carried them, And we -- we have esteemed him plagued, Smitten of God, and afflicted.
+
+**[53:5]** And he is pierced for our transgressions, Bruised for our iniquities, The chastisement of our peace `is' on him, And by his bruise there is healing to us.
+
+**[53:6]** All of us like sheep have wandered, Each to his own way we have turned, And Jehovah hath caused to meet on him, The punishment of us all.
+
+**[53:7]** It hath been exacted, and he hath answered, And he openeth not his mouth, As a lamb to the slaughter he is brought, And as a sheep before its shearers is dumb, And he openeth not his mouth.
+
+**[53:8]** By restraint and by judgment he hath been taken, And of his generation who doth meditate, That he hath been cut off from the land of the living? By the transgression of My people he is plagued,
+
+**[53:9]** And it appointeth with the wicked his grave, And with the rich `are' his high places, Because he hath done no violence, Nor `is' deceit in his mouth.
+
+**[53:10]** And Jehovah hath delighted to bruise him, He hath made him sick, If his soul doth make an offering for guilt, He seeth seed -- he prolongeth days, And the pleasure of Jehovah in his hand doth prosper.
+
+**[53:11]** Of the labour of his soul he seeth -- he is satisfied, Through his knowledge give righteousness Doth the righteous one, My servant, to many, And their iniquities he doth bear.
+
+**[53:12]** Therefore I give a portion to him among the many, And with the mighty he apportioneth spoil, Because that he exposed to death his soul, And with transgressors he was numbered, And he the sin of many hath borne, And for transgressors he intercedeth.
+
+**[54:1]** Sing, O barren, she hath not borne! Break forth with singing, and cry aloud, She hath not brought forth! For more `are' the sons of the desolate, Than the sons of the married one, said Jehovah.
+
+**[54:2]** Enlarge the place of thy tent, And the curtains of thy tabernacles they stretch out, Restrain not -- lengthen thy cords, And thy pins make strong.
+
+**[54:3]** For right and left thou breakest forth, And thy seed doth nations possess,
+
+**[54:4]** And desolate cities they cause to be inhabited. Fear not, for thou art not ashamed, Nor blush, for thou art not confounded, For the shame of thy youth thou forgettest, And the reproach of thy widowhood Thou dost not remember any more.
+
+**[54:5]** For thy Maker `is' thy husband, Jehovah of Hosts `is' His name, And thy Redeemer `is' the Holy One of Israel, `God of all the earth,' He is called.
+
+**[54:6]** For, as a woman forsaken and grieved in spirit, Called thee hath Jehovah, Even a youthful wife when she is refused, said thy God.
+
+**[54:7]** In a small moment I have forsaken thee, And in great mercies I do gather thee,
+
+**[54:8]** In overflowing wrath I hid my face `for' a moment from thee, And in kindness age-during I have loved thee, Said thy Redeemer -- Jehovah!
+
+**[54:9]** For, the waters of Noah `is' this to Me, In that I have sworn -- the waters of Noah Do not pass again over the earth -- So I have sworn, Wrath is not upon thee, Nor rebuke against thee.
+
+**[54:10]** For the mountains depart, and the hills remove, And My kindness from thee departeth not, And the covenant of My peace removeth not, Said hath thy loving one -- Jehovah.
+
+**[54:11]** O afflicted, storm-tossed, not comforted, Lo, I am laying with cement thy stones, And have founded thee with sapphires,
+
+**[54:12]** And have made of agate thy pinnacles, And thy gates of carbuncle stones, And all thy border of stones of delight,
+
+**[54:13]** And all thy sons are taught of Jehovah, And abundant `is' the peace of thy sons.
+
+**[54:14]** In righteousness thou establishest thyself, Be far from oppression, for thou fearest not, And from ruin, for it cometh not near unto thee.
+
+**[54:15]** Lo, he doth diligently assemble without My desire, Who hath assembled near thee? By thee he falleth!
+
+**[54:16]** Lo, I -- I have prepared an artizan, Blowing on a fire of coals, And bringing out an instrument for his work, And I have prepared a destroyer to destroy.
+
+**[54:17]** No weapon formed against thee prospereth, And every tongue rising against thee, In judgment thou condemnest. This `is' the inheritance of the servants of Jehovah, And their righteousness from me, an affirmation of Jehovah!
+
+**[55:1]** Ho, every thirsty one, come ye to the waters, And he who hath no money, Come ye, buy and eat, yea, come, buy Without money and without price, wine and milk.
+
+**[55:2]** Why do ye weigh money for that which is not bread? And your labour for that which is not for satiety? Hearken diligently unto me, and eat good, And your soul doth delight itself in fatness.
+
+**[55:3]** Incline your ear, and come unto me, Hear, and your soul doth live, And I make for you a covenant age-during, The kind acts of David -- that are stedfast.
+
+**[55:4]** Lo, a witness to peoples I have given him, A leader and commander to peoples.
+
+**[55:5]** Lo, a nation thou knowest not, thou callest, And a nation who know thee not unto thee do run, For the sake of Jehovah thy God, And for the Holy One of Israel, Because He hath beautified thee.
+
+**[55:6]** Seek ye Jehovah, while He is found, Call ye Him, while He is near,
+
+**[55:7]** Forsake doth the wicked his way, And the man of iniquity his thoughts, And he returneth to Jehovah, and He pitieth him, And unto our God for He multiplieth to pardon.
+
+**[55:8]** For not My thoughts `are' your thoughts, Nor your ways My ways, -- an affirmation of Jehovah,
+
+**[55:9]** For high have the heavens been above the earth, So high have been My ways above your ways, And My thoughts above your thoughts.
+
+**[55:10]** For, as come down doth the shower, And the snow from the heavens, And thither returneth not, But hath watered the earth, And hath caused it to yield, and to spring up, And hath given seed to the sower, and bread to the eater,
+
+**[55:11]** So is My word that goeth out of My mouth, It turneth not back unto Me empty, But hath done that which I desired, And prosperously effected that `for' which I sent it.
+
+**[55:12]** For with joy ye go forth, And with peace ye are brought in, The mountains and the hills Break forth before you `with' singing, And all trees of the field clap the hand.
+
+**[55:13]** Instead of the thorn come up doth fir, Instead of the brier come up doth myrtle, And it hath been to Jehovah for a name, For a sign age-during -- it is not cut off!
+
+**[56:1]** Thus said Jehovah: `Keep ye judgment, and do righteousness, For near `is' My salvation to come, And My righteousness to be revealed.'
+
+**[56:2]** O the happiness of a man who doth this, And of a son of man who keepeth hold on it, Keeping the sabbath from polluting it, And keeping his hand from doing any evil.
+
+**[56:3]** Nor speak let a son of the stranger, Who is joined unto Jehovah, saying: `Jehovah doth certainly separate me from His people.' Nor say let the eunuch, `Lo, I am a tree dried up,'
+
+**[56:4]** For thus said Jehovah of the eunuchs, Who do keep My sabbaths, And have fixed on that which I desired, And are keeping hold on My covenant:
+
+**[56:5]** I have given to them in My house, And within My walls a station and a name, Better than sons and than daughters, A name age-during I give to him That is not cut off.
+
+**[56:6]** And sons of the stranger, who are joined to Jehovah, To serve Him, and to love the name of Jehovah, To be to Him for servants, Every keeper of the sabbath from polluting it, And those keeping hold on My covenant.
+
+**[56:7]** I have brought them unto My holy mountain, And caused them to rejoice in My house of prayer, Their burnt-offerings and their sacrifices `Are' for a pleasing thing on Mine altar, For My house, `A house of prayer,' Is called for all the peoples.
+
+**[56:8]** An affirmation of the Lord Jehovah, Who is gathering the outcasts of Israel: `Again I gather to him -- to his gathered ones.'
+
+**[56:9]** Every beast of the field, Come to devour, every beast in the forest.
+
+**[56:10]** Blind `are' his watchmen -- all of them, They have not known, All of them `are' dumb dogs, they are not able to bark, Dozing, lying down, loving to slumber.
+
+**[56:11]** And the dogs `are' strong of desire, They have not known sufficiency, And they `are' shepherds! They have not known understanding, All of them to their own way they did turn, Each to his dishonest gain from his quarter:
+
+**[56:12]** `Come ye, I take wine, And we drink, quaff strong drink, And as this day hath been to-morrow, Great -- exceeding abundant!'
+
+**[57:1]** The righteous hath perished, And there is none laying `it' to heart, And men of kindness are gathered, Without any considering that from the face of evil Gathered is the righteous one.
+
+**[57:2]** He entereth into peace, they rest on their beds, `Each' is going straightforward.
+
+**[57:3]** And ye, come near hither, O sons of a sorceress, seed of an adulterer, Even thou dost commit whoredom.
+
+**[57:4]** Against whom do ye sport yourselves? Against whom enlarge ye the mouth? Prolong ye the tongue? Are not ye children of transgression? a false seed?
+
+**[57:5]** Who are inflamed among oaks, under every green tree, Slaughtering the children in valleys, Under clefts of the rocks.
+
+**[57:6]** Among the smooth things of a brook `is' thy portion, They -- they `are' thy lot, Also to them thou hast poured out an oblation, Thou hast caused a present to ascend, For these things am I comforted?
+
+**[57:7]** On a mountain, high and exalted, Thou hast set thy couch, Also thither thou hast gone up to make a sacrifice.
+
+**[57:8]** And behind the door, and the post, Thou hast set up thy memorial, For from Me thou hast removed, and goest up, Thou hast enlarged thy couch, And dost covenant for thyself among them, Thou hast loved their couch, the station thou sawest,
+
+**[57:9]** And goest joyfully to the king in ointment, And dost multiply thy perfumes, And sendest thine ambassadors afar off, And humblest thyself unto Sheol.
+
+**[57:10]** In the greatness of thy way thou hast laboured, Thou hast not said, `It is desperate.' The life of thy hand thou hast found, Therefore thou hast not been sick.
+
+**[57:11]** And of whom hast thou been afraid, and fearest, That thou liest, and Me hast not remembered? Thou hast not laid `it' to thy heart, Am not I silent, even from of old? And Me thou fearest not?
+
+**[57:12]** I declare thy righteousness, and thy works, And they do not profit thee.
+
+**[57:13]** When thou criest, let thy gatherings deliver thee, And all of them carry away doth wind, Take away doth vanity, And whoso is trusting in Me inheriteth the land, And doth possess My holy mountain.
+
+**[57:14]** And he hath said, `Raise up, raise up, prepare a way, Lift a stumbling-block out of the way of My people.'
+
+**[57:15]** For thus said the high and exalted One, Inhabiting eternity, and holy `is' His name: `In the high and holy place I dwell, And with the bruised and humble of spirit, To revive the spirit of the humble, And to revive the heart of bruised ones,'
+
+**[57:16]** For, not to the age do I strive, nor for ever am I wroth, For the spirit from before Me is feeble, And the souls I have made.
+
+**[57:17]** For the iniquity of his dishonest gain, I have been wroth, and I smite him, Hiding -- and am wroth, And he goeth on turning back in the way of his heart.
+
+**[57:18]** His ways I have seen, and I heal him, yea, I lead him, And recompense comforts to him and to his mourning ones.
+
+**[57:19]** Producing the fruit of the lips, `Peace, peace,' to the far off, and to the near, And I have healed him, said Jehovah.
+
+**[57:20]** And the wicked `are' as the driven out sea, For to rest it is not able, And its waters cast out filth and mire.
+
+**[57:21]** There is no peace, said my God, to the wicked!
+
+**[58:1]** Call with the throat, restrain not, As a trumpet lift up thy voice, And declare to My people their transgression, And to the house of Jacob their sins;
+
+**[58:2]** Seeing -- Me day by day they seek, And the knowledge of My ways they desire, As a nation that righteousness hath done, And the judgment of its God hath not forsaken, They ask of me judgments of righteousness, The drawing near of God they desire:
+
+**[58:3]** `Why have we fasted, and Thou hast not seen? We have afflicted our soul, and Thou knowest not.' Lo, in the day of your fast ye find pleasure, And all your labours ye exact.
+
+**[58:4]** Lo, for strife and debate ye fast, And to smite with the fist of wickedness, Ye fast not as `to'-day, To sound in the high place your voice.
+
+**[58:5]** Like this is the fast that I choose? The day of a man's afflicting his soul? To bow as a reed his head, And sackcloth and ashes spread out? This dost thou call a fast, And a desirable day -- to Jehovah?
+
+**[58:6]** Is not this the fast that I chose -- To loose the bands of wickedness, To shake off the burdens of the yoke, And to send out the oppressed free, And every yoke ye draw off?
+
+**[58:7]** Is it not to deal to the hungry thy bread, And the mourning poor bring home, That thou seest the naked and cover him, And from thine own flesh hide not thyself?
+
+**[58:8]** Then broken up as the dawn is thy light, And thy health in haste springeth up, Gone before thee hath thy righteousness, The honour of Jehovah doth gather thee.
+
+**[58:9]** Then thou callest, and Jehovah answereth, Thou criest, and He saith, `Behold Me.' If thou turn aside from thy midst the yoke, The sending forth of the finger, And the speaking of vanity,
+
+**[58:10]** And dost bring out to the hungry thy soul, And the afflicted soul dost satisfy, Then risen in the darkness hath thy light, And thy thick darkness `is' as noon.
+
+**[58:11]** And Jehovah doth lead thee continually, And hath satisfied in drought thy soul, And thy bones He armeth, And thou hast been as a watered garden, And as an outlet of waters, whose waters lie not.
+
+**[58:12]** And they have built out of thee the wastes of old, The foundations of many generations thou raisest up, And one calleth thee, `Repairer of the breach, Restorer of paths to rest in.'
+
+**[58:13]** If thou dost turn from the sabbath thy foot, Doing thine own pleasure on My holy day, And hast cried to the sabbath, `A delight,' To the holy of Jehovah, `Honoured,' And hast honoured it, without doing thine own ways, Without finding thine own pleasure, And speaking a word.
+
+**[58:14]** Then dost thou delight thyself on Jehovah, And I have caused thee to ride on high places of earth, And have caused thee to eat the inheritance of Jacob thy father, For the mouth of Jehovah hath spoken!
+
+**[59:1]** Lo, the hand of Jehovah Hath not been shortened from saving, Nor heavy his ear from hearing.
+
+**[59:2]** But your iniquities have been separating Between you and your God, And your sins have hidden The Presence from you -- from hearing.
+
+**[59:3]** For your hands have been polluted with blood, And your fingers with iniquity, Your lips have spoken falsehood, Your tongue perverseness doth mutter.
+
+**[59:4]** There is none calling in righteousness, And there is none pleading in faithfulness, Trusting on emptiness, and speaking falsehood, Conceiving perverseness, and bearing iniquity.
+
+**[59:5]** Eggs of a viper they have hatched, And webs of a spider they weave, Whoso is eating their eggs doth die, And the crushed hatcheth a viper.
+
+**[59:6]** Their webs become not a garment, Nor do they cover themselves with their works, Their works `are' works of iniquity, And a deed of violence `is' in their hands.
+
+**[59:7]** Their feet to evil do run, And they haste to shed innocent blood, Their thoughts `are' thoughts of iniquity, Spoiling and destruction `are' in their highways.
+
+**[59:8]** A way of peace they have not known, And there is no judgment in their paths, Their paths they have made perverse for themselves, No treader in it hath known peace.
+
+**[59:9]** Therefore hath judgment been far from us, And righteousness reacheth us not, We wait for light, and lo, darkness, For brightness -- in thick darkness we go,
+
+**[59:10]** We feel like the blind `for' the wall, Yea, as without eyes we feel, We have stumbled at noon as at twilight, In desolate places as the dead.
+
+**[59:11]** We make a noise as bears -- all of us, And as doves we coo sorely; We wait for judgment, and there is none, For salvation -- it hath been far from us.
+
+**[59:12]** For our transgressions have been multiplied before Thee, And our sins have testified against us, For our transgressions `are' with us, And our iniquities -- we have known them.
+
+**[59:13]** Transgressing, and lying against Jehovah, And removing from after our God, Speaking oppression and apostacy, Conceiving and uttering from the heart Words of falsehood.
+
+**[59:14]** And removed backward is judgment, And righteousness afar off standeth, For truth hath been feeble in the street, And straightforwardness is not able to enter,
+
+**[59:15]** And the truth is lacking, And whoso is turning aside from evil, Is making himself a spoil. And Jehovah seeth, and it is evil in His eyes, That there is no judgment.
+
+**[59:16]** And He seeth that there is no man, And is astonished that there is no intercessor, And His own arm giveth salvation to Him, And His righteousness -- it sustained Him.
+
+**[59:17]** And He putteth on righteousness as a breastplate, And an helmet of salvation on His head, And He putteth on garments of vengeance `for' clothing, And is covered, as `with' an upper-robe, `with' zeal.
+
+**[59:18]** According to deeds -- so He repayeth. Fury to His adversaries, `their' deed to His enemies, To the isles `their' deed He repayeth.
+
+**[59:19]** And they fear from the west the name of Jehovah, And from the rising of the sun -- His honour, When come in as a flood doth an adversary, The Spirit of Jehovah hath raised an ensign against him.
+
+**[59:20]** And come to Zion hath a redeemer, Even to captives of transgression in Jacob, An affirmation of Jehovah.
+
+**[59:21]** And I -- this `is' My covenant with them, said Jehovah, My Spirit that `is' on thee, And My words that I have put in thy mouth, Depart not from thy mouth, And from the mouth of thy seed, And from the mouth of thy seed's seed, said Jehovah, From henceforth unto the age!
+
+**[60:1]** Arise, be bright, for come hath thy light, And the honour of Jehovah hath risen on thee.
+
+**[60:2]** For, lo, the darkness doth cover the earth, And thick darkness the peoples, And on thee rise doth Jehovah, And His honour on thee is seen.
+
+**[60:3]** And come have nations to thy light, And kings to the brightness of thy rising.
+
+**[60:4]** Lift up round about thine eyes and see, All of them have been gathered, they have come to thee, Thy sons from afar do come, And thy daughters on the side are supported.
+
+**[60:5]** Then thou seest, and hast become bright, And thine heart hath been afraid and enlarged, For turn unto thee doth the multitude of the sea, The forces of nations do come to thee.
+
+**[60:6]** A company of camels covereth thee, Dromedaries of Midian and Ephah, All of them from Sheba do come, Gold and frankincense they bear, And of the praises of Jehovah they proclaim the tidings.
+
+**[60:7]** All the flock of Kedar are gathered to thee, The rams of Nebaioth do serve thee, They ascend for acceptance Mine altar, And the house of My beauty I beautify.
+
+**[60:8]** Who `are' these -- as a thick cloud they fly, And as doves unto their windows?
+
+**[60:9]** Surely for Me isles do wait, And ships of Tarshish first, To bring thy sons from afar, Their silver and their gold with them, To the name of Jehovah thy God, And to the Holy One of Israel, Because He hath beautified thee.
+
+**[60:10]** And sons of a stranger have built thy walls, And their kings do serve thee, For in My wrath I have smitten thee, And in My good pleasure I have pitied thee.
+
+**[60:11]** And opened have thy gates continually, By day and by night they are not shut, To bring unto thee the force of nations, Even their kings are led.
+
+**[60:12]** For the nation and the kingdom that do not serve thee perish, Yea, the nations are utterly wasted.
+
+**[60:13]** The honour of Lebanon unto thee doth come, Fir, pine, and box together, To beautify the place of My sanctuary, And the place of My feet I make honourable.
+
+**[60:14]** And come unto thee, bowing down, Have sons of those afflicting thee, And bowed themselves to the soles of thy feet Have all despising thee, And they have cried to thee: `City of Jehovah, Zion of the Holy One of Israel.'
+
+**[60:15]** Instead of thy being forsaken and hated, And none passing through, I have made thee for an excellency age-during, A joy of generation and generation.
+
+**[60:16]** And thou hast sucked the milk of nations, Yea, the breast of kings thou suckest, And thou hast known that I, Jehovah, Thy Saviour, and Thy Redeemer, `Am' the Mighty One of Jacob.
+
+**[60:17]** Instead of the brass I bring in gold, And instead of the iron I bring in silver, And instead of the wood brass, And instead of the stone iron, And I have made thy inspection peace, And thy exactors righteousness.
+
+**[60:18]** Violence is not heard any more in thy land, Spoiling and destruction in thy borders, And thou hast called `Salvation' thy walls, And thy gates, `Praise.'
+
+**[60:19]** To thee no more is the sun for a light by day, And for brightness the moon giveth not light to thee, And Jehovah hath become to thee A light age-during, and thy God thy beauty.
+
+**[60:20]** Thy sun goeth no more in, And thy moon is not removed, For Jehovah becometh to thee a light age-during. And the days of thy mourning have been completed.
+
+**[60:21]** And thy people `are' all of them righteous, To the age they possess the earth, A branch of My planting, A work of My hands, to be beautified.
+
+**[60:22]** The little one doth become a chief, And the small one a mighty nation, I, Jehovah, in its own time do hasten it!
+
+**[61:1]** The Spirit of the Lord Jehovah `is' on me, Because Jehovah did anoint me To proclaim tidings to the humble, He sent me to bind the broken of heart, To proclaim to captives liberty, And to bound ones an opening of bands.
+
+**[61:2]** To proclaim the year of the good pleasure of Jehovah, And the day of vengeance of our God, To comfort all mourners.
+
+**[61:3]** To appoint to mourners in Zion, To give to them beauty instead of ashes, The oil of joy instead of mourning, A covering of praise for a spirit of weakness, And He is calling to them, `Trees of righteousness, The planting of Jehovah -- to be beautified.'
+
+**[61:4]** And they have built the wastes of old, The desolations of the ancients they raise up, And they have renewed waste cities, The desolations of generation and generation.
+
+**[61:5]** And strangers have stood and fed your flock, Sons of a foreigner `are' your husbandmen, And your vine-dressers.
+
+**[61:6]** And ye are called `Priests of Jehovah,' `Ministers of our God,' is said of you, The strength of nations ye consume, And in their honour ye do boast yourselves.
+
+**[61:7]** Instead of your shame and confusion, A second time they sing of their portion, Therefore in their land A second time do they take possession, Joy age-during `is' for them.
+
+**[61:8]** For I `am' Jehovah, loving judgment, Hating plunder for a burnt-offering, And I have given their wage in truth, And a covenant age-during I make for them.
+
+**[61:9]** And known among nations hath been their seed, And their offspring in the midst of the peoples, All their beholders acknowledge them, For they `are' a seed Jehovah hath blessed.
+
+**[61:10]** I greatly rejoice in Jehovah, Joy doth my soul in my God, For He clothed me with garments of salvation, With a robe of righteousness covereth Me, As a bridegroom prepareth ornaments, And as a bride putteth on her jewels.
+
+**[61:11]** For, as the earth bringeth forth her shoots, And as a garden causeth its sown things to shoot up, So the Lord Jehovah causeth righteousness and praise To shoot up before all the nations!
+
+**[62:1]** For Zion's sake I am not silent, And for Jerusalem's sake I do not rest, Till her righteousness go out as brightness, And her salvation, as a torch that burneth.
+
+**[62:2]** And nations have seen thy righteousness, And all kings thine honour, And He is giving to thee a new name, That the mouth of Jehovah doth define.
+
+**[62:3]** And thou hast been a crown of beauty in the hand of Jehovah, And a diadem of royalty in the hand of thy God,
+
+**[62:4]** It is not said of thee any more, `Forsaken!' And of thy land it is not said any more, `Desolate,' For to thee is cried, `My delight `is' in her,' And to thy land, `Married,' For Jehovah hath delighted in thee, And thy land is married.
+
+**[62:5]** For a young man doth marry a virgin, Thy Builders do marry thee, With the joy of a bridegroom over a bride, Rejoice over thee doth thy God.
+
+**[62:6]** `On thy walls, O Jerusalem, I have appointed watchmen, All the day, and all the night, Continually, they are not silent.' O ye remembrancers of Jehovah, Keep not silence for yourselves,
+
+**[62:7]** And give not silence to Him, Till He establish, and till He make Jerusalem A praise in the earth.
+
+**[62:8]** Sworn hath Jehovah by His right hand, Even by the arm of His strength: `I give not thy corn any more `as' food for thine enemies, Nor do sons of a stranger drink thy new wine, For which thou hast laboured.
+
+**[62:9]** For, those gathering it do eat it, and have praised Jehovah, And those collecting it do drink it in My holy courts.'
+
+**[62:10]** Pass ye on, pass on through the gates, Prepare ye the way of the people, Raise up, raise up the highway, clear it from stones, Lift up an ensign over the peoples.
+
+**[62:11]** Lo, Jehovah hath proclaimed unto the end of the earth: `Say ye to the daughter of Zion, Lo, thy salvation hath come,' Lo, his hire `is' with him, and his wage before him.
+
+**[62:12]** And they have cried to them, `People of the Holy One, Redeemed of Jehovah,' Yea, to thee is called, `Sought out one, a city not forsaken!'
+
+**[63:1]** `Who `is' this coming from Edom? With dyed garments from Bozrah? This that is honourable in his clothing, Travelling in the abundance of his power?' -- `I, speaking in righteousness, mighty to save.'
+
+**[63:2]** `Wherefore `is' thy clothing red? And thy garments as treading in a wine fat?'
+
+**[63:3]** -- `A wine-press I have trodden by myself, And of the peoples there is no one with me, And I tread them in mine anger, And I trample them in my fury, Sprinkled is their strength on my garments, And all my clothing I have polluted.
+
+**[63:4]** For the day of vengeance `is' in my heart, And the year of my redeemed hath come.
+
+**[63:5]** And I look attentively, and there is none helping, And I am astonished that there is none supporting, And give salvation to me doth mine own arm. And my wrath -- it hath supported me.
+
+**[63:6]** And I tread down peoples in mine anger, And I make them drunk in my fury, And I bring down to earth their strength.
+
+**[63:7]** The kind acts of Jehovah I make mention of, The praises of Jehovah, According to all that Jehovah hath done for us, And the abundance of the goodness to the house of Israel, That He hath done for them, According to His mercies, And according to the abundance of His kind acts.
+
+**[63:8]** And He saith, Only My people they `are', Sons -- they lie not, and He is to them for a saviour.
+
+**[63:9]** In all their distress `He is' no adversary, And the messenger of His presence saved them, In His love and in His pity He redeemed them, And He doth lift them up, And beareth them all the days of old.
+
+**[63:10]** And they have rebelled and grieved His Holy Spirit, And He turneth to them for an enemy, He Himself hath fought against them.
+
+**[63:11]** And He remembereth the days of old, Moses -- his people. Where `is' He who is bringing them up from the sea, The shepherd of his flock? Where `is' He who is putting in its midst His Holy Spirit?
+
+**[63:12]** Leading by the right hand of Moses, the arm of His glory, Cleaving waters from before them, To make to Himself a name age-during.
+
+**[63:13]** Leading them through the depths, As a horse in a plain they stumble not.
+
+**[63:14]** As a beast into a valley goeth down, The Spirit of Jehovah causeth him to rest, So hast Thou led Thy people, To make to Thyself a glorious name.
+
+**[63:15]** Look attentively from the heavens, And see from Thy holy and beauteous habitation, Where `is' Thy zeal and Thy might? The multitude of Thy bowels and Thy mercies Towards me have refrained themselves.
+
+**[63:16]** For Thou `art' our Father, For Abraham hath not known us, And Israel doth not acknowledge us, Thou, O Jehovah, `art' our Father, Our redeemer from the age, `is' Thy name.
+
+**[63:17]** Why causest Thou us to wander, O Jehovah, from Thy ways? Thou hardenest our heart from Thy fear, Turn back for Thy servants' sake, The tribes of Thine inheritance.
+
+**[63:18]** For a little while did Thy holy people possess, Our adversaries have trodden down Thy sanctuary.
+
+**[63:19]** We have been from of old, Thou hast not ruled over them, Not called is Thy name upon them!
+
+**[64:1]** Didst Thou not rend the heavens? Thou didst come down, From thy presence did mountains flow,
+
+**[64:2]** (As fire kindleth stubble -- Fire causeth water to boil,) To make known Thy name to Thine adversaries, From Thy presence do nations tremble.
+
+**[64:3]** In Thy doing fearful things -- we expect not, Thou didst come down, From Thy presence did mountains flow.
+
+**[64:4]** Even from antiquity `men' have not heard, They have not given ear, Eye hath not seen a God save Thee, He doth work for those waiting for Him.
+
+**[64:5]** Thou hast met with the rejoicer And the doer of righteousness, In Thy ways they remember Thee, Lo, Thou hast been wroth when we sin, By them `is' continuance, and we are saved.
+
+**[64:6]** And we are as unclean -- all of us, And as a garment passing away, all our righteous acts; And we fade as a leaf -- all of us. And our iniquities as wind do take us away.
+
+**[64:7]** And there is none calling in Thy name, Stirring up himself to lay hold on Thee, For Thou hast hid Thy face from us, And thou meltest us away by our iniquities.
+
+**[64:8]** And now, O Jehovah, thou `art' our Father, We `are' the clay, and Thou our Framer, And the work of Thy hand -- all of us.
+
+**[64:9]** Be not wroth, O Jehovah, very sore, Nor for ever remember iniquity, Lo, look attentively, we beseech Thee, Thy people `are' we all.
+
+**[64:10]** Thy holy cities have been a wilderness, Zion a wilderness hath been, Jerusalem a desolation.
+
+**[64:11]** Our holy and our beautiful house, Where praise Thee did our fathers, Hath become burnt with fire, And all our desirable things have become a waste.
+
+**[64:12]** For these dost Thou refrain Thyself, Jehovah? Thou art silent, and dost afflict us very sore!'
+
+**[65:1]** I have been inquired of by those who asked not, I have been found by those who sought Me not, I have said, `Behold Me, behold Me,' Unto a nation not calling in My name.
+
+**[65:2]** I have spread out My hands all the day Unto an apostate people, Who are going in the way not good after their own thoughts.
+
+**[65:3]** The people who are provoking Me to anger, To My face continually, Sacrificing in gardens, and making perfume on the bricks:
+
+**[65:4]** Who are dwelling among sepulchres, And lodge in reserved places, Who are eating flesh of the sow, And a piece of abominable things -- their vessels.
+
+**[65:5]** Who are saying, `Keep to thyself, come not nigh to me, For I have declared thee unholy.' These `are' a smoke in Mine anger, A fire burning all the day.
+
+**[65:6]** Lo, it is written before Me: `I am not silent, but have recompensed; And I have recompensed into their bosom,
+
+**[65:7]** Your iniquities, and the iniquities of your fathers together, said Jehovah, Who have made perfume on the mountains, And on the heights have reproached Me, And I have measured their former work into their bosom.'
+
+**[65:8]** Thus said Jehovah: As the new wine is found in the cluster, And one hath said, `Destroy it not for a blessing `is' in it,' So I do for My servants' sake, not to destroy the whole.
+
+**[65:9]** And I have brought out from Jacob a seed, And from Judah a possessor of My mount, And possess it do My chosen ones, And My servants do dwell there.
+
+**[65:10]** And Sharon hath been for the habitation of a flock, And the valley of Achor for the lying down of a herd, For My people who have sought Me.
+
+**[65:11]** And ye `are' those forsaking Jehovah, Who are forgetting My holy mountain, Who are setting in array for Gad a table, And who are filling for Meni a mixture.
+
+**[65:12]** And I have numbered you for the sword, And all of you for slaughter bow down, Because I called, and ye have not answered, I have spoken, and ye have not hearkened, And ye do the evil thing in Mine eyes, And on that which I desired not -- fixed.
+
+**[65:13]** Therefore, thus said the Lord Jehovah: Lo, My servants do eat, and ye do hunger, Lo, My servants do drink, and ye do thirst, Lo, My servants rejoice, and ye are ashamed,
+
+**[65:14]** Lo, My servants sing from joy of heart, And ye cry from pain of heart, And from breaking of spirit ye do howl.
+
+**[65:15]** And ye have left your name For an oath for My chosen ones, And the Lord Jehovah hath put thee to death, And to His servants He giveth another name.
+
+**[65:16]** So that he who is blessing himself in the earth, Doth bless himself In the God of faithfulness, And he who is swearing in the earth, Doth swear by the God of faithfulness, Because the former distresses have been forgotten, And because they have been hid from Mine eyes.
+
+**[65:17]** For, lo, I am creating new heavens, and a new earth, And the former things are not remembered, Nor do they ascend on the heart.
+
+**[65:18]** But joy ye, and rejoice for ever, that I `am' Creator, For, lo, I am creating Jerusalem a rejoicing, And her people a joy.
+
+**[65:19]** And I have rejoiced in Jerusalem, And have joyed in My people, And not heard in her any more Is the voice of weeping, and the voice of crying.
+
+**[65:20]** There is not thence any more a suckling of days, And an aged man who doth not complete his days, For the youth a hundred years old dieth, And the sinner, a hundred years old, is lightly esteemed.
+
+**[65:21]** And they have built houses, and inhabited, And planted vineyards, and eaten their fruit.
+
+**[65:22]** They do not build, and another inhabit, They do not plant, and another eat, For as the days of a tree `are' the days of My people, And the work of their hands wear out do My chosen ones.
+
+**[65:23]** They labour not for a vain thing, Nor do they bring forth for trouble, For the seed of the blessed of Jehovah `are' they, And their offspring with them.
+
+**[65:24]** And it hath come to pass, They do not yet call, and I answer, They are yet speaking, and I hear.
+
+**[65:25]** Wolf and lamb do feed as one, And a lion as an ox eateth straw, As to the serpent -- dust `is' its food, They do no evil, nor destroy, In all My holy mountain, said Jehovah!
+
+**[66:1]** Thus said Jehovah: The heavens `are' My throne, And the earth My footstool, Where `is' this -- the house that ye build for Me? And where `is' this -- the place -- My rest?
+
+**[66:2]** And all these My hand hath made, And all these things are, An affirmation of Jehovah! And unto this one I look attentively, Unto the humble and bruised in spirit, And who is trembling at My word.
+
+**[66:3]** Whoso slaughtereth the ox smiteth a man, Whoso sacrificeth the lamb beheadeth a dog, Whoso is bringing up a present -- The blood of a sow, Whoso is making mention of frankincense, Is blessing iniquity. Yea, they have fixed on their own ways, And in their abominations their soul hath delighted.
+
+**[66:4]** I also -- I fix on their vexations, And their fears I bring in to them, Because I have called, and there is none answering, I spake, and they have not hearkened, And they do the evil things in Mine eyes, And on that which I desired not -- fixed.
+
+**[66:5]** Hear a word of Jehovah, Ye who are trembling unto His word, Said have your brethren who are hating you, Who are driving you out, for My name's sake: `Honoured is Jehovah, and we look on your joy,' But they are ashamed.
+
+**[66:6]** A voice of noise `is' from the city, a voice from the temple, The voice of Jehovah, giving recompence to His enemies.
+
+**[66:7]** Before she is pained she hath brought forth, Before a pang cometh to her, She hath delivered a male.
+
+**[66:8]** Who hath heard anything like this? Who hath seen anything like these? Is earth caused to bring forth in one day? Born is a nation at once? For she hath been pained, Zion also hath borne her sons.
+
+**[66:9]** `Do I bring to the birth, And not cause to bring forth?' saith Jehovah, `Am not I He who is causing to beget? I have also restrained,' said thy God.
+
+**[66:10]** Rejoice ye with Jerusalem, And be glad in her, all ye loving her, Rejoice ye with her for joy, All ye are mourning for her,
+
+**[66:11]** So that ye suck, and have been satisfied, From the breast of her consolations, So that ye wring out, and have delighted yourselves From the abundance of her honour.
+
+**[66:12]** For thus said Jehovah: `Lo, I am stretching out to her peace as a river, And as an overflowing stream the honour of nations, And ye have sucked, on the side ye are carried, And on the knees ye are dandled.
+
+**[66:13]** As one whom his mother comforteth, so do I comfort you, Yea, in Jerusalem ye are comforted.
+
+**[66:14]** And ye have seen, and rejoiced hath your heart, And your bones as tender grass do flourish, And the hand of Jehovah hath been known unto His servants, And He hath been indignant with His enemies.
+
+**[66:15]** For, lo, Jehovah in fire cometh, And as a hurricane His chariots, To refresh in fury His anger, And His rebuke in flames of fire.
+
+**[66:16]** For by fire and by His sword, Doth Jehovah do judgment with all flesh. And many have been Jehovah's pierced ones.'
+
+**[66:17]** Those sanctifying and cleansing themselves at the gardens, After Ahad in the midst, Eating flesh of the sow, And of the abomination, and of the mouse, Together are consumed, An affirmation of Jehovah.
+
+**[66:18]** And I -- their works and their thoughts, I come to gather all the nations and tongues, And they have come and seen My honour.
+
+**[66:19]** And I have set among them a sign, And have sent out of them those escaping unto the nations, (Tarshish, Pul, and Lud, drawing bow, Tubal and Javan, the isles that are far off,) Who have not heard My fame, nor seen Mine honour, And they have declared Mine honour among nations.
+
+**[66:20]** And they have brought all your brethren out of all the nations, A present to Jehovah, On horses, and on chariot, and on litters, And on mules, and on dromedaries, Unto My holy mountain Jerusalem, said Jehovah, As the sons of Israel bring the present in a clean vessel, Into the house of Jehovah.
+
+**[66:21]** And also of them I take for priests, For Levites, said Jehovah.
+
+**[66:22]** For, as the new heavens and the new earth that I am making, Are standing before Me, An affirmation of Jehovah! So remain doth your seed and your name.
+
+**[66:23]** And it hath been from month to month, And from sabbath to sabbath, Come do all flesh to bow themselves before Me, Said Jehovah.
+
+**[66:24]** And they have gone forth, And looked on the carcases of the men Who are transgressing against me, For their worm dieth not, And their fire is not quenched, And they have been an abhorrence to all flesh!

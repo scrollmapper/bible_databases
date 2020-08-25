@@ -1,0 +1,1759 @@
+# John - Bible in Basic English (BBE)
+
+**[1:1]** From the first he was the Word, and the Word was in relation with God and was God.
+
+**[1:2]** This Word was from the first in relation with God.
+
+**[1:3]** All things came into existence through him, and without him nothing was.
+
+**[1:4]** What came into existence in him was life, and the life was the light of men.
+
+**[1:5]** And the light goes on shining in the dark; it is not overcome by the dark.
+
+**[1:6]** There was a man sent from God, whose name was John.
+
+**[1:7]** He came for witness, to give witness about the light, so that all men might have faith through him.
+
+**[1:8]** He himself was not the light: he was sent to give witness about the light.
+
+**[1:9]** The true light, which gives light to every man, was then coming into the world.
+
+**[1:10]** He was in the world, the world which came into being through him, but the world had no knowledge of him.
+
+**[1:11]** He came to the things which were his and his people did not take him to their hearts.
+
+**[1:12]** To all those who did so take him, however, he gave the right of becoming children of God--that is, to those who had faith in his name:
+
+**[1:13]** Whose birth was from God and not from blood, or from an impulse of the flesh and man's desire.
+
+**[1:14]** And so the Word became flesh and took a place among us for a time; and we saw his glory--such glory as is given to an only son by his father--saw it to be true and full of grace.
+
+**[1:15]** John gave witness about him, crying, This is he of whom I said, He who is coming after me is put over me because he was in existence before me.
+
+**[1:16]** From his full measure we have all been given grace on grace.
+
+**[1:17]** For the law was given through Moses; grace and the true way of life are ours through Jesus Christ.
+
+**[1:18]** No man has seen God at any time; the only Son, who is on the breast of the Father, he has made clear what God is.
+
+**[1:19]** And this is the witness of John when the Jews sent priests and Levites from Jerusalem to him with the question, Who are you?
+
+**[1:20]** He said quite openly and straightforwardly, I am not the Christ.
+
+**[1:21]** And they said to him, What then? Are you Elijah? And he said, I am not. Are you the prophet? And his answer was, I am not.
+
+**[1:22]** So they said to him, Who are you then? We have to give some answer to those who sent us. What have you to say about yourself?
+
+**[1:23]** He said, I am the voice of one crying in the waste land, Make straight the way of the Lord, as said Isaiah the prophet.
+
+**[1:24]** Those who had been sent came from the Pharisees.
+
+**[1:25]** And they put this question to him, saying, Why then are you giving baptism if you are not the Christ, or Elijah, or the prophet?
+
+**[1:26]** John's answer was: I give baptism with water; but there is one among you of whom you have no knowledge;
+
+**[1:27]** It is he who is coming after me; I am not good enough to undo his shoes.
+
+**[1:28]** These things took place at Bethany on the other side of the Jordan, where John was giving baptism.
+
+**[1:29]** The day after, John sees Jesus coming to him and says, See, here is the Lamb of God who takes away the sin of the world!
+
+**[1:30]** This is he of whom I said, One is coming after me who is put over me because he was in existence before me.
+
+**[1:31]** I myself had no knowledge of him, but I came giving baptism with water so that he might be seen openly by Israel.
+
+**[1:32]** And John gave this witness, saying, I saw the Spirit coming down from heaven like a dove and resting on him.
+
+**[1:33]** I had no knowledge who he was, but he who sent me to give baptism with water said to me, The one on whom you see the Spirit coming down and resting, it is he who gives baptism with the Holy Spirit.
+
+**[1:34]** This I saw myself and my witness is that he is the Son of God.
+
+**[1:35]** The day after, John was there again with two of his disciples;
+
+**[1:36]** And looking at Jesus while he was walking he said, See, there is the Lamb of God!
+
+**[1:37]** Hearing what he said, the two disciples went after Jesus.
+
+**[1:38]** And Jesus, turning round, saw them coming after him and said to them, What are you looking for? They said to him, Rabbi (which is to say, Master), where are you living?
+
+**[1:39]** He said to them, Come and see. They went with him then and saw where he was living; and they were with him all that day: it was then about the tenth hour of the day.
+
+**[1:40]** Andrew, Simon Peter's brother, was one of the two men who, hearing what John said, went after Jesus.
+
+**[1:41]** Early in the morning he came across his brother and said to him, We have made discovery! It is the Messiah! (which is to say, the Christ).
+
+**[1:42]** And he took him to Jesus. Looking at him fixedly Jesus said, You are Simon, the son of John; your name will be Cephas (which is to say, Peter).
+
+**[1:43]** The day after this, Jesus had a desire to go into Galilee. He came across Philip and said to him, Come and be my disciple.
+
+**[1:44]** Now Philip's town was Beth-saida, where Andrew and Peter came from.
+
+**[1:45]** Philip came across Nathanael and said to him, We have made a discovery! It is he of whom Moses, in the law, and the prophets were writing, Jesus of Nazareth, the son of Joseph.
+
+**[1:46]** Nazareth! said Nathanael, Is it possible for any good to come out of Nazareth? Philip said to him, Come and see.
+
+**[1:47]** Jesus saw Nathanael coming to him and said of him, See, here is a true son of Israel in whom there is nothing false.
+
+**[1:48]** Nathanael said to him, Where did you get knowledge of me? In answer Jesus said, Before Philip was talking with you, while you were still under the fig-tree, I saw you.
+
+**[1:49]** Nathanael said to him, Rabbi, you are the Son of God, you are King of Israel!
+
+**[1:50]** In answer Jesus said to him, You have faith because I said to you, I saw you under the fig-tree. You will see greater things than these.
+
+**[1:51]** And he said to him, Truly I say to you all, You will see heaven opening and God's angels going up and coming down on the Son of man.
+
+**[2:1]** On the third day two people were going to be married at Cana in Galilee. The mother of Jesus was there:
+
+**[2:2]** And Jesus with his disciples came as guests.
+
+**[2:3]** When they had not enough wine, the mother of Jesus said to him, They have no wine.
+
+**[2:4]** Jesus said to her, Woman, this is not your business; my time is still to come.
+
+**[2:5]** His mother said to the servants, Whatever he says to you, do it.
+
+**[2:6]** Now six pots of stone, every one taking two or three firkins of water, were placed there for the purpose of washing, as is the way of the Jews.
+
+**[2:7]** Jesus said to the servants, Make the pots full of water. And they made them full to the top.
+
+**[2:8]** Then he said to them, Now take some, and give it to the master of the feast. So they took it to him.
+
+**[2:9]** After tasting the water which had now become wine, the master of the feast (having no idea where it came from, though it was clear to the servants who took the water out) sent for the newly-married man,
+
+**[2:10]** And said to him, Every man first puts out his best wine and when all have had enough he puts out what is not so good; but you have kept the good wine till now.
+
+**[2:11]** This, the first of his signs, Jesus did at Cana in Galilee and let his glory be seen openly; and his disciples put their faith in him.
+
+**[2:12]** After this he went down to Capernaum, with his mother, his brothers, and his disciples, and they were there not more than two or three days.
+
+**[2:13]** The time of the Passover of the Jews was near and Jesus went up to Jerusalem.
+
+**[2:14]** And there in the Temple he saw men trading in oxen and sheep and doves, and he saw the changers of money in their seats:
+
+**[2:15]** And he made a whip of small cords and put them all out of the Temple, with the sheep and the oxen, sending in all directions the small money of the changers and overturning their tables;
+
+**[2:16]** And to those who were trading in doves he said, Take these things away; do not make my Father's house a market.
+
+**[2:17]** And it came to the minds of the disciples that the Writings say, I am on fire with passion for your house.
+
+**[2:18]** Then the Jews put this question to him: What sign of authority have you to give us, seeing that you do these things?
+
+**[2:19]** And Jesus said to them, Send destruction on this Temple and I will put it up again in three days.
+
+**[2:20]** The Jews said, The building of this Temple took forty-six years; and you will put it up in three days!
+
+**[2:21]** But his words were about that holy building which was his body.
+
+**[2:22]** So when he had come back again from the dead, the memory of these words came back to the disciples, and they had faith in the holy Writings and in the word which Jesus had said.
+
+**[2:23]** Now while he was in Jerusalem at the feast of the Passover, a great number of people came to have faith in his name, after seeing the signs which he did.
+
+**[2:24]** But Jesus did not have faith in them, because he had knowledge of them all.
+
+**[2:25]** He had no need for any witness about man; for he himself had knowledge of what was in man.
+
+**[3:1]** Now there was among the Pharisees a man named Nicodemus, who was one of the rulers of the Jews.
+
+**[3:2]** He came to Jesus by night and said to him, Rabbi, we are certain that you have come from God as a teacher, because no man would be able to do these signs which you do if God was not with him.
+
+**[3:3]** Jesus said to him, Truly, I say to you, Without a new birth no man is able to see the kingdom of God.
+
+**[3:4]** Nicodemus said to him, How is it possible for a man to be given birth when he is old? Is he able to go into his mother's body a second time and come to birth again?
+
+**[3:5]** Jesus said in answer, Truly, I say to you, If a man's birth is not from water and from the Spirit, it is not possible for him to go into the kingdom of God.
+
+**[3:6]** That which has birth from the flesh is flesh, and that which has birth from the Spirit is spirit.
+
+**[3:7]** Do not be surprised that I say to you, It is necessary for you to have a second birth.
+
+**[3:8]** The wind goes where its pleasure takes it, and the sound of it comes to your ears, but you are unable to say where it comes from and where it goes: so it is with everyone whose birth is from the Spirit.
+
+**[3:9]** And Nicodemus said to him, How is it possible for these things to be?
+
+**[3:10]** And Jesus, answering, said, Are you the teacher of Israel and have no knowledge of these things?
+
+**[3:11]** Truly, I say to you, We say that of which we have knowledge; we give witness of what we have seen; and you do not take our witness to be true.
+
+**[3:12]** If you have no belief when my words are about the things of earth, how will you have belief if my words are about the things of heaven?
+
+**[3:13]** And no one has ever gone up to heaven but he who came down from heaven, the Son of man.
+
+**[3:14]** As the snake was lifted up by Moses in the waste land, even so it is necessary for the Son of man to be lifted up:
+
+**[3:15]** So that whoever has faith may have in him eternal life.
+
+**[3:16]** For God had such love for the world that he gave his only Son, so that whoever has faith in him may not come to destruction but have eternal life.
+
+**[3:17]** God did not send his Son into the world to be judge of the world; he sent him so that the world might have salvation through him.
+
+**[3:18]** The man who has faith in him does not come up to be judged; but he who has no faith in him has been judged even now, because he has no faith in the name of the only Son of God.
+
+**[3:19]** And this is the test by which men are judged: the light has come into the world and men have more love for the dark than for the light, because their acts are evil.
+
+**[3:20]** The light is hated by everyone whose acts are evil and he does not come to the light for fear that his acts will be seen.
+
+**[3:21]** But he whose life is true comes to the light, so that it may be clearly seen that his acts have been done by the help of God.
+
+**[3:22]** After these things Jesus and his disciples went into the land of Judaea, and there he was with them for some time, giving baptism.
+
+**[3:23]** Now John was then giving baptism at Aenon near Salim, because there was much water there; and people came and were given baptism.
+
+**[3:24]** For at this time John had not been put into prison.
+
+**[3:25]** Then a question came up between John's disciples and a Jew about washing.
+
+**[3:26]** And they went to John and said to him, Rabbi, the man who was with you on the other side of the Jordan, the man to whom you gave witness, is now giving baptism, and everyone is going to him.
+
+**[3:27]** And this was John's answer: A man is unable to have anything if it is not given to him from heaven.
+
+**[3:28]** You yourselves give witness that I said, I am not the Christ. What I said was, I am sent before the Christ.
+
+**[3:29]** He who has the bride is the husband: but the husband's friend, whose place is by his side and whose ears are open to him, is full of joy because of the husband's voice: such is my joy, and it is complete.
+
+**[3:30]** He has to become greater while I become less.
+
+**[3:31]** He who comes from heaven is greater than all others: he who comes from earth is of the earth, and of the earth are his words: he who comes from heaven is over all.
+
+**[3:32]** He gives witness of what he has seen and of what has come to his ears; and no man takes his witness as true.
+
+**[3:33]** He who so takes his witness has made clear his faith that God is true.
+
+**[3:34]** For he whom God has sent says God's words; and God does not give him the Spirit by measure.
+
+**[3:35]** The Father has love for the Son and has put all things into his hands.
+
+**[3:36]** He who has faith in the Son has eternal life; but he who has not faith in the Son will not see life; God's wrath is resting on him.
+
+**[4:1]** Now when it was clear to the Lord that word had come to the ears of the Pharisees that Jesus was making more disciples than John and was giving them baptism
+
+**[4:2]** (Though, in fact, it was his disciples who gave baptism, not Jesus himself),
+
+**[4:3]** He went out of Judaea into Galilee again.
+
+**[4:4]** And it was necessary for him to go through Samaria.
+
+**[4:5]** So he came to a town of Samaria which was named Sychar, near to the bit of land which Jacob gave to his son Joseph:
+
+**[4:6]** Now Jacob's fountain was there. Jesus, being tired after his journey, was resting by the fountain. It was about the sixth hour.
+
+**[4:7]** A woman of Samaria came to get water, and Jesus said to her, Give me some water.
+
+**[4:8]** For his disciples had gone to the town to get food.
+
+**[4:9]** The woman of Samaria said to him, Why do you, a Jew, make a request for water to me, a woman of Samaria? She said this because Jews have nothing to do with the people of Samaria.
+
+**[4:10]** In answer Jesus said, If you had knowledge of what God gives freely and who it is who says to you, Give me water, you would make your prayer to him, and he would give you living water.
+
+**[4:11]** The woman said to him, Sir, you have no vessel and the fountain is deep; from where will you get the living water?
+
+**[4:12]** Are you greater than our father Jacob who gave us the fountain and took the water of it himself, with his children and his cattle?
+
+**[4:13]** Jesus said to her, Everyone who takes this water will be in need of it again:
+
+**[4:14]** But whoever takes the water I give him will never be in need of drink again; for the water I give him will become in him a fountain of eternal life.
+
+**[4:15]** The woman said to him, Sir, give me this water, so that I may not be in need again of drink and will not have to come all this way for it.
+
+**[4:16]** Jesus said to her, Go, get your husband and come back here with him.
+
+**[4:17]** In answer, the woman said, I have no husband. Jesus said to her, You have said rightly, I have no husband:
+
+**[4:18]** You have had five husbands, and the man you have now is not your husband: that was truly said.
+
+**[4:19]** The woman said to him, Sir, I see that you are a prophet.
+
+**[4:20]** Our fathers gave worship on this mountain, but you Jews say that the right place for worship is in Jerusalem.
+
+**[4:21]** Jesus said to her, Woman, take my word for this; the time is coming when you will not give worship to the Father on this mountain or in Jerusalem.
+
+**[4:22]** You give worship, but without knowledge of what you are worshipping: we give worship to what we have knowledge of: for salvation comes from the Jews.
+
+**[4:23]** But the time is coming, and is even now here, when the true worshippers will give worship to the Father in the true way of the spirit, for these are the worshippers desired by the Father.
+
+**[4:24]** God is Spirit: then let his worshippers give him worship in the true way of the spirit.
+
+**[4:25]** The woman said to him, I am certain that the Messiah, who is named Christ, is coming; when he comes he will make all things clear to us.
+
+**[4:26]** Jesus said to her, I, who am talking to you, am he.
+
+**[4:27]** At that point the disciples came back, and they were surprised to see him talking to a woman; but not one of them said to him, What is your purpose? or, Why are you talking to her?
+
+**[4:28]** Then the woman put down her water-pot and went into the town, and said to the people,
+
+**[4:29]** Come and see a man who has been talking to me of everything I ever did! Is it possible that this is the Christ?
+
+**[4:30]** So they went out of the town and came to him.
+
+**[4:31]** While this was taking place, the disciples were saying to Jesus, Master, take some food.
+
+**[4:32]** But he said to them, I have food of which you have no knowledge.
+
+**[4:33]** So the disciples said one to another, Did anyone give him food?
+
+**[4:34]** Jesus said, My food is to do the pleasure of him who sent me and to make his work complete.
+
+**[4:35]** You would say, Four months from now is the time of the grain-cutting. Take a look, I say to you, at the fields; they are even now white for cutting.
+
+**[4:36]** He who does the cutting now has his reward; he is getting together fruit for eternal life, so that he who did the planting and he who gets in the grain may have joy together.
+
+**[4:37]** In this the saying is a true one, One does the planting, and another gets in the grain.
+
+**[4:38]** I sent you to get in grain which you had no hand in planting: other men did that work, and you take the reward.
+
+**[4:39]** Now a number of the people of that town had faith in him because of the woman's witness: He has been talking to me of everything I ever did.
+
+**[4:40]** So when the people came to him they made request to him to be among them for a time, and he was there two days.
+
+**[4:41]** And a great number more of them came to have faith in him because of what he himself said.
+
+**[4:42]** And they said to the woman, Now we have faith, but not because of your story: we ourselves have given ear to his words, and we are certain that he is truly the Saviour of the world.
+
+**[4:43]** And after the two days he went on from there into Galilee.
+
+**[4:44]** For Jesus himself said that a prophet has no honour in the country of his birth.
+
+**[4:45]** So when he came into Galilee, the Galilaeans took him to their hearts because of the things which they had seen him do in Jerusalem at the feast--they themselves having been there at the feast.
+
+**[4:46]** So he came to Cana in Galilee, where he had made the water wine. And there was a certain man of high position whose son was ill at Capernaum.
+
+**[4:47]** When it came to his ears that Jesus had come from Judaea into Galilee, he went to him and made a request that he would come down to his son, who was near to death, and make him well.
+
+**[4:48]** Then Jesus said to him, You will not have faith if you do not see signs and wonders.
+
+**[4:49]** The man said, Sir, come down before my boy is dead.
+
+**[4:50]** And Jesus said, Go in peace; your son is living. The man had faith in the word which Jesus said to him and went away.
+
+**[4:51]** And while he was going down, his servants came to him and said, Your boy is living.
+
+**[4:52]** So he put a question to them as to the hour when he became better; and they said to him, The disease went from him yesterday at the seventh hour.
+
+**[4:53]** It was clear then to the father that this was the very time at which Jesus said to him, Your son is living. And he had faith in Jesus, he and all his family.
+
+**[4:54]** Now this is the second sign which Jesus did after he had come out of Judaea into Galilee.
+
+**[5:1]** After these things there was a feast of the Jews, and Jesus went up to Jerusalem.
+
+**[5:2]** Now in Jerusalem near the sheep-market there is a public bath which in Hebrew is named Beth-zatha. It has five doorways.
+
+**[5:3]** In these doorways there were a great number of people with different diseases: some unable to see, some without the power of walking, some with wasted bodies.
+
+**[5:4]** []
+
+**[5:5]** One man was there who had been ill for thirty-eight years.
+
+**[5:6]** When Jesus saw him there on the floor it was clear to him that he had been now a long time in that condition, and so he said to the man, Is it your desire to get well?
+
+**[5:7]** The ill man said in answer, Sir, I have nobody to put me into the bath when the water is moving; and while I am on the way down some other person gets in before me.
+
+**[5:8]** Jesus said to him, Get up, take your bed and go.
+
+**[5:9]** And the man became well straight away, and took up his bed and went. Now that day was the Sabbath.
+
+**[5:10]** So the Jews said to the man who had been made well, It is the Sabbath; and it is against the law for you to take up your bed.
+
+**[5:11]** He said to them, But he who made me well, said to me, Take up your bed and go.
+
+**[5:12]** Then they put to him the question: Who is the man who said to you, Take it up and go?
+
+**[5:13]** Now he who had been made well had no knowledge who it was, Jesus having gone away because of the number of people who were in that place.
+
+**[5:14]** After a time Jesus came across him in the Temple and said to him, See, you are well and strong; do no more sin for fear a worse thing comes to you.
+
+**[5:15]** The man went away and said to the Jews that it was Jesus who had made him well.
+
+**[5:16]** And for this reason the Jews were turned against Jesus, because he was doing these things on the Sabbath.
+
+**[5:17]** But his answer was: My Father is still working even now, and so I am working.
+
+**[5:18]** For this cause the Jews had an even greater desire to put Jesus to death, because not only did he not keep the Sabbath but he said God was his Father, so making himself equal with God.
+
+**[5:19]** So Jesus made answer and said, Truly I say to you, The Son is not able to do anything himself; he is able to do only what he sees the Father doing; whatever the Father does the Son does it in the same way.
+
+**[5:20]** For the Father has love for the Son and lets him see everything which he does: and he will let him see greater works than these so that you may be full of wonder.
+
+**[5:21]** In the same way, as the Father gives life to the dead, even so the Son gives life to those to whom he is pleased to give it.
+
+**[5:22]** The Father is not the judge of men, but he has given all decisions into the hands of the Son;
+
+**[5:23]** So that all men may give honour to the Son even as they give honour to the Father. He who gives no honour to the Son gives no honour to the Father who sent him.
+
+**[5:24]** Truly I say to you, The man whose ears are open to my word and who has faith in him who sent me, has eternal life; he will not be judged, but has come from death into life.
+
+**[5:25]** Truly I say to you, The time is coming, it has even now come, when the voice of the Son of God will come to the ears of the dead, and those hearing it will have life.
+
+**[5:26]** For even as the Father has life in himself, so he has given to the Son to have life in himself.
+
+**[5:27]** And he has given him authority to be judge because he is the Son of man.
+
+**[5:28]** Do not be surprised at this: for the time is coming when his voice will come to all who are in the place of the dead,
+
+**[5:29]** And they will come out; those who have done good, into the new life; and those who have done evil, to be judged.
+
+**[5:30]** Of myself I am unable to do anything: as the voice comes to me so I give a decision: and my decision is right because I have no desire to do what is pleasing to myself, but only what is pleasing to him who sent me.
+
+**[5:31]** If I gave witness about myself, my witness would not be true.
+
+**[5:32]** There is another who gives witness about me and I am certain that the witness he gives about me is true.
+
+**[5:33]** You sent to John and he gave true witness.
+
+**[5:34]** But I have no need of a man's witness: I only say these things so that you may have salvation.
+
+**[5:35]** He was a burning and shining light, and for a time you were ready to be happy in his light.
+
+**[5:36]** But the witness which I have is greater than that of John: the work which the Father has given me to do, the very work which I am now doing, is a witness that the Father has sent me.
+
+**[5:37]** And the Father himself who sent me has given witness about me. Not one of you has ever given ear to his voice; his form you have not seen.
+
+**[5:38]** And you have not kept his word in your hearts, because you have not faith in him whom he has sent.
+
+**[5:39]** You make search in the holy Writings, in the belief that through them you get eternal life; and it is those Writings which give witness about me.
+
+**[5:40]** And still you have no desire to come to me so that you may have life.
+
+**[5:41]** I do not take honour from men;
+
+**[5:42]** But I have knowledge of you that you have no love for God in your hearts.
+
+**[5:43]** I have come in my Father's name, and your hearts are not open to me. If another comes with no other authority but himself, you will give him your approval.
+
+**[5:44]** How is it possible for you to have faith while you take honour one from another and have no desire for the honour which comes from the only God?
+
+**[5:45]** Put out of your minds the thought that I will say things against you to the Father: the one who says things against you is Moses, on whom you put your hopes.
+
+**[5:46]** If you had belief in Moses you would have belief in me; for his writings are about me.
+
+**[5:47]** If you have no belief in his writings, how will you have belief in my words?
+
+**[6:1]** After these things Jesus went away to the other side of the sea of Galilee--that is, the sea of Tiberias.
+
+**[6:2]** And a great number of people went after him because they saw the signs which he did on those who were ill.
+
+**[6:3]** Then Jesus went up the mountain and was seated there with his disciples.
+
+**[6:4]** Now the Passover, a feast of the Jews, was near.
+
+**[6:5]** Lifting up his eyes, Jesus saw a great number of people coming to where he was, and he said to Philip, Where may we get bread for all these people?
+
+**[6:6]** This he said, testing him: for he had no doubt what he himself would do.
+
+**[6:7]** Philip made answer, Bread to the value of two hundred pence would not be enough even to give everyone a little.
+
+**[6:8]** One of his disciples, Andrew, the brother of Simon Peter, said to Jesus,
+
+**[6:9]** There is a boy here with five barley cakes and two fishes: but what is that among such a number?
+
+**[6:10]** Jesus said, Let the people be seated. Now there was much grass in that place. And those seated on the grass were about five thousand.
+
+**[6:11]** Then Jesus took the cakes and having given praise to God, he gave them to the people who were seated, and the fishes in the same way, as much as they had need of.
+
+**[6:12]** And when they had had enough, Jesus said to his disciples, Take up the broken bits which are over, so that nothing may be wasted.
+
+**[6:13]** So they took them up: twelve baskets full of broken bits of the five cakes which were over after the people had had enough.
+
+**[6:14]** And when the people saw the sign which he had done, they said, Truly, this is the prophet who is to come into the world.
+
+**[6:15]** Now when Jesus saw that the people were about to come and take him by force to make him a king, he went away again up the mountain by himself.
+
+**[6:16]** When evening came the disciples went down to the sea;
+
+**[6:17]** And they took a boat and went across the sea in the direction of Capernaum. By then it was dark and still Jesus had not come to them.
+
+**[6:18]** The sea was getting rough because of a strong wind which was blowing.
+
+**[6:19]** After they had gone three or four miles they saw Jesus walking on the sea and coming near to the boat; and they had great fear.
+
+**[6:20]** But he said to them, It is I, have no fear.
+
+**[6:21]** Then they readily took him into the boat: and straight away the boat was at the land to which they were going.
+
+**[6:22]** The day after, the people who were on the other side of the sea saw that only one small boat had been there, that Jesus had not gone in that boat with the disciples, but that the disciples had gone away by themselves.
+
+**[6:23]** Some other boats, however, came from Tiberias near to the place where they had taken the bread after the Lord had given praise.
+
+**[6:24]** So when the people saw that Jesus was not there, or his disciples, they got into those boats and went over to Capernaum looking for Jesus.
+
+**[6:25]** And when they came across him on the other side of the sea they said, Rabbi, when did you come here?
+
+**[6:26]** Jesus, answering them, said, Truly I say to you, You come after me, not because you saw signs, but because you were given the bread and had enough.
+
+**[6:27]** Let your work not be for the food which comes to an end, but for the food which goes on for eternal life, which the Son of man will give to you, for on him has God the Father put his mark.
+
+**[6:28]** Then they said to him, How may we do the works of God?
+
+**[6:29]** Jesus, answering, said to them, This is to do the work of God: to have faith in him whom God has sent.
+
+**[6:30]** So they said, What sign do you give us, so that we may see and have faith in you? What do you do?
+
+**[6:31]** Our fathers had the manna in the waste land, as the Writings say, He gave them bread from heaven.
+
+**[6:32]** Jesus then said to them, Truly I say to you, What Moses gave you was not the bread from heaven; it is my Father who gives you the true bread from heaven.
+
+**[6:33]** The bread of God is the bread which comes down out of heaven and gives life to the world.
+
+**[6:34]** Ah, Lord, they said, give us that bread for ever!
+
+**[6:35]** And this was the answer of Jesus: I am the bread of life. He who comes to me will never be in need of food, and he who has faith in me will never be in need of drink.
+
+**[6:36]** But it is as I said to you: you have seen me, and still you have no faith.
+
+**[6:37]** Whatever the Father gives to me will come to me; and I will not send away anyone who comes to me.
+
+**[6:38]** For I have come down from heaven, not to do my pleasure, but the pleasure of him who sent me.
+
+**[6:39]** And this is the pleasure of him who sent me, that I am not to let out of my hands anything which he has given me, but I am to give it new life on the last day.
+
+**[6:40]** This, I say, is my Father's pleasure, that everyone who sees the Son and has faith in him may have eternal life: and I will take him up on the last day.
+
+**[6:41]** Now the Jews said bitter things about Jesus because of his words, I am the bread which came down from heaven.
+
+**[6:42]** And they said, Is not this Jesus, the son of Joseph, whose father and mother we have seen? How is it then that he now says, I have come down from heaven?
+
+**[6:43]** Jesus made answer and said, Do not say things against me, one to another.
+
+**[6:44]** No man is able to come to me if the Father who sent me does not give him the desire to come: and I will take him up from the dead on the last day.
+
+**[6:45]** The writings of the prophets say, And they will all have teaching from God. Everyone whose ears have been open to the teaching of the Father comes to me.
+
+**[6:46]** Not that anyone has ever seen the Father; only he who is from God, he has seen the Father.
+
+**[6:47]** Truly I say to you, He who has faith in me has eternal life.
+
+**[6:48]** I am the bread of life.
+
+**[6:49]** Your fathers took the manna in the waste land--and they are dead.
+
+**[6:50]** The bread which comes from heaven is such bread that a man may take it for food and never see death.
+
+**[6:51]** I am the living bread which has come from heaven: if any man takes this bread for food he will have life for ever: and more than this, the bread which I will give is my flesh which I will give for the life of the world.
+
+**[6:52]** Then the Jews had an angry discussion among themselves, saying, How is it possible for this man to give us his flesh for food?
+
+**[6:53]** Then Jesus said to them, Truly I say to you, If you do not take the flesh of the Son of man for food, and if you do not take his blood for drink, you have no life in you.
+
+**[6:54]** He who takes my flesh for food and my blood for drink has eternal life: and I will take him up from the dead at the last day.
+
+**[6:55]** My flesh is true food and my blood is true drink.
+
+**[6:56]** He who takes my flesh for food and my blood for drink is in me and I in him.
+
+**[6:57]** As the living Father has sent me, and I have life because of the Father, even so he who takes me for his food will have life because of me.
+
+**[6:58]** This is the bread which has come down from heaven. It is not like the food which your fathers had: they took of the manna, and are dead; but he who takes this bread for food will have life for ever.
+
+**[6:59]** Jesus said these things in the Synagogue while he was teaching at Capernaum.
+
+**[6:60]** Then, hearing this, a number of his disciples said, This is a hard saying; who is able to take in such teaching?
+
+**[6:61]** When Jesus became conscious that his disciples were protesting about what he said, he said to them, Does this give you trouble?
+
+**[6:62]** What then will you say if you see the Son of man going up to where he was before?
+
+**[6:63]** The spirit is the life giver; the flesh is of no value: the words which I have said to you are spirit and they are life.
+
+**[6:64]** But still some of you have no faith. For it was clear to Jesus from the first who they were who had no faith, and who it was who would be false to him.
+
+**[6:65]** And he said, This is why I said to you, No man is able to come to me if he is not given the power to do so by the Father.
+
+**[6:66]** Because of what he said, a number of the disciples went back and would no longer go with him.
+
+**[6:67]** So Jesus said to the twelve, Have you a desire to go away?
+
+**[6:68]** Then Simon Peter gave this answer: Lord, to whom are we to go? you have the words of eternal life;
+
+**[6:69]** And we have faith and are certain that you are the Holy One of God.
+
+**[6:70]** Then Jesus said, Did I not make a selection of you, the twelve, and one of you is a son of the Evil One?
+
+**[6:71]** He was talking of Judas, the son of Simon Iscariot. It was he who was to be false to Jesus--one of the twelve.
+
+**[7:1]** After this, Jesus went from place to place in Galilee. He did not go about in Judaea, because the Jews were looking for a chance to put him to death.
+
+**[7:2]** But the feast of the Jews, the feast of tents, was near.
+
+**[7:3]** So his brothers said to him, Go away from here into Judaea so that your disciples may see the works which you do.
+
+**[7:4]** Because no man does things secretly if he has a desire that men may have knowledge of him. If you do these things, let yourself be seen by all men.
+
+**[7:5]** For even his brothers had no belief in him.
+
+**[7:6]** Jesus said to them, My time is still to come, but any time is good for you.
+
+**[7:7]** It is not possible for you to be hated by the world; but I am hated by it, because I give witness that what it does is evil.
+
+**[7:8]** Go you up to the feast: I am not going up now to the feast because my time has not fully come.
+
+**[7:9]** Having said these things to them, he still kept in Galilee.
+
+**[7:10]** But after his brothers had gone up to the feast, then he went up, not publicly, but in secret.
+
+**[7:11]** At the feast the Jews were looking for him and saying, Where is he?
+
+**[7:12]** And there was much discussion about him among the mass of the people. Some said, He is a good man; but others said, No, he is giving people false ideas.
+
+**[7:13]** But no man said anything about him openly for fear of the Jews.
+
+**[7:14]** Now in the middle of the feast Jesus went up to the Temple and was teaching.
+
+**[7:15]** Then the Jews were surprised and said, How has this man got knowledge of books? He has never been to school.
+
+**[7:16]** Jesus gave them this answer: It is not my teaching, but his who sent me.
+
+**[7:17]** If any man is ready to do God's pleasure he will have knowledge of the teaching and of where it comes from--from God or from myself.
+
+**[7:18]** The man whose words come from himself is looking for glory for himself, but he who is looking for the glory of him who sent him--that man is true and there is no evil in him.
+
+**[7:19]** Did not Moses give you the law? Even so, not one of you keeps the law. Why have you a desire to put me to death?
+
+**[7:20]** The people said in answer, You have an evil spirit: who has any desire to put you to death?
+
+**[7:21]** This was the answer of Jesus: I have done one work and you are all surprised at it.
+
+**[7:22]** Moses gave you circumcision--not that it comes from Moses, but from the fathers--and even on the Sabbath you give a child circumcision.
+
+**[7:23]** If a child is given circumcision on the Sabbath so that the law of Moses may not be broken, why are you angry with me because I made a man completely well on the Sabbath?
+
+**[7:24]** Let not your decisions be based on what you see, but on righteousness.
+
+**[7:25]** Then some of the people of Jerusalem said, Is not this the man whose death is desired?
+
+**[7:26]** And here he is talking openly and they say nothing to him! Is it possible that the rulers have knowledge that this is truly the Christ?
+
+**[7:27]** However, it is clear to us where this man comes from: but when the Christ comes no one will have knowledge where he comes from.
+
+**[7:28]** Then, when he was teaching in the Temple, Jesus said with a loud voice, You have knowledge of me and you have knowledge of where I come from; and I have not come of myself; but there is One who has sent me; he is true, but you have no knowledge of him.
+
+**[7:29]** I have knowledge of him because I came from him and he sent me.
+
+**[7:30]** Then they had a desire to take him: but no man put hands on him because his hour was still to come.
+
+**[7:31]** And numbers of the people had belief in him, and they said, When the Christ comes will he do more signs than this man has done?
+
+**[7:32]** This discussion of the people came to the ears of the Pharisees; and the chief priests and the Pharisees sent servants to take him.
+
+**[7:33]** Then Jesus said, I will be with you a little longer and then I go to him who sent me.
+
+**[7:34]** You will be looking for me, and you will not see me: and where I am you may not come.
+
+**[7:35]** So the Jews said among themselves, To what place is he going where we will not see him? will he go to the Jews living among the Greeks and become the teacher of the Greeks?
+
+**[7:36]** What is this saying of his, You will be looking for me and will not see me, and where I am you may not come?
+
+**[7:37]** On the last day, the great day of the feast, Jesus got up and said in a loud voice, If any man is in need of drink let him come to me and I will give it to him.
+
+**[7:38]** He who has faith in me, out of his body, as the Writings have said, will come rivers of living water.
+
+**[7:39]** This he said of the Spirit which would be given to those who had faith in him: the Spirit had not been given then, because the glory of Jesus was still to come.
+
+**[7:40]** When these words came to their ears, some of the people said, This is certainly the prophet.
+
+**[7:41]** Others said, This is the Christ. But others said, Not so; will the Christ come from Galilee?
+
+**[7:42]** Do not the Writings say that the Christ comes of the seed of David and from Beth-lehem, the little town where David was?
+
+**[7:43]** So there was a division among the people because of him.
+
+**[7:44]** And some of them had a desire to take him; but no man put hands on him.
+
+**[7:45]** Then the servants went back to the chief priests and Pharisees, who said to them, Why have you not got him with you?
+
+**[7:46]** The servants made answer, No man ever said things like this man.
+
+**[7:47]** Then the Pharisees said to them, Have you, like the others, been given false ideas?
+
+**[7:48]** Have any of the rulers belief in him, or any one of the Pharisees?
+
+**[7:49]** But these people who have no knowledge of the law are cursed.
+
+**[7:50]** Nicodemus--he who had come to Jesus before, being himself one of them--said to them,
+
+**[7:51]** Is a man judged by our law before it has given him a hearing and has knowledge of what he has done?
+
+**[7:52]** This was their answer: And do you come from Galilee? Make search and you will see that no prophet comes out of Galilee.
+
+**[7:53]** [And every man went to his house;
+
+**[8:1]** But Jesus went to the Mountain of Olives.
+
+**[8:2]** And early in the morning he came again into the Temple and all the people came to him and he was seated teaching them.
+
+**[8:3]** Now the scribes and Pharisees came, with a woman who had been taken in the act of sinning against the married relation;
+
+**[8:4]** And putting her forward, they said to him, Master, this woman has been taken in the very act of sinning against the married relation.
+
+**[8:5]** Now in the law Moses gave directions that such women were to be stoned; what do you say about it?
+
+**[8:6]** They said this, testing him, so that they might have something against him. But Jesus, with his head bent down, made letters on the floor with his finger.
+
+**[8:7]** But when they went on with their questions, he got up and said to them, Let him among you who is without sin be the first to send a stone at her.
+
+**[8:8]** And again, with bent head, he made letters on the floor.
+
+**[8:9]** And when his words came to their ears, they went out one by one, starting with the oldest even to the last, because they were conscious of what was in their hearts: and Jesus was there by himself with the woman before him.
+
+**[8:10]** Then Jesus got up, and seeing nobody but the woman, he said to her, Where are the men who said things against you? did no one give a decision against you?
+
+**[8:11]** And she said, No man, Lord. And Jesus said, And I do not give a decision against you: go, and never do wrong again.]
+
+**[8:12]** Then again Jesus said to them, I am the light of the world; he who comes with me will not be walking in the dark but will have the light of life.
+
+**[8:13]** So the Pharisees said to him, The witness you give is about yourself: your witness is not true.
+
+**[8:14]** Jesus said in answer, Even if I give witness about myself, my witness is true, because I have knowledge of where I came from and where I am going; but you have no knowledge of where I come from or of where I am going.
+
+**[8:15]** You are judging from what you see; I am judging no man.
+
+**[8:16]** Even if I am judging, my decision is right, because I am not by myself--with me is the Father who sent me.
+
+**[8:17]** Even in your law it is said that the witness of two men is true.
+
+**[8:18]** I give witness about myself and the Father who sent me gives witness about me.
+
+**[8:19]** Then they said to him, Where is your Father? Jesus said in answer, You have no knowledge of me or of my Father: if you had knowledge of me you would have knowledge of my Father.
+
+**[8:20]** Jesus said these words in the place where the offerings were stored, while he was teaching in the Temple: but no man took him because his time was still to come.
+
+**[8:21]** Then he said to them again, I am going away and you will be looking for me, but death will overtake you in your sins. It is not possible for you to come where I am going.
+
+**[8:22]** So the Jews said, Will he take his life? Is that why he says, Where I go it is not possible for you to come?
+
+**[8:23]** And he said to them, You are of the earth; I am from heaven: you are of this world; I am not of this world.
+
+**[8:24]** For this reason I said to you that death will overtake you in your sins: for if you have not faith that I am he, death will come to you while you are in your sins.
+
+**[8:25]** Then they said to him, Who are you? Jesus said, What I said to you from the first.
+
+**[8:26]** I have much to say about you and against you: but he who sent me is true and what he has said to me I say to the world.
+
+**[8:27]** They did not see that his words were about the Father.
+
+**[8:28]** So Jesus said, When the Son of man has been lifted up by you, then it will be clear to you who I am, and that I do nothing of myself, but say as the Father gave me teaching.
+
+**[8:29]** He who sent me is with me; he has not gone from me, because at all times I do the things which are pleasing to him.
+
+**[8:30]** When he said this a number came to have faith in him.
+
+**[8:31]** Then Jesus said to the Jews who had faith in him, If you keep my word, then you are truly my disciples;
+
+**[8:32]** And you will have knowledge of what is true, and that will make you free.
+
+**[8:33]** They said to him in answer, We are Abraham's seed and have never been any man's servant: why do you say, You will become free?
+
+**[8:34]** And this was the answer Jesus gave them: Truly I say to you, Everyone who does evil is the servant of sin.
+
+**[8:35]** Now the servant does not go on living in the house for ever, but the son does.
+
+**[8:36]** If then the son makes you free, you will be truly free.
+
+**[8:37]** I am conscious that you are Abraham's seed; but you have a desire to put me to death because my word has no place in you.
+
+**[8:38]** I say the things which I have seen in my Father's house: and you do the things which come to you from your father's house.
+
+**[8:39]** In answer they said to him, Our father is Abraham. Jesus said to them, If you were Abraham's children you would do what Abraham did.
+
+**[8:40]** But now you have a desire to put me to death, a man who has said to you what is true, as I had it from God: Abraham did not do that.
+
+**[8:41]** You are doing the works of your father. They said to him, We are true sons of Abraham; we have one Father, who is God.
+
+**[8:42]** Jesus said to them, If God was your Father you would have love for me, because it was from God I came and am here. I did not come of myself, but he sent me.
+
+**[8:43]** Why are my words not clear to you? It is because your ears are shut to my teaching.
+
+**[8:44]** You are the children of your father the Evil One and it is your pleasure to do his desires. From the first he was a taker of life; and he did not go in the true way because there is no true thing in him. When he says what is false, it is natural to him, for he is false and the father of what is false.
+
+**[8:45]** But because I say what is true, you have no belief in me.
+
+**[8:46]** Which of you is able truly to say that I am a sinner? If I say what is true, why have you no belief in me?
+
+**[8:47]** He who is a child of God gives ear to the words of God: your ears are not open to them because you are not from God.
+
+**[8:48]** The Jews said to him in answer, Are we not right in saying that you are of Samaria and have an evil spirit?
+
+**[8:49]** And this was the answer of Jesus: I have not an evil spirit; but I give honour to my Father and you do not give honour to me.
+
+**[8:50]** I, however, am not in search of glory for myself: there is One who is searching for it and he is judge.
+
+**[8:51]** Truly I say to you, If a man keeps my word he will never see death.
+
+**[8:52]** The Jews said to him, Now we are certain that you have an evil spirit. Abraham is dead, and the prophets are dead; and you say, If a man keeps my word he will never see death.
+
+**[8:53]** Are you greater than our father Abraham, who is dead? and the prophets are dead: who do you say that you are?
+
+**[8:54]** Jesus said in answer, If I take glory for myself, my glory is nothing: it is my Father who gives me glory, of whom you say that he is your God.
+
+**[8:55]** You have no knowledge of him, but I have knowledge of him; and if I said I have no knowledge of him I would be talking falsely like you: but I have full knowledge of him, and I keep his word.
+
+**[8:56]** Your father Abraham was full of joy at the hope of seeing my day: he saw it and was glad.
+
+**[8:57]** Then the Jews said to him, You are not fifty years old; have you seen Abraham?
+
+**[8:58]** Jesus said to them, Truly I say to you, Before Abraham came into being, I am.
+
+**[8:59]** So they took up stones to send at him: but Jesus got secretly out of their way and went out of the Temple.
+
+**[9:1]** And when he went on his way, he saw a man blind from birth.
+
+**[9:2]** And his disciples put a question to him, saying, Master, was it because of this man's sin, or the sin of his father and mother, that he has been blind from birth?
+
+**[9:3]** Jesus said in answer, It was not because of his sin, or because of his father's or mother's; it was so that the works of God might be seen openly in him.
+
+**[9:4]** While it is day we have to do the works of him who sent me: the night comes when no work may be done.
+
+**[9:5]** As long as I am in the world, I am the light of the world.
+
+**[9:6]** Having said these words, he put earth, mixed with water from his mouth, on the man's eyes,
+
+**[9:7]** And said to him, Go and make yourself clean in the bath of Siloam (the sense of the name is, Sent). So he went away and, after washing, came back able to see.
+
+**[9:8]** Then the neighbours and others who had seen him before in the street, with his hand out for money, said, Is not this the man who got money from people?
+
+**[9:9]** Some said, It is he: others said, No, but he is like him. He said, I am he.
+
+**[9:10]** So they said to him, How then were your eyes made open?
+
+**[9:11]** His answer was: The man who is named Jesus put earth mixed with water on my eyes, and said to me, Go and make yourself clean in Siloam: so I went away and, after washing, am now able to see.
+
+**[9:12]** And they said to him, Where is he? His answer was: I have no knowledge.
+
+**[9:13]** They took him before the Pharisees--this man who had been blind.
+
+**[9:14]** Now the day on which the earth was mixed by Jesus and the man's eyes were made open was the Sabbath.
+
+**[9:15]** So the Pharisees put more questions to him about how his eyes had been made open. And he said to them, He put earth on my eyes, and I had a wash and am able to see.
+
+**[9:16]** Then some of the Pharisees said, That man has not come from God, for he does not keep the Sabbath. Others said, How is it possible for a sinner to do such signs? So there was a division among them.
+
+**[9:17]** Again they said to the blind man, What have you to say about him for opening your eyes? And he said, He is a prophet.
+
+**[9:18]** Now the Jews had no belief in the statement that he had been blind and was now able to see, till they sent for the father and mother of the man whose eyes had been made open,
+
+**[9:19]** And put the question to them, saying, Is this your son, of whom you say that he was blind at birth? how is it then that he is now able to see?
+
+**[9:20]** In answer his father and mother said, We are certain that this is our son and that he was blind at birth:
+
+**[9:21]** But how it is he is now able to see, or who made his eyes open, we are not able to say: put the question to him; he is old enough to give an answer for himself.
+
+**[9:22]** They said this because of their fear of the Jews: for the Jews had come to an agreement that if any man said that Jesus was the Christ he would be put out of the Synagogue.
+
+**[9:23]** That was the reason why they said, He is old enough; put the question to him.
+
+**[9:24]** So they sent a second time for the man who had been blind and they said to him, Give glory to God: it is clear to us that this man is a sinner.
+
+**[9:25]** He said in answer, I have no knowledge if he is a sinner or not, but one thing I am certain about; I was blind, and now I see.
+
+**[9:26]** Then they said to him, What did he do to you? how did he give you the use of your eyes?
+
+**[9:27]** His answer was: I have said it before, but your ears were shut: why would you have me say it again? is it your desire to become his disciples?
+
+**[9:28]** And they were angry with him and said, You are his disciple, but we are disciples of Moses.
+
+**[9:29]** We are certain that God gave his word to Moses: but as for this man, we have no knowledge where he comes from.
+
+**[9:30]** The man said in answer, Why, here is a strange thing! You have no knowledge where he comes from though he gave me the use of my eyes.
+
+**[9:31]** We have knowledge that God does not give ear to sinners, but if any man is a worshipper of God and does his pleasure, to him God's ears are open.
+
+**[9:32]** In all the years nobody has ever before seen the eyes of a man blind from birth made open.
+
+**[9:33]** If this man did not come from God he would be unable to do anything.
+
+**[9:34]** Their answer was: You came to birth through sin; do you make yourself our teacher? And they put him out of the Synagogue.
+
+**[9:35]** It came to the ears of Jesus that they had put him out, and meeting him he said, Have you faith in the Son of man?
+
+**[9:36]** He said in answer, And who is he, Lord? Say, so that I may have faith in him.
+
+**[9:37]** Jesus said to him, You have seen him; it is he who is talking to you.
+
+**[9:38]** And he said, Lord, I have faith. And he gave him worship.
+
+**[9:39]** And Jesus said, I came into this world to be a judge, so that those who do not see may see, and those who see may become blind.
+
+**[9:40]** These words came to the ears of the Pharisees who were with him and they said to him, Are we, then, blind?
+
+**[9:41]** Jesus said to them, If you were blind you would have no sin: but now that you say, We see; your sin is there still.
+
+**[10:1]** Truly I say to you, He who does not go through the door into the place where the sheep are kept, but gets in by some other way, is a thief and an outlaw.
+
+**[10:2]** He who goes in by the door is the keeper of the sheep.
+
+**[10:3]** The porter lets him in; and the sheep give ear to his voice; he says over the names of the sheep, and takes them out.
+
+**[10:4]** When he has got them all out, he goes before them, and the sheep go after him, for they have knowledge of his voice.
+
+**[10:5]** They will not go after another who is not their keeper, but will go from him in flight, because his voice is strange to them.
+
+**[10:6]** In this Jesus was teaching them in the form of a story: but what he said was not clear to them.
+
+**[10:7]** So Jesus said again, Truly I say to you, I am the door of the sheep.
+
+**[10:8]** All who came before me are thieves and outlaws: but the sheep did not give ear to them.
+
+**[10:9]** I am the door: if any man goes in through me he will have salvation, and will go in and go out, and will get food.
+
+**[10:10]** The thief comes only to take the sheep and to put them to death: he comes for their destruction: I have come so that they may have life and have it in greater measure.
+
+**[10:11]** I am the good keeper of sheep: the good keeper gives his life for the sheep.
+
+**[10:12]** He who is a servant, and not the keeper or the owner of the sheep, sees the wolf coming and goes in flight, away from the sheep; and the wolf comes down on them and sends them in all directions:
+
+**[10:13]** Because he is a servant he has no interest in the sheep.
+
+**[10:14]** I am the good keeper; I have knowledge of my sheep, and they have knowledge of me,
+
+**[10:15]** Even as the Father has knowledge of me and I of the Father; and I am giving my life for the sheep.
+
+**[10:16]** And I have other sheep which are not of this field: I will be their guide in the same way, and they will give ear to my voice, so there will be one flock and one keeper.
+
+**[10:17]** For this reason am I loved by the Father, because I give up my life so that I may take it again.
+
+**[10:18]** No one takes it away from me; I give it up of myself. I have power to give it up, and I have power to take it again. These orders I have from my Father.
+
+**[10:19]** There was a division again among the Jews because of these words.
+
+**[10:20]** And a number of them said, He has an evil spirit and is out of his mind; why do you give ear to him?
+
+**[10:21]** Others said, These are not the words of one who has an evil spirit. Is it possible for an evil spirit to make blind people see?
+
+**[10:22]** Then came the feast of the opening of the Temple in Jerusalem: it was winter;
+
+**[10:23]** And Jesus was walking in the Temple, in Solomon's covered way.
+
+**[10:24]** Then the Jews came round him, saying, how long are you going to keep us in doubt? If you are the Christ, say so clearly.
+
+**[10:25]** Jesus said in answer, I have said it and you have no belief: the works which I do in my Father's name, these give witness about me.
+
+**[10:26]** But you have no belief because you are not of my sheep.
+
+**[10:27]** My sheep give ear to my voice, and I have knowledge of them, and they come after me:
+
+**[10:28]** And I give them eternal life; they will never come to destruction, and no one will ever take them out of my hand.
+
+**[10:29]** That which my Father has given to me has more value than all; and no one is able to take anything out of the Father's hand.
+
+**[10:30]** I and my Father are one.
+
+**[10:31]** Then the Jews took up stones again to send at him.
+
+**[10:32]** Jesus said to them in answer, I have let you see a number of good works from the Father; for which of those works are you stoning me?
+
+**[10:33]** This was their answer: We are not stoning you for a good work but for evil words; because being a man you make yourself God.
+
+**[10:34]** In answer, Jesus said, Is there not a saying in your law, I said, You are gods?
+
+**[10:35]** If he said they were gods, to whom the word of God came (and the Writings may not be broken),
+
+**[10:36]** Do you say of him whom the Father made holy and sent into the world, Your words are evil; because I said, I am God's Son?
+
+**[10:37]** If I am not doing the works of my Father, do not have belief in me;
+
+**[10:38]** But if I am doing them, then have belief in the works even if you have no belief in me; so that you may see clearly and be certain that the Father is in me and I am in the Father.
+
+**[10:39]** Then again they made an attempt to take him; but he got away from them.
+
+**[10:40]** And he went again to the other side of the Jordan, to the place where John first gave baptism; and he was there for a time.
+
+**[10:41]** And a great number of people came to him, saying, John did no sign: but everything John said of this man was true.
+
+**[10:42]** And a number came to have faith in him there.
+
+**[11:1]** Now a certain man named Lazarus was ill; he was of Bethany, the town of Mary and her sister Martha.
+
+**[11:2]** (The Mary whose brother Lazarus was ill, was the Mary who put perfumed oil on the Lord and made his feet dry with her hair.)
+
+**[11:3]** So the sisters sent to him, saying, Lord, your dear friend is ill.
+
+**[11:4]** When this came to his ears, Jesus said, The end of this disease is not death, but the glory of God, so that the Son of God may have glory because of it.
+
+**[11:5]** Now Jesus had love in his heart for Martha and her sister and Lazarus.
+
+**[11:6]** So when the news came to him that Lazarus was ill, he did not go from the place where he was for two days.
+
+**[11:7]** Then after that time he said to his disciples, Let us go into Judaea again.
+
+**[11:8]** The disciples said to him, Master, the Jews were attempting only the other day to have you stoned, and are you going back there again?
+
+**[11:9]** Then Jesus said in answer, Are there not twelve hours in the day? A man may go about in the day without falling, because he sees the light of this world.
+
+**[11:10]** But if a man goes about in the night, he may have a fall because the light is not in him.
+
+**[11:11]** These things said he: and after that he said to them, Lazarus our friend is at rest; but I go so that I may make him come out of his sleep.
+
+**[11:12]** Then his disciples said to him, Lord, if he is resting he will get well.
+
+**[11:13]** Jesus, however, was talking of his death: but they had the idea that he was talking about taking rest in sleep.
+
+**[11:14]** Then Jesus said to them clearly, Lazarus is dead.
+
+**[11:15]** And because of you I am glad I was not there, so that you may have faith; but let us go to him.
+
+**[11:16]** Then Thomas, who was named Didymus, said to the other disciples, Let us go so that we may be with him in death.
+
+**[11:17]** Now when Jesus came, he made the discovery that Lazarus had been put into the earth four days before.
+
+**[11:18]** Now Bethany was near to Jerusalem, about two miles away;
+
+**[11:19]** And a number of Jews had come to Martha and Mary to give them comfort about their brother.
+
+**[11:20]** When Martha had the news that Jesus was on the way, she went out to him, but Mary did not go from the house.
+
+**[11:21]** Then Martha said to Jesus, Lord, if you had been here my brother would not be dead.
+
+**[11:22]** But I am certain that, even now, whatever request you make to God, God will give it to you.
+
+**[11:23]** Jesus said to her, Your brother will come to life again.
+
+**[11:24]** Martha said to him, I am certain that he will come to life again when all come back from the dead at the last day.
+
+**[11:25]** Jesus said to her, I am myself that day and that life; he who has faith in me will have life even if he is dead;
+
+**[11:26]** And no one who is living and has faith in me will ever see death. Is this your faith?
+
+**[11:27]** She said to him, Yes, Lord: my faith is that you are the Christ, the Son of God, who was to come into the world.
+
+**[11:28]** And having said this, she went away and said secretly to her sister Mary, The Master is here and has sent for you.
+
+**[11:29]** And Mary, hearing this, got up quickly and went to him.
+
+**[11:30]** Now Jesus had not at this time come into the town, but was still in the place where Martha had seen him.
+
+**[11:31]** Then the Jews who were with her in the house, comforting her, when they saw Mary get up quickly and go out, went after her in the belief that she was going to the place of the dead and would be weeping there.
+
+**[11:32]** When Mary came to where Jesus was and saw him, she went down at his feet, saying, Lord, if you had been here my brother would not be dead.
+
+**[11:33]** And when Jesus saw her weeping, and saw the Jews weeping who came with her, his spirit was moved and he was troubled,
+
+**[11:34]** And said, Where have you put him? They said, Come and see, Lord.
+
+**[11:35]** And Jesus himself was weeping.
+
+**[11:36]** So the Jews said, See how dear he was to him!
+
+**[11:37]** But some of them said, This man, who made open the eyes of the blind man, was he not able to keep his friend from death?
+
+**[11:38]** So Jesus, deeply troubled in heart, came to the place of the dead. It was a hole in the rock, and a stone was over the opening.
+
+**[11:39]** Jesus said, Take away the stone. Martha, the sister of him who was dead, said, Lord, by this time the body will be smelling, for he has been dead four days.
+
+**[11:40]** Jesus said to her, Did I not say to you that if you had faith you would see the glory of God?
+
+**[11:41]** So they took away the stone. And Jesus, looking up to heaven, said, Father, I give praise to you for hearing me.
+
+**[11:42]** I was certain that your ears are at all times open to me, but I said it because of these who are here, so that they may see that you sent me.
+
+**[11:43]** Then he said in a loud voice, Lazarus, come out!
+
+**[11:44]** And he who was dead came out, with linen bands folded tightly about his hands and feet, and a cloth about his face. Jesus said to them, Make him free and let him go.
+
+**[11:45]** Then a number of the Jews who had come to Mary and had seen the things which Jesus did had belief in him.
+
+**[11:46]** But some of them went to the Pharisees with the news of what Jesus had done.
+
+**[11:47]** Then the high priests and the Pharisees had a meeting and said, What are we doing? This man is doing a number of signs.
+
+**[11:48]** If we let him go on in this way, everybody will have belief in him and the Romans will come and take away our place and our nation.
+
+**[11:49]** But one of them, Caiaphas, who was high priest that year, said to them, You have no knowledge of anything;
+
+**[11:50]** You do not see that it is in your interest for one man to be put to death for the people, so that all the nation may not come to destruction.
+
+**[11:51]** He did not say this of himself, but being the high priest that year he said, as a prophet, that Jesus would be put to death for the nation;
+
+**[11:52]** And not for that nation only, but for the purpose of uniting in one body the children of God all over the world.
+
+**[11:53]** And from that day they took thought together how to put him to death.
+
+**[11:54]** So Jesus no longer went about publicly among the Jews, but went from there into the country near to the waste land, to a town named Ephraim, where he was for some time with the disciples.
+
+**[11:55]** Now the Passover of the Jews was near, and numbers of people went up from the country to Jerusalem to make themselves clean before the Passover.
+
+**[11:56]** They were looking for Jesus and saying to one another while they were in the Temple, What is your opinion? Will he not come to the feast?
+
+**[11:57]** Now the chief priests and the Pharisees had given orders that if anyone had knowledge where he was, he was to give them word, so that they might take him.
+
+**[12:1]** Then, six days before the Passover, Jesus came to Bethany where Lazarus was, whom Jesus had made to come back from the dead.
+
+**[12:2]** So they made him a meal there, and he was waited on by Martha, and Lazarus was among those who were seated with him at table.
+
+**[12:3]** Then Mary, taking a pound of perfumed oil of great value, put it on the feet of Jesus and made them dry with her hair: and the house became full of the smell of the perfume.
+
+**[12:4]** But one of his disciples, Judas Iscariot (who was to give him up), said,
+
+**[12:5]** Why was not this perfume traded for three hundred pence, and the money given to the poor?
+
+**[12:6]** (He said this, not because he had any love for the poor; but because he was a thief, and, having the money-bag, took for himself what was put into it.)
+
+**[12:7]** Then Jesus said, Let her be. Let her keep what she has for the day of my death.
+
+**[12:8]** The poor you have ever with you, but me you have not for ever.
+
+**[12:9]** Then a great number of the Jews had news that he was there: and they came, not only because of Jesus, but so that they might see Lazarus who had been dead and to whom he had given life.
+
+**[12:10]** Now there was talk among the chief priests of putting Lazarus to death;
+
+**[12:11]** For because of him a great number of the Jews went away and had belief in Jesus.
+
+**[12:12]** The day after, a great number of people who were there for the feast, when they had the news that Jesus was coming to Jerusalem,
+
+**[12:13]** Took branches of palm-trees and went out to him, crying, A blessing on him who comes in the name of the Lord, the King of Israel!
+
+**[12:14]** And Jesus saw a young ass and took his seat on it; as the Writings say,
+
+**[12:15]** Have no fear, daughter of Zion: see your King is coming, seated on a young ass.
+
+**[12:16]** (These things were not clear to his disciples at first: but when Jesus had been lifted up into his glory, then it came to their minds that these things in the Writings were about him and that they had been done to him.)
+
+**[12:17]** Now the people who were with him when his voice came to Lazarus in the place of the dead, and gave him life again, had been talking about it.
+
+**[12:18]** And that was the reason the people went out to him, because it had come to their ears that he had done this sign.
+
+**[12:19]** Then the Pharisees said one to another, You see, you are unable to do anything: the world has gone after him.
+
+**[12:20]** Now there were some Greeks among the people who had come up to give worship at the feast:
+
+**[12:21]** They came to Philip, who was of Beth-saida in Galilee, and made a request, saying, Sir, we have a desire to see Jesus.
+
+**[12:22]** Philip went and gave word of it to Andrew; and Andrew went with Philip to Jesus.
+
+**[12:23]** And Jesus said to them in answer, The hour of the glory of the Son of man has come.
+
+**[12:24]** Truly I say to you, If a seed of grain does not go into the earth and come to an end, it is still a seed and no more; but through its death it gives much fruit.
+
+**[12:25]** He who is in love with life will have it taken from him; and he who has no care for his life in this world will keep it for ever and ever.
+
+**[12:26]** If any man is my servant, let him come after me; and where I am, there will my servant be. If any man becomes my servant, my Father will give him honour.
+
+**[12:27]** Now is my soul troubled; and what am I to say? Father, keep me from this hour. No: for this purpose have I come to this hour.
+
+**[12:28]** Father, give glory to your name. Then there came a voice out of heaven, saying, I have given it glory, and I will give it glory again.
+
+**[12:29]** Hearing the sound, a number of people who were there said that it was thunder: others said, An angel was talking to him.
+
+**[12:30]** Jesus said in answer, This voice came not for me but for you.
+
+**[12:31]** Now is this world to be judged: now will the ruler of this world be sent out.
+
+**[12:32]** And I, if I am lifted up from the earth, will make all men come to me.
+
+**[12:33]** (This he said, pointing to the sort of death he would have.)
+
+**[12:34]** Then the people in answer said to him, The law says that the Christ will have life without end: how say you then that it is necessary for the Son of man to be lifted up? Who is this Son of man?
+
+**[12:35]** Jesus said to them, For a little time longer the light will be among you; while you have the light go on walking in it, so that the dark may not overtake you: one walking in the dark has no knowledge of where he is going.
+
+**[12:36]** In so far as you have the light, put your faith in the light so that you may become sons of light. With these words Jesus went away and for a time was not seen again by them.
+
+**[12:37]** But though he had done such a number of signs before them, they still had no belief in him:
+
+**[12:38]** So that the words of the prophet Isaiah might come true, when he said, Lord, who has any belief in our preaching? and the arm of the Lord, to whom has it been unveiled?
+
+**[12:39]** For this reason they were unable to have belief, because Isaiah said again,
+
+**[12:40]** He has made their eyes blind, and their hearts hard; for fear that they might see with their eyes and get knowledge with their hearts, and be changed, and I might make them well.
+
+**[12:41]** (Isaiah said these words because he saw his glory. His words were about him.)
+
+**[12:42]** However, a number even of the rulers had belief in him, but because of the Pharisees they did not say so openly for fear that they might be shut out from the Synagogue:
+
+**[12:43]** For the praise of men was dearer to them than the approval of God.
+
+**[12:44]** Then Jesus said with a loud voice, He who has faith in me, has faith not in me, but in him who sent me.
+
+**[12:45]** And he who sees me, sees him who sent me.
+
+**[12:46]** I have come as a light into the world, so that no one who has faith in me will go on living in the dark.
+
+**[12:47]** And if any man gives ear to my words and does not keep them, I am not his judge: I did not come to be judge of the world but to give salvation to the world.
+
+**[12:48]** He who puts me on one side and does not take my words to heart, is not without a judge: the word which I have said will be his judge on the last day.
+
+**[12:49]** For I have not said it on my authority, but the Father who sent me gave me orders what to say and how to say it.
+
+**[12:50]** And I have knowledge that his order is eternal life: so that the things which I say, I say them even as the Father says them to me.
+
+**[13:1]** Now before the feast of the Passover, it was clear to Jesus that the time had come for him to go away from this world to the Father. Having once had love for those in the world who were his, his love for them went on to the end.
+
+**[13:2]** So while a meal was going on, the Evil One having now put it into the heart of Judas Iscariot, Simon's son, to be false to him,
+
+**[13:3]** Jesus, being conscious that the Father had put everything into his hands, and that he came from God and was going to God,
+
+**[13:4]** Got up from table, put off his robe and took a cloth and put it round him.
+
+**[13:5]** Then he put water into a basin and was washing the feet of the disciples and drying them with the cloth which was round him.
+
+**[13:6]** So he came to Simon Peter. Peter said, Lord, are my feet to be washed by you?
+
+**[13:7]** And Jesus, answering, said to him, What I do is not clear to you now, but it will be clear to you in time to come.
+
+**[13:8]** Peter said, I will never let my feet be washed by you, never. Jesus said in answer, If I do not make you clean you have no part with me.
+
+**[13:9]** Simon Peter said to him, Lord, not my feet only, but my hands and my head.
+
+**[13:10]** Jesus said to him, He who is bathed has need only to have his feet washed and then he is clean all over: and you, my disciples, are clean, but not all of you.
+
+**[13:11]** (He had knowledge who was false to him; that is why he said, You are not all clean.)
+
+**[13:12]** Then, after washing their feet and putting on his robe again, he took his seat and said to them, Do you see what I have done to you?
+
+**[13:13]** You give me the name of Master and Lord: and you are right; that is what I am.
+
+**[13:14]** If then I, the Lord and the Master, have made your feet clean, it is right for you to make one another's feet clean.
+
+**[13:15]** I have given you an example, so that you may do what I have done to you.
+
+**[13:16]** Truly I say to you, A servant is not greater than his lord; and he who is sent is not greater than the one who sent him.
+
+**[13:17]** If these things are clear to you, happy are you if you do them.
+
+**[13:18]** I am not talking of you all: I have knowledge of my true disciples, but things are as they are, so that the Writings may come true, The foot of him who takes bread with me is lifted up against me.
+
+**[13:19]** From this time forward, I give you knowledge of things before they come about, so that when they come about you may have belief that I am he.
+
+**[13:20]** Truly I say to you, He who takes to his heart anyone whom I send, takes me to his heart; and he who so takes me, takes him who sent me.
+
+**[13:21]** When Jesus had said this he was troubled in spirit, and gave witness, saying, Truly I say to you, that one of you will be false to me.
+
+**[13:22]** Then the eyes of the disciples were turned on one another, in doubt as to whom he had in mind.
+
+**[13:23]** There was at table one of his disciples, the one dear to Jesus, resting his head on Jesus' breast.
+
+**[13:24]** Making a sign to him, Simon Peter said, Who is it he is talking about?
+
+**[13:25]** He, then, resting his head on Jesus' breast, said to him, Lord, who is it?
+
+**[13:26]** This was the answer Jesus gave: It is the one to whom I will give this bit of bread after I have put it in the vessel. Then he took the bit of bread, put it into the vessel, and gave it to Judas, the son of Simon Iscariot.
+
+**[13:27]** And when Judas took the bread Satan went into him. Then Jesus said to him, Do quickly what you have to do.
+
+**[13:28]** Now it was not clear to anyone at table why he said this to him.
+
+**[13:29]** Some were of the opinion that because Judas kept the money-bag Jesus said to him, Get the things we have need of for the feast; or, that he was to give something to the poor.
+
+**[13:30]** So Judas, having taken the bit of bread, straight away went out: and it was night.
+
+**[13:31]** Then when he had gone out, Jesus said, Now is glory given to the Son of man, and God is given glory in him.
+
+**[13:32]** If God is given glory in him, God will give him glory in himself, and will give him glory even now.
+
+**[13:33]** My dear children, I am only to be with you a little longer. Then you will be looking for me: and as I said to the Jews, so now I say to you, Where I am going you may not come.
+
+**[13:34]** I give you a new law: Have love one for another; even as I have had love for you, so are you to have love one for another.
+
+**[13:35]** By this it will be clear to all men that you are my disciples, if you have love one for another.
+
+**[13:36]** Simon Peter said to him, Lord, where are you going? Jesus said in answer, Where I am going you may not come with me now, but you will come later.
+
+**[13:37]** Peter said to him, Why may I not come with you even now? I will give up my life for you.
+
+**[13:38]** Jesus said in answer, Will you give up your life for me? Truly I say to you, Before the cry of the cock you will have said three times that you are not my disciple.
+
+**[14:1]** Let not your heart be troubled: have faith in God and have faith in me.
+
+**[14:2]** In my Father's house are rooms enough; if it was not so, would I have said that I am going to make ready a place for you?
+
+**[14:3]** And if I go and make ready a place for you, I will come back again and will take you to be with me, so that you may be where I am.
+
+**[14:4]** And you all have knowledge of where I am going, and of the way to it.
+
+**[14:5]** Thomas said, Lord, we have no knowledge of where you are going; how may we have knowledge of the way?
+
+**[14:6]** Jesus said to him, I am the true and living way: no one comes to the Father but by me.
+
+**[14:7]** If you had knowledge of me, you would have knowledge of my Father: you have knowledge of him now and have seen him.
+
+**[14:8]** Philip said to him, Lord, let us see the Father, and we have need of nothing more.
+
+**[14:9]** Jesus said to him, Philip, have I been with you all this time, and still you have no knowledge of me? He who has seen me has seen the Father. Why do you say, Let us see the Father?
+
+**[14:10]** Have you not faith that I am in the Father and the Father is in me? The words which I say to you, I say not from myself: but the Father who is in me all the time does his works.
+
+**[14:11]** Have faith that I am in the Father and that the Father is in me: at least, have faith in me because of what I do.
+
+**[14:12]** Truly I say to you, He who puts his faith in me will do the very works which I do, and he will do greater things than these, because I am going to my Father.
+
+**[14:13]** And whatever request you make in my name, that I will do, so that the Father may have glory in the Son.
+
+**[14:14]** If you make any request to me in my name, I will do it.
+
+**[14:15]** If you have love for me, you will keep my laws.
+
+**[14:16]** And I will make prayer to the Father and he will give you another Helper to be with you for ever,
+
+**[14:17]** Even the Spirit of true knowledge. That Spirit the world is not able to take to its heart because it sees him not and has no knowledge of him: but you have knowledge of him, because he is ever with you and will be in you.
+
+**[14:18]** I will not let you be without a friend: I am coming to you.
+
+**[14:19]** A little time longer, and the world will see me no more; but you will see me; and you will be living because I am living.
+
+**[14:20]** At that time it will be clear to you that I am in my Father, and you are in me, and I in you.
+
+**[14:21]** He who has my laws and keeps them, he it is who has love for me: and he who has love for me will be loved by my Father, and I will have love for him and will let myself be seen clearly by him.
+
+**[14:22]** Judas (not Iscariot) said to him, How is it that you will let yourself be seen clearly by us and not by the world?
+
+**[14:23]** Jesus said to him in answer, If anyone has love for me, he will keep my words: and he will be dear to my Father; and we will come to him and make our living-place with him.
+
+**[14:24]** He who has no love for me does not keep my words; and the word which you are hearing is not my word but the Father's who sent me.
+
+**[14:25]** I have said all this to you while I am still with you.
+
+**[14:26]** But the Helper, the Holy Spirit, whom the Father will send in my name, will be your teacher in all things and will put you in mind of everything I have said to you.
+
+**[14:27]** May peace be with you; my peace I give to you: I give it not as the world gives. Let not your heart be troubled; let it be without fear.
+
+**[14:28]** Keep in mind how I said to you, I go away and come to you again. If you had love for me you would be glad, because I am going to the Father: for the Father is greater than I.
+
+**[14:29]** And now I have given you word of it before it comes, so that, when it comes, you may have faith.
+
+**[14:30]** After this I will not say much to you, because the ruler of this world comes: and he has no power over me;
+
+**[14:31]** But he comes so that the world may see that I have love for the Father, and that I am doing as I am ordered by the Father. Get up, and let us go.
+
+**[15:1]** I am the true vine and my Father is the gardener.
+
+**[15:2]** He takes away every branch in me which has no fruit, and every branch which has fruit he makes clean, so that it may have more fruit.
+
+**[15:3]** You are clean, even now, through the teaching which I have given you.
+
+**[15:4]** Be in me at all times as I am in you. As the branch is not able to give fruit of itself, if it is not still on the vine, so you are not able to do so if you are not in me.
+
+**[15:5]** I am the vine, you are the branches: he who is in me at all times as I am in him, gives much fruit, because without me you are able to do nothing.
+
+**[15:6]** If a man does not keep himself in me, he becomes dead and is cut off like a dry branch; such branches are taken up and put in the fire and burned.
+
+**[15:7]** If you are in me at all times, and my words are in you, then anything for which you make a request will be done for you.
+
+**[15:8]** Here is my Father's glory, in that you give much fruit and so are my true disciples.
+
+**[15:9]** Even as the Father has given me his love, so I have given my love to you: be ever in my love.
+
+**[15:10]** If you keep my laws, you will be ever in my love, even as I have kept my Father's laws, and am ever in his love.
+
+**[15:11]** I have said these things to you so that I may have joy in you and so that your joy may be complete.
+
+**[15:12]** This is the law I give you: Have love one for another, even as I have love for you.
+
+**[15:13]** Greater love has no man than this, that a man gives up his life for his friends.
+
+**[15:14]** You are my friends, if you do what I give you orders to do.
+
+**[15:15]** No longer do I give you the name of servants; because a servant is without knowledge of what his master is doing: I give you the name of friends, because I have given you knowledge of all the things which my Father has said to me.
+
+**[15:16]** You did not take me for yourselves, but I took you for myself; and I gave you the work of going about and producing fruit which will be for ever; so that whatever request you make to the Father in my name he may give it to you.
+
+**[15:17]** So this is my law for you: Have love one for another.
+
+**[15:18]** If you are hated by the world, keep in mind that I was hated by the world before you.
+
+**[15:19]** If you were of the world, you would be loved by the world: but because you are not of the world, but I have taken you out of the world, you are hated by the world.
+
+**[15:20]** Keep in mind the words I said to you, A servant is not greater than his lord. If they were cruel to me, they will be cruel to you; if they kept my words, they will keep yours.
+
+**[15:21]** They will do all this to you because of my name--because they have no knowledge of him who sent me.
+
+**[15:22]** If I had not come and been their teacher they would have had no sin: but now they have no reason to give for their sin.
+
+**[15:23]** He who has hate for me has hate for my Father.
+
+**[15:24]** If I had not done among them the works which no other man ever did, they would have had no sin: but now they have seen, and they have had hate in their hearts for me and my Father.
+
+**[15:25]** This comes about so that the writing in their law may be made true, Their hate for me was without cause.
+
+**[15:26]** When the Helper comes, whom I will send to you from the Father even the Spirit of true knowledge who comes from the Father--he will give witness about me;
+
+**[15:27]** And you, in addition, will give witness because you have been with me from the first.
+
+**[16:1]** I have said these things to you so that you may not be in doubt.
+
+**[16:2]** They will put you out of the Synagogues: yes, the time is coming when whoever puts you to death will have the belief that he is doing God's pleasure.
+
+**[16:3]** They will do these things to you because they have not had knowledge of the Father or of me.
+
+**[16:4]** I have said these things to you so that when the time comes, what I have said may come to your mind. I did not say them to you at the first, because then I was still with you.
+
+**[16:5]** But now I am going to him who sent me; and not one of you says to me, Where are you going?
+
+**[16:6]** But your hearts are full of sorrow because I have said these things.
+
+**[16:7]** But what I am saying is true: my going is for your good: for if I do not go away, the Helper will not come to you; but if I go, I will send him to you.
+
+**[16:8]** And he, when he comes, will make the world conscious of sin, and of righteousness, and of being judged:
+
+**[16:9]** Of sin, because they have not faith in me;
+
+**[16:10]** Of righteousness, because I go to the Father and you will see me no more;
+
+**[16:11]** Of being judged, because the ruler of this world has been judged.
+
+**[16:12]** I have still much to say to you, but you are not strong enough for it now.
+
+**[16:13]** However, when he, the Spirit of true knowledge, has come, he will be your guide into all true knowledge: for his words will not come from himself, but whatever has come to his hearing, that he will say: and he will make clear to you the things to come.
+
+**[16:14]** He will give me glory, because he will take of what is mine, and make it clear to you.
+
+**[16:15]** Everything which the Father has is mine: that is why I say, He will take of what is mine and will make it clear to you.
+
+**[16:16]** After a little time you will see me no longer; and then again, after a little time, you will see me.
+
+**[16:17]** So some of the disciples said one to another, What is this he is saying, After a little time, you will see me no longer; and then again, after a little time, you will see me? and, I am going to the Father?
+
+**[16:18]** So they said again and again, What is this he is saying, A little time? His words are not clear to us.
+
+**[16:19]** Jesus saw that they had a desire to put the question to him, so he said to them, Is this what you are questioning one with another, why I said, After a little time, you will see me no longer; and then again, after a little time, you will see me?
+
+**[16:20]** Truly I say to you, You will be weeping and sorrowing, but the world will be glad: you will be sad, but your sorrow will be turned into joy.
+
+**[16:21]** When a woman is about to give birth she has sorrow, because her hour is come; but when she has given birth to the child, the pain is put out of her mind by the joy that a man has come into the world.
+
+**[16:22]** So you have sorrow now: but I will see you again, and your hearts will be glad, and no one will take away your joy.
+
+**[16:23]** And on that day you will put no questions to me. Truly I say to you, Whatever request you make to the Father, he will give it to you in my name.
+
+**[16:24]** Up to now you have made no request in my name: do so, and it will be answered, so that your hearts may be full of joy.
+
+**[16:25]** All this I have said to you in veiled language: but the time is coming when I will no longer say things in veiled language but will give you knowledge of the Father clearly.
+
+**[16:26]** In that day you will make requests in my name: and I do not say that I will make prayer to the Father for you,
+
+**[16:27]** For the Father himself gives his love to you, because you have given your love to me and have had faith that I came from God.
+
+**[16:28]** I came out from the Father and have come into the world: again, I go away from the world and go to the Father.
+
+**[16:29]** His disciples said, Now you are talking clearly and not in veiled language.
+
+**[16:30]** Now we are certain that you have knowledge of all things and have no need for anyone to put questions to you: through this we have faith that you came from God.
+
+**[16:31]** Jesus made answer, Have you faith now?
+
+**[16:32]** See, a time is coming, yes, it is now here, when you will go away in all directions, every man to his house, and I will be by myself: but I am not by myself, because the Father is with me.
+
+**[16:33]** I have said all these things to you so that in me you may have peace. In the world you have trouble: but take heart! I have overcome the world.
+
+**[17:1]** Jesus said these things; then, lifting his eyes to heaven, he said, Father, the time has now come; give glory to your Son, so that the Son may give glory to you:
+
+**[17:2]** Even as you gave him authority over all flesh, to give eternal life to all those whom you have given to him.
+
+**[17:3]** And this is eternal life: to have knowledge of you, the only true God, and of him whom you have sent, even Jesus Christ.
+
+**[17:4]** I have given you glory on the earth, having done all the work which you gave me to do.
+
+**[17:5]** And now, Father, let me have glory with you, even that glory which I had with you before the world was.
+
+**[17:6]** I have given knowledge of your name to the men whom you gave me out of the world: yours they were, and you gave them to me, and they have kept your words.
+
+**[17:7]** Now it is clear to them that whatever you have given to me comes from you:
+
+**[17:8]** Because I have given them the words which you gave to me; and they have taken them to heart, and have certain knowledge that I came from you, and they have faith that you sent me.
+
+**[17:9]** My prayer is for them: my prayer is not for the world, but for those whom you have given to me, because they are yours
+
+**[17:10]** (All mine are yours, and yours are mine) and I have glory in them.
+
+**[17:11]** And now I will be no longer in the world, but they are in the world and I come to you. Holy Father, keep them in your name which you have given to me, so that they may be one even as we are one.
+
+**[17:12]** While I was with them I kept them safe in your name which you have given to me: I took care of them and not one of them has come to destruction, but only the son of destruction, so that the Writings might come true.
+
+**[17:13]** And now I come to you; and these things I say in the world so that they may have my joy complete in them.
+
+**[17:14]** I have given your word to them; and they are hated by the world, because they are not of the world, even as I am not of the world.
+
+**[17:15]** My prayer is not that you will take them out of the world, but that you will keep them from the Evil One.
+
+**[17:16]** They are not of the world any more than I am of the world.
+
+**[17:17]** Make them holy by the true word: your word is the true word.
+
+**[17:18]** Even as you have sent me into the world, so I have sent them into the world.
+
+**[17:19]** And for them I make myself holy, so that they may be made truly holy.
+
+**[17:20]** My prayer is not for them only, but for all who will have faith in me through their word;
+
+**[17:21]** May they all be one! Even as you, Father, are in me and I am in you, so let them be in us, so that all men may come to have faith that you sent me.
+
+**[17:22]** And the glory which you have given to me I have given to them, so that they may be one even as we are one;
+
+**[17:23]** I in them, and you in me, so that they may be made completely one, and so that it may become clear to all men that you have sent me and that they are loved by you as I am loved by you.
+
+**[17:24]** Father, it is my desire that these whom you have given to me may be by my side where I am, so that they may see my glory which you have given to me, because you had love for me before the world came into being.
+
+**[17:25]** Father of righteousness, I have knowledge of you, though the world has not; and to these it is clear that you sent me;
+
+**[17:26]** And I have given to them knowledge of your name, and will give it, so that the love which you have for me may be in them and I in them.
+
+**[18:1]** When Jesus had said these words he went out with his disciples over the stream Kedron to a garden, into which he went with his disciples.
+
+**[18:2]** And Judas, who was false to him, had knowledge of the place because Jesus went there frequently with his disciples.
+
+**[18:3]** So Judas, getting a band of armed men and police from the chief priests and Pharisees, went there with lights and with arms.
+
+**[18:4]** Then Jesus, having knowledge of everything which was coming on him, went forward and said to them, Who are you looking for?
+
+**[18:5]** Their answer was, Jesus the Nazarene. Jesus said, I am he. And Judas, who was false to him, was there at their side.
+
+**[18:6]** And when he said to them, I am he, they went back, falling to the earth.
+
+**[18:7]** So again he put the question to them, Who are you looking for? And they said, Jesus the Nazarene.
+
+**[18:8]** Jesus made answer, I have said that I am he; if you are looking for me, let these men go away.
+
+**[18:9]** (He said this so that his words might come true, I have kept safe all those whom you gave to me.)
+
+**[18:10]** Then Simon Peter, who had a sword, took it out and gave the high priest's servant a blow, cutting off his right ear. The servant's name was Malchus.
+
+**[18:11]** Then Jesus said to Peter, Put back your sword: am I not to take the cup which my Father has given to me?
+
+**[18:12]** Then the band and the chief captain and the police took Jesus and put cords round him.
+
+**[18:13]** They took him first to Annas, because Annas was the father-in-law of Caiaphas who was the high priest that year.
+
+**[18:14]** It was Caiaphas who had said to the Jews that it was in their interest for one man to be put to death for the people.
+
+**[18:15]** And Simon Peter went after Jesus with another disciple. Now that disciple was a friend of the high priest and he went in with Jesus into the house of the high priest;
+
+**[18:16]** But Peter was kept outside at the door. Then this other disciple, who was a friend of the high priest, came out and had a word with the girl who kept the door, and took Peter in.
+
+**[18:17]** Then the girl who was the door-keeper said to Peter, Are you not one of this man's disciples? In answer he said, I am not.
+
+**[18:18]** Now the servants and the police had made a fire of coals because it was cold; they were warming themselves in front of it and Peter was there with them, warming himself.
+
+**[18:19]** Then the high priest put questions to Jesus about his disciples and his teaching.
+
+**[18:20]** Jesus made answer, I said things openly to the world at all times; I have given my teaching in the Synagogues and in the Temple to which all the Jews come; and I have said nothing secretly.
+
+**[18:21]** Why are you questioning me? put questions to my hearers about what I have said to them: they have knowledge of what I said.
+
+**[18:22]** When he said this, one of the police by his side gave him a blow with his open hand, saying, Do you give such an answer to the high priest?
+
+**[18:23]** Jesus said in answer, If I have said anything evil, give witness to the evil: but if I said what is true, why do you give me blows?
+
+**[18:24]** Then Annas sent him chained to Caiaphas, the high priest.
+
+**[18:25]** But Simon Peter was still there warming himself by the fire. They said to him, Are you not one of his disciples? He said, No, I am not.
+
+**[18:26]** One of the servants of the high priest, a relation of him whose ear had been cut off by Peter, said, Did I not see you with him in the garden?
+
+**[18:27]** Then again Peter said, No. And straight away a cock gave its cry.
+
+**[18:28]** So they took Jesus from the house of Caiaphas to the Praetorium. It was early. They themselves did not go into the Praetorium, so that they might not become unclean, but might take the Passover.
+
+**[18:29]** So Pilate came out to them and put the question: What have you to say against this man?
+
+**[18:30]** They said to him in answer, If the man was not a wrongdoer we would not have given him up to you.
+
+**[18:31]** Then Pilate said to them, Take him yourselves and let him be judged by your law. But the Jews said to him, We have no right to put any man to death.
+
+**[18:32]** (That the word of Jesus might come true, pointing to the sort of death he would have.)
+
+**[18:33]** Then Pilate went back into the Praetorium and sent for Jesus and said to him, Are you the King of the Jews?
+
+**[18:34]** Jesus made answer, Do you say this of yourself, or did others say it about me?
+
+**[18:35]** Pilate said, Am I a Jew? Your nation and the chief priests have given you into my hands: what have you done?
+
+**[18:36]** Jesus said in answer, My kingdom is not of this world: if my kingdom was of this world, my disciples would have made a good fight to keep me out of the hands of the Jews: but my kingdom is not here.
+
+**[18:37]** Then Pilate said to him, Are you then a king? Jesus made answer, You say that I am a king. For this purpose was I given birth, and for this purpose I came into the world, that I might give witness to what is true. Every lover of what is true gives ear to my voice.
+
+**[18:38]** Pilate said to him, True? what is true? Having said this he went out again to the Jews and said to them, I see no wrong in him.
+
+**[18:39]** But every year you make a request to me to let a prisoner go free at the Passover. Is it your desire that I let the King of the Jews go free?
+
+**[18:40]** Then again they gave a loud cry, Not this man, but Barabbas. Now Barabbas was an outlaw.
+
+**[19:1]** Then Pilate took Jesus and had him whipped with cords.
+
+**[19:2]** And the men of the army made a crown of thorns and put it on his head, and they put a purple robe on him.
+
+**[19:3]** And they kept coming and saying, Long life to the King of the Jews! And they gave him blows with their hands.
+
+**[19:4]** And Pilate went out again and said to them, See, I let him come out to you to make it clear to you that I see no wrong in him.
+
+**[19:5]** Then Jesus came out with the crown of thorns and the purple robe. And Pilate said to them, Here is the man!
+
+**[19:6]** So when the chief priests and the police saw him they gave a loud cry, To the cross! to the cross! Pilate said to them, Take him yourselves and put him on the cross: I see no crime in him.
+
+**[19:7]** And the Jews made answer, We have a law, and by that law it is right for him to be put to death because he said he was the Son of God.
+
+**[19:8]** When this saying came to Pilate's ears his fear became greater;
+
+**[19:9]** And he went again into the Praetorium and said to Jesus, Where do you come from? But Jesus gave him no answer.
+
+**[19:10]** Then Pilate said to him, You say nothing to me? is it not clear to you that I have power to let you go free and power to put you to death on the cross?
+
+**[19:11]** Jesus gave this answer: You would have no power at all over me if it was not given to you by God; so that he who gave me up to you has the greater sin.
+
+**[19:12]** Hearing this, Pilate had a desire to let him go free, but the Jews said in a loud voice, If you let this man go, you are not Caesar's friend: everyone who makes himself a king goes against Caesar.
+
+**[19:13]** So when these words came to Pilate's ear, he took Jesus out, seating himself in the judge's seat in a place named in Hebrew, Gabbatha, or the Stone Floor.
+
+**[19:14]** (It was the day when they made ready for the Passover; and it was about the sixth hour.) And he said to the Jews, There is your King!
+
+**[19:15]** Then they gave a loud cry, Away with him! away with him! to the cross! Pilate said to them, Am I to put your King to death on the cross? The chief priests said in answer, We have no king but Caesar.
+
+**[19:16]** So then he gave him up to them to be put to death on the cross. And they took Jesus away;
+
+**[19:17]** And he went out with his cross on him to the place which is named Dead Man's Head (in Hebrew, Golgotha):
+
+**[19:18]** Where they put him on the cross with two others, one on this side and one on that, and Jesus in the middle.
+
+**[19:19]** And Pilate put on the cross a statement in writing. The writing was: JESUS THE NAZARENE, THE KING OF THE JEWS.
+
+**[19:20]** The writing was seen by a number of the Jews, for the place where Jesus was put to death on the cross was near the town; and the writing was in Hebrew and Latin and Greek.
+
+**[19:21]** Then the chief priests of the Jews said to Pilate, Do not put, The King of the Jews, but, He said, I am the King of the Jews.
+
+**[19:22]** But Pilate made answer, What I have put in writing will not be changed.
+
+**[19:23]** And when Jesus was nailed to the cross, the men of the army took his clothing, and made a division of it into four parts, to every man a part, and they took his coat: now the coat was without a join, made out of one bit of cloth.
+
+**[19:24]** So they said among themselves, Let this not be cut up, but let us put it to the decision of chance and see who gets it. (They did this so that the Writings might come true, which say, They made a distribution of my clothing among them, and my coat they put to the decision of chance.) This was what the men of the army did.
+
+**[19:25]** Now by the side of the cross of Jesus were his mother, and his mother's sister Mary, the wife of Cleopas, and Mary Magdalene.
+
+**[19:26]** So when Jesus saw his mother and the disciple who was dear to him, he said to his mother, Mother, there is your son!
+
+**[19:27]** Then he said to the disciple, There is your mother! And from that hour the disciple took her to his house.
+
+**[19:28]** After this, being conscious that all things had now been done so that the Writings might come true, Jesus said, Give me water.
+
+**[19:29]** Now there was a vessel ready, full of bitter wine, and they put a sponge full of it on a stick and put it to his mouth.
+
+**[19:30]** So when Jesus had taken the wine he said, All is done. And with his head bent he gave up his spirit.
+
+**[19:31]** Now it was the day of getting ready for the Passover, and so that the bodies might not be on the cross on the Sabbath (because the day of that Sabbath was a great day), the Jews made a request to Pilate that their legs might be broken, and that they might be taken away.
+
+**[19:32]** So the men of the army came, and the legs of the first were broken and then of the other who was put to death on the cross with Jesus:
+
+**[19:33]** But when they came to Jesus, they saw that he was dead by this time, and so his legs were not broken;
+
+**[19:34]** But one of the men made a wound in his side with a spear, and straight away there came out blood and water.
+
+**[19:35]** And he who saw it has given witness (and his witness is true; he is certain that what he says is true) so that you may have belief.
+
+**[19:36]** These things came about so that the Writings might be true, No bone of his body will be broken.
+
+**[19:37]** And again another verse says, They will see him who was wounded by their spears.
+
+**[19:38]** After these things, Joseph of Arimathaea, who was a disciple of Jesus, but secretly for fear of the Jews, made a request to Pilate to let him take away the body of Jesus: and Pilate said he might do so. So he went and took away his body.
+
+**[19:39]** And Nicodemus came (he who had first come to Jesus by night) with a roll of myrrh and aloes mixed, about a hundred pounds.
+
+**[19:40]** Then they took the body of Jesus, folding linen about it with the spices, as is the way of the Jews when they put the dead to rest.
+
+**[19:41]** Now there was a garden near the cross, and in the garden a new place for the dead in which no man had ever been put.
+
+**[19:42]** So they put Jesus there, because it was the Jews' day of getting ready for the Passover, and the place was near.
+
+**[20:1]** Now on the first day of the week, very early, while it was still dark, Mary Magdalene came to the place and saw that the stone had been taken away from it.
+
+**[20:2]** Then she went running to Simon Peter, and to the other disciple who was loved by Jesus, and said to them, They have taken away the Lord out of the place of the dead and we have no knowledge where they have put him.
+
+**[20:3]** So Peter and the other disciple went out to the place of the dead.
+
+**[20:4]** They went running together, and the other disciple got in front of Peter and came first to the hole in the rock;
+
+**[20:5]** And looking in, he saw the linen bands on the earth; but he did not go in,
+
+**[20:6]** Then Simon Peter came after him and went into the hole in the rock; and he saw the linen bands on the earth,
+
+**[20:7]** And the cloth, which had been round his head, not with the linen bands but rolled up in a place by itself.
+
+**[20:8]** Then the other disciple who came there first went in; and he saw and belief came to him.
+
+**[20:9]** For at that time they had no knowledge that the Writings said that he would have to come again from the dead.
+
+**[20:10]** So then the disciples went away again to their houses.
+
+**[20:11]** But Mary was still there outside the hole in the rock, weeping; and while she was weeping and looking into the hole,
+
+**[20:12]** She saw two angels in white seated where the body of Jesus had been, one at the head and the other at the feet.
+
+**[20:13]** They said to her, Woman, why are you weeping? She said to them, Because they have taken away my Lord, and I have no knowledge where they have put him.
+
+**[20:14]** And then looking round, she saw Jesus there, but had no idea that it was Jesus.
+
+**[20:15]** Jesus said to her, Woman, why are you weeping? who are you looking for? She, taking him for the gardener, said to him, Sir, if you have taken him away from here, say where you have put him and I will take him away.
+
+**[20:16]** Jesus said to her, Mary! Turning, she said to him in Hebrew, Rabboni! (which is to say, Master).
+
+**[20:17]** Jesus said to her, Do not put your hand on me, for I have not gone up to the Father: but go to my brothers and say to them, I go up to my Father and your Father, to my God and your God.
+
+**[20:18]** Mary Magdalene went with the news to the disciples, and said she had seen the Lord and that he had said these things to her.
+
+**[20:19]** At evening on that day, the first day of the week, when, for fear of the Jews, the doors were shut where the disciples were, Jesus came among them and said to them, May peace be with you!
+
+**[20:20]** And when he had said this, he let them see his hands and his side. Then the disciples were glad when they saw the Lord.
+
+**[20:21]** And Jesus said to them again, May peace be with you! As the Father sent me, even so I now send you.
+
+**[20:22]** And when he had said this, breathing on them, he said to them, Let the Holy Spirit come on you:
+
+**[20:23]** Any to whom you give forgiveness, will be made free from their sins; and any from whom you keep back forgiveness, will still be in their sins.
+
+**[20:24]** Now Thomas, one of the twelve, named Didymus, was not with them when Jesus came.
+
+**[20:25]** So the other disciples said to him, We have seen the Lord. But he said to them, If I do not see in his hands the print of the nails and put my finger into the print of the nails, and if I do not put my hand into his side, I will never have belief.
+
+**[20:26]** And after eight days, his disciples were again in the house and Thomas was with them. Though the doors were shut, Jesus came, and taking his place in the middle of them, he said, May peace be with you!
+
+**[20:27]** Then he said to Thomas, Put out your finger, and see my hands; and put your hand here into my side: and be no longer in doubt but have belief.
+
+**[20:28]** And Thomas said in answer, My Lord and my God!
+
+**[20:29]** Jesus said to him, Because you have seen me you have belief: a blessing will be on those who have belief though they have not seen me!
+
+**[20:30]** A number of other signs Jesus did before his disciples which are not recorded in this book:
+
+**[20:31]** But these are recorded, so that you may have faith that Jesus is the Christ, the Son of God, and so that, having this faith you may have life in his name.
+
+**[21:1]** After these things Jesus let himself be seen again by the disciples at the sea of Tiberias; and it came about in this way.
+
+**[21:2]** Simon Peter, Thomas named Didymus, Nathanael of Cana in Galilee, the sons of Zebedee, and two others of his disciples were all together.
+
+**[21:3]** Simon Peter said to them, I am going fishing. They said to him, And we will come with you. They went out and got into the boat; but that night they took no fish.
+
+**[21:4]** Now very early in the morning Jesus was there by the edge of the sea (though the disciples were not conscious that it was Jesus).
+
+**[21:5]** So Jesus said to them, Children, have you taken any fish? They made answer, No.
+
+**[21:6]** And he said to them, Let down the net on the right side of the boat and you will get some. So they put it in the water and now they were not able to get it up again because of the great number of fish.
+
+**[21:7]** So the disciple who was dear to Jesus said to Peter, It is the Lord! Hearing that it was the Lord, Peter put his coat round him (because he was not clothed) and went into the sea.
+
+**[21:8]** And the other disciples came in the little boat (they were not far from land, only about two hundred cubits off) pulling the net full of fish.
+
+**[21:9]** When they got to land, they saw a fire of coals there, with fish cooking on it, and bread.
+
+**[21:10]** Jesus said to them, Get some of the fish which you have now taken.
+
+**[21:11]** So Peter went to the boat and came back pulling the net to land, full of great fish, a hundred and fifty-three; and though there was such a number the net was not broken.
+
+**[21:12]** Jesus said to them, Come and take some food. And all the disciples were in fear of putting the question, Who are you? being conscious that it was the Lord.
+
+**[21:13]** Then Jesus came and took the bread and gave it to them, and the fish in the same way.
+
+**[21:14]** Now this was the third time that Jesus let himself be seen by the disciples after he had come back from the dead.
+
+**[21:15]** Then when they had taken food, Jesus said to Simon Peter, Simon, son of John, is your love for me greater than the love of these others? He said to him, Yes, Lord; you are certain of my love for you. He said to him, Then give my lambs food.
+
+**[21:16]** Again, a second time, he said to him, Simon, son of John, have you any love for me? Yes, Lord, he said, you are certain of my love for you. Then take care of my sheep, said Jesus.
+
+**[21:17]** He said to him a third time, Simon, son of John, am I dear to you? Now Peter was troubled in his heart because he put the question a third time, Am I dear to you? And he said to him, Lord, you have knowledge of all things; you see that you are dear to me. Jesus said to him, Then give my sheep food.
+
+**[21:18]** Truly I say to you, When you were young, you made yourself ready and went wherever you had a desire to go: but when you are old, you will put out your hands and another will make you ready, and you will be taken where you have no desire to go.
+
+**[21:19]** Now this he said, pointing out the sort of death by which he would give God glory. And after saying this, he said to him, Come after me.
+
+**[21:20]** Then Peter, turning round, saw the disciple who was dear to Jesus coming after them--the disciple who was resting on his breast at the last meal, and said, Lord, who is it who will be false to you?
+
+**[21:21]** Seeing him, Peter said to Jesus, What about this man?
+
+**[21:22]** Jesus said to him, If it is my desire for him to be here till I come back, what is that to you? come yourself after me.
+
+**[21:23]** So this saying went about among the brothers that this disciple would not undergo death: Jesus, however, did not say that he would not undergo death, but, If it is my desire for him to be here till I come back, what is that to you?
+
+**[21:24]** This is the disciple who gives witness about these things and who put them in writing: and we have knowledge that his witness is true.
+
+**[21:25]** And Jesus did such a number of other things that, if every one was recorded, it is my opinion that even the world itself is not great enough for the books there would be.

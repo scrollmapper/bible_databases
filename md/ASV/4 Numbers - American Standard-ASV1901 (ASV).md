@@ -1,0 +1,2577 @@
+# Numbers - American Standard-ASV1901 (ASV)
+
+**[1:1]** And Jehovah spake unto Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
+
+**[1:2]** Take ye the sum of all the congregation of the children of Israel, by their families, by their fathers' houses, according to the number of the names, every male, by their polls;
+
+**[1:3]** from twenty years old and upward, all that are able to go forth to war in Israel, thou and Aaron shall number them by their hosts.
+
+**[1:4]** And with you there shall be a man of every tribe; every one head of his fathers' house.
+
+**[1:5]** And these are the names of the men that shall stand with you. Of Reuben: Elizur the son of Shedeur.
+
+**[1:6]** Of Simeon: Shelumiel the son of Zurishaddai.
+
+**[1:7]** Of Judah: Nahshon the son of Amminadab.
+
+**[1:8]** Of Issachar: Nethanel the son of Zuar.
+
+**[1:9]** Of Zebulun: Eliab the son of Helon.
+
+**[1:10]** Of the children of Joseph: Of Ephraim: Elishama the son of Ammihud. Of Manasseh: Gamaliel the son of Pedahzur.
+
+**[1:11]** Of Benjamin: Abidan the son of Gideoni.
+
+**[1:12]** Of Dan: Ahiezer the son of Ammishaddai.
+
+**[1:13]** Of Asher: Pagiel the son of Ochran.
+
+**[1:14]** Of Gad: Eliasaph the son of Deuel.
+
+**[1:15]** Of Naphtali: Ahira the son of Enan.
+
+**[1:16]** These are they that were called of the congregation, the princes of the tribes of their fathers; they were the heads of the thousands of Israel.
+
+**[1:17]** And Moses and Aaron took these men that are mentioned by name:
+
+**[1:18]** And they assembled all the congregation together on the first day of the second month; and they declared their pedigrees after their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, by their polls.
+
+**[1:19]** As Jehovah commanded Moses, so he numbered them in the wilderness of Sinai.
+
+**[1:20]** And the children of Reuben, Israel's first-born, their generations, by their families, by their fathers' houses, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
+
+**[1:21]** those that were numbered of them, of the tribe of Reuben, were forty and six thousand and five hundred.
+
+**[1:22]** Of the children of Simeon, their generations, by their families, by their fathers' houses, those that were numbered thereof, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
+
+**[1:23]** those that were numbered of them, of the tribe of Simeon, were fifty and nine thousand and three hundred.
+
+**[1:24]** Of the children of Gad, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:25]** those that were numbered of them, of the tribe of Gad, were forty and five thousand six hundred and fifty.
+
+**[1:26]** Of the children of Judah, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:27]** those that were numbered of them, of the tribe of Judah, were threescore and fourteen thousand and six hundred.
+
+**[1:28]** Of the children of Issachar, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:29]** those that were numbered of them, of the tribe of Issachar, were fifty and four thousand and four hundred.
+
+**[1:30]** Of the children of Zebulun, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:31]** those that were numbered of them, of the tribe of Zebulun, were fifty and seven thousand and four hundred.
+
+**[1:32]** Of the children of Joseph, `namely', of the children of Ephraim, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:33]** those that were numbered of them, of the tribe of Ephraim, were forty thousand and five hundred.
+
+**[1:34]** Of the children of Manasseh, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:35]** those that were numbered of them, of the tribe of Manasseh, were thirty and two thousand and two hundred.
+
+**[1:36]** Of the children of Benjamin, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:37]** those that were numbered of them, of the tribe of Benjamin, were thirty and five thousand and four hundred.
+
+**[1:38]** Of the children of Dan, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:39]** those that were numbered of them, of the tribe of Dan, were threescore and two thousand and seven hundred.
+
+**[1:40]** Of the children of Asher, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:41]** those that were numbered of them, of the tribe of Asher, were forty and one thousand and five hundred.
+
+**[1:42]** Of the children of Naphtali, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+
+**[1:43]** those that were numbered of them, of the tribe of Naphtali, were fifty and three thousand and four hundred.
+
+**[1:44]** These are they that were numbered, whom Moses and Aaron numbered, and the princes of Israel, being twelve men: they were each one for his fathers' house.
+
+**[1:45]** So all they that were numbered of the children of Israel by their fathers' houses, from twenty years old and upward, all that were able to go forth to war in Israel;
+
+**[1:46]** even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.
+
+**[1:47]** But the Levites after the tribe of their fathers were not numbered among them.
+
+**[1:48]** For Jehovah spake unto Moses, saying,
+
+**[1:49]** Only the tribe of Levi thou shalt not number, neither shalt thou take the sum of them among the children of Israel;
+
+**[1:50]** but appoint thou the Levites over the tabernacle of the testimony, and over all the furniture thereof, and over all that belongeth to it: they shall bear the tabernacle, and all the furniture thereof; and they shall minister unto it, and shall encamp round about the tabernacle.
+
+**[1:51]** And when the tabernacle setteth forward, the Levites shall take it down; and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.
+
+**[1:52]** And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, according to their hosts.
+
+**[1:53]** But the Levites shall encamp round about the tabernacle of the testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of the testimony.
+
+**[1:54]** Thus did the children of Israel; according to all that Jehovah commanded Moses, so did they.
+
+**[2:1]** And Jehovah spake unto Moses and unto Aaron, saying,
+
+**[2:2]** The children of Israel shall encamp every man by his own standard, with the ensigns of their fathers' houses: over against the tent of meeting shall they encamp round about.
+
+**[2:3]** And those that encamp on the east side toward the sunrising shall be they of the standard of the camp of Judah, according to their hosts: and the prince of the children of Judah shall be Nahshon the son of Amminadab.
+
+**[2:4]** And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred.
+
+**[2:5]** And those that encamp next unto him shall be the tribe of Issachar: and the prince of the children of Issachar shall be Nethanel the son of Zuar.
+
+**[2:6]** And his host, and those that were numbered thereof, were fifty and four thousand and four hundred.
+
+**[2:7]** `And' the tribe of Zebulun: and the prince of the children of Zebulun shall be Eliab the son of Helon.
+
+**[2:8]** And his host, and those that were numbered thereof, were fifty and seven thousand and four hundred.
+
+**[2:9]** All that were numbered of the camp of Judah were a hundred thousand and fourscore thousand and six thousand and four hundred, according to their hosts. They shall set forth first.
+
+**[2:10]** On the south side shall be the standard of the camp of Reuben according to their hosts: and the prince of the children of Reuben shall be Elizur the son of Shedeur.
+
+**[2:11]** And his host, and those that were numbered thereof, were forty and six thousand and five hundred.
+
+**[2:12]** And those that encamp next unto him shall be the tribe of Simeon: and the prince of the children of Simeon shall be Shelumiel the son of Zurishaddai.
+
+**[2:13]** And his host, and those that were numbered of them, were fifty and nine thousand and three hundred.
+
+**[2:14]** And the tribe of Gad: and the prince of the children of Gad shall be Eliasaph the son of Reuel.
+
+**[2:15]** And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty.
+
+**[2:16]** All that were numbered of the camp of Reuben were a hundred thousand and fifty and one thousand and four hundred and fifty, according to their hosts. And they shall set forth second.
+
+**[2:17]** Then the tent of meeting shall set forward, with the camp of the Levites in the midst of the camps: as they encamp, so shall they set forward, every man in his place, by their standards.
+
+**[2:18]** On the west side shall be the standard of the camp of Ephraim according to their hosts: and the prince of the children of Ephraim shall be Elishama the son of Ammihud.
+
+**[2:19]** And his host, and those that were numbered of them, were forty thousand and five hundred.
+
+**[2:20]** And next unto him shall be the tribe of Manasseh: and the prince of the children of Manasseh shall be Gamaliel the son of Pedahzur.
+
+**[2:21]** And his host, and those that were numbered of them, were thirty and two thousand and two hundred.
+
+**[2:22]** And the tribe of Benjamin: and the prince of the children of Benjamin shall be Abidan the son of Gideoni.
+
+**[2:23]** And his host, and those that were numbered of them, were thirty and five thousand and four hundred.
+
+**[2:24]** All that were numbered of the camp of Ephraim were a hundred thousand and eight thousand and a hundred, according to their hosts. And they shall set forth third.
+
+**[2:25]** On the north side shall be the standard of the camp of Dan according to their hosts: and the prince of the children of Dan shall be Ahiezer the son of Ammishaddai.
+
+**[2:26]** And his host, and those that were numbered of them, were threescore and two thousand and seven hundred.
+
+**[2:27]** And those that encamp next unto him shall be the tribe of Asher: and the prince of the children of Asher shall be Pagiel the son of Ochran.
+
+**[2:28]** And his host, and those that were numbered of them, were forty and one thousand and five hundred.
+
+**[2:29]** And the tribe of Naphtali: and the prince of the children of Naphtali shall be Ahira the son of Enan.
+
+**[2:30]** And his host, and those that were numbered of them, were fifty and three thousand and four hundred.
+
+**[2:31]** All that were numbered of the camp of Dan were a hundred thousand and fifty and seven thousand and six hundred. They shall set forth hindmost by their standards.
+
+**[2:32]** These are they that were numbered of the children of Israel by their fathers' houses: all that were numbered of the camps according to their hosts were six hundred thousand and three thousand and five hundred and fifty.
+
+**[2:33]** But the Levites were not numbered among the children of Israel; as Jehovah commanded Moses.
+
+**[2:34]** Thus did the children of Israel; according to all that Jehovah commanded Moses, so they encamped by their standards, and so they set forward, every one by their families, according to their fathers' houses.
+
+**[3:1]** Now these are the generations of Aaron and Moses in the day that Jehovah spake with Moses in mount Sinai.
+
+**[3:2]** And these are the names of the sons of Aaron: Nadab the first-born, and Abihu, Eleazar, and Ithamar.
+
+**[3:3]** These are the names of the sons of Aaron, the priests that were anointed, whom he consecrated to minister in the priest's office.
+
+**[3:4]** And Nadab and Abihu died before Jehovah, when they offered strange fire before Jehovah, in the wilderness of Sinai, and they had no children; and Eleazar and Ithamar ministered in the priest's office in the presence of Aaron their father.
+
+**[3:5]** And Jehovah spake unto Moses, saying,
+
+**[3:6]** Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister unto him.
+
+**[3:7]** And they shall keep his charge, and the charge of the whole congregation before the tent of meeting, to do the service of the tabernacle.
+
+**[3:8]** And they shall keep all the furniture of the tent of meeting, and the charge of the children of Israel, to do the service of the tabernacle.
+
+**[3:9]** And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him on the behalf of the children of Israel.
+
+**[3:10]** And thou shalt appoint Aaron and his sons, and they shall keep their priesthood: and the stranger that cometh nigh shall be put to death.
+
+**[3:11]** And Jehovah spake unto Moses, saying,
+
+**[3:12]** And I, behold, I have taken the Levites from among the children of Israel instead of all the first-born that openeth the womb among the children of Israel; and the Levites shall be mine:
+
+**[3:13]** for all the first-born are mine; on the day that I smote all the first-born in the land of Egypt I hallowed unto me all the first-born in Israel, both man and beast; mine they shall be: I am Jehovah.
+
+**[3:14]** And Jehovah spake unto Moses in the wilderness of Sinai, saying,
+
+**[3:15]** Number the children of Levi by their fathers' houses, by their families: every male from a month old and upward shalt thou number them.
+
+**[3:16]** And Moses numbered them according to the word of Jehovah, as he was commanded.
+
+**[3:17]** And these were the sons of Levi by their names: Gershon, and Kohath, and Merari.
+
+**[3:18]** And these are the names of the sons of Gershon by their families: Libni and Shimei.
+
+**[3:19]** And the sons of Kohath by their families: Amram, and Izhar, Hebron, and Uzziel.
+
+**[3:20]** And the sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their fathers' houses.
+
+**[3:21]** Of Gershon was the family of the Libnites, and the family of the Shimeites: these are the families of the Gershonites.
+
+**[3:22]** Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred.
+
+**[3:23]** The families of the Gershonites shall encamp behind the tabernacle westward.
+
+**[3:24]** And the prince of the fathers' house of the Gershonites shall be Eliasaph the son of Lael.
+
+**[3:25]** And the charge of the sons of Gershon in the tent of meeting shall be the tabernacle, and the Tent, the covering thereof, and the screen for the door of the tent of meeting,
+
+**[3:26]** and the hangings of the court, and the screen for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.
+
+**[3:27]** And of Kohath was the family of the Amramites, and the family of the Izharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites.
+
+**[3:28]** According to the number of all the males, from a month old and upward, there were eight thousand and six hundred, keeping the charge of the sanctuary.
+
+**[3:29]** The families of the sons of Kohath shall encamp on the side of the tabernacle southward.
+
+**[3:30]** And the prince of the fathers' house of the families of the Kohathites shall be Elizaphan the son of Uzziel.
+
+**[3:31]** And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the screen, and all the service thereof.
+
+**[3:32]** And Eleazar the son of Aaron the priest shall be prince of the princes of the Levites, `and have' the oversight of them that keep the charge of the sanctuary.
+
+**[3:33]** Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.
+
+**[3:34]** And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred.
+
+**[3:35]** And the prince of the fathers' house of the families of Merari was Zuriel the son of Abihail: they shall encamp on the side of the tabernacle northward.
+
+**[3:36]** And the appointed charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the instruments thereof, and all the service thereof,
+
+**[3:37]** and the pillars of the court round about, and their sockets, and their pins, and their cords.
+
+**[3:38]** And those that encamp before the tabernacle eastward, before the tent of meeting toward the sunrising, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.
+
+**[3:39]** All that were numbered of the Levites, whom Moses and Aaron numbered at the commandment of Jehovah, by their families, all the males from a month old and upward, were twenty and two thousand.
+
+**[3:40]** And Jehovah said unto Moses, Number all the first-born males of the children of Israel from a month old and upward, and take the number of their names.
+
+**[3:41]** And thou shalt take the Levites for me (I am Jehovah) instead of all the first-born among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel:
+
+**[3:42]** and Moses numbered, as Jehovah commanded him, all the first-born among the children of Israel.
+
+**[3:43]** And all the first-born males according to the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.
+
+**[3:44]** And Jehovah spake unto Moses, saying,
+
+**[3:45]** Take the Levites instead of all the first-born among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am Jehovah.
+
+**[3:46]** And for the redemption of the two hundred and threescore and thirteen of the first-born of the children of Israel, that are over and above `the number of' the Levites,
+
+**[3:47]** thou shalt take five shekels apiece by the poll; after the shekel of the sanctuary shalt thou take them (the shekel is twenty gerahs):
+
+**[3:48]** and thou shalt give the money, wherewith the odd number of them is redeemed, unto Aaron and to his sons.
+
+**[3:49]** And Moses took the redemption-money from them that were over and above them that were redeemed by the Levites;
+
+**[3:50]** from the first-born of the children of Israel took he the money, a thousand three hundred and threescore and five `shekels', after the shekel of the sanctuary:
+
+**[3:51]** and Moses gave the redemption-money unto Aaron and to his sons, according to the word of Jehovah, as Jehovah commanded Moses.
+
+**[4:1]** And Jehovah spake unto Moses and unto Aaron, saying,
+
+**[4:2]** Take the sum of the sons of Kohath from among the sons of Levi, by their families, by their fathers' houses,
+
+**[4:3]** from thirty years old and upward even until fifty years old, all that enter upon the service, to do the work in the tent of meeting.
+
+**[4:4]** This is the service of the sons of Kohath in the tent of meeting, `about' the most holy things:
+
+**[4:5]** when the camp setteth forward, Aaron shall go in, and his sons, and they shall take down the veil of the screen, and cover the ark of the testimony with it,
+
+**[4:6]** and shall put thereon a covering of sealskin, and shall spread over it a cloth all of blue, and shall put in the staves thereof.
+
+**[4:7]** And upon the table of showbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls and the cups wherewith to pour out; and the continual bread shall be thereon:
+
+**[4:8]** and they shall spread upon them a cloth of scarlet, and cover the same with a covering of sealskin, and shall put in the staves thereof.
+
+**[4:9]** And they shall take a cloth of blue, and cover the candlestick of the light, and its lamps, and its snuffers, and its snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:
+
+**[4:10]** and they shall put it and all the vessels thereof within a covering of sealskin, and shall put it upon the frame.
+
+**[4:11]** And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of sealskin, and shall put in the staves thereof:
+
+**[4:12]** and they shall take all the vessels of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of sealskin, and shall put them on the frame.
+
+**[4:13]** And they shall take away the ashes from the altar, and spread a purple cloth thereon:
+
+**[4:14]** and they shall put upon it all the vessels thereof, wherewith they minister about it, the firepans, the flesh-hooks, and the shovels, and the basins, all the vessels of the altar; and they shall spread upon it a covering of sealskin, and put in the staves thereof.
+
+**[4:15]** And when Aaron and his sons have made an end of covering the sanctuary, and all the furniture of the sanctuary, as the camp is set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch the sanctuary, lest they die. These things are the burden of the sons of Kohath in the tent of meeting.
+
+**[4:16]** And the charge of Eleazar the son of Aaron the priest shall be the oil for the light, and the sweet incense, and the continual meal-offering, and the anointing oil, the charge of all the tabernacle, and of all that therein is, the sanctuary, and the furniture thereof.
+
+**[4:17]** And Jehovah spake unto Moses and unto Aaron, saying,
+
+**[4:18]** Cut ye not off the tribe of the families of the Kohathites from among the Levites;
+
+**[4:19]** but thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden;
+
+**[4:20]** but they shall not go in to see the sanctuary even for a moment, lest they die.
+
+**[4:21]** And Jehovah spake unto Moses, saying,
+
+**[4:22]** Take the sum of the sons of Gershon also, by their fathers' houses, by their families;
+
+**[4:23]** from thirty years old and upward until fifty years old shalt thou number them; all that enter in to wait upon the service, to do the work in the tent of meeting.
+
+**[4:24]** This is the service of the families of the Gershonites, in serving and in bearing burdens:
+
+**[4:25]** they shall bear the curtains of the tabernacle, and the tent of meeting, its covering, and the covering of sealskin that is above upon it, and the screen for the door of the tent of meeting,
+
+**[4:26]** and the hangings of the court, and the screen for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and whatsoever shall be done with them: therein shall they serve.
+
+**[4:27]** At the commandment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burden, and in all their service; and ye shall appoint unto them in charge all their burden.
+
+**[4:28]** This is the service of the families of the sons of the Gershonites in the tent of meeting: and their charge shall be under the hand of Ithamar the son of Aaron the priest.
+
+**[4:29]** As for the sons of Merari, thou shalt number them by their families, by their fathers' houses;
+
+**[4:30]** from thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth upon the service, to do the work of the tent of meeting.
+
+**[4:31]** And this is the charge of their burden, according to all their service in the tent of meeting: the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof,
+
+**[4:32]** and the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall appoint the instruments of the charge of their burden.
+
+**[4:33]** This is the service of the families of the sons of Merari, according to all their service, in the tent of meeting, under the hand of Ithamar the son of Aaron the priest.
+
+**[4:34]** And Moses and Aaron and the princes of the congregation numbered the sons of the Kohathites by their families, and by their fathers' houses,
+
+**[4:35]** from thirty years old and upward even unto fifty years old, every one that entered upon the service, for work in the tent of meeting:
+
+**[4:36]** and those that were numbered of them by their families were two thousand seven hundred and fifty.
+
+**[4:37]** These are they that were numbered of the families of the Kohathites, all that did serve in the tent of meeting, whom Moses and Aaron numbered according to the commandment of Jehovah by Moses.
+
+**[4:38]** And those that were numbered of the sons of Gershon, their families, and by their fathers' houses,
+
+**[4:39]** from thirty years old and upward even unto fifty years old, every one that entered upon the service, for work in the tent of meeting,
+
+**[4:40]** even those that were numbered of them, by their families, by their fathers' houses, were two thousand and six hundred and thirty.
+
+**[4:41]** These are they that were numbered of the families of the sons of Gershon, all that did serve in the tent of meeting, whom Moses and Aaron numbered according to the commandment of Jehovah.
+
+**[4:42]** And those that were numbered of the families of the sons of Merari, by their families, by their fathers' houses,
+
+**[4:43]** from thirty years old and upward even unto fifty years old, every one that entered upon the service, for work in the tent of meeting,
+
+**[4:44]** even those that were numbered of them by their families, were three thousand and two hundred.
+
+**[4:45]** These are they that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the commandment of Jehovah by Moses.
+
+**[4:46]** All those that were numbered of the Levites, whom Moses and Aaron and the princes of Israel numbered, by their families, and by their fathers' houses,
+
+**[4:47]** from thirty years old and upward even unto fifty years old, every one that entered in to do the work of service, and the work of bearing burdens in the tent of meeting,
+
+**[4:48]** even those that were numbered of them, were eight thousand and five hundred and fourscore.
+
+**[4:49]** According to the commandment of Jehovah they were numbered by Moses, every one according to his service, and according to his burden: thus were they numbered of him, as Jehovah commanded Moses.
+
+**[5:1]** And Jehovah spake unto Moses, saying,
+
+**[5:2]** Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is unclean by the dead:
+
+**[5:3]** both male and female shall ye put out, without the camp shall ye put them; that they defile not their camp, in the midst whereof I dwell.
+
+**[5:4]** And the children of Israel did so, and put them out without the camp; as Jehovah spake unto Moses, so did the children of Israel.
+
+**[5:5]** And Jehovah spake unto Moses, saying,
+
+**[5:6]** Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, so as to trespass against Jehovah, and that soul shall be guilty;
+
+**[5:7]** then he shall confess his sin which he hath done: and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty.
+
+**[5:8]** But if the man have no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made unto Jehovah shall be the priest's; besides the ram of the atonement, whereby atonement shall be made for him.
+
+**[5:9]** And every heave-offering of all the holy things of the children of Israel, which they present unto the priest, shall be his.
+
+**[5:10]** And every man's hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.
+
+**[5:11]** And Jehovah spake unto Moses, saying,
+
+**[5:12]** Speak unto the children of Israel, and say unto them, If any man's wife go aside, and commit a trespass against him,
+
+**[5:13]** and a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, and she be not taken in the act;
+
+**[5:14]** and the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:
+
+**[5:15]** then shall the man bring his wife unto the priest, and shall bring her oblation for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is a meal-offering of jealousy, a meal-offering of memorial, bringing iniquity to remembrance.
+
+**[5:16]** And the priest shall bring her near, and set her before Jehovah:
+
+**[5:17]** and the priest shall take holy water in an earthen vessel; and of the dust that is on the floor of the tabernacle the priest shall take, and put it into the water.
+
+**[5:18]** And the priest shall set the woman before Jehovah, and let the hair of the woman's head go loose, and put the meal-offering of memorial in her hands, which is the meal-offering of jealousy: and the priest shall have in his hand the water of bitterness that causeth the curse.
+
+**[5:19]** And the priest shall cause her to swear, and shall say unto the woman, If no man have lain with thee, and if thou have not gone aside to uncleanness, being under thy husband, be thou free from this water of bitterness that causeth the curse.
+
+**[5:20]** But if thou have gone aside, being under thy husband, and if thou be defiled, and some man have lain with thee besides thy husband:
+
+**[5:21]** then the priest shall cause the woman to swear with the oath of cursing, and the priest shall say unto the woman, Jehovah make thee a curse and an oath among thy people, when Jehovah doth make thy thigh to fall away, and thy body to swell;
+
+**[5:22]** and this water that causeth the curse shall go into thy bowels, and make thy body to swell, and thy thigh to fall away. And the woman shall say, Amen, Amen.
+
+**[5:23]** And the priest shall write these curses in a book, and he shall blot them out into the water of bitterness:
+
+**[5:24]** and he shall make the woman drink the water of bitterness that causeth the curse; and the water that causeth the curse shall enter into her `and become' bitter.
+
+**[5:25]** And the priest shall take the meal-offering of jealousy out of the woman's hand, and shall wave the meal-offering before Jehovah, and bring it unto the altar:
+
+**[5:26]** and the priest shall take a handful of the meal-offering, as the memorial thereof, and burn it upon the altar, and afterward shall make the woman drink the water.
+
+**[5:27]** And when he hath made her drink the water, then it shall come to pass, if she be defiled, and have committed a trespass against her husband, that the water that causeth the curse shall enter into her `and become' bitter, and her body shall swell, and her thigh shall fall away: and the woman shall be a curse among her people.
+
+**[5:28]** And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed.
+
+**[5:29]** This is the law of jealousy, when a wife, being under her husband, goeth aside, and is defiled;
+
+**[5:30]** or when the spirit of jealousy cometh upon a man, and he is jealous of his wife; then shall he set the woman before Jehovah, and the priest shall execute upon her all this law.
+
+**[5:31]** And the man shall be free from iniquity, and that woman shall bear her iniquity.
+
+**[6:1]** And Jehovah spake unto Moses, saying,
+
+**[6:2]** Speak unto the children of Israel, and say unto them, When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself unto Jehovah,
+
+**[6:3]** he shall separate himself from wine and strong drink; he shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any juice of grapes, nor eat fresh grapes or dried.
+
+**[6:4]** All the days of his separation shall he eat nothing that is made of the grape-vine, from the kernels even to the husk.
+
+**[6:5]** All the days of his vow of separation there shall no razor come upon his head: until the days be fulfilled, in which he separateth himself unto Jehovah, he shall be holy; he shall let the locks of the hair of his head grow long.
+
+**[6:6]** All the days that he separateth himself unto Jehovah he shall not come near to a dead body.
+
+**[6:7]** He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die; because his separation unto God is upon his head.
+
+**[6:8]** All the days of his separation he is holy unto Jehovah.
+
+**[6:9]** And if any man die very suddenly beside him, and he defile the head of his separation; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it.
+
+**[6:10]** And on the eighth day he shall bring two turtle-doves, or two young pigeons, to the priest, to the door of the tent of meeting:
+
+**[6:11]** and the priest shall offer one for a sin-offering, and the other for a burnt-offering, and make atonement for him, for that he sinned by reason of the dead, and shall hallow his head that same day.
+
+**[6:12]** And he shall separate unto Jehovah the days of his separation, and shall bring a he-lamb a year old for a trespass-offering; but the former days shall be void, because his separation was defiled.
+
+**[6:13]** And this is the law of the Nazirite, when the days of his separation are fulfilled: he shall be brought unto the door of the tent of meeting:
+
+**[6:14]** and he shall offer his oblation unto Jehovah, one he-lamb a year old without blemish for a burnt-offering, and one ewe-lamb a year old without blemish for a sin-offering, and one ram without blemish for peace-offerings,
+
+**[6:15]** and a basket of unleavened bread, cakes of fine flour mingled with oil, and unleavened wafers anointed with oil, and their meal-offering, and their drink-offerings.
+
+**[6:16]** And the priest shall present them before Jehovah, and shall offer his sin-offering, and his burnt-offering:
+
+**[6:17]** and he shall offer the ram for a sacrifice of peace-offerings unto Jehovah, with the basket of unleavened bread: the priest shall offer also the meal-offering thereof, and the drink-offering thereof.
+
+**[6:18]** And the Nazirite shall shave the head of his separation at the door of the tent of meeting, and shall take the hair of the head of his separation, and put it on the fire which is under the sacrifice of peace-offerings.
+
+**[6:19]** And the priest shall take the boiled shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazirite, after he hath shaven `the head of' his separation;
+
+**[6:20]** and the priest shall wave them for a wave-offering before Jehovah; this is holy for the priest, together with the wave-breast and heave-thigh: and after that the Nazirite may drink wine.
+
+**[6:21]** This is the law of the Nazirite who voweth, `and of' his oblation unto Jehovah for his separation, besides that which he is able to get: according to his vow which he voweth, so he must do after the law of his separation.
+
+**[6:22]** And Jehovah spake unto Moses, saying,
+
+**[6:23]** Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel: ye shall say unto them,
+
+**[6:24]** Jehovah bless thee, and keep thee:
+
+**[6:25]** Jehovah make his face to shine upon thee, and be gracious unto thee:
+
+**[6:26]** Jehovah lift up his countenance upon thee, and give thee peace.
+
+**[6:27]** So shall they put my name upon the children of Israel; and I will bless them.
+
+**[7:1]** And it came to pass on the day that Moses had made an end of setting up the tabernacle, and had anointed it and sanctified it, and all the furniture thereof, and the altar and all the vessels thereof, and had anointed them and sanctified them;
+
+**[7:2]** that the princes of Israel, the heads of their fathers' houses, offered. These were the princes of the tribes, these are they that were over them that were numbered:
+
+**[7:3]** and they brought their oblation before Jehovah, six covered wagons, and twelve oxen; a wagon for every two of the princes, and for each one an ox: and they presented them before the tabernacle.
+
+**[7:4]** And Jehovah spake unto Moses, saying,
+
+**[7:5]** Take it of them, that they may be `used' in doing the service of the tent of meeting; and thou shalt give them unto the Levites, to every man according to his service.
+
+**[7:6]** And Moses took the wagons and the oxen, and gave them unto the Levites.
+
+**[7:7]** Two wagons and four oxen he gave unto the sons of Gershon, according to their service:
+
+**[7:8]** and four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest.
+
+**[7:9]** But unto the sons of Kohath he gave none, because the service of the sanctuary belonged unto them; they bare it upon their shoulders.
+
+**[7:10]** And the princes offered for the dedication of the altar in the day that it was anointed, even the princes offered their oblation before the altar.
+
+**[7:11]** And Jehovah said unto Moses, They shall offer their oblation, each prince on his day, for the dedication of the altar.
+
+**[7:12]** And he that offered his oblation the first day was Nahshon the son of Amminadab, of the tribe of Judah:
+
+**[7:13]** and his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:14]** one golden spoon of ten `shekels', full of incense;
+
+**[7:15]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:16]** one male of the goats for a sin-offering;
+
+**[7:17]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Nahshon the son of Amminadab.
+
+**[7:18]** On the second day Nethanel the son of Zuar, prince of Issachar, did offer:
+
+**[7:19]** he offered for his oblation one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:20]** one golden spoon of ten `shekels', full of incense;
+
+**[7:21]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:22]** one male of the goats for a sin-offering;
+
+**[7:23]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Nethanel the son of Zuar.
+
+**[7:24]** On the third day Eliab the son of Helon, prince of the children of Zebulun.:
+
+**[7:25]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:26]** one golden spoon of ten `shekels', full of incense;
+
+**[7:27]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:28]** one male of the goats for a sin-offering;
+
+**[7:29]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Eliab the son of Helon.
+
+**[7:30]** On the fourth day Elizur the son of Shedeur, prince of the children of Reuben:
+
+**[7:31]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:32]** one golden spoon of ten `shekels', full of incense;
+
+**[7:33]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:34]** one male of the goats for a sin-offering;
+
+**[7:35]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Elizur the son of Shedeur.
+
+**[7:36]** On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon:
+
+**[7:37]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:38]** one golden spoon of ten `shekels', full of incense;
+
+**[7:39]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:40]** one male of the goats for a sin-offering;
+
+**[7:41]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Shelumiel the son of Zurishaddai.
+
+**[7:42]** On the sixth day Eliasaph the son of Deuel, prince of the children of Gad:
+
+**[7:43]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:44]** one golden spoon of ten `shekels', full of incense;
+
+**[7:45]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:46]** one male of the goats for a sin-offering;
+
+**[7:47]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Eliasaph the son of Deuel.
+
+**[7:48]** On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim:
+
+**[7:49]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:50]** one golden spoon of ten `shekels', full of incense;
+
+**[7:51]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:52]** one male of the goats for a sin-offering;
+
+**[7:53]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Elishama the son of Ammihud.
+
+**[7:54]** On the eighth day Gamaliel the son of Pedahzur, prince of the children of Manasseh:
+
+**[7:55]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:56]** one golden spoon of ten `shekels', full of incense;
+
+**[7:57]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:58]** one male of the goats for a sin-offering;
+
+**[7:59]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Gamaliel the son of Pedahzur.
+
+**[7:60]** On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin:
+
+**[7:61]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:62]** one golden spoon of ten `shekels', full of incense;
+
+**[7:63]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:64]** one male of the goats for a sin-offering;
+
+**[7:65]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Abidan the son of Gideoni.
+
+**[7:66]** On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan:
+
+**[7:67]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:68]** one golden spoon of ten `shekels', full of incense;
+
+**[7:69]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:70]** one male of the goats for a sin-offering;
+
+**[7:71]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Ahiezer the son of Ammishaddai.
+
+**[7:72]** On the eleventh day Pagiel the son of Ochran, prince of the children of Asher:
+
+**[7:73]** his oblation was one silver platter, the weight whereof was a hundred and thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:74]** one golden spoon of ten `shekels', full of incense;
+
+**[7:75]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:76]** one male of the goats for a sin-offering;
+
+**[7:77]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Pagiel the son of Ochran.
+
+**[7:78]** On the twelfth day Ahira the son of Enan, prince of the children of Naphtali:
+
+**[7:79]** his oblation was one silver platter, the weight whereof was a hundred a thirty `shekels', one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering;
+
+**[7:80]** one golden spoon of ten `shekels', full of incense;
+
+**[7:81]** one young bullock, one ram, one he-lamb a year old, for a burnt-offering;
+
+**[7:82]** one male of the goats for a sin-offering;
+
+**[7:83]** and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Ahira the son of Enan.
+
+**[7:84]** This was the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve silver platters, twelve silver bowls, twelve golden spoons;
+
+**[7:85]** each silver platter `weighing' a hundred and thirty `shekels', and each bowl seventy; all the silver of the vessels two thousand and four hundred `shekels', after the shekel of the sanctuary;
+
+**[7:86]** the twelve golden spoons, full of incense, `weighing' ten `shekels' apiece, after the shekel of the sanctuary; all the gold of the spoons a hundred and twenty `shekels';
+
+**[7:87]** all the oxen for the burnt-offering twelve bullocks, the rams twelve, the he-lambs a year old twelve, and their meal-offering; and the males of the goats for a sin-offering twelve;
+
+**[7:88]** and all the oxen for the sacrifice of peace-offerings twenty and four bullocks, the rams sixty, the he-goats sixty, the he-lambs a year old sixty. This was the dedication of the altar, after that it was anointed.
+
+**[7:89]** And when Moses went into the tent of meeting to speak with him, then he heard the Voice speaking unto him from above the mercy-seat that was upon the ark of the testimony, from between the two cherubim: and he spake unto him.
+
+**[8:1]** And Jehovah spake unto Moses, saying,
+
+**[8:2]** Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light in front of the candlestick.
+
+**[8:3]** And Aaron did so; he lighted the lamps thereof `so as to give light' in front of the candlestick, as Jehovah commanded Moses.
+
+**[8:4]** And this was the work of the candlestick, beaten work of gold; unto the base thereof, `and' unto the flowers thereof, it was beaten work: according unto the pattern which Jehovah had showed Moses, so he made the candlestick.
+
+**[8:5]** And Jehovah spake unto Moses, saying,
+
+**[8:6]** Take the Levites from among the children of Israel, and cleanse them.
+
+**[8:7]** And thus shalt thou do unto them, to cleanse them: sprinkle the water of expiation upon them, and let them cause a razor to pass over all their flesh, and let them wash their clothes, and cleanse themselves.
+
+**[8:8]** Then let them take a young bullock, and its meal-offering, fine flour mingled with oil; and another young bullock shalt thou take for a sin-offering.
+
+**[8:9]** And thou shalt present the Levites before the tent of meeting: and thou shalt assemble the whole congregation of the children of Israel:
+
+**[8:10]** and thou shalt present the Levites before Jehovah. And the children of Israel shall lay their hands upon the Levites:
+
+**[8:11]** and Aaron shall offer the Levites before Jehovah for a wave-offering, on the behalf of the children of Israel, that it may be theirs to do the service of Jehovah.
+
+**[8:12]** And the Levites shall lay their hands upon the heads of the bullocks: and offer thou the one for a sin-offering, and the other for a burnt-offering, unto Jehovah, to make atonement for the Levites.
+
+**[8:13]** And thou shalt set the Levites before Aaron, and before his sons, and offer them for a wave-offering unto Jehovah.
+
+**[8:14]** Thus shalt thou separate the Levites from among the children of Israel; and the Levites shall be mine.
+
+**[8:15]** And after that shall the Levites go in to do the service of the tent of meeting: and thou shalt cleanse them, and offer them for a wave-offering.
+
+**[8:16]** For they are wholly given unto me from among the children of Israel; instead of all that openeth the womb, even the first-born of all the children of Israel, have I taken them unto me.
+
+**[8:17]** For all the first-born among the children of Israel are mine, both man and beast: on the day that I smote all the first-born in the land of Egypt I sanctified them for myself.
+
+**[8:18]** And I have taken the Levites instead of all the first-born among the children of Israel.
+
+**[8:19]** And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tent of meeting, and to make atonement for the children of Israel; that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.
+
+**[8:20]** Thus did Moses, and Aaron, and all the congregation of the children of Israel, unto the Levites: according unto all that Jehovah commanded Moses touching the Levites, so did the children of Israel unto them.
+
+**[8:21]** And the Levites purified themselves from sin, and they washed their clothes: and Aaron offered them for a wave-offering before Jehovah; and Aaron made atonement for them to cleanse them.
+
+**[8:22]** And after that went the Levites in to do their service in the tent of meeting before Aaron, and before his sons: as Jehovah had commanded Moses concerning the Levites, so did they unto them.
+
+**[8:23]** And Jehovah spake unto Moses, saying,
+
+**[8:24]** This is that which belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service in the work of the tent of meeting:
+
+**[8:25]** and from the age of fifty years they shall cease waiting upon the work, and shall serve no more,
+
+**[8:26]** but shall minister with their brethren in the tent of meeting, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charges.
+
+**[9:1]** And Jehovah spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
+
+**[9:2]** Moreover let the children of Israel keep the passover in its appointed season.
+
+**[9:3]** In the fourteenth day of this month, at even, ye shall keep it in its appointed season: according to all the statutes of it, and according to all the ordinances thereof, shall ye keep it.
+
+**[9:4]** And Moses spake unto the children of Israel, that they should keep the passover.
+
+**[9:5]** And they kept the passover in the first `month', on the fourteenth day of the month, at even, in the wilderness of Sinai: according to all that Jehovah commanded Moses, so did the children of Israel.
+
+**[9:6]** And there were certain men, who were unclean by reason of the dead body of a man, so that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:
+
+**[9:7]** and those men said unto him, We are unclean by reason of the dead body of a man: wherefore are we kept back, that we may not offer the oblation of Jehovah in its appointed season among the children of Israel?
+
+**[9:8]** And Moses said unto them, Stay ye, that I may hear what Jehovah will command concerning you.
+
+**[9:9]** And Jehovah spake unto Moses, saying,
+
+**[9:10]** Speak unto the children of Israel, saying, If any man of you or of your generations shall be unclean by reason of a dead body, or be on a journey afar off, yet he shall keep the passover unto Jehovah.
+
+**[9:11]** In the second month on the fourteenth day at even they shall keep it; they shall eat it with unleavened bread and bitter herbs:
+
+**[9:12]** they shall leave none of it unto the morning, nor break a bone thereof: according to all the statute of the passover they shall keep it.
+
+**[9:13]** But the man that is clean, and is not on a journey, and forbeareth to keep the passover, that soul shall be cut off from his people; because he offered not the oblation of Jehovah in its appointed season, that man shall bear his sin.
+
+**[9:14]** And if a stranger shall sojourn among you, and will keep the passover unto Jehovah; according to the statute of the passover, and according to the ordinance thereof, so shall he do: ye shall have one statute, both for the sojourner, and for him that is born in the land.
+
+**[9:15]** And on the day that the tabernacle was reared up the cloud covered the tabernacle, even the tent of the testimony: and at even it was upon the tabernacle as it were the appearance of fire, until morning.
+
+**[9:16]** So it was alway: the cloud covered it, and the appearance of fire by night.
+
+**[9:17]** And whenever the cloud was taken up from over the Tent, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel encamped.
+
+**[9:18]** At the commandment of Jehovah the children of Israel journeyed, and at the commandment of Jehovah they encamped: as long as the cloud abode upon the tabernacle they remained encamped.
+
+**[9:19]** And when the cloud tarried upon the tabernacle many days, then the children of Israel kept the charge of Jehovah, and journeyed not.
+
+**[9:20]** And sometimes the cloud was a few days upon the tabernacle; then according to the commandment of Jehovah they remained encamped, and according to the commandment of Jehovah they journeyed.
+
+**[9:21]** And sometimes the cloud was from evening until morning; and when the cloud was taken up in the morning, they journeyed: or `if it continued' by day and by night, when the cloud was taken up, they journeyed.
+
+**[9:22]** Whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, abiding thereon, the children of Israel remained encamped, and journeyed not; but when it was taken up, they journeyed.
+
+**[9:23]** At the commandment of Jehovah they encamped, and at the commandment of Jehovah they journeyed: they kept the charge of Jehovah, at the commandment of Jehovah by Moses.
+
+**[10:1]** And Jehovah spake unto Moses, saying,
+
+**[10:2]** Make thee two trumpets of silver; of beaten work shalt thou make them: and thou shalt use them for the calling of the congregation, and for the journeying of the camps.
+
+**[10:3]** And when they shall blow them, all the congregation shall gather themselves unto thee at the door of the tent of meeting.
+
+**[10:4]** And if they blow but one, then the princes, the heads of the thousands of Israel, shall gather themselves unto thee.
+
+**[10:5]** And when ye blow an alarm, the camps that lie on the east side shall take their journey.
+
+**[10:6]** And when ye blow an alarm the second time, the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.
+
+**[10:7]** But when the assembly is to be gathered together, ye shall blow, but ye shall not sound an alarm.
+
+**[10:8]** And the sons of Aaron, the priests, shall blow the trumpets; and they shall be to you for a statute for ever throughout your generations.
+
+**[10:9]** And when ye go to war in your land against the adversary that oppresseth you, then ye shall sound an alarm with the trumpets; and ye shall be remembered before Jehovah your God, and ye shall be saved from your enemies.
+
+**[10:10]** Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, ye shall blow the trumpets over your burnt-offerings, and over the sacrifices of your peace-offerings; and they shall be to you for a memorial before your God: I am Jehovah your God.
+
+**[10:11]** And it came to pass in the second year, in the second month, on the twentieth day of the month, that the cloud was taken up from over the tabernacle of the testimony.
+
+**[10:12]** And the children of Israel set forward according to their journeys out of the wilderness of Sinai; and the cloud abode in the wilderness of Paran.
+
+**[10:13]** And they first took their journey according to the commandment of Jehovah by Moses.
+
+**[10:14]** And in the first `place' the standard of the camp of the children of Judah set forward according to their hosts: and over his host was Nahshon the son of Amminadab.
+
+**[10:15]** And over the host of the tribe of the children of Issachar was Nethanel the son of Zuar.
+
+**[10:16]** And over the host of the tribe of the children of Zebulun was Eliab the son of Helon.
+
+**[10:17]** And the tabernacle was taken down; and the sons of Gershon and the sons of Merari, who bare the tabernacle, set forward.
+
+**[10:18]** And the standard of the camp of Reuben set forward according to their hosts: and over his host was Elizur the son of Shedeur.
+
+**[10:19]** And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai.
+
+**[10:20]** And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel.
+
+**[10:21]** And the Kohathites set forward, bearing the sanctuary: and `the others' did set up the tabernacle against their coming.
+
+**[10:22]** And the standard of the camp of the children of Ephraim set forward according to their hosts: and over his host was Elishama the son of Ammihud.
+
+**[10:23]** And over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur.
+
+**[10:24]** And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni.
+
+**[10:25]** And the standard of the camp of the children of Dan, which was the rearward of all the camps, set forward according to their hosts: and over his host was Ahiezer the son of Ammishaddai.
+
+**[10:26]** And over the host of the tribe of the children of Asher was Pagiel the son of Ochran.
+
+**[10:27]** And over the host of the tribe of the children of Naphtali was Ahira the son of Enan.
+
+**[10:28]** Thus were the journeyings of the children of Israel according to their hosts; and they set forward.
+
+**[10:29]** And Moses said unto Hobab, the son of Reuel the Midianite, Moses' father-in-law, We are journeying unto the place of which Jehovah said, I will give it you: come thou with us, and we will do thee good; for Jehovah hath spoken good concerning Israel.
+
+**[10:30]** And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.
+
+**[10:31]** And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou shalt be to us instead of eyes.
+
+**[10:32]** And it shall be, if thou go with us, yea, it shall be, that what good soever Jehovah shall do unto us, the same will we do unto thee.
+
+**[10:33]** And they set forward from the mount of Jehovah three days' journey; and the ark of the covenant of Jehovah went before them three days' journey, to seek out a resting-place for them.
+
+**[10:34]** And the cloud of Jehovah was over them by day, when they set forward from the camp.
+
+**[10:35]** And it came to pass, when the ark set forward, that Moses said, Rise up, O Jehovah, and let thine enemies be scattered; and let them that hate thee flee before thee.
+
+**[10:36]** And when it rested, he said, Return, O Jehovah, unto the ten thousands of the thousands of Israel.
+
+**[11:1]** And the people were as murmurers, `speaking' evil in the ears of Jehovah: and when Jehovah heard it, his anger was kindled; and the fire of Jehovah burnt among them, and devoured in the uttermost part of the camp.
+
+**[11:2]** And the people cried unto Moses; and Moses prayed unto Jehovah, and the fire abated.
+
+**[11:3]** And the name of that place was called Taberah, because the fire of Jehovah burnt among them.
+
+**[11:4]** And the mixed multitude that was among them lusted exceedingly: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
+
+**[11:5]** We remember the fish, which we did eat in Egypt for nought; the cucumbers, and the melons, and the leeks, and the onions, and the garlic:
+
+**[11:6]** but now our soul is dried away; there is nothing at all save this manna to look upon.
+
+**[11:7]** And the manna was like coriander seed, and the appearance thereof as the appearance of bdellium.
+
+**[11:8]** The people went about, and gathered it, and ground it in mills, or beat it in mortars, and boiled it in pots, and made cakes of it: and the taste of it was as the taste of fresh oil.
+
+**[11:9]** And when the dew fell upon the camp in the night, the manna fell upon it.
+
+**[11:10]** And Moses heard the people weeping throughout their families, every man at the door of his tent: and the anger of Jehovah was kindled greatly; and Moses was displeased.
+
+**[11:11]** And Moses said unto Jehovah, Wherefore hast thou dealt ill with thy servant? and wherefore have I not found favor in thy sight, that thou layest the burden of all this people upon me?
+
+**[11:12]** Have I conceived all this people? have I brought them forth, that thou shouldest say unto me, Carry them in thy bosom, as a nursing-father carrieth the sucking child, unto the land which thou swarest unto their fathers?
+
+**[11:13]** Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
+
+**[11:14]** I am not able to bear all this people alone, because it is too heavy for me.
+
+**[11:15]** And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favor in thy sight; and let me not see my wretchedness.
+
+**[11:16]** And Jehovah said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tent of meeting, that they may stand there with thee.
+
+**[11:17]** And I will come down and talk with thee there: and I will take of the Spirit which is upon thee, and will put it upon them; and they shall bear the burden of the people with thee, that thou bear it not thyself alone.
+
+**[11:18]** And say thou unto the people, Sanctify yourselves against to-morrow, and ye shall eat flesh; for ye have wept in the ears of Jehovah, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore Jehovah will give you flesh, and ye shall eat.
+
+**[11:19]** Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days,
+
+**[11:20]** but a whole month, until it come out at your nostrils, and it be loathsome unto you; because that ye have rejected Jehovah who is among you, and have wept before him, saying, Why came we forth out of Egypt?
+
+**[11:21]** And Moses said, The people, among whom I am, are six hundred thousand footmen; and thou hast said, I will give them flesh, that they may eat a whole month.
+
+**[11:22]** Shall flocks and herds be slain for them, to suffice them? or shall all the fish of the sea be gathered together for them, to suffice them?
+
+**[11:23]** And Jehovah said unto Moses, Is Jehovah's hand waxed short? now shalt thou see whether my word shall come to pass unto thee or not.
+
+**[11:24]** And Moses went out, and told the people the words of Jehovah: and he gathered seventy men of the elders of the people, and set them round about the Tent.
+
+**[11:25]** And Jehovah came down in the cloud, and spake unto him, and took of the Spirit that was upon him, and put it upon the seventy elders: and it came to pass, that, when the Spirit rested upon them, they prophesied, but they did so no more.
+
+**[11:26]** But there remained two men in the camp, the name of the one was Eldad, and the name of the other Medad: and the Spirit rested upon them; and they were of them that were written, but had not gone out unto the Tent; and they prophesied in the camp.
+
+**[11:27]** And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.
+
+**[11:28]** And Joshua the son of Nun, the minister of Moses, one of his chosen men, answered and said, My lord Moses, forbid them.
+
+**[11:29]** And Moses said unto him, Art thou jealous for my sake? would that all Jehovah's people were prophets, that Jehovah would put his Spirit upon them!
+
+**[11:30]** And Moses gat him into the camp, he and the elders of Israel.
+
+**[11:31]** And there went forth a wind from Jehovah, and brought quails from the sea, and let them fall by the camp, about a day's journey on this side, and a day's journey on the other side, round about the camp, and about two cubits above the face of the earth.
+
+**[11:32]** And the people rose up all that day, and all the night, and all the next day, and gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp.
+
+**[11:33]** While the flesh was yet between their teeth, ere it was chewed, the anger of Jehovah was kindled against the people, and Jehovah smote the people with a very great plague.
+
+**[11:34]** And the name of that place was called Kibrothhattaavah, because there they buried the people that lusted.
+
+**[11:35]** From Kibrothhattaavah the people journeyed unto Hazeroth; and they abode at Hazeroth.
+
+**[12:1]** And Miriam and Aaron spake against Moses because of the Cushite woman whom he had married; for he had married a Cushite woman.
+
+**[12:2]** And they said, Hath Jehovah indeed spoken only with Moses? hath he not spoken also with us? And Jehovah heard it.
+
+**[12:3]** Now the man Moses was very meek, above all the men that were upon the face of the earth.
+
+**[12:4]** And Jehovah spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tent of meeting. And they three came out.
+
+**[12:5]** And Jehovah came down in a pillar of cloud, and stood at the door of the Tent, and called Aaron and Miriam; and they both came forth.
+
+**[12:6]** And he said, Hear now my words: if there be a prophet among you, I Jehovah will make myself known unto him in a vision, I will speak with him in a dream.
+
+**[12:7]** My servant Moses is not so; he is faithful in all my house:
+
+**[12:8]** with him will I speak mouth to mouth, even manifestly, and not in dark speeches; and the form of Jehovah shall he behold: wherefore then were ye not afraid to speak against my servant, against Moses?
+
+**[12:9]** And the anger of Jehovah was kindled against them; and he departed.
+
+**[12:10]** And the cloud removed from over the Tent; and, behold, Miriam was leprous, as `white as' snow: and Aaron looked upon Miriam, and, behold, she was leprous.
+
+**[12:11]** And Aaron said unto Moses, Oh, my lord, lay not, I pray thee, sin upon us, for that we have done foolishly, and for that we have sinned.
+
+**[12:12]** Let her not, I pray, be as one dead, of whom the flesh is half consumed when he cometh out of his mother's womb.
+
+**[12:13]** And Moses cried unto Jehovah, saying, Heal her, O God, I beseech thee.
+
+**[12:14]** And Jehovah said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut up without the camp seven days, and after that she shall be brought in again.
+
+**[12:15]** And Miriam was shut up without the camp seven days: and the people journeyed not till Miriam was brought in again.
+
+**[12:16]** And afterward the people journeyed from Hazeroth, and encamped in the wilderness of Paran.
+
+**[13:1]** And Jehovah spake unto Moses, saying,
+
+**[13:2]** Send thou men, that they may spy out the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a prince among them.
+
+**[13:3]** And Moses sent them from the wilderness of Paran according to the commandment of Jehovah: all of them men who were heads of the children of Israel.
+
+**[13:4]** And these were their names: Of the tribe of Reuben, Shammua the son of Zaccur.
+
+**[13:5]** Of the tribe of Simeon, Shaphat the son of Hori.
+
+**[13:6]** Of the tribe of Judah, Caleb the son of Jephunneh.
+
+**[13:7]** Of the tribe of Issachar, Igal the son of Joseph.
+
+**[13:8]** Of the tribe of Ephraim, Hoshea the son of Nun.
+
+**[13:9]** Of the tribe of Benjamin, Palti the son of Raphu.
+
+**[13:10]** Of the tribe of Zebulun, Gaddiel the son of Sodi.
+
+**[13:11]** Of the tribe of Joseph, `namely', of the tribe of Manasseh, Gaddi the son of Susi.
+
+**[13:12]** Of the tribe of Dan, Ammiel the son of Gemalli.
+
+**[13:13]** Of the tribe of Asher, Sethur the son of Michael.
+
+**[13:14]** Of the tribe of Naphtali, Nahbi the son of Vophsi.
+
+**[13:15]** Of the tribe of Gad, Geuel the son of Machi.
+
+**[13:16]** These are the names of the men that Moses sent to spy out the land. And Moses called Hoshea the son of Nun Joshua.
+
+**[13:17]** And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way by the South, and go up into the hill-country:
+
+**[13:18]** and see the land, what it is; and the people that dwell therein, whether they are strong or weak, whether they are few or many;
+
+**[13:19]** and what the land is that they dwell in, whether it is good or bad; and what cities they are that they dwell in, whether in camps, or in strongholds;
+
+**[13:20]** and what the land is, whether it is fat or lean, whether there is wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the first-ripe grapes.
+
+**[13:21]** So they went up, and spied out the land from the wilderness of Zin unto Rehob, to the entrance of Hamath.
+
+**[13:22]** And they went up by the South, and came unto Hebron; and Ahiman, Sheshai, and Talmai, the children of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
+
+**[13:23]** And they came unto the valley of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it upon a staff between two; `they brought' also of the pomegranates, and of the figs.
+
+**[13:24]** That place was called the valley of Eshcol, because of the cluster which the children of Israel cut down from thence.
+
+**[13:25]** And they returned from spying out the land at the end of forty days.
+
+**[13:26]** And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and showed them the fruit of the land.
+
+**[13:27]** And they told him, and said, We came unto the land whither thou sentest us; and surely it floweth with milk and honey; and this is the fruit of it.
+
+**[13:28]** Howbeit the people that dwell in the land are strong, and the cities are fortified, `and' very great: and moreover we saw the children of Anak there.
+
+**[13:29]** Amalek dwelleth in the land of the South: and the Hittite, and the Jebusite, and the Amorite, dwell in the hill-country; and the Canaanite dwelleth by the sea, and along by the side of the Jordan.
+
+**[13:30]** And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
+
+**[13:31]** But the men that went up with him said, We are not able to go up against the people; for they are stronger than we.
+
+**[13:32]** And they brought up an evil report of the land which they had spied out unto the children of Israel, saying, The land, through which we have gone to spy it out, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of great stature.
+
+**[13:33]** And there we saw the Nephilim, the sons of Anak, who come of the Nephilim: and we were in our own sight as grasshoppers, and so we were in their sight.
+
+**[14:1]** And all the congregation lifted up their voice, and cried; and the people wept that night.
+
+**[14:2]** And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would that we had died in the land of Egypt! or would that we had died in this wilderness!
+
+**[14:3]** And wherefore doth Jehovah bring us unto this land, to fall by the sword? Our wives and our little ones will be a prey: were it not better for us to return into Egypt?
+
+**[14:4]** And they said one to another, Let us make a captain, and let us return into Egypt.
+
+**[14:5]** Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.
+
+**[14:6]** And Joshua the son of Nun and Caleb the son of Jephunneh, who were of them that spied out the land, rent their clothes:
+
+**[14:7]** and they spake unto all the congregation of the children of Israel, saying, The land, which we passed through to spy it out, is an exceeding good land.
+
+**[14:8]** If Jehovah delight in us, then he will bring us into this land, and give it unto us; a land which floweth with milk and honey.
+
+**[14:9]** Only rebel not against Jehovah, neither fear ye the people of the land; for they are bread for us: their defence is removed from over them, and Jehovah is with us: fear them not.
+
+**[14:10]** But all the congregation bade stone them with stones. And the glory of Jehovah appeared in the tent of meeting unto all the children of Israel.
+
+**[14:11]** And Jehovah said unto Moses, How long will this people despise me? and how long will they not believe in me, for all the signs which I have wrought among them?
+
+**[14:12]** I will smite them with the pestilence, and disinherit them, and will make of thee a nation greater and mightier than they.
+
+**[14:13]** And Moses said unto Jehovah, Then the Egyptians will hear it; for thou broughtest up this people in thy might from among them;
+
+**[14:14]** and they will tell it to the inhabitants of this land. They have heard that thou Jehovah art in the midst of this people; for thou Jehovah art seen face to face, and thy cloud standeth over them, and thou goest before them, in a pillar of cloud by day, and in a pillar of fire by night.
+
+**[14:15]** Now if thou shalt kill this people as one man, then the nations which have heard the fame of thee will speak, saying,
+
+**[14:16]** Because Jehovah was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness.
+
+**[14:17]** And now, I pray thee, let the power of the Lord be great, according as thou hast spoken, saying,
+
+**[14:18]** Jehovah is slow to anger, and abundant in lovingkindness, forgiving iniquity and transgression; and that will by no means clear `the guilty', visiting the iniquity of the fathers upon the children, upon the third and upon the fourth generation.
+
+**[14:19]** Pardon, I pray thee, the iniquity of this people according unto the greatness of thy lovingkindness, and according as thou hast forgiven this people, from Egypt even until now.
+
+**[14:20]** And Jehovah said, I have pardoned according to thy word:
+
+**[14:21]** but in very deed, as I live, and as all the earth shall be filled with the glory of Jehovah;
+
+**[14:22]** because all those men that have seen my glory, and my signs, which I wrought in Egypt and in the wilderness, yet have tempted me these ten times, and have not hearkened to my voice;
+
+**[14:23]** surely they shall not see the land which I sware unto their fathers, neither shall any of them that despised me see it:
+
+**[14:24]** but my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.
+
+**[14:25]** Now the Amalekite and the Canaanite dwell in the valley: to-morrow turn ye, and get you into the wilderness by the way to the Red Sea.
+
+**[14:26]** And Jehovah spake unto Moses and unto Aaron, saying,
+
+**[14:27]** How long `shall I bear' with this evil congregation, that murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me.
+
+**[14:28]** Say unto them, As I live, saith Jehovah, surely as ye have spoken in mine ears, so will I do to you:
+
+**[14:29]** your dead bodies shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, that have murmured against me,
+
+**[14:30]** surely ye shall not come into the land, concerning which I sware that I would make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.
+
+**[14:31]** But your little ones, that ye said should be a prey, them will I bring in, and they shall know the land which ye have rejected.
+
+**[14:32]** But as for you, your dead bodies shall fall in this wilderness.
+
+**[14:33]** And your children shall be wanderers in the wilderness forty years, and shall bear your whoredoms, until your dead bodies be consumed in the wilderness.
+
+**[14:34]** After the number of the days in which ye spied out the land, even forty days, for every day a year, shall ye bear your iniquities, even forty years, and ye shall know my alienation.
+
+**[14:35]** I, Jehovah, have spoken, surely this will I do unto all this evil congregation, that are gathered together against me: in this wilderness they shall be consumed, and there they shall die.
+
+**[14:36]** And the men, whom Moses sent to spy out the land, who returned, and made all the congregation to murmur against him, by bringing up an evil report against the land,
+
+**[14:37]** even those men that did bring up an evil report of the land, died by the plague before Jehovah.
+
+**[14:38]** But Joshua the son of Nun, and Caleb the son of Jephunneh, remained alive of those men that went to spy out the land.
+
+**[14:39]** And Moses told these words unto all the children of Israel: and the people mourned greatly.
+
+**[14:40]** And they rose up early in the morning, and gat them up to the top of the mountain, saying, Lo, we are here, and will go up unto the place which Jehovah hath promised: for we have sinned.
+
+**[14:41]** And Moses said, Wherefore now do ye transgress the commandment of Jehovah, seeing it shall not prosper?
+
+**[14:42]** Go not up, for Jehovah is not among you; that ye be not smitten down before your enemies.
+
+**[14:43]** For there the Amalekite and the Canaanite are before you, and ye shall fall by the sword: because ye are turned back from following Jehovah, therefore Jehovah will not be with you.
+
+**[14:44]** But they presumed to go up to the top of the mountain: nevertheless the ark of the covenant of Jehovah, and Moses, departed not out of the camp.
+
+**[14:45]** Then the Amalekite came down, and the Canaanite who dwelt in that mountain, and smote them and beat them down, even unto Hormah.
+
+**[15:1]** And Jehovah spake unto Moses, saying,
+
+**[15:2]** Speak unto the children of Israel, and say unto them, When ye are come into the land of your habitations, which I give unto you,
+
+**[15:3]** and will make an offering by fire unto Jehovah, a burnt-offering, or a sacrifice, to accomplish a vow, or as a freewill-offering, or in your set feasts, to make a sweet savor unto Jehovah, of the herd, or of the flock;
+
+**[15:4]** then shall he that offereth his oblation offer unto Jehovah a meal-offering of a tenth part `of an ephah' of fine flour mingled with the fourth part of a hin of oil:
+
+**[15:5]** and wine for the drink-offering, the fourth part of a hin, shalt thou prepare with the burnt-offering, or for the sacrifice, for each lamb.
+
+**[15:6]** Or for a ram, thou shalt prepare for a meal-offering two tenth parts `of an ephah' of fine flour mingled with the third part of a hin of oil:
+
+**[15:7]** and for the drink-offering thou shalt offer the third part of a hin of wine, of a sweet savor unto Jehovah.
+
+**[15:8]** And when thou preparest a bullock for a burnt-offering, or for a sacrifice, to accomplish a vow, or for peace-offerings unto Jehovah;
+
+**[15:9]** then shall he offer with the bullock a meal-offering of three tenth parts `of an ephah' of fine flour mingled with half a hin of oil:
+
+**[15:10]** and thou shalt offer for the drink-offering half a hin of wine, for an offering made by fire, of a sweet savor unto Jehovah.
+
+**[15:11]** Thus shall it be done for each bullock, or for each ram, or for each of the he-lambs, or of the kids.
+
+**[15:12]** According to the number that ye shall prepare, so shall ye do to every one according to their number.
+
+**[15:13]** All that are home-born shall do these things after this manner, in offering an offering made by fire, of a sweet savor unto Jehovah.
+
+**[15:14]** And if a stranger sojourn with you, or whosoever may be among you throughout your generations, and will offer an offering made by fire, of a sweet savor unto Jehovah; as ye do, so he shall do.
+
+**[15:15]** For the assembly, there shall be one statute for you, and for the stranger that sojourneth `with you', a statute for ever throughout your generations: as ye are, so shall the sojourner be before Jehovah.
+
+**[15:16]** One law and one ordinance shall be for you, and for the stranger that sojourneth with you.
+
+**[15:17]** And Jehovah spake unto Moses, saying,
+
+**[15:18]** Speak unto the children of Israel, and say unto them, When ye come into the land whither I bring you,
+
+**[15:19]** then it shall be, that, when ye eat of the bread of the land, ye shall offer up a heave-offering unto Jehovah.
+
+**[15:20]** Of the first of your dough ye shall offer up a cake for a heave-offering: as the heave-offering of the threshing-floor, so shall ye heave it.
+
+**[15:21]** Of the first of your dough ye shall give unto Jehovah a heave-offering throughout your generations.
+
+**[15:22]** And when ye shall err, and not observe all these commandments, which Jehovah hath spoken unto Moses,
+
+**[15:23]** even all that Jehovah hath commanded you by Moses, from the day that Jehovah gave commandment, and onward throughout your generations;
+
+**[15:24]** then it shall be, if it be done unwittingly, without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt-offering, for a sweet savor unto Jehovah, with the meal-offering thereof, and the drink-offering thereof, according to the ordinance, and one he-goat for a sin-offering.
+
+**[15:25]** And the priest shall make atonement for all the congregation of the children of Israel, and they shall be forgiven; for it was an error, and they have brought their oblation, an offering made by fire unto Jehovah, and their sin-offering before Jehovah, for their error:
+
+**[15:26]** and all the congregation of the children of Israel shall be forgiven, and the stranger that sojourneth among them; for in respect of all the people it was done unwittingly.
+
+**[15:27]** And if one person sin unwittingly, then he shall offer a she-goat a year old for a sin-offering.
+
+**[15:28]** And the priest shall make atonement for the soul that erreth, when he sinneth unwittingly, before Jehovah, to make atonement for him; and he shall be forgiven.
+
+**[15:29]** Ye shall have one law for him that doeth aught unwittingly, for him that is home-born among the children of Israel, and for the stranger that sojourneth among them.
+
+**[15:30]** But the soul that doeth aught with a high hand, whether he be home-born or a sojourner, the same blasphemeth Jehovah; and that soul shall be cut off from among his people.
+
+**[15:31]** Because he hath despised the word of Jehovah, and hath broken his commandment, that soul shall utterly be cut off; his iniquity shall be upon him.
+
+**[15:32]** And while the children of Israel were in the wilderness, they found a man gathering sticks upon the sabbath day.
+
+**[15:33]** And they that found him gathering sticks brought him unto Moses and Aaron, and unto all the congregation.
+
+**[15:34]** And they put him in ward, because it had not been declared what should be done to him.
+
+**[15:35]** And Jehovah said unto Moses, The man shall surely be put to death: all the congregation shall stone him with stones without the camp.
+
+**[15:36]** And all the congregation brought him without the camp, and stoned him to death with stones; as Jehovah commanded Moses.
+
+**[15:37]** And Jehovah spake unto Moses, saying,
+
+**[15:38]** Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of each border a cord of blue:
+
+**[15:39]** and it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of Jehovah, and do them; and that ye follow not after your own heart and your own eyes, after which ye use to play the harlot;
+
+**[15:40]** that ye may remember and do all my commandments, and be holy unto your God.
+
+**[15:41]** I am Jehovah your God, who brought you out of the land of Egypt, to be your God: I am Jehovah your God.
+
+**[16:1]** Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took `men':
+
+**[16:2]** and they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the congregation, called to the assembly, men of renown;
+
+**[16:3]** and they assembled themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and Jehovah is among them: wherefore then lift ye up yourselves above the assembly of Jehovah?
+
+**[16:4]** And when Moses heard it, he fell upon his face:
+
+**[16:5]** and he spake unto Korah and unto all his company, saying, In the morning Jehovah will show who are his, and who is holy, and will cause him to come near unto him: even him whom he shall choose will he cause to come near unto him.
+
+**[16:6]** This do: take you censers, Korah, and all his company;
+
+**[16:7]** and put fire in them, and put incense upon them before Jehovah to-morrow: and it shall be that the man whom Jehovah doth choose, he `shall be' holy: ye take too much upon you, ye sons of Levi.
+
+**[16:8]** And Moses said unto Korah, Hear now, ye sons of Levi:
+
+**[16:9]** `seemeth it but' a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself, to do the service of the tabernacle of Jehovah, and to stand before the congregation to minister unto them;
+
+**[16:10]** and that he hath brought thee near, and all thy brethren the sons of Levi with thee? and seek ye the priesthood also?
+
+**[16:11]** Therefore thou and all thy company are gathered together against Jehovah: and Aaron, what is he that ye murmur against him?
+
+**[16:12]** And Moses sent to call Dathan and Abiram, the sons of Eliab; and they said, We will not come up:
+
+**[16:13]** is it a small thing that thou hast brought us up out of a land flowing with milk and honey, to kill us in the wilderness, but thou must needs make thyself also a prince over us?
+
+**[16:14]** Moreover thou hast not brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
+
+**[16:15]** And Moses was very wroth, and said unto Jehovah, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.
+
+**[16:16]** And Moses said unto Korah, Be thou and all thy company before Jehovah, thou, and they, and Aaron, to-morrow:
+
+**[16:17]** and take ye every man his censer, and put incense upon them, and bring ye before Jehovah every man his censer, two hundred and fifty censers; thou also, and Aaron, each his censer.
+
+**[16:18]** And they took every man his censer, and put fire in them, and laid incense thereon, and stood at the door of the tent of meeting with Moses and Aaron.
+
+**[16:19]** And Korah assembled all the congregation against them unto the door of the tent of meeting: and the glory of Jehovah appeared unto all the congregation.
+
+**[16:20]** And Jehovah spake unto Moses and unto Aaron, saying,
+
+**[16:21]** Separate yourselves from among this congregation, that I may consume them in a moment.
+
+**[16:22]** And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?
+
+**[16:23]** And Jehovah spake unto Moses, saying,
+
+**[16:24]** Speak unto the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.
+
+**[16:25]** And Moses rose up and went unto Dathan and Abiram; and the elders of Israel followed him.
+
+**[16:26]** And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins.
+
+**[16:27]** So they gat them up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood at the door of their tents, and their wives, and their sons, and their little ones.
+
+**[16:28]** And Moses said, Hereby ye shall know that Jehovah hath sent me to do all these works; for `I have' not `done them' of mine own mind.
+
+**[16:29]** If these men die the common death of all men, or if they be visited after the visitation of all men; then Jehovah hath not sent me.
+
+**[16:30]** But if Jehovah make a new thing, and the ground open its mouth, and swallow them up, with all that appertain unto them, and they go down alive into Sheol; then ye shall understand that these men have despised Jehovah.
+
+**[16:31]** And it came to pass, as he made an end of speaking all these words, that the ground clave asunder that was under them;
+
+**[16:32]** and the earth opened its mouth, and swallowed them up, and their households, and all the men that appertained unto Korah, and all their goods.
+
+**[16:33]** So they, and all that appertained to them, went down alive into Sheol: and the earth closed upon them, and they perished from among the assembly.
+
+**[16:34]** And all Israel that were round about them fled at the cry of them; for they said, Lest the earth swallow us up.
+
+**[16:35]** And fire came forth from Jehovah, and devoured the two hundred and fifty men that offered the incense.
+
+**[16:36]** And Jehovah spake unto Moses, saying,
+
+**[16:37]** Speak unto Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter thou the fire yonder; for they are holy,
+
+**[16:38]** even the censers of these sinners against their own lives; and let them be made beaten plates for a covering of the altar: for they offered them before Jehovah; therefore they are holy; and they shall be a sign unto the children of Israel.
+
+**[16:39]** And Eleazar the priest took the brazen censers, which they that were burnt had offered; and they beat them out for a covering of the altar,
+
+**[16:40]** to be a memorial unto the children of Israel, to the end that no stranger, that is not of the seed of Aaron, come near to burn incense before Jehovah; that he be not as Korah, and as his company: as Jehovah spake unto him by Moses.
+
+**[16:41]** But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of Jehovah.
+
+**[16:42]** And it came to pass, when the congregation was assembled against Moses and against Aaron, that they looked toward the tent of meeting: and, behold, the cloud covered it, and the glory of Jehovah appeared.
+
+**[16:43]** And Moses and Aaron came to the front of the tent of meeting.
+
+**[16:44]** And Jehovah spake unto Moses, saying,
+
+**[16:45]** Get you up from among this congregation, that I may consume them in a moment. And they fell upon their faces.
+
+**[16:46]** And Moses said unto Aaron, Take they censer, and put fire therein from off the altar, and lay incense thereon, and carry it quickly unto the congregation, and make atonement for them: for there is wrath gone out from Jehovah; the plague is begun.
+
+**[16:47]** And Aaron took as Moses spake, and ran into the midst of the assembly; and, behold, the plague was begun among the people: and he put on the incense, and made atonement for the people.
+
+**[16:48]** And he stood between the dead and the living; and the plague was stayed.
+
+**[16:49]** Now they that died by the plague were fourteen thousand and seven hundred, besides them that died about the matter of Korah.
+
+**[16:50]** And Aaron returned unto Moses unto the door of the tent of meeting: and the plague was stayed.
+
+**[17:1]** And Jehovah spake unto Moses, saying,
+
+**[17:2]** Speak unto the children of Israel, and take of them rods, one for each fathers' house, of all their princes according to their fathers' houses, twelve rods: write thou every man's name upon his rod.
+
+**[17:3]** And thou shalt write Aaron's name upon the rod of Levi; for there shall be one rod for each head of their fathers' houses.
+
+**[17:4]** And thou shalt lay them up in the tent of meeting before the testimony, where I meet with you.
+
+**[17:5]** And it shall come to pass, that the rod of the man whom I shall choose shall bud: and I will make to cease from me the murmurings of the children of Israel, which they murmur against you.
+
+**[17:6]** And Moses spake unto the children of Israel; and all their princes gave him rods, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods.
+
+**[17:7]** And Moses laid up the rods before Jehovah in the tent of the testimony.
+
+**[17:8]** And it came to pass on the morrow, that Moses went into the tent of the testimony; and, behold, the rod of Aaron for the house of Levi was budded, and put forth buds, and produced blossoms, and bare ripe almonds.
+
+**[17:9]** And Moses brought out all the rods from before Jehovah unto all the children of Israel: and they looked, and took every man his rod.
+
+**[17:10]** And Jehovah said unto Moses, Put back the rod of Aaron before the testimony, to be kept for a token against the children of rebellion; that thou mayest make an end of their murmurings against me, that they die not.
+
+**[17:11]** Thus did Moses: as Jehovah commanded him, so did he.
+
+**[17:12]** And the children of Israel spake unto Moses, saying, Behold, we perish, we are undone, we are all undone.
+
+**[17:13]** Every one that cometh near, that cometh near unto the tabernacle of Jehovah, dieth: shall we perish all of us?
+
+**[18:1]** And Jehovah said unto Aaron, Thou and thy sons and thy fathers' house with thee shall bear the iniquity of the sanctuary; and thou and thy sons with thee shall bear the iniquity of your priesthood.
+
+**[18:2]** And thy brethren also, the tribe of Levi, the tribe of thy father, bring thou near with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall be before the tent of the testimony.
+
+**[18:3]** And they shall keep thy charge, and the charge of all the Tent: only they shall not come nigh unto the vessels of the sanctuary and unto the altar, that they die not, neither they, nor ye.
+
+**[18:4]** And they shall be joined unto thee, and keep the charge of the tent of meeting, for all the service of the Tent: and a stranger shall not come nigh unto you.
+
+**[18:5]** And ye shall keep the charge of the sanctuary, and the charge of the altar; that there be wrath no more upon the children of Israel.
+
+**[18:6]** And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are a gift, given unto Jehovah, to do the service of the tent of meeting.
+
+**[18:7]** And thou and thy sons with thee shall keep your priesthood for everything of the altar, and for that within the veil; and ye shall serve: I give you the priesthood as a service of gift: and the stranger that cometh nigh shall be put to death.
+
+**[18:8]** And Jehovah spake unto Aaron, And I, behold, I have given thee the charge of my heave-offerings, even all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, as a portion for ever.
+
+**[18:9]** This shall be thine of the most holy things, `reserved' from the fire: every oblation of theirs, even every meal-offering of theirs, and every sin-offering of theirs, and every trespass-offering of theirs, which they shall render unto me, shall be most holy for thee and for thy sons.
+
+**[18:10]** As the most holy things shalt thou eat thereof; every male shall eat thereof: it shall be holy unto thee.
+
+**[18:11]** And this is thine: the heave-offering of their gift, even all the wave-offerings of the children of Israel; I have given them unto thee, and to thy sons and to thy daughters with thee, as a portion for ever; every one that is clean in thy house shall eat thereof.
+
+**[18:12]** All the best of the oil, and all the best of the vintage, and of the grain, the first-fruits of them which they give unto Jehovah, to thee have I given them.
+
+**[18:13]** The first-ripe fruits of all that is in their land, which they bring unto Jehovah, shall be thine; every one that is clean in thy house shall eat thereof.
+
+**[18:14]** Everything devoted in Israel shall be thine.
+
+**[18:15]** Everything that openeth the womb, of all flesh which they offer unto Jehovah, both of man and beast shall be thine: nevertheless the first-born of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem.
+
+**[18:16]** And those that are to be redeemed of them from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary (the same is twenty gerahs).
+
+**[18:17]** But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they are holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat for an offering made by fire, for a sweet savor unto Jehovah.
+
+**[18:18]** And the flesh of them shall be thine, as the wave-breast and as the right thigh, it shall be thine.
+
+**[18:19]** All the heave-offerings of the holy things, which the children of Israel offer unto Jehovah, have I given thee, and thy sons and thy daughters with thee, as a portion for ever: it is a covenant of salt for ever before Jehovah unto thee and to thy seed with thee.
+
+**[18:20]** And Jehovah said unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any portion among them: I am thy portion and thine inheritance among the children of Israel.
+
+**[18:21]** And unto the children of Levi, behold, I have given all the tithe in Israel for an inheritance, in return for their service which they serve, even the service of the tent of meeting.
+
+**[18:22]** And henceforth the children of Israel shall not come nigh the tent of meeting, lest they bear sin, and die.
+
+**[18:23]** But the Levites shall do the service of the tent of meeting, and they shall bear their iniquity: it shall be a statute for ever throughout your generations; and among the children of Israel they shall have no inheritance.
+
+**[18:24]** For the tithe of the children of Israel, which they offer as a heave-offering unto Jehovah, I have given to the Levites for an inheritance: therefore I have said unto them, Among the children of Israel they shall have no inheritance.
+
+**[18:25]** And Jehovah spake unto Moses, saying,
+
+**[18:26]** Moreover thou shalt speak unto the Levites, and say unto them, When ye take of the children of Israel the tithe which I have given you from them for your inheritance, then ye shall offer up a heave-offering of it for Jehovah, a tithe of the tithe.
+
+**[18:27]** And your heave-offering shall be reckoned unto you, as though it were the grain of the threshing-floor, and as the fulness of the winepress.
+
+**[18:28]** Thus ye also shall offer a heave-offering unto Jehovah of all your tithes, which ye receive of the children of Israel; and thereof ye shall give Jehovah's heave-offering to Aaron the priest.
+
+**[18:29]** Out of all your gifts ye shall offer every heave-offering of Jehovah, of all the best thereof, even the hallowed part thereof out of it.
+
+**[18:30]** Therefore thou shalt say unto them, When ye heave the best thereof from it, then it shall be reckoned unto the Levites as the increase of the threshing-floor, and as the increase of the wine-press.
+
+**[18:31]** And ye shall eat it in every place, ye and your households: for it is your reward in return for your service in the tent of meeting.
+
+**[18:32]** And ye shall bear no sin by reason of it, when ye have heaved from it the best thereof: and ye shall not profane the holy things of the children of Israel, that ye die not.
+
+**[19:1]** And Jehovah spake unto Moses and unto Aaron, saying,
+
+**[19:2]** This is the statute of the law which Jehovah hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, `and' upon which never came yoke.
+
+**[19:3]** And ye shall give her unto Eleazar the priest, and he shall bring her forth without the camp, and one shall slay her before his face:
+
+**[19:4]** and Eleazar the priest shall take of her blood with his finger, and sprinkle her blood toward the front of the tent of meeting seven times.
+
+**[19:5]** And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:
+
+**[19:6]** and the priest shall take cedar-wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer.
+
+**[19:7]** Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even.
+
+**[19:8]** And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.
+
+**[19:9]** And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place; and it shall be kept for the congregation of the children of Israel for a water for impurity: it is a sin-offering.
+
+**[19:10]** And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.
+
+**[19:11]** He that toucheth the dead body of any man shall be unclean seven days:
+
+**[19:12]** the same shall purify himself therewith on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean.
+
+**[19:13]** Whosoever toucheth a dead person, the body of a man that hath died, and purifieth not himself, defileth the tabernacle of Jehovah; and that soul shall be cut off from Israel: because the water for impurity was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him.
+
+**[19:14]** This is the law when a man dieth in a tent: every one that cometh into the tent, and every one that is in the tent, shall be unclean seven days.
+
+**[19:15]** And every open vessel, which hath no covering bound upon it, is unclean.
+
+**[19:16]** And whosoever in the open field toucheth one that is slain with a sword, or a dead body, or a bone of a man, or a grave, shall be unclean seven days.
+
+**[19:17]** And for the unclean they shall take of the ashes of the burning of the sin-offering; and running water shall be put thereto in a vessel:
+
+**[19:18]** and a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched the bone, or the slain, or the dead, or the grave:
+
+**[19:19]** and the clean person shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify him; and he shall wash his clothes, and bathe himself in water, and shall be clean at even.
+
+**[19:20]** But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from the midst of the assembly, because he hath defiled the sanctuary of Jehovah: the water for impurity hath not been sprinkled upon him; he is unclean.
+
+**[19:21]** And it shall be a perpetual statute unto them: and he that sprinkleth the water for impurity shall wash his clothes, and he that toucheth the water for impurity shall be unclean until even.
+
+**[19:22]** And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even.
+
+**[20:1]** And the children of Israel, even the whole congregation, came into the wilderness of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
+
+**[20:2]** And there was no water for the congregation: and they assembled themselves together against Moses and against Aaron.
+
+**[20:3]** And the people strove with Moses, and spake, saying, Would that we had died when our brethren died before Jehovah!
+
+**[20:4]** And why have ye brought the assembly of Jehovah into this wilderness, that we should die there, we and our beasts?
+
+**[20:5]** And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink.
+
+**[20:6]** And Moses and Aaron went from the presence of the assembly unto the door of the tent of meeting, and fell upon their faces: and the glory of Jehovah appeared unto them.
+
+**[20:7]** And Jehovah spake unto Moses, saying,
+
+**[20:8]** Take the rod, and assemble the congregation, thou, and Aaron thy brother, and speak ye unto the rock before their eyes, that it give forth its water; and thou shalt bring forth to them water out of the rock; so thou shalt give the congregation and their cattle drink.
+
+**[20:9]** And Moses took the rod from before Jehovah, as he commanded him.
+
+**[20:10]** And Moses and Aaron gathered the assembly together before the rock, and he said unto them, Hear now, ye rebels; shall we bring you forth water out of this rock?
+
+**[20:11]** And Moses lifted up his hand, and smote the rock with his rod twice: and water came forth abundantly, and the congregation drank, and their cattle.
+
+**[20:12]** And Jehovah said unto Moses and Aaron, Because ye believed not in me, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this assembly into the land which I have given them.
+
+**[20:13]** These are the waters of Meribah; because the children of Israel strove with Jehovah, and he was sanctified in them.
+
+**[20:14]** And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:
+
+**[20:15]** how our fathers went down into Egypt, and we dwelt in Egypt a long time; and the Egyptians dealt ill with us, and our fathers:
+
+**[20:16]** and when we cried unto Jehovah, he heard our voice, and sent an angel, and brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of thy border.
+
+**[20:17]** Let us pass, I pray thee, through thy land: we will not pass through field or through vineyard, neither will we drink of the water of the wells: we will go along the king's highway; we will not turn aside to the right hand nor to the left, until we have passed thy border.
+
+**[20:18]** And Edom said unto him, Thou shalt not pass through me, lest I come out with the sword against thee.
+
+**[20:19]** And the children of Israel said unto him, We will go up by the highway; and if we drink of thy water, I and my cattle, then will I give the price thereof: let me only, without `doing' anything `else', pass through on my feet.
+
+**[20:20]** And he said, Thou shalt not pass through. And Edom came out against him with much people, and with a strong hand.
+
+**[20:21]** Thus Edom refused to give Israel passage through his border: wherefore Israel turned away from him.
+
+**[20:22]** And they journeyed from Kadesh: and the children of Israel, even the whole congregation, came unto mount Hor.
+
+**[20:23]** And Jehovah spake unto Moses and Aaron in mount Hor, by the border of the land of Edom, saying,
+
+**[20:24]** Aaron shall be gathered unto his people; for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the waters of Meribah.
+
+**[20:25]** Take Aaron and Eleazar his son, and bring them up unto mount Hor;
+
+**[20:26]** and strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered `unto his people', and shall die there.
+
+**[20:27]** And Moses did as Jehovah commanded: and they went up into mount Hor in the sight of all the congregation.
+
+**[20:28]** And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there on the top of the mount: and Moses and Eleazar came down from the mount.
+
+**[20:29]** And when all the congregation saw that Aaron was dead, they wept for Aaron thirty days, even all the house of Israel.
+
+**[21:1]** And the Canaanite, the king of Arad, who dwelt in the South, heard tell that Israel came by the way of Atharim; and he fought against Israel, and took some of them captive.
+
+**[21:2]** And Israel vowed a vow unto Jehovah, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.
+
+**[21:3]** And Jehovah hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and the name of the place was called Hormah.
+
+**[21:4]** And they journeyed from mount Hor by the way to the Red Sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.
+
+**[21:5]** And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, and there is no water; and our soul loatheth this light bread.
+
+**[21:6]** And Jehovah sent fiery serpents among the people, and they bit the people; and much people of Israel died.
+
+**[21:7]** And the people came to Moses, and said, We have sinned, because we have spoken against Jehovah, and against thee; pray unto Jehovah, that he take away the serpents from us. And Moses prayed for the people.
+
+**[21:8]** And Jehovah said unto Moses, Make thee a fiery serpent, and set it upon a standard: and it shall come to pass, that every one that is bitten, when he seeth it, shall live.
+
+**[21:9]** And Moses made a serpent of brass, and set it upon the standard: and it came to pass, that if a serpent had bitten any man, when he looked unto the serpent of brass, he lived.
+
+**[21:10]** And the children of Israel journeyed, and encamped in Oboth.
+
+**[21:11]** And they journeyed from Oboth, and encamped at Iyeabarim, in the wilderness which is before Moab, toward the sunrising.
+
+**[21:12]** From thence they journeyed, and encamped in the valley of Zered.
+
+**[21:13]** From thence they journeyed, and encamped on the other side of the Arnon, which is in the wilderness, that cometh out of the border of the Amorites: for the Arnon is the border of Moab, between Moab and the Amorites.
+
+**[21:14]** Wherefore it is said in the book of the Wars of Jehovah, Vaheb in Suphah, And the valleys of the Arnon,
+
+**[21:15]** And the slope of the valleys That inclineth toward the dwelling of Ar, And leaneth upon the border of Moab.
+
+**[21:16]** And from thence `they journeyed' to Beer: that is the well whereof Jehovah said unto Moses, Gather the people together, and I will give them water.
+
+**[21:17]** Then sang Israel this song: Spring up, O well; sing ye unto it:
+
+**[21:18]** The well, which the princes digged, Which the nobles of the people delved, With the sceptre, `and' with their staves. And from the wilderness `they journeyed' to Mattanah;
+
+**[21:19]** and from Mattanah to Nahaliel; and from Nahaliel to Bamoth;
+
+**[21:20]** and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looketh down upon the desert.
+
+**[21:21]** And Israel sent messengers unto Sihon king of the Amorites, saying,
+
+**[21:22]** Let me pass through thy land: we will not turn aside into field, or into vineyard; we will not drink of the water of the wells: we will go by the king's highway, until we have passed thy border.
+
+**[21:23]** And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness, and came to Jahaz; and he fought against Israel.
+
+**[21:24]** And Israel smote him with the edge of the sword, and possessed his land from the Arnon unto the Jabbok, even unto the children of Ammon; for the border of the children of Ammon was strong.
+
+**[21:25]** And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the towns thereof.
+
+**[21:26]** For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto the Arnon.
+
+**[21:27]** Wherefore they that speak in proverbs say, Come ye to Heshbon; Let the city of Sihon be built and established:
+
+**[21:28]** For a fire is gone out of Heshbon, A flame from the city of Sihon: It hath devoured Ar of Moab, The lords of the high places of the Arnon.
+
+**[21:29]** Woe to thee, Moab! Thou art undone, O people of Chemosh: He hath given his sons as fugitives, And his daughters into captivity, Unto Sihon king of the Amorites.
+
+**[21:30]** We have shot at them; Heshbon is perished even unto Dibon, And we have laid waste even unto Nophah, Which `reacheth' unto Medeba.
+
+**[21:31]** Thus Israel dwelt in the land of the Amorites.
+
+**[21:32]** And Moses sent to spy out Jazer; and they took the towns thereof, and drove out the Amorites that were there.
+
+**[21:33]** And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he and all his people, to battle at Edrei.
+
+**[21:34]** And Jehovah said unto Moses, Fear him not: for I have delivered him into thy hand, and all his people, and his land; and thou shalt do to him as thou didst unto Sihon king of the Amorites, who dwelt at Heshbon.
+
+**[21:35]** So they smote him, and his sons and all his people, until there was none left him remaining: and they possessed his land.
+
+**[22:1]** And the children of Israel journeyed, and encamped in the plains of Moab beyond the Jordan at Jericho.
+
+**[22:2]** And Balak the son of Zippor saw all that Israel had done to the Amorites.
+
+**[22:3]** And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel.
+
+**[22:4]** And Moab said unto the elders of Midian, Now will this multitude lick up all that is round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of Moab at that time.
+
+**[22:5]** And he sent messengers unto Balaam the son of Beor, to Pethor, which is by the River, to the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me.
+
+**[22:6]** Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land; for I know that he whom thou blessest is blessed, and he whom thou cursest is cursed.
+
+**[22:7]** And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak.
+
+**[22:8]** And he said unto them, Lodge here this night, and I will bring you word again, as Jehovah shall speak unto me: and the princes of Moab abode with Balaam.
+
+**[22:9]** And God came unto Balaam, and said, What men are these with thee?
+
+**[22:10]** And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, `saying',
+
+**[22:11]** Behold, the people that is come out of Egypt, it covereth the face of the earth: now, come curse me them; peradventure I shall be able to fight against them, and shall drive them out.
+
+**[22:12]** And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people; for they are blessed.
+
+**[22:13]** And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land; for Jehovah refuseth to give me leave to go with you.
+
+**[22:14]** And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us.
+
+**[22:15]** And Balak sent yet again princes, more, and more honorable than they.
+
+**[22:16]** And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:
+
+**[22:17]** for I will promote thee unto very great honor, and whatsoever thou sayest unto me I will do: come therefore, I pray thee, curse me this people.
+
+**[22:18]** And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of Jehovah my God, to do less or more.
+
+**[22:19]** Now therefore, I pray you, tarry ye also here this night, that I may know what Jehovah will speak unto me more.
+
+**[22:20]** And God came unto Balaam at night, and said unto him, If the men are come to call thee, rise up, go with them; but only the word which I speak unto thee, that shalt thou do.
+
+**[22:21]** And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.
+
+**[22:22]** And God's anger was kindled because he went; and the angel of Jehovah placed himself in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him.
+
+**[22:23]** And the ass saw the angel of Jehovah standing in the way, with his sword drawn in his hand; and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.
+
+**[22:24]** Then the angel of Jehovah stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side.
+
+**[22:25]** And the ass saw the angel of Jehovah, and she thrust herself unto the wall, and crushed Balaam's foot against the wall: and he smote her again.
+
+**[22:26]** And the angel of Jehovah went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left.
+
+**[22:27]** And the ass saw the angel of Jehovah, and she lay down under Balaam: and Balaam's anger was kindled, and he smote the ass with his staff.
+
+**[22:28]** And Jehovah opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?
+
+**[22:29]** And Balaam said unto the ass, Because thou hast mocked me, I would there were a sword in my hand, for now I had killed thee.
+
+**[22:30]** And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden all thy life long unto this day? was I ever wont to do so unto thee? and he said, Nay.
+
+**[22:31]** Then Jehovah opened the eyes of Balaam, and he saw the angel of Jehovah standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face.
+
+**[22:32]** And the angel of Jehovah said unto him, Wherefore hast thou smitten thine ass these three times? behold, I am come forth for an adversary, because thy way is perverse before me:
+
+**[22:33]** and the ass saw me, and turned aside before me these three times: unless she had turned aside from me, surely now I had even slain thee, and saved her alive.
+
+**[22:34]** And Balaam said unto the angel of Jehovah, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.
+
+**[22:35]** And the angel of Jehovah said unto Balaam, Go with the men; but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.
+
+**[22:36]** And when Balak heard that Balaam was come, he went out to meet him unto the City of Moab, which is on the border of the Arnon, which is in the utmost part of the border.
+
+**[22:37]** And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honor?
+
+**[22:38]** And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to speak anything? the word that God putteth in my mouth, that shall I speak.
+
+**[22:39]** And Balaam went with Balak, and they came unto Kiriath-huzoth.
+
+**[22:40]** And Balak sacrificed oxen and sheep, and sent to Balaam, and to the princes that were with him.
+
+**[22:41]** And it came to pass in the morning, that Balak took Balaam, and brought him up into the high places of Baal; and he saw from thence the utmost part of the people.
+
+**[23:1]** And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.
+
+**[23:2]** And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.
+
+**[23:3]** And Balaam said unto Balak, Stand by thy burnt-offering, and I will go: peradventure Jehovah will come to meet me; and whatsoever he showeth me I will tell thee. And he went to a bare height.
+
+**[23:4]** And God met Balaam: and he said unto him, I have prepared the seven altars, and I have offered up a bullock and a ram on every altar.
+
+**[23:5]** And Jehovah put a word in Balaam's mouth, and said, Return unto Balak, and thus thou shalt speak.
+
+**[23:6]** And he returned unto him, and, lo, he was standing by his burnt-offering, he, and all the princes of Moab.
+
+**[23:7]** And he took up his parable, and said, From Aram hath Balak brought me, The king of Moab from the mountains of the East: Come, curse me Jacob, And come, defy Israel.
+
+**[23:8]** How shall I curse, whom God hath not cursed? And how shall I defy, whom Jehovah hath not defied?
+
+**[23:9]** For from the top of the rocks I see him, And from the hills I behold him: lo, it is a people that dwelleth alone, And shall not be reckoned among the nations.
+
+**[23:10]** Who can count the dust of Jacob, Or number the fourth part of Israel? Let me die the death of the righteous, And let my last end be like his!
+
+**[23:11]** And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.
+
+**[23:12]** And he answered and said, Must I not take heed to speak that which Jehovah putteth in my mouth?
+
+**[23:13]** And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them; thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
+
+**[23:14]** And he took him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered up a bullock and a ram on every altar.
+
+**[23:15]** And he said unto Balak, Stand here by thy burnt-offering, while I meet `Jehovah' yonder.
+
+**[23:16]** And Jehovah met Balaam, and put a word in his mouth, and said, Return unto Balak, and thus shalt thou speak.
+
+**[23:17]** And he came to him, and, lo, he was standing by his burnt-offering, and the princes of Moab with him. And Balak said unto him, What hath Jehovah spoken?
+
+**[23:18]** And he took up his parable, and said, Rise up, Balak, and hear; Hearken unto me, thou son of Zippor:
+
+**[23:19]** God is not a man, that he should lie, Neither the son of man, that he should repent: Hath he said, and will he not do it? Or hath he spoken, and will he not make it good?
+
+**[23:20]** Behold, I have received `commandment' to bless: And he hath blessed, and I cannot reverse it.
+
+**[23:21]** He hath not beheld iniquity in Jacob; Neither hath he seen perverseness in Israel: Jehovah his God is with him, And the shout of a king is among them.
+
+**[23:22]** God bringeth them forth out of Egypt; He hath as it were the strength of the wild-ox.
+
+**[23:23]** Surely there is no enchantment with Jacob; Neither is there any divination with Israel: Now shalt it be said of Jacob and of Israel, What hath God wrought!
+
+**[23:24]** Behold, the people riseth up as a lioness, And as a lion doth he lift himself up: He shall not lie down until he eat of the prey, And drink the blood of the slain.
+
+**[23:25]** And Balak said unto Balaam, Neither curse them at all, nor bless them at all.
+
+**[23:26]** But Balaam answered and said unto Balak, Told not I thee, saying, All that Jehovah speaketh, that I must do?
+
+**[23:27]** And Balak said unto Balaam, Come now, I will take thee unto another place; peradventure it will please God that thou mayest curse me them from thence.
+
+**[23:28]** And Balak took Balaam unto the top of Peor, that looketh down upon the desert.
+
+**[23:29]** And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.
+
+**[23:30]** And Balak did as Balaam had said, and offered up a bullock and a ram on every altar.
+
+**[24:1]** And when Balaam saw that it pleased Jehovah to bless Israel, he went not, as at the other times, to meet with enchantments, but he set his face toward the wilderness.
+
+**[24:2]** And Balaam lifted up his eyes, and he saw Israel dwelling according to their tribes; and the Spirit of God came upon him.
+
+**[24:3]** And he took up his parable, and said, Balaam the son of Beor saith, And the man whose eye was closed saith;
+
+**[24:4]** He saith, who heareth the words of God, Who seeth the vision of the Almighty, Falling down, and having his eyes open:
+
+**[24:5]** How goodly are thy tents, O Jacob, Thy tabernacles, O Israel!
+
+**[24:6]** As valleys are they spread forth, As gardens by the river-side, As lign-aloes which Jehovah hath planted, As cedar-trees beside the waters.
+
+**[24:7]** Water shall flow from his buckets, And his seed shall be in many waters, And his king shall be higher than Agag, And his kingdom shall be exalted.
+
+**[24:8]** God bringeth him forth out of Egypt; He hath as it were the strength of the wild-ox: He shall eat up the nations his adversaries, And shall break their bones in pieces, And smite `them' through with his arrows.
+
+**[24:9]** He couched, he lay down as a lion, And as a lioness; who shall rouse him up? Blessed be every one that blesseth thee, And cursed be every one that curseth thee.
+
+**[24:10]** And Balak's anger was kindled against Balaam, and he smote his hands together; and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times.
+
+**[24:11]** Therefore now flee thou to thy place: I thought to promote thee unto great honor; but, lo, Jehovah hath kept thee back from honor.
+
+**[24:12]** And Balaam said unto Balak, Spake I not also to thy messengers that thou sentest unto me, saying,
+
+**[24:13]** If Balak would give me his house full of silver and gold, I cannot go beyond the word of Jehovah, to do either good or bad of mine own mind; what Jehovah speaketh, that will I speak?
+
+**[24:14]** And now, behold, I go unto my people: come, `and' I will advertise thee what this people shall do to thy people in the latter days.
+
+**[24:15]** And he took up his parable, and said, Balaam the son of Beor saith, And the man whose eye was closed saith;
+
+**[24:16]** He saith, who heareth the words of God, And knoweth the knowledge of the Most High, Who seeth the vision of the Almighty, Falling down, and having his eyes open:
+
+**[24:17]** I see him, but not now; I behold him, but not nigh: There shall come forth a star out of Jacob, And a sceptre shall rise out of Israel, And shall smite through the corners of Moab, And break down all the sons of tumult.
+
+**[24:18]** And Edom shall be a possession, Seir also shall be a possession, `who were' his enemies; While Israel doeth valiantly.
+
+**[24:19]** And out of Jacob shall one have dominion, And shall destroy the remnant from the city.
+
+**[24:20]** And he looked on Amalek, and took up his parable, and said, Amalek was the first of the nations; But his latter end shall come to destruction.
+
+**[24:21]** And he looked on the Kenite, and took up his parable, and said, Strong is thy dwelling-place, And thy nest is set in the rock.
+
+**[24:22]** Nevertheless Kain shall be wasted, Until Asshur shall carry thee away captive.
+
+**[24:23]** And he took up his parable, and said, Alas, who shall live when God doeth this?
+
+**[24:24]** But ships `shall come' from the coast of Kittim, And they shall afflict Asshur, and shall afflict Eber; And he also shall come to destruction.
+
+**[24:25]** And Balaam rose up, and went and returned to his place; and Balak also went his way.
+
+**[25:1]** And Israel abode in Shittim; and the people began to play the harlot with the daughters of Moab:
+
+**[25:2]** for they called the people unto the sacrifices of their gods; and the people did eat, and bowed down to their gods.
+
+**[25:3]** And Israel joined himself unto Baal-peor: and the anger of Jehovah was kindled against Israel.
+
+**[25:4]** And Jehovah said unto Moses, Take all the chiefs of the people, and hang them up unto Jehovah before the sun, that the fierce anger of Jehovah may turn away from Israel.
+
+**[25:5]** And Moses said unto the judges of Israel, Slay ye every one his men that have joined themselves unto Baal-peor.
+
+**[25:6]** And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, while they were weeping at the door of the tent of meeting.
+
+**[25:7]** And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from the midst of the congregation, and took a spear in his hand;
+
+**[25:8]** and he went after the man of Israel into the pavilion, and thrust both of them through, the man of Israel, and the woman through her body. So the plague was stayed from the children of Israel.
+
+**[25:9]** And those that died by the plague were twenty and four thousand.
+
+**[25:10]** And Jehovah spake unto Moses, saying,
+
+**[25:11]** Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned my wrath away from the children of Israel, in that he was jealous with my jealousy among them, so that I consumed not the children of Israel in my jealousy.
+
+**[25:12]** Wherefore say, Behold, I give unto him my covenant of peace:
+
+**[25:13]** and it shall be unto him, and to his seed after him, the covenant of an everlasting priesthood; because he was jealous for his God, and made atonement for the children of Israel.
+
+**[25:14]** Now the name of the man of Israel that was slain, who was slain with the Midianitish woman, was Zimri, the son of Salu, a prince of a fathers' house among the Simeonites.
+
+**[25:15]** And the name of the Midianitish woman that was slain was Cozbi, the daughter of Zur; he was head of the people of a fathers' house in Midian.
+
+**[25:16]** And Jehovah spake unto Moses, saying,
+
+**[25:17]** Vex the Midianites, and smite them;
+
+**[25:18]** for they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of the prince of Midian, their sister, who was slain on the day of the plague in the matter of Peor.
+
+**[26:1]** And it came to pass after the plague, that Jehovah spake unto Moses and unto Eleazar the son of Aaron the priest, saying,
+
+**[26:2]** Take the sum of all the congregation of the children of Israel, from twenty years old and upward, by their fathers' houses, all that are able to go forth to war in Israel.
+
+**[26:3]** And Moses and Eleazar the priest spake with them in the plains of Moab by the Jordan at Jericho, saying,
+
+**[26:4]** `Take the sum of the people', from twenty years old and upward; as Jehovah commanded Moses and the children of Israel, that came forth out of the land of Egypt.
+
+**[26:5]** Reuben, the first-born of Israel; the sons of Reuben: `of' Hanoch, the family of the Hanochites; of Pallu, the family of the Palluites;
+
+**[26:6]** of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites.
+
+**[26:7]** These are the families of the Reubenites; and they that were numbered of them were forty and three thousand and seven hundred and thirty.
+
+**[26:8]** And the sons of Pallu: Eliab.
+
+**[26:9]** And the sons of Eliab: Nemuel, and Dathan, and Abiram. These are that Dathan and Abiram, who were called of the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against Jehovah,
+
+**[26:10]** and the earth opened its mouth, and swallowed them up together with Korah, when that company died; what time the fire devoured two hundred and fifty men, and they became a sign.
+
+**[26:11]** Notwithstanding, the sons of Korah died not.
+
+**[26:12]** The sons of Simeon after their families: of Nemuel, the family of the Nemuelites; of Jamin, the family of the Jaminites; of Jachin, the family of the Jachinites;
+
+**[26:13]** of Zerah, the family of the Zerahites; of Shaul, the family of the Shaulites.
+
+**[26:14]** These are the families of the Simeonites, twenty and two thousand and two hundred.
+
+**[26:15]** The sons of Gad after their families: of Zephon, the family of the Zephonites; of Haggi, the family of the Haggites; of Shuni, the family of the Shunites;
+
+**[26:16]** of Ozni, the family of the Oznites; of Eri, the family of the Erites;
+
+**[26:17]** of Arod, the family of the Arodites; of Areli, the family of the Arelites.
+
+**[26:18]** These are the families of the sons of Gad according to those that were numbered of them, forty thousand and five hundred.
+
+**[26:19]** The sons of Judah: Er and Onan; and Er and Onan died in the land of Canaan.
+
+**[26:20]** And the sons of Judah after their families were: of Shelah, the family of the Shelanites; of Perez, the family of the Perezites; of Zerah, the family of the Zerahites.
+
+**[26:21]** And the sons of Perez were: of Hezron, the family of the Hezronites; of Hamul, the family of the Hamulites.
+
+**[26:22]** These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred.
+
+**[26:23]** The sons of Issachar after their families: `of' Tola, the family of the Tolaites; of Puvah, the family of the Punites;
+
+**[26:24]** of Jashub, the family of the Jashubites; of Shimron, the family of the Shimronites.
+
+**[26:25]** These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.
+
+**[26:26]** The sons of Zebulun after their families: of Sered, the family of the Seredites; of Elon, the family of the Elonites; of Jahleel, the family of the Jahleelites.
+
+**[26:27]** These are the families of the Zebulunites according to those that were numbered of them, threescore thousand and five hundred.
+
+**[26:28]** The sons of Joseph after their families: Manasseh and Ephraim.
+
+**[26:29]** The sons of Manasseh: of Machir, the family of the Machirites; and Machir begat Gilead; of Gilead, the family of the Gileadites.
+
+**[26:30]** These are the sons of Gilead: `of' Iezer, the family of the Iezerites; of Helek, the family of the Helekites;
+
+**[26:31]** and `of' Asriel, the family of the Asrielites; and `of' Shechem, the family of the Shechemites;
+
+**[26:32]** and `of' Shemida, the family of the Shemidaites; and `of' Hepher, the family of the Hepherites.
+
+**[26:33]** And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
+
+**[26:34]** These are the families of Manasseh; and they that were numbered of them were fifty and two thousand and seven hundred.
+
+**[26:35]** These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthelahites; of Becher, the family of the Becherites; of Tahan, the family of the Tahanites.
+
+**[26:36]** And these are the sons of Shuthelah: of Eran, the family of the Eranites.
+
+**[26:37]** These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These are the sons of Joseph after their families.
+
+**[26:38]** The sons of Benjamin after their families: of Bela, the family of the Belaites; of Ashbel, the family of the Ashbelites; of Ahiram, the family of the Ahiramites;
+
+**[26:39]** of Shephupham, the family of the Shuphamites; of Hupham, the family of the Huphamites.
+
+**[26:40]** And the sons of Bela were Ard and Naaman: `of Ard', the family of the Ardites; of Naaman, the family of the Naamites.
+
+**[26:41]** These are the sons of Benjamin after their families; and they that were numbered of them were forty and five thousand and six hundred.
+
+**[26:42]** These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.
+
+**[26:43]** All the families of the Shuhamites, according to those that were numbered of them, were threescore and four thousand and four hundred.
+
+**[26:44]** The sons of Asher after their families: of Imnah, the family of the Imnites; of Ishvi, the family of the Ishvites; of Beriah, the family of the Berites.
+
+**[26:45]** Of the sons of Beriah: of Heber, the family of the Heberites; of Malchiel, the family of the Malchielites.
+
+**[26:46]** And the name of the daughter of Asher was Serah.
+
+**[26:47]** These are the families of the sons of Asher according to those that were numbered of them, fifty and three thousand and four hundred.
+
+**[26:48]** The sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites; of Guni, the family of the Gunites;
+
+**[26:49]** of Jezer, the family of the Jezerites; of Shillem, the family of the Shillemites.
+
+**[26:50]** These are the families of Naphtali according to their families; and they that were numbered of them were forty and five thousand and four hundred.
+
+**[26:51]** These are they that were numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.
+
+**[26:52]** And Jehovah spake unto Moses, saying,
+
+**[26:53]** Unto these the land shall be divided for an inheritance according to the number of names.
+
+**[26:54]** To the more thou shalt give the more inheritance, and to the fewer thou shalt give the less inheritance: to every one according to those that were numbered of him shall his inheritance be given.
+
+**[26:55]** Notwithstanding, the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.
+
+**[26:56]** According to the lot shall their inheritance be divided between the more and the fewer.
+
+**[26:57]** And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.
+
+**[26:58]** These are the families of Levi: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korahites. And Kohath begat Amram.
+
+**[26:59]** And the name of Amram's wife was Jochebed, the daughter of Levi, who was born to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.
+
+**[26:60]** And unto Aaron were born Nadab and Abihu, Eleazar and Ithamar.
+
+**[26:61]** And Nadab and Abihu died, when they offered strange fire before Jehovah.
+
+**[26:62]** And they that were numbered of them were twenty and three thousand, every male from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.
+
+**[26:63]** These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by the Jordan at Jericho.
+
+**[26:64]** But among these there was not a man of them that were numbered by Moses and Aaron the priest, who numbered the children of Israel in the wilderness of Sinai.
+
+**[26:65]** For Jehovah had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.
+
+**[27:1]** Then drew near the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph; and these are the names of his daughters: Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
+
+**[27:2]** And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, at the door of the tent of meeting, saying,
+
+**[27:3]** Our father died in the wilderness, and he was not among the company of them that gathered themselves together against Jehovah in the company of Korah: but he died in his own sin; and he had no sons.
+
+**[27:4]** Why should the name of our father be taken away from among his family, because he had no son? Give unto us a possession among the brethren of our father.
+
+**[27:5]** And Moses brought their cause before Jehovah.
+
+**[27:6]** And Jehovah spake unto Moses, saying,
+
+**[27:7]** The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father's brethren; and thou shalt cause the inheritance of their father to pass unto them.
+
+**[27:8]** And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter.
+
+**[27:9]** And if he have no daughter, then ye shall give his inheritance unto his brethren.
+
+**[27:10]** And if he have no brethren, then ye shall give his inheritance unto his father's brethren.
+
+**[27:11]** And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute `and' ordinance, as Jehovah commanded Moses.
+
+**[27:12]** And Jehovah said unto Moses, Get thee up into this mountain of Abarim, and behold the land which I have given unto the children of Israel.
+
+**[27:13]** And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered;
+
+**[27:14]** because ye rebelled against my word in the wilderness of Zin, in the strife of the congregation, to sanctify me at the waters before their eyes. (These are the waters of Meribah of Kadesh in the wilderness of Zin.)
+
+**[27:15]** And Moses spake unto Jehovah, saying,
+
+**[27:16]** Let Jehovah, the God of the spirits of all flesh, appoint a man over the congregation,
+
+**[27:17]** who may go out before them, and who may come in before them, and who may lead them out, and who may bring them in; that the congregation of Jehovah be not as sheep which have no shepherd.
+
+**[27:18]** And Jehovah said unto Moses, Take thee Joshua the son of Nun, a man in whom is the Spirit, and lay thy hand upon him;
+
+**[27:19]** and set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight.
+
+**[27:20]** And thou shalt put of thine honor upon him, that all the congregation of the children of Israel may obey.
+
+**[27:21]** And he shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before Jehovah: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
+
+**[27:22]** And Moses did as Jehovah commanded him; and he took Joshua, and set him before Eleazar the priest, and before all the congregation:
+
+**[27:23]** and he laid his hands upon him, and gave him a charge, as Jehovah spake by Moses.
+
+**[28:1]** And Jehovah spake unto Moses, saying,
+
+**[28:2]** Command the children of Israel, and say unto them, My oblation, my food for my offerings made by fire, of a sweet savor unto me, shall ye observe to offer unto me in their due season.
+
+**[28:3]** And thou shalt say unto them, This is the offering made by fire which ye shall offer unto Jehovah: he-lambs a year old without blemish, two day by day, for a continual burnt-offering.
+
+**[28:4]** The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;
+
+**[28:5]** and the tenth part of an ephah of fine flour for a meal-offering, mingled with the fourth part of a hin of beaten oil.
+
+**[28:6]** It is a continual burnt-offering, which was ordained in mount Sinai for a sweet savor, an offering made by fire unto Jehovah.
+
+**[28:7]** And the drink-offering thereof shall be the fourth part of a hin for the one lamb: in the holy place shalt thou pour out a drink-offering of strong drink unto Jehovah.
+
+**[28:8]** And the other lamb shalt thou offer at even: as the meal-offering of the morning, and as the drink-offering thereof, thou shalt offer it, an offering made by fire, of a sweet savor unto Jehovah.
+
+**[28:9]** And on the sabbath day two he-lambs a year old without blemish, and two tenth parts `of an ephah' of fine flour for a meal-offering, mingled with oil, and the drink-offering thereof:
+
+**[28:10]** this is the burnt-offering of every sabbath, besides the continual burnt-offering, and the drink-offering thereof.
+
+**[28:11]** And in the beginnings of your months ye shall offer a burnt-offering unto Jehovah: two young bullocks, and one ram, seven he-lambs a year old without blemish;
+
+**[28:12]** and three tenth parts `of an ephah' of fine flour for a meal-offering, mingled with oil, for each bullock; and two tenth parts of fine flour for a meal-offering, mingled with oil, for the one ram;
+
+**[28:13]** and a tenth part of fine flour mingled with oil for a meal-offering unto every lamb; for a burnt-offering of a sweet savor, an offering made by fire unto Jehovah.
+
+**[28:14]** And their drink-offerings shall be half a hin of wine for a bullock, and the third part of a hin for the ram, and the fourth part of a hin for a lamb: this is the burnt-offering of every month throughout the months of the year.
+
+**[28:15]** And one he-goat for a sin-offering unto Jehovah; it shall be offered besides the continual burnt-offering, and the drink-offering thereof.
+
+**[28:16]** And in the first month, on the fourteenth day of the month, is Jehovah's passover.
+
+**[28:17]** And on the fifteenth day of this month shall be a feast: seven days shall unleavened bread be eaten.
+
+**[28:18]** In the first day shall be a holy convocation: ye shall do no servile work;
+
+**[28:19]** but ye shall offer an offering made by fire, a burnt-offering unto Jehovah: two young bullocks, and one ram, and seven he-lambs a year old; they shall be unto you without blemish;
+
+**[28:20]** and their meal-offering, fine flour mingled with oil: three tenth parts shall ye offer for a bullock, and two tenth parts for the ram;
+
+**[28:21]** a tenth part shalt thou offer for every lamb of the seven lambs;
+
+**[28:22]** and one he-goat for a sin-offering, to make atonement for you.
+
+**[28:23]** Ye shall offer these besides the burnt-offering of the morning, which is for a continual burnt-offering.
+
+**[28:24]** After this manner ye shall offer daily, for seven days, the food of the offering made by fire, of a sweet savor unto Jehovah: it shall be offered besides the continual burnt-offering, and the drink-offering thereof.
+
+**[28:25]** And on the seventh day ye shall have a holy convocation: ye shall do no servile work.
+
+**[28:26]** Also in the day of the first-fruits, when ye offer a new meal-offering unto Jehovah in your `feast of' weeks, ye shall have a holy convocation; ye shall do no servile work;
+
+**[28:27]** but ye shall offer a burnt-offering for a sweet savor unto Jehovah: two young bullocks, one ram, seven he-lambs a year old;
+
+**[28:28]** and their meal-offering, fine flour mingled with oil, three tenth parts for each bullock, two tenth parts for the one ram,
+
+**[28:29]** a tenth part for every lamb of the seven lambs;
+
+**[28:30]** one he-goat, to make atonement for you.
+
+**[28:31]** Besides the continual burnt-offering, and the meal-offering thereof, ye shall offer them (they shall be unto you without blemish), and their drink-offerings.
+
+**[29:1]** And in the seventh month, on the first day of the month, ye shall have a holy convocation; ye shall do no servile work: it is a day of blowing of trumpets unto you.
+
+**[29:2]** And ye shall offer a burnt-offering for a sweet savor unto Jehovah: one young bullock, one ram, seven he-lambs a year old without blemish;
+
+**[29:3]** and their meal-offering, fine flour mingled with oil, three tenth parts for the bullock, two tenth parts for the ram,
+
+**[29:4]** and one tenth part for every lamb of the seven lambs;
+
+**[29:5]** and one he-goat for a sin-offering, to make atonement for you;
+
+**[29:6]** besides the burnt-offering of the new moon, and the meal-offering thereof, and the continual burnt-offering and the meal-offering thereof, and their drink-offerings, according unto their ordinance, for a sweet savor, an offering made by fire unto Jehovah.
+
+**[29:7]** And on the tenth day of this seventh month ye shall have a holy convocation; and ye shall afflict your souls: ye shall do no manner of work;
+
+**[29:8]** but ye shall offer a burnt-offering unto Jehovah for a sweet savor: one young bullock, one ram, seven he-lambs a year old; they shall be unto you without blemish;
+
+**[29:9]** and their meal-offering, fine flour mingled with oil, three tenth parts for the bullock, two tenth parts for the one ram,
+
+**[29:10]** a tenth part for every lamb of the seven lambs:
+
+**[29:11]** one he-goat for a sin-offering; besides the sin-offering of atonement, and the continual burnt-offering, and the meal-offering thereof, and their drink-offerings.
+
+**[29:12]** And on the fifteenth day of the seventh month ye shall have a holy convocation; ye shall do no servile work, and ye shall keep a feast unto Jehovah seven days:
+
+**[29:13]** and ye shall offer a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah; thirteen young bullocks, two rams, fourteen he-lambs a year old; they shall be without blemish;
+
+**[29:14]** and their meal-offering, fine flour mingled with oil, three tenth parts for every bullock of the thirteen bullocks, two tenth parts for each ram of the two rams,
+
+**[29:15]** and a tenth part for every lamb of the fourteen lambs;
+
+**[29:16]** and one he-goat for a sin-offering, besides the continual burnt-offering, the meal-offering thereof, and the drink-offering thereof.
+
+**[29:17]** And on the second day `ye shall offer' twelve young bullocks, two rams, fourteen he-lambs a year old without blemish;
+
+**[29:18]** and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+
+**[29:19]** and one he-goat for a sin-offering; besides the continual burnt-offering, and the meal-offering thereof, and their drink-offerings.
+
+**[29:20]** And on the third day eleven bullocks, two rams, fourteen he-lambs a year old without blemish;
+
+**[29:21]** and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+
+**[29:22]** and one he-goat for a sin-offering; besides the continual burnt-offering, and the meal-offering thereof, and the drink-offering thereof.
+
+**[29:23]** And on the fourth day ten bullocks, two rams, fourteen he-lambs a year old without blemish;
+
+**[29:24]** their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+
+**[29:25]** and one he-goat for a sin-offering; besides the continual burnt-offering, the meal-offering thereof, and the drink-offering thereof.
+
+**[29:26]** And on the fifth day nine bullocks, two rams, fourteen he-lambs a year old without blemish;
+
+**[29:27]** and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+
+**[29:28]** and one he-goat for a sin-offering, besides the continual burnt-offering, and the meal-offering thereof, and the drink-offering thereof.
+
+**[29:29]** And on the sixth day eight bullocks, two rams, fourteen he-lambs a year old without blemish;
+
+**[29:30]** and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+
+**[29:31]** and one he-goat for a sin-offering; besides the continual burnt-offering, the meal-offering thereof, and the drink-offerings thereof.
+
+**[29:32]** And on the seventh day seven bullocks, two rams, fourteen he-lambs a year old without blemish;
+
+**[29:33]** and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+
+**[29:34]** and one he-goat for a sin-offering; besides the continual burnt-offering, the meal-offering thereof, and the drink-offering thereof.
+
+**[29:35]** On the eighth day ye shall have a solemn assembly: ye shall do no servile work;
+
+**[29:36]** but ye shall offer a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah: one bullock, one ram, seven he-lambs a year old without blemish;
+
+**[29:37]** their meal-offering and their drink-offerings for the bullock, for the ram, and for the lambs, shall be according to their number, after the ordinance:
+
+**[29:38]** and one he-goat for a sin-offering, besides the continual burnt-offering, and the meal-offering thereof, and the drink-offering thereof.
+
+**[29:39]** These ye shall offer unto Jehovah in your set feasts, besides your vows, and your freewill-offerings, for your burnt-offerings, and for your meal-offerings, and for your drink-offerings, and for your peace-offerings.
+
+**[29:40]** And Moses told the children of Israel according to all that Jehovah commanded Moses.
+
+**[30:1]** And Moses spake unto the heads of the tribes of the children of Israel, saying, This is the thing which Jehovah hath commanded.
+
+**[30:2]** When a man voweth a vow unto Jehovah, or sweareth an oath to bind his soul with a bond, he shall not break his word; he shall do according to all that proceedeth out of his mouth.
+
+**[30:3]** Also when a woman voweth a vow unto Jehovah, and bindeth herself by a bond, being in her father's house, in her youth,
+
+**[30:4]** and her father heareth her vow, and her bond wherewith she hath bound her soul, and her father holdeth his peace at her; then all her vows shall stand, and every bond wherewith she hath bound her soul shall stand.
+
+**[30:5]** But if her father disallow her in the day that he heareth, none of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and Jehovah will forgive her, because her father disallowed her.
+
+**[30:6]** And if she be `married' to a husband, while her vows are upon her, or the rash utterance of her lips, wherewith she hath bound her soul,
+
+**[30:7]** and her husband hear it, and hold his peace at her in the day that he heareth it; then her vows shall stand, and her bonds wherewith she hath bound her soul shall stand.
+
+**[30:8]** But if her husband disallow her in the day that he heareth it, then he shall make void her vow which is upon her, and the rash utterance of her lips, wherewith she hath bound her soul: and Jehovah will forgive her.
+
+**[30:9]** But the vow of a widow, or of her that is divorced, `even' everything wherewith she hath bound her soul, shall stand against her.
+
+**[30:10]** And if she vowed in her husband's house, or bound her soul by a bond with an oath,
+
+**[30:11]** and her husband heard it, and held his peace at her, and disallowed her not; then all her vows shall stand, and every bond wherewith she bound her soul shall stand.
+
+**[30:12]** But if her husband made them null and void in the day that he heard them, then whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and Jehovah will forgive her.
+
+**[30:13]** Every vow, and every binding oath to afflict the soul, her husband may establish it, or her husband may make it void.
+
+**[30:14]** But if her husband altogether hold his peace at her from day to day, then he establisheth all her vows, or all her bonds, which are upon her: he hath established them, because he held his peace at her in the day that he heard them.
+
+**[30:15]** But if he shall make them null and void after that he hath heard them, then he shall bear her iniquity.
+
+**[30:16]** These are the statutes, which Jehovah commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father's house.
+
+**[31:1]** And Jehovah spake unto Moses, saying,
+
+**[31:2]** Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people.
+
+**[31:3]** And Moses spake unto the people, saying, Arm ye men from among you for the war, that they may go against Midian, to execute Jehovah's vengeance on Midian.
+
+**[31:4]** Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war.
+
+**[31:5]** So there were delivered, out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war.
+
+**[31:6]** And Moses sent them, a thousand of every tribe, to the war, them and Phinehas the son of Eleazar the priest, to the war, with the vessels of the sanctuary and the trumpets for the alarm in his hand.
+
+**[31:7]** And they warred against Midian, as Jehovah commanded Moses; and they slew every male.
+
+**[31:8]** And they slew the kings of Midian with the rest of their slain: Evi, and Rekem, and Zur, and Hur, and Reba, the five kings of Midian: Balaam also the son of Beor they slew with the sword.
+
+**[31:9]** And the children of Israel took captive the women of Midian and their little ones; and all their cattle, and all their flocks, and all their goods, they took for a prey.
+
+**[31:10]** And all their cities in the places wherein they dwelt, and all their encampments, they burnt with fire.
+
+**[31:11]** And they took all the spoil, and all the prey, both of man and of beast.
+
+**[31:12]** And they brought the captives, and the prey, and the spoil, unto Moses, and unto Eleazar the priest, and unto the congregation of the children of Israel, unto the camp at the plains of Moab, which are by the Jordan at Jericho.
+
+**[31:13]** And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp.
+
+**[31:14]** And Moses was wroth with the officers of the host, the captains of thousands and the captains of hundreds, who came from the service of the war.
+
+**[31:15]** And Moses said unto them, Have ye saved all the women alive?
+
+**[31:16]** Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against Jehovah in the matter of Peor, and so the plague was among the congregation of Jehovah.
+
+**[31:17]** Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him.
+
+**[31:18]** But all the women-children, that have not known man by lying with him, keep alive for yourselves.
+
+**[31:19]** And encamp ye without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify yourselves on the third day and on the seventh day, ye and your captives.
+
+**[31:20]** And as to every garment, and all that is made of skin, and all work of goats' `hair', and all things made of wood, ye shall purify yourselves.
+
+**[31:21]** And Eleazar the priest said unto the men of war that went to the battle, This is the statute of the law which Jehovah hath commanded Moses:
+
+**[31:22]** howbeit the gold, and the silver, the brass, the iron, the tin, and the lead,
+
+**[31:23]** everything that may abide the fire, ye shall make to go through the fire, and it shall be clean; nevertheless it shall be purified with the water for impurity: and all that abideth not the fire ye shall make to go through the water.
+
+**[31:24]** And ye shall wash your clothes on the seventh day, and ye shall be clean; and afterward ye shall come into the camp.
+
+**[31:25]** And Jehovah spake unto Moses, saying,
+
+**[31:26]** Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the heads of the fathers' `houses' of the congregation;
+
+**[31:27]** and divide the prey into two parts: between the men skilled in war, that went out to battle, and all the congregation.
+
+**[31:28]** And levy a tribute unto Jehovah of the men of war that went out to battle: one soul of five hundred, `both' of the persons, and of the oxen, and of the asses, and of the flocks:
+
+**[31:29]** take it of their half, and give it unto Eleazar the priest, for Jehovah's heave-offering.
+
+**[31:30]** And of the children of Israel's half, thou shalt take one drawn out of every fifty, of the persons, of the oxen, of the asses, and of the flocks, `even' of all the cattle, and give them unto the Levites, that keep the charge of the tabernacle of Jehovah.
+
+**[31:31]** And Moses and Eleazar the priest did as Jehovah commanded Moses.
+
+**[31:32]** Now the prey, over and above the booty which the men of war took, was six hundred thousand and seventy thousand and five thousand sheep,
+
+**[31:33]** and threescore and twelve thousand oxen,
+
+**[31:34]** and threescore and one thousand asses,
+
+**[31:35]** and thirty and two thousand persons in all, of the women that had not known man by lying with him.
+
+**[31:36]** And the half, which was the portion of them that went out to war, was in number three hundred thousand and thirty thousand and seven thousand and five hundred sheep:
+
+**[31:37]** and Jehovah's tribute of the sheep was six hundred and threescore and fifteen.
+
+**[31:38]** And the oxen were thirty and six thousand; of which Jehovah's tribute was threescore and twelve.
+
+**[31:39]** And the asses were thirty thousand and five hundred; of which Jehovah's tribute was threescore and one.
+
+**[31:40]** And the persons were sixteen thousand; of whom Jehovah's tribute was thirty and two persons.
+
+**[31:41]** And Moses gave the tribute, which was Jehovah's heave-offering, unto Eleazar the priest, as Jehovah commanded Moses.
+
+**[31:42]** And of the children of Israel's half, which Moses divided off from the men that warred,
+
+**[31:43]** (now the congregation's half was three hundred thousand and thirty thousand, seven thousand and five hundred sheep,
+
+**[31:44]** and thirty and six thousand oxen,
+
+**[31:45]** and thirty thousand and five hundred asses,
+
+**[31:46]** and sixteen thousand persons),
+
+**[31:47]** even of the children of Israel's half, Moses took one drawn out of every fifty, both of man and of beast, and gave them unto the Levites, that kept the charge of the tabernacle of Jehovah; as Jehovah commanded Moses.
+
+**[31:48]** And the officers that were over the thousands of the host, the captains of thousands, and the captains of hundreds, came near unto Moses;
+
+**[31:49]** and they said unto Moses, Thy servants have taken the sum of the men of war that are under our charge, and there lacketh not one man of us.
+
+**[31:50]** And we have brought Jehovah's oblation, what every man hath gotten, of jewels of gold, ankle-chains, and bracelets, signet-rings, ear-rings, and armlets, to make atonement for our souls before Jehovah.
+
+**[31:51]** And Moses and Eleazar the priest took the gold of them, even all wrought jewels.
+
+**[31:52]** And all the gold of the heave-offering that they offered up to Jehovah, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.
+
+**[31:53]** (`For' the men of war had taken booty, every man for himself.)
+
+**[31:54]** And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tent of meeting, for a memorial for the children of Israel before Jehovah.
+
+**[32:1]** Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;
+
+**[32:2]** the children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,
+
+**[32:3]** Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Sebam, and Nebo, and Beon,
+
+**[32:4]** the land which Jehovah smote before the congregation of Israel, is a land for cattle; and thy servants have cattle.
+
+**[32:5]** And they said, If we have found favor in thy sight, let this land be given unto thy servants for a possession; bring us not over the Jordan.
+
+**[32:6]** And Moses said unto the children of Gad, and to the children of Reuben, Shall your brethren go to the war, and shall ye sit here?
+
+**[32:7]** And wherefore discourage ye the heart of the children of Israel from going over into the land which Jehovah hath given them?
+
+**[32:8]** Thus did your fathers, when I sent them from Kadesh-barnea to see the land.
+
+**[32:9]** For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which Jehovah had given them.
+
+**[32:10]** And Jehovah's anger was kindled in that day, and he sware, saying,
+
+**[32:11]** Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
+
+**[32:12]** save Caleb the son of Jephunneh the Kenizzite, and Joshua the son of Nun; because they have wholly followed Jehovah.
+
+**[32:13]** And Jehovah's anger was kindled against Israel, and he made them wander to and fro in the wilderness forty years, until all the generation, that had done evil in the sight of Jehovah, was consumed.
+
+**[32:14]** And, behold, ye are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of Jehovah toward Israel.
+
+**[32:15]** For if ye turn away from after him, he will yet again leave them in the wilderness; and ye will destroy all this people.
+
+**[32:16]** And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:
+
+**[32:17]** but we ourselves will be ready armed to go before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fortified cities because of the inhabitants of the land.
+
+**[32:18]** We will not return unto our houses, until the children of Israel have inherited every man his inheritance.
+
+**[32:19]** For we will not inherit with them on the other side of the Jordan, and forward; because our inheritance is fallen to us on this side of the Jordan eastward.
+
+**[32:20]** And Moses said unto them, If ye will do this thing, if ye will arm yourselves to go before Jehovah to the war,
+
+**[32:21]** and every armed man of you will pass over the Jordan before Jehovah, until he hath driven out his enemies from before him,
+
+**[32:22]** and the land is subdued before Jehovah; then afterward ye shall return, and be guiltless towards Jehovah, and towards Israel; and this land shall be unto you for a possession before Jehovah.
+
+**[32:23]** But if ye will not do so, behold, ye have sinned against Jehovah; and be sure your sin will find you out.
+
+**[32:24]** Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.
+
+**[32:25]** And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth.
+
+**[32:26]** Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead;
+
+**[32:27]** but thy servants will pass over, every man that is armed for war, before Jehovah to battle, as my lord saith.
+
+**[32:28]** So Moses gave charge concerning them to Eleazar the priest, and to Joshua the son of Nun, and to the heads of the fathers' `houses' of the tribes of the children of Israel.
+
+**[32:29]** And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over the Jordan, every man that is armed to battle, before Jehovah, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:
+
+**[32:30]** but if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.
+
+**[32:31]** And the children of Gad and the children of Reuben answered, saying, As Jehovah hath said unto thy servants, so will we do.
+
+**[32:32]** We will pass over armed before Jehovah into the land of Canaan, and the possession of our inheritance `shall remain' with us beyond the Jordan.
+
+**[32:33]** And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto the half-tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, according to the cities thereof with `their' borders, even the cities of the land round about.
+
+**[32:34]** And the children of Gad built Dibon, and Ataroth, and Aroer,
+
+**[32:35]** and Atrothshophan, and Jazer, and Jogbehah,
+
+**[32:36]** and Beth-nimrah, and Beth-haran: fortified cities, and folds for sheep.
+
+**[32:37]** And the children of Reuben built Heshbon, and Elealeh, and Kiriathaim,
+
+**[32:38]** and Nebo, and Baal-meon, (their names being changed,) and Sibmah: and they gave other names unto the cities which they builded.
+
+**[32:39]** And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorites that were therein.
+
+**[32:40]** And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.
+
+**[32:41]** And Jair the son of Manasseh went and took the towns thereof, and called them Havvoth-jair.
+
+**[32:42]** And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.
+
+**[33:1]** These are the journeys of the children of Israel, when they went forth out of the land of Egypt by their hosts under the hand of Moses and Aaron.
+
+**[33:2]** And Moses wrote their goings out according to their journeys by the commandment of Jehovah: and these are their journeys according to their goings out.
+
+**[33:3]** And they journeyed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with a high hand in the sight of all the Egyptians,
+
+**[33:4]** while the Egyptians were burying all their first-born, whom Jehovah had smitten among them: upon their gods also Jehovah executed judgments.
+
+**[33:5]** And the children of Israel journeyed from Rameses, and encamped in Succoth.
+
+**[33:6]** And they journeyed from Succoth, and encamped in Etham, which is in the edge of the wilderness.
+
+**[33:7]** And they journeyed from Etham, and turned back unto Pihahiroth, which is before Baal-zephon: and they encamped before Migdol.
+
+**[33:8]** And they journeyed from before Hahiroth, and passed through the midst of the sea into the wilderness: and they went three days' journey in the wilderness of Etham, and encamped in Marah.
+
+**[33:9]** And they journeyed from Marah, and came unto Elim: and in Elim were twelve springs of water, and threescore and ten palm-trees; and they encamped there.
+
+**[33:10]** And they journeyed from Elim, and encamped by the Red Sea.
+
+**[33:11]** And they journeyed from the Red Sea, and encamped in the wilderness of Sin.
+
+**[33:12]** And they journeyed from the wilderness of Sin, and encamped in Dophkah.
+
+**[33:13]** And they journeyed from Dophkah, and encamped in Alush.
+
+**[33:14]** And they journeyed from Alush, and encamped in Rephidim, where was no water for the people to drink.
+
+**[33:15]** And they journeyed from Rephidim, and encamped in the wilderness of Sinai.
+
+**[33:16]** And they journeyed from the wilderness of Sinai, and encamped in Kibroth-hattaavah.
+
+**[33:17]** And they journeyed from Kibroth-hattaavah, and encamped in Hazeroth.
+
+**[33:18]** And they journeyed from Hazeroth, and encamped in Rithmah.
+
+**[33:19]** And they journeyed from Rithmah, and encamped in Rimmon-perez.
+
+**[33:20]** And they journeyed from Rimmon-perez, and encamped in Libnah.
+
+**[33:21]** And they journeyed from Libnah, and encamped in Rissah.
+
+**[33:22]** And they journeyed from Rissah, and encamped in Kehelathah.
+
+**[33:23]** And they journeyed from Kehelathah, and encamped in mount Shepher.
+
+**[33:24]** And they journeyed from mount Shepher, and encamped in Haradah.
+
+**[33:25]** And they journeyed from Haradah, and encamped in Makheloth.
+
+**[33:26]** And they journeyed from Makheloth, and encamped in Tahath.
+
+**[33:27]** And they journeyed from Tahath, and encamped in Terah.
+
+**[33:28]** And they journeyed from Terah, and encamped in Mithkah.
+
+**[33:29]** And they journeyed from Mithkah, and encamped in Hashmonah.
+
+**[33:30]** And they journeyed from Hashmonah, and encamped in Moseroth.
+
+**[33:31]** And they journeyed from Moseroth, and encamped in Bene-jaakan.
+
+**[33:32]** And they journeyed from Bene-jaakan, and encamped in Hor-haggidgad.
+
+**[33:33]** And they journeyed from Hor-haggidgad, and encamped in Jotbathah.
+
+**[33:34]** And they journeyed from Jotbathah, and encamped in Abronah.
+
+**[33:35]** And they journeyed from Abronah, and encamped in Ezion-geber.
+
+**[33:36]** And they journeyed from Ezion-geber, and encamped in the wilderness of Zin (the same is Kadesh).
+
+**[33:37]** And they journeyed from Kadesh, and encamped in mount Hor, in the edge of the land of Edom.
+
+**[33:38]** And Aaron the priest went up into mount Hor at the commandment of Jehovah, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the fifth month, on the first day of the month.
+
+**[33:39]** And Aaron was a hundred and twenty and three years old when he died in mount Hor.
+
+**[33:40]** And the Canaanite, the king of Arad, who dwelt in the South in the land of Canaan, heard of the coming of the children of Israel.
+
+**[33:41]** And they journeyed from mount Hor, and encamped in Zalmonah.
+
+**[33:42]** And they journeyed from Zalmonah, and encamped in Punon.
+
+**[33:43]** And they journeyed from Punon, and encamped in Oboth.
+
+**[33:44]** And they journeyed from Oboth, and encamped in Iye-abarim, in the border of Moab.
+
+**[33:45]** And they journeyed from Iyim, and encamped in Dibon-gad.
+
+**[33:46]** And they journeyed from Dibon-gad, and encamped in Almon-diblathaim.
+
+**[33:47]** And they journeyed from Almon-diblathaim, and encamped in the mountains of Abarim, before Nebo.
+
+**[33:48]** And they journeyed from the mountains of Abarim, and encamped in the plains of Moab by the Jordan at Jericho.
+
+**[33:49]** And they encamped by the Jordan, from Beth-jeshimoth even unto Abel-shittim in the plains of Moab.
+
+**[33:50]** And Jehovah spake unto Moses in the plains of Moab by the Jordan at Jericho, saying,
+
+**[33:51]** Speak unto the children of Israel, and say unto them, When ye pass over the Jordan into the land of Canaan,
+
+**[33:52]** then ye shall drive out all the inhabitants of the land from before you, and destroy all their figured `stones', and destroy all their molten images, and demolish all their high places:
+
+**[33:53]** and ye shall take possession of the land, and dwell therein; for unto you have I given the land to possess it.
+
+**[33:54]** And ye shall inherit the land by lot according to your families; to the more ye shall give the more inheritance, and to the fewer thou shalt give the less inheritance: wheresoever the lot falleth to any man, that shall be his; according to the tribes of your fathers shall ye inherit.
+
+**[33:55]** But if ye will not drive out the inhabitants of the land from before you, then shall those that ye let remain of them be as pricks in your eyes, and as thorns in your sides, and they shall vex you in the land wherein ye dwell.
+
+**[33:56]** And it shall come to pass, that, as I thought to do unto them, so will I do unto you.
+
+**[34:1]** And Jehovah spake unto Moses, saying,
+
+**[34:2]** Command the children of Israel, and say unto them, When ye come into the land of Canaan (this is the land that shall fall unto you for an inheritance, even the land of Canaan according to the borders thereof),
+
+**[34:3]** then your south quarter shall be from the wilderness of Zin along by the side of Edom, and your south border shall be from the end of the Salt Sea eastward;
+
+**[34:4]** and your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin; and the goings out thereof shall be southward of Kadesh-barnea; and it shall go forth to Hazar-addar, and pass along to Azmon;
+
+**[34:5]** and the border shall turn about from Azmon unto the brook of Egypt, and the goings out thereof shall be at the sea.
+
+**[34:6]** And for the western border, ye shall have the great sea and the border `thereof': this shall be your west border.
+
+**[34:7]** And this shall be your north border: from the great sea ye shall mark out for you mount Hor;
+
+**[34:8]** from mount Hor ye shall mark out unto the entrance of Hamath; and the goings out of the border shall be at Zedad;
+
+**[34:9]** and the border shall go forth to Ziphron, and the goings out thereof shall be at Hazar-enan: this shall be your north border.
+
+**[34:10]** And ye shall mark out your east border from Hazar-enan to Shepham;
+
+**[34:11]** and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall go down, and shall reach unto the side of the sea of Chinnereth eastward;
+
+**[34:12]** and the border shall go down to the Jordan, and the goings out thereof shall be at the Salt Sea. This shall be your land according to the borders thereof round about.
+
+**[34:13]** And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which Jehovah hath commanded to give unto the nine tribes, and to the half-tribe;
+
+**[34:14]** for the tribe of the children of Reuben according to their fathers' houses, and the tribe of the children of Gad according to their fathers' houses, have received, and the half-tribe of Manasseh have received, their inheritance:
+
+**[34:15]** the two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrising.
+
+**[34:16]** And Jehovah spake unto Moses, saying,
+
+**[34:17]** These are the names of the men that shall divide the land unto you for inheritance: Eleazar the priest, and Joshua the son of Nun.
+
+**[34:18]** And ye shall take one prince of every tribe, to divide the land for inheritance.
+
+**[34:19]** And these are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh.
+
+**[34:20]** And of the tribe of the children of Simeon, Shemuel the son of Ammihud.
+
+**[34:21]** Of the tribe of Benjamin, Elidad the son of Chislon.
+
+**[34:22]** And of the tribe of the children of Dan a prince, Bukki the son of Jogli.
+
+**[34:23]** Of the children of Joseph: of the tribe of the children of Manasseh a prince, Hanniel the son of Ephod.
+
+**[34:24]** And of the tribe of the children of Ephraim a prince, Kemuel the son of Shiphtan.
+
+**[34:25]** And of the tribe of the children of Zebulun a prince, Elizaphan the son of Parnach.
+
+**[34:26]** And of the tribe of the children of Issachar a prince, Paltiel the son of Azzan.
+
+**[34:27]** And of the tribe of the children of Asher a prince, Ahihud the son of Shelomi.
+
+**[34:28]** And of the tribe of the children of Naphtali a prince, Pedahel the son of Ammihud.
+
+**[34:29]** These are they whom Jehovah commanded to divide the inheritance unto the children of Israel in the land of Canaan.
+
+**[35:1]** And Jehovah spake unto Moses in the plains of Moab by the Jordan at Jericho, saying,
+
+**[35:2]** Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and suburbs for the cities round about them shall ye give unto the Levites.
+
+**[35:3]** And the cities shall they have to dwell in; and their suburbs shall be for their cattle, and for their substance, and for all their beasts.
+
+**[35:4]** And the suburbs of the cities, which ye shall give unto the Levites, shall be from the wall of the city and outward a thousand cubits round about.
+
+**[35:5]** And ye shall measure without the city for the east side two thousand cubits, and for the south side two thousand cubits, and for the west side two thousand cubits, and for the north side two thousand cubits, the city being in the midst. This shall be to them the suburbs of the cities.
+
+**[35:6]** And the cities which ye shall give unto the Levites, they shall be the six cities of refuge, which ye shall give for the manslayer to flee unto: and besides them ye shall give forty and two cities.
+
+**[35:7]** All the cities which ye shall give to the Levites shall be forty and eight cities; them `shall ye give' with their suburbs.
+
+**[35:8]** And concerning the cities which ye shall give of the possession of the children of Israel, from the many ye shall take many; and from the few ye shall take few: every one according to his inheritance which he inheriteth shall give of his cities unto the Levites.
+
+**[35:9]** And Jehovah spake unto Moses, saying,
+
+**[35:10]** Speak unto the children of Israel, and say unto them, When ye pass over the Jordan into the land of Canaan,
+
+**[35:11]** then ye shall appoint you cities to be cities of refuge for you, that the manslayer that killeth any person unwittingly may flee thither.
+
+**[35:12]** And the cities shall be unto you for refuge from the avenger, that the manslayer die not, until he stand before the congregation for judgment.
+
+**[35:13]** And the cities which ye shall give shall be for you six cities of refuge.
+
+**[35:14]** Ye shall give three cities beyond the Jordan, and three cities shall ye give in the land of Canaan; they shall be cities of refuge.
+
+**[35:15]** For the children of Israel, and for the stranger and for the sojourner among them, shall these six cities be for refuge; that every one that killeth any person unwittingly may flee thither.
+
+**[35:16]** But if he smote him with an instrument of iron, so that he died, he is a murderer: the murderer shall surely be put to death.
+
+**[35:17]** And if he smote him with a stone in the hand, whereby a man may die, and he died, he is a murderer: the murderer shall surely be put to death.
+
+**[35:18]** Or if he smote him with a weapon of wood in the hand, whereby a man may die, and he died, he is a murderer: the murderer shall surely be put to death.
+
+**[35:19]** The avenger of blood shall himself put the murderer to death: when he meeteth him, he shall put him to death.
+
+**[35:20]** And if he thrust him of hatred, or hurled at him, lying in wait, so that he died,
+
+**[35:21]** or in enmity smote him with his hand, so that he died; he that smote him shall surely be put to death; he is a murderer: the avenger of blood shall put the murderer to death, when he meeteth him.
+
+**[35:22]** But if he thrust him suddenly without enmity, or hurled upon him anything without lying in wait,
+
+**[35:23]** or with any stone, whereby a man may die, seeing him not, and cast it upon him, so that he died, and he was not his enemy, neither sought his harm;
+
+**[35:24]** then the congregation shall judge between the smiter and the avenger of blood according to these ordinances;
+
+**[35:25]** and the congregation shall deliver the manslayer out of the hand of the avenger of blood, and the congregation shall restore him to his city of refuge, whither he was fled: and he shall dwell therein until the death of the high priest, who was anointed with the holy oil.
+
+**[35:26]** But if the manslayer shall at any time go beyond the border of his city of refuge, whither he fleeth,
+
+**[35:27]** and the avenger of blood find him without the border of his city of refuge, and the avenger of blood slay the manslayer; he shall not be guilty of blood,
+
+**[35:28]** because he should have remained in his city of refuge until the death of the high priest: but after the death of the high priest the manslayer shall return into the land of his possession.
+
+**[35:29]** And these things shall be for a statute `and' ordinance unto you throughout your generations in all your dwellings.
+
+**[35:30]** Whoso killeth any person, the murderer shall be slain at the mouth of witnesses: but one witness shall not testify against any person that he die.
+
+**[35:31]** Moreover ye shall take no ransom for the life of a murderer, that is guilty of death; but he shall surely be put to death.
+
+**[35:32]** And ye shall take no ransom for him that is fled to his city of refuge, that he may come again to dwell in the land, until the death of the priest.
+
+**[35:33]** So ye shall not pollute the land wherein ye are: for blood, it polluteth the land; and no expiation can be made for the land for the blood that is shed therein, but by the blood of him that shed it.
+
+**[35:34]** And thou shalt not defile the land which ye inhabit, in the midst of which I dwell: for I, Jehovah, dwell in the midst of the children of Israel.
+
+**[36:1]** And the heads of the fathers' `houses' of the family of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the heads of the fathers' `houses' of the children of Israel:
+
+**[36:2]** and they said, Jehovah commanded my lord to give the land for inheritance by lot to the children of Israel: and my lord was commanded by Jehovah to give the inheritance of Zelophehad our brother unto his daughters.
+
+**[36:3]** And if they be married to any of the sons of the `other' tribes of the children of Israel, then will their inheritance be taken away from the inheritance of our fathers, and will be added to the inheritance of the tribe whereunto they shall belong: so will it be taken away from the lot of our inheritance.
+
+**[36:4]** And when the jubilee of the children of Israel shall be, then will their inheritance be added unto the inheritance of the tribe whereunto they shall belong: so will their inheritance be taken away from the inheritance of the tribe of our fathers.
+
+**[36:5]** And Moses commanded the children of Israel according to the word of Jehovah, saying, The tribe of the sons of Joseph speaketh right.
+
+**[36:6]** This is the thing which Jehovah doth command concerning the daughters of Zelophehad, saying, Let them be married to whom they think best; only into the family of the tribe of their father shall they be married.
+
+**[36:7]** So shall no inheritance of the children of Israel remove from tribe to tribe; for the children of Israel shall cleave every one to the inheritance of the tribe of his fathers.
+
+**[36:8]** And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may possess every man the inheritance of his fathers.
+
+**[36:9]** So shall no inheritance remove from one tribe to another tribe; for the tribes of the children of Israel shall cleave every one to his own inheritance.
+
+**[36:10]** Even as Jehovah commanded Moses, so did the daughters of Zelophehad:
+
+**[36:11]** for Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons.
+
+**[36:12]** They were married into the families of the sons of Manasseh the son of Joseph; and their inheritance remained in the tribe of the family of their father.
+
+**[36:13]** These are the commandments and the ordinances which Jehovah commanded by Moses unto the children of Israel in the plains of Moab by the Jordan at Jericho.

@@ -1,0 +1,179 @@
+# 1 Thessalonians - American Standard-ASV1901 (ASV)
+
+**[1:1]** Paul, and Silvanus, and Timothy, unto the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.
+
+**[1:2]** We give thanks to God always for you all, making mention `of you' in our prayers;
+
+**[1:3]** remembering without ceasing your work of faith and labor of love and patience of hope in our Lord Jesus Christ, before our God and Father;
+
+**[1:4]** knowing, brethren beloved of God, your election,
+
+**[1:5]** how that our gospel came not unto you in word only, but also in power, and in the Holy Spirit, and `in' much assurance; even as ye know what manner of men we showed ourselves toward you for your sake.
+
+**[1:6]** And ye became imitators of us, and of the Lord, having received the word in much affliction, with joy of the Holy Spirit;
+
+**[1:7]** so that ye became an ensample to all that believe in Macedonia and in Achaia.
+
+**[1:8]** For from you hath sounded forth the word of the Lord, not only in Macedonia and Achaia, but in every place your faith to God-ward is gone forth; so that we need not to speak anything.
+
+**[1:9]** For they themselves report concerning us what manner of entering in we had unto you; and how ye turned unto God from idols, to serve a living and true God,
+
+**[1:10]** and to wait for his Son from heaven, whom he raised from the dead, `even' Jesus, who delivereth us from the wrath to come.
+
+**[2:1]** For yourselves, brethren, know our entering in unto you, that it hath not been found vain:
+
+**[2:2]** but having suffered before and been shamefully treated, as ye know, at Philippi, we waxed bold in our God to speak unto you the gospel of God in much conflict.
+
+**[2:3]** For our exhortation `is' not of error, nor of uncleanness, nor in guile:
+
+**[2:4]** but even as we have been approved of God to be intrusted with the gospel, so we speak; not as pleasing men, but God who proveth our hearts.
+
+**[2:5]** For neither at any time were we found using words of flattery, as ye know, nor a cloak of covetousness, God is witness;
+
+**[2:6]** nor seeking glory of men, neither from you nor from others, when we might have claimed authority as apostles of Christ.
+
+**[2:7]** But we were gentle in the midst of you, as when a nurse cherisheth her own children:
+
+**[2:8]** even so, being affectionately desirous of you, we were well pleased to impart unto you, not the gospel of God only, but also our own souls, because ye were become very dear to us.
+
+**[2:9]** For ye remember, brethren, our labor and travail: working night and day, that we might not burden any of you, we preached unto you the gospel of God.
+
+**[2:10]** Ye are witnesses, and God `also', how holily and righteously and unblameably we behaved ourselves toward you that believe:
+
+**[2:11]** as ye know how we `dealt with' each one of you, as a father with his own children, exhorting you, and encouraging `you', and testifying,
+
+**[2:12]** to the end that ye should walk worthily of God, who calleth you into his own kingdom and glory.
+
+**[2:13]** And for this cause we also thank God without ceasing, that, when ye received from us the word of the message, `even the word' of God, ye accepted `it' not `as' the word of men, but, as it is in truth, the word of God, which also worketh in you that believe.
+
+**[2:14]** For ye, brethren, became imitators of the churches of God which are in Judaea in Christ Jesus: for ye also suffered the same things of your own countrymen, even as they did of the Jews;
+
+**[2:15]** who both killed the Lord Jesus and the prophets, and drove out us, and pleased not God, and are contrary to all men;
+
+**[2:16]** forbidding us to speak to the Gentiles that they may be saved; to fill up their sins always: but the wrath is come upon them to the uttermost.
+
+**[2:17]** But we, brethren, being bereaved of you for a short season, in presence not in heart, endeavored the more exceedingly to see your face with great desire:
+
+**[2:18]** because we would fain have come unto you, I Paul once and again; and Satan hindered us.
+
+**[2:19]** For what is our hope, or joy, or crown of glorying? Are not even ye, before our Lord Jesus at his coming?
+
+**[2:20]** For ye are our glory and our joy.
+
+**[3:1]** Wherefore when we could no longer forbear, we thought it good to be left behind at Athens alone;
+
+**[3:2]** and sent Timothy, our brother and God's minister in the gospel of Christ, to establish you, and to comfort `you' concerning your faith;
+
+**[3:3]** that no man be moved by these afflictions; for yourselves know that hereunto we are appointed.
+
+**[3:4]** For verily, when we were with you, we told you beforehand that we are to suffer affliction; even as it came to pass, and ye know.
+
+**[3:5]** For this cause I also, when I could no longer forbear, sent that I might know your faith, lest by any means the tempter had tempted you, and our labor should be in vain.
+
+**[3:6]** But when Timothy came even now unto us from you, and brought us glad tidings of your faith and love, and that ye have good remembrance of us always, longing to see us, even as we also `to see' you;
+
+**[3:7]** for this cause, brethren, we were comforted over you in all our distress and affliction through your faith:
+
+**[3:8]** for now we live, if ye stand fast in the Lord.
+
+**[3:9]** For what thanksgiving can we render again unto God for you, for all the joy wherewith we joy for your sakes before our God;
+
+**[3:10]** night and day praying exceedingly that we may see your face, and may perfect that which is lacking in your faith?
+
+**[3:11]** Now may our God and Father himself, and our Lord Jesus, direct our way unto you:
+
+**[3:12]** and the Lord make you to increase and abound in love one toward another, and toward all men, even as we also `do' toward you;
+
+**[3:13]** to the end he may establish your hearts unblameable in holiness before our God and Father, at the coming of our Lord Jesus with all his saints.
+
+**[4:1]** Finally then, brethren, we beseech and exhort you in the Lord Jesus, that, as ye received of us how ye ought to walk and to please God, even as ye do walk, --that ye abound more and more.
+
+**[4:2]** For ye know what charge we gave you through the Lord Jesus.
+
+**[4:3]** For this is the will of God, `even' your sanctification, that ye abstain from fornication;
+
+**[4:4]** that each one of you know how to possess himself of his own vessel in sanctification and honor,
+
+**[4:5]** not in the passion of lust, even as the Gentiles who know not God;
+
+**[4:6]** that no man transgress, and wrong his brother in the matter: because the Lord is an avenger in all these things, as also we forewarned you and testified.
+
+**[4:7]** For God called us not for uncleanness, but in sanctification.
+
+**[4:8]** Therefore he that rejecteth, rejecteth not man, but God, who giveth his Holy Spirit unto you.
+
+**[4:9]** But concerning love of the brethren ye have no need that one write unto you: for ye yourselves are taught of God to love one another;
+
+**[4:10]** for indeed ye do it toward all the brethren that are in all Macedonia. But we exhort you, brethren, that ye abound more and more;
+
+**[4:11]** and that ye study to be quiet, and to do your own business, and to work with your hands, even as we charged you;
+
+**[4:12]** that ye may walk becomingly toward them that are without, and may have need of nothing.
+
+**[4:13]** But we would not have you ignorant, brethren, concerning them that fall asleep; that ye sorrow not, even as the rest, who have no hope.
+
+**[4:14]** For if we believe that Jesus died and rose again, even so them also that are fallen asleep in Jesus will God bring with him.
+
+**[4:15]** For this we say unto you by the word of the Lord, that we that are alive, that are left unto the coming of the Lord, shall in no wise precede them that are fallen asleep.
+
+**[4:16]** For the Lord himself shall descend from heaven, with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first;
+
+**[4:17]** then we that are alive, that are left, shall together with them be caught up in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
+
+**[4:18]** Wherefore comfort one another with these words.
+
+**[5:1]** But concerning the times and the seasons, brethren, ye have no need that aught be written unto you.
+
+**[5:2]** For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.
+
+**[5:3]** When they are saying, Peace and safety, then sudden destruction cometh upon them, as travail upon a woman with child; and they shall in no wise escape.
+
+**[5:4]** But ye, brethren, are not in darkness, that that day should overtake you as a thief:
+
+**[5:5]** for ye are all sons of light, and sons of the day: we are not of the night, nor of darkness;
+
+**[5:6]** so then let us not sleep, as do the rest, but let us watch and be sober.
+
+**[5:7]** For they that sleep sleep in the night: and they that are drunken are drunken in the night.
+
+**[5:8]** But let us, since we are of the day, be sober, putting on the breastplate of faith and love; and for a helmet, the hope of salvation.
+
+**[5:9]** For God appointed us not into wrath, but unto the obtaining of salvation through our Lord Jesus Christ,
+
+**[5:10]** who died for us, that, whether we wake or sleep, we should live together with him.
+
+**[5:11]** Wherefore exhort one another, and build each other up, even as also ye do.
+
+**[5:12]** But we beseech you, brethren, to know them that labor among you, and are over you in the Lord, and admonish you;
+
+**[5:13]** and to esteem them exceeding highly in love for their work's sake. Be at peace among yourselves.
+
+**[5:14]** And we exhort you, brethren, admonish the disorderly, encourage the fainthearted, support the weak, be longsuffering toward all.
+
+**[5:15]** See that none render unto any one evil for evil; but always follow after that which is good, one toward another, and toward all.
+
+**[5:16]** Rejoice always;
+
+**[5:17]** pray without ceasing;
+
+**[5:18]** in everything give thanks: for this is the will of God in Christ Jesus to you-ward.
+
+**[5:19]** Quench not the Spirit;
+
+**[5:20]** despise not prophesyings;
+
+**[5:21]** prove all things; hold fast that which is good;
+
+**[5:22]** abstain from every form of evil.
+
+**[5:23]** And the God of peace himself sanctify you wholly; and may your spirit and soul and body be preserved entire, without blame at the coming of our Lord Jesus Christ.
+
+**[5:24]** Faithful is he that calleth you, who will also do it.
+
+**[5:25]** Brethren, pray for us.
+
+**[5:26]** Salute all the brethren with a holy kiss.
+
+**[5:27]** I adjure you by the Lord that this epistle be read unto all the brethren.
+
+**[5:28]** The grace of our Lord Jesus Christ be with you.

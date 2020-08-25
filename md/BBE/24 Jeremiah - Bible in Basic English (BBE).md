@@ -1,0 +1,2729 @@
+# Jeremiah - Bible in Basic English (BBE)
+
+**[1:1]** The words of Jeremiah, the son of Hilkiah, of the priests who were in Anathoth in the land of Benjamin:
+
+**[1:2]** To whom the word of the Lord came in the days of Josiah, the son of Amon, king of Judah, in the thirteenth year of his rule.
+
+**[1:3]** And it came again in the days of Jehoiakim, the son of Josiah, king of Judah, up to the eleventh year of Zedekiah, the son of Josiah, king of Judah; till Jerusalem was taken away in the fifth month.
+
+**[1:4]** Now the word of the Lord came to me, saying,
+
+**[1:5]** Before you were formed in the body of your mother I had knowledge of you, and before your birth I made you holy; I have given you the work of being a prophet to the nations.
+
+**[1:6]** Then said I, O Lord God! see, I have no power of words, for I am a child.
+
+**[1:7]** But the Lord said to me, Do not say, I am a child: for wherever I send you, you are to go, and whatever I give you orders to say, you are to say.
+
+**[1:8]** Have no fear because of them: for I am with you, to keep you safe, says the Lord.
+
+**[1:9]** Then the Lord put out his hand, touching my mouth; and the Lord said to me, See, I have put my words in your mouth:
+
+**[1:10]** See, this day I have put you over the nations and over the kingdoms, for uprooting and smashing down, for destruction and overturning, for building up and planting.
+
+**[1:11]** Again the word of the Lord came to me, saying, Jeremiah, what do you see? And I said, I see a branch of an almond-tree.
+
+**[1:12]** Then the Lord said to me, You have seen well: for I keep watch over my word to give effect to it.
+
+**[1:13]** And the word of the Lord came to me a second time, saying, What do you see? And I said, I see a boiling pot, and its face is from the north.
+
+**[1:14]** Then the Lord said to me, Out of the north evil will come, bursting out on all the people of the land.
+
+**[1:15]** For see, I will send for all the families of the kingdoms of the north, says the Lord; and they will come, everyone placing his high seat at the way into Jerusalem, and against its walls on every side, and against all the towns of Judah.
+
+**[1:16]** And I will give my decision against them on account of all their evil-doing; because they have given me up, burning perfumes to other gods and worshipping the works of their hands.
+
+**[1:17]** So make yourself ready, and go and say to them everything I give you orders to say: do not be overcome by fear of them, or I will send fear on you before them.
+
+**[1:18]** For see, this day have I made you a walled town, and an iron pillar, and walls of brass, against all the land, against the kings of Judah, against its captains, against its priests, and against the people of the land.
+
+**[1:19]** They will be fighting against you, but they will not overcome you: for I am with you, says the Lord, to give you salvation.
+
+**[2:1]** And the word of the Lord came to me, saying,
+
+**[2:2]** Go and say in the ears of Jerusalem, The Lord says, I still keep the memory of your kind heart when you were young, and your love when you became my bride; how you went after me in the waste of sand, in an unplanted land.
+
+**[2:3]** Israel was holy to the Lord, the first-fruits of his increase: all who made attacks on him were judged as wrongdoers, evil came on them, says the Lord.
+
+**[2:4]** Give ear to the words of the Lord, O sons of Jacob and all the families of Israel:
+
+**[2:5]** These are the words of the Lord: What evil have your fathers seen in me that they have gone far from me, and, walking after what is false, have become false?
+
+**[2:6]** And they never said, Where is the Lord, who took us up out of the land of Egypt; who was our guide through the waste of sand, through an unplanted land full of deep holes, through a dry land of deep shade, which no one went through and where no man was living?
+
+**[2:7]** And I took you into a fertile land, where you were living on its fruit and its wealth; but when you came in, you made my land unclean, and made my heritage a disgusting thing.
+
+**[2:8]** The priests did not say, Where is the Lord? and those who were expert in the law had no knowledge of me: and the rulers did evil against me, and the prophets became prophets of the Baal, going after things without value.
+
+**[2:9]** For this reason, I will again put forward my cause against you, says the Lord, even against you and against your children's children.
+
+**[2:10]** For go over to the sea-lands of Kittim and see; send to Kedar and give deep thought to it; and see if there has ever been such a thing.
+
+**[2:11]** Has any nation ever made a change in their gods, though they are no gods? but my people have given up their glory in exchange for what is of no profit.
+
+**[2:12]** Be full of wonder, O heavens, at this; be overcome with fear, be completely waste, says the Lord.
+
+**[2:13]** For my people have done two evils; they have given up me, the fountain of living waters, and have made for themselves water-holes, cut out from the rock, broken water-holes, of no use for storing water.
+
+**[2:14]** Is Israel a servant? has he been a house-servant from birth? why has he been made waste?
+
+**[2:15]** The young lions have made an outcry against him with a loud voice: they have made his land waste; his towns are burned up, with no one living in them.
+
+**[2:16]** Even the children of Noph and Tahpanhes have put shame on you.
+
+**[2:17]** Has not this come on you because you have given up the Lord your God, who was your guide by the way?
+
+**[2:18]** And now, what have you to do on the way to Egypt, to get your drink from the waters of the Nile? or what have you to do on the way to Assyria, to get your drink from the waters of the River?
+
+**[2:19]** The evil you yourselves have done will be your punishment, your errors will be your judge: be certain then, and see that it is an evil and a bitter thing to give up the Lord your God, and no longer to be moved by fear of me, says the Lord, the Lord of armies.
+
+**[2:20]** For in the past, your yoke was broken by your hands and your cords parted; and you said, I will not be your servant; for on every high hill and under every branching tree, your behaviour was like that of a loose woman
+
+**[2:21]** But when you were planted by me, you were a noble vine, in every way a true seed: how then have you been changed into the branching plant of a strange vine?
+
+**[2:22]** For even if you are washed with soda and take much soap, still your evil-doing is marked before me, says the Lord God.
+
+**[2:23]** How are you able to say, I am not unclean, I have not gone after the Baals? see your way in the valley, be clear about what you have done: you are a quick-footed camel twisting her way in and out;
+
+**[2:24]** An untrained ass, used to the waste land, breathing up the wind in her desire; at her time, who is able to send her away? all those who are looking for her will have no need to make themselves tired; in her month they will get her.
+
+**[2:25]** Do not let your foot be without shoes, or your throat dry from need of water: but you said, There is no hope: no, for I have been a lover of strange gods, and after them I will go.
+
+**[2:26]** As the thief is shamed when he is taken, so is Israel shamed; they, their kings and their rulers, their priests and their prophets;
+
+**[2:27]** Who say to a tree, You are my father; and to a stone, You have given me life: for their backs have been turned to me, not their faces: but in the time of their trouble they will say, Up! and be our saviour.
+
+**[2:28]** But where are the gods you have made for yourselves? let them come, if they are able to give you salvation in the time of your trouble: for the number of your gods is as the number of your towns, O Judah.
+
+**[2:29]** Why will you put forward your cause against me? You have all done evil against me, says the Lord.
+
+**[2:30]** I gave your children blows to no purpose; they got no good from training: your sword has been the destruction of your prophets, like a death-giving lion.
+
+**[2:31]** O generation, see the word of the Lord. Have I been a waste land to Israel? or a land of dark night? why do my people say, We have got loose, we will not come to you again?
+
+**[2:32]** Is it possible for a virgin to put out of her memory her ornaments, or a bride her robes? but my people have put me out of their memories for unnumbered days.
+
+**[2:33]** With what care are your ways ordered when you are looking for love! so ... your ways.
+
+**[2:34]** And in the skirts of your robe may be seen the life-blood of those who have done no wrong: ...
+
+**[2:35]** And still you said, I have done no wrong; truly, his wrath is turned away from me. See, I will take up the cause against you, because you say, I have done no wrong.
+
+**[2:36]** Why do you go about so much for the purpose of changing your way? you will be shamed on account of Egypt, as you were shamed on account of Assyria.
+
+**[2:37]** Truly, you will go out from him with your hands on your head: for the Lord has given up those in whom you have put your faith, and they will be of no help to you.
+
+**[3:1]** They say, If a man puts away his wife and she goes from him and becomes another man's, will he go back to her again? will not that land have been made unclean? but though you have been acting like a loose woman with a number of lovers, will you now come back to me? says the Lord.
+
+**[3:2]** Let your eyes be lifted up to the open hilltops, and see; where have you not been taken by your lovers? You have been seated waiting for them by the wayside like an Arabian in the waste land; you have made the land unclean with your loose ways and your evil-doing.
+
+**[3:3]** So the showers have been kept back, and there has been no spring rain; still your brow is the brow of a loose woman, you will not let yourself be shamed.
+
+**[3:4]** Will you not, from this time, make your prayer to me, crying, My father, you are the friend of my early years?
+
+**[3:5]** Will he be angry for ever? will he keep his wrath to the end? These things you have said, and have done evil and have had your way.
+
+**[3:6]** And the Lord said to me in the days of Josiah the king, Have you seen what Israel, turning away from me, has done? She has gone up on every high mountain and under every branching tree, acting like a loose woman there.
+
+**[3:7]** And I said, After she has done all these things she will come back to me; but she did not. And her false sister Judah saw it.
+
+**[3:8]** And though she saw that, because Israel, turning away from me, had been untrue to me, I had put her away and given her a statement in writing ending the relation between us, still Judah, her false sister, had no fear, but went and did the same.
+
+**[3:9]** So that through all her loose behaviour the land became unclean, and she was untrue, giving herself to stones and trees.
+
+**[3:10]** But for all this, her false sister Judah has not come back to me with all her heart, but with deceit, says the Lord.
+
+**[3:11]** And the Lord said to me, Israel in her turning away is seen to be more upright than false Judah.
+
+**[3:12]** Go, and give out these words to the north, and say, Come back, O Israel, though you have been turned away from me, says the Lord; my face will not be against you in wrath: for I am full of mercy, says the Lord, I will not be angry for ever.
+
+**[3:13]** Only be conscious of your sin, the evil you have done against the Lord your God; you have gone with strange men under every branching tree, giving no attention to my voice, says the Lord.
+
+**[3:14]** Come back, O children who are turned away, says the Lord; for I am a husband to you, and I will take you, one from a town and two from a family, and will make you come to Zion;
+
+**[3:15]** And I will give you keepers, pleasing to my heart, who will give you your food with knowledge and wisdom.
+
+**[3:16]** And it will come about, when your numbers are increased in the land, in those days, says the Lord, that they will no longer say, The ark of the agreement of the Lord: it will not come into their minds, they will not have any memory of it, or be conscious of the loss of it, and it will not be made again.
+
+**[3:17]** At that time Jerusalem will be named the seat of the Lord's kingdom; and all the nations will come together to it, to the name of the Lord, to Jerusalem: and no longer will their steps be guided by the purposes of their evil hearts.
+
+**[3:18]** In those days the family of Judah will go with the family of Israel, and they will come together out of the land of the north into the land which I gave for a heritage to your fathers.
+
+**[3:19]** But I said, How am I to put you among the children, and give you a desired land, a heritage of glory among the armies of the nations? and I said, You are to say to me, My father; and not be turned away from me.
+
+**[3:20]** Truly, as a wife is false to her husband, so have you been false to me, O Israel, says the Lord.
+
+**[3:21]** A voice is sounding on the open hilltops, the weeping and the prayers of the children of Israel; because their way is twisted, they have not kept the Lord their God in mind.
+
+**[3:22]** Come back, you children who have been turned away, and I will take away your desire for wandering. See, we have come to you, for you are the Lord our God.
+
+**[3:23]** Truly, the hills, and the noise of an army on the mountains, are a false hope: truly, in the Lord our God is the salvation of Israel.
+
+**[3:24]** But the Baal has taken all the work of our fathers from our earliest days; their flocks and their herds, their sons and their daughters.
+
+**[3:25]** Let us be stretched on the earth in our downfall, covering ourselves with our shame: for we have been sinners against the Lord our God, we and our fathers, from our earliest years even till this day: and we have not given ear to the voice of the Lord our God.
+
+**[4:1]** If you will come back, O Israel, says the Lord, you will come back to me: and if you will put away your disgusting ways, you will not be sent away from before me.
+
+**[4:2]** And you will take your oath, By the living Lord, in good faith and wisdom and righteousness; and the nations will make use of you as a blessing, and in you will they take a pride.
+
+**[4:3]** For this is what the Lord says to the men of Judah and to Jerusalem: Get your unworked land ploughed up, do not put in your seeds among thorns.
+
+**[4:4]** Undergo a circumcision of the heart, you men of Judah and people of Jerusalem: or my wrath may come out like fire, burning so that no one is able to put it out, because of the evil of your doings.
+
+**[4:5]** Say openly in Judah, give it out in Jerusalem, and say, Let the horn be sounded in the land: crying out in a loud voice, Come together, and let us go into the walled towns.
+
+**[4:6]** Put up a flag for a sign to Zion: go in flight so that you may be safe, waiting no longer: for I will send evil from the north, and a great destruction.
+
+**[4:7]** A lion has gone up from his secret place in the woods, and one who makes waste the nations is on his way; he has gone out from his place, to make your land unpeopled, so that your towns will be made waste, with no man living in them.
+
+**[4:8]** For this put on haircloth, with weeping and loud crying: for the burning wrath of the Lord is not turned back from us.
+
+**[4:9]** And it will come about in that day, says the Lord, that the heart of the king will be dead in him, and the hearts of the rulers; and the priests will be overcome with fear, and the prophets with wonder.
+
+**[4:10]** Then said I, Ah, Lord God! your words were not true when you said to this people and to Jerusalem, You will have peace; when the sword has come even to the soul.
+
+**[4:11]** At that time it will be said to this people and to Jerusalem, A burning wind from the open hilltops in the waste land is blowing on the daughter of my people, not for separating or cleaning the grain;
+
+**[4:12]** A full wind will come for me: and now I will give my decision against them.
+
+**[4:13]** See, he will come up like the clouds, and his war-carriages like the storm-wind: his horses are quicker than eagles. Sorrow is ours, for destruction has come on us.
+
+**[4:14]** O Jerusalem, make your heart clean from evil, so that you may have salvation. How long are evil purposes to have a resting-place in you?
+
+**[4:15]** For a voice is sounding from Dan, giving out evil from the hills of Ephraim:
+
+**[4:16]** Make this come to the minds of the nations, make a statement openly against Jerusalem, that attackers are coming from a far country and their voices will be loud against the towns of Judah.
+
+**[4:17]** Like keepers of a field they are against her on every side; because she has been fighting against me, says the Lord.
+
+**[4:18]** Your ways and your doings have made these things come on you; this is your sin; truly it is bitter, going deep into your heart.
+
+**[4:19]** My soul, my soul! I am pained to my inmost heart; my heart is troubled in me; I am not able to be quiet, because the sound of the horn, the note of war, has come to my ears.
+
+**[4:20]** News is given of destruction on destruction; all the land is made waste: suddenly my tents, straight away my curtains, are made waste.
+
+**[4:21]** How long will I go on seeing the flag and hearing the sound of the war-horn?
+
+**[4:22]** For my people are foolish, they have no knowledge of me; they are evil-minded children, without sense, all of them: they are wise in evil-doing, but have no knowledge of doing good.
+
+**[4:23]** Looking at the earth, I saw that it was waste and without form; and to the heavens, that they had no light.
+
+**[4:24]** Looking at the mountains, I saw them shaking, and all the hills were moved about.
+
+**[4:25]** Looking, I saw that there was no man, and all the birds of heaven had gone in flight.
+
+**[4:26]** Looking, I saw that the fertile field was a waste, and all its towns were broken down before the Lord and before his burning wrath.
+
+**[4:27]** For this is what the Lord has said: All the land will become a waste; I will make destruction complete.
+
+**[4:28]** The earth will be weeping for this, and the heavens on high will be black: because I have said it, and I will not go back from it; it is my purpose, and it will not be changed.
+
+**[4:29]** All the land is in flight because of the noise of the horsemen and the bowmen; they have taken cover in the woodland and up on the rocks: every town has been given up, not a man is living in them.
+
+**[4:30]** And you, when you are made waste, what will you do? Though you are clothed in red, though you make yourself beautiful with ornaments of gold, though you make your eyes wide with paint, it is for nothing that you make yourself fair; your lovers have no more desire for you, they have designs on your life.
+
+**[4:31]** A voice has come to my ears like the voice of a woman in birth-pains, the pain of one giving birth to her first child, the voice of the daughter of Zion, fighting for breath, stretching out her hands, saying, Now sorrow is mine! for my strength is gone from me before the takers of life.
+
+**[5:1]** Go quickly through the streets of Jerusalem, and see now, and get knowledge, and make a search in her wide places if there is a man, if there is one in her who is upright, who keeps faith; and she will have my forgiveness.
+
+**[5:2]** And though they say, By the living Lord; truly their oaths are false.
+
+**[5:3]** O Lord, do not your eyes see good faith? you have given them punishment, but they were not troubled; you have sent destruction on them, but they did not take your teaching to heart: they have made their faces harder than a rock; they would not come back.
+
+**[5:4]** Then I said, But these are the poor: they are foolish, for they have no knowledge of the way of the Lord or of the behaviour desired by their God.
+
+**[5:5]** I will go to the great men and have talk with them; for they have knowledge of the way of the Lord and of the behaviour desired by their God. But as for these, their one purpose is a broken yoke and burst bands.
+
+**[5:6]** And so a lion from the woods will put them to death, a wolf of the waste land will make them waste, a leopard will keep watch on their towns, and everyone who goes out from them will be food for the beasts; because of the great number of their sins and the increase of their wrongdoing.
+
+**[5:7]** How is it possible for you to have my forgiveness for this? your children have given me up, taking their oaths by those who are no gods: when I had given them food in full measure, they were false to their wives, taking their pleasure in the houses of loose women.
+
+**[5:8]** They were full of desire, like horses after a meal of grain: everyone went after his neighbour's wife.
+
+**[5:9]** Am I not to give punishment for these things? says the Lord: will not my soul take payment from such a nation as this?
+
+**[5:10]** Go up against her vines and make waste; let the destruction be complete: take away her branches, for they are not the Lord's.
+
+**[5:11]** For the people of Israel and the people of Judah have been very false to me, says the Lord.
+
+**[5:12]** They would have nothing to do with the Lord, saying, He will do nothing, and no evil will come to us; we will not see the sword or be short of food:
+
+**[5:13]** And the prophets will become wind, and the word is not in them; so it will be done to them.
+
+**[5:14]** For this reason the Lord, the God of armies, has said: Because you have said this, I will make my words in your mouth a fire, and this people wood, and they will be burned up by it.
+
+**[5:15]** See, I will send you a nation from far away, O people of Israel, says the Lord; a strong nation and an old nation, a nation whose language is strange to you, so that you may not get the sense of their words.
+
+**[5:16]** Their arrows give certain death, they are all men of war.
+
+**[5:17]** They will take all the produce of your fields, which would have been food for your sons and your daughters: they will take your flocks and your herds: they will take all your vines and your fig-trees: and with the sword they will make waste your walled towns in which you put your faith.
+
+**[5:18]** But even in those days, says the Lord, I will not let your destruction be complete.
+
+**[5:19]** And it will come about, when you say, Why has the Lord our God done all these things to us? that you will say to them, As you gave me up, making yourselves servants to strange gods in your land, so will you be servants to strange men in a land which is not yours.
+
+**[5:20]** Say this openly in Jacob and give it out in Judah, saying,
+
+**[5:21]** Give ear now to this, O foolish people without sense; who have eyes but see nothing, and ears without the power of hearing:
+
+**[5:22]** Have you no fear of me? says the Lord; will you not be shaking with fear before me, who have put the sand as a limit for the sea, by an eternal order, so that it may not go past it? and though it is ever in motion, it is not able to have its way; though the sound of its waves is loud, they are not able to go past it.
+
+**[5:23]** But the heart of this people is uncontrolled and turned away from me; they are broken loose and gone.
+
+**[5:24]** And they do not say in their hearts, Now let us give worship to our God, who gives the rain, the winter and the spring rain, at the right time; who keeps for us the ordered weeks of the grain-cutting.
+
+**[5:25]** Through your evil-doing these things have been turned away, and your sins have kept back good from you.
+
+**[5:26]** For there are sinners among my people: they keep watch, like men watching for birds; they put a net and take men in it.
+
+**[5:27]** As the fowl-house is full of birds, so are their houses full of deceit: for this reason they have become great and have got wealth.
+
+**[5:28]** They have become fat and strong: they have gone far in works of evil: they give no support to the cause of the child without a father, so that they may do well; they do not see that the poor man gets his rights.
+
+**[5:29]** Am I not to give punishment for these things? says the Lord: will not my soul take payment from such a nation as this?
+
+**[5:30]** A thing of wonder and fear has come about in the land;
+
+**[5:31]** The prophets give false words and the priests give decisions by their direction; and my people are glad to have it so: and what will you do in the end?
+
+**[6:1]** Go in flight out of Jerusalem, so that you may be safe, you children of Benjamin, and let the horn be sounded in Tekoa, and the flag be lifted up on Beth-haccherem: for evil is looking out from the north, and a great destruction.
+
+**[6:2]** The fair and delicate one, the daughter of Zion, will be cut off by my hand.
+
+**[6:3]** Keepers of sheep with their flocks will come to her; they will put up their tents round her; everyone will get food in his place.
+
+**[6:4]** Make war ready against her; up! let us go up when the sun is high. Sorrow is ours! for the day is turned and the shades of evening are stretched out.
+
+**[6:5]** Up! let us go up by night, and send destruction on her great houses.
+
+**[6:6]** For this is what the Lord of armies has said: Let trees be cut down and an earthwork be placed against Jerusalem: sorrow on the false town! inside her there is nothing but cruel ways.
+
+**[6:7]** As the spring keeps its waters cold, so she keeps her evil in her: the sound of cruel and violent behaviour is in her; before me at all times are disease and wounds.
+
+**[6:8]** Undergo teaching, O Jerusalem, or my soul will be turned away from you, and I will make you a waste, an unpeopled land.
+
+**[6:9]** This is what the Lord of armies has said: Everything will be taken from the rest of Israel as the last grapes are taken from the vine; let your hand be turned to the small branches, like one pulling off grapes.
+
+**[6:10]** To whom am I to give word, witnessing so that they may take note? see, their ears are stopped, and they are not able to give attention: see, the word of the Lord has been a cause of shame to them, they have no delight in it.
+
+**[6:11]** For this reason I am full of the wrath of the Lord, I am tired of keeping it in: may it be let loose on the children in the street, and on the band of the young men together: for even the husband with his wife will be taken, the old man with him who is full of days.
+
+**[6:12]** And their houses will be handed over to others, their fields and their wives together: for my hand will be stretched out against the people of the land, says the Lord.
+
+**[6:13]** For from the least of them even to the greatest, everyone is given up to getting money; from the prophet even to the priest, everyone is working deceit.
+
+**[6:14]** And they have made little of the wounds of my people, saying, Peace, peace; when there is no peace.
+
+**[6:15]** Let them be put to shame because they have done disgusting things. They had no shame, they were not able to become red with shame: so they will come down with those who are falling: when my punishment comes on them, they will be made low, says the Lord.
+
+**[6:16]** This is what the Lord has said: Take your place looking out on the ways; make search for the old roads, saying, Where is the good way? and go in it that you may have rest for your souls. But they said, We will not go in it.
+
+**[6:17]** And I put watchmen over you, saying, Give attention to the sound of the horn; but they said, We will not give attention.
+
+**[6:18]** So then, give ear, you nations, and ...
+
+**[6:19]** Give ear, O earth: see, I will make evil come on this people, even the fruit of their thoughts, because they have not given attention to my words, and they would have nothing to do with my law.
+
+**[6:20]** To what purpose does sweet perfume come to me from Sheba, and spices from a far country? your burned offerings give me no pleasure, your offerings of beasts are not pleasing to me.
+
+**[6:21]** For this reason the Lord has said, See, I will put stones in the way of this people: and the fathers and the sons together will go falling over them; the neighbour and his friend will come to destruction.
+
+**[6:22]** The Lord has said, See, a people is coming from the north country, a great nation will be put in motion from the inmost parts of the earth.
+
+**[6:23]** Bows and spears are in their hands; they are cruel and have no mercy; their voice is like the thunder of the sea, and they go on horses; everyone in his place like men going to the fight, against you, O daughter of Zion.
+
+**[6:24]** The news of it has come to our ears; our hands have become feeble: trouble has come on us and pain, like the pain of a woman in childbirth.
+
+**[6:25]** Go not out into the field or by the way; for there is the sword of the attacker, and fear on every side.
+
+**[6:26]** O daughter of my people, put on haircloth, rolling yourself in the dust: give yourself to sorrow, as for an only son, with most bitter cries of grief; for he who makes waste will come on us suddenly.
+
+**[6:27]** I have made you a tester among my people, so that you may have knowledge of their way and put it to the test.
+
+**[6:28]** All of them are turned away, going about with false stories; they are brass and iron: they are all workers of deceit.
+
+**[6:29]** The blower is blowing strongly, the lead is burned away in the fire: they go on heating the metal to no purpose, for the evil-doers are not taken away.
+
+**[6:30]** They will be named waste silver, because the Lord has given them up.
+
+**[7:1]** The word which came to Jeremiah from the Lord, saying,
+
+**[7:2]** Take your place in the doorway of the Lord's house, and give out this word there, and say, Give ear to the word of the Lord, all you of Judah who come inside these doors to give worship to the Lord.
+
+**[7:3]** The Lord of armies, the God of Israel, says, Let your ways and your doings be changed for the better and I will let you go on living in this place.
+
+**[7:4]** Put no faith in false words, saying, The Temple of the Lord, the Temple of the Lord, the Temple of the Lord, are these.
+
+**[7:5]** For if your ways and your doings are truly changed for the better; if you truly give right decisions between a man and his neighbour;
+
+**[7:6]** If you are not cruel to the man from a strange country, and to the child without a father, and to the widow, and do not put the upright to death in this place, or go after other gods, causing damage to yourselves:
+
+**[7:7]** Then I will let you go on living in this place, in the land which I gave to your fathers in the past and for ever.
+
+**[7:8]** See, you put your faith in false words which are of no profit.
+
+**[7:9]** Will you take the goods of others, put men to death, and be untrue to your wives, and take false oaths, and have perfumes burned to the Baal, and go after other gods which are strange to you;
+
+**[7:10]** And come and take your place before me in this house, which is named by my name, and say, We have been made safe; so that you may do all these disgusting things?
+
+**[7:11]** Has this house, which is named by my name, become a hole of thieves to you? Truly I, even I, have seen it, says the Lord.
+
+**[7:12]** But go now to my place which was in Shiloh, where I put my name at first, and see what I did to it because of the evil-doing of my people Israel.
+
+**[7:13]** And now, because you have done all these works, says the Lord, and I sent my word to you, getting up early and sending, but you did not give ear; and my voice came to you, but you gave no answer:
+
+**[7:14]** For this reason I will do to the house which is named by my name, and in which you have put your faith, and to the place which I gave to you and to your fathers, as I have done to Shiloh.
+
+**[7:15]** And I will send you away from before my face, as I have sent away all your brothers, even all the seed of Ephraim.
+
+**[7:16]** And as for you (Jeremiah), make no prayers for this people, send up no cry or prayer for them, make no request for them to me: for I will not give ear.
+
+**[7:17]** Do you not see what they are doing in the towns of Judah and in the streets of Jerusalem?
+
+**[7:18]** The children go for wood, the fathers get the fire burning, the women are working the paste to make cakes for the queen of heaven, and drink offerings are drained out to other gods, moving me to wrath.
+
+**[7:19]** Are they moving me to wrath? says the Lord; are they not moving themselves to their shame?
+
+**[7:20]** So this is what the Lord God has said: See, my wrath and my passion will be let loose on this place, on man and beast, and on the trees of the field, and on the produce of the earth; it will be burning and will not be put out.
+
+**[7:21]** These are the words of the Lord of armies, the God of Israel: Put your burned offerings with your offerings of beasts, and take flesh for your food.
+
+**[7:22]** For I said nothing to your fathers, and gave them no orders, on the day when I took them out of Egypt, about burned offerings or offerings of beasts:
+
+**[7:23]** But this was the order I gave them, saying, Give ear to my voice, and I will be your God, and you will be my people: go in all the way ordered by me, so that all may be well for you.
+
+**[7:24]** But they took no note and did not give ear, but were guided by the thoughts and the pride of their evil hearts, going back and not forward.
+
+**[7:25]** From the day when your fathers came out of Egypt till this day, I have sent my servants the prophets to you, getting up early every day and sending them:
+
+**[7:26]** But still they took no note and would not give ear, but they made their necks stiff, doing worse than their fathers.
+
+**[7:27]** And you are to say all these words to them, but they will not give ear to you: you will send out your voice to them, but they will give no answer.
+
+**[7:28]** And you are to say to them, This is the nation which has not given ear to the voice of their God, or taken his teaching to heart: good faith is dead and is cut off from their mouths.
+
+**[7:29]** Let your hair be cut off, O Jerusalem, and let it go, and let a song of grief go up on the open hilltops; for the Lord is turned away from the generation of his wrath and has given them up.
+
+**[7:30]** For the children of Judah have done what is evil in my eyes, says the Lord: they have put their disgusting images in the house which is named by my name, making it unclean.
+
+**[7:31]** And they have put up the high place of Topheth in the valley of the son of Hinnom, burning their sons and their daughters there in the fire; a thing which was not ordered by me and never came into my mind.
+
+**[7:32]** For this cause, the days are coming, says the Lord, when it will no longer be named Topheth, or, The valley of the son of Hinnom, but, The valley of Death: for they will put the dead into the earth in Topheth till there is no more room.
+
+**[7:33]** And the bodies of this people will be food for the birds of heaven and for the beasts of the earth; and there will be no one to send them away.
+
+**[7:34]** And in the towns of Judah and in the streets of Jerusalem, I will put an end to the laughing voices, the voice of joy and the voice of the newly-married man and the voice of the bride: for the land will become a waste.
+
+**[8:1]** At that time, says the Lord, they will take the bones of the kings of Judah, and the bones of his rulers, and the bones of the priests, and the bones of the prophets, and the bones of the people of Jerusalem out of their resting-places:
+
+**[8:2]** And they will put them out before the sun and the moon and all the stars of heaven, whose lovers and servants they have been, after whom they have gone, to whom they have made prayers, and to whom they have given worship: they will not be put together or placed in the earth; they will be waste on the face of the earth.
+
+**[8:3]** And death will be desired more than life by the rest of this evil family who are still living in all the places where I have sent them away, says the Lord of armies.
+
+**[8:4]** Further, you are to say to them, This is what the Lord has said: Will those who are falling not be lifted up again? will he who has gone away not come back?
+
+**[8:5]** Why do these people of Jerusalem go back, for ever turning away? they will not give up their deceit, they will not come back.
+
+**[8:6]** I took note and gave ear, but no one said what is right: no man had regret for his evil-doing, saying, What have I done? everyone goes off on his way like a horse rushing to the fight.
+
+**[8:7]** Truly, the stork in the heavens is conscious of her fixed times; the dove and the swallow and the crane keep to the times of their coming; but my people have no knowledge of the law of the Lord.
+
+**[8:8]** How is it that you say, We are wise and the law of the Lord is with us? But see, the false pen of the scribes has made it false.
+
+**[8:9]** The wise men are shamed, they are overcome with fear and taken: see, they have given up the word of the Lord; and what use is their wisdom to them?
+
+**[8:10]** So I will give their wives to others, and their fields to those who will take them for themselves: for everyone, from the least to the greatest, is given up to getting money; from the priest even to the prophet, everyone is false.
+
+**[8:11]** And they have made little of the wounds of the daughter of Zion, saying, Peace, peace; when there is no peace.
+
+**[8:12]** Let them be put to shame because they have done disgusting things. They had no shame, they were not able to become red with shame: so they will come down with those who are falling: in the time of their punishment they will be made low, says the Lord.
+
+**[8:13]** I will put an end to them completely, says the Lord: there are no grapes on the vine and no figs on the fig-tree, and the leaf is dry.
+
+**[8:14]** Why are we seated doing nothing? come together, and let us go to the walled towns, and let destruction overtake us there, for the Lord our God has sent destruction on us, and given us bitter water for our drink, because we have done evil against the Lord.
+
+**[8:15]** We were looking for peace, but no good came; and for a time of well-being, but there is only a great fear.
+
+**[8:16]** The loud breathing of the horses comes to our ears from Dan: at the sound of the outcry of his war-horses, all the land is shaking with fear; for they have come, and have made a meal of the land and everything in it; the town and the people living in it.
+
+**[8:17]** See, I will send snakes and poison-snakes among you, against which the wonder-worker has no power; and they will give you wounds which may not be made well, says the Lord.
+
+**[8:18]** Sorrow has come on me! my heart in me is feeble.
+
+**[8:19]** The voice of the cry of the daughter of my people comes from a far land: Is the Lord not in Zion? is not her King in her? Why have they made me angry with their images and their strange gods which are no gods?
+
+**[8:20]** The grain-cutting is past, the summer is ended, and no salvation has come to us.
+
+**[8:21]** For the destruction of the daughter of my people I am broken: I am dressed in the clothing of grief; fear has taken me in its grip.
+
+**[8:22]** Is there no life-giving oil in Gilead? is there no expert in medical arts? why then have my people not been made well?
+
+**[9:1]** If only my head was a stream of waters and my eyes fountains of weeping, so that I might go on weeping day and night for the dead of the daughter of my people!
+
+**[9:2]** If only I had in the waste land a night's resting-place for travellers, so that I might go away, far from my people! for they are all untrue, a band of false men.
+
+**[9:3]** Their tongues are bent like a bow to send out false words: they have become strong in the land, but not for good faith: they go on from evil to evil, and they have no knowledge of me, says the Lord.
+
+**[9:4]** Let everyone keep watch on his neighbour, and put no faith in any brother: for every brother will certainly be tricking his brother, and every neighbour will go about saying evil.
+
+**[9:5]** Everyone will make sport of his neighbour with deceit, not saying what is true: their tongues have been trained to say false words; they are twisted, hating to come back.
+
+**[9:6]** There is wrong on wrong, deceit on deceit; they have given up the knowledge of me, says the Lord.
+
+**[9:7]** So the Lord of armies has said, See, I will make them soft in the fire and put them to the test; this I will do because of their evil-doing.
+
+**[9:8]** His tongue is an arrow causing death; the words of his mouth are deceit: he says words of peace to his neighbour, but in his heart he is waiting secretly for him.
+
+**[9:9]** Am I not to send punishment for these things? says the Lord: will not my soul take payment from such a nation as this?
+
+**[9:10]** Give yourselves to weeping, crying out in sorrow for the mountains; and for the fields of the waste land send up a song of grief, because they are burned up, so that no one goes through; there is no sound of cattle; the bird of the heavens and the beast are in flight and are gone.
+
+**[9:11]** And I will make Jerusalem a mass of broken stones, the living-place of jackals; and I will make the towns of Judah a waste, with no man living there.
+
+**[9:12]** Who is the wise man able to see this? who is he to whom the word of the Lord has come, so that he may make it clear? why is the land given to destruction and burned up like a waste place, so that no one goes through?
+
+**[9:13]** And the Lord said, Because they have given up my law which I put before them, giving no attention to my voice and not being guided by it;
+
+**[9:14]** But they have been walking in the pride of their hearts, going after the Baals, as their fathers gave them teaching.
+
+**[9:15]** So the Lord of armies, the God of Israel, has said, I will give them, even this people, bitter plants for food and bitter water for drink.
+
+**[9:16]** And I will send them wandering among the nations, among people strange to them and to their fathers: and I will send the sword after them till I have put an end to them.
+
+**[9:17]** This is what the Lord of armies has said: Take thought and send for the weeping women, so that they may come; and send for the wise women, so that they may come:
+
+**[9:18]** Let them quickly make cries of sorrow for us, so that drops may be flowing from our eyes till they are streaming with water.
+
+**[9:19]** For a sound of weeping goes up from Zion, a cry, How has destruction come on us? we are overcome with shame because we have gone away from our land; he has sent us out from our house.
+
+**[9:20]** But even now, give ear to the word of the Lord, O you women; let your ears be open to the word of his mouth, training your daughters to give cries of sorrow, everyone teaching her neighbour a song of grief.
+
+**[9:21]** For death has come up into our windows, forcing its way into our great houses; cutting off the children in the streets and the young men in the wide places.
+
+**[9:22]** The bodies of men will be falling like waste on the open fields, and like grain dropped by the grain-cutter, and no one will take them up.
+
+**[9:23]** This is the word of the Lord: Let not the wise man take pride in his wisdom, or the strong man in his strength, or the man of wealth in his wealth:
+
+**[9:24]** But if any man has pride, let it be in this, that he has the wisdom to have knowledge of me, that I am the Lord, working mercy, giving true decisions, and doing righteousness in the earth: for in these things I have delight, says the Lord.
+
+**[9:25]** See, the day is coming, says the Lord, when I will send punishment on all those who have circumcision in the flesh;
+
+**[9:26]** On Egypt and on Judah and on Edom and on the children of Ammon and on Moab and on all who have the ends of their hair cut, who are living in the waste land: for all these nations and all the people of Israel are without circumcision in their hearts.
+
+**[10:1]** Give ear to the word which the Lord says to you, O people of Israel:
+
+**[10:2]** This is what the Lord has said: Do not go in the way of the nations; have no fear of the signs of heaven, for the nations go in fear of them.
+
+**[10:3]** For that which is feared by the people is foolish: it is the work of the hands of the workman; for a tree is cut down by him out of the woods with his axe.
+
+**[10:4]** They make it beautiful with silver and gold; they make it strong with nails and hammers, so that it may not be moved.
+
+**[10:5]** It is like a pillar in a garden of plants, and has no voice: it has to be lifted, for it has no power of walking. Have no fear of it; for it has no power of doing evil and it is not able to do any good.
+
+**[10:6]** There is no one like you, O Lord; you are great and your name is great in power.
+
+**[10:7]** Who would not have fear of you, O King of the nations? for it is your right: for among all the wise men of the nations, and in all their kingdoms, there is no one like you.
+
+**[10:8]** But they are together like beasts and foolish: the teaching of false gods is wood.
+
+**[10:9]** Silver hammered into plates is sent from Tarshish, and gold from Uphaz, the work of the expert workman and of the hands of the gold-worker; blue and purple is their clothing, all the work of expert men.
+
+**[10:10]** But the Lord is the true God; he is the living God and an eternal king: when he is angry, the earth is shaking with fear, and the nations give way before his wrath.
+
+**[10:11]** This is what you are to say to them: The gods who have not made the heavens and the earth will be cut off from the earth and from under the heavens.
+
+**[10:12]** He has made the earth by his power, he has made the world strong in its place by his wisdom, and by his wise design the heavens have been stretched out.
+
+**[10:13]** At the sound of his voice there is a massing of waters in the heavens, and he makes the mists go up from the ends of the earth; he makes the thunder-flames for the rain, and sends out the wind from his store-houses.
+
+**[10:14]** Then every man becomes like a beast without knowledge; every gold-worker is put to shame by the image he has made: for his metal image is deceit, and there is no breath in them.
+
+**[10:15]** They are nothing, a work of error: in the time of their punishment, destruction will overtake them.
+
+**[10:16]** The heritage of Jacob is not like these; for the maker of all things is his heritage: the Lord of armies is his name.
+
+**[10:17]** Get your goods together and go out of the land, O you who are shut up in the walled town.
+
+**[10:18]** For the Lord has said, I will send the people in flight like a stone from the land at this time, troubling them so that they will be conscious of it.
+
+**[10:19]** Sorrow is mine for I am wounded! my wound may not be made well; and I said, Cruel is my disease, I may not be free from it.
+
+**[10:20]** My tent is pulled down and all my cords are broken: my children have gone from me, and they are not: no longer is there anyone to give help in stretching out my tent and hanging up my curtains.
+
+**[10:21]** For the keepers of the sheep have become like beasts, not looking to the Lord for directions: so they have not done wisely and all their flocks have been put to flight.
+
+**[10:22]** News is going about, see, it is coming, a great shaking is coming from the north country, so that the towns of Judah may be made waste and become the living-place of jackals.
+
+**[10:23]** O Lord, I am conscious that a man's way is not in himself: man has no power of guiding his steps.
+
+**[10:24]** O Lord, put me right, but with wise purpose; not in your wrath, or you will make me small.
+
+**[10:25]** Let your wrath be let loose on the nations which have no knowledge of you, and on the families who give no worship to your name: for they have made a meal of Jacob, truly they have made a meal of him and put an end to him and made his fields a waste.
+
+**[11:1]** The word which came to Jeremiah from the Lord, saying,
+
+**[11:2]** Give ear to the words of this agreement, and say to the men of Judah and to the people of Jerusalem,
+
+**[11:3]** The Lord, the God of Israel, has said, Let that man be cursed who does not give ear to the words of this agreement,
+
+**[11:4]** To the order which I gave your fathers on the day when I took them out of the land of Egypt, out of the oven of iron, saying, Give ear to my voice, and do all the orders I have given you: so you will be my people, and I will be your God:
+
+**[11:5]** So that I may give effect to the oath which I made to your fathers, to give them a land flowing with milk and honey as at this day. And I said in answer, So be it, O Lord.
+
+**[11:6]** And the Lord said to me, Give out these words in the towns of Judah and in the streets of Jerusalem, saying, Give ear to the words of this agreement and do them.
+
+**[11:7]** For I gave certain witness to your fathers on the day when I took them up out of the land of Egypt, and even to this day, getting up early and witnessing and saying, Give ear to my voice.
+
+**[11:8]** But they gave no attention and did not give ear, but they went on, every man in the pride of his evil heart: so I sent on them all the curses in this agreement, which I gave them orders to keep, but they did not.
+
+**[11:9]** And the Lord said to me, There is an evil design at work among the men of Judah and the people of Jerusalem.
+
+**[11:10]** They are turned back to the sins of their fathers, who would not give ear to my words; they have gone after other gods and become their servants: the people of Israel and the people of Judah have not kept the agreement which I made with their fathers.
+
+**[11:11]** So the Lord has said, I will send evil on them, which they will not be able to get away from; and they will send up a cry for help to me, but I will not give ear to them.
+
+**[11:12]** Then the towns of Judah and the people of Jerusalem will go crying for help to the gods to whom they have been burning perfumes: but they will give them no salvation in the time of their trouble.
+
+**[11:13]** For the number of your gods is as the number of your towns, O Judah; and for every street in Jerusalem you have put up altars to the Baal for burning perfumes to the Baal.
+
+**[11:14]** And as for you, make no prayers for this people, send up no cry or prayer for them: for I will not give ear to their cry in the time of their trouble.
+
+**[11:15]** About Judah. What have you to do in my house? is it your thought that oaths and holy flesh will get you out of your trouble? will you make yourself safe in this way?
+
+**[11:16]** You had been named by the Lord, A branching olive-tree, fair with beautiful fruit: with the noise of a great rushing he has put it on fire and its branches are broken.
+
+**[11:17]** For the Lord of armies, by whom you were planted, has given his decision for evil against you, because of the evil which the people of Israel and the people of Judah have done, In moving me to wrath by offering perfumes to the Baal.
+
+**[11:18]** And the Lord gave me knowledge of it and I saw it: then you made clear to me their doings.
+
+**[11:19]** But I was like a gentle lamb taken to be put to death; I had no thought that they were designing evil against me, saying, Come and let us make trouble his food, cutting him off from the land of the living, so that there may be no more memory of his name.
+
+**[11:20]** But, O Lord of armies, judging in righteousness, testing the thoughts and the heart, let me see your punishment come on them: for I have put my cause before you.
+
+**[11:21]** So this is what the Lord of armies has said about the men of Anathoth who have made designs against your life, saying, You are not to be a prophet in the name of the Lord, or death will overtake you by our hands:
+
+**[11:22]** So the Lord of armies has said, See, I will send punishment on them: the young men will be put to the sword; their sons and their daughters will come to death through need of food:
+
+**[11:23]** Not one of them will keep his life, for I will send evil on the men of Anathoth in the year of their punishment.
+
+**[12:1]** You are in the right, O Lord, when I put my cause before you: still let me take up with you the question of your decisions: why does the evil-doer do well? why are the workers of deceit living in comfort?
+
+**[12:2]** They have been planted by you, they have taken root; they go on and give fruit: you are near in their mouths but far from their thoughts.
+
+**[12:3]** But you, O Lord, have knowledge of me; you see me, searching and testing how my heart is with you: let them be pulled out like sheep to be put to death, make them ready for the day of death.
+
+**[12:4]** How long will the land have grief, and the plants of all the land be dry? because of the sins of the people living in it, destruction has overtaken the beasts and the birds; because they said, God does not see our ways.
+
+**[12:5]** If running with the fighting-men has made you tired, how will you be able to keep up with horses? and if in a land of peace you go in flight, what will become of you in the thick growth of Jordan?
+
+**[12:6]** For even your brothers, your father's family, even they have been untrue to you, crying loudly after you: have no faith in them, though they say fair words to you.
+
+**[12:7]** I have given up my house, I have let my heritage go; I have given the loved one of my soul into the hands of her haters.
+
+**[12:8]** My heritage has become like a lion in the woodland to me; her voice has been loud against me; so I have hate for her.
+
+**[12:9]** My heritage is like a brightly coloured bird to me; the cruel birds are attacking her on every side: go, get together all the beasts of the field, make them come for destruction.
+
+**[12:10]** The keepers of sheep have been the destruction of my vine-garden, crushing my heritage under their feet; they have made my fair heritage an unplanted waste;
+
+**[12:11]** They have made it waste; it is weeping to me, being wasted; all the land is made waste, because no man takes it to heart.
+
+**[12:12]** Those who make waste have come on all the open hilltops in the waste land; for the sword of the Lord sends destruction from one end of the land to the other end of the land: no flesh has peace.
+
+**[12:13]** Though good grain was planted, they have got in thorns: they have given themselves pain without profit: they will be shamed on account of their produce, because of the burning wrath of the Lord.
+
+**[12:14]** This is what the Lord has said against all my evil neighbours, who put their hands on the heritage which I gave my people Israel: See, I will have them uprooted from their land, uprooting the people of Judah from among them.
+
+**[12:15]** And it will come about that, after they have been uprooted, I will again have pity on them; and I will take them back, every man to his heritage and every man to his land.
+
+**[12:16]** And it will be that, if they give their minds to learning the ways of my people, using my name in their oaths, By the living Lord; as they have been teaching my people to take oaths by the Baal; then their place will be made certain among my people.
+
+**[12:17]** But if they will not give ear, then I will have that nation uprooted, and given to destruction, says the Lord.
+
+**[13:1]** This is what the Lord said to me: Go and get yourself a linen band and put it round you and do not put it in water.
+
+**[13:2]** So, as the Lord said, I got a band for a price and put it round my body.
+
+**[13:3]** And the word of the Lord came to me a second time, saying,
+
+**[13:4]** Take the band which you got for a price, which is round your body, and go to Parah and put it in a secret place there in a hole of the rock.
+
+**[13:5]** So I went and put it in a secret place by Parah, as the Lord had said to me.
+
+**[13:6]** Then after a long time, the Lord said to me, Up! go to Parah and get the band which I gave you orders to put there.
+
+**[13:7]** So I went to Parah and, uncovering the hole, took the band from the place where I had put it away: and the band was damaged and of no use for anything.
+
+**[13:8]** Then the word of the Lord came to me, saying,
+
+**[13:9]** The Lord has said, In this way I will do damage to the pride of Judah and to the great pride of Jerusalem.
+
+**[13:10]** These evil people who say they will not give ear to my words, who go on in the pride of their hearts and have become servants and worshippers of other gods, will become like this band which is of no use for anything.
+
+**[13:11]** For as a band goes tightly round a man's body, so I made all the people of Israel and all the people of Judah tightly united to me; so that they might be a people for me and a name and a praise and a glory: but they would not give ear.
+
+**[13:12]** So you are to say this word to them: This is the word of the Lord, the God of Israel: Every skin bottle will be full of wine; and they will say to you, Is it not quite clear to us that every skin bottle will be full of wine?
+
+**[13:13]** Then you are to say to them, The Lord has said, I will make all the people of this land, even the kings seated on David's seat, and the priests and the prophets and all the people of Jerusalem, overcome with strong drink.
+
+**[13:14]** I will have them smashed against one another, fathers and sons together, says the Lord: I will have no pity or mercy, I will have no feeling for them to keep me from giving them to destruction.
+
+**[13:15]** Give ear and let your ears be open; be not lifted up: for these are the words of the Lord.
+
+**[13:16]** Give glory to the Lord your God, before he makes it dark, and before your feet are slipping on the dark mountains, and, while you are looking for a light, he makes it into deep dark, into black night.
+
+**[13:17]** But if you do not give ear to it, my soul will be weeping in secret for your pride; my eye will be weeping bitterly, streaming with water, because the Lord's flock has been taken away as prisoners.
+
+**[13:18]** Say to the king and to the queen-mother, Make yourselves low, be seated on the earth: for the crown of your glory has come down from your heads.
+
+**[13:19]** The towns of the south are shut up, and there is no one to make them open: Judah is taken away as prisoners; all Judah is taken away as prisoners.
+
+**[13:20]** Let your eyes be lifted up (O Jerusalem), and see those who are coming from the north. Where is the flock which was given to you, your beautiful flock?
+
+**[13:21]** What will you say when he puts over you those whom you yourself have made your friends? will not pains take you like a woman in childbirth?
+
+**[13:22]** And if you say in your heart, Why have these things come on me? because of the number of your sins, your skirts have been uncovered and violent punishment overtakes you.
+
+**[13:23]** Is it possible for the skin of the Ethiopian to be changed, or the markings on the leopard? Then it might be possible for you to do good, who have been trained to do evil.
+
+**[13:24]** So I will send them in all directions, as dry grass is taken away by the wind of the waste land.
+
+**[13:25]** This is your fate, the part measured out to you by me, says the Lord, because you have put me out of your memory and put your faith in what is false.
+
+**[13:26]** So I will have your skirts uncovered before your face, in order that your shame may be seen.
+
+**[13:27]** I have seen your disgusting acts, even your false behaviour and your cries of desire and your loose ways on the hills in the field. Unhappy are you, O Jerusalem, you have no desire to be made clean; how long will you be in turning back to me?
+
+**[14:1]** The word of the Lord came to Jeremiah when there was no water.
+
+**[14:2]** Judah is weeping and its doors are dark with sorrow, and people are seated on the earth clothed in black; and the cry of Jerusalem has gone up.
+
+**[14:3]** Their great men have sent their servants for water: they come to the holes and there is no water to be seen; they come back with nothing in their vessels; they are overcome with shame and fear, covering their heads.
+
+**[14:4]** Those who do work on the land are in fear, for there has been no rain on the land, and the farmers are shamed, covering their heads.
+
+**[14:5]** And the roe, giving birth in the field, lets her young one be uncared for, because there is no grass.
+
+**[14:6]** And the asses of the field on the open hilltops are opening their mouths wide like jackals to get air; their eyes are hollow because there is no grass.
+
+**[14:7]** Though our sins give witness against us, do something, O Lord, for the honour of your name: for again and again we have been turned away from you, we have done evil against you.
+
+**[14:8]** O you hope of Israel, its saviour in time of trouble, why are you like one who is strange in the land, and like a traveller putting up his tent for a night?
+
+**[14:9]** Why are you like a man surprised, like a man of war who is not able to give help? but you, O Lord, are with us, and we are named by your name; do not go away from us.
+
+**[14:10]** This is what the Lord has said about this people: Even so they have been glad to go from the right way; they have not kept their feet from wandering, so the Lord has no pleasure in them; now he will keep their wrongdoing in mind and send punishment for their sins.
+
+**[14:11]** And the Lord said to me, Make no prayer for this people for their good.
+
+**[14:12]** When they go without food, I will not give ear to their cry; when they give burned offerings and meal offerings, I will not take pleasure in them: but I will put an end to them by the sword and by need of food and by disease.
+
+**[14:13]** Then I said, Ah, Lord God! see, the prophets say to them, You will not see the sword or be short of food; but I will give you certain peace in this place.
+
+**[14:14]** Then the Lord said to me, The prophets say false words in my name, and I gave them no orders, and I said nothing to them: what they say to you is a false vision and wonder-working words without substance, the deceit of their hearts.
+
+**[14:15]** So this is what the Lord has said about the prophets who make use of my name, though I sent them not, and say, The sword and need of food will not be in this land: the sword and need of food will put an end to those prophets.
+
+**[14:16]** And the people to whom they are prophets will be pushed out dead into the streets of Jerusalem, because there is no food, and because of the sword; and they will have no one to put their bodies into the earth, them or their wives or their sons or their daughters: for I will let loose their evil-doing on them.
+
+**[14:17]** And you are to say this word to them, Let my eyes be streaming with water night and day, and let it not be stopped; for the virgin daughter of my people is wounded with a great wound, with a very bitter blow.
+
+**[14:18]** If I go out into the open country, there are those put to death by the sword! and if I go into the town, there are those who are diseased from need of food! for the prophet and the priest go about in the land and have no knowledge.
+
+**[14:19]** Have you completely given up Judah? is your soul turned in disgust from Zion? why have you given us blows from which there is no one to make us well? we were looking for peace, but no good came; and for a time of well-being, but there was only a great fear.
+
+**[14:20]** We are conscious, O Lord, of our sin and of the wrongdoing of our fathers: we have done evil against you.
+
+**[14:21]** Do not be turned from us in disgust, because of your name; do not put shame on the seat of your glory: keep us in mind, let not your agreement with us be broken.
+
+**[14:22]** Are any of the false gods of the nations able to make rain come? are the heavens able to give showers? are you not he, O Lord our God? so we will go on waiting for you, for you have done all these things.
+
+**[15:1]** Then the Lord said to me, Even if Moses and Samuel came before me, I would have no desire for this people: send them away from before me, and let them go.
+
+**[15:2]** And it will be, when they say to you, Where are we to go? then you are to say to them, The Lord has said, Such as are for death, to death; and such as are for the sword, to the sword; and such as are to be in need of food, to need of food; and such as are to be taken away prisoners, to be taken away.
+
+**[15:3]** And I will put over them four divisions, says the Lord: the sword causing death, dogs pulling the dead bodies about, and the birds of heaven, and the beasts of the earth to take their bodies for food and put an end to them.
+
+**[15:4]** And I will make them a cause of fear to all the kingdoms of the earth, because of Manasseh, the son of Hezekiah, king of Judah, and what he did in Jerusalem.
+
+**[15:5]** For who will have pity on you, O Jerusalem? and who will have sorrow for you? or who will go out of his way to see how you are?
+
+**[15:6]** You have given me up, says the Lord, you have gone back: so my hand is stretched out against you for your destruction; I am tired of changing my purpose.
+
+**[15:7]** And I have sent a cleaning wind on them in the public places of the land; I have taken their children from them; I have given my people to destruction; they have not been turned from their ways.
+
+**[15:8]** I have let their widows be increased in number more than the sand of the seas: I have sent against them, against the mother and the young men, one who makes waste in the heat of the day, causing pain and fears to come on her suddenly.
+
+**[15:9]** The mother of seven is without strength; her spirit is gone from her, her sun has gone down while it is still day: she has been shamed and overcome: and the rest of them I will give up to the sword before their haters, says the Lord.
+
+**[15:10]** Sorrow is mine, my mother, because you have given birth to me, a cause of fighting and argument in all the earth! I have not made men my creditors and I am not in debt to any, but every one of them is cursing me.
+
+**[15:11]** ...
+
+**[15:12]** Is it possible for iron to be broken; even iron from the north, and brass?
+
+**[15:13]** I will give your wealth and your stores to your attackers, without a price, because of all your sins, even in every part of your land.
+
+**[15:14]** They will go away with your haters into a land which is strange to you: for my wrath is on fire with a flame which will be burning on you.
+
+**[15:15]** O Lord, you have knowledge: keep me in mind and come to my help, and give their right reward to those who are attacking me; take me not away, for you are slow to be angry: see how I have undergone shame because of you from all those who make little of your word;
+
+**[15:16]** But to me your word is a joy, making my heart glad; for I am named by your name, O Lord God of armies.
+
+**[15:17]** I did not take my seat among the band of those who are glad, and I had no joy; I kept by myself because of your hand; for you have made me full of wrath.
+
+**[15:18]** Why is my pain unending and my wound without hope of being made well? Sorrow is mine, for you are to me as a stream offering false hope and as waters which are not certain.
+
+**[15:19]** For this cause the Lord has said, If you will come back, then I will again let you take your place before me; and if you give out what is of value and not that which has no value, you will be as my mouth: let them come back to you, but do not go back to them.
+
+**[15:20]** And I will make you a strong wall of brass to this people; they will be fighting against you, but they will not overcome you: for I am with you to keep you safe, says the Lord.
+
+**[15:21]** I will keep you safe from the hands of the evil-doers, and I will give you salvation from the hands of the cruel ones.
+
+**[16:1]** Then again the word of the Lord came to me, saying,
+
+**[16:2]** You are not to take a wife for yourself or have sons or daughters in this place.
+
+**[16:3]** For this is what the Lord has said about the sons and daughters who come to birth in this place, and about their mothers who have given them birth, and about their fathers who have given life to them in this land:
+
+**[16:4]** Death from evil diseases will overtake them; there will be no weeping for them and their bodies will not be put to rest; they will be like waste on the face of the earth: the sword and need of food will put an end to them; their dead bodies will be meat for the birds of heaven and for the beasts of the earth.
+
+**[16:5]** For this is what the Lord has said: Do not go into the house of sorrow, do not go to make weeping or songs of grief for them: for I have taken away my peace from this people, says the Lord, even mercy and pity.
+
+**[16:6]** Death will overtake great as well as small in the land: their bodies will not be put in a resting-place, and no one will be weeping for them or wounding themselves or cutting off their hair for them:
+
+**[16:7]** No one will make a feast for them in sorrow, to give them comfort for the dead, or put to their lips the cup of comfort on account of their father or their mother.
+
+**[16:8]** And you are not to go into the house of feasting, or be seated with them to take food or drink.
+
+**[16:9]** For the Lord of armies, the God of Israel, has said, See, before your eyes and in your days I will put an end in this place to the laughing voices and the voice of joy; to the voice of the newly-married man and the voice of the bride.
+
+**[16:10]** And it will be, that when you say all these words to the people, then they will say to you, Why has the Lord done all this evil against us? what is our wrongdoing and what is our sin which we have done against the Lord our God?
+
+**[16:11]** Then you will say to them, Because your fathers have given me up, says the Lord, and have gone after other gods and become their servants and their worshippers, and have given me up and have not kept my law;
+
+**[16:12]** And you have done worse evil than your fathers; for see, every one of you is guided by the pride of his evil heart, so as not to give ear to me:
+
+**[16:13]** For this reason I will send you away out of this land into a land which is strange to you, to you and to your fathers; there you will be the servants of other gods day and night, and you will have no mercy from me.
+
+**[16:14]** For this cause, see, the days are coming, says the Lord, when it will no longer be said, By the living Lord, who took the children of Israel up out of the land of Egypt.
+
+**[16:15]** But, By the living Lord, who took the children of Israel up out of the land of the north, and from all the countries where he had sent them: and I will take them back again to their land which I gave to their fathers.
+
+**[16:16]** See, I will send for great numbers of fishermen, says the Lord, and they will take them like fish in a net; and after that, I will send for numbers of bowmen, and they will go after them, driving them from every mountain and from every hill, and out of the holes of the rocks.
+
+**[16:17]** For my eyes are on all their ways: there is no cover for them from my face, and their evil-doing is not kept secret from my eyes.
+
+**[16:18]** And I will give them the reward of their evil-doing and their sin twice over; because they have made my land unclean, and have made my heritage full of the bodies of their unholy and disgusting things.
+
+**[16:19]** O Lord, my strength and my strong tower, my safe place in the day of trouble, the nations will come to you from the ends of the earth, and say, The heritage of our fathers is nothing but deceit, even false things in which there is no profit.
+
+**[16:20]** Will a man make for himself gods which are no gods?
+
+**[16:21]** For this reason, truly, I will make them see, this once I will give them knowledge of my hand and my power; and they will be certain that my name is the Lord.
+
+**[17:1]** The sin of Judah is recorded with a pen of iron, and with the sharp point of a jewel it is cut on their hearts of stone, and on the horns of their altars for a sign to them:
+
+**[17:2]** Their altars and their wood pillars under every branching tree, on the high hills and the mountains in the field.
+
+**[17:3]** I will give your wealth and all your stores to be taken away in war without a price, because of your sins in every part of your land.
+
+**[17:4]** And your hand will have to let go your heritage which I gave you; and I will make you a servant to your haters in a land which is strange to you: for you have put my wrath on fire with a flame which will go on burning for ever.
+
+**[17:5]** This is what the Lord has said: Cursed is the man who puts his faith in man, and makes flesh his arm, and whose heart is turned away from the Lord.
+
+**[17:6]** For he will be like the brushwood in the upland, and will not see when good comes; but his living-place will be in the dry places in the waste land, in a salt and unpeopled land.
+
+**[17:7]** A blessing is on the man who puts his faith in the Lord, and whose hope the Lord is.
+
+**[17:8]** For he will be like a tree planted by the waters, pushing out its roots by the stream; he will have no fear when the heat comes, but his leaf will be green; in a dry year he will have no care, and will go on giving fruit.
+
+**[17:9]** The heart is a twisted thing, not to be searched out by man: who is able to have knowledge of it?
+
+**[17:10]** I the Lord am the searcher of the heart, the tester of the thoughts, so that I may give to every man the reward of his ways, in keeping with the fruit of his doings.
+
+**[17:11]** Like the partridge, getting eggs together but not producing young, is a man who gets wealth but not by right; before half his days are ended, it will go from him, and at his end he will be foolish.
+
+**[17:12]** A seat of glory, placed on high from the first, is our holy place.
+
+**[17:13]** O Lord, the hope of Israel, all who give you up will be put to shame; those who go away from you will be cut off from the earth, because they have given up the Lord, the fountain of living waters.
+
+**[17:14]** Make me well, O Lord, and I will be well; be my saviour, and I will be safe: for you are my hope.
+
+**[17:15]** See, they say to me, Where is the word of the Lord? let it come now.
+
+**[17:16]** As for me, I have not said; Let the day of trouble come to them quickly; and I have not been hoping for the death-giving day; you have knowledge of what came from my lips; it was open before you.
+
+**[17:17]** Be not a cause of fear to me: you are my safe place in the day of evil.
+
+**[17:18]** Let them be put to shame who are attacking me, but let me not be shamed; let them be overcome with fear, but let me not be overcome: send on them the day of evil, and put them to destruction twice over.
+
+**[17:19]** This is what the Lord has said to me: Go and take your place in the doorway of Benjamin, where the kings of Judah come in and by which they go out, and in all the doorways of Jerusalem;
+
+**[17:20]** And say to them, Give ear to the word of the Lord, you kings of Judah, and all the people of Jerusalem who come in by these doors:
+
+**[17:21]** This is what the Lord has said: See to yourselves, that you take up no weight on the Sabbath day, or take it in through the doors of Jerusalem;
+
+**[17:22]** And take no weight out of your houses on the Sabbath day, or do any work, but keep the Sabbath day holy, as I gave orders to your fathers;
+
+**[17:23]** But they gave no attention and would not give ear, but they made their necks stiff so that they might not give ear and might not get teaching.
+
+**[17:24]** And it will be, that if with all care you give ear to me, says the Lord, and take no weight through the doorways of this town on the Sabbath day, but keep the Sabbath day holy and do no work in it;
+
+**[17:25]** Then through the doors of this town there will come kings and princes, seated on the seat of David, going in carriages and on horseback, they and their princes, and the men of Judah and the people of Jerusalem: and this town will keep its place for ever.
+
+**[17:26]** And they will come from the towns of Judah, and from the places round about Jerusalem, and from the land of Benjamin, and from the lowlands, and from the mountains, and from the South, with burned offerings and offerings of beasts and meal offerings and perfume and offerings of praise, to the house of the Lord.
+
+**[17:27]** But if you do not give ear to me, to keep the Sabbath day holy, and to let no weight be lifted and taken through the doors of Jerusalem on the Sabbath day: then I will put a fire in its doorways, burning up the great houses of Jerusalem, and it will never be put out.
+
+**[18:1]** The word which came to Jeremiah from the Lord, saying,
+
+**[18:2]** Up! go down to the potter's house, and there I will let my words come to your ears.
+
+**[18:3]** Then I went down to the potter's house, and he was doing his work on the stones.
+
+**[18:4]** And when the vessel, which he was forming out of earth, got damaged in the hand of the potter, he made it again into another vessel, as it seemed good to the potter to make it.
+
+**[18:5]** Then the word of the Lord came to me, saying,
+
+**[18:6]** O Israel, am I not able to do with you as this potter does? says the Lord. See, like earth in the potter's hand are you in my hands, O Israel.
+
+**[18:7]** Whenever I say anything about uprooting a nation or a kingdom, and smashing it and sending destruction on it;
+
+**[18:8]** If, in that very minute, that nation of which I was talking is turned away from its evil, my purpose of doing evil to them will be changed.
+
+**[18:9]** And whenever I say anything about building up a nation or a kingdom, and planting it;
+
+**[18:10]** If, in that very minute, it does evil in my eyes, going against my orders, then my good purpose, which I said I would do for them, will be changed.
+
+**[18:11]** Now, then, say to the men of Judah and to the people of Jerusalem, This is what the Lord has said: See, I am forming an evil thing against you, and designing a design against you: let every man come back now from his evil way, and let your ways and your doings be changed for the better.
+
+**[18:12]** But they will say, There is no hope: we will go on in our designs, and every one of us will do what he is moved by the pride of his evil heart to do.
+
+**[18:13]** So this is what the Lord has said: Make search among the nations and see who has had word of such things; the virgin of Israel has done a very shocking thing.
+
+**[18:14]** Will the white snow go away from the top of Sirion? will the cold waters flowing from the mountains become dry?
+
+**[18:15]** For my people have put me out of their memory, burning perfumes to that which is nothing; and because of this, I will put a cause of falling in their ways, even in the old roads, and will make them go on side-roads, in a way not lifted up;
+
+**[18:16]** Making their land a thing of wonder, causing sounds of surprise for ever; everyone who goes by will be overcome with wonder, shaking his head.
+
+**[18:17]** I will send them in flight, as from an east wind, before the attacker; I will let them see my back and not my face on the day of their downfall.
+
+**[18:18]** Then they said, Come, let us make a design against Jeremiah; for teaching will never be cut off from the priest, or wisdom from the wise, or the word from the prophet. Come, let us make use of his words for an attack on him, and let us give attention with care to what he says.
+
+**[18:19]** Give thought to me, O Lord, and give ear to the voice of those who put forward a cause against me.
+
+**[18:20]** Is evil to be the reward of good? for they have made a deep hole for my soul. Keep in mind how I took my place before you, to say a good word for them so that your wrath might be turned away from them.
+
+**[18:21]** For this cause, let their children be without food, and give them over to the power of the sword; and let their wives be without children and become widows; let their men be overtaken by death, and their young men be put to the sword in the fight.
+
+**[18:22]** Let a cry for help go up from their houses, when you send an armed band on them suddenly: for they have made a hole in which to take me, and have put nets for my feet secretly.
+
+**[18:23]** But you, Lord, have knowledge of all the designs which they have made against my life; let not their evil-doing be covered or their sin be washed away from before your eyes: but let it be a cause of falling before you: so do to them in the time of your wrath.
+
+**[19:1]** This is what the Lord has said: Go and get for money a potter's bottle made of earth, and take with you some of the responsible men of the people and of the priests;
+
+**[19:2]** And go out to the valley of the son of Hinnom, by the way into the door of broken pots, and there say in a loud voice the words which I will give you;
+
+**[19:3]** Say, Give ear to the word of the Lord, O kings of Judah and people of Jerusalem; the Lord of armies, the God of Israel, has said, See, I will send evil on this place which will be bitter to the ears of anyone hearing of it.
+
+**[19:4]** Because they have given me up, and made this place a strange place, burning perfumes in it to other gods, of whom they and their fathers and the kings of Judah had no knowledge; and they have made this place full of the blood of those who have done no wrong;
+
+**[19:5]** And they have put up the high places of the Baal, burning their sons in the fire; a thing which was not ordered by me, and it was never in my mind:
+
+**[19:6]** For this cause, see, a time is coming, says the Lord, when this place will no longer be named Topheth, or, The valley of the son of Hinnom, but, The valley of Death.
+
+**[19:7]** I will make the purpose of Judah and Jerusalem come to nothing in this place; I will have them put to the sword by their haters, and by the hands of those who have designs on their life; and their dead bodies I will give to be food for the birds of heaven and the beasts of the earth.
+
+**[19:8]** And I will make this town a thing of wonder and a cause of surprise; everyone who goes by will be overcome with wonder and make sounds of surprise, because of all its troubles.
+
+**[19:9]** I will make them take the flesh of their sons and the flesh of their daughters for food, they will be making a meal of one another, because of their bitter need and the cruel grip of their haters and those who have made designs against their life.
+
+**[19:10]** Then let the potter's bottle be broken before the eyes of the men who have gone with you,
+
+**[19:11]** And say to them, This is what the Lord of armies has said: Even so will this people and this town be broken by me, as a potter's bottle is broken and may not be put together again: and the bodies of the dead will be put in the earth in Topheth, till there is no more room.
+
+**[19:12]** This is what I will do to this place, says the Lord, and to its people, making this town like Topheth:
+
+**[19:13]** And the houses of Jerusalem, and the houses of the kings of Judah, which they have made unclean, will be like the place of Topheth, even all the houses on whose roofs perfumes have been burned to all the army of heaven, and drink offerings drained out to other gods.
+
+**[19:14]** Then Jeremiah came from Topheth, where the Lord had sent him to give the prophet's word; and he took his place in the open square of the Lord's house, and said to all the people,
+
+**[19:15]** The Lord of armies, the God of Israel, has said: See, I will send on this town and on all her towns all the evil which I have said; because they made their necks stiff, so that they might not give ear to my words.
+
+**[20:1]** Now it came to the ears of Pashhur, the son of Immer the priest, who was chief in authority in the house of the Lord, that Jeremiah was saying these things;
+
+**[20:2]** And Pashhur gave blows to Jeremiah and had his feet chained in a framework of wood in the higher doorway of Benjamin, which was in the house of the Lord.
+
+**[20:3]** Then on the day after, Pashhur let Jeremiah loose. Then Jeremiah said to him, The Lord has given you the name of Magor-missabib (Cause-of-fear-on-every-side), not Pashhur.
+
+**[20:4]** For the Lord has said, See, I will make you a cause of fear to yourself and to all your friends: they will come to their death by the sword of their haters, and your eyes will see it: and I will give all Judah into the hands of the king of Babylon, and he will take them away prisoners into Babylon and put them to the sword.
+
+**[20:5]** And more than this, I will give all the wealth of this town and all its profits and all its things of value, even all the stores of the kings of Judah will I give into the hands of their haters, who will put violent hands on them and take them away to Babylon.
+
+**[20:6]** And you, Pashhur, and all who are in your house, will go away prisoners: you will come to Babylon, and there your body will be put to rest, you and all your friends, to whom you said false words.
+
+**[20:7]** O Lord, you have been false to me, and I was tricked; you are stronger than I, and have overcome me: I have become a thing to be laughed at all the day, everyone makes sport of me.
+
+**[20:8]** For every word I say is a cry for help; I say with a loud voice, Violent behaviour and wasting: because the word of the Lord is made a shame to me and a cause of laughing all the day.
+
+**[20:9]** And if I say, I will not keep him in mind, I will not say another word in his name; then it is in my heart like a burning fire shut up in my bones, and I am tired of keeping myself in, I am not able to do it.
+
+**[20:10]** For numbers of them say evil secretly in my hearing (there is fear on every side): they say, Come, let us give witness against him; all my nearest friends, who are watching for my fall, say, It may be that he will be taken by deceit, and we will get the better of him and give him punishment.
+
+**[20:11]** But the Lord is with me as a great one, greatly to be feared: so my attackers will have a fall, and they will not overcome me: they will be greatly shamed, because they have not done wisely, even with an unending shame, kept in memory for ever.
+
+**[20:12]** But, O Lord of armies, testing the upright and seeing the thoughts and the heart, let me see your punishment come on them; for I have put my cause before you.
+
+**[20:13]** Make melody to the Lord, give praise to the Lord: for he has made the soul of the poor man free from the hands of the evil-doers.
+
+**[20:14]** A curse on the day of my birth: let there be no blessing on the day when my mother had me.
+
+**[20:15]** A curse on the man who gave the news to my father, saying, You have a male child; making him very glad.
+
+**[20:16]** May that man be like the towns overturned by the Lord without mercy: let a cry for help come to his ears in the morning, and the sound of war in the middle of the day;
+
+**[20:17]** Because he did not put me to death before my birth took place: so my mother's body would have been my last resting-place, and she would have been with child for ever.
+
+**[20:18]** Why did I come from my mother's body to see pain and sorrow, so that my days might be wasted with shame?
+
+**[21:1]** The word which came to Jeremiah from the Lord, when King Zedekiah sent to him Pashhur, the son of Malchiah, and Zephaniah, the son of Maaseiah the priest, saying,
+
+**[21:2]** Will you get directions from the Lord for us; for Nebuchadrezzar, king of Babylon, is making war against us; it may be that the Lord will do something for us like all the wonders he has done, and make him go away from us.
+
+**[21:3]** Then Jeremiah said to them, This is what you are to say to Zedekiah:
+
+**[21:4]** The Lord God of Israel has said, See, I am turning back the instruments of war in your hands, with which you are fighting against the king of Babylon and the Chaldaeans, who are outside the walls and shutting you in; and I will get them together inside this town.
+
+**[21:5]** And I myself will be fighting against you with an outstretched hand and with a strong arm, even with angry feeling and passion and in great wrath.
+
+**[21:6]** And I will send a great disease on the people living in this town, on man and on beast, causing their death.
+
+**[21:7]** And after that, says the Lord, I will give up Zedekiah, king of Judah, and his servants and his people, even those in the town who have not come to their end from the disease and the sword and from need of food, into the hands of Nebuchadrezzar, king of Babylon, and into the hands of their haters, and into the hands of those desiring their death: he will put them to the sword; he will not let anyone get away, he will have no pity or mercy.
+
+**[21:8]** And to this people you are to say, The Lord has said, See, I put before you the way of life and the way of death.
+
+**[21:9]** He who keeps in this town will come to his death by the sword and through need of food and through disease; but he who goes out and gives himself up to the Chaldaeans who are shutting you in, will go on living, and will keep his life safe.
+
+**[21:10]** For my face is turned to this town for evil and not for good, says the Lord: it will be given into the hands of the king of Babylon, and he will have it burned with fire.
+
+**[21:11]** About the family of the king of Judah. Give ear to the word of the Lord;
+
+**[21:12]** O family of David, this is what the Lord has said: Do what is right in the morning, and make free from the hands of the cruel one him whose goods have been violently taken away, or my wrath will go out like fire, burning so that no one may put it out, because of the evil of your doings.
+
+**[21:13]** See, I am against you, you who are living on the rock of the valley, says the Lord; you who say, Who will come down against us? or who will get into our houses?
+
+**[21:14]** I will send punishment on you in keeping with the fruit of your doings, says the Lord: and I will put a fire in her woodlands, burning up everything round about her.
+
+**[22:1]** This is what the Lord has said: Go down to the house of the king of Judah and there give him this word,
+
+**[22:2]** And say, Give ear to the word of the Lord, O king of Judah, seated on the seat of David, you and your servants and your people who come in by these doors.
+
+**[22:3]** This is what the Lord has said: Do what is right, judging uprightly, and make free from the hands of the cruel one him whose goods have been violently taken away: do no wrong and be not violent to the man from a strange country and the child without a father and the widow, and let not those who have done no wrong be put to death in this place.
+
+**[22:4]** For if you truly do this, then there will come in through the doors of this house kings seated on the seat of David, going in carriages and on horseback, he and his servants and his people
+
+**[22:5]** But if you do not give ear to these words, I give you my oath by myself, says the Lord, that this house will become a waste.
+
+**[22:6]** For this is what the Lord has said about the family of the king of Judah: You are Gilead to me, and the top of Lebanon: but, truly, I will make you waste, with towns unpeopled.
+
+**[22:7]** And I will make ready those who will send destruction on you, everyone armed for war: by them your best cedar-trees will be cut down and put in the fire.
+
+**[22:8]** And nations from all sides will go past this town, and every man will say to his neighbour, Why has the Lord done such things to this great town?
+
+**[22:9]** And they will say, Because they gave up the agreement of the Lord their God, and became worshippers and servants of other gods.
+
+**[22:10]** Let there be no weeping for the dead, and make no songs of grief for him: but make bitter weeping for him who has gone away, for he will never come back or see again the country of his birth.
+
+**[22:11]** For this is what the Lord has said about Shallum, the son of Josiah, king of Judah, who became king in place of Josiah his father, who went out from this place: He will never come back there again:
+
+**[22:12]** But death will come to him in the place where they have taken him away prisoner, and he will never see this land again.
+
+**[22:13]** A curse is on him who is building his house by wrongdoing, and his rooms by doing what is not right; who makes use of his neighbour without payment, and gives him nothing for his work;
+
+**[22:14]** Who says, I will make a wide house for myself, and rooms of great size, and has windows cut out, and has it roofed with cedar and painted with bright red.
+
+**[22:15]** Are you to be a king because you make more use of cedar than your father? did not your father take food and drink and do right, judging in righteousness, and then it was well for him?
+
+**[22:16]** He was judge in the cause of the poor and those in need; then it was well. Was not this to have knowledge of me? says the Lord.
+
+**[22:17]** But your eyes and your heart are fixed only on profit for yourself, on causing the death of him who has done no wrong, and on violent and cruel acts.
+
+**[22:18]** So this is what the Lord has said about Jehoiakim, the son of Josiah, king of Judah: They will make no weeping for him, saying, Ah my brother! or, Ah sister! they will make no weeping for him, saying, Ah lord! or, Ah his glory!
+
+**[22:19]** They will do to him what they do to the dead body of an ass; his body will be pulled out and placed on the earth outside the doors of Jerusalem.
+
+**[22:20]** Go up to Lebanon and give a cry; let your voice be loud in Bashan, crying out from Abarim; for all your lovers have come to destruction
+
+**[22:21]** My word came to you in the time of your well-being; but you said, I will not give ear. This has been your way from your earliest years, you did not give attention to my voice.
+
+**[22:22]** All the keepers of your sheep will be food for the wind, and your lovers will be taken away prisoners: truly, then you will be shamed and unhonoured because of all your evil-doing.
+
+**[22:23]** O you who are living in Lebanon, making your living-place in the cedars, how greatly to be pitied will you be when pains come on you, as on a woman in childbirth!
+
+**[22:24]** By my life, says the Lord, even if Coniah, the son of Jehoiakim, king of Judah, was the ring on my right hand, even from there I would have you pulled off;
+
+**[22:25]** And I will give you into the hands of those desiring your death, and into the hands of those whom you are fearing, even into the hands of Nebuchadrezzar, king of Babylon, and into the hands of the Chaldaeans.
+
+**[22:26]** I will send you out, and your mother who gave you birth, into another country not the land of your birth; and there death will come to you.
+
+**[22:27]** But to the land on which their soul's desire is fixed, they will never come back.
+
+**[22:28]** Is this man Coniah a broken vessel of no value? is he a vessel in which there is no pleasure? why are they violently sent out, he and his seed, into a land which is strange to them?
+
+**[22:29]** O earth, earth, earth, give ear to the word of the Lord!
+
+**[22:30]** The Lord has said, Let this man be recorded as having no children, a man who will not do well in all his life: for no man of his seed will do well, seated on the seat of the kingdom of David and ruling again in Judah.
+
+**[23:1]** A curse is on the keepers who are causing the destruction and loss of the sheep of my field, says the Lord.
+
+**[23:2]** So this is what the Lord, the God of Israel, has said against the keepers who have the care of my people: You have let my flock be broken up, driving them away and not caring for them; see, I will send on you the punishment for the evil of your doings, says the Lord.
+
+**[23:3]** And I will get the rest of my flock together from all the countries where I have sent them, and will make them come back again to their resting-place; and they will have offspring and be increased.
+
+**[23:4]** And I will put over them keepers who will take care of them: never again will they be overcome with fear or be troubled, and there will not be the loss of one of them, says the Lord.
+
+**[23:5]** See, the days are coming, says the Lord, when I will give to David a true Branch, and he will be ruling as king, acting wisely, doing what is right, and judging uprightly in the land.
+
+**[23:6]** In his days Judah will have salvation and Israel will be living without fear: and this is the name by which he will be named, The Lord is our righteousness.
+
+**[23:7]** And so, truly, the days are coming when they will say no longer, By the living Lord, who took the children of Israel up out of the land of Egypt;
+
+**[23:8]** But, By the living Lord, who took up the seed of Israel, and made them come out of the north country, and from all the countries where I had sent them; and they will be living in the land which is theirs.
+
+**[23:9]** About the prophets. My heart is broken in me, all my bones are shaking; I am like a man full of strong drink, like a man overcome by wine; because of the Lord, and because of his holy words.
+
+**[23:10]** For the land is full of men who are untrue to their wives; because of the curse the land is full of grief; the green fields of the waste land have become dry; and they are quick to do evil, their strength is for what is not right.
+
+**[23:11]** For the prophet as well as the priest is unclean; even in my house I have seen their evil-doing, says the Lord.
+
+**[23:12]** For this cause their steps will be slipping on their way: they will be forced on into the dark and have a fall there: for I will send evil on them in the year of their punishment, says the Lord.
+
+**[23:13]** And I have seen ways without sense in the prophets of Samaria; they became prophets of the Baal, causing my people Israel to go wrong.
+
+**[23:14]** And in the prophets of Jerusalem I have seen a shocking thing; they are untrue to their wives, walking in deceit, and they make strong the hands of evil-doers, so that a man may not be turned back from his evil-doing: they have all become like Sodom to me, and its people like Gomorrah.
+
+**[23:15]** So this is what the Lord of armies has said about the prophets: See, I will give them a bitter plant for their food, and bitter water for their drink: for from the prophets of Jerusalem unclean behaviour has gone out into all the land.
+
+**[23:16]** This is what the Lord of armies has said: Do not give ear to the words which the prophets say to you: they give you teaching of no value: it is from themselves that their vision comes, and not out of the mouth of the Lord.
+
+**[23:17]** They keep on saying to those who have no respect for the word of the Lord, You will have peace; and to everyone who goes on his way in the pride of his heart, they say, No evil will come to you.
+
+**[23:18]** For which of them has knowledge of the secret of the Lord, and has seen him, and given ear to his word? which of them has taken note of his word and given attention to it?
+
+**[23:19]** See, the storm-wind of the Lord, even the heat of his wrath, has gone out, a rolling storm, bursting on the heads of the evil-doers.
+
+**[23:20]** The wrath of the Lord will not be turned back till he has done, till he has put into effect, the purposes of his heart: in days to come you will have full knowledge of this.
+
+**[23:21]** I did not send these prophets, but they went running: I said nothing to them, but they gave out the prophet's word.
+
+**[23:22]** But if they had been in my secret, then they would have made my people give ear to my words, turning them from their evil way, and from the evil of their doings.
+
+**[23:23]** Am I only a God who is near, says the Lord, and not a God at a distance?
+
+**[23:24]** In what secret place may a man take cover without my seeing him? says the Lord. Is there any place in heaven or earth where I am not? says the Lord.
+
+**[23:25]** My ears have been open to what the prophets have said, who say false words in my name, saying, I have had a dream, I have had a dream, I have had a dream,
+
+**[23:26]** Is (my word) in the hearts of the prophets who give out false words, even the prophets of the deceit of their hearts?
+
+**[23:27]** Whose purpose is to take away the memory of my name from my people by their dreams, of which every man is talking to his neighbour, as their fathers gave up the memory of my name for the Baal.
+
+**[23:28]** If a prophet has a dream, let him give out his dream; and he who has my word, let him give out my word in good faith. What has the dry stem to do with the grain? says the Lord.
+
+**[23:29]** Is not my word like fire? says the Lord; and like a hammer, smashing the rock to bits?
+
+**[23:30]** For this cause I am against the prophets, says the Lord, who take my words, every one from his neighbour.
+
+**[23:31]** See, I am against the prophets, says the Lord, who let their tongues say, He has said.
+
+**[23:32]** See, I am against the prophets of false dreams, says the Lord, who give them out and make my people go out of the way by their deceit and their uncontrolled words: but I did not send them or give them orders; and they will be of no profit to this people, says the Lord.
+
+**[23:33]** And if this people, or the prophet, or a priest, questioning you, says, What word of weight is there from the Lord? then you are to say to them, You are the word, for I will not be troubled with you any more, says the Lord.
+
+**[23:34]** And as for the prophet and the priest and the people who say, A word of weight from the Lord! I will send punishment on that man and on his house.
+
+**[23:35]** But this is what you are to say, every man to his neighbour and every man to his brother, What answer has the Lord given? and, What has the Lord said?
+
+**[23:36]** And you will no longer put people in mind of the word of weight of the Lord: for every man's word will be a weight on himself; for the words of the living God, of the Lord of armies, our God, have been twisted by you.
+
+**[23:37]** This is what you are to say to the prophet, What answer has the Lord given to you? and, What has the Lord said?
+
+**[23:38]** But if you say, The word of weight of the Lord; this is what the Lord has said: Because you say, The weight of the Lord, and I have sent to you, saying, You are not to say, The weight of the Lord;
+
+**[23:39]** For this reason, truly, I will put you completely out of my memory, and I will put you, and the town which I gave to you and to your fathers, away from before my face:
+
+**[23:40]** And I will give you a name without honour for ever, and unending shame which will never go from the memory of men.
+
+**[24:1]** The Lord gave me a vision, and I saw two baskets full of figs put in front of the Temple of the Lord, after Nebuchadrezzar, king of Babylon, had taken prisoner Jeconiah, the son of Jehoiakim, king of Judah, and the chiefs of Judah, and the expert workmen and metal-workers from Jerusalem, and had taken them to Babylon.
+
+**[24:2]** One basket had very good figs, like the figs which first come to growth: and the other basket had very bad figs, so bad that they were of no use for food.
+
+**[24:3]** Then the Lord said to me, What do you see, Jeremiah? And I said, Figs; the good figs are very good, and the bad very bad, and of no use for food, they are so bad.
+
+**[24:4]** And the word of the Lord came to me, saying,
+
+**[24:5]** This is what the Lord, the God of Israel, has said: Like these good figs, so in my eyes will be the prisoners of Judah, whom I have sent from this place into the land of the Chaldaeans for their good.
+
+**[24:6]** For I will keep my eyes on them for good, and I will take them back again to this land, building them up and not pulling them down, planting them and not uprooting them.
+
+**[24:7]** And I will give them a heart to have knowledge of me, that I am the Lord: and they will be my people, and I will be their God: for they will come back to me with all their heart.
+
+**[24:8]** And like the bad figs which are so bad that they are of no use for food, so I will give up Zedekiah, king of Judah, and his chiefs and the rest of Jerusalem who are still in this land, and those who are in the land of Egypt:
+
+**[24:9]** I will give them up to be a cause of fear and of trouble among all the kingdoms of the earth; to be a name of shame and common talk and a cutting word and a curse in all the places wherever I will send them wandering.
+
+**[24:10]** And I will send the sword, and need of food, and disease, among them till they are all cut off from the land which I gave to them and to their fathers.
+
+**[25:1]** The word which came to Jeremiah about all the people of Judah in the fourth year of Jehoiakim, the son of Josiah king of Judah; this was the first year of Nebuchadrezzar, king of Babylon.
+
+**[25:2]** This word Jeremiah gave out to all the people of Judah and to those living in Jerusalem, saying,
+
+**[25:3]** From the thirteenth year of Josiah, the son of Amon, king of Judah, even till this day, for twenty-three years, the word of the Lord has been coming to me, and I have given it to you, getting up early and talking to you; but you have not given ear.
+
+**[25:4]** And the Lord has sent to you all his servants the prophets, getting up early and sending them; but you have not given attention and your ear has not been open to give hearing;
+
+**[25:5]** Saying, Come back now, everyone from his evil way and from the evil of your doings, and keep your place in the land which the Lord has given to you and to your fathers, from times long past even for ever:
+
+**[25:6]** Do not go after other gods to be their servants and to give them worship, and do not make me angry with the work of your hands, causing evil to yourselves.
+
+**[25:7]** But you have not given ear to me, says the Lord; so that you have made me angry with the work of your hands, causing evil to yourselves.
+
+**[25:8]** So this is what the Lord of armies has said: Because you have not given ear to my words,
+
+**[25:9]** See, I will send and take all the families of the north, says the Lord, and Nebuchadrezzar, king of Babylon, my servant, and make them come against this land, and against its people, and against all these nations on every side; and I will give them up to complete destruction, and make them a cause of fear and surprise and a waste place for ever.
+
+**[25:10]** And more than this, I will take from them the sound of laughing voices, the voice of joy, the voice of the newly-married man, and the voice of the bride, the sound of the stones crushing the grain, and the shining of lights.
+
+**[25:11]** All this land will be a waste and a cause of wonder; and these nations will be the servants of the king of Babylon for seventy years.
+
+**[25:12]** And it will come about, after seventy years are ended, that I will send punishment on the king of Babylon, and on that nation, says the Lord, for their evil-doing, and on the land of the Chaldaeans; and I will make it a waste for ever.
+
+**[25:13]** And I will make that land undergo everything I have said against it, even everything recorded in this book, which Jeremiah the prophet has said against all the nations.
+
+**[25:14]** For a number of nations and great kings will make servants of them, even of them: and I will give them the reward of their acts, even the reward of the work of their hands.
+
+**[25:15]** For this is what the Lord, the God of Israel, has said to me: Take the cup of the wine of this wrath from my hand, and make all the nations to whom I send you take of it.
+
+**[25:16]** And after drinking it, they will go rolling from side to side, and be off their heads, because of the sword which I will send among them.
+
+**[25:17]** Then I took the cup from the Lord's hand, and gave a drink from it to all the nations to whom the Lord sent me;
+
+**[25:18]** Jerusalem and the towns of Judah and their kings and their princes, to make them a waste place, a cause of fear and surprise and a curse, as it is this day;
+
+**[25:19]** Pharaoh, king of Egypt, and his servants and his princes and all his people;
+
+**[25:20]** And all the mixed people and all the kings of the land of Uz, and all the kings of the land of the Philistines, and Ashkelon and Gaza and Ekron and the rest of Ashdod;
+
+**[25:21]** Edom and Moab and the children of Ammon,
+
+**[25:22]** And all the kings of Tyre, and all the kings of Zidon, and the kings of the lands across the sea;
+
+**[25:23]** Dedan and Tema and Buz, and all who have the ends of their hair cut;
+
+**[25:24]** And all the kings of Arabia, and all the kings of the mixed people living in the waste land;
+
+**[25:25]** And all the kings of Zimri, and all the kings of Elam, and all the kings of the Medes;
+
+**[25:26]** And all the kings of the north, far and near, one with another; and all the kingdoms of the world on the face of the earth.
+
+**[25:27]** And you are to say to them, This is what the Lord of armies, the God of Israel, has said: Take of this cup and be overcome, and let it come out again from your lips, and from your fall you will never be lifted up again, because of the sword which I will send among you.
+
+**[25:28]** And it will be, if they will not take of the cup in your hand, then you are to say to them, This is what the Lord of armies has said: You will certainly take of it.
+
+**[25:29]** For see, I am starting to send evil on the town which is named by my name, and are you to be without any punishment? You will not be without punishment: for I will send a sword on all people living on the earth, says the Lord of armies.
+
+**[25:30]** So, as a prophet, give out these words among them, and say to them, The voice of the Lord will be sounding like a lion from on high; he will send out his voice from his holy place, like the loud voice of a lion, against his flock; he will give a cry, like those who are crushing the grapes, against all the people of the earth.
+
+**[25:31]** A noise will come, even to the end of the earth; for the Lord has a cause against the nations, he will give his decision against all flesh; as for the evil-doers, he will give them to the sword, says the Lord.
+
+**[25:32]** This is what the Lord of armies has said: See, evil is going out from nation to nation, and a great storm will come up from the inmost parts of the earth.
+
+**[25:33]** And at that day, the bodies of those whom the Lord has put to death will be seen from one end of the earth even to the other end of the earth: there will be no weeping for them, their bodies will not be taken up or put to rest in the earth; they will be like waste on the face of the land.
+
+**[25:34]** Give cries of grief, you keepers of sheep; give cries for help, rolling yourselves in the dust, you chiefs of the flock: for the days of your destruction have fully come, and I will send you in all directions, and your fall will be like that of the males of the flock.
+
+**[25:35]** There will be no way of flight for the keepers of sheep, no road for the chiefs of the flock to get away safely.
+
+**[25:36]** A sound of the cry of the keepers of sheep, and the bitter crying of the chiefs of the flock! for the Lord has made waste their green fields.
+
+**[25:37]** And there is no sound in the fields of peace, because of the burning wrath of the Lord.
+
+**[25:38]** The lion has come out of his secret place, for the land has become a waste because of the cruel sword, and because of the heat of his wrath.
+
+**[26:1]** When Jehoiakim, the son of Josiah, king of Judah, first became king, this word came from the Lord, saying,
+
+**[26:2]** This is what the Lord has said: Take your place in the open square of the Lord's house and say to all the towns of Judah, who come into the Lord's house for worship, everything I give you orders to say to them: keep back not a word;
+
+**[26:3]** It may be that they will give ear, and that every man will be turned from his evil way, so that my purpose of sending evil on them because of the evil of their doings may be changed.
+
+**[26:4]** And you are to say to them, This is what the Lord has said: If you do not give ear to me and go in the way of my law which I have put before you,
+
+**[26:5]** And give ear to the words of my servants the prophets whom I send to you, getting up early and sending them, though you gave no attention;
+
+**[26:6]** Then I will make this house like Shiloh, and will make this town a curse to all the nations of the earth.
+
+**[26:7]** And in the hearing of the priests and the prophets and all the people, Jeremiah said these words in the house of the Lord.
+
+**[26:8]** Now, when Jeremiah had come to the end of saying everything the Lord had given him orders to say to all the people, the priests and the prophets and all the people took him by force, saying, Death will certainly be your fate.
+
+**[26:9]** Why have you said in the name of the Lord, This house will be like Shiloh, and this land a waste with no one living in it? And all the people had come together to Jeremiah in the house of the Lord.
+
+**[26:10]** And the rulers of Judah, hearing of these things, came up from the king's house to the house of the Lord, and took their seats by the new door of the Lord's house.
+
+**[26:11]** Then the priests and the prophets said to the rulers and to all the people, The right fate for this man is death; for he has said words against this town in your hearing.
+
+**[26:12]** Then Jeremiah said to all the rulers and to all the people, The Lord has sent me as his prophet to say against this house and against this town all the words which have come to your ears.
+
+**[26:13]** So now, make a change for the better in your ways and your doings, and give ear to the voice of the Lord your God; then the Lord will let himself be turned from the decision he has made against you for evil.
+
+**[26:14]** As for me, here I am in your hands: do with me whatever seems good and right in your opinion.
+
+**[26:15]** Only be certain that, if you put me to death, you will make yourselves and your town and its people responsible for the blood of one who has done no wrong: for truly, the Lord has sent me to you to say all these words in your ears.
+
+**[26:16]** Then the rulers and all the people said to the priests and the prophets, It is not right for this man to be put to death: for he has said words to us in the name of the Lord our God.
+
+**[26:17]** Then some of the responsible men of the land got up and said to all the meeting of the people,
+
+**[26:18]** Micah the Morashtite, who was a prophet in the days of Hezekiah, king of Judah, said to all the people of Judah, This is what the Lord of armies has said: Zion will become like a ploughed field, and Jerusalem will become a mass of broken walls, and the mountain of the house like the high places of the woodland.
+
+**[26:19]** Did Hezekiah and all Judah put him to death? did he not in the fear of the Lord make prayer for the grace of the Lord, and the Lord let himself be turned from the decision he had made against them for evil? By this act we might do great evil against ourselves.
+
+**[26:20]** And there was another man who was a prophet of the Lord, Uriah, the son of Shemaiah of Kiriath-jearim; he said against this town and against this land all the words which Jeremiah had said:
+
+**[26:21]** And when his words came to the ears of Jehoiakim the king and all his men of war and his captains, the king would have put him to death; but Uriah, hearing of it, was full of fear and went in flight into Egypt:
+
+**[26:22]** And Jehoiakim the king sent Elnathan, the son of Achbor, and certain men with him, into Egypt.
+
+**[26:23]** And they took Uriah out of Egypt and came back with him to Jehoiakim the king; who put him to death with the sword, and had his dead body put into the resting-place of the bodies of the common people.
+
+**[26:24]** But Ahikam, the son of Shaphan, gave Jeremiah his help, so that he was not given into the hands of the people to be put to death.
+
+**[27:1]** When Zedekiah, the son of Josiah, king of Judah, first became king this word came to Jeremiah from the Lord, saying,
+
+**[27:2]** This is what the Lord has said to me: Make for yourself bands and yokes and put them on your neck;
+
+**[27:3]** And send them to the king of Edom, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Zidon, by their servants who come to Jerusalem, to Zedekiah, king of Judah;
+
+**[27:4]** And give them orders to say to their masters, This is what the Lord of armies, the God of Israel, has said: Say to your masters,
+
+**[27:5]** I have made the earth, and man and beast on the face of the earth, by my great power and by my outstretched arm; and I will give it to anyone at my pleasure.
+
+**[27:6]** And now I have given all these lands into the hands of Nebuchadnezzar, the king of Babylon, my servant; and I have given the beasts of the field to him for his use.
+
+**[27:7]** And all the nations will be servants to him and to his son and to his son's son, till the time comes for his land to be overcome: and then a number of nations and great kings will take it for their use.
+
+**[27:8]** And it will come about, that if any nation does not become a servant to this same Nebuchadnezzar, king of Babylon, and does not put its neck under the yoke of the king of Babylon, then I will send punishment on that nation, says the Lord, by the sword and need of food and by disease, till I have given them into his hands.
+
+**[27:9]** And you are not to give attention to your prophets or your readers of signs or your dreamers or those who see into the future or those who make use of secret arts, who say to you, You will not become servants of the king of Babylon:
+
+**[27:10]** For they say false words to you, so that you may be sent away far from your land, and so that you may be forced out by me and come to destruction.
+
+**[27:11]** But as for that nation which puts its neck under the yoke of the king of Babylon and becomes his servant, I will let that nation keep on in its land, farming it and living in it, says the Lord.
+
+**[27:12]** And I said all this to Zedekiah, king of Judah, saying, Put your necks under the yoke of the king of Babylon and become his servants and his people, so that you may keep your lives.
+
+**[27:13]** Why are you desiring death, you and your people, by the sword, and because food is gone, and by disease, as the Lord has said of the nation which does not become the servant of the king of Babylon?
+
+**[27:14]** And you are not to give ear to the prophets who say to you, You will not become servants of the king of Babylon: for what they say is not true.
+
+**[27:15]** For I have not sent them, says the Lord, but they are saying what is false in my name, so that I might send you out by force, causing destruction to come on you and on your prophets.
+
+**[27:16]** And I said to the priests and to all the people, This is what the Lord has said: Give no attention to the words of your prophets who say to you, See, in a very little time now the vessels of the Lord's house will come back again from Babylon: for what they say to you is false.
+
+**[27:17]** Give no attention to them; become servants of the king of Babylon and keep yourselves from death: why let this town become a waste?
+
+**[27:18]** But if they are prophets, and if the word of the Lord is with them, let them now make request to the Lord of armies that the vessels which are still in the house of the Lord and in the house of the king of Judah and at Jerusalem, may not go to Babylon.
+
+**[27:19]** For this is what the Lord has said about the rest of the vessels which are still in this town,
+
+**[27:20]** Which Nebuchadnezzar, king of Babylon, did not take away, when he took Jeconiah, the son of Jehoiakim, king of Judah, a prisoner from Jerusalem to Babylon, with all the great men of Judah and Jerusalem;
+
+**[27:21]** For this is what the Lord of armies, the God of Israel, has said about the rest of the vessels in the house of the Lord and in the house of the king of Judah and at Jerusalem:
+
+**[27:22]** They will be taken away to Babylon, and there they will be till the day when I send their punishment on them, says the Lord. Then I will take them up and put them back in their place.
+
+**[28:1]** And it came about in that year, when Zedekiah first became king of Judah, in the fourth year, in the fifth month, that Hananiah, the son of Azzur the prophet, who came from Gibeon, said to Jeremiah in the house of the Lord, before the priests and all the people,
+
+**[28:2]** These are the words of the Lord of armies, the God of Israel: By me the yoke of the king of Babylon has been broken.
+
+**[28:3]** In the space of two years I will send back into this place all the vessels of the Lord's house which Nebuchadnezzar, king of Babylon, took away from this place to Babylon:
+
+**[28:4]** And I will let Jeconiah, the son of Jehoiakim, king of Judah, come back to this place, with all the prisoners of Judah who went to Babylon, says the Lord: for I will have the yoke of the king of Babylon broken.
+
+**[28:5]** Then the prophet Jeremiah said to the prophet Hananiah, before the priests and all the people who had come into the house of the Lord,
+
+**[28:6]** The prophet Jeremiah said, So be it: may the Lord do so: may the Lord give effect to the words which you have said, and let the vessels of the Lord's house, and all the people who have been taken away, come back from Babylon to this place.
+
+**[28:7]** But still, give ear to this word which I am saying to you and to all the people:
+
+**[28:8]** The prophets, who were before me and before you, from early times gave word to a number of countries and great kingdoms about war and destruction and disease.
+
+**[28:9]** The prophet whose words are of peace, when his words come true, will be seen to be a prophet whom the Lord has sent.
+
+**[28:10]** Then Hananiah the prophet took the yoke from the neck of the prophet Jeremiah and it was broken by his hands.
+
+**[28:11]** And before all the people Hananiah said, The Lord has said, Even so will I let the yoke of the king of Babylon be broken off the necks of all the nations in the space of two years. Then the prophet Jeremiah went away.
+
+**[28:12]** Then after the yoke had been broken off the neck of the prophet Jeremiah by Hananiah the prophet, the word of the Lord came to Jeremiah, saying,
+
+**[28:13]** Go and say to Hananiah, This is what the Lord has said: Yokes of wood have been broken by you, but in their place I will make yokes of iron.
+
+**[28:14]** For the Lord of armies, the God of Israel, has said: I have put a yoke of iron on the necks of all these nations, making them servants to Nebuchadnezzar, king of Babylon; and they are to be his servants: and in addition I have given him the beasts of the field.
+
+**[28:15]** Then the prophet Jeremiah said to Hananiah the prophet, Give ear, now, Hananiah; the Lord has not sent you; but you are making this people put their faith in what is false.
+
+**[28:16]** For this reason the Lord has said, See, I will send you away from off the face of the earth: this year death will overtake you, because you have said words against the Lord.
+
+**[28:17]** So death came to Hananiah the prophet the same year, in the seventh month.
+
+**[29:1]** Now these are the words of the letter which Jeremiah the prophet sent from Jerusalem to the responsible men among those who had been taken away, and to the priests and the prophets and to all the rest of the people whom Nebuchadnezzar had taken away prisoners from Jerusalem to Babylon;
+
+**[29:2]** (After Jeconiah the king and the queen-mother and the unsexed servants and the rulers of Judah and Jerusalem and the expert workmen and the metal-workers had gone away from Jerusalem;)
+
+**[29:3]** By the hand of Elasah, the son of Shaphan, and Gemariah, the son of Hilkiah, (whom Zedekiah, king of Judah, sent to Babylon, to Nebuchadnezzar, king of Babylon,) saying,
+
+**[29:4]** This is what the Lord of armies, the God of Israel, has said to all those whom I have taken away prisoners from Jerusalem to Babylon:
+
+**[29:5]** Go on building houses and living in them, and planting gardens and using the fruit of them;
+
+**[29:6]** Take wives and have sons and daughters, and take wives for your sons, and give your daughters to husbands, so that they may have sons and daughters; and be increased in number there and do not become less.
+
+**[29:7]** And be working for the peace of the land to which I have had you taken away prisoners, and make prayer to the Lord for it: for in its peace you will have peace.
+
+**[29:8]** For this is what the Lord of armies, the God of Israel, has said: Do not let yourselves be tricked by the prophets who are among you, and the readers of signs, and give no attention to their dreams which they may have;
+
+**[29:9]** For they are saying to you what is false in my name: I have not sent them, says the Lord.
+
+**[29:10]** For this is what the Lord has said: When seventy years are ended for Babylon, I will have pity on you and give effect to my good purpose for you, causing you to come back to this place.
+
+**[29:11]** For I am conscious of my thoughts about you, says the Lord, thoughts of peace and not of evil, to give you hope at the end.
+
+**[29:12]** And you will go on crying to me and making prayer to me, and I will give ear to you.
+
+**[29:13]** And you will be searching for me and I will be there, when you have gone after me with all your heart.
+
+**[29:14]** I will be near you again, says the Lord, and your fate will be changed, and I will get you together from all the nations and from all the places where I had sent you away, says the Lord; and I will take you back again to the place from which I sent you away prisoners.
+
+**[29:15]** For you have said, The Lord has given us prophets in Babylon.
+
+**[29:16]** For this is what the Lord has said about the king who is seated on the seat of David's kingdom, and about all the people living in this town, your countrymen who have not gone out with you as prisoners;
+
+**[29:17]** This is what the Lord of armies has said: See, I will send on them the sword and need of food and disease, and will make them like bad figs, which are of no use for food, they are so bad.
+
+**[29:18]** I will go after them, attacking them with the sword and with need of food and with disease, and will make them a cause of fear to all the kingdoms of the earth, to be a curse and a wonder and a surprise and a name of shame among all the nations where I have sent them:
+
+**[29:19]** Because they have not given ear to my words, says the Lord, when I sent to them my servants the prophets, getting up early and sending them; but you did not give ear, says the Lord.
+
+**[29:20]** And now, give ear to the word of the Lord, all you whom I have sent away prisoners from Jerusalem to Babylon.
+
+**[29:21]** This is what the Lord of armies, the God of Israel, has said about Ahab, the son of Kolaiah, and about Zedekiah, the son of Maaseiah, who are saying to you what is false in my name: See, I will give them up into the hands of Nebuchadrezzar, king of Babylon, and he will put them to death before your eyes.
+
+**[29:22]** And their fate will be used as a curse by all the prisoners of Judah who are in Babylon, who will say, May the Lord make you like Zedekiah and like Ahab, who were burned in the fire by the king of Babylon;
+
+**[29:23]** Because they have done shame in Israel, and have taken their neighbours' wives, and in my name have said false words, which I did not give them orders to say; and I myself am the witness, says the Lord.
+
+**[29:24]** About Shemaiah the Nehelamite.
+
+**[29:25]** Shemaiah the Nehelamite sent a letter in his name to Zephaniah, the son of Maaseiah the priest, saying,
+
+**[29:26]** The Lord has made you priest in place of Jehoiada the priest, to be an overseer in the house of the Lord for every man who is off his head and is acting as a prophet, to put such men in prison and in chains.
+
+**[29:27]** So why have you made no protest against Jeremiah of Anathoth, who is acting as a prophet to you?
+
+**[29:28]** For he has sent to us in Babylon saying, The time will be long: go on building houses and living in them, and planting gardens and using the fruit of them.
+
+**[29:29]** And Zephaniah the priest made clear to Jeremiah the prophet what was said in the letter, reading it to him.
+
+**[29:30]** Then the word of the Lord came to Jeremiah the prophet, saying,
+
+**[29:31]** Send to all those who have been taken away, saying, This is what the Lord has said about Shemaiah the Nehelamite: Because Shemaiah has been acting as a prophet to you, and I did not send him, and has made you put your faith in what is false;
+
+**[29:32]** For this cause the Lord has said, Truly I will send punishment on Shemaiah and on his seed; not a man of his family will have a place among this people, and he will not see the good which I am going to do to my people, says the Lord: because he has said words against the Lord.
+
+**[30:1]** The word which came to Jeremiah from the Lord, saying,
+
+**[30:2]** The Lord, the God of Israel, has said, Put down in a book all the words which I have said to you.
+
+**[30:3]** For see, the days are coming, says the Lord, when I will let the fate of my people Israel and Judah be changed, says the Lord: and I will make them come back to the land which I gave to their fathers, so that they may take it for their heritage.
+
+**[30:4]** And these are the words which the Lord said about Israel and about Judah.
+
+**[30:5]** This is what the Lord has said: A voice of shaking fear has come to our ears, of fear and not of peace.
+
+**[30:6]** Put the question and see if it is possible for a man to have birth-pains: why do I see every man with his hands gripping his sides, as a woman does when the pains of birth are on her, and all faces are turned green?
+
+**[30:7]** Ha! for that day is so great that there is no day like it: it is the time of Jacob's trouble: but he will get salvation from it.
+
+**[30:8]** For it will come about on that day, says the Lord of armies, that his yoke will be broken off his neck, and his bands will be burst; and men of strange lands will no longer make use of him as their servant:
+
+**[30:9]** But they will be servants to the Lord their God and to David their king, whom I will give back to them.
+
+**[30:10]** So have no fear, O Jacob, my servant, says the Lord; and do not be troubled, O Israel: for see, I will make you come back from far away, and your seed from the land where they are prisoners; and Jacob will come back, and will be quiet and at peace, and no one will give him cause for fear.
+
+**[30:11]** For I am with you, says the Lord, to be your saviour: for I will put an end to all the nations where I have sent you wandering, but I will not put an end to you completely: though with wise purpose I will put right your errors, and will not let you go quite without punishment.
+
+**[30:12]** For the Lord has said, Your disease may not be made well and your wound is bitter.
+
+**[30:13]** There is no help for your wound, there is nothing to make you well.
+
+**[30:14]** Your lovers have no more thought for you, they go after you no longer; for I have given you the wound of a hater, even cruel punishment;
+
+**[30:15]** Why are you crying for help because of your wound? for your pain may never be taken away: because your evil-doing was so great and because your sins were increased, I have done these things to you.
+
+**[30:16]** For this cause, all those who take you for their food will themselves become your food; and all your attackers, every one of them, will be taken prisoners; and those who send destruction on you will come to destruction; and all those who take away your goods by force will undergo the same themselves.
+
+**[30:17]** For I will make you healthy again and I will make you well from your wounds, says the Lord; because they have given you the name of an outlaw, saying, It is Zion cared for by no man.
+
+**[30:18]** The Lord has said, See, I am changing the fate of the tents of Jacob, and I will have pity on his houses; the town will be put up on its hill, and the great houses will be living-places again.
+
+**[30:19]** And from them will go out praise and the sound of laughing: and I will make them great in number, and they will not become less; and I will give them glory, and they will not be small.
+
+**[30:20]** And their children will be as they were in the old days, and the meeting of the people will have its place before me, and I will send punishment on all who are cruel to them.
+
+**[30:21]** And their chief will be of their number; their ruler will come from among themselves; and I will let him be present before me, so that he may come near to me: for who may have strength of heart to come near me? says the Lord.
+
+**[30:22]** And you will be my people, and I will be your God.
+
+**[30:23]** See, the storm-wind of the Lord, even the heat of his wrath, has gone out, a rolling storm, bursting on the heads of the evil-doers.
+
+**[30:24]** The wrath of the Lord will not be turned back till he has done, till he has put into effect, the purposes of his heart: in days to come you will have full knowledge of this.
+
+**[31:1]** At that time, says the Lord, I will be the God of all the families of Israel, and they will be my people.
+
+**[31:2]** The Lord has said, Grace came in the waste land to a people kept safe from the sword, even to Israel on the way to his resting-place.
+
+**[31:3]** From far away he saw the Lord: my love for you is an eternal love: so with mercy I have made you come with me.
+
+**[31:4]** I will again make new your buildings, O virgin of Israel, and you will take up your place: again you will take up your instruments of music, and go out in the dances of those who are glad.
+
+**[31:5]** Again will your vine-gardens be planted on the hill of Samaria: the planters will be planting and using the fruit.
+
+**[31:6]** For there will be a day when those who get in the grapes on the hills of Ephraim will be crying, Up! let us go up to Zion to the Lord our God.
+
+**[31:7]** For the Lord has said, Make a glad song for Jacob and give a cry on the top of the mountains: give the news, give praise, and say, The Lord has given salvation to his people, even to the rest of Israel.
+
+**[31:8]** See, I will take them from the north country, and get them from the inmost parts of the earth, and with them the blind and the feeble-footed, the woman with child and her who is in birth-pains together: a very great army, they will come back here.
+
+**[31:9]** They will come with weeping, and going before them I will be their guide: guiding them by streams of water in a straight way where there is no falling: for I am a father to Israel, and Ephraim is the first of my sons.
+
+**[31:10]** Give ear to the word of the Lord, O you nations, and give news of it in the sea-lands far away, and say, He who has sent Israel wandering will get him together and will keep him as a keeper does his flock.
+
+**[31:11]** For the Lord has given a price for Jacob, and made him free from the hands of him who was stronger than he.
+
+**[31:12]** So they will come with songs on the high places, flowing together to the good things of the Lord, to the grain and the wine and the oil, to the young ones of the flock and of the herd: their souls will be like a watered garden, and they will have no more sorrow.
+
+**[31:13]** Then the virgin will have joy in the dance, and the young men and the old will be glad: for I will have their weeping turned into joy, I will give them comfort and make them glad after their sorrow.
+
+**[31:14]** I will give the priests their desired fat things, and my people will have a full measure of my good things, says the Lord.
+
+**[31:15]** So has the Lord said: In Ramah there is a sound of crying, weeping and bitter sorrow; Rachel weeping for her children; she will not be comforted for their loss.
+
+**[31:16]** The Lord has said this: Keep your voice from sorrow and your eyes from weeping: for your work will be rewarded, says the Lord; and they will come back from the land of their hater.
+
+**[31:17]** And there is hope for the future, says the Lord; and your children will come back to the land which is theirs.
+
+**[31:18]** Certainly Ephraim's words of grief have come to my ears, You have given me training and I have undergone it like a young cow unused to the yoke: let me be turned and come back, for you are the Lord my God.
+
+**[31:19]** Truly, after I had been turned, I had regret for my ways; and after I had got knowledge, I made signs of sorrow: I was put to shame, truly, I was covered with shame, because I had to undergo the shame of my early years.
+
+**[31:20]** Is Ephraim my dear son? is he the child of my delight? for whenever I say things against him, I still keep him in my memory: so my heart is troubled for him; I will certainly have mercy on him, says the Lord.
+
+**[31:21]** Put up guiding pillars, make road signs for yourself: give attention to the highway, even the way in which you went: be turned again, O virgin of Israel, be turned to these your towns.
+
+**[31:22]** How long will you go on turning this way and that, O wandering daughter? for the Lord has made a new thing on the earth, a woman changed into a man.
+
+**[31:23]** So the Lord of armies, the God of Israel, has said, Again will these words be used in the land of Judah and in its towns, when I have let their fate be changed: May the blessing of the Lord be on you, O resting-place of righteousness, O holy mountain.
+
+**[31:24]** And Judah and all its towns will be living there together; the farmers and those who go about with flocks.
+
+**[31:25]** For I have given new strength to the tired soul and to every sorrowing soul in full measure.
+
+**[31:26]** At this, awaking from my sleep, I saw; and my sleep was sweet to me.
+
+**[31:27]** See, the days are coming, says the Lord, when I will have Israel and Judah planted with the seed of man and with the seed of beast.
+
+**[31:28]** And it will come about that, as I have been watching over them for the purpose of uprooting and smashing down and overturning and sending destruction and causing trouble; so I will be watching over them for the purpose of building up and planting, says the Lord.
+
+**[31:29]** In those days they will no longer say, The fathers have been tasting bitter grapes and the children's teeth are put on edge.
+
+**[31:30]** But everyone will be put to death for the evil which he himself has done: whoever has taken bitter grapes will himself have his teeth put on edge.
+
+**[31:31]** See, the days are coming, says the Lord, when I will make a new agreement with the people of Israel and with the people of Judah:
+
+**[31:32]** Not like the agreement which I made with their fathers, on the day when I took them by the hand to be their guide out of the land of Egypt; which agreement was broken by them, and I gave them up, says the Lord.
+
+**[31:33]** But this is the agreement which I will make with the people of Israel after those days, says the Lord; I will put my law in their inner parts, writing it in their hearts; and I will be their God, and they will be my people.
+
+**[31:34]** And no longer will they be teaching every man his neighbour and every man his brother, saying, Get knowledge of the Lord: for they will all have knowledge of me, from the least of them to the greatest of them, says the Lord: for they will have my forgiveness for their evil-doing, and their sin will go from my memory for ever.
+
+**[31:35]** These are the words of the Lord, who has given the sun for a light by day, ordering the moon and stars for a light by night, who puts the sea in motion, causing the thunder of its waves; the Lord of armies is his name.
+
+**[31:36]** If the order of these things before me is ever broken, says the Lord, then will the seed of Israel come to an end as a nation before me for ever.
+
+**[31:37]** This is what the Lord has said: If the heavens on high may be measured, and the bases of the earth searched out, then I will give up the seed of Israel, because of all they have done, says the Lord.
+
+**[31:38]** See, the days are coming, says the Lord, for the building of the Lord's town, from the tower of Hananel to the doorway of the angle.
+
+**[31:39]** And the measuring-line will go out in front of it as far as the hill Gareb, going round to Goah.
+
+**[31:40]** And all the valley of the dead bodies, and all the field of death as far as the stream Kidron, up to the angle of the horses' doorway to the east, will be holy to the Lord; it will not again be uprooted or overturned for ever.
+
+**[32:1]** The word which came to Jeremiah from the Lord in the tenth year of Zedekiah, king of Judah, which was the eighteenth year of Nebuchadrezzar.
+
+**[32:2]** Now at that time the king of Babylon's army was round Jerusalem, shutting it in: and Jeremiah the prophet was shut up in the place of the armed watchmen, in the house of the king of Judah.
+
+**[32:3]** For Zedekiah, king of Judah, had had him shut up, saying, Why have you, as a prophet, been saying, The Lord has said, See, I will give this town into the hands of the king of Babylon, and he will take it;
+
+**[32:4]** And Zedekiah, king of Judah, will not get away from the hands of the Chaldaeans, but will certainly be given up into the hands of the king of Babylon, and will have talk with him, mouth to mouth, and see him, eye to eye.
+
+**[32:5]** And he will take Zedekiah away to Babylon, where he will be till I have pity on him, says the Lord: though you are fighting with the Chaldaeans, things will not go well for you?
+
+**[32:6]** And Jeremiah said, The word of the Lord came to me, saying,
+
+**[32:7]** See, Hanamel, the son of Shallum, your father's brother, will come to you and say, Give the price and get for yourself my property in Anathoth: for you have the right of the nearest relation.
+
+**[32:8]** So Hanamel, the son of my father's brother, came to me, as the Lord had said, to the place of the armed watchmen, and said to me, Give the price and get my property which is in Anathoth in the land of Benjamin: for you have the nearest relation's right to the heritage; so get it for yourself. Then it was clear to me that this was the word of the Lord.
+
+**[32:9]** So I got for a price the property in Anathoth from Hanamel, the son of my father's brother, and gave him the money, seventeen shekels of silver;
+
+**[32:10]** And I put it in writing, stamping it with my stamp, and I took witnesses and put the money into the scales.
+
+**[32:11]** So I took the paper witnessing the business, one copy rolled up and stamped, and one copy open:
+
+**[32:12]** And I gave the paper to Baruch, the son of Neriah, the son of Mahseiah, before the eyes of Hanamel, the son of my father's brother, and of the witnesses who had put their names to the paper, and before all the Jews who were seated in the place of the armed watchmen.
+
+**[32:13]** And I gave orders to Baruch in front of them, saying,
+
+**[32:14]** This is what the Lord of armies, the God of Israel, has said: Take these papers, the witness of this business, the one which is rolled up and stamped, and the one which is open; and put them in a vessel of earth so that they may be kept for a long time.
+
+**[32:15]** For the Lord of armies, the God of Israel, has said, There will again be trading in houses and fields and vine-gardens in this land.
+
+**[32:16]** Now after I had given the paper to Baruch, the son of Neriah, I made my prayer to the Lord, saying,
+
+**[32:17]** Ah Lord God! see, you have made the heaven and the earth by your great power and by your outstretched arm, and there is nothing you are not able to do:
+
+**[32:18]** You have mercy on thousands, and send punishment for the evil-doing of the fathers on their children after them: the great, the strong God, the Lord of armies is his name:
+
+**[32:19]** Great in wisdom and strong in act: whose eyes are open on all the ways of the sons of men, giving to everyone the reward of his ways and the fruit of his doings:
+
+**[32:20]** You have done signs and wonders in the land of Egypt, and even to this day, in Israel and among other men; and have made a name for yourself as at this day;
+
+**[32:21]** And have taken your people Israel out of the land of Egypt with signs and with wonders and with a strong hand and an outstretched arm, causing great fear;
+
+**[32:22]** And have given them this land, which you gave your word to their fathers to give them, a land flowing with milk and honey;
+
+**[32:23]** And they came in and took it for their heritage, but they did not give ear to your voice, and were not ruled by your law; they have done nothing of all you gave them orders to do: so you have made all this evil come on them:
+
+**[32:24]** See, they have made earthworks against the town to take it; and the town is given into the hands of the Chaldaeans who are fighting against it, because of the sword and need of food and disease: and what you have said has taken place, and truly you see it.
+
+**[32:25]** And you have said to me, Give the money to get yourself a property, and have the business witnessed; though the town is given into the hands of the Chaldaeans.
+
+**[32:26]** And the word of the Lord came to Jeremiah, saying,
+
+**[32:27]** See, I am the Lord, the God of all flesh: is there anything so hard that I am unable to do it?
+
+**[32:28]** So this is what the Lord has said: See, I am giving this town into the hands of the Chaldaeans and into the hands of Nebuchadrezzar, the king of Babylon, and he will take it:
+
+**[32:29]** And the Chaldaeans, who are fighting against this town, will come and put the town on fire, burning it together with the houses, on the roofs of which perfumes have been burned to the Baal, and drink offerings have been drained out to other gods, moving me to wrath.
+
+**[32:30]** For the children of Israel and the children of Judah have done nothing but evil in my eyes from their earliest years: the children of Israel have only made me angry with the work of their hands, says the Lord.
+
+**[32:31]** For this town has been to me a cause of wrath and of burning passion from the day of its building till this day, so that I put it away from before my face:
+
+**[32:32]** Because of all the evil of the children of Israel and of the children of Judah, which they have done to make me angry, they and their kings, their princes, their priests, and their prophets, and the men of Judah and the people of Jerusalem.
+
+**[32:33]** And they have been turning their backs and not their faces to me: and though I was their teacher, getting up early and teaching them, their ears were not open to teaching.
+
+**[32:34]** But they put their disgusting images into the house which is named by my name, making it unclean.
+
+**[32:35]** And they put up the high places of the Baal in the valley of the son of Hinnom, making their sons and their daughters go through the fire to Molech; which I did not give them orders to do, and it never came into my mind that they would do this disgusting thing, causing Judah to be turned out of the way.
+
+**[32:36]** And now the Lord, the God of Israel, has said of this town, about which you say, It is given into the hands of the king of Babylon by the sword and by need of food and by disease:
+
+**[32:37]** See, I will get them together from all the countries where I have sent them in my wrath and in the heat of my passion and in my bitter feeling; and I will let them come back into this place where they may take their rest safely.
+
+**[32:38]** And they will be my people, and I will be their God:
+
+**[32:39]** And I will give them one heart and one way, so that they may go on in the worship of me for ever, for their good and the good of their children after them:
+
+**[32:40]** And I will make an eternal agreement with them, that I will never give them up, but ever do them good; and I will put the fear of me in their hearts, so that they will not go away from me.
+
+**[32:41]** And truly, I will take pleasure in doing them good, and all my heart and soul will be given to planting them in this land in good faith.
+
+**[32:42]** For the Lord has said: As I have made all this great evil come on this people, so I will send on them all the good which I said about them.
+
+**[32:43]** And there will be trading in fields in this land of which you say, It is a waste, without man or beast; it is given into the hands of the Chaldaeans.
+
+**[32:44]** Men will get fields for money, and put the business in writing, stamping the papers and having them witnessed, in the land of Benjamin and in the country round Jerusalem and in the towns of Judah and in the towns of the hill-country and in the towns of the lowland and in the towns of the South: for I will let their fate be changed, says the Lord.
+
+**[33:1]** Then the word of the Lord came to Jeremiah the second time, while he was still shut up in the place of the armed watchmen, saying,
+
+**[33:2]** These are the words of the Lord, who is doing it, the Lord who is forming it, to make it certain; the Lord is his name;
+
+**[33:3]** Let your cry come to me, and I will give you an answer, and let you see great things and secret things of which you had no knowledge.
+
+**[33:4]** For this is what the Lord, the God of Israel, has said about the houses of this town and the houses of the kings of Judah, which have been broken down to make earthworks and ...;
+
+**[33:5]** ... and to make them full of the dead bodies of men whom I have put to death in my wrath and in my passion, and because of whose evil-doing I have kept my face covered from this town.
+
+**[33:6]** See, I will make it healthy and well again, I will even make them well; I will let them see peace and good faith in full measure.
+
+**[33:7]** And I will let the fate of Judah and of Israel be changed, building them up as at first.
+
+**[33:8]** And I will make them clean from all their sin, with which they have been sinning against me; I will have forgiveness for all their sins, with which they have been sinning against me, and with which they have done evil against me.
+
+**[33:9]** And this town will be to me for a name of joy, for a praise and a glory before all the nations of the earth, who, hearing of all the good which I am doing for them, will be shaking with fear because of all the good and the peace which I am doing for it.
+
+**[33:10]** This is what the Lord has said: There will again be sounding in this place, of which you say, It is a waste, without man and without beast; even in the towns of Judah and in the streets of Jerusalem which are waste and unpeopled, without man and without beast,
+
+**[33:11]** Happy sounds, the voice of joy, the voice of the newly-married man and the voice of the bride, the voices of those who say, Give praise to the Lord of armies, for the Lord is good, for his mercy is unchanging for ever: the voices of those who go with praise into the house of the Lord. For I will let the land come back to its first condition, says the Lord.
+
+**[33:12]** This is what the Lord of armies has said: Again there will be in this place, which is a waste, without man and without beast, and in all its towns, a resting-place where the keepers of sheep will make their flocks take rest.
+
+**[33:13]** In the towns of the hill-country, in the towns of the lowland, and in the towns of the South and in the land of Benjamin and in the country round Jerusalem and in the towns of Judah, the flocks will again go under the hand of him who is numbering them, says the Lord.
+
+**[33:14]** See, the days are coming, says the Lord, when I will give effect to the good word which I have said about the people of Israel and the people of Judah.
+
+**[33:15]** In those days and at that time, I will let a Branch of righteousness come up for David; and he will be a judge in righteousness in the land.
+
+**[33:16]** In those days, Judah will have salvation and Jerusalem will be safe: and this is the name which will be given to her: The Lord is our righteousness.
+
+**[33:17]** For the Lord has said, David will never be without a man to take his place on the seat of the kingdom of Israel;
+
+**[33:18]** And the priests and the Levites will never be without a man to come before me, offering burned offerings and perfumes and meal offerings and offerings of beasts at all times.
+
+**[33:19]** And the word of the Lord came to Jeremiah, saying,
+
+**[33:20]** The Lord has said: If it is possible for my agreement of the day and the night to be broken, so that day and night no longer come at their fixed times,
+
+**[33:21]** Then my agreement with my servant David may be broken, so that he no longer has a son to take his place on the seat of the kingdom; and my agreement with the Levites, the priests, my servants.
+
+**[33:22]** As it is not possible for the army of heaven to be numbered, or the sand of the sea measured, so will I make the seed of my servant David, and the Levites my servants.
+
+**[33:23]** And the word of the Lord came to Jeremiah, saying,
+
+**[33:24]** Have you taken note of what these people have said, The two families, which the Lord took for himself, he has given up? This they say, looking down on my people as being, in their eyes, no longer a nation.
+
+**[33:25]** The Lord has said, If I have not made day and night, and if the limits of heaven and earth have not been fixed by me,
+
+**[33:26]** Then I will give up caring for the seed of Jacob and of David my servant, so that I will not take of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will let their fate be changed and will have mercy on them.
+
+**[34:1]** The word which came to Jeremiah from the Lord, when Nebuchadrezzar, king of Babylon, and all his army, and all the kingdoms of the earth which were under his rule, and all the peoples, were fighting against Jerusalem and all its towns, saying,
+
+**[34:2]** The Lord, the God of Israel, has said, Go and say to Zedekiah, king of Judah, This is what the Lord has said: See, I will give this town into the hands of the king of Babylon, and he will have it burned with fire:
+
+**[34:3]** And you will not get away from him, but will certainly be taken and given up into his hands; and you will see the king of Babylon, eye to eye, and he will have talk with you, mouth to mouth, and you will go to Babylon.
+
+**[34:4]** But give ear to the word of the Lord, O Zedekiah, king of Judah; this is what the Lord has said about you: Death will not come to you by the sword:
+
+**[34:5]** You will come to your end in peace; and such burnings as they made for your fathers, the earlier kings before you, will be made for you; and they will be weeping for you and saying, Ah lord! for I have said the word, says the Lord.
+
+**[34:6]** Then Jeremiah the prophet said all these things to Zedekiah, king of Judah, in Jerusalem,
+
+**[34:7]** When the army of the king of Babylon was fighting against Jerusalem and against all the towns of Judah which had not been taken, against Lachish and against Azekah; for these were the last of the walled towns of Judah.
+
+**[34:8]** The word which came to Jeremiah from the Lord, after King Zedekiah had made an agreement with all the people in Jerusalem, to give news in public that servants were to be made free;
+
+**[34:9]** That every man was to let his Hebrew man-servant and his Hebrew servant-girl go free; so that no one might make use of a Jew, his countryman, as a servant:
+
+**[34:10]** And this was done by all the rulers and the people who had taken part in the agreement, and every one let his man-servant and his servant-girl go free, not to be used as servants any longer; they did so, and let them go.
+
+**[34:11]** But later, they took back again the servants and the servant-girls whom they had let go free, and put them again under the yoke as servants and servant-girls.
+
+**[34:12]** For this reason the word of the Lord came to Jeremiah from the Lord, saying,
+
+**[34:13]** The Lord, the God of Israel, has said, I made an agreement with your fathers on the day when I took them out of Egypt, out of the prison-house, saying,
+
+**[34:14]** At the end of seven years every man is to let go his countryman who is a Hebrew, who has become yours for a price and has been your servant for six years; you are to let him go free: but your fathers gave no attention and did not give ear.
+
+**[34:15]** And now, turning away from evil, you had done what is right in my eyes, giving a public undertaking for every man to make his neighbour free; and you had made an agreement before me in the house which is named by my name:
+
+**[34:16]** But again you have put shame on my name, and you have taken back, every one his man-servant and his servant-girl, whom you had sent away free, and you have put them under the yoke again to be your servants and servant-girls.
+
+**[34:17]** And so the Lord has said, You have not given ear to me and undertaken publicly, every man to let loose his countryman and his neighbour: see, I undertake to let loose against you the sword and disease and need of food; and I will send you wandering among all the kingdoms of the earth.
+
+**[34:18]** And I will give the men who have gone against my agreement and have not given effect to the words of the agreement which they made before me, when the ox was cut in two and they went between the parts of it,
+
+**[34:19]** The rulers of Judah and the rulers of Jerusalem, the unsexed servants and the priests and all the people of the land who went between the parts of the ox,
+
+**[34:20]** Even these I will give up into the hands of their haters and into the hands of those who have designs against their lives: and their dead bodies will become food for the birds of heaven and the beasts of the earth.
+
+**[34:21]** And Zedekiah, king of Judah, and his rulers I will give into the hands of their haters and into the hands of those who have designs against their lives, and into the hands of the king of Babylon's army which has gone away from you.
+
+**[34:22]** See, I will give orders, says the Lord, and make them come back to this town; and they will make war on it and take it and have it burned with fire: and I will make the towns of Judah waste and unpeopled.
+
+**[35:1]** The word which came to Jeremiah from the Lord, in the days of Jehoiakim, the son of Josiah, king of Judah, saying,
+
+**[35:2]** Go into the house of the Rechabites, and have talk with them, and take them into the house of the Lord, into one of the rooms, and give them wine.
+
+**[35:3]** Then I took Jaazaniah, the son of Jeremiah, the son of Habazziniah, and his brothers and all his sons and all the Rechabites;
+
+**[35:4]** And I took them into the house of the Lord, into the room of the sons of Hanan, the son of Igdaliah, the man of God, which was near the rulers' room, which was over the room of Maaseiah, the son of Shallum, the keeper of the door;
+
+**[35:5]** And I put before the sons of the Rechabites basins full of wine and cups, and I said to them, Take some wine.
+
+**[35:6]** But they said, We will take no wine: for Jonadab, the son of Rechab our father, gave us orders, saying, You are to take no wine, you or your sons, for ever:
+
+**[35:7]** And you are to make no houses, or put in seed, or get vine-gardens planted, or have any: but all your days you are to go on living in tents, so that you may have a long life in the land where you are living as in a strange country.
+
+**[35:8]** And we have kept the rules of Jonadab, the son of Rechab our father, in everything which he gave us orders to do, drinking no wine all our days, we and our wives and our sons and our daughters;
+
+**[35:9]** Building no houses for ourselves, having no vine-gardens or fields or seed:
+
+**[35:10]** But we have been living in tents, and have done everything which Jonadab our father gave us orders to do.
+
+**[35:11]** But when Nebuchadrezzar, king of Babylon, came up into the land, we said, Come, let us go to Jerusalem, away from the army of the Chaldaeans and from the army of the Aramaeans: and so we are living in Jerusalem.
+
+**[35:12]** Then the word of the Lord came to Jeremiah, saying,
+
+**[35:13]** This is what the Lord of armies, the God of Israel, has said: Go and say to the men of Judah and the people of Jerusalem, Is there no hope of teaching you to give ear to my words? says the Lord.
+
+**[35:14]** The orders which Jonadab, the son of Rechab, gave to his sons to take no wine, are done, and to this day they take no wine, for they do the orders of their father: but I have sent my words to you, getting up early and sending them, and you have not given ear to me.
+
+**[35:15]** And I have sent you all my servants the prophets, getting up early and sending them, saying, Come back, now, every man from his evil way, and do better, and go not after other gods to become their servants, and you will go on living in the land which I have given to you and to your fathers: but your ears have not been open, and you have not given attention to me.
+
+**[35:16]** Though the sons of Jonadab the son of Rechab have done the orders of their father which he gave them, this people has not given ear to me:
+
+**[35:17]** For this reason the Lord, the God of armies, the God of Israel, has said, See, I will send on Judah and on all the people of Jerusalem all the evil which I said I would do to them: because I sent my words to them, but they did not give ear; crying out to them, but they gave no answer.
+
+**[35:18]** But to the Rechabites Jeremiah said, This is what the Lord of armies, the God of Israel, has said: Because you have done the orders of Jonadab your father, and have kept his rules, and done everything as he gave you orders to do it;
+
+**[35:19]** For this reason the Lord of armies, the God of Israel, has said, Jonadab, the son of Rechab, will never be without a man to take his place before me.
+
+**[36:1]** Now it came about in the fourth year of Jehoiakim, the son of Josiah, king of Judah, that this word came to Jeremiah from the Lord, saying,
+
+**[36:2]** Take a book and put down in it all the words I have said to you against Israel and against Judah and against all the nations, from the day when my word came to you in the days of Josiah till this day.
+
+**[36:3]** It may be that the people of Judah, hearing of all the evil which it is my purpose to do to them, will be turned, every man from his evil ways; so that they may have my forgiveness for their evil-doing and their sin.
+
+**[36:4]** Then Jeremiah sent for Baruch, the son of Neriah; and Baruch took down from the mouth of Jeremiah all the words of the Lord which he had said to him, writing them in a book.
+
+**[36:5]** And Jeremiah gave orders to Baruch, saying, I am shut up, and am not able to go into the house of the Lord:
+
+**[36:6]** So you are to go, reading there from the book, which you have taken down from my mouth, the words of the Lord, in the hearing of the people in the Lord's house, on a day when they go without food, and in the hearing of all the men of Judah who have come out from their towns.
+
+**[36:7]** It may be that their prayer for grace will go up to the Lord, and that every man will be turned from his evil ways: for great is the wrath and the passion made clear by the Lord against this people.
+
+**[36:8]** And Baruch, the son of Neriah, did as Jeremiah the prophet gave him orders to do, reading from the book the words of the Lord in the Lord's house.
+
+**[36:9]** Now it came about in the fifth year of Jehoiakim, the son of Josiah, king of Judah, in the ninth month, that it was given out publicly that all the people in Jerusalem, and all the people who came from the towns of Judah to Jerusalem, were to keep from food before the Lord.
+
+**[36:10]** Then Baruch gave a public reading of the words of Jeremiah from the book, in the house of the Lord, in the room of Gemariah, the son of Shaphan the scribe, in the higher square, as one goes in by the new doorway of the Lord's house, in the hearing of all the people.
+
+**[36:11]** And Micaiah, the son of Gemariah, the son of Shaphan, after hearing all the words of the Lord from the book,
+
+**[36:12]** Went down to the king's house, to the scribe's room: and all the rulers were seated there, Elishama the scribe and Delaiah, the son of Shemaiah, and Elnathan, the son of Achbor, and Gemariah, the son of Shaphan, and Zedekiah, the son of Hananiah, and all the rulers.
+
+**[36:13]** Then Micaiah gave them an account of all the words which had come to his ears when Baruch was reading the book to the people.
+
+**[36:14]** So all the rulers sent Jehudi, the son of Nethaniah, the son of Shelemiah, the son of Cushi, to Baruch, saying, Take in your hand the book from which you have been reading to the people and come. So Baruch, the son of Neriah, took the book in his hand and came down to them.
+
+**[36:15]** Then they said to him, Be seated now, and give us a reading from it. So Baruch did so, reading it to them.
+
+**[36:16]** Now it came about that, after hearing all the words, they said to one another in fear, We will certainly give the king an account of all these words.
+
+**[36:17]** And questioning Baruch, they said, Say now, how did you put all these words down in writing from his mouth?
+
+**[36:18]** Then Baruch, answering, said, He said all these things to me by word of mouth, and I put them down with ink in the book.
+
+**[36:19]** Then the rulers said to Baruch, Go and put yourself in a safe place, you and Jeremiah, and let no man have knowledge of where you are.
+
+**[36:20]** Then they went into the open square to the king; but the book they put away in the room of Elishama the scribe; and they gave the king an account of all the words.
+
+**[36:21]** So the king sent Jehudi to get the book, and he took it from the room of Elishama the scribe. And Jehudi gave a reading of it in the hearing of the king and all the rulers who were by the king's side.
+
+**[36:22]** Now the king was seated in the winter house, and a fire was burning in the fireplace in front of him.
+
+**[36:23]** And it came about that whenever Jehudi, in his reading, had got through three or four divisions, the king, cutting them with his penknife, put them into the fire, till all the book was burned up in the fire which was burning in the fireplace.
+
+**[36:24]** But they had no fear and gave no signs of grief, not the king or any of his servants, after hearing all these words.
+
+**[36:25]** And Elnathan and Delaiah and Gemariah had made a strong request to the king not to let the book be burned, but he would not give ear to them.
+
+**[36:26]** And the king gave orders to Jerahmeel, the king's son, and Seraiah, the son of Azriel, and Shelemiah, the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the Lord kept them safe.
+
+**[36:27]** Then after the book, in which Baruch had put down the words of Jeremiah, had been burned by the king, the word of the Lord came to Jeremiah, saying,
+
+**[36:28]** Take another book and put down in it all the words which were in the first book, which Jehoiakim, king of Judah, put into the fire.
+
+**[36:29]** And about Jehoiakim, king of Judah, you are to say, This is what the Lord has said: You have put this book into the fire, saying, Why have you put in it that the king of Babylon will certainly come, causing the destruction of this land and putting an end to every man and beast in it?
+
+**[36:30]** For this reason the Lord has said of Jehoiakim, king of Judah, He will have no son to take his place on the seat of David: his dead body will be put out to undergo the heat of the day and the cold of the night.
+
+**[36:31]** And I will send punishment on him and on his seed and on his servants for their evil-doing; I will send on them and on the people of Jerusalem and the men of Judah, all the evil which I said against them, but they did not give ear.
+
+**[36:32]** Then Jeremiah took another book, and gave it to Baruch the scribe, the son of Neriah, who put down in it, from the mouth of Jeremiah, all the words of the book which had been burned in the fire by Jehoiakim, king of Judah: and in addition a number of other words of the same sort.
+
+**[37:1]** And Zedekiah, the son of Josiah, became king in place of Coniah, the son of Jehoiakim, whom Nebuchadrezzar, king of Babylon, made king in the land of Judah.
+
+**[37:2]** But he and his servants and the people of the land did not give ear to the words of the Lord which he said by Jeremiah the prophet.
+
+**[37:3]** And Zedekiah the king sent Jehucal, the son of Shelemiah, and Zephaniah, the son of Maaseiah the priest, to the prophet Jeremiah, saying, Make prayer now to the Lord our God for us.
+
+**[37:4]** (Now Jeremiah was going about among the people, for they had not put him in prison.
+
+**[37:5]** And Pharaoh's army had come out from Egypt: and the Chaldaeans, who were attacking Jerusalem, hearing news of them, went away from Jerusalem.)
+
+**[37:6]** Then the word of the Lord came to the prophet Jeremiah, saying,
+
+**[37:7]** The Lord, the God of Israel, has said: This is what you are to say to the king of Judah who sent you to get directions from me: See, Pharaoh's army, which has come out to your help, will go back to Egypt, to their land.
+
+**[37:8]** And the Chaldaeans will come back again and make war against this town and they will take it and put it on fire.
+
+**[37:9]** The Lord has said, Have no false hopes, saying to yourselves, The Chaldaeans will go away from us: for they will not go away.
+
+**[37:10]** For even if you had overcome all the army of the Chaldaeans fighting against you, and there were only wounded men among them, still they would get up, every man in his tent, and put this town on fire.
+
+**[37:11]** And it came about that when the Chaldaean army outside Jerusalem had gone away for fear of Pharaoh's army,
+
+**[37:12]** Jeremiah went out of Jerusalem to go into the land of Benjamin, with the purpose of taking up his heritage there among the people.
+
+**[37:13]** But when he was at the Benjamin door, a captain of the watch named Irijah, the son of Shelemiah, the son of Hananiah, who was stationed there, put his hand on Jeremiah the prophet, saying, You are going to give yourself up to the Chaldaeans.
+
+**[37:14]** Then Jeremiah said, That is not true; I am not going to the Chaldaeans. But he would not give ear to him: so Irijah made him prisoner and took him to the rulers.
+
+**[37:15]** And the rulers were angry with Jeremiah, and gave him blows and put him in prison in the house of Jonathan the scribe: for they had made that the prison.
+
+**[37:16]** So Jeremiah came into the hole of the prison, under the arches, and was there for a long time.
+
+**[37:17]** Then King Zedekiah sent and got him out: and the king, questioning him secretly in his house, said, Is there any word from the Lord? And Jeremiah said, There is. Then he said, You will be given up into the hands of the king of Babylon.
+
+**[37:18]** Then Jeremiah said to King Zedekiah, What has been my sin against you or against your servants or against this people, that you have put me in prison?
+
+**[37:19]** Where now are your prophets who said to you, The king of Babylon will not come against you and against this land?
+
+**[37:20]** And now be pleased to give ear, O my lord the king; let my prayer for help come before you, and do not make me go back to the house of Jonathan the scribe, for fear that I may come to my death there.
+
+**[37:21]** Then by the order of Zedekiah the king, Jeremiah was put into the place of the armed watchmen, and they gave him every day a cake of bread from the street of the bread-makers, till all the bread in the town was used up. So Jeremiah was kept in the place of the armed watchmen.
+
+**[38:1]** Now it came to the ears of Shephatiah, the son of Mattan, and Gedaliah, the son of Pashhur, and Jucal, the son of Shelemiah, and Pashhur, the son of Malchiah, that Jeremiah had said to all the people,
+
+**[38:2]** These are the words of the Lord: Whoever goes on living in this town will come to his death by the sword or through need of food or by disease: but whoever goes out to the Chaldaeans will keep his life out of the power of the attackers and be safe.
+
+**[38:3]** The Lord has said, This town will certainly be given into the hands of the army of the king of Babylon, and he will take it.
+
+**[38:4]** Then the rulers said to the king, Let this man be put to death, because he is putting fear into the hearts of the men of war who are still in the town, and into the hearts of the people, by saying such things to them: this man is not working for the well-being of the people, but for their damage.
+
+**[38:5]** Then Zedekiah the king said, See, he is in your hands: for the king was not able to do anything against them.
+
+**[38:6]** So they took Jeremiah and put him into the water-hole of Malchiah, the king's son, in the place of the armed watchmen: and they let Jeremiah down with cords. And in the hole there was no water, but wet earth: and Jeremiah went down into the wet earth.
+
+**[38:7]** Now it came to the ears of Ebed-melech the Ethiopian, an unsexed servant in the king's house, that they had put Jeremiah into the water-hole; the king at that time being seated in the doorway of Benjamin:
+
+**[38:8]** And Ebed-melech went out from the king's house and said to the king,
+
+**[38:9]** My lord the king, these men have done evil in all they have done to Jeremiah the prophet, whom they have put into the water-hole; and he will come to his death in the place where he is through need of food: for there is no more bread in the town.
+
+**[38:10]** Then the king gave orders to Ebed-melech the Ethiopian, saying, Take with you three men from here and get Jeremiah out of the water-hole before death overtakes him.
+
+**[38:11]** So Ebed-melech took the men with him and went into the house of the king, to the place where the clothing was kept, and got from there old clothing and bits of old cloth, and let them down by cords into the water-hole where Jeremiah was.
+
+**[38:12]** And Ebed-melech the Ethiopian said to Jeremiah, Put these bits of old cloth under your arms under the cords. And Jeremiah did so.
+
+**[38:13]** So pulling Jeremiah up with the cords they got him out of the water-hole: and Jeremiah was kept in the place of the armed watchmen.
+
+**[38:14]** Then King Zedekiah sent for Jeremiah the prophet and took him into the rulers' doorway in the house of the Lord: and the king said to Jeremiah, I have a question to put to you; keep nothing back from me.
+
+**[38:15]** Then Jeremiah said to Zedekiah, If I give you the answer to your question, will you not certainly put me to death? and if I make a suggestion to you, you will not give it a hearing.
+
+**[38:16]** So King Zedekiah gave his oath to Jeremiah secretly, saying, By the living Lord, who gave us our life, I will not put you to death, or give you up to these men who are desiring to take your life.
+
+**[38:17]** Then Jeremiah said to Zedekiah, These are the words of the Lord, the God of armies, the God of Israel: If you go out to the king of Babylon's captains, then you will have life, and the town will not be burned with fire, and you and your family will be kept from death:
+
+**[38:18]** But if you do not go out to the king of Babylon's captains, then this town will be given into the hands of the Chaldaeans and they will put it on fire, and you will not get away from them.
+
+**[38:19]** And King Zedekiah said to Jeremiah, I am troubled on account of the Jews who have gone over to the Chaldaeans, for fear that they may give me up to them and they will put me to shame.
+
+**[38:20]** But Jeremiah said, They will not give you up: be guided now by the word of the Lord as I have given it to you, and it will be well for you, and you will keep your life.
+
+**[38:21]** But if you do not go out, this is what the Lord has made clear to me:
+
+**[38:22]** See, all the rest of the women in the house of the king of Judah will be taken out to the king of Babylon's captains, and these women will say, Your nearest friends have been false to you and have got the better of you: they have made your feet go deep into the wet earth, and they are turned away back from you.
+
+**[38:23]** And they will take all your wives and your children out to the Chaldaeans: and you will not get away out of their hands, but will be taken by the hands of the king of Babylon: and this town will be burned with fire.
+
+**[38:24]** Then Zedekiah said to Jeremiah, Let no man have knowledge of these words, and you will not be put to death.
+
+**[38:25]** But if it comes to the ears of the rulers that I have been talking with you, and they come and say to you, Give us word now of what you have said to the king and what the king said to you, keeping nothing back and we will not put you to death;
+
+**[38:26]** Then you are to say to them, I made my request to the king, that he would not send me back to my death in Jonathan's house.
+
+**[38:27]** Then all the rulers came to Jeremiah, questioning him: and he gave them an answer in the words the king had given him orders to say. So they said nothing more to him; for the thing was not made public.
+
+**[38:28]** So Jeremiah was kept in the place of the armed watchmen till the day when Jerusalem was taken.
+
+**[39:1]** And it came about, that when Jerusalem was taken, (in the ninth year of Zedekiah, king of Judah, in the tenth month, Nebuchadrezzar, king of Babylon, with all his army, came against Jerusalem, shutting it in on every side;
+
+**[39:2]** In the eleventh year of Zedekiah, in the fourth month, on the ninth day of the month, the town was broken into:)
+
+**[39:3]** All the captains of the king of Babylon came in and took their places in the middle doorway of the town, Nergal-shar-ezer, ruler of Sin-magir, the Rabmag, and Nebushazban, the Rab-saris, and all the captains of the king of Babylon.
+
+**[39:4]** And when Zedekiah, king of Judah, and all the men of war saw it, they went in flight from the town by night, by the way of the king's garden, through the doorway between the two walls: and they went out by the Arabah.
+
+**[39:5]** But the Chaldaean army went after them and overtook Zedekiah in the lowlands of Jericho: and they made him a prisoner and took him up to Nebuchadrezzar, king of Babylon, to Riblah in the land of Hamath, to be judged by him.
+
+**[39:6]** Then the king of Babylon put the sons of Zedekiah to death before his eyes in Riblah: and the king of Babylon put to death all the great men of Judah.
+
+**[39:7]** And more than this, he put out Zedekiah's eyes, and had him put in chains to take him away to Babylon.
+
+**[39:8]** And the Chaldaeans put the king's house on fire, as well as the houses of the people, and had the walls of Jerusalem broken down.
+
+**[39:9]** Then Nebuzaradan, the captain of the armed men, took away to Babylon as prisoners, all the rest of the workmen who were still in the town, as well as those who had given themselves up to him, and all the rest of the people.
+
+**[39:10]** But Nebuzaradan, the captain of the armed men, let the poorest of the people, who had nothing whatever, go on living in the land of Judah, and gave them vine-gardens and fields at the same time.
+
+**[39:11]** Now Nebuchadrezzar, king of Babylon, gave orders about Jeremiah to Nebuzaradan, the captain of the armed men, saying,
+
+**[39:12]** Take him and keep an eye on him and see that no evil comes to him; but do with him whatever he says to you.
+
+**[39:13]** So Nebuzaradan, the captain of the armed men, sent Nebushazban, the Rab-saris, and Nergal-shar-ezer, the Rabmag, and all the chief captains of the king of Babylon,
+
+**[39:14]** And they sent and took Jeremiah out of the place of the watchmen, and gave him into the care of Gedaliah, the son of Ahikam, the son of Shaphan, to take him to his house: so he was living among the people.
+
+**[39:15]** Now the word of the Lord came to Jeremiah while he was shut up in the place of the armed watchmen, saying,
+
+**[39:16]** Go and say to Ebed-melech the Ethiopian, This is what the Lord of armies, the God of Israel, has said: See, my words will come true for this town, for evil and not for good: they will come about before your eyes on that day.
+
+**[39:17]** But I will keep you safe on that day, says the Lord: you will not be given into the hands of the men you are fearing.
+
+**[39:18]** For I will certainly let you go free, and you will not be put to the sword, but your life will be given to you out of the hands of your attackers: because you have put your faith in me, says the Lord.
+
+**[40:1]** The word which came to Jeremiah from the Lord, after Nebuzaradan, the captain of the armed men, had let him go from Ramah, when he had taken him; for he had been put in chains, among all the prisoners of Jerusalem and Judah who were taken away prisoners to Babylon.
+
+**[40:2]** And the captain of the armed men took Jeremiah and said to him, The Lord your God gave word of the evil which was to come on this place:
+
+**[40:3]** *** and the Lord has made it come, and has done as he said; because of your sin against the Lord in not giving ear to his voice; and that is why this thing has come on you.
+
+**[40:4]** Now see, this day I am freeing you from the chains which are on your hands. If it seems good to you to come with me to Babylon, then come, and I will keep an eye on you; but if it does not seem good to you to come with me to Babylon, then do not come: see, all the land is before you; if it seems good and right to you to go on living in the land,
+
+**[40:5]** Then go back to Gedaliah, the son of Ahikam, the son of Shaphan, whom the king of Babylon has made ruler over the towns of Judah, and make your living-place with him among the people; or go wherever it seems right to you to go. So the captain of the armed men gave him food and some money and let him go.
+
+**[40:6]** So Jeremiah went to Gedaliah, the son of Ahikam, in Mizpah, and was living with him among the people who were still in the land.
+
+**[40:7]** Now when it came to the ears of all the captains of the forces who were in the field, and their men, that the king of Babylon had made Gedaliah, the son of Ahikam, ruler in the land, and had put under his care the men and women and children, all the poorest of the land, those who had not been taken away to Babylon;
+
+**[40:8]** Then they came to Gedaliah in Mizpah, even Ishmael, the son of Nethaniah, and Johanan, the son of Kareah, and Seraiah, the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah, the son of the Maacathite, they and their men.
+
+**[40:9]** And Gedaliah, the son of Ahikam, the son of Shaphan, took an oath to them and their men, saying, Have no fear of the servants of the Chaldaeans: go on living in the land, and become the servants of the king of Babylon, and all will be well.
+
+**[40:10]** As for me, I will be living in Mizpah as your representative before the Chaldaeans who come to us: but you are to get in your wine and summer fruits and oil and put them in your vessels, and make living-places for yourselves in the towns which you have taken.
+
+**[40:11]** In the same way, when all the Jews who were in Moab and among the children of Ammon and in Edom and in all the countries, had news that the king of Babylon had let Judah keep some of its people and that he had put over them Gedaliah, the son of Ahikam, the son of Shaphan;
+
+**[40:12]** Then all the Jews came back from all the places to which they had gone in flight, and came to the land of Judah, to Gedaliah, to Mizpah, and got in a great store of wine and summer fruit.
+
+**[40:13]** Now Johanan, the son of Kareah, and all the captains of the forces which were in the field, came to Gedaliah in Mizpah,
+
+**[40:14]** And said to him, Has it come to your knowledge that Baalis, the king of the children of Ammon, has sent Ishmael, the son of Nethaniah, to take your life? But Gedaliah, the son of Ahikam, put no faith in what they said.
+
+**[40:15]** Then Johanan, the son of Kareah, said to Gedaliah in Mizpah secretly, Let me now go and put Ishmael, the son of Nethaniah, to death without anyone's knowledge: why let him take your life so that all the Jews who have come together to you may be sent in flight, and the rest of the men of Judah come to an end?
+
+**[40:16]** But Gedaliah, the son of Ahikam, said to Johanan, the son of Kareah, You are not to do this: for what you say about Ishmael is false.
+
+**[41:1]** Now it came about in the seventh month that Ishmael, the son of Nethaniah, the son of Elishama, of the king's seed, having with him ten men, came to Gedaliah, the son of Ahikam, in Mizpah; and they had a meal together in Mizpah.
+
+**[41:2]** Then Ishmael, the son of Nethaniah, and the ten men who were with him, got up, and attacking Gedaliah, the son of Ahikam, the son of Shaphan, with the sword, put to death him whom the king of Babylon had made ruler over the land.
+
+**[41:3]** And Ishmael put to death all the Jews who were with him, even with Gedaliah, at Mizpah, and the Chaldaean men of war.
+
+**[41:4]** Now on the second day after he had put Gedaliah to death, when no one had knowledge of it,
+
+**[41:5]** Some people came from Shechem, from Shiloh and Samaria, eighty men, with the hair of their faces cut off and their clothing out of order, and with cuts on their bodies, and in their hands meal offerings and perfumes which they were taking to the house of the Lord.
+
+**[41:6]** And Ishmael, the son of Nethaniah, went out from Mizpah with the purpose of meeting them, weeping on his way: and it came about that when he was face to face with them he said, Come to Gedaliah, the son of Ahikam.
+
+**[41:7]** And when they came inside the town, Ishmael, the son of Nethaniah, and the men who were with him, put them to death and put their bodies into a deep hole.
+
+**[41:8]** But there were ten men among them who said to Ishmael, Do not put us to death, for we have secret stores, in the country, of grain and oil and honey. So he did not put them to death with their countrymen.
+
+**[41:9]** Now the hole into which Ishmael had put the dead bodies of the men whom he had put to death, was the great hole which Asa the king had made for fear of Baasha, king of Israel: and Ishmael, the son of Nethaniah, made it full of the bodies of those who had been put to death.
+
+**[41:10]** Then Ishmael took away as prisoners all the rest of the people who were in Mizpah, the king's daughters and all the people still in Mizpah, whom Nebuzaradan, the captain of the armed men, had put under the care of Gedaliah, the son of Ahikam: Ishmael, the son of Nethaniah, took them away prisoners with the purpose of going over to the children of Ammon.
+
+**[41:11]** But when Johanan, the son of Kareah, and all the captains of the armed forces who were with him, had news of all the evil which Ishmael, the son of Nethaniah, had done,
+
+**[41:12]** They took their men and went out to make war on Ishmael, the son of Nethaniah, and they came face to face with him by the great waters in Gibeon.
+
+**[41:13]** Now when all the people who were with Ishmael saw Johanan, the son of Kareah, and all the captains of the forces with him, then they were glad.
+
+**[41:14]** And all the people whom Ishmael had taken away prisoners from Mizpah, turning round, came back and went to Johanan, the son of Kareah.
+
+**[41:15]** But Ishmael, the son of Nethaniah, got away from Johanan, with eight men, and went to the children of Ammon.
+
+**[41:16]** Then Johanan, the son of Kareah, and all the captains of the forces who were with him, took all the rest of the people whom Ishmael, the son of Nethaniah, had made prisoners, after he had put to death Gedaliah, the son of Ahikam, the people from Mizpah, that is, the men of war and the women and the children and the unsexed servants, whom he had taken back with him from Gibeon:
+
+**[41:17]** And they went and were living in the resting-place of Chimham, which is near Beth-lehem on the way into Egypt,
+
+**[41:18]** Because of the Chaldaeans: for they were in fear of them because Ishmael, the son of Nethaniah, had put to death Gedaliah, the son of Ahikam, whom the king of Babylon had made ruler over the land.
+
+**[42:1]** Then all the captains of the forces, and Johanan, the son of Kareah, and Jezaniah, the son of Hoshaiah, and all the people from the least to the greatest, came near,
+
+**[42:2]** And said to Jeremiah the prophet, Let our request come before you, and make prayer for us to the Lord your God, even for this small band of us; for we are only a small band out of what was a great number, as your eyes may see:
+
+**[42:3]** That the Lord your God may make clear to us the way in which we are to go and what we are to do.
+
+**[42:4]** Then Jeremiah the prophet said to them, I have given ear to you; see, I will make prayer to the Lord your God, as you have said; and it will be that, whatever the Lord may say in answer to you, I will give you word of it, keeping nothing back.
+
+**[42:5]** Then they said to Jeremiah, May the Lord be a true witness against us in good faith, if we do not do everything which the Lord your God sends you to say to us.
+
+**[42:6]** If it is good or if it is evil, we will be guided by the voice of the Lord our God, to whom we are sending you; so that it may be well for us when we give ear to the voice of the Lord our God.
+
+**[42:7]** And it came about that after ten days the word of the Lord came to Jeremiah.
+
+**[42:8]** And he sent for Johanan, the son of Kareah, and all the captains of the forces who were still with him, and all the people, from the least to the greatest,
+
+**[42:9]** And said to them, These are the words of the Lord, the God of Israel, to whom you sent me to put your request before him:
+
+**[42:10]** If you still go on living in the land, then I will go on building you up and not pulling you down, planting you and not uprooting you: for my purpose of doing evil to you has been changed.
+
+**[42:11]** Have no fear of the king of Babylon, of whom you are now in fear; have no fear of him, says the Lord: for I am with you to keep you safe and to give you salvation from his hands.
+
+**[42:12]** And I will have mercy on you, so that he may have mercy on you and let you go back to your land.
+
+**[42:13]** But if you say, We have no desire to go on living in this land; and do not give ear to the voice of the Lord your God,
+
+**[42:14]** Saying, No, but we will go into the land of Egypt, where we will not see war, or be hearing the sound of the horn, or be in need of food; there we will make our living-place;
+
+**[42:15]** Then give ear now to the word of the Lord, O you last of Judah: the Lord of armies, the God of Israel, has said, If your minds are fixed on going into Egypt and stopping there;
+
+**[42:16]** Then it will come about that the sword, which is the cause of your fear, will overtake you there in the land of Egypt, and need of food, which you are fearing, will go after you there in Egypt; and there death will come to you.
+
+**[42:17]** Such will be the fate of all the men whose minds are fixed on going into Egypt and stopping there; they will come to their end by the sword, by being short of food, and by disease: not one of them will keep his life or get away from the evil which I will send on them.
+
+**[42:18]** For this is what the Lord of armies, the God of Israel, has said: As my wrath and passion have been let loose on the people of Jerusalem, so will my passion be let loose on you when you go into Egypt: and you will become an oath and a cause of wonder and a curse and a name of shame; and you will never see this place again.
+
+**[42:19]** The Lord has said about you, O last of Judah, Go not into Egypt: be certain that I have given witness to you this day.
+
+**[42:20]** For you have been acting with deceit in your hearts; for you sent me to the Lord your God, saying, Make prayer for us to the Lord our God, and give us word of everything he may say, and we will do it.
+
+**[42:21]** And this day I have made it clear to you, and you have not given ear to the voice of the Lord your God in anything for which he has sent me to you.
+
+**[42:22]** And now be certain that you will come to your end by the sword and by being short of food and by disease, in the place to which you are pleased to go for a living-place.
+
+**[43:1]** And it came about that when Jeremiah had come to the end of giving all the people the words of the Lord their God, which the Lord their God had sent him to say to them, even all these words,
+
+**[43:2]** Then Azariah, the son of Hoshaiah, and Johanan, the son of Kareah, and all the men of pride, said to Jeremiah, You have said what is false: the Lord our God has not sent you to say, You are not to go into the land of Egypt and make your living-place there:
+
+**[43:3]** But Baruch, the son of Neriah, is moving you against us, to give us up into the hands of the Chaldaeans so that they may put us to death, and take us away prisoners into Babylon.
+
+**[43:4]** So Johanan, the son of Kareah, and all the captains of the forces, and all the people, did not give ear to the order of the Lord that they were to go on living in the land of Judah.
+
+**[43:5]** But Johanan, the son of Kareah, and all the captains of the forces took all the rest of Judah who had come back into the land of Judah from all the nations where they had been forced to go;
+
+**[43:6]** The men and the women and the children and the king's daughters, and every person whom Nebuzaradan, the captain of the armed men, had put under the care of Gedaliah, the son of Ahikam, the son of Shaphan, and Jeremiah the prophet and Baruch, the son of Neriah;
+
+**[43:7]** And they came into the land of Egypt; for they did not give ear to the voice of the Lord: and they came to Tahpanhes.
+
+**[43:8]** Then the word of the Lord came to Jeremiah in Tahpanhes, saying,
+
+**[43:9]** Take in your hand some great stones, and put them in a safe place in the paste in the brickwork which is at the way into Pharaoh's house in Tahpanhes, before the eyes of the men of Judah;
+
+**[43:10]** And say to them, This is what the Lord of armies, the God of Israel, has said: See, I will send and take Nebuchadrezzar, the king of Babylon, my servant, and he will put the seat of his kingdom on these stones which have been put in a safe place here by you; and his tent will be stretched over them.
+
+**[43:11]** And he will come and overcome the land of Egypt; those who are for death will be put to death, those who are to be prisoners will be made prisoners, and those who are for the sword will be given to the sword.
+
+**[43:12]** And he will put a fire in the houses of the gods of Egypt; and they will be burned by him: and he will make Egypt clean as a keeper of sheep makes clean his clothing; and he will go out from there in peace.
+
+**[43:13]** And the stone pillars of Beth-shemesh in the land of Egypt will be broken by him, and the houses of the gods of Egypt burned with fire.
+
+**[44:1]** The word which came to Jeremiah about all the Jews who were living in the land of Egypt, in Migdol and at Tahpanhes and at Noph and in the country of Pathros, saying,
+
+**[44:2]** The Lord of armies, the God of Israel, has said: You have seen all the evil which I have sent on Jerusalem and on all the towns of Judah; and now, this day they are waste and unpeopled;
+
+**[44:3]** Because of the evil which they have done, moving me to wrath by burning perfumes in worship to other gods, who were not their gods or yours or the gods of their fathers.
+
+**[44:4]** And I sent all my servants the prophets to you, getting up early and sending them, saying, Do not do this disgusting thing which is hated by me.
+
+**[44:5]** But they gave no attention, and their ears were not open so that they might be turned from their evil-doing and from burning perfume to other gods.
+
+**[44:6]** Because of this, my passion and my wrath were let loose, burning in the towns of Judah and in the streets of Jerusalem; and they are waste and unpeopled as at this day.
+
+**[44:7]** So now, the Lord, the God of armies, the God of Israel, has said, Why are you doing this great evil against yourselves, causing every man and woman, little child and baby at the breast among you in Judah to be cut off till not one is still living;
+
+**[44:8]** Moving me to wrath with the work of your hands, burning perfumes to other gods in the land of Egypt, where you have gone to make a place for yourselves, so that you may become a curse and a name of shame among all the nations of the earth?
+
+**[44:9]** Have you no memory of the evil-doing of your fathers, and the evil-doing of the kings of Judah, and the evil-doing of their wives, and the evil which you yourselves have done, and the evil which your wives have done, in the land of Judah and in the streets of Jerusalem?
+
+**[44:10]** Even to this day their hearts are not broken, and they have no fear, and have not gone in the way of my law or of my rules which I gave to you and to your fathers.
+
+**[44:11]** So this is what the Lord of armies, the God of Israel, has said: See, my face will be turned against you for evil, for the cutting off of all Judah;
+
+**[44:12]** And I will take the last of Judah, whose minds are fixed on going into the land of Egypt and stopping there, and they will all come to their end, falling in the land of Egypt by the sword and by being short of food and by disease; death will overtake them, from the least to the greatest, death by the sword and by need of food: they will become an oath and a cause of wonder and a curse and a name of shame.
+
+**[44:13]** For I will send punishment on those who are living in the land of Egypt, as I have sent punishment on Jerusalem, by the sword and by need of food and by disease:
+
+**[44:14]** So that not one of the rest of Judah, who have gone into the land of Egypt and are living there, will get away or keep his life, to come back to the land of Judah where they are hoping to come back and be living again: for not one will come back, but only those who are able to get away.
+
+**[44:15]** Then all the men who had knowledge that their wives were burning perfumes to other gods, and all the women who were present, a great meeting, answering Jeremiah, said,
+
+**[44:16]** As for the word which you have said to us in the name of the Lord, we will not give ear to you.
+
+**[44:17]** But we will certainly do every word which has gone out of our mouths, burning perfumes to the queen of heaven and draining out drink offerings to her as we did, we and our fathers and our kings and our rulers, in the towns of Judah and in the streets of Jerusalem: for then we had food enough and did well and saw no evil.
+
+**[44:18]** But from the time when we gave up burning perfumes to the queen of heaven and draining out drink offerings to her, we have been in need of all things, and have been wasted by the sword and by need of food.
+
+**[44:19]** And the women said, When we were burning perfumes to the queen of heaven and draining out drink offerings to her, did we make cakes in her image and give her our drink offerings without the knowledge of our husbands?
+
+**[44:20]** Then Jeremiah said to all the people, to the men and women and all the people who had given him that answer,
+
+**[44:21]** The perfumes which you have been burning in the towns of Judah and in the streets of Jerusalem, you and your fathers and your kings and your rulers and the people of the land, had the Lord no memory of them, and did he not keep them in mind?
+
+**[44:22]** And the Lord was no longer able to put up with the evil of your doings and the disgusting things you did; and because of this your land has become a waste and a cause of wonder and a curse, with no one living in it, as at this day.
+
+**[44:23]** Because you have been burning perfumes, and sinning against the Lord, and have not given ear to the voice of the Lord, or gone in the way of his law or his rules or his orders; for this reason this evil has come on you, as it is today.
+
+**[44:24]** Further, Jeremiah said to all the people and all the women, Give ear to the word of the Lord, all those of Judah who are living in Egypt:
+
+**[44:25]** This is what the Lord of armies, the God of Israel, has said: You women have said with your mouths, and with your hands you have done what you said, We will certainly give effect to the oaths we have made, to have perfumes burned to the queen of heaven and drink offerings drained out to her: then give effect to your oaths and do them.
+
+**[44:26]** And now give ear to the word of the Lord, all you of Judah who are living in the land of Egypt: Truly, I have taken an oath by my great name, says the Lord, that my name is no longer to be named in the mouth of any man of Judah in all the land of Egypt, saying, By the life of the Lord God.
+
+**[44:27]** See, I am watching over them for evil and not for good: all the men of Judah who are in the land of Egypt will be wasted by the sword and by need of food till there is an end of them.
+
+**[44:28]** And those who get away safe from the sword will come back from the land of Egypt to the land of Judah, a very small number; and all the rest of Judah, who have gone into the land of Egypt and are living there, will see whose word has effect, mine or theirs.
+
+**[44:29]** And this will be the sign to you, says the Lord, that I will give you punishment in this place, so that you may see that my words will certainly have effect against you for evil:
+
+**[44:30]** The Lord has said, See, I will give up Pharaoh Hophra, king of Egypt, into the hands of those who are fighting against him and desiring to take his life, as I gave Zedekiah, king of Judah, into the hands of Nebuchadrezzar, king of Babylon, his hater, who had designs against his life.
+
+**[45:1]** The words which Jeremiah the prophet said to Baruch, the son of Neriah, when he put these words down in a book from the mouth of Jeremiah, in the fourth year of Jehoiakim, the son of Josiah, king of Judah; he said,
+
+**[45:2]** This is what the Lord, the God of Israel, has said of you, O Baruch:
+
+**[45:3]** You said, Sorrow is mine! for the Lord has given me sorrow in addition to my pain; I am tired with the sound of my sorrow, and I get no rest.
+
+**[45:4]** This is what you are to say to him: The Lord has said, Truly, the building which I put up will be broken down, and that which was planted by me will be uprooted, and this through all the land;
+
+**[45:5]** And as for you, are you looking for great things for yourself? Have no desire for them: for truly I will send evil on all flesh, says the Lord: but your life I will keep safe from attack wherever you go.
+
+**[46:1]** The word of the Lord which came to Jeremiah the prophet about the nations.
+
+**[46:2]** Of Egypt: about the army of Pharaoh-neco, king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar, king of Babylon, overcame in the fourth year of Jehoiakim, the son of Josiah, king of Judah.
+
+**[46:3]** Get out the breastplate and body-cover, and come together to the fight.
+
+**[46:4]** Make the horses ready, and get up, you horsemen, and take your places with your head-dresses; make the spears sharp and put on the breastplates.
+
+**[46:5]** What have I seen? they are overcome with fear and turned back; their men of war are broken and have gone in flight, not looking back: fear is on every side, says the Lord.
+
+**[46:6]** Let not the quick-footed go in flight, or the man of war get away; on the north, by the river Euphrates, they are slipping and falling.
+
+**[46:7]** Who is this coming up like the Nile, whose waters are lifting their heads like the rivers?
+
+**[46:8]** Egypt is coming up like the Nile, and his waters are lifting their heads like the rivers, and he says, I will go up, covering the earth; I will send destruction on the town and its people.
+
+**[46:9]** Go up, you horses; go rushing on, you carriages of war; go out, you men of war: Cush and Put, gripping the body-cover, and the Ludim, with bent bows.
+
+**[46:10]** But that day is the day of the Lord, the Lord of armies, a day of punishment when he will take payment from his haters: and the sword will have all its desire, drinking their blood in full measure: for there is an offering to the Lord, the Lord of armies, in the north country by the river Euphrates.
+
+**[46:11]** Go up to Gilead and take sweet oil, O virgin daughter of Egypt: there is no help in all your medical arts; nothing will make you well.
+
+**[46:12]** Your shame has come to the ears of the nations, and the earth is full of your cry: for the strong man is falling against the strong, they have come down together.
+
+**[46:13]** The word which the Lord said to Jeremiah the prophet, of how Nebuchadrezzar, king of Babylon, would come and make war on the land of Egypt.
+
+**[46:14]** Give the news in Migdol, make it public in Noph: say, Take up your positions and make yourselves ready; for on every side of you the sword has made destruction.
+
+**[46:15]** Why has Apis, your strong one, gone in flight? he was not able to keep his place, because the Lord was forcing him down with strength.
+
+**[46:16]** ... are stopped in their going, they are falling; and they say one to another, Let us get up and go back to our people, to the land of our birth, away from the cruel sword.
+
+**[46:17]** Give a name to Pharaoh, king of Egypt: A noise who has let the time go by.
+
+**[46:18]** By my life, says the King, whose name is the Lord of armies, truly, like Tabor among the mountains and like Carmel by the sea, so will he come.
+
+**[46:19]** O daughter living in Egypt, make ready the vessels of a prisoner: for Noph will become a waste, it will be burned up and become unpeopled.
+
+**[46:20]** Egypt is a fair young cow; but a biting insect has come on her out of the north.
+
+**[46:21]** And those who were her fighters for payment are like fat oxen; for they are turned back, they have gone in flight together, they do not keep their place: for the day of their fate has come on them, the time of their punishment.
+
+**[46:22]** She makes a sound like the hiss of a snake when they come on with strength; they go against her with axes, like wood-cutters.
+
+**[46:23]** They will be cutting down her woods, for they may not be searched out; because they are like locusts, more than may be numbered.
+
+**[46:24]** The daughter of Egypt will be put to shame; she will be given up into the hands of the people of the north.
+
+**[46:25]** The Lord of armies, the God of Israel, has said: See, I will send punishment on Amon of No and on Pharaoh and on those who put their faith in him;
+
+**[46:26]** And I will give them up into the hands of those who will take their lives, and into the hands of Nebuchadrezzar, king of Babylon, and into the hands of his servants: and later, it will be peopled as in the past, says the Lord.
+
+**[46:27]** But have no fear, O Jacob, my servant, and do not be troubled, O Israel: for see, I will make you come back from far away, and your seed from the land where they are prisoners; and Jacob will come back, and will be quiet and in peace, and no one will give him cause for fear.
+
+**[46:28]** Have no fear, O Jacob, my servant, says the Lord; for I am with you: for I will put an end to all the nations where I have sent you, but I will not put an end to you completely: though with wise purpose I will put right your errors, and will not let you go quite without punishment.
+
+**[47:1]** The word of the Lord which came to Jeremiah the prophet about the Philistines, before Pharaoh's attack on Gaza.
+
+**[47:2]** This is what the Lord has said: See, waters are coming up out of the north, and will become an overflowing stream, overflowing the land and everything in it, the town and those who are living in it; and men will give a cry, and all the people of the land will be crying out in pain.
+
+**[47:3]** At the noise of the stamping of the feet of his war-horses, at the rushing of his carriages and the thunder of his wheels, fathers will give no thought to their children, because their hands are feeble;
+
+**[47:4]** Because of the day which is coming with destruction on all the Philistines, cutting off from Tyre and Zidon the last of their helpers: for the Lord will send destruction on the Philistines, the rest of the sea-land of Caphtor.
+
+**[47:5]** The hair is cut off from the head of Gaza; Ashkelon has come to nothing; the last of the Anakim are deeply wounding themselves.
+
+**[47:6]** O sword of the Lord, how long will you have no rest? put yourself back into your cover; be at peace, be quiet.
+
+**[47:7]** How is it possible for it to be quiet, seeing that the Lord has given it orders? against Ashkelon and against the sea-land he has given it directions.
+
+**[48:1]** Of Moab. The Lord of armies, the God of Israel, has said: Sorrow on Nebo, for it has been made waste; Kiriathaim has been put to shame and is taken: the strong place is put to shame and broken down.
+
+**[48:2]** The praise of Moab has come to an end; as for Heshbon, evil has been designed against her; come, let us put an end to her as a nation. But your mouth will be shut, O Madmen; the sword will go after you.
+
+**[48:3]** There is the sound of crying from Horonaim, wasting and great destruction;
+
+**[48:4]** Moab is broken; her cry has gone out to Zoar.
+
+**[48:5]** For by the slope of Luhith they will go up, weeping all the way; for on the way down to Horonaim the cry of destruction has come to their ears.
+
+**[48:6]** Go in flight, get away with your lives, and let your faces be turned to Aroer in the Arabah.
+
+**[48:7]** For because you have put your faith in your strong places, you, even you, will be taken: and Chemosh will go out as a prisoner, his priests and his rulers together.
+
+**[48:8]** And the attacker will come against every town, not one will be safe; and the valley will be made waste, and destruction will come to the lowland, as the Lord has said.
+
+**[48:9]** Put up a pillar for Moab, for she will come to a complete end: and her towns will become a waste, without anyone living in them.
+
+**[48:10]** Let him be cursed who does the Lord's work half-heartedly; let him be cursed who keeps back his sword from blood.
+
+**[48:11]** From his earliest days, Moab has been living in comfort; like wine long stored he has not been drained from vessel to vessel, he has never gone away as a prisoner: so his taste is still in him, his smell is unchanged.
+
+**[48:12]** So truly, the days are coming, says the Lord, when I will send to him men who will have him turned over till there is no more wine in his vessels, and his wine-skins will be completely broken.
+
+**[48:13]** And Moab will be shamed on account of Chemosh, as the children of Israel were shamed on account of Beth-el their hope.
+
+**[48:14]** How say you, We are men of war and strong fighters?
+
+**[48:15]** He who makes Moab waste has gone up against her; and the best of her young men have gone down to their death, says the King, whose name is the Lord of armies.
+
+**[48:16]** The fate of Moab is near, and trouble is coming on him very quickly.
+
+**[48:17]** All you who are round about him, give signs of grief for him, and all you who have knowledge of his name, say, How is the strong rod broken, even the beautiful branch!
+
+**[48:18]** Come down from your glory, O people of Dibon, and take your seat in the place of the waste; for the attacker of Moab has gone up against you, sending destruction on your strong places.
+
+**[48:19]** O daughter of Aroer, take your station by the way, on the watch: questioning him who is in flight, and her who has got away safe, say, What has been done?
+
+**[48:20]** Moab has been put to shame, she is broken: make loud sounds of grief, crying out for help; give the news in Arnon, that Moab has been made waste.
+
+**[48:21]** And punishment has come on the lowlands; on Holon and Jahzah, and on Mephaath,
+
+**[48:22]** And on Dibon, and on Nebo, and on Beth-diblathaim,
+
+**[48:23]** And on Kiriathaim, and on Beth-gamul, and on Beth-meon,
+
+**[48:24]** And on Kerioth, and on Bozrah, and on all the towns of the land of Moab, far and near.
+
+**[48:25]** The horn of Moab is cut off, and his arm is broken, says the Lord.
+
+**[48:26]** Make him full of wine, for his heart has been lifted up against the Lord: and Moab will be rolling in the food he was not able to keep down, and everyone will be making sport of him.
+
+**[48:27]** For did you not make sport of Israel? was he taken among thieves? for whenever you were talking about him, you were shaking your head over him.
+
+**[48:28]** O people of Moab, go away from the towns and take cover in the rock; be like the dove of the Arabah, which makes her living-place in holes.
+
+**[48:29]** We have had word of the pride of Moab, how great it is; how he is lifted up in pride; and his great opinion of himself, and that his heart is lifted up.
+
+**[48:30]** I have knowledge of his wrath, says the Lord, that it is nothing; his high-sounding words have done nothing.
+
+**[48:31]** For this cause I will give cries of grief for Moab, crying out for Moab, even for all of it; I will be sorrowing for the men of Kir-heres.
+
+**[48:32]** My weeping for you, O vine of Sibmah, will be more than the weeping of Jazer: your branches have gone over the sea, stretching even to Jazer: destruction has come down on your summer fruits and your cut grapes.
+
+**[48:33]** All joy is gone; no longer are they glad for the fertile field and for the land of Moab; I have made the wine come to an end from the crushing vessels: no longer will the grapes be crushed with the sound of glad voices.
+
+**[48:34]** The cry of Heshbon comes even to Elealeh; to Jahaz their voice is sounding; from Zoar even to Horonaim and to Eglath-shelishiyah: for the waters of Nimrim will become dry.
+
+**[48:35]** And I will put an end in Moab, says the Lord, to him who is making offerings in the high place and burning perfumes to his gods.
+
+**[48:36]** So my heart is sounding for Moab like the sound of pipes, and my heart is sounding like pipes for the men of Kir-heres: for the wealth he has got for himself has come to an end.
+
+**[48:37]** For everywhere the hair of the head and the hair of the face is cut off: on every hand there are wounds, and haircloth on every body.
+
+**[48:38]** On all the house-tops of Moab and in its streets there is weeping everywhere; for Moab has been broken like a vessel in which there is no pleasure, says the Lord.
+
+**[48:39]** How is it broken down! how is Moab's back turned in shame! so Moab will be a cause of sport and of fear to everyone round about him.
+
+**[48:40]** For the Lord has said, See, he will come like an eagle in flight, stretching out his wings against Moab.
+
+**[48:41]** Kerioth is taken, and the strong places have been forced, and the hearts of Moab's men of war in that day will be like the heart of a woman in birth-pains.
+
+**[48:42]** And Moab will come to an end as a people, because he has been lifting himself up against the Lord.
+
+**[48:43]** Fear and death and the net have come on you, O people of Moab, says the Lord.
+
+**[48:44]** He who goes in flight from the fear will be overtaken by death; and he who gets free from death will be taken in the net: for I will make this come on Moab, even the year of their punishment, says the Lord.
+
+**[48:45]** Those who went in flight from the fear are waiting under the shade of Heshbon: for a fire has gone out from Heshbon and a flame from the house of Sihon, burning up the pride of Moab and the crown of the head of the violent ones.
+
+**[48:46]** Sorrow is yours, O Moab! the people of Chemosh are overcome: for your sons have been taken away as prisoners, and your daughters made servants.
+
+**[48:47]** But still, I will let the fate of Moab be changed in the last days, says the Lord.
+
+**[49:1]** About the children of Ammon. These are the words of the Lord: Has Israel no sons? has he no one to take the heritage? why then has Milcom taken Gad for himself, putting his people in its towns?
+
+**[49:2]** Because of this, see, the days are coming when I will have a cry of war sounded against Rabbah, the town of the children of Ammon; it will become a waste of broken walls, and her daughter-towns will be burned with fire: then Israel will take the heritage of those who took his heritage, says the Lord.
+
+**[49:3]** Make sounds of grief, O Heshbon, for Ai is wasted; give loud cries, O daughters of Rabbah, and put haircloth round you: give yourselves to weeping, running here and there and wounding yourselves; for Milcom will be taken prisoner together with his rulers and his priests.
+
+**[49:4]** Why are you lifted up in pride on account of your valleys, your flowing valley, O daughter ever turning away? who puts her faith in her wealth, saying, Who will come against me?
+
+**[49:5]** See, I will send fear on you, says the Lord, the Lord of armies, from those who are round you on every side; you will be forced out, every man straight before him, and there will be no one to get together the wanderers.
+
+**[49:6]** But after these things, I will let the fate of the children of Ammon be changed, says the Lord.
+
+**[49:7]** About Edom. This is what the Lord of armies has said. Is there no more wisdom in Teman? have wise suggestions come to an end among men of good sense? has their wisdom completely gone?
+
+**[49:8]** Go in flight, go back, take cover in deep places, you who are living in Dedan; for I will send the fate of Edom on him, even the time of his punishment.
+
+**[49:9]** If men came to get your grapes, would they not let some be uncut on the vines? if thieves came by night, would they not make waste till they had enough?
+
+**[49:10]** I have had Esau searched out, uncovering his secret places, so that he may not keep himself covered: his seed is wasted and has come to an end, and there is no help from his neighbours.
+
+**[49:11]** Put in my care your children who have no father, and I will keep them safe; and let your widows put their faith in me.
+
+**[49:12]** For the Lord has said, Those for whom the cup was not made ready will certainly be forced to take of it; and are you to go without punishment? you will not be without punishment, but will certainly be forced to take from the cup.
+
+**[49:13]** For I have taken an oath by myself, says the Lord, that Bozrah will become a cause of wonder, a name of shame, a waste and a curse; and all its towns will be waste places for ever.
+
+**[49:14]** Word has come to me from the Lord, and a representative has been sent to the nations, to say, Come together and go up against her, and take your places for the fight.
+
+**[49:15]** For see, I have made you small among the nations, looked down on by men.
+
+**[49:16]** ... the pride of your heart has been a false hope, O you who are living in the cracks of the rock, keeping your place on the top of the hill: even if you made your living-place as high as the eagle, I would make you come down, says the Lord.
+
+**[49:17]** And Edom will become a cause of wonder: everyone who goes by will be overcome with wonder, and make sounds of fear at all her punishments.
+
+**[49:18]** As at the downfall of Sodom and Gomorrah and their neighbouring towns, says the Lord, no man will be living in it, no son of man will have a resting-place there.
+
+**[49:19]** See, he will come up like a lion from the thick growth of Jordan against the resting-place of Teman: but I will suddenly make him go in flight from her; and I will put over her the man of my selection: for who is like me? and who will put forward his cause against me? and what keeper of sheep will be able to keep his place before me?
+
+**[49:20]** For this cause give ear to the decision of the Lord which he has made against Edom, and to his purposes designed against the people of Teman: Truly, they will be pulled away by the smallest of the flock; truly, he will make waste their fields with them.
+
+**[49:21]** The earth is shaking with the noise of their fall; their cry is sounding in the Red Sea.
+
+**[49:22]** See, he will come up like an eagle in flight, stretching out his wings against Bozrah: and the hearts of Edom's men of war on that day will be like the heart of a woman in birth-pains.
+
+**[49:23]** About Damascus. Hamath is put to shame, and Arpad; for the word of evil has come to their ears, their heart in its fear is turned to water, it will not be quiet.
+
+**[49:24]** Damascus has become feeble, she is turned to flight, fear has taken her in its grip: pain and sorrows have come on her, as on a woman in birth-pains.
+
+**[49:25]** How has the town of praise been wasted, the place of joy!
+
+**[49:26]** So her young men will be falling in her streets, and all the men of war will be cut off in that day, says the Lord of armies.
+
+**[49:27]** And I will have a fire lighted on the wall of Damascus, burning up the great houses of Ben-hadad.
+
+**[49:28]** About Kedar and the kingdoms of Hazor, which Nebuchadrezzar, king of Babylon, overcame. This is what the Lord has said: Up! go against Kedar, and make an attack on the children of the east.
+
+**[49:29]** Their tents and their flocks they will take; they will take away for themselves their curtains and all their vessels and their camels: they will give a cry to them, Fear on every side.
+
+**[49:30]** Go in flight, go wandering far off, take cover in deep places, O people of Hazor, says the Lord; for Nebuchadrezzar, king of Babylon, has made a design against you, he has a purpose against you in mind.
+
+**[49:31]** Up! go against a nation which is living in comfort and without fear of danger, says the Lord, without doors or locks, living by themselves.
+
+**[49:32]** And their camels will be taken from them by force, and their great herds will come into the hands of their attackers: those who have the ends of their hair cut I will send in flight to all the winds; and I will send their fate on them from every side, says the Lord.
+
+**[49:33]** And Hazor will be a hole for jackals, a waste for ever: no one will be living in it, and no son of man will have a resting-place there.
+
+**[49:34]** The word of the Lord which came to Jeremiah the prophet about Elam, when Zedekiah first became king of Judah, saying,
+
+**[49:35]** This is what the Lord of armies has said: See, I will have the bow of Elam, their chief strength, broken.
+
+**[49:36]** And I will send on Elam four winds from the four quarters of heaven, driving them out to all those winds; there will be no nation into which the wanderers from Elam do not come.
+
+**[49:37]** And I will let Elam be broken before their haters, and before those who are making designs against their lives: I will send evil on them, even my burning wrath, says the Lord; and I will send the sword after them till I have put an end to them:
+
+**[49:38]** I will put the seat of my power in Elam, and in Elam I will put an end to kings and rulers, says the Lord.
+
+**[49:39]** But it will come about that, in the last days, I will let the fate of Elam be changed, says the Lord.
+
+**[50:1]** The word which the Lord said about Babylon, about the land of the Chaldaeans, by Jeremiah the prophet.
+
+**[50:2]** Give it out among the nations, make it public, and let the flag be lifted up; give the word and keep nothing back; say, Babylon is taken, Bel is put to shame, Merodach is broken, her images are put to shame, her gods are broken.
+
+**[50:3]** For out of the north a nation is coming up against her, which will make her land waste and unpeopled: they are in flight, man and beast are gone.
+
+**[50:4]** In those days and in that time, says the Lord, the children of Israel will come, they and the children of Judah together; they will go on their way weeping and making prayer to the Lord their God.
+
+**[50:5]** They will be questioning about the way to Zion, with their faces turned in its direction, saying, Come, and be united to the Lord in an eternal agreement which will be kept in mind for ever.
+
+**[50:6]** My people have been wandering sheep: their keepers have made them go out of the right way, turning them loose on the mountains: they have gone from mountain to hill, having no memory of their resting-place.
+
+**[50:7]** They have been attacked by all those who came across them: and their attackers said, We are doing no wrong, because they have done evil against the Lord in whom is righteousness, against the Lord, the hope of their fathers.
+
+**[50:8]** Go in flight out of Babylon, go out of the land of the Chaldaeans, and be like he-goats before the flocks.
+
+**[50:9]** For see, I am moving and sending up against Babylon a band of great nations from the north country: and they will put their armies in position against her; and from there she will be taken: their arrows will be like those of an expert man of war; not one will come back without getting its mark.
+
+**[50:10]** And the wealth of Chaldaea will come into the hands of her attackers: all those who take her wealth will have enough, says the Lord.
+
+**[50:11]** Because you are glad, because you are lifted up with pride, you wasters of my heritage, because you are playing like a young cow put out to grass, and you make a noise like strong horses;
+
+**[50:12]** Your mother will be put to shame; she who gave you birth will be looked down on: see, she will be the last of the nations, a waste place, a dry and unwatered land.
+
+**[50:13]** Because of the wrath of the Lord no one will be living in it, and it will be quite unpeopled: everyone who goes by Babylon will be overcome with wonder, and make sounds of fear at all her punishments.
+
+**[50:14]** Put your armies in position against Babylon on every side, all you bowmen; let loose your arrows at her, not keeping any back: for she has done evil against the Lord.
+
+**[50:15]** Give a loud cry against her on every side; she has given herself up, her supports are overturned, her walls are broken down: for it is the payment taken by the Lord; give her payment; as she has done, so do to her.
+
+**[50:16]** Let the planter of seed be cut off from Babylon, and everyone using the curved blade at the time of the grain-cutting: for fear of the cruel sword, everyone will be turned to his people, everyone will go in flight to his land.
+
+**[50:17]** Israel is a wandering sheep; the lions have been driving him away: first he was attacked by the king of Assyria, and now his bones have been broken by Nebuchadrezzar, king of Babylon.
+
+**[50:18]** So this is what the Lord of armies, the God of Israel, has said: See, I will send punishment on the king of Babylon and on his land, as I have given punishment to the king of Assyria.
+
+**[50:19]** And I will make Israel come back to his resting-place, and he will get his food on Carmel and Bashan, and have his desire in full measure on the hills of Ephraim and in Gilead.
+
+**[50:20]** In those days and in that time, says the Lord, when the evil-doing of Israel is looked for, there will be nothing; and in Judah no sins will be seen: for I will have forgiveness for those whom I will keep safe.
+
+**[50:21]** Go up against the land of Merathaim, even against it, and against the people of Pekod; put them to death and send destruction after them, says the Lord, and do everything I have given you orders to do.
+
+**[50:22]** There is a sound of war in the land and of great destruction.
+
+**[50:23]** How is the hammer of all the earth cut in two and broken! how has Babylon become a waste among the nations!
+
+**[50:24]** I have put a net for you, and you have been taken, O Babylon, without your knowledge: you have been uncovered and taken because you were fighting against the Lord.
+
+**[50:25]** From his store-house the Lord has taken the instruments of his wrath: for the Lord, the Lord of armies, has a work to do in the land of the Chaldaeans.
+
+**[50:26]** Come up against her one and all, let her store-houses be broken open: make her into a mass of stones, give her to the curse, till there is nothing of her to be seen.
+
+**[50:27]** Put all her oxen to the sword; let them go down to death: sorrow is theirs, for their day has come, the time of their punishment.
+
+**[50:28]** The voice of those who are in flight, who have got away safe from the land of Babylon, to give news in Zion of punishment from the Lord our God, even payment for his Temple.
+
+**[50:29]** Send for the archers to come together against Babylon, all the bowmen; put up your tents against her on every side; let no one get away: give her the reward of her work; as she has done, so do to her: for she has been uplifted in pride against the Lord, against the Holy One of Israel.
+
+**[50:30]** For this cause her young men will be falling in her streets, and all her men of war will be cut off in that day, says the Lord.
+
+**[50:31]** See, I am against you, O pride, says the Lord, the Lord of armies, for your day has come, the time when I will send punishment on you.
+
+**[50:32]** And pride will go with uncertain steps and have a fall, and there will be no one to come to his help: and I will put a fire in his towns, burning up everything round about him.
+
+**[50:33]** This is what the Lord of armies has said: The children of Israel and the children of Judah are crushed down together: all those who took them prisoner keep them in a tight grip; they will not let them go.
+
+**[50:34]** Their saviour is strong; the Lord of armies is his name: he will certainly take up their cause, so that he may give rest to the earth and trouble to the people of Babylon.
+
+**[50:35]** A sword is on the Chaldaeans, says the Lord, and on the people of Babylon, and on her rulers and on her wise men.
+
+**[50:36]** A sword is on the men of pride, and they will become foolish: a sword is on her men of war, and they will be broken.
+
+**[50:37]** A sword is on all the mixed people in her, and they will become like women: a sword is on her store-houses, and they will be taken by her attackers.
+
+**[50:38]** A sword is on her waters, drying them up; for it is a land of images, and their minds are fixed on false gods.
+
+**[50:39]** For this reason the beasts of the waste land with the wolves will make their holes there and the ostriches will be living in it: never again will men be living there, it will be unpeopled from generation to generation.
+
+**[50:40]** As when Sodom and Gomorrah and their neighbouring towns were overturned by God, says the Lord, so no man will be living in it, and no son of man will have a resting-place there.
+
+**[50:41]** See, a people is coming from the north; a great nation and a number of kings will be put in motion from the inmost parts of the earth.
+
+**[50:42]** Bows and spears are in their hands; they are cruel and have no mercy; their voice is like the thunder of the sea, and they go on horses; everyone in his place like men going to the fight, against you, O daughter of Babylon.
+
+**[50:43]** The king of Babylon has had news of them, and his hands have become feeble: trouble has come on him and pain like the pain of a woman in childbirth.
+
+**[50:44]** See, he will come up like a lion from the thick growth of Jordan against the resting-place of Teman: but I will suddenly make them go in flight from her; and I will put over her the man of my selection: for who is like me? and who will put forward his cause against me? and what keeper of sheep will keep his place before me?
+
+**[50:45]** So give ear to the decision of the Lord which he has made against Babylon, and to his purposes designed against the land of the Chaldaeans; Truly, they will be pulled away by the smallest of the flock; truly, he will make waste their fields with them.
+
+**[50:46]** At the cry, Babylon is taken! the earth is shaking, and the cry comes to the ears of the nations.
+
+**[51:1]** The Lord has said: See, I will make a wind of destruction come up against Babylon and against those who are living in Chaldaea;
+
+**[51:2]** And I will send men to Babylon to make her clean and get her land cleared: for in the day of trouble they will put up their tents against her on every side.
+
+**[51:3]** Against her the bow of the archer is bent, and he puts on his coat of metal: have no mercy on her young men, give all her army up to the curse.
+
+**[51:4]** And the dead will be stretched out in the land of the Chaldaeans, and the wounded in her streets.
+
+**[51:5]** For Israel has not been given up, or Judah, by his God, by the Lord of armies; for their land is full of sin against the Holy One of Israel.
+
+**[51:6]** Go in flight out of Babylon, so that every man may keep his life; do not be cut off in her evil-doing: for it is the time of the Lord's punishment; he will give her her reward.
+
+**[51:7]** Babylon has been a gold cup in the hand of the Lord, which has made all the earth overcome with wine: the nations have taken of her wine, and for this cause the nations have gone off their heads.
+
+**[51:8]** Sudden is the downfall of Babylon and her destruction: make cries of grief for her; take sweet oil for her pain, if it is possible for her to be made well.
+
+**[51:9]** We would have made Babylon well, but she is not made well: give her up, and let us go everyone to his country: for her punishment is stretching up to heaven, and lifted up even to the skies.
+
+**[51:10]** The Lord has made clear our righteousness: come, and let us give an account in Zion of the work of the Lord our God.
+
+**[51:11]** Make bright the arrows; take up the body-covers: the Lord has been moving the spirit of the king of the Medes; because his design against Babylon is its destruction: for it is the punishment from the Lord, the payment for his Temple.
+
+**[51:12]** Let the flag be lifted up against the walls of Babylon, make the watch strong, put the watchmen in their places, make ready a surprise attack: for it is the Lord's purpose, and he has done what he said about the people of Babylon.
+
+**[51:13]** O you whose living-place is by the wide waters, whose stores are great, your end is come, your evil profit is ended.
+
+**[51:14]** The Lord of armies has taken an oath by himself, saying, Truly, I will make you full with men as with locusts, and their voices will be loud against you.
+
+**[51:15]** He has made the earth by his power, he has made the world strong in its place by his wisdom, and by his wise design the heavens have been stretched out:
+
+**[51:16]** At the sound of his voice there is a massing of the waters in the heavens, and he makes the mists go up from the ends of the earth; he makes the thunder-flames for the rain and sends out the wind from his store-houses.
+
+**[51:17]** Then every man becomes like a beast without knowledge; every gold-worker is put to shame by the image he has made: for his metal image is deceit, and there is no breath in them.
+
+**[51:18]** They are nothing, a work of error: in the time of their punishment, destruction will overtake them.
+
+**[51:19]** The heritage of Jacob is not like these; for the maker of all things is his heritage: the Lord of armies is his name.
+
+**[51:20]** You are my fighting axe and my instrument of war: with you the nations will be broken; with you kingdoms will be broken;
+
+**[51:21]** With you the horse and the horseman will be broken; with you the war-carriage and he who goes in it will be broken;
+
+**[51:22]** With you man and woman will be broken; with you the old man and the boy will be broken; with you the young man and the virgin will be broken;
+
+**[51:23]** With you the keeper of sheep with his flock will be broken, and with you the farmer and his oxen will be broken, and with you captains and rulers will be broken.
+
+**[51:24]** And I will give to Babylon, and to all the people of Chaldaea, their reward for all the evil they have done in Zion before your eyes, says the Lord.
+
+**[51:25]** See, I am against you, says the Lord, O mountain of destruction, causing the destruction of all the earth: and my hand will be stretched out on you, rolling you down from the rocks, and making you a burned mountain.
+
+**[51:26]** And they will not take from you a stone for the angle of a wall or the base of a building; but you will be a waste place for ever, says the Lord.
+
+**[51:27]** Let a flag be lifted up in the land, let the horn be sounded among the nations, make the nations ready against her; get the kingdoms of Ararat, Minni, and Ashkenaz together against her, make ready a scribe against her; let the horses come up against her like massed locusts.
+
+**[51:28]** Make the nations ready for war against her, the king of the Medes and his rulers and all his captains, and all the land under his rule.
+
+**[51:29]** And the land is shaking and in pain: for the purposes of the Lord are fixed, to make the land of Babylon an unpeopled waste.
+
+**[51:30]** Babylon's men of war have kept back from the fight, waiting in their strong places; their strength has given way, they have become like women: her houses have been put on fire, her locks are broken.
+
+**[51:31]** One man, running, will give word to another, and one who goes with news will be handing it on to another, to give word to the king of Babylon that his town has been taken from every quarter:
+
+**[51:32]** And the ways across the river have been taken, and the water-holes ... burned with fire, and the men of war are in the grip of fear.
+
+**[51:33]** For these are the words of the Lord of armies, the God of Israel: The daughter of Babylon is like a grain-floor when it is stamped down; before long, the time of her grain-cutting will come.
+
+**[51:34]** Nebuchadrezzar, king of Babylon, has made a meal of me, violently crushing me, he has made me a vessel with nothing in it, he has taken me in his mouth like a dragon, he has made his stomach full with my delicate flesh, crushing me with his teeth.
+
+**[51:35]** May the violent things done to me, and my downfall, come on Babylon, the daughter of Zion will say; and, May my blood be on the people of Chaldaea, Jerusalem will say.
+
+**[51:36]** For this reason the Lord has said: See, I will give support to your cause, and take payment for what you have undergone; I will make her sea dry, and her fountain without water.
+
+**[51:37]** And Babylon will become a mass of broken walls, a hole for jackals, a cause of wonder and surprise, without a living man in it.
+
+**[51:38]** They will be crying out together like lions, their voices will be like the voices of young lions.
+
+**[51:39]** When they are heated, I will make a feast for them, and overcome them with wine, so that they may become unconscious, sleeping an eternal sleep without awaking, says the Lord.
+
+**[51:40]** I will make them go down to death like lambs, like he-goats together.
+
+**[51:41]** How is Babylon taken! and the praise of all the earth surprised! how has Babylon become a cause of wonder among the nations!
+
+**[51:42]** The sea has come up over Babylon; she is covered with the mass of its waves.
+
+**[51:43]** Her towns have become a waste, a dry and unwatered land, where no man has his living-place and no son of man goes by.
+
+**[51:44]** And I will send punishment on Bel in Babylon, and take out of his mouth what went into it; no longer will the nations be flowing together to him: truly, the wall of Babylon will come down.
+
+**[51:45]** My people, go out from her, and let every man get away safe from the burning wrath of the Lord.
+
+**[51:46]** So that your hearts may not become feeble and full of fear because of the news which will go about in the land; for a story will go about one year, and after that in another year another story, and violent acts in the land, ruler against ruler.
+
+**[51:47]** For this cause, truly, the days are coming when I will send punishment on the images of Babylon, and all her land will be shamed, and her dead will be falling down in her.
+
+**[51:48]** And the heaven and the earth and everything in them, will make a song of joy over Babylon: for those who make her waste will come from the north, says the Lord.
+
+**[51:49]** As Babylon had the dead of Israel put to the sword, so in Babylon the dead of all the land will be stretched out.
+
+**[51:50]** You who have got away safe from the sword, go, waiting for nothing; have the Lord in memory when you are far away, and keep Jerusalem in mind.
+
+**[51:51]** We are shamed because bitter words have come to our ears; our faces are covered with shame: for men from strange lands have come into the holy places of the Lord's house.
+
+**[51:52]** For this reason, see, the days are coming, says the Lord, when I will send punishment on her images; and through all her land the wounded will be crying out in pain.
+
+**[51:53]** Even if Babylon was lifted up to heaven, even if she had the high places of her strength shut in with walls, still I would send against her those who will make her waste, says the Lord.
+
+**[51:54]** There is the sound of a cry from Babylon, and of a great destruction from the land of the Chaldaeans:
+
+**[51:55]** For the Lord is making Babylon waste, and putting an end to the great voice coming out of her; and her waves are thundering like great waters, their voice is sounding loud:
+
+**[51:56]** For the waster has come on her, even on Babylon, and her men of war are taken, their bows are broken: for the Lord is a rewarding God, and he will certainly give payment.
+
+**[51:57]** And I will make her chiefs and her wise men, her rulers and her captains and her men of war, overcome with wine; their sleep will be an eternal sleep without awaking, says the King; the Lord of armies is his name.
+
+**[51:58]** The Lord of armies has said: The wide walls of Babylon will be completely uncovered and her high doorways will be burned with fire; so peoples keep on working for nothing, and the weariness of nations comes to an end in the smoke.
+
+**[51:59]** The order which Jeremiah the prophet gave to Seraiah, the son of Neriah, the son of Mahseiah, when he went with Zedekiah, the king of Judah, to Babylon in the fourth year of his rule. Now Seraiah was the chief controller of the house.
+
+**[51:60]** And Jeremiah put in a book all the evil which was to come on Babylon.
+
+**[51:61]** And Jeremiah said to Seraiah, When you come to Babylon, see that you give them all these words;
+
+**[51:62]** And after reading them, say, O Lord, you have said about this place that it is to be cut off, so that no one will be living in it, not a man or a beast, but it will be unpeopled for ever.
+
+**[51:63]** And it will be that, when you have come to an end of reading this book, you are to have a stone fixed to it, and have it dropped into the Euphrates:
+
+**[51:64]** And you are to say, So Babylon will go down, never to be lifted up again, because of the evil which I will send on her: and weariness will overcome them. So far, these are the words of Jeremiah.
+
+**[52:1]** Zedekiah was twenty-one years old when he became king; he was king for eleven years in Jerusalem: and his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
+
+**[52:2]** And he did evil in the eyes of the Lord, as Jehoiakim had done.
+
+**[52:3]** And because of the wrath of the Lord this came about in Jerusalem and Judah, till he had sent them away from before him: and Zedekiah took up arms against the king of Babylon.
+
+**[52:4]** And in the ninth year of his rule, on the tenth day of the tenth month, Nebuchadrezzar, king of Babylon, came against Jerusalem with all his army and took up his position before it, building earthworks all round it.
+
+**[52:5]** So the town was shut in by their forces till the eleventh year of King Zedekiah.
+
+**[52:6]** In the fourth month, on the ninth day of the month, the store of food in the town was almost gone, so that there was no food for the people of the land.
+
+**[52:7]** Then an opening was made in the wall of the town, and all the men of war went in flight out of the town by night through the doorway between the two walls which was by the king's garden; (now the Chaldaeans were stationed round the town:) and they went by the way of the Arabah.
+
+**[52:8]** And the Chaldaean army went after King Zedekiah and overtook him on the other side of Jericho, and all his army went in flight from him in every direction.
+
+**[52:9]** Then they made the king a prisoner and took him up to the king of Babylon to Riblah in the land of Hamath to be judged.
+
+**[52:10]** And the king of Babylon put the sons of Zedekiah to death before his eyes: and he put to death all the rulers of Judah in Riblah.
+
+**[52:11]** And he put out Zedekiah's eyes; and the king of Babylon, chaining him in iron bands, took him to Babylon, and put him in prison till the day of his death.
+
+**[52:12]** Now in the fifth month, on the tenth day of the month, in the nineteenth year of King Nebuchadrezzar, king of Babylon, Nebuzaradan, the captain of the armed men, a servant of the king of Babylon, came into Jerusalem.
+
+**[52:13]** And he had the house of the Lord and the king's house and all the houses of Jerusalem, even every great house, burned with fire:
+
+**[52:14]** And the walls round Jerusalem were broken down by the Chaldaean army which was with the captain.
+
+**[52:15]** Then Nebuzaradan, the captain of the armed men, took away as prisoners the rest of the people who were still in the town, and those who had given themselves up to the king of Babylon, and the rest of the workmen.
+
+**[52:16]** But Nebuzaradan, the captain of the armed men, let the poorest of the land go on living there, to take care of the vines and the fields.
+
+**[52:17]** And the brass pillars which were in the house of the Lord, and the wheeled bases and the great brass water-vessel in the house of the Lord, were broken up by the Chaldaeans, who took all the brass away to Babylon.
+
+**[52:18]** And the pots and the spades and the scissors for the lights and the spoons, and all the brass vessels used in the Lord's house, they took away.
+
+**[52:19]** And the cups and the fire-trays and the basins and the pots and the supports for the lights and the spoons and the wide basins; the gold of the gold vessels, and the silver of the silver vessels, the captain of the armed men took away.
+
+**[52:20]** The two pillars, the great water-vessel, and the twelve brass oxen which were under it, and the ten wheeled bases, which King Solomon had made for the house of the Lord: the brass of all these vessels was without weight.
+
+**[52:21]** And as for the pillars, one pillar was eighteen cubits high, and twelve cubits measured all round, and it was as thick as a man's hand: it was hollow.
+
+**[52:22]** And there was a crown of brass on it: the crown was five cubits high, circled with a network and apples all of brass; and the second pillar had the same.
+
+**[52:23]** There were ninety-six apples on the outside; the number of apples all round the network was a hundred.
+
+**[52:24]** And the captain of the armed men took Seraiah, the chief priest, and Zephaniah, the second priest, and the three door-keepers;
+
+**[52:25]** And from the town he took the unsexed servant who was over the men of war, and seven of the king's near friends who were in the town, and the scribe of the captain of the army, who was responsible for getting the people of the land together in military order, and sixty men of the people of the land who were in the town.
+
+**[52:26]** These Nebuzaradan, the captain of the armed men, took with him to the king of Babylon at Riblah.
+
+**[52:27]** And the king of Babylon put them to death at Riblah in the land of Hamath. So Judah was taken prisoner away from his land.
+
+**[52:28]** These are the people whom Nebuchadrezzar took away prisoner: in the seventh year, three thousand and twenty-three Jews:
+
+**[52:29]** And in the eighteenth year of Nebuchadrezzar he took away as prisoners from Jerusalem eight hundred and thirty-two persons:
+
+**[52:30]** In the twenty-third year of Nebuchadrezzar, Nebuzaradan, the captain of the armed men, took away as prisoners seven hundred and forty-five of the Jews: all the persons were four thousand and six hundred.
+
+**[52:31]** And in the thirty-seventh year after Jehoiachin, king of Judah, had been taken prisoner, in the twelfth month, on the twenty-fifth day of the month, Evil-merodach, king of Babylon, in the first year after he became king, took Jehoiachin, king of Judah, out of prison.
+
+**[52:32]** And he said kind words to him and put his seat higher than the seats of the other kings who were with him in Babylon.
+
+**[52:33]** And his prison clothing was changed, and he was a guest at the king's table every day for the rest of his life.
+
+**[52:34]** And for his food, the king gave him a regular amount every day till the day of his death, for the rest of his life.

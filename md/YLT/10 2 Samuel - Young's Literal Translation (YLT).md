@@ -1,0 +1,1391 @@
+# 2 Samuel - Young's Literal Translation (YLT)
+
+**[1:1]** And it cometh to pass, after the death of Saul, that David hath returned from smiting the Amalekite, and David dwelleth in Ziklag two days,
+
+**[1:2]** and it cometh to pass, on the third day, that lo, a man hath come in out of the camp from Saul, and his garments `are' rent, and earth on his head; and it cometh to pass, in his coming in unto David, that he falleth to the earth, and doth obeisance.
+
+**[1:3]** And David saith to him, `Whence comest thou?' and he saith unto him, `Out of the camp of Israel I have escaped.'
+
+**[1:4]** And David saith unto him, `What hath been the matter? declare, I pray thee, to me.' And he saith, that `The people hath fled from the battle, and also a multitude hath fallen of the people, and they die; and also Saul and Jonathan his son have died.'
+
+**[1:5]** And David saith unto the youth who is declaring `it' to him, `How hast thou known that Saul and Jonathan his son `are' dead?'
+
+**[1:6]** And the youth who is declaring `it' to him saith, I happened to meet in mount Gilboa, and lo, Saul is leaning on his spear; and lo, the chariots and those possessing horses have followed him;
+
+**[1:7]** and he turneth behind him, and seeth me, and calleth unto me, and I say, Here `am' I.
+
+**[1:8]** And he saith to me, Who `art' thou? and I say unto him, An Amalekite I `am'.'
+
+**[1:9]** `And he saith unto me, Stand, I pray thee, over me, and put me to death, for seized me hath the arrow, for all my soul `is' still in me.
+
+**[1:10]** And I stand over him, and put him to death, for I knew that he doth not live after his falling, and I take the crown which `is' on his head, and the bracelet which `is' on his arm, and bring them in unto my lord hither.'
+
+**[1:11]** And David taketh hold on his garments, and rendeth them, and also all the men who `are' with him,
+
+**[1:12]** and they mourn, and weep, and fast till the evening, for Saul, and for Jonathan his son, and for the people of Jehovah, and for the house of Israel, because they have fallen by the sword.
+
+**[1:13]** And David saith unto the youth who is declaring `it' to him, `Whence `art' thou?' and he saith, `Son of a sojourner, an Amalekite, I `am'.'
+
+**[1:14]** And David saith unto him, `How wast thou not afraid to put forth thy hand to destroy the anointed of Jehovah?'
+
+**[1:15]** And David calleth to one of the youths, and saith, `Draw nigh -- fall upon him;' and he smiteth him, and he dieth;
+
+**[1:16]** and David saith unto him, `Thy blood `is' on thine own head, for thy mouth hath testified against thee, saying, I -- I put to death the anointed of Jehovah.'
+
+**[1:17]** And David lamenteth with this lamentation over Saul, and over Jonathan his son;
+
+**[1:18]** and he saith to teach the sons of Judah `The Bow;' lo, it is written on the book of the Upright: --
+
+**[1:19]** `The Roebuck, O Israel, On thy high places `is' wounded; How have the mighty fallen!
+
+**[1:20]** Declare `it' not in Gath, Proclaim not the tidings in the streets of Ashkelon, Lest they rejoice -- The daughters of the Philistines, Lest they exult -- The daughters of the Uncircumcised!
+
+**[1:21]** Mountains of Gilboa! No dew nor rain be on you, And fields of heave-offerings! For there hath become loathsome The shield of the mighty, The shield of Saul -- without the anointed with oil.
+
+**[1:22]** From the blood of the wounded, From the fat of the mighty, The bow of Jonathan Hath not turned backward; And the sword of Saul doth not return empty.
+
+**[1:23]** Saul and Jonathan! They are loved and pleasant in their lives, And in their death they have not been parted. Than eagles they have been lighter, Than lions they have been mightier!
+
+**[1:24]** Daughters of Israel! for Saul weep ye, Who is clothing you `in' scarlet with delights. Who is lifting up ornaments of gold on your clothing.
+
+**[1:25]** How have the mighty fallen In the midst of the battle! Jonathan! on thy high places wounded!
+
+**[1:26]** I am in distress for thee, my brother Jonathan, Very pleasant wast thou to me; Wonderful was thy love to me, Above the love of women!
+
+**[1:27]** How have the mighty fallen, Yea, the weapons of war perish!'
+
+**[2:1]** And it cometh to pass afterwards, that David asketh at Jehovah, saying, `Do I go up into one of the cities of Judah?' and Jehovah saith unto him, `Go up.' And David saith, `Whither do I go up?' and He saith, `To Hebron.'
+
+**[2:2]** And David goeth up thither, and also his two wives, Ahinoam the Jezreelitess, and Abigail wife of Nabal the Carmelite;
+
+**[2:3]** and his men who `are' with him hath David brought up -- a man and his household -- and they dwell in the cities of Hebron.
+
+**[2:4]** And the men of Judah come, and anoint there David for king over the house of Judah; and they declare to David, saying, `The men of Jabesh-Gilead `are' they who buried Saul.'
+
+**[2:5]** And David sendeth messengers unto the men of Jabesh-Gilead, and saith unto them, `Blessed `are' ye of Jehovah, in that ye have done this kindness with your lord, with Saul, that ye bury him.
+
+**[2:6]** `And, now, Jehovah doth with you kindness and truth, and also, I do with you this good because ye have done this thing;
+
+**[2:7]** and now, are your hands strong, and be ye for sons of valour, for your lord Saul. `is' dead, and also -- me have the house of Judah anointed for king over them.'
+
+**[2:8]** And Abner, son of Ner, head of the host which Saul hath, hath taken Ish-Bosheth, son of Saul, and causeth him to pass over to Mahanaim,
+
+**[2:9]** and causeth him to reign over Gilead, and over the Ashurite, and over Jezreel, and over Ephraim, and over Benjamin, and over Israel -- all of it.
+
+**[2:10]** A son of forty years, `is' Ish-Bosheth son of Saul, in his reigning over Israel, and two years he hath reigned, only the house of Judah have been after David.
+
+**[2:11]** And the number of the days that David hath been king in Hebron, over the house of Judah, is seven years and six months.
+
+**[2:12]** And Abner son of Ner goeth out, and servants of Ish-Bosheth son of Saul, from Mahanaim to Gibeon.
+
+**[2:13]** And Joab son of Zeruiah, and servants of David, have gone out, and they meet by the pool of Gibeon together, and sit down, these by the pool on this `side', and these by the pool on that.
+
+**[2:14]** And Abner saith unto Joab, `Let the youths rise, I pray thee, and they play before us;' and Joab saith, `Let them rise.'
+
+**[2:15]** And they rise and pass over, in number twelve of Benjamin, even of Ish-Bosheth son of Saul, and twelve of the servants of David.
+
+**[2:16]** And they lay hold, each on the head of his companion, and his sword `is' in the side of his companion, and they fall together, and `one' calleth that place Helkath-Hazzurim, which `is' in Gibeon,
+
+**[2:17]** and the battle is very hard on that day, and Abner is smitten, and the men of Israel, before the servants of David.
+
+**[2:18]** And there are there three sons of Zeruiah, Joab, and Abishai, and Asahel, and Asahel `is' light on his feet, as one of the roes which `are' in the field,
+
+**[2:19]** And Asahel pursueth after Abner, and hath not turned aside to go to the right or to the left, from after Abner.
+
+**[2:20]** And Abner looketh behind him, and saith, `Art thou he -- Asahel?' and he saith, `I `am'.'
+
+**[2:21]** And Abner saith to him, `Turn thee aside to thy right hand or to thy left, and seize for thee one of the youths, and take to thee his armour;' and Asahel hath not been willing to turn aside from after him.
+
+**[2:22]** And Abner addeth again, saying unto Asahel, `Turn thee aside from after me, why do I smite thee to the earth? and how do I lift up my face unto Joab thy brother?'
+
+**[2:23]** And he refuseth to turn aside, and Abner smiteth him with the hinder part of the spear unto the fifth `rib', and the spear cometh out from behind him, and he falleth there, and dieth under it; and it cometh to pass, every one who hath come unto the place where Asahel hath fallen and dieth -- they stand still.
+
+**[2:24]** And Joab and Abishai pursue after Abner, and the sun hath gone in, and they have come in unto the height of Ammah, which `is' on the front of Giah, the way of the wilderness of Gibeon.
+
+**[2:25]** And the sons of Benjamin gather themselves together after Abner, and become one troop, and stand on the top of a certain height,
+
+**[2:26]** and Abner calleth unto Joab, and saith, `For ever doth the sword consume? hast thou not known that it is bitterness in the latter end? and till when dost thou not say to the people to turn back from after their brethren?'
+
+**[2:27]** And Joab saith, `God liveth! for unless thou hadst spoken, surely then from the morning had the people gone up each from after his brother.'
+
+**[2:28]** And Joab bloweth with a trumpet, and all the people stand still, and pursue no more after Israel, nor have they added any more to fight.
+
+**[2:29]** And Abner and his men have gone through the plain all that night, and pass over the Jordan, and go on `through' all Bithron, and come in to Mahanaim.
+
+**[2:30]** And Joab hath turned back from after Abner, and gathereth all the people, and there are lacking of the servants of David nineteen men, and Asahel;
+
+**[2:31]** and the servants of David have smitten of Benjamin, even among the men of Abner, three hundred and sixty men -- they died.
+
+**[2:32]** And they lift up Asahel, and bury him in the burying-place of his father, which `is' in Beth-Lehem, and they go all the night -- Joab and his men -- and it is light to them in Hebron.
+
+**[3:1]** And the war is long between the house of Saul and the house of David, and David is going on and `is' strong, and the house of Saul are going on and `are' weak.
+
+**[3:2]** And there are born to David sons in Hebron, and his first-born is Amnon, of Ahinoam the Jezreelitess,
+
+**[3:3]** and his second `is' Chileab, of Abigail wife of Nabal the Carmelite, and the third `is' Absalom son of Maacah daughter of Talmai king of Geshur,
+
+**[3:4]** and the fourth `is' Adonijah son of Haggith, and the fifth `is' Shephatiah son of Abital,
+
+**[3:5]** and the sixth `is' Ithream, of Eglah wife of David; these have been born to David in Hebron.
+
+**[3:6]** And it cometh to pass, in the war being between the house of Saul and the house of David, that Abner hath been strengthening himself in the house of Saul,
+
+**[3:7]** and Saul hath a concubine, and her name `is' Rizpah daughter of Aiah, and `Ish-Bosheth' saith unto Abner, `Wherefore hast thou gone in unto the concubine of my father?'
+
+**[3:8]** And it is displeasing to Abner exceedingly, because of the words of Ish-Bosheth, and he saith, `The head of a dog `am' I -- that in reference to Judah to-day I do kindness with the house of Saul thy father, unto his brethren, and unto his friends, and have not delivered thee into the hand of David -- that thou chargest against me iniquity concerning the woman to-day?
+
+**[3:9]** thus doth God to Abner, and thus He doth add to him, surely as Jehovah hath sworn to David -- surely so I do to him:
+
+**[3:10]** to cause the kingdom to pass over from the house of Saul, and to raise up the throne of David over Israel, and over Judah, from Dan even unto Beer-Sheba.'
+
+**[3:11]** And he is not able any more to turn back Abner a word, because of his fearing him.
+
+**[3:12]** And Abner sendeth messengers unto David for himself, saying, `Whose `is' the land?' saying, `Make thy covenant with me, and lo, my hand `is' with thee, to bring round unto thee all Israel.'
+
+**[3:13]** And he saith, `Good -- I make with thee a covenant; only, one thing I am asking of thee, that is, Thou dost not see my face, except thou dost first bring in Michal, daughter of Saul in thy coming into see my face.'
+
+**[3:14]** And David sendeth messengers unto Ish-Bosheth son of Saul, saying, `Give up my wife Michal, whom I betrothed to myself with a hundred foreskins of the Philistines.'
+
+**[3:15]** And Ish-Bosheth sendeth, and taketh her from a man, from Phaltiel son of Laish,
+
+**[3:16]** and her husband goeth with her, going on and weeping behind her, unto Bahurim, and Abner saith unto him, `Go, turn back;' and he turneth back.
+
+**[3:17]** And the word of Abner was with the elders of Israel, saying, `Heretofore ye have been seeking David for king over you,
+
+**[3:18]** and now, do `it', for Jehovah hath spoken of David saying, By the hand of David my servant -- to save My people Israel out of the hand of the Philistines, and out of the hand of all their enemies.'
+
+**[3:19]** And Abner speaketh also in the ears of Benjamin, and Abner goeth also to speak in the ears of David in Hebron all that `is' good in the eyes of Israel, and in the eyes of all the house of Benjamin,
+
+**[3:20]** and Abner cometh in unto David, to Hebron, and with him twenty men, and David maketh for Abner, and for the men who `are' with him, a banquet.
+
+**[3:21]** And Abner saith unto David, `I arise, and go, and gather unto my lord the king the whole of Israel, and they make with thee a covenant, and thou hast reigned over all that thy soul desireth;' and David sendeth away Abner, and he goeth in peace.
+
+**[3:22]** And lo, the servants of David, and Joab, have come from the troop, and much spoil have brought with them, and Abner is not with David in Hebron, for he hath sent him away, and he goeth in peace;
+
+**[3:23]** and Joab and all the host that `is' with him have come, and they declare to Joab, saying, `Abner son of Ner hath come unto the king, and he sendeth him away, and he goeth in peace.'
+
+**[3:24]** And Joab cometh unto the king, and saith, `What hast thou done? lo, Abner hath come unto thee! why `is' this -- thou hast sent him away, and he is really gone?
+
+**[3:25]** Thou hast known Abner son of Ner, that to deceive thee he came, and to know thy going out and thy coming in, and to know all that thou art doing.'
+
+**[3:26]** And Joab goeth out from David, and sendeth messengers after Abner, and they bring him back from the well of Sirah, and David knew not.
+
+**[3:27]** And Abner turneth back to Hebron, and Joab turneth him aside unto the midst of the gate to speak with him quietly, and smiteth him there in the fifth `rib' -- and he dieth -- for the blood of Asahel his brother.
+
+**[3:28]** And David heareth afterwards and saith, `Acquitted `am' I, and my kingdom, by Jehovah, unto the age, from the blood of Abner son of Ner;
+
+**[3:29]** it doth stay on the head of Joab, and on all the house of his father, and there is not cut off from the house of Joab one having an issue, and leprous, and laying hold on a staff, and falling by a sword, and lacking bread.'
+
+**[3:30]** And Joab and Abishai his brother slew Abner because that he put to death Asahel their brother, in Gibeon, in battle.
+
+**[3:31]** And David saith unto Joab, and unto all the people who `are' with him, `Rend your garments, and gird on sackcloth, and mourn before Abner;' and king David is going after the bier.
+
+**[3:32]** And they bury Abner in Hebron, and the king lifteth up his voice, and weepeth at the grave of Abner, and all the people weep;
+
+**[3:33]** and the king lamenteth for Abner, and saith: -- `As the death of a fool doth Abner die?
+
+**[3:34]** Thy hands not bound, And thy feet to fetters not brought nigh! As one falling before sons of evil -- Thou hast fallen!' and all the people add to weep over him.
+
+**[3:35]** And all the people come to cause David to eat bread while yet day, and David sweareth, saying, `Thus doth God to me, and thus He doth add, for -- before the going in of the sun, I taste no bread or any other thing.'
+
+**[3:36]** And all the people have discerned `it', and it is good in their eyes, as all that the king hath done is good in the eyes of all the people;
+
+**[3:37]** and all the people know, even all Israel, in that day, that it hath not been from the king -- to put to death Abner son of Ner.
+
+**[3:38]** And the king saith unto his servants, `Do ye not know that a prince and a great one hath fallen this day in Israel?
+
+**[3:39]** and I to-day `am' tender, and an anointed king: and these men, sons of Zeruiah, `are' too hard for me; Jehovah doth recompense to the doer of the evil according to his evil.'
+
+**[4:1]** And the son of Saul heareth that Abner `is' dead in Hebron, and his hands are feeble, and all Israel have been troubled.
+
+**[4:2]** And two men, heads of troops, have been `to' the son of Saul, the name of the one `is' Baanah, and the name of the second Rechab, sons of Rimmon the Beerothite, of the sons of Benjamin, for also Beeroth is reckoned to Benjamin,
+
+**[4:3]** and the Beerothites flee to Gittaim, and are there sojourners unto this day.
+
+**[4:4]** And to Jonathan son of Saul `is' a son -- lame; he was a son of five years at the coming in of the rumour of `the death of' Saul and Jonathan, out of Jezreel, and his nurse lifteth him up, and fleeth, and it cometh to pass in her hasting to flee, that he falleth, and becometh lame, and his name `is' Mephibosheth.
+
+**[4:5]** And the sons of Rimmon the Beerothite, Rechab and Baanah, go, and come in at the heat of the day unto the house of Ish-Bosheth, and he is lying down -- the lying down of noon;
+
+**[4:6]** and thither they have come, unto the midst of the house, taking wheat, and they smite him unto the fifth `rib', and Rechab and Baanah his brother have escaped;
+
+**[4:7]** yea, they come in to the house, and he is lying on his bed, in the inner part of his bed-chamber, and they smite him, and put him to death, and turn aside his head, and they take his head, and go the way of the plain all the night,
+
+**[4:8]** and bring in the head of Ish-Bosheth unto David in Hebron, and say unto the king, `Lo, the head of Ish-Bosheth, son of Saul, thine enemy, who sought thy life; and Jehovah doth give to my lord the king vengeance this day, of Saul and of his seed.'
+
+**[4:9]** And David answereth Rechab and Baanah his brother, sons of Rimmon the Beerothite, and saith to them, `Jehovah liveth, who hath redeemed my soul out of all adversity,
+
+**[4:10]** when one is declaring to me, saying, Lo, Saul is dead, and he was as a bearer of tidings in his own eyes, then I take hold on him, and slay him in Ziklag, instead of my giving to him `for' the tidings.
+
+**[4:11]** Also -- when wicked men have slain the righteous man in his own house, on his bed; and now, do not I require his blood of your hand, and have taken you away from the earth?'
+
+**[4:12]** And David commandeth the young men, and they slay them, and cut off their hands and their feet, and hang `them' over the pool in Hebron, and the head of Ish-Bosheth they have taken, and bury `it' in the burying-place of Abner in Hebron.
+
+**[5:1]** And all the tribes of Israel come unto David, to Hebron, and speak, saying, `Lo, we `are' thy bone and thy flesh;
+
+**[5:2]** also heretofore, in Saul's being king over us, thou hast been he who is bringing out and bringing in Israel, and Jehovah saith to thee, Thou dost feed My people Israel, and thou art for leader over Israel.'
+
+**[5:3]** And all the elders of Israel come unto the king, to Hebron, and king David maketh with them a covenant in Hebron before Jehovah, and they anoint David for king over Israel.
+
+**[5:4]** A son of thirty years `is' David in his being king; forty years he hath reigned;
+
+**[5:5]** in Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty and three years, over all Israel and Judah.
+
+**[5:6]** And the king goeth, and his men, to Jerusalem, unto the Jebusite, the inhabitant of the land, and they speak to David, saying, `Thou dost not come in hither, except thou turn aside the blind and the lame;' saying, `David doth not come in hither.'
+
+**[5:7]** And David captureth the fortress of Zion, it `is' the city of David.
+
+**[5:8]** And David saith on that day, `Any one smiting the Jebusite, (let him go up by the watercourse), and the lame and the blind -- the hated of David's soul,' -- because the blind and lame say, `He doth not come into the house.'
+
+**[5:9]** And David dwelleth in the fortress, and calleth it -- City of David, and David buildeth round about, from Millo and inward,
+
+**[5:10]** and David goeth, going on and becoming great, and Jehovah, God of Hosts, `is' with him.
+
+**[5:11]** And Hiram king of Tyre sendeth messengers unto David, and cedar-trees, and artificers of wood, and artificers of stone, for walls, and they build a house for David,
+
+**[5:12]** and David knoweth that Jehovah hath established him for king over Israel, and that He hath lifted up his kingdom, because of His people Israel.
+
+**[5:13]** And David taketh again concubines and wives out of Jerusalem, after his coming from Hebron, and there are born again to David sons and daughters.
+
+**[5:14]** And these `are' the names of those born to him in Jerusalem: Shammuah, and Shobab, and Nathan, and Solomon,
+
+**[5:15]** and Ibhar, and Elishua, and Nepheg, and Japhia,
+
+**[5:16]** and Elishama, and Eliada, and Eliphalet.
+
+**[5:17]** And the Philistines hear that they have anointed David for king over Israel, and all the Philistines come up to seek David, and David heareth, and goeth down unto the fortress,
+
+**[5:18]** and the Philistines have come, and are spread out in the valley of Rephaim.
+
+**[5:19]** And David asketh of Jehovah, saying, `Do I go up unto the Philistines? dost Thou give them into my hand?' And Jehovah saith unto David, `Go up, for I certainly give the Philistines into thy hand.'
+
+**[5:20]** And David cometh in to Baal-Perazim, and David smiteth them there, and saith, `Jehovah hath broken forth `on' mine enemies before me, as the breaking forth of waters;' therefore he hath called the name of that place Baal-Perazim.
+
+**[5:21]** And they forsake there their idols, and David and his men lift them up.
+
+**[5:22]** And the Philistines add again to come up, and are spread out in the valley of Rephaim,
+
+**[5:23]** and David asketh of Jehovah, and He saith, `Thou dost not go up, turn round unto their rear, and thou hast come to them over-against the mulberries,
+
+**[5:24]** and it cometh to pass, in thy hearing the sound of a stepping in the tops of the mulberries, then thou dost move sharply, for then hath Jehovah gone out before thee to smite in the camp of the Philistines.'
+
+**[5:25]** And David doth so, as Jehovah commanded him, and smiteth the Philistines from Geba unto thy coming to Gazer.
+
+**[6:1]** And David gathered again every chosen one in Israel, thirty thousand,
+
+**[6:2]** and David riseth and goeth, and all the people who `are' with him, from Baale-Judah, to bring up thence the ark of God, whose name hath been called -- the name of Jehovah of Hosts, inhabiting the cherubs -- upon it.
+
+**[6:3]** And they cause the ark of God to ride on a new cart, and lift it up from the house of Abinadab, which `is' in the height, and Uzzah and Ahio sons of Abinadab are leading the new cart;
+
+**[6:4]** and they lift it up from the house of Abinadab, which `is' in the height, with the ark of God, and Ahio is going before the ark,
+
+**[6:5]** and David and all the house of Israel are playing before Jehovah, with all kinds of `instruments' of fir-wood, even with harps, and with psalteries, and with timbrels, and with cornets, and with cymbals.
+
+**[6:6]** And they come unto the threshing-floor of Nachon, and Uzzah putteth forth `his hand' unto the ark of God, and layeth hold on it, for they released the oxen;
+
+**[6:7]** and the anger of Jehovah burneth against Uzzah, and God smiteth him there for the error, and he dieth there by the ark of God.
+
+**[6:8]** And it is displeasing to David, because that Jehovah hath broken forth a breach upon Uzzah, and `one' calleth that place Perez-Uzzah, unto this day;
+
+**[6:9]** and David feareth Jehovah on that day, and saith, `How doth the ark of Jehovah come in unto me?'
+
+**[6:10]** And David hath not been willing to turn aside unto himself the ark of Jehovah, to the city of David, and David turneth it aside to the house of Obed-Edom the Gittite,
+
+**[6:11]** and the ark of Jehovah doth inhabit the house of Obed-Edom the Gittite three months, and Jehovah blesseth Obed-Edom and all his house.
+
+**[6:12]** And it is declared to king David, saying, `Jehovah hath blessed the house of Obed-Edom, and all that he hath, because of the ark of God;' and David goeth and bringeth up the ark of God from the house of Obed-Edom to the city of David with joy.
+
+**[6:13]** And it cometh to pass, when those bearing the ark of Jehovah have stepped six steps, that he sacrificeth an ox and a fatling.
+
+**[6:14]** And David is dancing with all strength before Jehovah, and David is girded with a linen ephod,
+
+**[6:15]** and David and all the house of Israel are bringing up the ark of Jehovah with shouting, and with the voice of a trumpet,
+
+**[6:16]** and it hath come to pass, the ark of Jehovah hath come in to the city of David, and Michal daughter of Saul, hath looked through the window, and seeth king David moving and dancing before Jehovah, and despiseth him in her heart.
+
+**[6:17]** And they bring in the ark of Jehovah, and set it up in its place, in the midst of the tent which David hath spread out for it, and David causeth to ascend burnt-offerings before Jehovah, and peace-offerings.
+
+**[6:18]** And David finisheth from causing to ascend the burnt-offering, and the peace-offerings, and blesseth the people in the name of Jehovah of Hosts,
+
+**[6:19]** and he apportioneth to all the people, to all the multitude of Israel, from man even unto woman, to each, one cake of bread, and one eshpar, and one ashisha, and all the people go, each to his house.
+
+**[6:20]** And David turneth back to bless his house, and Michal daughter of Saul goeth out to meet David, and saith, `How honourable to-day was the king of Israel, who was uncovered to-day before the eyes of the handmaids of his servants, as one of the vain ones is openly uncovered!'
+
+**[6:21]** And David saith unto Michal, `-- Before Jehovah, who fixed on me above thy father, and above all his house, to appoint me leader over the people of Jehovah, and over Israel, -- yea, I played before Jehovah;
+
+**[6:22]** and I have been more vile than this, and have been low in mine eyes, and with the handmaids whom thou hast spoken of, with them I am honoured.'
+
+**[6:23]** As to Michal daughter of Saul, she had no child till the day of her death.
+
+**[7:1]** And it cometh to pass, when the king sat in his house, and Jehovah hath given rest to him round about, from all his enemies,
+
+**[7:2]** that the king saith unto Nathan the prophet, `See, I pray thee, I am dwelling in a house of cedars, and the ark of God is dwelling in the midst of the curtain.'
+
+**[7:3]** And Nathan saith unto the king, `All that `is' in thine heart -- go, do, for Jehovah `is' with thee.'
+
+**[7:4]** And it cometh to pass in that night, that the word of Jehovah is unto Nathan, saying,
+
+**[7:5]** `Go, and thou hast said unto My servant, unto David, Thus said Jehovah, Dost thou build for Me a house for My dwelling in?
+
+**[7:6]** for I have not dwelt in a house even from the day of My bringing up the sons of Israel out of Egypt, even unto this day, and am walking up and down in a tent and in a tabernacle.
+
+**[7:7]** During all `the time' that I have walked up and down among all the sons of Israel, a word have I spoken with one of the tribes of Israel which I commanded to feed my people Israel, saying, `Why have ye not built to Me a house of cedars?
+
+**[7:8]** and now, thus dost thou say to My servant, to David: `Thus said Jehovah of Hosts, I have taken thee from the comely place, from after the flock, to be leader over My people, over Israel;
+
+**[7:9]** and I am with thee whithersoever thou hast gone, and I cut off all thine enemies from thy presence, and have made for thee a great name, as the name of the great ones who `are' in the earth,
+
+**[7:10]** and I have appointed a place for My people, for Israel, and have planted it, and it hath tabernacled in its place, and it is not troubled any more, and the sons of perverseness do not add to afflict it any more, as in the beginning,
+
+**[7:11]** even from the day that I appointed judges over My people Israel; and I have given rest to thee from all thine enemies, and Jehovah hath declared to thee that Jehovah doth make for thee a house.
+
+**[7:12]** `When thy days are full, and thou hast lain with thy fathers, then I have raised up thy seed after thee which goeth out from thy bowels, and have established his kingdom;
+
+**[7:13]** He doth build a house for My Name, and I have established the throne of his kingdom unto the age.
+
+**[7:14]** I am to him for a father, and he is to Me for a son; whom in his dealings perversely I have even reproved with a rod of men, and with strokes of the sons of Adam,
+
+**[7:15]** and My kindness doth not turn aside from him, as I turned it aside from Saul, whom I turned aside from before thee,
+
+**[7:16]** and stedfast `is' thy house and thy kingdom unto the age before thee, thy throne is established unto the age.'
+
+**[7:17]** According to all these words, and according to all this vision, so spake Nathan unto David.
+
+**[7:18]** And king David cometh in and sitteth before Jehovah, and saith, `Who `am' I, Lord Jehovah? and what my house, that Thou hast brought me hitherto?
+
+**[7:19]** And yet this `is' little in Thine eyes, Lord Jehovah, and Thou dost speak also concerning the house of Thy servant afar off; and this `is' the law of the Man, Lord Jehovah.
+
+**[7:20]** And what doth David add more to speak unto Thee? and Thou, Thou hast known Thy servant, Lord Jehovah.
+
+**[7:21]** Because of Thy word, and according to Thy heart, Thou hast done all this greatness, to cause Thy servant to know `it'.
+
+**[7:22]** Therefore Thou hast been great, Jehovah God, for there is none like Thee, and there is no God save Thee, according to all that we have heard with our ears.
+
+**[7:23]** `And who `is' as Thy people, as Israel -- one nation in the earth, whom God hath gone to redeem to Him for a people, and to make for Him a name -- and to do for you the greatness -- even fearful things for Thy land, at the presence of Thy people, whom Thou hast redeemed to Thee out of Egypt -- `among the' nations and their gods?
+
+**[7:24]** Yea, Thou dost establish to Thee Thy people Israel, to Thee for a people unto the age, and Thou, Jehovah, hast been to them for God.
+
+**[7:25]** `And now, Jehovah God, the word which Thou hast spoken concerning Thy servant, and concerning his house, establish unto the age, and do as Thou hast spoken;
+
+**[7:26]** And Thy Name is great unto the age, saying, Jehovah of Hosts `is' God over Israel, and the house of Thy servant David is established before Thee,
+
+**[7:27]** For Thou, Jehovah of Hosts, God of Israel, Thou hast uncovered the ear of Thy servant, saying, A house I build for thee, therefore hath Thy servant found his heart to pray unto Thee this prayer;
+
+**[7:28]** And now, Lord Jehovah, Thou `art' God Himself, and Thy words are truth, and Thou speakest unto Thy servant this goodness,
+
+**[7:29]** And now, begin and bless the house of Thy servant, to be unto the age before Thee, for Thou, Lord Jehovah, hast spoken, and by Thy blessing is the house of Thy servant blessed -- to the age.'
+
+**[8:1]** And it cometh to pass afterwards that David smiteth the Philistines, and humbleth them, and David taketh the bridle of the metropolis out of the hand of the Philistines.
+
+**[8:2]** And he smiteth Moab, and measureth them with a line, causing them to lie down on the earth, and he measureth two lines to put to death, and the fulness of the line to keep alive, and the Moabites are to David for servants, bearers of a present.
+
+**[8:3]** And David smiteth Hadadezer son of Rehob, king of Zobah, in his going to bring back his power by the River `Euphrates;'
+
+**[8:4]** and David captureth from him a thousand and seven hundred horsemen, and twenty thousand footmen, and David destroyeth utterly the whole of the charioteers, only he leaveth of them a hundred charioteers.
+
+**[8:5]** And Aram of Damascus cometh to give help to Hadadezer king of Zobah, and David smiteth of Aram twenty and two thousand men;
+
+**[8:6]** and David putteth garrisons in Aram of Damascus, and Aram is to David for a servant, bearing a present; and Jehovah saveth David whithersoever he hath gone;
+
+**[8:7]** and David taketh the shields of gold which were on the servants of Hadadezer, and bringeth them to Jerusalem;
+
+**[8:8]** and from Betah, and from Berothai, cities of Hadadezer, hath king David taken very much brass.
+
+**[8:9]** And Toi king of Hamath heareth that David hath smitten all the force of Hadadezer,
+
+**[8:10]** and Toi sendeth Joram his son unto king David to ask of him of welfare, and to bless him, (because that he hath fought against Hadadezer, and smiteth him, for a man of wars `with' Toi had Hadadezer been), and in his hand have been vessels of silver, and vessels of gold, and vessels of brass,
+
+**[8:11]** also them did king David sanctify to Jehovah, with the silver and the gold which he sanctified of all the nations which he subdued:
+
+**[8:12]** of Aram, and of Moab, and of the Bene-Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer son of Rehob king of Zobah.
+
+**[8:13]** And David maketh a name in his turning back from his smiting Aram in the valley of Salt -- eighteen thousand;
+
+**[8:14]** and he putteth in Edom garrisons -- in all Edom he hath put garrisons, and all Edom are servants to David; and Jehovah saveth David whithersoever he hath gone.
+
+**[8:15]** And David reigneth over all Israel, and David is doing judgment and righteousness to all his people,
+
+**[8:16]** and Joab son of Zeruiah `is' over the host, and Jehoshaphat son of Ahilud `is' remembrancer,
+
+**[8:17]** and Zadok son of Ahitub, and Ahimelech son of Abiathar, `are' priests, and Seraiah `is' scribe,
+
+**[8:18]** and Benaiah son of Jehoiada `is over' both the Cherethite and the Pelethite, and the sons of David have been ministers.
+
+**[9:1]** And David saith, `Is there yet any left to the house of Saul, and I do with him kindness because of Jonathan?'
+
+**[9:2]** And the house of Saul hath a servant, and his name `is' Ziba, and they call for him unto David; and the king saith unto him, `Art thou Ziba?' and he saith, `Thy servant.'
+
+**[9:3]** And the king saith, `Is there not yet a man to the house of Saul, and I do with him the kindness of God?' And Ziba saith unto the king, `Jonathan hath yet a son -- lame.'
+
+**[9:4]** And the king saith to him, `Where `is' he?' and Ziba saith unto the king, `Lo, he `is' in the house of Machir, son of Ammiel, in Lo-Debar.'
+
+**[9:5]** And king David sendeth, and taketh him out of the house of Machir son of Ammiel, of Lo-Debar,
+
+**[9:6]** and Mephibosheth son of Jonathan, son of Saul, cometh unto David, and falleth on his face, and doth obeisance, and David saith, `Mephibosheth;' and he saith, `Lo, thy servant.'
+
+**[9:7]** And David saith to him, `Be not afraid; for I certainly do with thee kindness because of Jonathan thy father, and have given back to thee all the field of Saul thy father, and thou dost eat bread at my table continually.'
+
+**[9:8]** And he boweth himself, and saith, `What `is' thy servant, that thou hast turned unto the dead dog -- such as I?'
+
+**[9:9]** And the king calleth unto Ziba servant of Saul, and saith unto him, `All that was to Saul and to all his house, I have given to the son of thy lord,
+
+**[9:10]** and thou hast served for him the land, thou and thy sons, and thy servants, and hast brought in, and there hath been to the son of thy lord bread, and he hath eaten it; and Mephibosheth son of thy lord doth eat continually bread at my table;' and Ziba hath fifteen sons and twenty servants.
+
+**[9:11]** And Ziba saith unto the king, `According to all that my lord the king commandeth his servant, so doth thy servant;' as to Mephibosheth, `he is eating at my table (`saith the king') as one of the sons of the king.'
+
+**[9:12]** And Mephibosheth hath a young son, and his name `is' Micha, and every one dwelling in the house of Ziba `are' servants to Mephibosheth.
+
+**[9:13]** And Mephibosheth is dwelling in Jerusalem, for at the table of the king he is eating continually, and he `is' lame of his two feet.
+
+**[10:1]** And it cometh to pass afterwards, that the king of the Bene-Ammon dieth, and Hanun his son reigneth in his stead,
+
+**[10:2]** and David saith, `I do kindness with Hanun son of Nahash, as his father did with me kindness;' and David sendeth to comfort him by the hand of his servants concerning his father, and the servants of David come in to the land of the Bene-Ammon.
+
+**[10:3]** And the heads of the Bene-Ammon say unto Hanun their lord, `Is David honouring thy father in thine eyes because he hath sent to thee comforters? for to search the city, and to spy it, and to overthrow it, hath not David sent his servants unto thee?'
+
+**[10:4]** And Hanun taketh the servants of David, and shaveth off the half of their beard, and cutteth off their long robes in the midst -- unto their buttocks, and sendeth them away;
+
+**[10:5]** and they declare `it' to David, and he sendeth to meet them, for the men have been greatly ashamed, and the king saith, `Abide in Jericho till your beard doth spring up -- then ye have returned.'
+
+**[10:6]** And the Bene-Ammon see that they have been abhorred by David, and the Bene-Ammon send and hire Aram of Beth-Rehob, and Aram of Zoba, twenty thousand footmen, and the king of Maacah `with' a thousand men, and Ish-Tob `with' twelve thousand men;
+
+**[10:7]** and David heareth, and sendeth Joab, and all the host -- the mighty men.
+
+**[10:8]** And the Bene-Ammon come out, and set battle in array, at the opening of the gate, and Aram of Zoba, and Rehob, and Ish-Tob, and Maacah, `are' by themselves in the field;
+
+**[10:9]** and Joab seeth that the front of the battle hath been unto him before and behind, and he chooseth of all the chosen in Israel, and setteth in array to meet Aram,
+
+**[10:10]** and the rest of the people he hath given into the hand of Abishai his brother, and setteth in array to meet the Bene-Ammon.
+
+**[10:11]** And he saith, `If Aram be stronger than I, then thou hast been to me for salvation, and if the Bene-Ammon be stronger than thou, then I have come to give salvation to thee;
+
+**[10:12]** be strong and strengthen thyself for our people, and for the cities of our God, and Jehovah doth that which is good in His eyes.'
+
+**[10:13]** And Joab draweth nigh, and the people who `are' with him, to battle against Aram, and they flee from his presence;
+
+**[10:14]** and the Bene-Ammon have seen that Aram hath fled, and they flee from the presence of Abishai, and go in to the city; and Joab turneth back from the Bene-Ammon, and cometh in to Jerusalem.
+
+**[10:15]** And Aram seeth that it is smitten before Israel, and they are gathered together;
+
+**[10:16]** and Hadadezer sendeth, and bringeth out Aram which `is' beyond the River, and they come in to Helam, and Shobach head of the host of Hadadezer `is' before them.
+
+**[10:17]** And it is declared to David, and he gathereth all Israel, and passeth over the Jordan, and cometh in to Helam, and Aram setteth itself in array to meet David, and they fight with him;
+
+**[10:18]** and Aram fleeth from the presence of Israel, and David slayeth of Aram seven hundred charioteers, and forty thousand horsemen, and Shobach head of its host he hath smitten, and he dieth there.
+
+**[10:19]** And all the kings -- servants of Hadadezer -- see that they have been smitten before Israel, and make peace with Israel, and serve them; and Aram is afraid to help any more the Bene-Ammon.
+
+**[11:1]** And it cometh to pass, at the revolution of the year -- at the time of the going out of the messengers -- that David sendeth Joab, and his servants with him, and all Israel, and they destroy the Bene-Ammon, and lay siege against Rabbah. And David is dwelling in Jerusalem,
+
+**[11:2]** and it cometh to pass, at evening-time, that David riseth from off his couch, and walketh up and down on the roof of the king's house, and seeth from the roof a woman bathing, and the woman `is' of very good appearance,
+
+**[11:3]** and David sendeth and inquireth about the woman, and saith, `Is not this Bath-Sheba, daughter of Eliam, wife of Uriah the Hittite?'
+
+**[11:4]** And David sendeth messengers, and taketh her, and she cometh unto him, and he lieth with her -- and she is purifying herself from her uncleanness -- and she turneth back unto her house;
+
+**[11:5]** and the woman conceiveth, and sendeth, and declareth to David, and saith, `I `am' conceiving.'
+
+**[11:6]** And David sendeth unto Joab, `Send unto me Uriah the Hittite,' and Joab sendeth Uriah unto David;
+
+**[11:7]** and Uriah cometh unto him, and David asketh of the prosperity of Joab, and of the prosperity of the people, and of the prosperity of the war.
+
+**[11:8]** And David saith to Uriah, `Go down to thy house, and wash thy feet;' and Uriah goeth out of the king's house, and there goeth out after him a gift from the king,
+
+**[11:9]** and Uriah lieth down at the opening of the king's house, with all the servants of his lord, and hath not gone down unto his house.
+
+**[11:10]** And they declare to David, saying, `Uriah hath not gone down unto his house;' and David saith unto Uriah, `Hast thou not come from a journey? wherefore hast thou not gone down unto thy house?'
+
+**[11:11]** And Uriah saith unto David, `The ark, and Israel, and Judah, are abiding in booths, and my lord Joab, and the servants of my lord, on the face of the field are encamping; and I -- I go in unto my house to eat and to drink, and to lie with my wife! -- thy life, and the life of thy soul -- if I do this thing.'
+
+**[11:12]** And David saith unto Uriah, `Abide in this `place' also to-day, and to-morrow I send thee away;' and Uriah abideth in Jerusalem, on that day, and on the morrow,
+
+**[11:13]** and David calleth for him, and he eateth before him, and drinketh, and he causeth him to drink, and he goeth out in the evening to lie on his couch with the servants of his lord, and unto his house he hath not gone down.
+
+**[11:14]** And it cometh to pass in the morning, that David writeth a letter unto Joab, and sendeth by the hand of Uriah;
+
+**[11:15]** and he writeth in the letter, saying, `Place ye Uriah over-against the front of the severest battle, and ye have turned back from after him, and he hath been smitten, and hath died.'
+
+**[11:16]** And it cometh to pass in Joab's watching of the city, that he appointeth Uriah unto the place where he knew that valiant men `are';
+
+**[11:17]** and the men of the city go out and fight with Joab, and there fall `some' of the people, of the servants of David; and there dieth also Uriah the Hittite.
+
+**[11:18]** And Joab sendeth and declareth to David all the matters of the war,
+
+**[11:19]** and commandeth the messenger, saying, `At thy finishing all the matters of the war to speak unto the king,
+
+**[11:20]** then, it hath been, if the king's fury ascend, and he hath said to thee, Wherefore did ye draw nigh unto the city to fight? did ye not know that they shoot from off the wall?
+
+**[11:21]** Who smote Abimelech son of Jerubbesheth? did not a woman cast on him a piece of a rider from the wall, and he dieth in Thebez? why drew ye nigh unto the wall? that thou hast said, Also thy servant Uriah the Hittite is dead.'
+
+**[11:22]** And the messenger goeth, and cometh in, and declareth to David all that with which Joab sent him,
+
+**[11:23]** and the messenger saith unto David, `Surely the men have been mighty against us, and come out unto us into the field, and we are upon them unto the opening of the gate,
+
+**[11:24]** and those shooting shoot at thy servants from off the wall, and `some' of the servants of the king are dead, and also, thy servant Uriah the Hittite is dead.
+
+**[11:25]** And David saith unto the messenger, `Thus dost thou say unto Joab, Let not this thing be evil in thine eyes; for thus and thus doth the sword devour; strengthen thy warfare against the city, and throw it down -- and strengthen thou him.'
+
+**[11:26]** And the wife of Uriah heareth that Uriah her husband `is' dead, and lamenteth for her lord;
+
+**[11:27]** and the mourning passeth by, and David sendeth and gathereth her unto his house, and she is to him for a wife, and beareth to him a son; and the thing which David hath done is evil in the eyes of Jehovah.
+
+**[12:1]** And Jehovah sendeth Nathan unto David, and he cometh unto him, and saith to him: `Two men have been in one city; One rich and one poor;
+
+**[12:2]** The rich hath flocks and herds very many;
+
+**[12:3]** And the poor one hath nothing, Except one little ewe-lamb, Which he hath bought, and keepeth alive, And it groweth up with him, And with his sons together; Of his morsel it eateth, And from his cup it drinketh, And in his bosom it lieth, And it is to him as a daughter;
+
+**[12:4]** And there cometh a traveller to the rich man, And he spareth to take Of his own flock, and of his own herd, To prepare for the traveller Who hath come to him, And he taketh the ewe-lamb of the poor man, And prepareth it for the man Who hath come unto him.'
+
+**[12:5]** And the anger of David burneth against the man exceedingly, and he saith unto Nathan, `Jehovah liveth, surely a son of death `is' the man who is doing this,
+
+**[12:6]** and the ewe-lamb he doth repay fourfold, because that he hath done this thing, and because that he had no pity.'
+
+**[12:7]** And Nathan saith unto David, `Thou `art' the man! Thus said Jehovah, God of Israel, I anointed thee for king over Israel, and I delivered thee out of the hand of Saul;
+
+**[12:8]** and I give to thee the house of thy lord, and the wives of thy lord, into thy bosom, and I give to thee the house of Israel and of Judah; and if little, then I add to thee such and such `things'.
+
+**[12:9]** `Wherefore hast thou despised the word of Jehovah, to do the evil thing in His eyes? Uriah the Hittite thou hast smitten by the sword, and his wife thou hast taken to thee for a wife, and him thou hast slain by the sword of the Bene-Ammon.
+
+**[12:10]** `And now, the sword doth not turn aside from thy house unto the age, because thou hast despised Me, and dost take the wife of Uriah the Hittite to be to thee for a wife;
+
+**[12:11]** thus said Jehovah, Lo, I am raising up against thee evil, out of thy house, and have taken thy wives before thine eyes, and given to thy neighbour, and he hath lain with thy wives before the eyes of this sun;
+
+**[12:12]** for thou hast done `it' in secret, and I do this thing before all Israel, and before the sun.'
+
+**[12:13]** And David saith unto Nathan, `I have sinned against Jehovah.' And Nathan saith unto David, `Also -- Jehovah hath caused thy sin to pass away; thou dost not die;
+
+**[12:14]** only, because thou hast caused the enemies of Jehovah greatly to despise by this thing, also the son who is born to thee doth surely die.'
+
+**[12:15]** And Nathan goeth unto his house, and Jehovah smiteth the lad, whom the wife of Uriah hath born to David, and it is incurable;
+
+**[12:16]** and David seeketh God for the youth, and David keepeth a fast, and hath gone in and lodged, and lain on the earth.
+
+**[12:17]** And the elders of his house rise against him, to raise him up from the earth, and he hath not been willing, nor hath he eaten with them bread;
+
+**[12:18]** and it cometh to pass on the seventh day, that the lad dieth, and the servants of David fear to declare to him that the lad is dead, for they said, `Lo, in the lad being alive we spake unto him, and he did not hearken to our voice; and how do we say unto him, The lad is dead? -- then he hath done evil.'
+
+**[12:19]** And David seeth that his servants are whispering, and David understandeth that the lad is dead, and David saith unto his servants, `Is the lad dead?' and they say, `Dead.'
+
+**[12:20]** And David riseth from the earth, and doth bathe and anoint `himself', and changeth his raiment, and cometh in to the house of Jehovah, and boweth himself, and cometh unto his house, and asketh and they place for him bread, and he eateth.
+
+**[12:21]** And his servants say unto him, `What `is' this thing thou hast done? because of the living lad thou hast fasted and dost weep, and when the lad is dead thou hast risen and dost eat bread.'
+
+**[12:22]** And he saith, `While the lad is alive I have fasted, and weep, for I said, Who knoweth? -- Jehovah doth pity me, and the lad hath lived;
+
+**[12:23]** and now, he hath died, why `is' this -- I fast? am I able to bring him back again? I am going unto him, and he doth not turn back unto me.'
+
+**[12:24]** And David comforteth Bath-Sheba his wife, and goeth in unto her, and lieth with her, and she beareth a son, and he calleth his name Solomon; and Jehovah hath loved him,
+
+**[12:25]** and sendeth by the hand of Nathan the prophet, and calleth his name Jedidiah, because of Jehovah.
+
+**[12:26]** And Joab fighteth against Rabbah of the Bene-Ammon, and captureth the royal city,
+
+**[12:27]** and Joab sendeth messengers unto David, and saith, `I have fought against Rabbah -- also I have captured the city of waters;
+
+**[12:28]** and now, gather the rest of the people, and encamp against the city, and capture it, lest I capture the city, and my name hath been called upon it.'
+
+**[12:29]** And David gathereth all the people, and goeth to Rabbah, and fighteth against it, and captureth it;
+
+**[12:30]** and he taketh the crown of their king from off his head, and its weight `is' a talent of gold, and precious stones, and it is on the head of David; and the spoil of the city he hath brought out, very much;
+
+**[12:31]** and the people who `are' in it he hath brought out, and setteth to the saw, and to cutting instruments of iron, and to axes of iron, and hath caused them to pass over into the brick-kiln; and so he doth to all the cities of the Bene-Ammon; and David turneth back, and all the people, to Jerusalem.
+
+**[13:1]** And it cometh to pass afterwards that Absalom son of David hath a fair sister, and her name `is' Tamar, and Amnon son of David loveth her.
+
+**[13:2]** And Amnon hath distress -- even to become sick, because of Tamar his sister, for she `is' a virgin, and it is hard in the eyes of Amnon to do anything to her.
+
+**[13:3]** And Amnon hath a friend, and his name `is' Jonadab, son of Shimeah, David's brother, and Jonadab `is' a very wise man,
+
+**[13:4]** and saith to him, `Wherefore `art' thou thus lean, O king's son, morning by morning? dost thou not declare to me?' And Amnon saith to him, `Tamar -- sister of Absalom my brother -- I am loving.'
+
+**[13:5]** And Jonadab saith to him, `Lie down on thy couch, and feign thyself sick, and thy father hath come in to see thee, and thou hast said unto him, `Let, I pray thee, Tamar my sister come in and give me bread to eat; and she hath made the food before mine eyes so that I see `it', and have eaten from her hand.'
+
+**[13:6]** And Amnon lieth down, and feigneth himself sick, and the king cometh in to see him, and Amnon saith unto the king, `Let, I pray thee, Tamar my sister come, and she maketh before mine eyes two cakes, and I eat from her hand.'
+
+**[13:7]** And David sendeth unto Tamar, to the house, saying, `Go, I pray thee, to the house of Amnon thy brother, and make for him food.'
+
+**[13:8]** And Tamar goeth to the house of Amnon her brother, and he is lying down, and she taketh the dough, and kneadeth, and maketh cakes before his eyes, and cooketh the cakes,
+
+**[13:9]** and taketh the frying-pan, and poureth out before him, and he refuseth to eat, and Amnon saith, `Take ye out every one from me;' and they go out every one from him.
+
+**[13:10]** And Amnon saith unto Tamar, `Bring the food into the inner chamber, and I eat from thy hand;' and Tamar taketh the cakes that she hath made, and bringeth in to Amnon her brother, into the inner chamber,
+
+**[13:11]** and she bringeth nigh unto him to eat, and he layeth hold on her, and saith to her, `Come, lie with me, my sister.'
+
+**[13:12]** And she saith to him, `Nay, my brother, do not humble me, for it is not done so in Israel; do not this folly.
+
+**[13:13]** And I -- whither do I cause my reproach to go? and thou -- thou art as one of the fools in Israel; and now, speak, I pray thee, unto the king; for he doth not withhold me from thee.'
+
+**[13:14]** And he hath not been willing to hearken to her voice, and is stronger than she, and humbleth her, and lieth with her.
+
+**[13:15]** And Amnon hateth her -- a very great hatred -- that greater `is' the hatred with which he hath hated her than the love with which he loved her, and Amnon saith to her, `Rise, go.'
+
+**[13:16]** And she saith to him, `Because of the circumstances this evil is greater than the other that thou hast done with me -- to send me away;' and he hath not been willing to hearken to her,
+
+**[13:17]** and calleth his young man, his servant, and saith, `Send away, I pray thee, this one from me without, and bolt the door after her;'
+
+**[13:18]** -- and upon her `is' a long coat, for such upper robes do daughters of the king who `are' virgins put on, -- and his servant taketh her out without, and hath bolted the door after her.
+
+**[13:19]** And Tamar taketh ashes for her head, and the long coat that `is' on her she hath rent, and putteth her hand on her head, and goeth, going on and crying;
+
+**[13:20]** and Absalom her brother saith unto her, `Hath Amnon thy brother been with thee? and now, my sister, keep silent, he `is' thy brother; set not thy heart to this thing;' and Tamar dwelleth -- but desolate -- in the house of Absalom her brother.
+
+**[13:21]** And king David hath heard all these things, and it is very displeasing to him;
+
+**[13:22]** and Absalom hath not spoken with Amnon either evil or good, for Absalom is hating Amnon, because that he humbled Tamar his sister.
+
+**[13:23]** And it cometh to pass, after two years of days, that Absalom hath shearers in Baal-Hazor, which `is' with Ephraim, and Absalom calleth for all the sons of the king.
+
+**[13:24]** And Absalom cometh unto the king, and saith, `Lo, I pray thee, thy servant hath shearers, let the king go, I pray thee, and his servants, with thy servant.'
+
+**[13:25]** And the king saith unto Absalom, `Nay, my son, let us not all go, I pray thee, and we are not too heavy on thee;' and he presseth on him, and he hath not been willing to go, and he blesseth him.
+
+**[13:26]** And Absalom saith, `If not -- let, I pray thee, Amnon my brother go with us;' and the king saith to him, `Why doth he go with thee?'
+
+**[13:27]** and Absalom urgeth on him, and he sendeth with him Amnon, and all the sons of the king.
+
+**[13:28]** And Absalom commandeth his young men, saying, `See, I pray thee, when the heart of Amnon `is' glad with wine, and I have said unto you, Smite Amnon, that ye have put him to death; fear not; is it not because I have commanded you? be strong, yea, become sons of valour.'
+
+**[13:29]** And the young men of Absalom do to Amnon as Absalom commanded, and rise do all the sons of the king, and they ride, each on his mule, and flee.
+
+**[13:30]** And it cometh to pass -- they `are' in the way -- and the report hath come unto David, saying, `Absalom hath smitten all the sons of the king, and there is not left of them one;'
+
+**[13:31]** and the king riseth, and rendeth his garments, and lieth on the earth, and all his servants are standing by `with' rent garments.
+
+**[13:32]** And Jonadab son of Shimeah, David's brother, answereth and saith, `Let not my lord say, The whole of the young men, the sons of the king, they have put to death; for Amnon alone `is' dead, for by the command of Absalom it hath been appointed from the day of his humbling Tamar his sister;
+
+**[13:33]** and now, let not my lord the king lay unto his heart the word, saying, All the sons of the king have died, for Amnon alone `is' dead.'
+
+**[13:34]** And Absalom fleeth, and the young man who is watching lifteth up his eyes and looketh, and lo, much people are coming by the way behind him, on the side of the hill.
+
+**[13:35]** And Jonadab saith unto the king, `Lo, the sons of the king have come; as the word of thy servant, so it hath been.'
+
+**[13:36]** And it cometh to pass at his finishing to speak, that lo, the sons of the king have come, and they lift up their voice, and weep, and also the king and all his servants have wept -- a very great weeping.
+
+**[13:37]** And Absalom hath fled, and goeth unto Talmai, son of Ammihud, king of Geshur, and `David' mourneth for his son all the days.
+
+**[13:38]** And Absalom hath fled, and goeth to Geshur, and is there three years;
+
+**[13:39]** and `the soul of' king David determineth to go out unto Absalom, for he hath been comforted for Amnon, for `he is' dead.
+
+**[14:1]** And Joab son of Zeruial knoweth that the heart of the king `is' on Absalom,
+
+**[14:2]** and Joab sendeth to Tekoah, and taketh thence a wise woman, and saith unto her, `Feign thyself a mourner, I pray thee, and put on, I pray thee, garments of mourning, and anoint not thyself with oil, and thou hast been as a woman these many days mourning for the dead,
+
+**[14:3]** and thou hast gone unto the king, and spoken unto him, according to this word;' and Joab putteth the words into her mouth.
+
+**[14:4]** And the woman of Tekoah speaketh unto the king, and falleth on her face to the earth, and doth obeisance, and saith, `Save, O king.'
+
+**[14:5]** And the king saith to her, `What -- to thee?' and she saith, `Truly a widow woman `am' I, and my husband dieth,
+
+**[14:6]** and thy maid-servant hath two sons; and they strive both of them in a field, and there is no deliverer between them, and the one smiteth the other, and putteth him to death;
+
+**[14:7]** and lo, the whole family hath risen against thy maid-servant, and say, Give up him who smiteth his brother, and we put him to death for the life of his brother whom he hath slain, and we destroy also the heir; and they have quenched my coal which is left -- so as not to set to my husband a name and remnant on the face of the ground.'
+
+**[14:8]** And the king saith unto the woman, `Go to thine house, and I give charge concerning thee.'
+
+**[14:9]** And the woman of Tekoah saith unto the king, `On me, my lord, O king, `is' the iniquity, and on the house of my father; and the king and his throne `are' innocent.'
+
+**[14:10]** And the king saith, `He who speaketh `aught' unto thee, and thou hast brought him unto me, then he doth not add any more to come against thee.'
+
+**[14:11]** And she saith, `Let, I pray thee, the king remember by Jehovah thy God, that the redeemer of blood add not to destroy, and they destroy not my son;' and he saith, `Jehovah liveth; if there doth fall of the hair of thy son to the earth.'
+
+**[14:12]** And the woman saith, `Let, I pray thee, thy maid-servant speak unto my lord the king a word;' and he saith, `Speak.'
+
+**[14:13]** And the woman saith, `And why hast thou thought thus concerning the people of God? yea, the king is speaking this thing as a guilty one, in that the king hath not brought back his outcast;
+
+**[14:14]** for we do surely die, and `are' as water which is running down to the earth, which is not gathered, and God doth not accept a person, and hath devised devices in that the outcast is not outcast by Him.
+
+**[14:15]** `And now that I have come to speak unto the king my lord this word, `it is' because the people made me afraid, and thy maid-servant saith, Let me speak, I pray thee, unto the king; it may be the king doth do the word of his handmaid,
+
+**[14:16]** for the king doth hearken to deliver his handmaid out of the paw of the man `seeking' to destroy me and my son together out of the inheritance of God,
+
+**[14:17]** and thy maid-servant saith, Let, I pray thee, the word of my lord the king be for ease; for as a messenger of God so `is' my lord the king, to understand the good and the evil; and Jehovah thy God is with thee.'
+
+**[14:18]** And the king answereth and saith unto the woman, `Do not, I pray thee, hide from me the thing that I am asking thee;' and the woman saith, `Let, I pray thee, my lord the king speak.'
+
+**[14:19]** And the king saith, `Is the hand of Joab with thee in all this?' And the woman answereth and saith, `Thy soul liveth, my lord, O king, none `doth turn' to the right or to the left from all that my lord the king hath spoken; for thy servant Joab he commanded me, and he put in the mouth of thy maid-servant all these words;
+
+**[14:20]** in order to bring round the appearance of the thing hath thy servant Joab done this thing, and my lord `is' wise, according to the wisdom of a messenger of God, to know all that `is' in the land.'
+
+**[14:21]** And the king saith unto Joab, `Lo, I pray thee, thou hast done this thing; and go, bring back the young man Absalom.'
+
+**[14:22]** And Joab falleth on his face to the earth, and doth obeisance, and blesseth the king, and Joab saith, `To-day hath thy servant known that I have found grace in thine eyes, my lord, O king, in that the king hath done the word of his servant.'
+
+**[14:23]** And Joab riseth and goeth to Geshur, and bringeth in Absalom to Jerusalem,
+
+**[14:24]** and the king saith, `Let him turn round unto his house, and my face he doth not see.' And Absalom turneth round unto his house, and the face of the king he hath not seen.
+
+**[14:25]** And like Absalom there was no man `so' fair in all Israel, to praise greatly; from the sole of his foot even unto his crown there was no blemish in him;
+
+**[14:26]** and in his polling his head -- and it hath been at the end of year by year that he polleth `it', for it `is' heavy on him, and he hath polled it -- he hath even weighed out the hair of his head -- two hundred shekels by the king's weight.
+
+**[14:27]** And there are born to Absalom three sons, and one daughter, and her name `is' Tamar; she was a woman of a fair appearance.
+
+**[14:28]** And Absalom dwelleth in Jerusalem two years of days, and the face of the king he hath not seen;
+
+**[14:29]** and Absalom sendeth unto Joab, to send him unto the king, and he hath not been willing to come unto him; and he sendeth again a second time, and he hath not been willing to come.
+
+**[14:30]** And he saith unto his servants, `See, the portion of Joab `is' by the side of mine, and he hath barley there; go, and burn it with fire;' and the servants of Absalom burn the portion with fire.
+
+**[14:31]** And Joab riseth and cometh unto Absalom in the house, and saith unto him, `Why have thy servants burned the portion that I have with fire?'
+
+**[14:32]** And Absalom saith unto Joab, `Lo, I sent unto thee, saying, Come hither, and I send thee unto the king to say, Why have I come in from Geshur? -- good for me while I `am' there -- and now, let me see the king's face, and if there is in me iniquity then thou hast put me to death.'
+
+**[14:33]** And Joab cometh unto the king, and declareth `it' to him, and he calleth unto Absalom, and he cometh unto the king, and boweth himself to him, on his face, to the earth, before the king, and the king giveth a kiss to Absalom.
+
+**[15:1]** And it cometh to pass afterwards, that Absalom prepareth for himself a chariot, and horses, and fifty men are running before him;
+
+**[15:2]** and Absalom hath risen early, and stood by the side of the way of the gate, and it cometh to pass, every man who hath a pleading to come unto the king for judgment, that Absalom calleth unto him, and saith, `Of what city `art' thou?' and he saith, `Of one of the tribes of Israel `is' thy servant.'
+
+**[15:3]** And Absalom saith unto him, `See, thy matters `are' good and straightforward -- and there is none hearkening to thee from the king.'
+
+**[15:4]** And Absalom saith, `Who doth make me a judge in the land, that unto me doth come every man who hath a plea and judgment? -- then I have declared him righteous.'
+
+**[15:5]** And it hath come to pass, in the drawing nearing of any one to bow himself to him, that he hath put forth his hand, and laid hold on him, and given a kiss to him;
+
+**[15:6]** and Absalom doth according to this thing to all Israel who come in for judgment unto the king, and Absalom stealeth the heart of the men of Israel.
+
+**[15:7]** And it cometh to pass, at the end of forty years, that Absalom saith unto the king, `Let me go, I pray thee, and I complete my vow, that I vowed to Jehovah in Hebron,
+
+**[15:8]** for a vow hath thy servant vowed in my dwelling in Geshur, in Aram, saying, If Jehovah doth certainly bring me back to Jerusalem, then I have served Jehovah.'
+
+**[15:9]** And the king saith to him, `Go in peace;' and he riseth and goeth to Hebron,
+
+**[15:10]** and Absalom sendeth spies through all the tribes of Israel, saying, `At your hearing the voice of the trumpet, then ye have said, Absalom hath reigned in Hebron.'
+
+**[15:11]** And with Absalom have gone two hundred men, out of Jerusalem, invited ones, and they are going in their simplicity, and have not known anything;
+
+**[15:12]** and Absalom sendeth Ahithophel the Gilonite, a counsellor of David, out of his city, out of Gilo, in his sacrificing sacrifices; and the conspiracy is strong, and the people are going and increasing with Absalom.
+
+**[15:13]** And he who is declaring tidings cometh in unto David, saying, `The heart of the men of Israel hath been after Absalom.'
+
+**[15:14]** And David saith to all his servants who `are' with him in Jerusalem, `Rise, and we flee, for we have no escape from the face of Absalom; haste to go, lest he hasten, and have overtaken us, and forced on us evil, and smitten the city by the mouth of the sword.'
+
+**[15:15]** And the servants of the king say unto the king, `According to all that my lord the king chooseth -- lo, thy servants `do'.'
+
+**[15:16]** And the king goeth out, and all his household at his feet, and the king leaveth ten women -- concubines -- to keep the house.
+
+**[15:17]** And the king goeth out, and all the people at his feet, and they stand still at the farthest off house.
+
+**[15:18]** And all his servants are passing on at his side, and all the Cherethite, and all the Pelethite, and all the Gittites, six hundred men who came at his feet from Gath, are passing on at the front of the king.
+
+**[15:19]** And the king saith unto Ittai the Gittite, `Why dost thou go -- thou also -- with us? turn back -- and abide with the king, for thou `art' a stranger, and also an exile thou -- to thy place.
+
+**[15:20]** Yesterday `is' thy coming in, and to-day I move thee to go with us, and I am going on that which I am going! -- turn back, and take back thy brethren with thee, -- kindness and truth.'
+
+**[15:21]** And Ittai answereth the king and saith, `Jehovah liveth, and my lord the king liveth, surely in the place where my lord the king is -- if for death, if for life, surely there is thy servant.'
+
+**[15:22]** And David saith unto Ittai, `Go and pass over;' and Ittai the Gittite passeth over, and all his men, and all the infants who `are' with him.
+
+**[15:23]** And all the land are weeping -- a great voice, and all the people are passing over; and the king is passing over through the brook Kidron, and all the people are passing over on the front of the way of the wilderness;
+
+**[15:24]** and lo, also Zadok, and all the Levites with him, bearing the ark of the covenant of God, and they make the ark of God firm, and Abiathar goeth up, till the completion of all the people to pass over out of the city.
+
+**[15:25]** And the king saith to Zadok, `Take back the ark of God to the city; if I find grace in the eyes of Jehovah, then He hath brought me back, and shewn me it and His habitation;
+
+**[15:26]** and if thus He say, I have not delighted in thee; here `am' I, He doth to me as `is' good in His eyes.'
+
+**[15:27]** And the king saith unto Zadok the priest, `Art thou a seer? turn back to the city in peace, and Ahimaaz thy son, and Jonathan son of Abiathar, your two sons with you;
+
+**[15:28]** see ye, I am tarrying in the plains of the wilderness till the coming in of a word from you to declare to me.'
+
+**[15:29]** And Zadok taketh back -- and Abiathar -- the ark of God to Jerusalem, and they abide there.
+
+**[15:30]** And David is going up in the ascent of the olives, going up and weeping, and he hath the head covered, and he is going barefooted, and all the people who `are' with him have covered each his head, and have gone up, going up and weeping;
+
+**[15:31]** and David declared, saying, `Ahithophel `is' among the conspirators with Absalom;' and David saith, `Make foolish, I pray Thee, the counsel of Ahithophel, O Jehovah.'
+
+**[15:32]** And it cometh to pass, David hath come unto the top, where he boweth himself to God, and lo, to meet him `is' Hushai the Archite, his coat rent, and earth on his head;
+
+**[15:33]** and David saith to him, `If thou hast passed on with me then thou hast been on me for a burden,
+
+**[15:34]** and if to the city thou dost turn back, and hast said to Absalom, Thy servant I am, O king; servant of thy father I `am' also hitherto, and now, I `am' also thy servant; then thou hast made void for me the counsel of Ahithophel;
+
+**[15:35]** and are there not with thee there Zadok and Abiathar the priests? and it hath been, the whole of the matter that thou hearest from the house of the king thou dost declare to Zadok and to Abiathar the priests.
+
+**[15:36]** Lo, there with them `are' their two sons, Ahimaaz to Zadok, and Jonathan to Abiathar, and ye have sent by their hand unto me anything that ye hear.'
+
+**[15:37]** And Hushai, David's friend, cometh in to the city, and Absalom cometh in to Jerusalem.
+
+**[16:1]** And David hath passed on a little from the top, and lo, Ziba, servant of Mephibosheth -- to meet him, and a couple of asses saddled, and upon them two hundred loaves, and a hundred bunches of raisins, and a hundred `of' summer-fruit, and a bottle of wine.
+
+**[16:2]** And the king saith unto Ziba, `What -- these to thee?' and Ziba saith, `The asses for the household of the king to ride on, and the bread and the summer-fruit for the young men to eat, and the wine for the wearied to drink in the wilderness.'
+
+**[16:3]** And the king saith, `And where `is' the son of thy lord?' and Ziba saith unto the king, `Lo, he is abiding in Jerusalem, for he said, To-day do the house of Israel give back to me the kingdom of my father.'
+
+**[16:4]** And the king saith to Ziba, `Lo, thine `are' all that Mephibosheth hath;' and Ziba saith, `I have bowed myself -- I find grace in thine eyes, my lord, O king.'
+
+**[16:5]** And king David hath come in unto Bahurim, and lo, thence a man is coming out, of the family of the house of Saul, and his name `is' Shimei, son of Gera, he cometh out, coming out and reviling;
+
+**[16:6]** and he stoneth David with stones, and all the servants of king David, and all the people, and all the mighty men on his right and on his left.
+
+**[16:7]** And thus said Shimei in his reviling, `Go out, go out, O man of blood, and man of worthlessness!
+
+**[16:8]** Jehovah hath turned back on thee all the blood of the house of Saul, in whose stead thou hast reigned, and Jehovah doth give the kingdom in to the hand of Absalom thy son; and lo, thou `art' in thine evil, for a man of blood thou `art'.'
+
+**[16:9]** And Abishai son of Zeruiah saith unto the king, `Why doth this dead dog revile my lord the king? let me pass over, I pray thee, and I turn aside his head.'
+
+**[16:10]** And the king saith, `What -- to me and to you, O sons of Zeruiah? for -- let him revile; even because Jehovah hath said to him, Revile David; and who saith, Wherefore hast Thou done so?'
+
+**[16:11]** And David saith unto Abishai, and unto all his servants, `Lo, my son who came out of my bowels is seeking my life, and also surely now the Benjamite; leave him alone, and let him revile, for Jehovah hath said `so' to him;
+
+**[16:12]** it may be Jehovah doth look on mine affliction, and Jehovah hath turned back to me good for his reviling this day.'
+
+**[16:13]** And David goeth with his men in the way, and Shimei is going at the side of the hill over-against him, going on, and he revileth, and stoneth with stones over-against him, and hath dusted with dust.
+
+**[16:14]** And the king cometh in, and all the people who `are' with him, wearied, and they are refreshed there.
+
+**[16:15]** And Absalom and all the people, the men of Israel, have come in to Jerusalem, and Ahithophel with him,
+
+**[16:16]** and it cometh to pass, when Hushai the Archite, David's friend, hath come unto Absalom, that Hushai saith unto Absalom, `Let the king live! let the king live!'
+
+**[16:17]** And Absalom saith unto Hushai, `This thy kindness with thy friend! why hast thou not gone with thy friend?'
+
+**[16:18]** And Hushai saith unto Absalom, `Nay, for he whom Jehovah hath chosen, and this people, even all the men of Israel, his I am, and with him I abide;
+
+**[16:19]** and secondly, for whom do I labour? is it not before his son? as I served before thy father so am I before thee.'
+
+**[16:20]** And Absalom saith unto Ahithophel, `Give for you counsel what we do.'
+
+**[16:21]** And Ahithophel saith unto Absalom, `Go in unto the concubines of thy father, whom he left to keep the house, and all Israel hath heard that thou hast been abhorred by thy father, and the hands of all who `are' with thee have been strong.'
+
+**[16:22]** And they spread out for Absalom the tent on the roof, and Absalom goeth in unto the concubines of his father before the eyes of all Israel.
+
+**[16:23]** And the counsel of Ahithophel which he counselled in those days `is' as `when' one inquireth at the word of God; so `is' all the counsel of Ahithophel both to David and to Absalom.
+
+**[17:1]** And Ahithophel said unto Absalom, `Let me choose, I pray thee, twelve thousand men, and I arise and pursue after David to-night,
+
+**[17:2]** and come upon him, and he weary and feeble-handed, and I have caused him to tremble, and all the people have fled who `are' with him, and I have smitten the king by himself,
+
+**[17:3]** and I bring back all the people unto thee -- as the turning back of the whole `is' the man whom thou art seeking -- all the people are peace.
+
+**[17:4]** And the thing is right in the eyes of Absalom, and in the eyes of all the elders of Israel.
+
+**[17:5]** And Absalom saith, `Call, I pray thee, also for Hushai the Archite, and we hear what `is' in his mouth -- even he.'
+
+**[17:6]** And Hushai cometh in unto Absalom, and Absalom speaketh unto him, saying, `According to this word hath Ahithophel spoken; do we do his word? if not, thou -- speak thou.'
+
+**[17:7]** And Hushai saith unto Absalom, `Not good `is' the counsel that Ahithophel hath counselled at this time.'
+
+**[17:8]** And Hushai saith, `Thou hast known thy father and his men, that they `are' heroes, and they are bitter in soul as a bereaved bear in a field, and thy father `is' a man of war, and doth not lodge with the people;
+
+**[17:9]** lo, now, he is hidden in one of the pits, or in one of the places, and it hath been, at the falling among them at the commencement, that the hearer hath heard, and said, There hath been a slaughter among the people who `are' after Absalom;
+
+**[17:10]** and he also, the son of valour, whose heart `is' as the heart of the lion, doth utterly melt, for all Israel doth know that thy father is a hero, and sons of valour `are' those with him.
+
+**[17:11]** `So that I have counselled: Let all Israel be diligently gathered unto thee, from Dan even unto Beer-Sheba, as the sand that `is' by the sea for multitude, and thou thyself art going in the midst;
+
+**[17:12]** and we have come in unto him in one of the places where he is found, and we `are' upon him as the dew falleth on the ground, and there hath not been left of him and of all the men who `are' with him even one.
+
+**[17:13]** And if unto a city he is gathered, then they have caused all Israel to bear unto that city ropes, and we have drawn it unto the brook till that there hath not been found there even a stone.'
+
+**[17:14]** And Absalom saith -- and all the men of Israel -- `Better `is' the counsel of Hushai the Archite than the counsel of Ahithophel;' and Jehovah willed to make void the good counsel of Ahithophel for the sake of Jehovah's bringing unto Absalom the evil.
+
+**[17:15]** And Hushai saith unto Zadok and unto Abiathar the priests, `Thus and thus hath Ahithophel counselled Absalom and the elders of Israel, and thus and thus I have counselled;
+
+**[17:16]** and now, send hastily, and declare to David, saying, Lodge not to-night in the plains of the wilderness, and also, certainly pass over, lest there be a swallowing up of the king and of all the people who are with him.'
+
+**[17:17]** And Jonathan and Ahimaaz are standing at En-Rogel, and the maid-servant hath gone and declared to them -- and they go and have declared `it' to king David -- for they are not able to be seen to go in to the city.
+
+**[17:18]** And a youth seeth them, and declareth to Absalom; and they go on both of them hastily, and come in unto the house of a man in Bahurim, and he hath a well in his court, and they go down there,
+
+**[17:19]** and the woman taketh and spreadeth the covering over the face of the well, and spreadeth on it the ground corn, and the thing hath not been known.
+
+**[17:20]** And the servants of Absalom come in unto the woman to the house, and say, `Where `are' Ahimaaz and Jonathan?' and the woman saith to them, `They passed over the brook of water;' and they seek, and have not found, and turn back to Jerusalem.
+
+**[17:21]** And it cometh to pass, after their going on, that they come up out of the well, and go and declare to king David, and say unto David, `Rise ye, and pass over hastily the waters, for thus hath Ahithophel counselled against you.'
+
+**[17:22]** And David riseth, and all the people who `are' with him, and they pass over the Jordan, till the light of the morning, till one hath not been lacking who hath not passed over the Jordan.
+
+**[17:23]** And Ahithophel hath seen that his counsel was not done, and he saddleth the ass, and riseth and goeth unto his house, unto his city, and giveth charge unto his household, and strangleth himself, and dieth, and he is buried in the burying-place of his father.
+
+**[17:24]** And David came to Mahanaim, and Absalom passed over the Jordan, he and all the men of Israel with him;
+
+**[17:25]** and Amasa hath Absalom set instead of Joab over the host, and Amasa `is' a man's son whose name is Ithra the Israelite who hath gone in unto Abigail, daughter of Nahash, sister of Zeruiah, mother of Joab;
+
+**[17:26]** and Israel encampeth with Absalom `in' the land of Gilead.
+
+**[17:27]** And it cometh to pass at the coming in of David to Mahanaim, that Shobi, son of Nahash, from Rabbah of the Bene-Ammon, and Machir son of Ammiel, from Lo-Debar, and Barzillai the Gileadite, from Rogelim,
+
+**[17:28]** couch, and basin, and earthen vessel, and wheat, and barley, and flour, and roasted `corn', and beans, and lentiles, and roasted `pulse',
+
+**[17:29]** and honey, and butter, and sheep, and cheese of kine, have brought nigh for David, and for the people who `are' with him to eat, for they said, `Thy people `is' hungry, and weary, and thirsty, in the wilderness.'
+
+**[18:1]** And David inspecteth the people who `are' with him, and setteth over them heads of thousands and heads of hundreds,
+
+**[18:2]** and David sendeth the third of the people by the hand of Joab, and the third by the hand of Abishai, son of Zeruiah, brother of Joab, and the third by the hand of Ittai the Gittite, and the king saith unto the people, `I certainly go out -- I also -- with you.'
+
+**[18:3]** And the people say, `Thou dost not go out, for if we utterly flee, they do not set `their' heart upon us; and if half of us die, they do not set `their' heart unto us -- for now like us `are' ten thousand; and now, better that thou be to us from the city for an helper.'
+
+**[18:4]** And the king saith unto them, `That which is good in your eyes I do;' and the king standeth at the side of the gate, and all the people have gone out by hundreds and by thousands,
+
+**[18:5]** and the king chargeth Joab, and Abishai, and Ittai, saying, `Gently -- for me, for the youth, for Absalom;' and all the people heard in the king's charging all the heads concerning Absalom.
+
+**[18:6]** And the people goeth out into the field to meet Israel, and the battle is in a forest of Ephraim;
+
+**[18:7]** and smitten there are the people of Israel before the servants of David, and the smiting there is great on that day -- twenty thousand;
+
+**[18:8]** and the battle is there scattered over the face of all the land, and the forest multiplieth to devour among the people more than those whom the sword hath devoured in that day.
+
+**[18:9]** And Absalom meeteth before the servants of David, and Absalom is riding on the mule, and the mule cometh in under an entangled bough of the great oak, and his head taketh hold on the oak, and he is placed between the heavens and the earth, and the mule that `is' under him hath passed on.
+
+**[18:10]** And one man seeth, and declareth to Joab, and saith, `Lo, I saw Absalom hanged in an oak.'
+
+**[18:11]** And Joab saith to the man who is declaring `it' to him, `And lo, thou hast seen -- and wherefore didst thou not smite him there to the earth -- and on me to give to thee ten silverlings and one girdle?'
+
+**[18:12]** And the man saith unto Joab, `Yea, though I am weighing on my hand a thousand silverlings, I do not put forth my hand unto the son of the king; for in our ears hath the king charged thee, and Abishai, and Ittai, saying, Observe ye who `is' against the youth -- against Absalom;
+
+**[18:13]** or I had done against my soul a vain thing, and no matter is hid from the king, and thou -- thou dost station thyself over-against.'
+
+**[18:14]** And Joab saith, `Not right -- I tarry before thee;' and he taketh three darts in his hand, and striketh them into the heart of Absalom, while he `is' alive, in the midst of the oak.
+
+**[18:15]** And they go round -- ten youths bearing weapons of Joab -- and smite Absalom, and put him to death.
+
+**[18:16]** And Joab bloweth with a trumpet, and the people turneth back from pursuing after Israel, for Joab hath kept back the people;
+
+**[18:17]** and they take Absalom and cast him in the forest unto the great pit, and set up over him a very great heap of stones, and all Israel have fled -- each to his tent.
+
+**[18:18]** And Absalom hath taken, and setteth up for himself in his life, the standing-pillar that `is' in the king's valley, for he said, `I have no son to cause my name to be remembered;' and he calleth the standing-pillar by his own name, and it is called `The monument of Absalom' unto this day.
+
+**[18:19]** And Ahimaaz son of Zadok said, `Let me run, I pray thee, and I bear the king tidings, for Jehovah hath delivered him out of the hand of his enemies;'
+
+**[18:20]** and Joab saith to him, `Thou art not a man of tidings this day, but thou hast borne tidings on another day, and this day thou dost not bear tidings, because the king's son `is' dead.'
+
+**[18:21]** And Joab saith to Cushi, `Go, declare to the king that which thou hast seen;' and Cushi boweth himself to Joab, and runneth.
+
+**[18:22]** And Ahimaaz son of Zadok addeth again, and saith unto Joab, `And whatever it be, let me run, I pray thee, I also, after the Cushite.' And Joab saith, `Why `is' this -- thou art running, my son, and for thee there are no tidings found?' --
+
+**[18:23]** `And, whatever it be, `said he,' let me run.' And he saith to him, `Run;' and Ahimaaz runneth the way of the circuit, and passeth by the Cushite.
+
+**[18:24]** And David is sitting between the two gates, and the watchman goeth unto the roof of the gate, unto the wall, and lifteth up his eyes, and looketh, and lo, a man running by himself.
+
+**[18:25]** And the watchman calleth, and declareth to the king, and the king saith, `If by himself, tidings `are' in his mouth;' and he cometh, coming on and drawing near.
+
+**[18:26]** And the watchman seeth another man running, and the watchman calleth unto the gatekeeper, and saith, `Lo, a man running by himself;' and the king saith, `Also this one is bearing tidings.'
+
+**[18:27]** And the watchman saith, `I see the running of the first as the running of Ahimaaz son of Zadok.' And the king saith, `This `is' a good man, and with good tidings he cometh.'
+
+**[18:28]** And Ahimaaz calleth and saith unto the king, `Peace;' and he boweth himself to the king, on his face, to the earth, and saith, `Blessed `is' Jehovah thy God who hath shut up the men who lifted up their hand against my lord the king.'
+
+**[18:29]** And the king saith, `Peace to the youth -- to Absalom?' And Ahimaaz saith, `I saw the great multitude, at the sending away of the servant of the king, even thy servant `by' Joab, and I have not known what `it is'.'
+
+**[18:30]** And the king saith, `Turn round, station thyself here;' and he turneth round and standeth still.
+
+**[18:31]** And lo, the Cushite hath come, and the Cushite saith, `Let tidings be proclaimed, my lord, O king; for Jehovah hath delivered thee to-day out of the hand of all those rising up against thee.'
+
+**[18:32]** And the king saith unto the Cushite, `Peace to the youth -- to Absalom?' And the Cushite saith, `Let them be -- as the youth -- the enemies of my lord the king, and all who have risen up against thee for evil.'
+
+**[18:33]** And the king trembleth, and goeth up on the upper chamber of the gate, and weepeth, and thus he hath said in his going, `My son! Absalom my son; my son Absalom; oh that I had died for thee, Absalom, my son, my son.'
+
+**[19:1]** And it is declared to Joab, `Lo, the king is weeping and mourning for Absalom;'
+
+**[19:2]** and the salvation on that day becometh mourning to all the people, for the people hath heard on that day, saying, `The king hath been grieved for his son.'
+
+**[19:3]** And the people stealeth away, on that day, to go in to the city, as the people steal away, who are ashamed, in their fleeing in battle;
+
+**[19:4]** and the king hath covered his face, yea, the king crieth -- a loud voice -- `My son Absalom, Absalom, my son, my son.'
+
+**[19:5]** And Joab cometh in unto the king to the house, and saith, `Thou hast put to shame to-day the faces of all thy servants, those delivering thy life to-day, and the life of thy sons, and of thy daughters, and the life of thy wives, and the life of thy concubines,
+
+**[19:6]** to love thine enemies, and to hate those loving thee, for thou hast declared to-day that thou hast no princes and servants, for I have known to-day that if Absalom `were' alive, and all of us to-day dead, that then it were right in thine eyes.
+
+**[19:7]** `And now, rise, go out and speak unto the heart of thy servants, for by Jehovah I have sworn, that -- thou art not going out -- there doth not lodge a man with thee to-night; and this `is' worse for thee than all the evil that hath come upon thee from thy youth till now.'
+
+**[19:8]** And the king riseth, and sitteth in the gate, and to all the people they have declared, saying, `Lo, the king is sitting in the gate;' and all the people come in before the king, and Israel hath fled, each to his tents.
+
+**[19:9]** And it cometh to pass, all the people are contending through all the tribes of Israel, saying, `The king delivered us out of the hand of our enemies, yea, he himself delivered us out of the hand of the Philistines, and now he hath fled out of the land because of Absalom,
+
+**[19:10]** and Absalom whom we anointed over us `is' dead in battle, and now, why are ye silent -- to bring back the king?'
+
+**[19:11]** And king David sent unto Zadok and unto Abiathar the priests, saying, `Speak ye unto the elders of Judah, saying, Why are ye last to bring back the king unto his house? (and the word of all Israel hath come unto the king, unto his house;)
+
+**[19:12]** my brethren ye `are', my bone and my flesh ye `are', and why are ye last to bring back the king?
+
+**[19:13]** And to Amasa say ye, Art not thou my bone and my flesh? Thus doth God do to me, and thus He doth add, if thou art not head of the host before me all the days instead of Joab.'
+
+**[19:14]** And he inclineth the heart of all the men of Judah as one man, and they send unto the king, `Turn back, thou, and all thy servants.'
+
+**[19:15]** And the king turneth back, and cometh in unto the Jordan, and Judah hath come to Gilgal, to go to meet the king, to bring the king over the Jordan,
+
+**[19:16]** and Shimei son of Gera, the Benjamite, who `is' from Bahurim, hasteth, and cometh down with the men of Judah, to meet king David,
+
+**[19:17]** and a thousand men `are' with him from Benjamin, and Ziba servant of the house of Saul, and his fifteen sons and his twenty servants with him, and they have gone prosperously over the Jordan before the king.
+
+**[19:18]** And passed over hath the ferry-boat to carry over the household of the king, and to do that which `is' good in his eyes, and Shimei son of Gera hath fallen before the king in his passing over into Jordan,
+
+**[19:19]** and saith unto the king, `Let not my lord impute to me iniquity; neither do thou remember that which thy servant did perversely in the day that my lord the king went out from Jerusalem, -- for the king to set `it' unto his heart;
+
+**[19:20]** for thy servant hath known that I have sinned; and lo, I have come to-day, first of all the house of Joseph, to go down to meet my lord the king.'
+
+**[19:21]** And Abishai son of Zeruiah answereth and saith, `For this is not Shimei put to death -- because he reviled the anointed of Jehovah?'
+
+**[19:22]** And David saith, `What -- to me and to you, O sons of Zeruiah, that ye are to me to-day for an adversary? to-day is any man put to death in Israel? for have I not known that to-day I `am' king over Israel?'
+
+**[19:23]** And the king saith unto Shimei, `Thou dost not die;' and the king sweareth to him.
+
+**[19:24]** And Mephibosheth son of Saul hath come down to meet the king -- and he prepared not his feet, nor did he prepare his upper lip, yea, his garments he washed not, even from the day of the going away of the king, till the day that he came in peace --
+
+**[19:25]** and it cometh to pass, when he hath come to Jerusalem to meet the king, that the king saith to him, `Why didst thou not go with me, Mephibosheth?'
+
+**[19:26]** And he saith, `My lord, O king, my servant deceived me, for thy servant said, I saddle for me the ass, and ride on it, and go with the king, for thy servant `is' lame;
+
+**[19:27]** and he uttereth slander against thy servant unto my lord the king, and my lord the king `is' as a messenger of God; and do thou that which is good in thine eyes,
+
+**[19:28]** for all the house of my father have been nothing except men of death before my lord the king, and thou dost set thy servant among those eating at thy table, and what right have I any more -- even to cry any more unto the king?'
+
+**[19:29]** And the king saith to him, `Why dost thou speak any more of thy matters? I have said, Thou and Ziba -- share ye the field.'
+
+**[19:30]** And Mephibosheth saith unto the king, `Yea, the whole let him take, after that my lord the king hath come in peace unto his house.'
+
+**[19:31]** And Barzillai the Gileadite hath gone down from Rogelim, and passeth over the Jordan with the king, to send him away over the Jordan;
+
+**[19:32]** and Barzillai `is' very aged, a son of eighty years, and he hath sustained the king in his abiding in Mahanaim, for he `is' a very great man;
+
+**[19:33]** and the king saith unto Barzillai, `Pass thou over with me, and I have sustained thee with me in Jerusalem.'
+
+**[19:34]** And Barzillai saith unto the king, `How many `are' the days of the years of my life, that I go up with the king to Jerusalem?
+
+**[19:35]** A son of eighty years I `am' to-day; do I know between good and evil? doth thy servant taste that which I am eating, and that which I drink? do I hearken any more to the voice of singers and songstresses? and why is thy servant any more for a burden unto my lord the king?
+
+**[19:36]** As a little thing, thy servant doth pass over the Jordan with the king, and why doth the king recompense me this recompense?
+
+**[19:37]** Let, I pray thee, thy servant turn back again, and I die in mine own city, near the burying-place of my father and of my mother, -- and lo, thy servant Chimham, let him pass over with my lord the king, and do thou to him that which `is' good in thine eyes.'
+
+**[19:38]** And the king saith, `With me doth Chimham go over, and I do to him that which `is' good in thine eyes, yea, all that thou dost fix on me I do to thee.'
+
+**[19:39]** And all the people pass over the Jordan, and the king hath passed over, and the king giveth a kiss to Barzillai, and blesseth him, and he turneth back to his place.
+
+**[19:40]** And the king passeth over to Gilgal, and Chimham hath passed over with him, and all the people of Judah, and they bring over the king, and also the half of the people of Israel.
+
+**[19:41]** And, lo, all the men of Israel are coming unto the king, and they say unto the king, `Wherefore have they stolen thee -- our brethren, the men of Judah?' (and they bring the king and his household over the Jordan, and all the men of David with him).
+
+**[19:42]** And all the men of Judah answer against the men of Israel, `Because the king `is' near unto us, and why `is' this -- ye are displeased about this matter? have we at all eaten of the king's `substance?' a gift hath he lifted up to us?'
+
+**[19:43]** And the men of Israel answer the men of Judah, and say, `Ten parts we have in the king, and also in David more than you; and wherefore have ye lightly esteemed us, that our word hath not been first to bring back our king?' And the word of the men of Judah is sharper than the word of the men of Israel.
+
+**[20:1]** And there hath been called there a man of worthlessness, and his name `is' Sheba, son of Bichri, a Benjamite, and he bloweth with a trumpet, and saith, `We have no portion in David, and we have no inheritance in the son of Jesse; each to his tents, O Israel.'
+
+**[20:2]** And every man of Israel goeth up from after David, after Sheba son of Bichri, and the men of Judah have cleaved to their king, from the Jordan even unto Jerusalem.
+
+**[20:3]** And David cometh in unto his house at Jerusalem, and the king taketh the ten women-concubines -- whom he had left to keep the house, and putteth them in a house of ward, and sustaineth them, and unto them he hath not gone in, and they are shut up unto the day of their death, in widowhood living.
+
+**[20:4]** And the king saith unto Amasa, `Call for me the men of Judah `in' three days, and thou, stand here,'
+
+**[20:5]** and Amasa goeth to call Judah, and tarrieth beyond the appointed time that he had appointed him;
+
+**[20:6]** and David saith unto Abishai, `Now doth Sheba son of Bichri do evil to us more than Absalom; thou, take the servants of thy lord, and pursue after him, lest he have found for himself fenced cities, and delivered himself `from' our eye.'
+
+**[20:7]** And the men of Joab go out after him, and the Cherethite, and the Pelethite, and all the mighty men, and they go out from Jerusalem to pursue after Sheba son of Bichri;
+
+**[20:8]** they `are' near the great stone that `is' in Gibeon, and Amasa hath gone before them, and Joab `is' girded; his long robe he hath put on him, and upon it a girdle -- a sword `is' fastened upon his loins in its sheath; and he hath gone out, and it falleth.
+
+**[20:9]** And Joab saith to Amasa, `Art thou `in' peace, my brother?' and the right hand of Joab layeth hold on the beard of Amasa to give a kiss to him;
+
+**[20:10]** and Amasa hath not been watchful of the sword that `is' in the hand of Joab, and he smiteth him with it unto the fifth `rib', and sheddeth out his bowels to the earth, and he hath not repeated `it' to him, and he dieth; and Joab and Abishai his brother have pursued after Sheba son of Bichri.
+
+**[20:11]** And a man hath stood by him, of the young men of Joab, and saith, `He who hath delight in Joab, and he who `is' for David -- after Joab!'
+
+**[20:12]** And Amasa is rolling himself in blood, in the midst of the highway, and the man seeth that all the people have stood still, and he bringeth round Amasa out of the highway to the field, and casteth over him a garment, when he hath seen that every one who hath come by him -- hath stood still.
+
+**[20:13]** When he hath been removed out of the highway, every man hath passed on after Joab, to pursue after Sheba son of Bichri.
+
+**[20:14]** And he passeth over through all the tribes of Israel to Abel, and to Beth-Maachah, and to all the Berites, and they are assembled, and go in also after him,
+
+**[20:15]** and they go in and lay siege against him, in Abel of Beth-Maachah, and cast up a mount against the city, and it standeth in a trench, and all the people who are `are' with Joab are destroying, to cause the wall to fall.
+
+**[20:16]** And a wise woman calleth out of the city, `Hear, hear; say, I pray you, unto Joab, Come near hither, and I speak unto thee.'
+
+**[20:17]** And he cometh near unto her, and the woman saith, `Art thou Joab?' and he saith, `I `am'.' And she saith to him, `Hear the words of thy handmaid;' and he saith, `I am hearing.'
+
+**[20:18]** and she speaketh, saying, `They spake often in former times, saying, Let them diligently ask at Abel, and so they finished.
+
+**[20:19]** I `am' of the peaceable -- faithful ones of Israel; thou art seeking to destroy a city, and a mother in Israel; why dost thou swallow up the inheritance of Jehovah?
+
+**[20:20]** And Joab answereth and saith, `Far be it -- far be it from me; I do not swallow up nor destroy.
+
+**[20:21]** The matter `is' not so; for a man of the hill-country of Ephraim -- Sheba son of Bichri his name -- hath lifted up his hand against the king, against David; give ye up him by himself, and I go away from the city.' And the woman saith unto Joab, `Lo, his head is cast unto thee over the wall.'
+
+**[20:22]** And the woman cometh unto all the people in her wisdom, and they cut off the head of Sheba son of Bichri, and cast `it' unto Joab, and he bloweth with a trumpet, and they are scattered from the city, each to his tents, and Joab hath turned back to Jerusalem unto the king.
+
+**[20:23]** And Joab `is' over all the host of Israel, and Benaiah son of Jehoiada `is' over the Cherethite, and over the Pelethite,
+
+**[20:24]** and Adoram `is' over the tribute, and Jehoshaphat son of Ahilud `is' the remembrancer,
+
+**[20:25]** and Sheva `is' scribe, and Zadok and Abiathar `are' priests,
+
+**[20:26]** and also, Ira the Jairite hath been minister to David.
+
+**[21:1]** And there is a famine in the days of David three years, year after year, and David seeketh the face of Jehovah, and Jehovah saith, `For Saul and for the bloody house, because that he put to death the Gibeonites.'
+
+**[21:2]** And the king calleth for the Gibeonites, and saith unto them -- as to the Gibeonites, they `are' not of the sons of Israel, but of the remnant of the Amorite, and the sons of Israel had sworn to them, and Saul seeketh to smite them in his zeal for the sons of Israel and Judah --
+
+**[21:3]** yea, David saith unto the Gibeonites, `What do I do for you? and with what do I make atonement? and bless ye the inheritance of Jehovah.'
+
+**[21:4]** And the Gibeonites say to him, `We have no silver and gold by Saul and by his house, and we have no man to put to death in Israel;' and he saith, `What ye are saying I do to you.'
+
+**[21:5]** And they say unto the king, `The man who consumed us, and who devised against us -- we have been destroyed from stationing ourselves in all the border of Israel --
+
+**[21:6]** let there be given to us seven men of his sons, and we have hanged them before Jehovah, in the height of Saul, the chosen of Jehovah.' And the king saith, `I do give;'
+
+**[21:7]** and the king hath pity on Mephibosheth son of Jonathan, son of Saul, because of the oath of Jehovah that `is' between them, between David and Jonathan son of Saul;
+
+**[21:8]** and the king taketh the two sons of Rizpah daughter of Aiah, whom she bore to Saul, Armoni and Mephibosheth, and the five sons of Michal daughter of Saul whom she bare to Adriel son of Barzillai the Meholathite,
+
+**[21:9]** and giveth them into the hand of the Gibeonites, and they hang them in the hill before Jehovah; and the seven fall together, and they have been put to death in the days of harvest, in the first `days', the commencement of barley-harvest.
+
+**[21:10]** And Rizpah daughter of Aiah taketh the sackcloth, and stretcheth it out for herself on the rock, from the commencement of harvest till water hath been poured out upon them from the heavens, and hath not suffered a fowl of the heavens to rest upon them by day, or the beast of the field by night.
+
+**[21:11]** And it is declared to David that which Rizpah daughter of Aiah, concubine of Saul, hath done,
+
+**[21:12]** and David goeth and taketh the bones of Saul, and the bones of Jonathan his son, from the possessors of Jabesh-Gilead, who had stolen them from the broad place of Beth-Shan, where the Philistines hanged them, in the day of the Philistines smiting Saul in Gilboa;
+
+**[21:13]** and he bringeth up thence the bones of Saul, and the bones of Jonathan his son, and they gather the bones of those hanged,
+
+**[21:14]** and bury the bones of Saul and of Jonathan his son in the land of Benjamin, in Zelah, in the burying-place of Kish his father, and do all that the king commanded, and God is entreated for the land afterwards.
+
+**[21:15]** And again have the Philistines war with Israel, and David goeth down, and his servants with him, and they fight with the Philistines; and David is weary,
+
+**[21:16]** and Ishbi-Benob, who `is' among the children of the giant -- the weight of his spear `is' three hundred `shekels' weight of brass, and he is girded with a new one -- speaketh of smiting David,
+
+**[21:17]** and Abishai son of Zeruiah giveth help to him, and smiteth the Philistine, and putteth him to death; then swear the men of David to him, saying, `Thou dost not go out again with us to battle, nor quench the lamp of Israel.'
+
+**[21:18]** And it cometh to pass afterwards, that the battle is again in Gob with the Philistines, then hath Sibbechai the Hushathite smitten Saph, who `is' among the children of the giant.
+
+**[21:19]** And the battle is again in Gob with the Philistines, and Elhanan son of Jaare-Oregim, the Beth-Lehemite, smiteth `a brother of' Goliath the Gittite, and the wood of his spear `is' like a beam of weavers.
+
+**[21:20]** And the battle is again in Gath, and there is a man of stature, and the fingers of his hands `are' six, and the toes of his feet `are' six, twenty and four in number, and he also hath been born to the giant,
+
+**[21:21]** and he reproacheth Israel, and smite him doth Jonathan son of Shimeah, brother of David;
+
+**[21:22]** these four have been born to the giant in Gath, and they fall by the hand of David, and by the hand of his servants.
+
+**[22:1]** And David speaketh to Jehovah the words of this song in the day Jehovah hath delivered him out of the hand of all his enemies, and out of the hand of Saul,
+
+**[22:2]** and he saith: `Jehovah `is' my rock, And my bulwark, and a deliverer to me,
+
+**[22:3]** My God `is' my rock -- I take refuge in Him; My shield, and the horn of my salvation, My high tower, and my refuge! My Saviour, from violence Thou savest me!
+
+**[22:4]** The Praised One, I call Jehovah: And from mine enemies I am saved.
+
+**[22:5]** When the breakers of death compassed me, The streams of the worthless terrify me,
+
+**[22:6]** The cords of Sheol have surrounded me, Before me have been the snares of death.
+
+**[22:7]** In mine adversity I call Jehovah, And unto my God I call, And He heareth from His temple my voice, And my cry `is' in His ears,
+
+**[22:8]** And shake and tremble doth the earth, Foundations of the heavens are troubled, And are shaken, for He hath wrath!
+
+**[22:9]** Gone up hath smoke by His nostrils. And fire from His mouth devoureth, Brands have been kindled by it.
+
+**[22:10]** And He inclineth heaven, and cometh down, And thick darkness `is' under His feet.
+
+**[22:11]** And He rideth on a cherub, and doth fly, And is seen on the wings of the wind.
+
+**[22:12]** And He setteth darkness Round about Him -- tabernacles, Darkness of waters -- thick clouds of the skies.
+
+**[22:13]** From the brightness before Him Were brands of fire kindled!
+
+**[22:14]** Thunder from the heavens doth Jehovah, And the Most High giveth forth His voice.
+
+**[22:15]** And He sendeth forth arrows, And scattereth them; Lightning, and troubleth them;
+
+**[22:16]** And seen are the streams of the sea, Revealed are foundations of the world, By the rebuke of Jehovah, From the breath of the spirit of His anger.
+
+**[22:17]** He sendeth from above -- He taketh me, He draweth me out of many waters.
+
+**[22:18]** He delivereth me from my strong enemy, From those hating me, For they were stronger than I.
+
+**[22:19]** They are before me in a day of my calamity, And Jehovah is my support,
+
+**[22:20]** And He bringeth me out to a large place, He draweth me out for He delighted in me.
+
+**[22:21]** Jehovah recompenseth me, According to my righteousness, According to the cleanness of my hands, He doth return to me.
+
+**[22:22]** For I have kept the ways of Jehovah, And have not done wickedly against my God.
+
+**[22:23]** For all His judgments `are' before me, As to His statutes, I turn not from them.
+
+**[22:24]** And I am perfect before Him, And I keep myself from mine iniquity.
+
+**[22:25]** And Jehovah returneth to me, According to my righteousness, According to my cleanness before His eyes.
+
+**[22:26]** With the kind Thou shewest Thyself kind, With the perfect man Thou shewest Thyself perfect,
+
+**[22:27]** With the pure Thou shewest Thyself pure, And with the perverse Thou shewest Thyself a wrestler.
+
+**[22:28]** And the poor people Thou dost save, And Thine eyes on the high causest to fall.
+
+**[22:29]** For Thou `art' my lamp, O Jehovah, And Jehovah doth lighten my darkness.
+
+**[22:30]** For by Thee I run -- a troop, By my God I leap a wall.
+
+**[22:31]** God! Perfect `is' His way, The saying of Jehovah is tried, A shield He `is' to all those trusting in Him.
+
+**[22:32]** For who is God save Jehovah? And who a Rock save our God?
+
+**[22:33]** God -- my bulwark, `my' strength, And He maketh perfect my way;
+
+**[22:34]** Making my feet like hinds, And on my high places causeth me to stand,
+
+**[22:35]** Teaching my hands for battle, And brought down was a bow of brass by mine arms,
+
+**[22:36]** And Thou givest to me the shield of Thy salvation, And Thy lowliness maketh me great.
+
+**[22:37]** Thou enlargest my step under me, And mine ankles have not slidden.
+
+**[22:38]** I pursue mine enemies and destroy them, And I turn not till they are consumed.
+
+**[22:39]** And I consume them, and smite them, And they rise not, and fall under my feet.
+
+**[22:40]** And Thou girdest me `with' strength for battle, Thou causest my withstanders to bow under me.
+
+**[22:41]** And mine enemies -- Thou givest to me the neck, Those hating me -- and I cut them off.
+
+**[22:42]** They look, and there is no saviour; Unto Jehovah, and He hath not answered them.
+
+**[22:43]** And I beat them as dust of the earth, As mire of the streets I beat them small -- I spread them out!
+
+**[22:44]** And -- Thou dost deliver me From the strivings of my people, Thou placest me for a head of nations; A people I have not known do serve me.
+
+**[22:45]** Sons of a stranger feign obedience to me, At the hearing of the ear they hearken to me.
+
+**[22:46]** Sons of a stranger fade away, And gird themselves by their close places.
+
+**[22:47]** Jehovah liveth, and blessed `is' my Rock, And exalted is my God -- The Rock of my salvation.
+
+**[22:48]** God -- who is giving vengeance to me, And bringing down peoples under me,
+
+**[22:49]** And bringing me forth from mine enemies, Yea, above my withstanders Thou raisest me up. From a man of violence Thou deliverest me.
+
+**[22:50]** Therefore I confess Thee, O Jehovah, among nations. And to Thy name I sing praise.
+
+**[22:51]** Magnifying the salvations of His king, And doing loving-kindness to His anointed, To David, and to his seed -- unto the age!'
+
+**[23:1]** And these `are' the last words of David: -- `The affirmation of David son of Jesse -- And the affirmation of the man raised up -- Concerning the Anointed of the God of Jacob, And the Sweetness of the Songs of Israel:
+
+**[23:2]** The Spirit of Jehovah hath spoken by me, And His word `is' on my tongue.
+
+**[23:3]** He said -- the God of Israel -- to me, He spake -- the Rock of Israel: He who is ruling over man `is' righteous, He is ruling in the fear of God.
+
+**[23:4]** And as the light of morning he riseth, A morning sun -- no clouds! By the shining, by the rain, Tender grass of the earth!
+
+**[23:5]** For -- not so `is' my house with God; For -- a covenant age-during He made with me, Arranged in all things, and kept; For -- all my salvation, and all desire, For -- He hath not caused `it' to spring up.
+
+**[23:6]** As to the worthless -- As a thorn driven away `are' all of them, For -- not by hand are they taken;
+
+**[23:7]** And the man who cometh against them Is filled with iron and the staff of a spear, And with fire they are utterly burnt In the cessation.'
+
+**[23:8]** These `are' the names of the mighty ones whom David hath: sitting in the seat `is' the Tachmonite, head of the captains -- he `is' Adino, who hardened himself against eight hundred -- wounded at one time.
+
+**[23:9]** And after him `is' Eleazar son of Dodo, son of Ahohi, of the three mighty men with David; in their exposing themselves among the Philistines -- they have been gathered there to battle, and the men of Israel go up --
+
+**[23:10]** he hath arisen, and smiteth among the Philistines till that his hand hath been weary, and his hand cleaveth unto the sword, and Jehovah worketh a great salvation on that day, and the people turn back after him only to strip off.
+
+**[23:11]** And after him `is' Shammah son of Agee the Hararite, and the Philistines are gathered into a company, and there is there a portion of the field full of lentiles, and the people hath fled from the presence of the Philistines,
+
+**[23:12]** and he stationeth himself in the midst of the portion, and delivereth it, and smiteth the Philistines, and Jehovah worketh a great salvation.
+
+**[23:13]** And three of the thirty heads go down and come unto the harvest, unto David, unto the cave of Adullam, and the company of the Philistines are encamping in the valley of Rephaim,
+
+**[23:14]** and David `is' then in a fortress, and the station of the Philistines `is' then in Beth-Lehem,
+
+**[23:15]** and David longeth and saith, `Who doth give me a drink of the water of the well of Beth-Lehem, which `is' by the gate?'
+
+**[23:16]** And the three mighty ones cleave through the camp of the Philistines, and draw water out of the well of Beth-Lehem, which `is' by the gate, and take `it' up, and bring in unto David; and he was not willing to drink it, and poureth it out to Jehovah,
+
+**[23:17]** and saith, `Far be it from me, O Jehovah, to do this; is it the blood of the men who are going with their lives?' and he was not willing to drink it; these `things' did the three mighty ones.
+
+**[23:18]** And Abishai brother of Joab, son of Zeruiah, he `is' head of three, and he is lifting up his spear against three hundred -- wounded, and he hath a name among three.
+
+**[23:19]** Of the three is he not the honoured? and he becometh their head; and unto the `first' three he hath not come.
+
+**[23:20]** And Benaiah son of Jehoiada (son of a man of valour, great in deeds from Kabzeel), he hath smitten two lion-like men of Moab, and he hath gone down and smitten the lion in the midst of the pit in a day of snow.
+
+**[23:21]** And he hath smitten the Egyptian man, a man of appearance, and in the hand of the Egyptian `is' a spear, and he goeth down unto him with a rod, and taketh violently away the spear out of the hand of the Egyptian, and slayeth him with his own spear.
+
+**[23:22]** These `things' hath Benaiah son of Jehoiada done, and hath a name among three mighty.
+
+**[23:23]** Of the thirty he is honoured, and unto the three he came not; and David setteth him over his guard.
+
+**[23:24]** Asahel brother of Joab `is' of the thirty; Elhanan son of Dodo of Beth-Lehem.
+
+**[23:25]** Shammah the Harodite, Elika the Harodite,
+
+**[23:26]** Helez the Paltite, Ira son of Ikkesh the Tekoite,
+
+**[23:27]** Abiezer the Annethothite, Mebunnai the Hushathite,
+
+**[23:28]** Zalmon the Ahohite, Maharai the Netophathite,
+
+**[23:29]** Heleb son of Baanah the Netophathite, Ittai son of Ribai from Gibeah of the sons of Benjamin,
+
+**[23:30]** Benaiah the Pirathonite, Hiddai of the brooks of Gaash,
+
+**[23:31]** Abi-Albon the Arbathite, Azmaveth the Barhumite,
+
+**[23:32]** Eliahba the Shaalbonite, `of' the sons of Jashen, Jonathan,
+
+**[23:33]** Shammah the Hararite, Ahiam son of Sharar the Hararite,
+
+**[23:34]** Eliphelet son of Ahasbai, son of the Maachathite, Eliam son of Ahithophel the Gilonite,
+
+**[23:35]** Hezrai the Carmelite, Paarai the Arbite,
+
+**[23:36]** Igal son of Nathan from Zobah, Bani the Gadite,
+
+**[23:37]** Zelek the Ammonite, Naharai the Beerothite, bearer of the weapons of Joab son of Zeruiah,
+
+**[23:38]** Ira the Ithrite, Gareb the Ithrite,
+
+**[23:39]** Uriah the Hittite; in all thirty and seven.
+
+**[24:1]** And the anger of Jehovah addeth to burn against Israel, and `an adversary' moveth David about them, saying, `Go, number Israel and Judah.'
+
+**[24:2]** And the king saith unto Joab, head of the host that `is' with him, `Go to and fro, I pray thee, through all the tribes of Israel, from Dan even unto Beer-Sheba, and inspect ye the people -- and I have known the number of the people.'
+
+**[24:3]** And Joab saith unto the king, `Yea, Jehovah thy God doth add unto the people, as they are, a hundred times, and the eyes of my lord the king are seeing; and my lord the king, why is he desirous of this thing?'
+
+**[24:4]** And the word of the king is severe towards Joab, and against the heads of the force, and Joab goeth out, and the heads of the force, `from' before the king to inspect the people, even Israel;
+
+**[24:5]** and they pass over the Jordan, and encamp in Aroer, on the right of the city that `is' in the midst of the brook of Gad, and unto Jazer,
+
+**[24:6]** and they come in to Gilead, and unto the land of Tahtim-Hodshi, and they come in to Dan-Jaan, and round about unto Zidon,
+
+**[24:7]** and they come in to the fortress of Tyre, and all the cities of the Hivite, and of the Canaanite, and go out unto the south of Judah, to Beer-Sheba.
+
+**[24:8]** And they go to and fro through all the land, and come in at the end of nine months and twenty days to Jerusalem,
+
+**[24:9]** and Joab giveth the account of the inspection of the people unto the king, and Israel is eight hundred thousand men of valour, drawing sword, and the men of Judah five hundred thousand men.
+
+**[24:10]** And the heart of David smiteth him, after that he hath numbered the people, and David saith unto Jehovah, `I have sinned greatly in that which I have done, and now, O Jehovah, cause to pass away, I pray Thee, the iniquity of Thy servant, for I have acted very foolishly.'
+
+**[24:11]** And David riseth in the morning, and the word of Jehovah hath been unto Gad the prophet, seer of David, saying,
+
+**[24:12]** `Go, and thou hast spoken unto David, Thus said Jehovah: Three -- I am lifting up for thee, choose thee one of them, and I do `it' to thee.'
+
+**[24:13]** And Gad cometh in unto David, and declareth to him, and saith to him, `Do seven years of famine come in to thee in thy land? or three months art thou fleeing before thine adversary -- and he pursuing thee? or are three days' pestilence in thy land? now, know and see what word I take back to Him sending me.'
+
+**[24:14]** And David saith unto Gad, `I have great distress, let us fall, I pray thee, into the hand of Jehovah, for many `are' His mercies, and into the hand of man let me not fall.'
+
+**[24:15]** And Jehovah giveth a pestilence on Israel from the morning even unto the time appointed, and there die of the people, from Dan even unto Beer-Sheba, seventy thousand men,
+
+**[24:16]** and the messenger putteth forth his hand to Jerusalem to destroy it, and Jehovah repenteth concerning the evil, and saith to the messenger who is destroying among the people, `Enough, now, cease thy hand;' and the messenger of Jehovah was near the threshing-floor of Araunah the Jebusite.
+
+**[24:17]** And David speaketh unto Jehovah, when he seeth the messenger who is smiting among the people, and saith, `Lo, I have sinned, yea, I have done perversely; and these -- the flock -- what have they done? Let, I pray Thee, Thy hand be on me, and on the house of my father.'
+
+**[24:18]** And Gad cometh in unto David on that day, and saith to him, `Go up, raise to Jehovah an altar in the threshing-floor of Araunah the Jebusite;'
+
+**[24:19]** and David goeth up, according to the word of Gad, as Jehovah commanded.
+
+**[24:20]** And Araunah looketh, and seeth the king and his servants passing over unto him, and Araunah goeth out and boweth himself to the king -- his face to the earth.
+
+**[24:21]** And Araunah saith, `Wherefore hath my lord the king come unto his servant?' and David saith, `To buy from thee the threshing-floor, to build an altar to Jehovah, and the plague is restrained from the people.'
+
+**[24:22]** And Araunah saith unto David, `Let my lord the king take and cause to ascend that which is good in his eyes; see, the oxen for a burnt-offering, and the threshing instruments, and the instruments of the oxen, for wood;'
+
+**[24:23]** the whole hath Araunah given, `as' a king to a king; and Araunah saith unto the king, `Jehovah thy God doth accept thee.'
+
+**[24:24]** And the king saith unto Araunah, `Nay, for I do surely buy from thee for a price, and I do not cause to ascend to Jehovah my God burnt-offerings for nought;' and David buyeth the threshing-floor and the oxen for fifty shekels of silver,
+
+**[24:25]** and David buildeth there an altar to Jehovah, and causeth to ascend burnt-offerings and peace-offerings, and Jehovah is entreated for the land, and the plague is restrained from Israel.

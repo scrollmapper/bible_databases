@@ -1,0 +1,171 @@
+# Ruth - Bible in Basic English (BBE)
+
+**[1:1]** Now there came a time, in the days of the judges, when there was no food in the land. And a certain man went from Beth-lehem-judah, he and his wife and his two sons, to make a living-place in the country of Moab.
+
+**[1:2]** And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and were there for some time.
+
+**[1:3]** And Elimelech, Naomi's husband, came to his end; and only her two sons were with her.
+
+**[1:4]** And they took two women of Moab as their wives: the name of the one was Orpah, and the name of the other Ruth; and they went on living there for about ten years.
+
+**[1:5]** And Mahlon and Chilion came to their end; and the woman was without her two sons and her husband.
+
+**[1:6]** So she and her daughters-in-law got ready to go back from the country of Moab, for news had come to her in the country of Moab that the Lord, in mercy for his people, had given them food.
+
+**[1:7]** And she went out of the place where she was, and her two daughters-in-law with her; and they went on their way to go back to the land of Judah.
+
+**[1:8]** And Naomi said to her two daughters-in-law, Go back to your mothers' houses: may the Lord be good to you as you have been good to the dead and to me:
+
+**[1:9]** May the Lord give you rest in the houses of your husbands. Then she gave them a kiss; and they were weeping bitterly.
+
+**[1:10]** And they said to her, No, but we will go back with you to your people.
+
+**[1:11]** But Naomi said, Go back, my daughters; why will you come with me? Have I more sons in my body, to become your husbands?
+
+**[1:12]** Go back, my daughters, and go on your way; I am so old now that I may not have another husband. If I said, I have hopes, if I had a husband tonight, and might have sons,
+
+**[1:13]** Would you keep yourselves till they were old enough? would you keep from having husbands for them? No, my daughters; but I am very sad for you that the hand of the Lord is against me.
+
+**[1:14]** Then again they were weeping; and Orpah gave her mother-in-law a kiss, but Ruth would not be parted from her.
+
+**[1:15]** And Naomi said, See, your sister-in-law has gone back to her people and to her gods: go back after your sister-in-law.
+
+**[1:16]** But Ruth said, Give up requesting me to go away from you, or to go back without you: for where you go I will go; and where you take your rest I will take my rest; your people will be my people, and your God my God.
+
+**[1:17]** Wherever death comes to you, death will come to me, and there will be my last resting-place; the Lord do so to me and more if we are parted by anything but death.
+
+**[1:18]** And when she saw that Ruth was strong in her purpose to go with her she said no more.
+
+**[1:19]** So the two of them went on till they came to Beth-lehem. And when they came to Beth-lehem all the town was moved about them, and they said, Is this Naomi?
+
+**[1:20]** And she said to them, Do not let my name be Naomi, but Mara, for the Ruler of all has given me a bitter fate.
+
+**[1:21]** I went out full, and the Lord has sent me back again with nothing; why do you give me the name Naomi, seeing that the Lord has given witness against me, and the Ruler of all has sent sorrow on me?
+
+**[1:22]** So Naomi came back out of the country of Moab, and Ruth the Moabitess, her daughter-in-law, with her; and they came to Beth-lehem in the first days of the grain-cutting.
+
+**[2:1]** And Naomi had a relation of her husband, a man of wealth, of the family of Elimelech; and his name was Boaz.
+
+**[2:2]** And Ruth the Moabitess said to Naomi, Now let me go into the field and take up the heads of grain after him in whose eyes I may have grace. And she said to her, Go, my daughter.
+
+**[2:3]** And she went, and came and took up the heads of grain in the field after the cutters; and by chance she went into that part of the field which was the property of Boaz, who was of the family of Elimelech.
+
+**[2:4]** And Boaz came from Beth-lehem, and said to the grain-cutters, The Lord be with you. And they made answer, The Lord give you his blessing.
+
+**[2:5]** Then Boaz said to his servant who was in authority over the cutters, Whose girl is this?
+
+**[2:6]** And the servant who was in authority over the cutters said, It is a Moabite girl who came back with Naomi out of the country of Moab;
+
+**[2:7]** And she said to me, Let me come into the grain-field and take up the grain after the cutters. So she came, and has been here from morning till now, without resting even for a minute.
+
+**[2:8]** Then said Boaz to Ruth, Give ear to me, my daughter: do not go to take up the grain in another field, or go away from here, but keep here by my young women:
+
+**[2:9]** Keep your eyes on the field they are cutting, and go after them; have I not given orders to the young men not to put a hand on you? And when you are in need of drink go to the vessels and take of what the young men have put there.
+
+**[2:10]** Then she went down on her face to the earth, and said to him, Why have I grace in your eyes, that you give attention to me, seeing I am from a strange people?
+
+**[2:11]** And Boaz answering said to her, I have had news of everything you have done for your mother-in-law after the death of your husband; how you went away from your father and mother and the land of your birth, and came to a people who are strange to you.
+
+**[2:12]** The Lord give you a reward for what you have done, and may a full reward be given to you by the Lord, the God of Israel, under whose wings you have come to take cover.
+
+**[2:13]** Then she said, May I have grace in your eyes, my lord, for you have given me comfort, and you have said kind words to your servant, though I am not like one of your servants.
+
+**[2:14]** And at meal-time Boaz said to her, Come here, and take some of the bread, and put your bit into the wine. And she took her seat among the grain-cutters: and he gave her dry grain, and she took it, and there was more than enough for her meal.
+
+**[2:15]** And when she got ready to take up the grain, Boaz gave his young men orders, saying, Let her take it even from among the cut grain, and say nothing to her.
+
+**[2:16]** And let some heads of grain be pulled out of what has been corded up, and dropped for her to take, and let no sharp word be said to her.
+
+**[2:17]** So she went on getting together the heads of grain till evening; and after crushing out the seed it came to about an ephah of grain.
+
+**[2:18]** And she took it up and went into the town; and she let her mother-in-law see what she had got, and after taking enough for herself she gave her the rest.
+
+**[2:19]** And her mother-in-law said to her, Where did you take up the grain today, and where were you working? May a blessing be on him who gave such attention to you. And she gave her mother-in-law an account of where she had been working, and said, The name of the man with whom I was working today is Boaz.
+
+**[2:20]** And Naomi said to her daughter-in-law, May the blessing of the Lord, who has at all times been kind to the living and to the dead, be on him. And Naomi said to her, The man is of our family, one of our near relations.
+
+**[2:21]** And Ruth the Moabitess said, Truly, he said to me, Keep near my young men till all my grain is cut.
+
+**[2:22]** And Naomi said to Ruth, her daughter-in-law, It is better, my daughter, for you to go out with his servant-girls, so that no danger may come to you in another field.
+
+**[2:23]** So she kept near the servant-girls of Boaz to take up the grain till the cutting of the early grain and the cutting of the late grain were ended; and she went on living with her mother-in-law.
+
+**[3:1]** And Naomi, her mother-in-law, said to her, My daughter, am I not to get you a resting-place where you may be in comfort?
+
+**[3:2]** And now, is there not Boaz, our relation, with whose young women you were? See, tonight he is separating the grain from the waste in his grain-floor.
+
+**[3:3]** So take a bath, and, after rubbing your body with sweet oil, put on your best robe, and go down to the grain-floor; but do not let him see you till he has come to the end of his meal.
+
+**[3:4]** But see to it, when he goes to rest, that you take note of the place where he is sleeping, and go in there, and, uncovering his feet, take your place by him; and he will say what you are to do.
+
+**[3:5]** And she said, I will do all you say.
+
+**[3:6]** So she went down to the grain-floor and did all her mother-in-law had said to her.
+
+**[3:7]** Now when Boaz had taken meat and drink, and his heart was glad, he went to take his rest at the end of the mass of grain; then she came softly and, uncovering his feet, went to rest.
+
+**[3:8]** Now in the middle of the night, the man awaking from his sleep in fear, and lifting himself up, saw a woman stretched at his feet.
+
+**[3:9]** And he said, Who are you? And she answering said, I am your servant Ruth: take your servant as wife, for you are a near relation.
+
+**[3:10]** And he said, May the Lord give you his blessing, my daughter: even better than what you did at the first is this last kind act you have done, in not going after young men, with or without wealth.
+
+**[3:11]** And now, my daughter, have no fear; I will do for you whatever you say: for it is clear to all my townspeople that you are a woman of virtue.
+
+**[3:12]** Now it is true that I am a near relation: but there is a relation nearer than I.
+
+**[3:13]** Take your rest here tonight; and in the morning, if he will do for you what it is right for a relation to do, very well, let him do so: but if he will not, then by the living Lord I myself will do so.
+
+**[3:14]** And she took her rest at his feet till the morning: and she got up before it was light enough for one to see another. And he said, Let it not come to anyone's knowledge that the woman came to the grain-floor.
+
+**[3:15]** And he said, Take your robe, stretching it out in your hands: and she did so, and he took six measures of grain and put them into it, and gave it her to take: and she went back to the town.
+
+**[3:16]** And when she came back her mother-in-law said to her, How did it go with you, my daughter? And she gave her an account of all the man had done to her.
+
+**[3:17]** And she said, He gave me these six measures of grain, saying, Do not go back to your mother-in-law with nothing in your hands.
+
+**[3:18]** Then she said, Do nothing now, my daughter, till you see what will come of this; for the man will take no rest till he has put this thing through.
+
+**[4:1]** And Boaz went up to the public place of the town, and took his seat there: and the near relation of whom he had been talking came by; and Boaz, crying out to him by name, said, Come and be seated here. And he came and was seated.
+
+**[4:2]** Then he got ten of the responsible men of the town, and said, Be seated here. And they took their seats.
+
+**[4:3]** Then he said to the near relation, Naomi, who has come back from the country of Moab, is offering for a price that bit of land which was our brother Elimelech's:
+
+**[4:4]** And it was in my mind to give you the chance of taking it, with the approval of those seated here and of the responsible men of my people. If you are ready to do what it is right for a relation to do, then do it: but if you will not do it, say so to me now; for there is no one who has the right to do it but you, and after you myself. And he said, I will do it.
+
+**[4:5]** Then Boaz said, On the day when you take this field, you will have to take with it Ruth, the Moabitess, the wife of the dead, so that you may keep the name of the dead living in his heritage.
+
+**[4:6]** And the near relation said, I am not able to do the relation's part, for fear of damaging the heritage I have: you may do it in my place, for I am not able to do it myself.
+
+**[4:7]** Now, in earlier times this was the way in Israel when property was taken over by a near relation, or when there was a change of owner. To make the exchange certain one man took off his shoe and gave it to the other; and this was a witness in Israel.
+
+**[4:8]** So the near relation said to Boaz, Take it for yourself. And he took off his shoe.
+
+**[4:9]** Then Boaz said to the responsible men and to all the people, You are witnesses today that I have taken at a price from Naomi all the property which was Elimelech's, and everything which was Chilion's and Mahlon's.
+
+**[4:10]** And, further, I have taken Ruth, the Moabitess, who was the wife of Mahlon, to be my wife, to keep the name of the dead man living in his heritage, so that his name may not be cut off from among his countrymen, and from the memory of his town: you are witnesses this day.
+
+**[4:11]** And all the people who were in the public place, and the responsible men, said, We are witnesses. May the Lord make this woman, who is about to come into your house, like Rachel and Leah, which two were the builders of the house of Israel: and may you have wealth in Ephrathah, and be great in Beth-lehem;
+
+**[4:12]** May your family be like the family of Perez, the son whom Tamar gave to Judah, from the offspring which the Lord may give you by this young woman.
+
+**[4:13]** So Boaz took Ruth and she became his wife; and he went in to her, and the Lord made her with child and she gave birth to a son.
+
+**[4:14]** And the women said to Naomi, A blessing on the Lord, who has not let you be this day without a near relation, and may his name be great in Israel.
+
+**[4:15]** He will be a giver of new life to you, and your comforter when you are old, for your daughter-in-law, who, in her love for you, is better than seven sons, has given birth to him.
+
+**[4:16]** And Naomi took the child and put her arms round it, and she took care of it.
+
+**[4:17]** And the women who were her neighbours gave it a name, saying, Naomi has a child; and they gave him the name of Obed: he is the father of Jesse, the father of David.
+
+**[4:18]** Now these are the generations of Perez: Perez became the father of Hezron;
+
+**[4:19]** And Hezron became the father of Ram, and Ram became the father of Amminadab;
+
+**[4:20]** And Amminadab became the father of Nahshon, and Nahshon became the father of Salmon;
+
+**[4:21]** And Salmon became the father of Boaz, and Boaz became the father of Obed;
+
+**[4:22]** And Obed became the father of Jesse, and Jesse became the father of David.

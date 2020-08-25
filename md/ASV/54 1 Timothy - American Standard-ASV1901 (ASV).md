@@ -1,0 +1,227 @@
+# 1 Timothy - American Standard-ASV1901 (ASV)
+
+**[1:1]** Paul, an apostle of Christ Jesus according to the commandment of God our Saviour, and Christ Jesus our hope;
+
+**[1:2]** unto Timothy, my true child in faith: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.
+
+**[1:3]** As I exhorted thee to tarry at Ephesus, when I was going into Macedonia, that thou mightest charge certain men not to teach a different doctrine,
+
+**[1:4]** neither to give heed to fables and endless genealogies, which minister questionings, rather than a dispensation of God which is in faith; `so do I now'.
+
+**[1:5]** But the end of the charge is love out of a pure heart and a good conscience and faith unfeigned:
+
+**[1:6]** from which things some having swerved have turned aside unto vain talking;
+
+**[1:7]** desiring to be teachers of the law, though they understand neither what they say, nor whereof they confidently affirm.
+
+**[1:8]** But we know that the law is good, if a man use it lawfully,
+
+**[1:9]** as knowing this, that law is not made for a righteous man, but for the lawless and unruly, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+
+**[1:10]** for fornicators, for abusers of themselves with men, for menstealers, for liars, for false swearers, and if there be any other thing contrary to the sound doctrine;
+
+**[1:11]** according to the gospel of the glory of the blessed God, which was committed to my trust.
+
+**[1:12]** I thank him that enabled me, `even' Christ Jesus our Lord, for that he counted me faithful, appointing me to `his' service;
+
+**[1:13]** though I was before a blasphemer, and a persecutor, and injurious: howbeit I obtained mercy, because I did it ignorantly in unbelief;
+
+**[1:14]** and the grace of our Lord abounded exceedingly with faith and love which is in Christ Jesus.
+
+**[1:15]** Faithful is the saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief:
+
+**[1:16]** howbeit for this cause I obtained mercy, that in me as chief might Jesus Christ show forth all his longsuffering, for an ensample of them that should thereafter believe on him unto eternal life.
+
+**[1:17]** Now unto the King eternal, immortal, invisible, the only God, `be' honor and glory forever and ever. Amen.
+
+**[1:18]** This charge I commit unto thee, my child Timothy, according to the prophecies which led the way to thee, that by them thou mayest war the good warfare;
+
+**[1:19]** holding faith and a good conscience; which some having thrust from them made shipwreck concerning the faith:
+
+**[1:20]** of whom is Hymenaeus and Alexander; whom I delivered unto Satan, that they might be taught not to blaspheme.
+
+**[2:1]** I exhort therefore, first of all, that supplications, prayers, intercessions, thanksgivings, be made for all men;
+
+**[2:2]** for kings and all that are in high place; that we may lead a tranquil and quiet life in all godliness and gravity.
+
+**[2:3]** This is good and acceptable in the sight of God our Saviour;
+
+**[2:4]** who would have all men to be saved, and come to the knowledge of the truth.
+
+**[2:5]** For there is one God, one mediator also between God and men, `himself' man, Christ Jesus,
+
+**[2:6]** who gave himself a ransom for all; the testimony `to be borne' in its own times;
+
+**[2:7]** whereunto I was appointed a preacher and an apostle (I speak the truth, I lie not), a teacher of the Gentiles in faith and truth.
+
+**[2:8]** I desire therefore that the men pray in every place, lifting up holy hands, without wrath and disputing.
+
+**[2:9]** In like manner, that women adorn themselves in modest apparel, with shamefastness and sobriety; not with braided hair, and gold or pearls or costly raiment;
+
+**[2:10]** but (which becometh women professing godliness) through good works.
+
+**[2:11]** Let a woman learn in quietness with all subjection.
+
+**[2:12]** But I permit not a woman to teach, nor to have dominion over a man, but to be in quietness.
+
+**[2:13]** For Adam was first formed, then Eve;
+
+**[2:14]** and Adam was not beguiled, but the woman being beguiled hath fallen into transgression:
+
+**[2:15]** but she shall be saved through her child-bearing, if they continue in faith and love and sanctification with sobriety.
+
+**[3:1]** Faithful is the saying, If a man seeketh the office of a bishop, he desireth a good work.
+
+**[3:2]** The bishop therefore must be without reproach, the husband of one wife, temperate, sober-minded, orderly, given to hospitality, apt to teach;
+
+**[3:3]** no brawler, no striker; but gentle, not contentious, no lover of money;
+
+**[3:4]** one that ruleth well his own house, having `his' children in subjection with all gravity;
+
+**[3:5]** (but if a man knoweth not how to rule his own house, how shall he take care of the church of God?)
+
+**[3:6]** not a novice, lest being puffed up he fall into the condemnation of the devil.
+
+**[3:7]** Moreover he must have good testimony from them that are without; lest he fall into reproach and the snare of the devil.
+
+**[3:8]** Deacons in like manner `must be' grave, not double-tongued, not given to much wine, not greedy of filthy lucre;
+
+**[3:9]** holding the mystery of the faith in a pure conscience.
+
+**[3:10]** And let these also first be proved; then let them serve as deacons, if they be blameless.
+
+**[3:11]** Women in like manner `must be' grave, not slanderers, temperate, faithful in all things.
+
+**[3:12]** Let deacons be husbands of one wife, ruling `their' children and their own houses well.
+
+**[3:13]** For they that have served well as deacons gain to themselves a good standing, and great boldness in the faith which is in Christ Jesus.
+
+**[3:14]** These things write I unto thee, hoping to come unto thee shortly;
+
+**[3:15]** but if I tarry long, that thou mayest know how men ought to behave themselves in the house of God, which is the church of the living God, the pillar and ground of the truth.
+
+**[3:16]** And without controversy great is the mystery of godliness; He who was manifested in the flesh, Justified in the spirit, Seen of angels, Preached among the nations, Believed on in the world, Received up in glory.
+
+**[4:1]** But the Spirit saith expressly, that in later times some shall fall away from the faith, giving heed to seducing spirits and doctrines of demons,
+
+**[4:2]** through the hypocrisy of men that speak lies, branded in their own conscience as with a hot iron;
+
+**[4:3]** forbidding to marry, `and commanding' to abstain from meats, which God created to be received with thanksgiving by them that believe and know the truth.
+
+**[4:4]** For every creature of God is good, and nothing is to be rejected, if it be received with thanksgiving:
+
+**[4:5]** for it is sanctified through the word of God and prayer.
+
+**[4:6]** If thou put the brethren in mind of these things, thou shalt be a good minister of Christ Jesus, nourished in the words of the faith, and of the good doctrine which thou hast followed `until now':
+
+**[4:7]** but refuse profane and old wives' fables. And exercise thyself unto godliness:
+
+**[4:8]** for bodily exercise is profitable for a little; but godliness is profitable for all things, having promise of the life which now is, and of that which is to come.
+
+**[4:9]** Faithful is the saying, and worthy of all acceptation.
+
+**[4:10]** For to this end we labor and strive, because we have our hope set on the living God, who is the Saviour of all men, specially of them that believe.
+
+**[4:11]** These things command and teach.
+
+**[4:12]** Let no man despise thy youth; but be thou an ensample to them that believe, in word, in manner of life, in love, in faith, in purity.
+
+**[4:13]** Till I come, give heed to reading, to exhortation, to teaching.
+
+**[4:14]** Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.
+
+**[4:15]** Be diligent in these things; give thyself wholly to them; that thy progress may be manifest unto all.
+
+**[4:16]** Take heed to thyself, and to thy teaching. Continue in these things; for in doing this thou shalt save both thyself and them that hear thee.
+
+**[5:1]** Rebuke not an elder, but exhort him as a father; the younger men as brethren:
+
+**[5:2]** the elder women as mothers; the younger as sisters, in all purity.
+
+**[5:3]** Honor widows that are widows indeed.
+
+**[5:4]** But if any widow hath children or grandchildren, let them learn first to show piety towards their own family, and to requite their parents: for this is acceptable in the sight of God.
+
+**[5:5]** Now she that is a widow indeed, and desolate, hath her hope set on God, and continueth in supplications and prayers night and day.
+
+**[5:6]** But she that giveth herself to pleasure is dead while she liveth.
+
+**[5:7]** These things also command, that they may be without reproach.
+
+**[5:8]** But if any provideth not for his own, and specially his own household, he hath denied the faith, and is worse than an unbeliever.
+
+**[5:9]** Let none be enrolled as a widow under threescore years old, `having been' the wife of one man,
+
+**[5:10]** well reported of for good works; if she hath brought up children, if she hath used hospitality to strangers, if she hath washed the saints' feet, if she hath relieved the afflicted, if she hath diligently followed every good work.
+
+**[5:11]** But younger widows refuse: for when they have waxed wanton against Christ, they desire to marry;
+
+**[5:12]** having condemnation, because they have rejected their first pledge.
+
+**[5:13]** And withal they learn also `to be' idle, going about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.
+
+**[5:14]** I desire therefore that the younger `widows' marry, bear children, rule the household, give no occasion to the adversary for reviling:
+
+**[5:15]** for already some are turned aside after Satan.
+
+**[5:16]** If any woman that believeth hath widows, let her relieve them, and let not the church be burdened; that it mat relieve them that are widows indeed.
+
+**[5:17]** Let the elders that rule well be counted worthy of double honor, especially those who labor in the word and in teaching.
+
+**[5:18]** For the scripture saith, Thou shalt not muzzle the ox when he treadeth out the corn. And, The laborer is worthy of his hire.
+
+**[5:19]** Against an elder receive not an accusation, except at `the mouth of' two or three witnesses.
+
+**[5:20]** Them that sin reprove in the sight of all, that the rest also may be in fear.
+
+**[5:21]** I charge `thee' in the sight of God, and Christ Jesus, and the elect angels, that thou observe these things without prejudice, doing nothing by partiality.
+
+**[5:22]** Lay hands hastily on no man, neither be partaker of other men's sins: keep thyself pure.
+
+**[5:23]** Be no longer a drinker of water, but use a little wine for thy stomach's sake and thine often infirmities.
+
+**[5:24]** Some men's sins are evident, going before unto judgment; and some men also they follow after.
+
+**[5:25]** In like manner also there are good works that are evident; and such as are otherwise cannot be hid.
+
+**[6:1]** Let as many as are servants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine be not blasphemed.
+
+**[6:2]** And they that have believing masters, let them not despise them, because they are brethren; but let them serve them the rather, because they that partake of the benefit are believing and beloved. These things teach and exhort.
+
+**[6:3]** If any man teacheth a different doctrine, and consenteth not to sound words, `even' the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
+
+**[6:4]** he is puffed up, knowing nothing, but doting about questionings and disputes of words, whereof cometh envy, strife, railings, evil surmisings,
+
+**[6:5]** wranglings of men corrupted in mind and bereft of the truth, supposing that godliness is a way of gain.
+
+**[6:6]** But godliness with contentment is great gain:
+
+**[6:7]** for we brought nothing into the world, for neither can we carry anything out;
+
+**[6:8]** but having food and covering we shall be therewith content.
+
+**[6:9]** But they that are minded to be rich fall into a temptation and a snare and many foolish and hurtful lusts, such as drown men in destruction and perdition.
+
+**[6:10]** For the love of money is a root of all kinds of evil: which some reaching after have been led astray from the faith, and have pierced themselves through with many sorrows.
+
+**[6:11]** But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
+
+**[6:12]** Fight the good fight of the faith, lay hold on the life eternal, whereunto thou wast called, and didst confess the good confession in the sight of many witnesses.
+
+**[6:13]** I charge thee in the sight of God, who giveth life to all things, and of Christ Jesus, who before Pontius Pilate witnessed the good confession;
+
+**[6:14]** that thou keep the commandment, without spot, without reproach, until the appearing of our Lord Jesus Christ:
+
+**[6:15]** which in its own times he shall show, who is the blessed and only Potentate, the King of kings, and Lord of lords;
+
+**[6:16]** who only hath immortality, dwelling in light unapproachable; whom no man hath seen, nor can see: to whom `be' honor and power eternal. Amen.
+
+**[6:17]** Charge them that are rich in this present world, that they be not highminded, nor have their hope set on the uncertainty of riches, but on God, who giveth us richly all things to enjoy;
+
+**[6:18]** that they do good, that they be rich in good works, that they be ready to distribute, willing to communicate;
+
+**[6:19]** laying up in store for themselves a good foundation against the time to come, that they may lay hold on the life which is `life' indeed.
+
+**[6:20]** O Timothy, guard that which is committed unto `thee', turning away from the profane babblings and oppositions of the knowledge which is falsely so called;
+
+**[6:21]** which some professing have erred concerning the faith. Grace be with you.

@@ -1,0 +1,167 @@
+# 2 Timothy - Bible in Basic English (BBE)
+
+**[1:1]** Paul, an Apostle of Jesus Christ by the purpose of God, in the hope of the life which is in Christ Jesus,
+
+**[1:2]** To Timothy, my well-loved child: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.
+
+**[1:3]** I give praise to God, whose servant I have been, with a heart free from sin, from the time of my fathers, because in my prayers at all times the thought of you is with me, night and day
+
+**[1:4]** Desiring to see you, keeping in my memory your weeping, so that I may be full of joy;
+
+**[1:5]** Having in mind your true faith, which first was in your mother's mother Lois, and in your mother Eunice, and, I am certain, is now in you.
+
+**[1:6]** For this reason I say to you, Let that grace of God which is in you, given to you by my hands, have living power.
+
+**[1:7]** For God did not give us a spirit of fear, but of power and of love and of self-control.
+
+**[1:8]** Have no feeling of shame, then, for the witness of our Lord or for me, his prisoner: but undergo all things for the good news in the measure of the power of God;
+
+**[1:9]** Who gave us salvation, marking us out for his purpose, not on account of our works, but in the measure of his purpose and his grace, which was given to us in Christ Jesus before times eternal,
+
+**[1:10]** But has now been made clear by the revelation of our Saviour Christ Jesus, who put an end to death and made life unending come to light through the good news,
+
+**[1:11]** Of which I was made a preacher and an Apostle and a teacher;
+
+**[1:12]** And for which I undergo these things: but I have no feeling of shame. For I have knowledge of him in whom I have faith, and I am certain that he is able to keep that which I have given into his care till that day.
+
+**[1:13]** Keep the form of those true words which you had from me, in faith and love which is in Christ Jesus.
+
+**[1:14]** That good thing which was given to you keep safe, through the Holy Spirit which is in us.
+
+**[1:15]** You have had news that all those in Asia went away from me; among whom are Phygelus and Hermogenes:
+
+**[1:16]** May the Lord give mercy to the house of Onesiphorus because he frequently gave me help, and had no feeling of shame because I was in chains;
+
+**[1:17]** But when he was in Rome, he went in search of me everywhere, and came to me
+
+**[1:18]** (May he have the Lord's mercy in that day); and of all he did for me at Ephesus you have full knowledge.
+
+**[2:1]** So then, my child, be strong in the grace which is in Christ Jesus.
+
+**[2:2]** And the things which I have said to you before a number of witnesses, give to those of the faith, so that they may be teachers of others.
+
+**[2:3]** Be ready to do without the comforts of life, as one of the army of Christ Jesus.
+
+**[2:4]** A fighting man, when he is with the army, keeps himself free from the business of this life so that he may be pleasing to him who has taken him into his army.
+
+**[2:5]** And if a man takes part in a competition he does not get the crown if he has not kept the rules.
+
+**[2:6]** It is right for the worker in the fields to be the first to take of the fruit.
+
+**[2:7]** Give thought to what I say; for the Lord will give you wisdom in all things.
+
+**[2:8]** Keep in mind Jesus Christ, of the seed of David, who came back from the dead, as my good news gives witness:
+
+**[2:9]** In which I put up with the hardest conditions, even prison chains, like one who has done a crime; but the word of God is not in chains.
+
+**[2:10]** But I undergo all things for the saints, so that they may have salvation in Christ Jesus with eternal glory.
+
+**[2:11]** This is a true saying: If we undergo death with him, then will we be living with him:
+
+**[2:12]** If we go on to the end, then we will be ruling with him: if we say we have no knowledge of him, then he will say he has no knowledge of us:
+
+**[2:13]** If we are without faith, still he keeps faith, for he will never be untrue to himself.
+
+**[2:14]** Put these things before them, giving them orders in the name of the Lord to keep themselves from fighting about words, which is of no profit, only causing error in their hearers.
+
+**[2:15]** Let it be your care to get the approval of God, as a workman who has no cause for shame, giving the true word in the right way.
+
+**[2:16]** But take no part in wrong and foolish talk, for those who do so will go farther into evil,
+
+**[2:17]** And their words will be like poisoned wounds in the flesh: such are Hymenaeus and Philetus;
+
+**[2:18]** Men whose ideas are all false, who say that the coming back from the dead has even now taken place, overturning the faith of some.
+
+**[2:19]** But God's strong base is unchanging, having this sign, The Lord has knowledge of those who are his: and, Let everyone by whom the name of the Lord is named be turned away from evil.
+
+**[2:20]** Now in a great house there are not only vessels of gold and silver, but others of wood and earth, and some which are honoured and some without honour.
+
+**[2:21]** If a man makes himself clean from these, he will be a vessel for honour, made holy, ready for the master's use, ready for every good work.
+
+**[2:22]** But keep yourself from those desires of the flesh which are strong when the body is young, and go after righteousness, faith, love, peace, with those whose prayers go up to the Lord from a clean heart.
+
+**[2:23]** And put away foolish and uncontrolled questionings, seeing that they are a cause of trouble.
+
+**[2:24]** For it is not right for the Lord's servant to make trouble, but he is to be gentle to all, ready in teaching, putting up with wrong,
+
+**[2:25]** Gently guiding those who go against the teaching; if by chance God may give them a change of heart and true knowledge,
+
+**[2:26]** And so they may get themselves free from the net of the Evil One, being made the prisoners of the Lord's servant, for the purpose of God.
+
+**[3:1]** But be certain of this, that in the last days times of trouble will come.
+
+**[3:2]** For men will be lovers of self, lovers of money, uplifted in pride, given to bitter words, going against the authority of their fathers, never giving praise, having no religion,
+
+**[3:3]** Without natural love, bitter haters, saying evil of others, violent and uncontrolled, hating all good,
+
+**[3:4]** False to their friends, acting without thought, lifted up in mind, loving pleasure more than God;
+
+**[3:5]** Having a form of religion, but turning their backs on the power of it: go not with these.
+
+**[3:6]** For these are they who go secretly into houses, making prisoners of foolish women, weighted down with sin, turned from the way by their evil desires,
+
+**[3:7]** Ever learning, and never coming to the knowledge of what is true.
+
+**[3:8]** And as James and Jambres went against Moses, so do these go against what is true: men of evil minds, who, tested by faith, are seen to be false.
+
+**[3:9]** But they will go no farther: for their foolish behaviour will be clear to all men, as theirs was in the end.
+
+**[3:10]** But you took as your example my teaching, behaviour, purpose, and faith; my long waiting, my love, my quiet undergoing of trouble;
+
+**[3:11]** My punishments and pain; the things which came to me at Antioch, at Iconium, at Lystra; the cruel attacks made on me: and the Lord made me free from them all.
+
+**[3:12]** Yes, and all whose purpose is to be living in the knowledge of God in Christ Jesus, will be cruelly attacked.
+
+**[3:13]** Evil and false men will become worse and worse, using deceit and themselves overcome by deceit.
+
+**[3:14]** But see that you keep to the teaching you have been given and the things of which you are certain, conscious of who has been your teacher;
+
+**[3:15]** And that from the time when you were a child, you have had knowledge of the holy Writings, which are able to make you wise to salvation, through faith in Christ Jesus.
+
+**[3:16]** Every holy Writing which comes from God is of profit for teaching, for training, for guiding, for education in righteousness:
+
+**[3:17]** So that the man of God may be complete, trained and made ready for every good work.
+
+**[4:1]** I give you orders, before God and Christ Jesus, who will be the judge of the living and the dead, and by his revelation and his kingdom;
+
+**[4:2]** Be preaching the word at all times, in every place; make protests, say sharp words, give comfort, with long waiting and teaching;
+
+**[4:3]** For the time will come when they will not take the true teaching; but, moved by their desires, they will get for themselves a great number of teachers for the pleasure of hearing them;
+
+**[4:4]** And shutting their ears to what is true, will be turned away to belief in foolish stories.
+
+**[4:5]** But be self-controlled in all things, do without comfort, go on preaching the good news, completing the work which has been given you to do.
+
+**[4:6]** For I am even now being offered, and my end is near.
+
+**[4:7]** I have made a good fight, I have come to the end of my journey, I have kept the faith:
+
+**[4:8]** From now on, the crown of righteousness is made ready for me, which the Lord, the upright judge, Will give to me at that day: and not only to me, but to all those who have had love for his revelation.
+
+**[4:9]** Do your best to come to me before long:
+
+**[4:10]** For Demas has gone away from me, for love of this present life, and has gone to Thessalonica: Crescens has gone to Galatia, Titus to Dalmatia.
+
+**[4:11]** Only Luke is with me. Get Mark and take him with you; for he is of use to me in the work.
+
+**[4:12]** Tychicus I sent to Ephesus.
+
+**[4:13]** The coat which I did not take from Troas and which is with Carpus, get when you come, and the books, specially the papers.
+
+**[4:14]** Alexander the copper-worker did me much wrong: the Lord will give him the reward of his works:
+
+**[4:15]** But be on the watch for him, for he was violent in his attacks on our teaching.
+
+**[4:16]** At my first meeting with my judges, no one took my part, but all went away from me. May it not be put to their account.
+
+**[4:17]** But the Lord was by my side and gave me strength; so that through me the news might be given out in full measure, and all the Gentiles might give ear: and I was taken out of the mouth of the lion.
+
+**[4:18]** The Lord will keep me safe from every evil work and will give me salvation in his kingdom in heaven: to whom be glory for ever and ever. So be it.
+
+**[4:19]** Give my love to Prisca and Aquila and those of the house of Onesiphorus.
+
+**[4:20]** Erastus was stopping at Corinth; but Trophimus, when I last saw him was at Miletus, ill.
+
+**[4:21]** Do your best to come before the winter. Eubulus sends you his love, and Pudens and Linus and Claudia, and all the brothers.
+
+**[4:22]** The Lord be with your spirit. Grace be with you.

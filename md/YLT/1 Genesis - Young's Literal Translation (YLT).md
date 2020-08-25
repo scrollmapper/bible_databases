@@ -1,0 +1,3067 @@
+# Genesis - Young's Literal Translation (YLT)
+
+**[1:1]** In the beginning of God's preparing the heavens and the earth --
+
+**[1:2]** the earth hath existed waste and void, and darkness `is' on the face of the deep, and the Spirit of God fluttering on the face of the waters,
+
+**[1:3]** and God saith, `Let light be;' and light is.
+
+**[1:4]** And God seeth the light that `it is' good, and God separateth between the light and the darkness,
+
+**[1:5]** and God calleth to the light `Day,' and to the darkness He hath called `Night;' and there is an evening, and there is a morning -- day one.
+
+**[1:6]** And God saith, `Let an expanse be in the midst of the waters, and let it be separating between waters and waters.'
+
+**[1:7]** And God maketh the expanse, and it separateth between the waters which `are' under the expanse, and the waters which `are' above the expanse: and it is so.
+
+**[1:8]** And God calleth to the expanse `Heavens;' and there is an evening, and there is a morning -- day second.
+
+**[1:9]** And God saith, `Let the waters under the heavens be collected unto one place, and let the dry land be seen:' and it is so.
+
+**[1:10]** And God calleth to the dry land `Earth,' and to the collection of the waters He hath called `Seas;' and God seeth that `it is' good.
+
+**[1:11]** And God saith, `Let the earth yield tender grass, herb sowing seed, fruit-tree (whose seed `is' in itself) making fruit after its kind, on the earth:' and it is so.
+
+**[1:12]** And the earth bringeth forth tender grass, herb sowing seed after its kind, and tree making fruit (whose seed `is' in itself) after its kind; and God seeth that `it is' good;
+
+**[1:13]** and there is an evening, and there is a morning -- day third.
+
+**[1:14]** And God saith, `Let luminaries be in the expanse of the heavens, to make a separation between the day and the night, then they have been for signs, and for seasons, and for days and years,
+
+**[1:15]** and they have been for luminaries in the expanse of the heavens to give light upon the earth:' and it is so.
+
+**[1:16]** And God maketh the two great luminaries, the great luminary for the rule of the day, and the small luminary -- and the stars -- for the rule of the night;
+
+**[1:17]** and God giveth them in the expanse of the heavens to give light upon the earth,
+
+**[1:18]** and to rule over day and over night, and to make a separation between the light and the darkness; and God seeth that `it is' good;
+
+**[1:19]** and there is an evening, and there is a morning -- day fourth.
+
+**[1:20]** And God saith, `Let the waters teem with the teeming living creature, and fowl let fly on the earth on the face of the expanse of the heavens.'
+
+**[1:21]** And God prepareth the great monsters, and every living creature that is creeping, which the waters have teemed with, after their kind, and every fowl with wing, after its kind, and God seeth that `it is' good.
+
+**[1:22]** And God blesseth them, saying, `Be fruitful, and multiply, and fill the waters in the seas, and the fowl let multiply in the earth:'
+
+**[1:23]** and there is an evening, and there is a morning -- day fifth.
+
+**[1:24]** And God saith, `Let the earth bring forth the living creature after its kind, cattle and creeping thing, and beast of the earth after its kind:' and it is so.
+
+**[1:25]** And God maketh the beast of the earth after its kind, and the cattle after their kind, and every creeping thing of the ground after its kind, and God seeth that `it is' good.
+
+**[1:26]** And God saith, `Let Us make man in Our image, according to Our likeness, and let them rule over fish of the sea, and over fowl of the heavens, and over cattle, and over all the earth, and over every creeping thing that is creeping on the earth.'
+
+**[1:27]** And God prepareth the man in His image; in the image of God He prepared him, a male and a female He prepared them.
+
+**[1:28]** And God blesseth them, and God saith to them, `Be fruitful, and multiply, and fill the earth, and subdue it, and rule over fish of the sea, and over fowl of the heavens, and over every living thing that is creeping upon the earth.'
+
+**[1:29]** And God saith, `Lo, I have given to you every herb sowing seed, which `is' upon the face of all the earth, and every tree in which `is' the fruit of a tree sowing seed, to you it is for food;
+
+**[1:30]** and to every beast of the earth, and to every fowl of the heavens, and to every creeping thing on the earth, in which `is' breath of life, every green herb `is' for food:' and it is so.
+
+**[1:31]** And God seeth all that He hath done, and lo, very good; and there is an evening, and there is a morning -- day the sixth.
+
+**[2:1]** And the heavens and the earth are completed, and all their host;
+
+**[2:2]** and God completeth by the seventh day His work which He hath made, and ceaseth by the seventh day from all His work which He hath made.
+
+**[2:3]** And God blesseth the seventh day, and sanctifieth it, for in it He hath ceased from all His work which God had prepared for making.
+
+**[2:4]** These `are' births of the heavens and of the earth in their being prepared, in the day of Jehovah God's making earth and heavens;
+
+**[2:5]** and no shrub of the field is yet in the earth, and no herb of the field yet sprouteth, for Jehovah God hath not rained upon the earth, and a man there is not to serve the ground,
+
+**[2:6]** and a mist goeth up from the earth, and hath watered the whole face of the ground.
+
+**[2:7]** And Jehovah God formeth the man -- dust from the ground, and breatheth into his nostrils breath of life, and the man becometh a living creature.
+
+**[2:8]** And Jehovah God planteth a garden in Eden, at the east, and He setteth there the man whom He hath formed;
+
+**[2:9]** and Jehovah God causeth to sprout from the ground every tree desirable for appearance, and good for food, and the tree of life in the midst of the garden, and the tree of knowledge of good and evil.
+
+**[2:10]** And a river is going out from Eden to water the garden, and from thence it is parted, and hath become four chief `rivers';
+
+**[2:11]** the name of the one `is' Pison, it `is' that which is surrounding the whole land of the Havilah where the gold `is',
+
+**[2:12]** and the gold of that land `is' good, there `is' the bdolach and the shoham stone;
+
+**[2:13]** and the name of the second river `is' Gibon, it `is' that which is surrounding the whole land of Cush;
+
+**[2:14]** and the name of the third river `is' Hiddekel, it `is' that which is going east of Asshur; and the fourth river is Phrat.
+
+**[2:15]** And Jehovah God taketh the man, and causeth him to rest in the garden of Eden, to serve it, and to keep it.
+
+**[2:16]** And Jehovah God layeth a charge on the man, saying, `Of every tree of the garden eating thou dost eat;
+
+**[2:17]** and of the tree of knowledge of good and evil, thou dost not eat of it, for in the day of thine eating of it -- dying thou dost die.'
+
+**[2:18]** And Jehovah God saith, `Not good for the man to be alone, I do make to him an helper -- as his counterpart.'
+
+**[2:19]** And Jehovah God formeth from the ground every beast of the field, and every fowl of the heavens, and bringeth in unto the man, to see what he doth call it; and whatever the man calleth a living creature, that `is' its name.
+
+**[2:20]** And the man calleth names to all the cattle, and to fowl of the heavens, and to every beast of the field; and to man hath not been found an helper -- as his counterpart.
+
+**[2:21]** And Jehovah God causeth a deep sleep to fall upon the man, and he sleepeth, and He taketh one of his ribs, and closeth up flesh in its stead.
+
+**[2:22]** And Jehovah God buildeth up the rib which He hath taken out of the man into a woman, and bringeth her in unto the man;
+
+**[2:23]** and the man saith, `This `is' the `proper' step! bone of my bone, and flesh of my flesh!' for this it is called Woman, for from a man hath this been taken;
+
+**[2:24]** therefore doth a man leave his father and his mother, and hath cleaved unto his wife, and they have become one flesh.
+
+**[2:25]** And they are both of them naked, the man and his wife, and they are not ashamed of themselves.
+
+**[3:1]** And the serpent hath been subtile above every beast of the field which Jehovah God hath made, and he saith unto the woman, `Is it true that God hath said, Ye do not eat of every tree of the garden?'
+
+**[3:2]** And the woman saith unto the serpent, `Of the fruit of the trees of the garden we do eat,
+
+**[3:3]** and of the fruit of the tree which `is' in the midst of the garden God hath said, Ye do not eat of it, nor touch it, lest ye die.'
+
+**[3:4]** And the serpent saith unto the woman, `Dying, ye do not die,
+
+**[3:5]** for God doth know that in the day of your eating of it -- your eyes have been opened, and ye have been as God, knowing good and evil.'
+
+**[3:6]** And the woman seeth that the tree `is' good for food, and that it `is' pleasant to the eyes, and the tree is desirable to make `one' wise, and she taketh of its fruit and eateth, and giveth also to her husband with her, and he doth eat;
+
+**[3:7]** and the eyes of them both are opened, and they know that they `are' naked, and they sew fig-leaves, and make to themselves girdles.
+
+**[3:8]** And they hear the sound of Jehovah God walking up and down in the garden at the breeze of the day, and the man and his wife hide themselves from the face of Jehovah God in the midst of the trees of the garden.
+
+**[3:9]** And Jehovah God calleth unto the man, and saith to him, `Where `art' thou?'
+
+**[3:10]** and he saith, `Thy sound I have heard in the garden, and I am afraid, for I am naked, and I hide myself.'
+
+**[3:11]** And He saith, `Who hath declared to thee that thou `art' naked? of the tree of which I have commanded thee not to eat, hast thou eaten?'
+
+**[3:12]** and the man saith, `The woman whom Thou didst place with me -- she hath given to me of the tree -- and I do eat.'
+
+**[3:13]** And Jehovah God saith to the woman, `What `is' this thou hast done?' and the woman saith, `The serpent hath caused me to forget -- and I do eat.'
+
+**[3:14]** And Jehovah God saith unto the serpent, `Because thou hast done this, cursed `art' thou above all the cattle, and above every beast of the field: on thy belly dost thou go, and dust thou dost eat, all days of thy life;
+
+**[3:15]** and enmity I put between thee and the woman, and between thy seed and her seed; he doth bruise thee -- the head, and thou dost bruise him -- the heel.'
+
+**[3:16]** Unto the woman He said, `Multiplying I multiply thy sorrow and thy conception, in sorrow dost thou bear children, and toward thy husband `is' thy desire, and he doth rule over thee.'
+
+**[3:17]** And to the man He said, `Because thou hast hearkened to the voice of thy wife, and dost eat of the tree concerning which I have charged thee, saying, Thou dost not eat of it, cursed `is' the ground on thine account; in sorrow thou dost eat of it all days of thy life,
+
+**[3:18]** and thorn and bramble it doth bring forth to thee, and thou hast eaten the herb of the field;
+
+**[3:19]** by the sweat of thy face thou dost eat bread till thy return unto the ground, for out of it hast thou been taken, for dust thou `art', and unto dust thou turnest back.'
+
+**[3:20]** And the man calleth his wife's name Eve: for she hath been mother of all living.
+
+**[3:21]** And Jehovah God doth make to the man and to his wife coats of skin, and doth clothe them.
+
+**[3:22]** And Jehovah God saith, `Lo, the man was as one of Us, as to the knowledge of good and evil; and now, lest he send forth his hand, and have taken also of the tree of life, and eaten, and lived to the age,' --
+
+**[3:23]** Jehovah God sendeth him forth from the garden of Eden to serve the ground from which he hath been taken;
+
+**[3:24]** yea, he casteth out the man, and causeth to dwell at the east of the garden of Eden the cherubs and the flame of the sword which is turning itself round to guard the way of the tree of life.
+
+**[4:1]** And the man knew Eve his wife, and she conceiveth and beareth Cain, and saith, `I have gotten a man by Jehovah;'
+
+**[4:2]** and she addeth to bear his brother, even Abel. And Abel is feeding a flock, and Cain hath been servant of the ground.
+
+**[4:3]** And it cometh to pass at the end of days that Cain bringeth from the fruit of the ground a present to Jehovah;
+
+**[4:4]** and Abel, he hath brought, he also, from the female firstlings of his flock, even from their fat ones; and Jehovah looketh unto Abel and unto his present,
+
+**[4:5]** and unto Cain and unto his present He hath not looked; and it is very displeasing to Cain, and his countenance is fallen.
+
+**[4:6]** And Jehovah saith unto Cain, `Why hast thou displeasure? and why hath thy countenance fallen?
+
+**[4:7]** Is there not, if thou dost well, acceptance? and if thou dost not well, at the opening a sin-offering is crouching, and unto thee its desire, and thou rulest over it.'
+
+**[4:8]** And Cain saith unto Abel his brother, ``Let us go into the field;'' and it cometh to pass in their being in the field, that Cain riseth up against Abel his brother, and slayeth him.
+
+**[4:9]** And Jehovah saith unto Cain, `Where `is' Abel thy brother?' and he saith, `I have not known; my brother's keeper -- I?'
+
+**[4:10]** And He saith, `What hast thou done? the voice of thy brother's blood is crying unto Me from the ground;
+
+**[4:11]** and now, cursed `art' thou from the ground, which hath opened her mouth to receive the blood of thy brother from thy hand;
+
+**[4:12]** when thou tillest the ground, it doth not add to give its strength to thee -- a wanderer, even a trembling one, thou art in the earth.'
+
+**[4:13]** And Cain saith unto Jehovah, `Greater is my punishment than to be borne;
+
+**[4:14]** lo, Thou hast driven me to-day from off the face of the ground, and from Thy face I am hid; and I have been a wanderer, even a trembling one, in the earth, and it hath been -- every one finding me doth slay me.'
+
+**[4:15]** And Jehovah saith to him, `Therefore -- of any slayer of Cain sevenfold it is required;' and Jehovah setteth to Cain a token that none finding him doth slay him.
+
+**[4:16]** And Cain goeth out from before Jehovah, and dwelleth in the land, moving about east of Eden;
+
+**[4:17]** and Cain knoweth his wife, and she conceiveth, and beareth Enoch; and he is building a city, and he calleth the name of the city, according to the name of his son -- Enoch.
+
+**[4:18]** And born to Enoch is Irad; and Irad hath begotten Mehujael; and Mehujael hath begotten Methusael; and Methusael hath begotten Lamech.
+
+**[4:19]** And Lamech taketh to himself two wives, the name of the one Adah, and the name of the second Zillah.
+
+**[4:20]** And Adah beareth Jabal, he hath been father of those inhabiting tents and purchased possessions;
+
+**[4:21]** and the name of his brother `is' Jubal, he hath been father of every one handling harp and organ.
+
+**[4:22]** And Zillah she also bare Tubal-Cain, an instructor of every artificer in brass and iron; and a sister of Tubal-Cain `is' Naamah.
+
+**[4:23]** And Lamech saith to his wives: -- `Adah and Zillah, hear my voice; Wives of Lamech, give ear `to' my saying: For a man I have slain for my wound, Even a young man for my hurt;
+
+**[4:24]** For sevenfold is required for Cain, And for Lamech seventy and sevenfold.'
+
+**[4:25]** And Adam again knoweth his wife, and she beareth a son, and calleth his name Seth, `for God hath appointed for me another seed instead of Abel:' for Cain had slain him.
+
+**[4:26]** And to Seth, to him also a son hath been born, and he calleth his name Enos; then a beginning was made of preaching in the name of Jehovah.
+
+**[5:1]** This `is' an account of the births of Adam: In the day of God's preparing man, in the likeness of God He hath made him;
+
+**[5:2]** a male and a female He hath prepared them, and He blesseth them, and calleth their name Man, in the day of their being prepared.
+
+**[5:3]** And Adam liveth an hundred and thirty years, and begetteth `a son' in his likeness, according to his image, and calleth his name Seth.
+
+**[5:4]** And the days of Adam after his begetting Seth are eight hundred years, and he begetteth sons and daughters.
+
+**[5:5]** And all the days of Adam which he lived are nine hundred and thirty years, and he dieth.
+
+**[5:6]** And Seth liveth an hundred and five years, and begetteth Enos.
+
+**[5:7]** And Seth liveth after his begetting Enos eight hundred and seven years, and begetteth sons and daughters.
+
+**[5:8]** And all the days of Seth are nine hundred and twelve years, and he dieth.
+
+**[5:9]** And Enos liveth ninety years, and begetteth Cainan.
+
+**[5:10]** And Enos liveth after his begetting Cainan eight hundred and fifteen years, and begetteth sons and daughters.
+
+**[5:11]** And all the days of Enos are nine hundred and five years, and he dieth.
+
+**[5:12]** And Cainan liveth seventy years, and begetteth Mahalaleel.
+
+**[5:13]** And Cainan liveth after his begetting Mahalaleel eight hundred and forty years, and begetteth sons and daughters.
+
+**[5:14]** And all the days of Cainan are nine hundred and ten years, and he dieth.
+
+**[5:15]** And Mahalaleel liveth five and sixty years, and begetteth Jared.
+
+**[5:16]** And Mahalaleel liveth after his begetting Jared eight hundred and thirty years, and begetteth sons and daughters.
+
+**[5:17]** And all the days of Mahalaleel are eight hundred and ninety and five years, and he dieth.
+
+**[5:18]** And Jared liveth an hundred and sixty and two years, and begetteth Enoch.
+
+**[5:19]** And Jared liveth after his begetting Enoch eight hundred years, and begetteth sons and daughters.
+
+**[5:20]** And all the days of Jared are nine hundred and sixty and two years, and he dieth.
+
+**[5:21]** And Enoch liveth five and sixty years, and begetteth Methuselah.
+
+**[5:22]** And Enoch walketh habitually with God after his begetting Methuselah three hundred years, and begetteth sons and daughters.
+
+**[5:23]** And all the days of Enoch are three hundred and sixty and five years.
+
+**[5:24]** And Enoch walketh habitually with God, and he is not, for God hath taken him.
+
+**[5:25]** And Methuselah liveth an hundred and eighty and seven years, and begetteth Lamech.
+
+**[5:26]** And Methuselah liveth after his begetting Lamech seven hundred and eighty and two years, and begetteth sons and daughters.
+
+**[5:27]** And all the days of Methuselah are nine hundred and sixty and nine years, and he dieth.
+
+**[5:28]** And Lamech liveth an hundred and eighty and two years, and begetteth a son,
+
+**[5:29]** and calleth his name Noah, saying, `This `one' doth comfort us concerning our work, and concerning the labour of our hands, because of the ground which Jehovah hath cursed.'
+
+**[5:30]** And Lamech liveth after his begetting Noah five hundred and ninety and five years, and begetteth sons and daughters.
+
+**[5:31]** And all the days of Lamech are seven hundred and seventy and seven years, and he dieth.
+
+**[5:32]** And Noah is a son of five hundred years, and Noah begetteth Shem, Ham, and Japheth.
+
+**[6:1]** And it cometh to pass that mankind have begun to multiply on the face of the ground, and daughters have been born to them,
+
+**[6:2]** and sons of God see the daughters of men that they `are' fair, and they take to themselves women of all whom they have chosen.
+
+**[6:3]** And Jehovah saith, `My Spirit doth not strive in man -- to the age; in their erring they `are' flesh:' and his days have been an hundred and twenty years.
+
+**[6:4]** The fallen ones were in the earth in those days, and even afterwards when sons of God come in unto daughters of men, and they have borne to them -- they `are' the heroes, who, from of old, `are' the men of name.
+
+**[6:5]** And Jehovah seeth that abundant `is' the wickedness of man in the earth, and every imagination of the thoughts of his heart only evil all the day;
+
+**[6:6]** and Jehovah repenteth that He hath made man in the earth, and He grieveth Himself -- unto His heart.
+
+**[6:7]** And Jehovah saith, `I wipe away man whom I have prepared from off the face of the ground, from man unto beast, unto creeping thing, and unto fowl of the heavens, for I have repented that I have made them.'
+
+**[6:8]** And Noah found grace in the eyes of Jehovah.
+
+**[6:9]** These `are' births of Noah: Noah `is' a righteous man; perfect he hath been among his generations; with God hath Noah walked habitually.
+
+**[6:10]** And Noah begetteth three sons, Shem, Ham, and Japheth.
+
+**[6:11]** And the earth is corrupt before God, and the earth is filled `with' violence.
+
+**[6:12]** And God seeth the earth, and lo, it hath been corrupted, for all flesh hath corrupted its way on the earth.
+
+**[6:13]** And God said to Noah, `An end of all flesh hath come before Me, for the earth hath been full of violence from their presence; and lo, I am destroying them with the earth.
+
+**[6:14]** `Make for thyself an ark of gopher-wood; rooms dost thou make with the ark, and thou hast covered it within and without with cypress;
+
+**[6:15]** and this `is' that which thou dost with it: three hundred cubits `is' the length of the ark, fifty cubits its breadth, and thirty cubits its height;
+
+**[6:16]** a window dost thou make for the ark, and unto a cubit thou dost restrain it from above; and the opening of the ark thou dost put in its side, -- lower, second, and third `stories' dost thou make it.
+
+**[6:17]** `And I, lo, I am bringing in the deluge of waters on the earth to destroy all flesh, in which `is' a living spirit, from under the heavens; all that `is' in the earth doth expire.
+
+**[6:18]** `And I have established My covenant with thee, and thou hast come in unto the ark, thou, and thy sons, and thy wife, and thy son's wives with thee;
+
+**[6:19]** and of all that liveth, of all flesh, two of every `sort' thou dost bring in unto the ark, to keep alive with thee; male and female are they.
+
+**[6:20]** Of the fowl after its kind, and of the cattle after their kind, of every creeping thing of the ground after its kind, two of every `sort' they come in unto thee, to keep alive.
+
+**[6:21]** `And thou, take to thyself of all food that is eaten; and thou hast gathered unto thyself, and it hath been to thee and to them for food.'
+
+**[6:22]** And Noah doth according to all that God hath commanded him; so hath he done.
+
+**[7:1]** And Jehovah saith to Noah, `Come in, thou and all thy house, unto the ark, for thee I have seen righteous before Me in this generation;
+
+**[7:2]** of all the clean beasts thou dost take to thee seven pairs, a male and its female; and of the beasts which are not clean two, a male and its female;
+
+**[7:3]** also, of fowl of the heavens seven pairs, a male and a female, to keep alive seed on the face of all the earth;
+
+**[7:4]** for after other seven days I am sending rain on the earth forty days and forty nights, and have wiped away all the substance that I have made from off the face of the ground.'
+
+**[7:5]** And Noah doth according to all that Jehovah hath commanded him:
+
+**[7:6]** and Noah `is' a son of six hundred years, and the deluge of waters hath been upon the earth.
+
+**[7:7]** And Noah goeth in, and his sons, and his wife, and his sons' wives with him, unto the ark, from the presence of the waters of the deluge;
+
+**[7:8]** of the clean beasts and of the beasts that `are' not clean, and of the fowl, and of every thing that is creeping upon the ground,
+
+**[7:9]** two by two they have come in unto Noah, unto the ark, a male and a female, as God hath commanded Noah.
+
+**[7:10]** And it cometh to pass, after the seventh of the days, that waters of the deluge have been on the earth.
+
+**[7:11]** In the six hundredth year of the life of Noah, in the second month, in the seventeenth day of the month, in this day have been broken up all fountains of the great deep, and the net-work of the heavens hath been opened,
+
+**[7:12]** and the shower is on the earth forty days and forty nights.
+
+**[7:13]** In this self-same day went in Noah, and Shem, and Ham, and Japheth, sons of Noah, and Noah's wife and the three wives of his sons with them, unto the ark;
+
+**[7:14]** they, and every living creature after its kind, and every beast after its kind, and every creeping thing that is creeping on the earth after its kind, and every fowl after its kind, every bird -- every wing.
+
+**[7:15]** And they come in unto Noah, unto the ark, two by two of all the flesh in which `is' a living spirit;
+
+**[7:16]** and they that are coming in, male and female of all flesh, have come in as God hath commanded him, and Jehovah doth close `it' for him.
+
+**[7:17]** And the deluge is forty days on the earth, and the waters multiply, and lift up the ark, and it is raised up from off the earth;
+
+**[7:18]** and the waters are mighty, and multiply exceedingly upon the earth; and the ark goeth on the face of the waters.
+
+**[7:19]** And the waters have been very very mighty on the earth, and covered are all the high mountains which `are' under the whole heavens;
+
+**[7:20]** fifteen cubits upwards have the waters become mighty, and the mountains are covered;
+
+**[7:21]** and expire doth all flesh that is moving on the earth, among fowl, and among cattle, and among beasts, and among all the teeming things which are teeming on the earth, and all mankind;
+
+**[7:22]** all in whose nostrils `is' breath of a living spirit -- of all that `is' in the dry land -- have died.
+
+**[7:23]** And wiped away is all the substance that is on the face of the ground, from man unto beast, unto creeping thing, and unto fowl of the heavens; yea, they are wiped away from the earth, and only Noah is left, and those who `are' with him in the ark;
+
+**[7:24]** and the waters are mighty on the earth a hundred and fifty days.
+
+**[8:1]** And God remembereth Noah, and every living thing, and all the cattle which `are' with him in the ark, and God causeth a wind to pass over the earth, and the waters subside,
+
+**[8:2]** and closed are the fountains of the deep and the net-work of the heavens, and restrained is the shower from the heavens.
+
+**[8:3]** And turn back do the waters from off the earth, going on and returning; and the waters are lacking at the end of a hundred and fifty days.
+
+**[8:4]** And the ark resteth, in the seventh month, in the seventeenth day of the month, on mountains of Ararat;
+
+**[8:5]** and the waters have been going and becoming lacking till the tenth month; in the tenth `month', on the first of the month, appeared the heads of the mountains.
+
+**[8:6]** And it cometh to pass, at the end of forty days, that Noah openeth the window of the ark which he made,
+
+**[8:7]** and he sendeth forth the raven, and it goeth out, going out and turning back till the drying of the waters from off the earth.
+
+**[8:8]** And he sendeth forth the dove from him to see whether the waters have been lightened from off the face of the ground,
+
+**[8:9]** and the dove hath not found rest for the sole of her foot, and she turneth back unto him, unto the ark, for waters `are' on the face of all the earth, and he putteth out his hand, and taketh her, and bringeth her in unto him, unto the ark.
+
+**[8:10]** And he stayeth yet other seven days, and addeth to send forth the dove from the ark;
+
+**[8:11]** and the dove cometh in unto him at even-time, and lo, an olive leaf torn off in her mouth; and Noah knoweth that the waters have been lightened from off the earth.
+
+**[8:12]** And he stayeth yet other seven days, and sendeth forth the dove, and it added not to turn back unto him any more.
+
+**[8:13]** And it cometh to pass in the six hundredth and first year, in the first `month', in the first of the month, the waters have been dried from off the earth; and Noah turneth aside the covering of the ark, and looketh, and lo, the face of the ground hath been dried.
+
+**[8:14]** And in the second month, in the seven and twentieth day of the month, the earth hath become dry.
+
+**[8:15]** And God speaketh unto Noah, saying, `Go out from the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee;
+
+**[8:16]** every living thing that `is' with thee, of all flesh, among fowl, and among cattle, and among every creeping thing which is creeping on the earth, bring out with thee;
+
+**[8:17]** and they have teemed in the earth, and been fruitful, and have multiplied on the earth.'
+
+**[8:18]** And Noah goeth out, and his sons, and his wife, and his sons' wives with him;
+
+**[8:19]** every beast, every creeping thing, and every fowl; every creeping thing on the earth, after their families, have gone out from the ark.
+
+**[8:20]** And Noah buildeth an altar to Jehovah, and taketh of every clean beast, and of every clean fowl, and causeth burnt-offerings to ascend on the altar;
+
+**[8:21]** and Jehovah smelleth the sweet fragrance, and Jehovah saith unto His heart, `I continue not to disesteem any more the ground because of man, though the imagination of the heart of man `is' evil from his youth; and I continue not to smite any more all living, as I have done;
+
+**[8:22]** during all days of the earth, seed-time and harvest, and cold and heat, and summer and winter, and day and night, do not cease.'
+
+**[9:1]** And God blesseth Noah, and his sons, and saith to them, `Be fruitful, and multiply, and fill the earth;
+
+**[9:2]** and your fear and your dread is on every beast of the earth, and on every fowl of the heavens, on all that creepeth on the ground, and on all fishes of the sea -- into your hand they have been given.
+
+**[9:3]** Every creeping thing that is alive, to you it is for food; as the green herb I have given to you the whole;
+
+**[9:4]** only flesh in its life -- its blood -- ye do not eat.
+
+**[9:5]** `And only your blood for your lives do I require; from the hand of every living thing I require it, and from the hand of man, from the hand of every man's brother I require the life of man;
+
+**[9:6]** whoso sheddeth man's blood, by man is his blood shed: for in the image of God hath He made man.
+
+**[9:7]** And ye, be fruitful and multiply, teem in the earth, and multiply in it.'
+
+**[9:8]** And God speaketh unto Noah, and unto his sons with him, saying,
+
+**[9:9]** `And I, lo, I am establishing My covenant with you, and with your seed after you,
+
+**[9:10]** and with every living creature which `is' with you, among fowl, among cattle, and among every beast of the earth with you, from all who are going out of the ark -- to every beast of the earth.
+
+**[9:11]** And I have established My covenant with you, and all flesh is not any more cut off by waters of a deluge, and there is not any more a deluge to destroy the earth.'
+
+**[9:12]** And God saith, `This is a token of the covenant which I am giving between Me and you, and every living creature that `is' with you, to generations age-during;
+
+**[9:13]** My bow I have given in the cloud, and it hath been for a token of a covenant between Me and the earth;
+
+**[9:14]** and it hath come to pass (in My sending a cloud over the earth) that the bow hath been seen in the cloud,
+
+**[9:15]** and I have remembered My covenant which is between Me and you, and every living creature among all flesh, and the waters become no more a deluge to destroy all flesh;
+
+**[9:16]** and the bow hath been in the cloud, and I have seen it -- to remember the covenant age-during between God and every living creature among all flesh which `is' on the earth.'
+
+**[9:17]** And God saith unto Noah, `This `is' a token of the covenant which I have established between Me and all flesh that `is' upon the earth.'
+
+**[9:18]** And the sons of Noah who are going out of the ark are Shem, and Ham, and Japheth; and Ham is father of Canaan.
+
+**[9:19]** These three `are' sons of Noah, and from these hath all the earth been overspread.
+
+**[9:20]** And Noah remaineth a man of the ground, and planteth a vineyard,
+
+**[9:21]** and drinketh of the wine, and is drunken, and uncovereth himself in the midst of the tent.
+
+**[9:22]** And Ham, father of Canaan, seeth the nakedness of his father, and declareth to his two brethren without.
+
+**[9:23]** And Shem taketh -- Japheth also -- the garment, and they place on the shoulder of them both, and go backward, and cover the nakedness of their father; and their faces `are' backward, and their father's nakedness they have not seen.
+
+**[9:24]** And Noah awaketh from his wine, and knoweth that which his young son hath done to him,
+
+**[9:25]** and saith: `Cursed `is' Canaan, Servant of servants he is to his brethren.'
+
+**[9:26]** And he saith: `Blessed of Jehovah my God `is' Shem, And Canaan is servant to him.
+
+**[9:27]** God doth give beauty to Japheth, And he dwelleth in tents of Shem, And Canaan is servant to him.'
+
+**[9:28]** And Noah liveth after the deluge three hundred and fifty years;
+
+**[9:29]** and all the days of Noah are nine hundred and fifty years, and he dieth.
+
+**[10:1]** And these `are' births of the sons of Noah, Shem, Ham, and Japheth; and born to them are sons after the deluge.
+
+**[10:2]** `Sons of Japheth `are' Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
+
+**[10:3]** And sons of Gomer `are' Ashkenaz, and Riphath, and Togarmah.
+
+**[10:4]** And sons of Javan `are' Elishah, and Tarshish, Kittim, and Dodanim.
+
+**[10:5]** By these have the isles of the nations been parted in their lands, each by his tongue, by their families, in their nations.
+
+**[10:6]** And sons of Ham `are' Cush, and Mitzraim, and Phut, and Canaan.
+
+**[10:7]** And sons of Cush `are' Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah; and sons of Raamah `are' Sheba and Dedan.
+
+**[10:8]** And Cush hath begotten Nimrod;
+
+**[10:9]** he hath begun to be a hero in the land; he hath been a hero in hunting before Jehovah; therefore it is said, `As Nimrod the hero `in' hunting before Jehovah.'
+
+**[10:10]** And the first part of his kingdom is Babel, and Erech, and Accad, and Calneh, in the land of Shinar;
+
+**[10:11]** from that land he hath gone out to Asshur, and buildeth Nineveh, even the broad places of the city, and Calah,
+
+**[10:12]** and Resen, between Nineveh and Calah; it `is' the great city.
+
+**[10:13]** And Mitzraim hath begotten the Ludim, and the Anamim, and the Lehabim, and the Naphtuhim,
+
+**[10:14]** and the Pathrusim, and the Casluhim, (whence have come out Philistim,) and the Caphtorim.
+
+**[10:15]** And Canaan hath begotten Sidon his first-born, and Heth,
+
+**[10:16]** and the Jebusite, and the Amorite, and the Girgashite,
+
+**[10:17]** and the Hivite, and the Arkite, and the Sinite,
+
+**[10:18]** and the Arvadite, and the Zemarite, and the Hamathite; and afterwards have the families of the Canaanite been scattered.
+
+**[10:19]** And the border of the Canaanite is from Sidon, `in' thy coming towards Gerar, unto Gaza; `in' thy coming towards Sodom, and Gomorrah, and Admah, and Zeboim, unto Lasha.
+
+**[10:20]** These `are' sons of Ham, by their families, by their tongues, in their lands, in their nations.
+
+**[10:21]** As to Shem, father of all sons of Eber, brother of Japheth the elder, he hath also begotten:
+
+**[10:22]** Sons of Shem `are' Elam, and Asshur, and Arphaxad, and Lud, and Aram.
+
+**[10:23]** And sons of Aram `are' Uz, and Hul, and Gether, and Mash.
+
+**[10:24]** And Arphaxad hath begotten Salah, and Salah hath begotten Eber.
+
+**[10:25]** And to Eber have two sons been born; the name of the one `is' Peleg (for in his days hath the earth been divided,) and his brother's name `is' Joktan.
+
+**[10:26]** And Joktan hath begotten Almodad, and Sheleph, and Hazarmaveth, and Jerah,
+
+**[10:27]** and Hadoram, and Uzal, and Diklah,
+
+**[10:28]** and Obal, and Abimael, and Sheba,
+
+**[10:29]** and Ophir, and Havilah, and Jobab; all these `are' sons of Joktan;
+
+**[10:30]** and their dwelling is from Mesha, `in' thy coming towards Sephar, a mount of the east.
+
+**[10:31]** These `are' sons of Shem, by their families, by their tongues, in their lands, by their nations.
+
+**[10:32]** These `are' families of the sons of Noah, by their births, in their nations, and by these have the nations been parted in the earth after the deluge.
+
+**[11:1]** And the whole earth is of one pronunciation, and of the same words,
+
+**[11:2]** and it cometh to pass, in their journeying from the east, that they find a valley in the land of Shinar, and dwell there;
+
+**[11:3]** and they say each one to his neighbour, `Give help, let us make bricks, and burn `them' thoroughly:' and the brick is to them for stone, and the bitumen hath been to them for mortar.
+
+**[11:4]** And they say, `Give help, let us build for ourselves a city and tower, and its head in the heavens, and make for ourselves a name, lest we be scattered over the face of all the earth.'
+
+**[11:5]** And Jehovah cometh down to see the city and the tower which the sons of men have builded;
+
+**[11:6]** and Jehovah saith, `Lo, the people `is' one, and one pronunciation `is' to them all, and this it hath dreamed of doing; and now, nothing is restrained from them of that which they have purposed to do.
+
+**[11:7]** Give help, let us go down, and mingle there their pronunciation, so that a man doth not understand the pronunciation of his companion.'
+
+**[11:8]** And Jehovah doth scatter them from thence over the face of all the earth, and they cease to build the city;
+
+**[11:9]** therefore hath `one' called its name Babel, for there hath Jehovah mingled the pronunciation of all the earth, and from thence hath Jehovah scattered them over the face of all the earth.
+
+**[11:10]** These `are' births of Shem: Shem `is' a son of an hundred years, and begetteth Arphaxad two years after the deluge.
+
+**[11:11]** And Shem liveth after his begetting Arphaxad five hundred years, and begetteth sons and daughters.
+
+**[11:12]** And Arphaxad hath lived five and thirty years, and begetteth Salah.
+
+**[11:13]** And Arphaxad liveth after his begetting Salah four hundred and three years, and begetteth sons and daughters.
+
+**[11:14]** And Salah hath lived thirty years, and begetteth Eber.
+
+**[11:15]** And Salah liveth after his begetting Eber four hundred and three years, and begetteth sons and daughters.
+
+**[11:16]** And Eber liveth four and thirty years, and begetteth Peleg.
+
+**[11:17]** And Eber liveth after his begetting Peleg four hundred and thirty years, and begetteth sons and daughters.
+
+**[11:18]** And Peleg liveth thirty years, and begetteth Reu.
+
+**[11:19]** And Peleg liveth after his begetting Reu two hundred and nine years, and begetteth sons and daughters.
+
+**[11:20]** And Reu liveth two and thirty years, and begetteth Serug.
+
+**[11:21]** And Reu liveth after his begetting Serug two hundred and seven years, and begetteth sons and daughters.
+
+**[11:22]** And Serug liveth thirty years, and begetteth Nahor.
+
+**[11:23]** And Serug liveth after his begetting Nahor two hundred years, and begetteth sons and daughters.
+
+**[11:24]** And Nahor liveth nine and twenty years, and begetteth Terah.
+
+**[11:25]** And Nahor liveth after his begetting Terah an hundred and nineteen years, and begetteth sons and daughters.
+
+**[11:26]** And Terah liveth seventy years, and begetteth Abram, Nahor, and Haran.
+
+**[11:27]** And these `are' births of Terah: Terah hath begotten Abram, Nahor, and Haran; and Haran hath begotten Lot;
+
+**[11:28]** and Haran dieth in the presence of Terah his father, in the land of his birth, in Ur of the Chaldees.
+
+**[11:29]** And Abram and Nahor take to themselves wives; the name of Abram's wife `is' Sarai, and the name of Nahor's wife `is' Milcah, daughter of Haran, father of Milcah, and father of Iscah.
+
+**[11:30]** And Sarai is barren -- she hath no child.
+
+**[11:31]** And Terah taketh Abram his son, and Lot, son of Haran, his son's son, and Sarai his daughter-in-law, wife of Abram his son, and they go out with them from Ur of the Chaldees, to go towards the land of Canaan; and they come unto Charan, and dwell there.
+
+**[11:32]** And the days of Terah are two hundred and five years, and Terah dieth in Charan.
+
+**[12:1]** And Jehovah saith unto Abram, `Go for thyself, from thy land, and from thy kindred, and from the house of thy father, unto the land which I shew thee.
+
+**[12:2]** And I make thee become a great nation, and bless thee, and make thy name great; and be thou a blessing.
+
+**[12:3]** And I bless those blessing thee, and him who is disesteeming thee I curse, and blessed in thee have been all families of the ground.'
+
+**[12:4]** And Abram goeth on, as Jehovah hath spoken unto him, and Lot goeth with him, and Abram `is' a son of five and seventy years in his going out from Charan.
+
+**[12:5]** And Abram taketh Sarai his wife, and Lot his brother's son, and all their substance that they have gained, and the persons that they have obtained in Charan; and they go out to go towards the land of Canaan; and they come in to the land of Canaan.
+
+**[12:6]** And Abram passeth over into the land, unto the place Shechem, unto the oak of Moreh; and the Canaanite `is' then in the land.
+
+**[12:7]** And Jehovah appeareth unto Abram, and saith, `To thy seed I give this land;' and he buildeth there an altar to Jehovah, who hath appeared unto him.
+
+**[12:8]** And he removeth from thence towards a mountain at the east of Beth-El, and stretcheth out the tent (Beth-El at the west, and Hai at the east), and he buildeth there an altar to Jehovah, and preacheth in the name of Jehovah.
+
+**[12:9]** And Abram journeyeth, going on and journeying towards the south.
+
+**[12:10]** And there is a famine in the land, and Abram goeth down towards Egypt to sojourn there, for the famine `is' grievous in the land;
+
+**[12:11]** and it cometh to pass as he hath drawn near to enter Egypt, that he saith unto Sarai his wife, `Lo, I pray thee, I have known that thou `art' a woman of beautiful appearance;
+
+**[12:12]** and it hath come to pass that the Egyptians see thee, and they have said, `This `is' his wife,' and they have slain me, and thee they keep alive:
+
+**[12:13]** say, I pray thee, thou `art' my sister, so that it is well with me because of thee, and my soul hath lived for thy sake.'
+
+**[12:14]** And it cometh to pass, at the entering of Abram into Egypt, that the Egyptians see the woman that she `is' exceeding fair;
+
+**[12:15]** and princes of Pharaoh see her, and praise her unto Pharaoh, and the woman is taken `to' Pharaoh's house;
+
+**[12:16]** and to Abram he hath done good because of her, and he hath sheep and oxen, and he-asses, and men-servants, and handmaids, and she-asses, and camels.
+
+**[12:17]** And Jehovah plagueth Pharaoh and his house -- great plagues -- for the matter of Sarai, Abram's wife.
+
+**[12:18]** And Pharaoh calleth for Abram, and saith, `What `is' this thou hast done to me? why hast thou not declared to me that she `is' thy wife?
+
+**[12:19]** Why hast thou said, She `is' my sister, and I take her to myself for a wife? and now, lo, thy wife, take and go.'
+
+**[12:20]** And Pharaoh chargeth men concerning him, and they send him away, and his wife, an all that he hath.
+
+**[13:1]** And Abram goeth up from Egypt (he and his wife, and all that he hath, and Lot with him) towards the south;
+
+**[13:2]** and Abram `is' exceedingly wealthy in cattle, in silver, and in gold.
+
+**[13:3]** And he goeth on his journeyings from the south, even unto Bethel, unto the place where his tent had been at the commencement, between Bethel and Hai --
+
+**[13:4]** unto the place of the altar which he made there at the first, and there doth Abram preach in the name of Jehovah.
+
+**[13:5]** And also to Lot, who is going with Abram, there hath been sheep and oxen and tents;
+
+**[13:6]** and the land hath not suffered them to dwell together, for their substance hath been much, and they have not been able to dwell together;
+
+**[13:7]** and there is a strife between those feeding Abram's cattle and those feeding Lot's cattle; and the Canaanite and the Perizzite `are' then dwelling in the land.
+
+**[13:8]** And Abram saith unto Lot, `Let there not, I pray thee, be strife between me and thee, and between my shepherds and thy shepherds, for we `are' men -- brethren.
+
+**[13:9]** Is not all the land before thee? be parted, I pray thee, from me; if to the left, then I to the right; and if to the right, then I to the left.'
+
+**[13:10]** And Lot lifteth up his eyes, and seeth the whole circuit of the Jordan that it `is' all a watered country (before Jehovah's destroying Sodom and Gomorrah, as Jehovah's garden, as the land of Egypt,) in thy coming toward Zoar,
+
+**[13:11]** and Lot chooseth for himself the whole circuit of the Jordan; and Lot journeyeth from the east, and they are parted -- a man from his companion;
+
+**[13:12]** Abram hath dwelt in the land of Canaan, and Lot hath dwelt in the cities of the circuit, and tenteth unto Sodom;
+
+**[13:13]** and the men of Sodom `are' evil, and sinners before Jehovah exceedingly.
+
+**[13:14]** And Jehovah said unto Abram, after Lot's being parted from him, `Lift up, I pray thee, thine eyes, and look from the place where thou `art', northward, and southward, and eastward, and westward;
+
+**[13:15]** for the whole of the land which thou are seeing, to thee I give it, and to thy seed -- to the age.
+
+**[13:16]** And I have set thy seed as dust of the earth, so that, if one is able to number the dust of the earth, even thy seed is numbered;
+
+**[13:17]** rise, go up and down through the land, to its length, and to its breadth, for to thee I give it.'
+
+**[13:18]** And Abram tenteth, and cometh, and dwelleth among the oaks of Mamre, which `are' in Hebron, and buildeth there an altar to Jehovah.
+
+**[14:1]** And it cometh to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goyim,
+
+**[14:2]** they have made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboim, and the king of Bela, which `is' Zoar.
+
+**[14:3]** All these have been joined together unto the valley of Siddim, which `is' the Salt Sea;
+
+**[14:4]** twelve years they served Chedorlaomer, and the thirteenth year they rebelled.
+
+**[14:5]** And in the fourteenth year came Chedorlaomer, and the kings who `are' with him, and they smite the Rephaim in Ashteroth Karnaim, and the Zuzim in Ham, and the Emim in Shaveh Kiriathaim,
+
+**[14:6]** and the Horites in their mount Seir, unto El-Paran, which `is' by the wilderness;
+
+**[14:7]** and they turn back and come in unto En-Mishpat, which `is' Kadesh, and smite the whole field of the Amalekite, and also the Amorite who is dwelling in Hazezon-Tamar.
+
+**[14:8]** And the king of Sodom goeth out, and the king of Gomorrah, and the king of Admah, and the king of Zeboim, and the king of Bela, which `is' Zoar; and they set the battle in array with them in the valley of Siddim,
+
+**[14:9]** with Chedorlaomer king of Elam, and Tidal king of Goyim, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with the five.
+
+**[14:10]** And the valley of Siddim `is' full of bitumen-pits; and the kings of Sodom and Gomorrah flee, and fall there, and those left have fled to the mountain.
+
+**[14:11]** And they take the whole substance of Sodom and Gomorrah, and the whole of their food, and go away;
+
+**[14:12]** and they take Lot, Abram's brother's son (seeing he is dwelling in Sodom), and his substance, and go away.
+
+**[14:13]** And one who is escaping cometh and declareth to Abram the Hebrew, and he is dwelling among the oaks of Mamre the Amorite, brother of Eshcol, and brother of Aner, and they `are' Abram's allies.
+
+**[14:14]** And Abram heareth that his brother hath been taken captive, and he draweth out his trained domestics, three hundred and eighteen, and pursueth unto Dan.
+
+**[14:15]** And he divideth himself against them by night, he and his servants, and smiteth them, and pursueth them unto Hobah, which `is' at the left of Damascus;
+
+**[14:16]** and he bringeth back the whole of the substance, and also Lot his brother and his substance hath he brought back, and also the women and the people.
+
+**[14:17]** And the king of Sodom goeth out to meet him (after his turning back from the smiting of Chedorlaomer, and of the kings who `are' with him), unto the valley of Shaveh, which `is' the king's valley.
+
+**[14:18]** And Melchizedek king of Salem hath brought out bread and wine, and he `is' priest of God Most High;
+
+**[14:19]** and he blesseth him, and saith, `Blessed `is' Abram to God Most High, possessing heaven and earth;
+
+**[14:20]** and blessed `is' God Most High, who hath delivered thine adversaries into thy hand;' and he giveth to him a tenth of all.
+
+**[14:21]** And the king of Sodom saith unto Abram, `Give to me the persons, and the substance take to thyself,'
+
+**[14:22]** and Abram saith unto the king of Sodom, `I have lifted up my hand unto Jehovah, God Most High, possessing heaven and earth --
+
+**[14:23]** from a thread even unto a shoe-latchet I take not of anything which thou hast, that thou say not, I -- I have made Abram rich;
+
+**[14:24]** save only that which the young men have eaten, and the portion of the men who have gone with me -- Aner, Eshcol, and Mamre -- they take their portion.'
+
+**[15:1]** After these things hath the word of Jehovah been unto Abram in a vision, saying, `Fear not, Abram, I `am' a shield to thee, thy reward `is' exceeding great.'
+
+**[15:2]** And Abram saith, `Lord Jehovah, what dost Thou give to me, and I am going childless? and an acquired son in my house is Demmesek Eliezer.'
+
+**[15:3]** And Abram saith, `Lo, to me Thou hast not given seed, and lo, a domestic doth heir me.'
+
+**[15:4]** And lo, the word of Jehovah `is' unto him, saying, `This `one' doth not heir thee; but he who cometh out from thy bowels, he doth heir thee;'
+
+**[15:5]** and He bringeth him out without, and saith, `Look attentively, I pray thee, towards the heavens, and count the stars, if thou art able to count them;' and He saith to him, `Thus is thy seed.'
+
+**[15:6]** And he hath believed in Jehovah, and He reckoneth it to him -- righteousness.
+
+**[15:7]** And He saith unto him, `I `am' Jehovah who brought thee out from Ur of the Chaldees, to give to thee this land to possess it;'
+
+**[15:8]** and he saith, `Lord Jehovah, whereby do I know that I possess it?'
+
+**[15:9]** And He saith unto him, `Take for Me a heifer of three years, and a she-goat of three years, and a ram of three years, and a turtle-dove, and a young bird;'
+
+**[15:10]** and he taketh to him all these, and separateth them in the midst, and putteth each piece over against its fellow, but the bird he hath not divided;
+
+**[15:11]** and the ravenous birds come down upon the carcases, and Abram causeth them to turn back.
+
+**[15:12]** And the sun is about to go in, and deep sleep hath fallen upon Abram, and lo, a terror of great darkness is falling upon him;
+
+**[15:13]** and He saith to Abram, `knowing -- know that thy seed is a sojourner in a land not theirs, and they have served them, and they have afflicted them four hundred years,
+
+**[15:14]** and the nation also whom they serve I judge, and after this they go out with great substance;
+
+**[15:15]** and thou -- thou comest in unto thy fathers in peace; thou art buried in a good old age;
+
+**[15:16]** and the fourth generation doth turn back hither, for the iniquity of the Amorite is not yet complete.'
+
+**[15:17]** And it cometh to pass -- the sun hath gone in, and thick darkness hath been -- and lo, a furnace of smoke, and a lamp of fire, which hath passed over between those pieces.
+
+**[15:18]** In that day hath Jehovah made with Abram a covenant, saying, `To thy seed I have given this land, from the river of Egypt unto the great river, the river Phrat,
+
+**[15:19]** with the Kenite, and the Kenizzite, and the Kadmonite,
+
+**[15:20]** and the Hittite, and the Perizzite, and the Rephaim,
+
+**[15:21]** and the Amorite, and the Canaanite, and the Girgashite, and the Jebusite.'
+
+**[16:1]** And Sarai, Abram's wife, hath not borne to him, and she hath an handmaid, an Egyptian, and her name `is' Hagar;
+
+**[16:2]** and Sarai saith unto Abram, `Lo, I pray thee, Jehovah hath restrained me from bearing, go in, I pray thee, unto my handmaid; perhaps I am built up from her;' and Abram hearkeneth to the voice of Sarai.
+
+**[16:3]** And Sarai, Abram's wife, taketh Hagar the Egyptian, her handmaid, at the end of the tenth year of Abram's dwelling in the land of Canaan, and giveth her to Abram her husband, to him for a wife,
+
+**[16:4]** and he goeth in unto Hagar, and she conceiveth, and she seeth that she hath conceived, and her mistress is lightly esteemed in her eyes.
+
+**[16:5]** And Sarai saith unto Abram, `My violence `is' for thee; I -- I have given mine handmaid into thy bosom, and she seeth that she hath conceived, and I am lightly esteemed in her eyes; Jehovah doth judge between me and thee.'
+
+**[16:6]** And Abram saith unto Sarai, `Lo, thine handmaid `is' in thine hand, do to her that which is good in thine eyes;' and Sarai afflicted her, and she fleeth from her presence.
+
+**[16:7]** And a messenger of Jehovah findeth her by the fountain of water in the wilderness, by the fountain in the way `to' Shur,
+
+**[16:8]** and he saith, `Hagar, Sarai's handmaid, whence hast thou come, and whither dost thou go?' and she saith, `From the presence of Sarai, my mistress, I am fleeing.'
+
+**[16:9]** And the messenger of Jehovah saith to her, `Turn back unto thy mistress, and humble thyself under her hands;'
+
+**[16:10]** and the messenger of Jehovah saith to her, `Multiplying I multiply thy seed, and it is not numbered from multitude;'
+
+**[16:11]** and the messenger of Jehovah saith to her, `Behold thou `art' conceiving, and bearing a son, and hast called his name Ishmael, for Jehovah hath hearkened unto thine affliction;
+
+**[16:12]** and he is a wild-ass man, his hand against every one, and every one's hand against him -- and before the face of all his brethren he dwelleth.'
+
+**[16:13]** And she calleth the name of Jehovah who is speaking unto her, `Thou `art', O God, my beholder;' for she said, `Even here have I looked behind my beholder?'
+
+**[16:14]** therefore hath one called the well, `The well of the Living One, my beholder;' lo, between Kadesh and Bered.
+
+**[16:15]** And Hagar beareth to Abram a son; and Abram calleth the name of his son, whom Hagar hath borne, Ishmael;
+
+**[16:16]** and Abram `is' a son of eighty and six years in Hagar's bearing Ishmael to Abram.
+
+**[17:1]** And Abram is a son of ninety and nine years, and Jehovah appeareth unto Abram, and saith unto him, `I `am' God Almighty, walk habitually before Me, and be thou perfect;
+
+**[17:2]** and I give My covenant between Me and thee, and multiply thee very exceedingly.'
+
+**[17:3]** And Abram falleth upon his face, and God speaketh with him, saying,
+
+**[17:4]** `I -- lo, My covenant `is' with thee, and thou hast become father of a multitude of nations;
+
+**[17:5]** and thy name is no more called Abram, but thy name hath been Abraham, for father of a multitude of nations have I made thee;
+
+**[17:6]** and I have made thee exceeding fruitful, and made thee become nations, and kings go out from thee.
+
+**[17:7]** `And I have established My covenant between Me and thee, and thy seed after thee, to their generations, for a covenant age-during, to become God to thee, and to thy seed after thee;
+
+**[17:8]** and I have given to thee, and to thy seed after thee, the land of thy sojournings, the whole land of Canaan, for a possession age-during, and I have become their God.'
+
+**[17:9]** And God saith unto Abraham, `And thou dost keep My covenant, thou and thy seed after thee, to their generations;
+
+**[17:10]** this `is' My covenant which ye keep between Me and you, and thy seed after thee: Every male of you `is' to be circumcised;
+
+**[17:11]** and ye have circumcised the flesh of your foreskin, and it hath become a token of a covenant between Me and you.
+
+**[17:12]** `And a son of eight days is circumcised by you; every male to your generations, born in the house, or bought with money from any son of a stranger, who is not of thy seed;
+
+**[17:13]** he is certainly circumcised who `is' born in thine house, or bought with thy money; and My covenant hath become in your flesh a covenant age-during;
+
+**[17:14]** and an uncircumcised one, a male, the flesh of whose foreskin is not circumcised, even that person hath been cut off from his people; My covenant he hath broken.'
+
+**[17:15]** And God saith unto Abraham, `Sarai thy wife -- thou dost not call her name Sarai, for Sarah `is' her name;
+
+**[17:16]** and I have blessed her, and have also given to thee a son from her; and I have blessed her, and she hath become nations -- kings of peoples are from her.'
+
+**[17:17]** And Abraham falleth upon his face, and laugheth, and saith in his heart, `To the son of an hundred years is one born? or doth Sarah -- daughter of ninety years -- bear?'
+
+**[17:18]** And Abraham saith unto God, `O that Ishmael may live before Thee;'
+
+**[17:19]** and God saith, `Sarah thy wife is certainly bearing a son to thee, and thou hast called his name Isaac, and I have established My covenant with him, for a covenant age-during, to his seed after him.
+
+**[17:20]** As to Ishmael, I have heard thee; lo, I have blessed him, and made him fruitful, and multiplied him, very exceedingly; twelve princes doth he beget, and I have made him become a great nation;
+
+**[17:21]** and My covenant I establish with Isaac, whom Sarah doth bear to thee at this appointed time in the next year;'
+
+**[17:22]** and He finisheth speaking with him, and God goeth up from Abraham.
+
+**[17:23]** And Abraham taketh Ishmael his son, and all those born in his house, and all those bought with his money -- every male among the men of Abraham's house -- and circumciseth the flesh of their foreskin, in this self-same day, as God hath spoken with him.
+
+**[17:24]** And Abraham `is' a son of ninety and nine years in the flesh of his foreskin being circumcised;
+
+**[17:25]** and Ishmael his son `is' a son of thirteen years in the flesh of his foreskin being circumcised;
+
+**[17:26]** in this self-same day hath Abraham been circumcised, and Ishmael his son;
+
+**[17:27]** and all the men of his house -- born in the house, and bought with money from the son of a stranger -- have been circumcised with him.
+
+**[18:1]** And Jehovah appeareth unto him among the oaks of Mamre, and he is sitting at the opening of the tent, about the heat of the day;
+
+**[18:2]** and he lifteth up his eyes and looketh, and lo, three men standing by him, and he seeth, and runneth to meet them from the opening of the tent, and boweth himself towards the earth,
+
+**[18:3]** And he saith, `My Lord, if, I pray thee, I have found grace in thine eyes, do not, I pray thee, pass on from thy servant;
+
+**[18:4]** let, I pray thee, a little water be accepted, and wash your feet, and recline under the tree;
+
+**[18:5]** and I bring a piece of bread, and support ye your heart; afterwards pass on, for therefore have ye passed over unto your servant;' and they say, `So mayest thou do as thou has spoken.'
+
+**[18:6]** And Abraham hasteth towards the tent, unto Sarah, and saith, `Hasten three measures of flour-meal, knead, and make cakes;'
+
+**[18:7]** and Abraham ran unto the herd, and taketh a son of the herd, tender and good, and giveth unto the young man, and he hasteth to prepare it;
+
+**[18:8]** and he taketh butter and milk, and the son of the herd which he hath prepared, and setteth before them; and he is standing by them under the tree, and they do eat.
+
+**[18:9]** And they say unto him, `Where `is' Sarah thy wife?' and he saith, `Lo -- in the tent;'
+
+**[18:10]** and he saith, `returning I return unto thee, about the time of life, and lo, to Sarah thy wife a son.'
+
+**[18:11]** And Sarah is hearkening at the opening of the tent, which is behind him;
+
+**[18:12]** and Abraham and Sarah `are' aged, entering into days -- the way of women hath ceased to be to Sarah;
+
+**[18:13]** and Sarah laugheth in her heart, saying, `After I have waxed old I have had pleasure! -- my lord also `is' old!'
+
+**[18:14]** And Jehovah saith unto Abraham, `Why `is' this? Sarah hath laughed, saying, Is it true really -- I bear -- and I am aged? Is any thing too wonderful for Jehovah? at the appointed time I return unto thee, about the time of life, and Sarah hath a son.'
+
+**[18:15]** And Sarah denieth, saying, `I did not laugh;' for she hath been afraid; and He saith, `Nay, but thou didst laugh.'
+
+**[18:16]** And the men rise from thence, and look on the face of Sodom, and Abraham is going with them to send them away;
+
+**[18:17]** and Jehovah said, `Am I concealing from Abraham that which I am doing,
+
+**[18:18]** and Abraham certainly becometh a nation great and mighty, and blessed in him have been all nations of the earth?
+
+**[18:19]** for I have known him, that he commandeth his children, and his house after him (and they have kept the way of Jehovah), to do righteousness and judgment, that Jehovah may bring on Abraham that which He hath spoken concerning him.'
+
+**[18:20]** And Jehovah saith, `The cry of Sodom and Gomorrah -- because great; and their sin -- because exceeding grievous:
+
+**[18:21]** I go down now, and see whether according to its cry which is coming unto Me they have done completely -- and if not -- I know;'
+
+**[18:22]** and the men turn from thence, and go towards Sodom; and Abraham is yet standing before Jehovah.
+
+**[18:23]** And Abraham draweth nigh and saith, `Dost Thou also consume righteous with wicked?
+
+**[18:24]** peradventure there are fifty righteous in the midst of the city; dost Thou also consume, and not bear with the place for the sake of the fifty -- the righteous who `are' in its midst?
+
+**[18:25]** Far be it from Thee to do according to this thing, to put to death the righteous with the wicked; that it hath been -- as the righteous so the wicked -- far be it from Thee; doth the Judge of all the earth not do justice?'
+
+**[18:26]** And Jehovah saith, `If I find in Sodom fifty righteous in the midst of the city, then have I borne with all the place for their sake.'
+
+**[18:27]** And Abraham answereth and saith, `Lo, I pray thee, I have willed to speak unto the Lord, and I -- dust and ashes;
+
+**[18:28]** peradventure there are lacking five of the fifty righteous -- dost Thou destroy for five the whole of the city?' and He saith, `I destroy `it' not, if I find there forty and five.'
+
+**[18:29]** And he addeth again to speak unto Him and saith, `Peradventure there are found there forty?' and He saith, `I do `it' not, because of the forty.'
+
+**[18:30]** And he saith, `Let it not be, I Pray thee, displeasing to the Lord, and I speak: peradventure there are found there thirty?' and He saith, `I do `it' not, if I find there thirty.'
+
+**[18:31]** And he saith, `Lo, I pray thee, I have willed to speak unto the Lord: peradventure there are found there twenty?' and He saith, `I do not destroy `it', because of the twenty.'
+
+**[18:32]** And he saith, `Let it not be, I pray Thee, displeasing to the Lord, and I speak only this time: peradventure there are found there ten?' and He saith, `I do not destroy `it', because of the ten.'
+
+**[18:33]** And Jehovah goeth on, when He hath finished speaking unto Abraham, and Abraham hath turned back to his place.
+
+**[19:1]** And two of the messengers come towards Sodom at even, and Lot is sitting at the gate of Sodom, and Lot seeth, and riseth to meet them, and boweth himself -- face to the earth,
+
+**[19:2]** and he saith, `Lo, I pray you, my lords, turn aside, I pray you, unto the house of your servant, and lodge, and wash your feet -- then ye have risen early and gone on your way;' and they say, `Nay, but in the broad place we do lodge.'
+
+**[19:3]** And he presseth on them greatly, and they turn aside unto him, and come in unto his house; and he maketh for them a banquet, and hath baked unleavened things; and they do eat.
+
+**[19:4]** Before they lie down, the men of the city -- men of Sodom -- have come round about against the house, from young even unto aged, all the people from the extremity;
+
+**[19:5]** and they call unto Lot and say to him, `Where `are' the men who have come in unto thee to-night? bring them out unto us, and we know them.'
+
+**[19:6]** And Lot goeth out unto them, to the opening, and the door hath shut behind him,
+
+**[19:7]** and saith, `Do not, I pray you, my brethren, do evil;
+
+**[19:8]** lo, I pray you, I have two daughters, who have not known any one; let me, I pray you, bring them out unto you, and do to them as `is' good in your eyes; only to these men do not anything, for therefore have they come in within the shadow of my roof.'
+
+**[19:9]** And they say, `Come nigh hither;' they say also, `This one hath come in to sojourn, and he certainly judgeth! now, we do evil to thee more than `to' them;' and they press against the man, against Lot greatly, and come nigh to break the door.
+
+**[19:10]** And the men put forth their hand, and bring in Lot unto them, into the house, and have shut the door;
+
+**[19:11]** and the men who `are' at the opening of the house they have smitten with blindness, from small even unto great, and they weary themselves to find the opening.
+
+**[19:12]** And the men say unto Lot, `Whom hast thou here still? son-in-law, thy sons also, and thy daughters, and all whom thou hast in the city, bring out from this place;
+
+**[19:13]** for we are destroying this place, for their cry hath been great `before' the face of Jehovah, and Jehovah doth send us to destroy it.'
+
+**[19:14]** And Lot goeth out, and speaketh unto his sons-in-law, those taking his daughters, and saith, `Rise, go out from this place, for Jehovah is destroying the city;' and he is as `one' mocking in the eyes of his sons-in-law.
+
+**[19:15]** And when the dawn hath ascended, then the messengers press upon Lot, saying, `Rise, take thy wife, and thy two daughters who are found present, lest thou be consumed in the iniquity of the city.'
+
+**[19:16]** And he lingereth, and the men lay hold on his hand, and on the hand of his wife, and on the hand of his two daughters, through the mercy of Jehovah unto him, and they bring him out, and cause him to rest without the city.
+
+**[19:17]** And it cometh to pass when he hath brought them out without, that he saith, `Escape for thy life; look not expectingly behind thee, nor stand thou in all the circuit; to the mountain escape, lest thou be consumed.'
+
+**[19:18]** And Lot saith unto them, `Not `so', I pray thee, my lord;
+
+**[19:19]** lo, I pray thee, thy servant hath found grace in thine eyes, and thou dost make great thy kindness which thou hast done with me by saving my life, and I am unable to escape to the mountain, lest the evil cleave `to' me, and I have died;
+
+**[19:20]** lo, I pray thee, this city `is' near to flee thither, and it `is' little; let me escape, I pray thee, thither, (is it not little?) and my soul doth live.'
+
+**[19:21]** And he saith unto him, `Lo, I have accepted thy face also for this thing, without overthrowing the city `for' which thou hast spoken;
+
+**[19:22]** haste, escape thither, for I am not able to do anything till thine entering thither;' therefore hath he calleth the name of the city Zoar.
+
+**[19:23]** The sun hath gone out on the earth, and Lot hath entered into Zoar,
+
+**[19:24]** and Jehovah hath rained upon Sodom and upon Gomorrah brimstone and fire from Jehovah, from the heavens;
+
+**[19:25]** and He overthroweth these cities, and all the circuit, and all the inhabitants of the cities, and that which is shooting up from the ground.
+
+**[19:26]** And his wife looketh expectingly from behind him, and she is -- a pillar of salt!
+
+**[19:27]** And Abraham riseth early in the morning, unto the place where he hath stood `before' the face of Jehovah;
+
+**[19:28]** and he looketh on the face of Sodom and Gomorrah, and on all the face of the land of the circuit, and seeth, and lo, the smoke of the land went up as smoke of the furnace.
+
+**[19:29]** And it cometh to pass, in God's destroying the cities of the circuit, that God remembereth Abraham, and sendeth Lot out of the midst of the overthrow in the overthrowing of the cities in which Lot dwelt.
+
+**[19:30]** And Lot goeth up out of Zoar, and dwelleth in the mountain, and his two daughters with him, for he hath been afraid of dwelling in Zoar, and he dwelleth in a cave, he and his two daughters.
+
+**[19:31]** And the first-born saith unto the younger, `Our father `is' old, and a man there is not in the earth to come in unto us, as `is' the way of all the earth;
+
+**[19:32]** come, we cause our father to drink wine, and lie with him, and preserve from our father -- a seed.'
+
+**[19:33]** And they cause their father to drink wine on that night; and the first-born goeth in, and lieth with her father, and he hath not known in her lying down, or in her rising up.
+
+**[19:34]** And it cometh to pass, on the morrow, that the first-born saith unto the younger, `Lo, I have lain yesterday-night with my father: we cause him to drink wine also to-night, and go thou in, lie with him, and we preserve from our father -- a seed.'
+
+**[19:35]** And they cause their father to drink wine on that night also, and the younger riseth and lieth with him, and he hath not known in her lying down, or in her rising up.
+
+**[19:36]** And the two daughters of Lot conceive from their father,
+
+**[19:37]** and the first-born beareth a son, and calleth his name Moab; he `is' father of Moab unto this day;
+
+**[19:38]** as to the younger, she also hath born a son, and calleth his name Ben-Ammi: he `is' father of the Beni-Ammon unto this day.
+
+**[20:1]** And Abraham journeyeth from thence toward the land of the south, and dwelleth between Kadesh and Shur, and sojourneth in Gerar;
+
+**[20:2]** and Abraham saith concerning Sarah his wife, `She is my sister;' and Abimelech king of Gerar sendeth and taketh Sarah.
+
+**[20:3]** And God cometh in unto Abimelech in a dream of the night, and saith to him, `Lo, thou `art' a dead man, because of the woman whom thou hast taken -- and she married to a husband.'
+
+**[20:4]** And Abimelech hath not drawn near unto her, and he saith, `Lord, also a righteous nation dost thou slay?
+
+**[20:5]** hath not he himself said to me, She `is' my sister! and she, even she herself, said, He `is' my brother; in the integrity of my heart, and in the innocency of my hands, I have done this.'
+
+**[20:6]** And God saith unto him in the dream, `Yea, I -- I have known that in the integrity of thy heart thou hast done this, and I withhold thee, even I, from sinning against Me, therefore I have not suffered thee to come against her;
+
+**[20:7]** and now send back the man's wife, for he `is' inspired, and he doth pray for thee, and live thou; and if thou do not send back, know that dying thou dost die, thou, and all that thou hast.'
+
+**[20:8]** And Abimelech riseth early in the morning, and calleth for all his servants, and speaketh all these words in their ears; and the men fear exceedingly;
+
+**[20:9]** and Abimelech calleth for Abraham, and saith to him, `What hast thou done to us? and what have I sinned against thee, that thou hast brought upon me, and upon my kingdom, a great sin? works which are not done thou hast done with me.'
+
+**[20:10]** Abimelech also saith unto Abraham, `What hast thou seen that thou hast done this thing?'
+
+**[20:11]** And Abraham saith, `Because I said, `Surely the fear of God is not in this place, and they have slain me for the sake of my wife;
+
+**[20:12]** and also, truly she is my sister, daughter of my father, only not daughter of my mother, and she becometh my wife;
+
+**[20:13]** and it cometh to pass, when God hath caused me to wander from my father's house, that I say to her, This `is' thy kindness which thou dost with me: at every place whither we come, say of me, He `is' my brother.'
+
+**[20:14]** And Abimelech taketh sheep and oxen, and servants and handmaids, and giveth to Abraham, and sendeth back to him Sarah his wife;
+
+**[20:15]** and Abimelech saith, `Lo, my land `is' before thee, where it is good in thine eyes, dwell;'
+
+**[20:16]** and to Sarah he hath said, `Lo, I have given a thousand silverlings to thy brother; lo, it is to thee a covering of eyes, to all who are with thee;' and by all this she is reasoned with.
+
+**[20:17]** And Abraham prayeth unto God, and God healeth Abimelech and his wife, and his handmaids, and they bear:
+
+**[20:18]** for Jehovah restraining had restrained every womb of the house of Abimelech, because of Sarah, Abraham's wife.
+
+**[21:1]** And Jehovah hath looked after Sarah as He hath said, and Jehovah doth to Sarah as He hath spoken;
+
+**[21:2]** and Sarah conceiveth, and beareth a son to Abraham, to his old age, at the appointed time that God hath spoken of with him;
+
+**[21:3]** and Abraham calleth the name of his son who is born to him, whom Sarah hath born to him -- Isaac;
+
+**[21:4]** and Abraham circumciseth Isaac his son, `being' a son of eight days, as God hath commanded him.
+
+**[21:5]** And Abraham `is' a son of a hundred years in Isaac his son being born to him,
+
+**[21:6]** and Sarah saith, `God hath made laughter for me; every one who is hearing laugheth for me.'
+
+**[21:7]** She saith also, `Who hath said to Abraham, Sarah hath suckled sons, that I have born a son for his old age?'
+
+**[21:8]** And the lad groweth, and is weaned, and Abraham maketh a great banquet in the day of Isaac's being weaned;
+
+**[21:9]** and Sarah seeth the son of Hagar the Egyptian, whom she hath borne to Abraham, mocking,
+
+**[21:10]** and she saith to Abraham, `Cast out this handmaid and her son; for the son of this handmaid hath no possession with my son -- with Isaac.'
+
+**[21:11]** And the thing is very wrong in the eyes of Abraham, for his son's sake;
+
+**[21:12]** and God saith unto Abraham, `Let it not be wrong in thine eyes because of the youth, and because of thy handmaid: all that Sarah saith unto thee -- hearken to her voice, for in Isaac is a seed called to thee.
+
+**[21:13]** As to the son of the handmaid also, for a nation I set him, because he `is' thy seed.'
+
+**[21:14]** And Abraham riseth early in the morning, and taketh bread, and a bottle of water, and giveth unto Hagar (placing `it' on her shoulder), also the lad, and sendeth her out; and she goeth on, and goeth astray in the wilderness of Beer-Sheba;
+
+**[21:15]** and the water is consumed from the bottle, and she placeth the lad under one of the shrubs.
+
+**[21:16]** And she goeth and sitteth by herself over-against, afar off, about a bow-shot, for she said, `Let me not look on the death of the lad;' and she sitteth over-against, and lifteth up her voice, and weepeth.
+
+**[21:17]** And God heareth the voice of the youth; and the messenger of God calleth unto Hagar from the heavens, and saith to her, `What to thee, Hagar? fear not; for God hath hearkened unto the voice of the youth where he `is';
+
+**[21:18]** rise, lift up the youth, and lay hold on him with thy hand, for for a great nation I set him.'
+
+**[21:19]** And God openeth her eyes, and she seeth a well of water, and she goeth and filleth the bottle `with' water, and causeth the youth to drink;
+
+**[21:20]** and God is with the youth, and he groweth, and dwelleth in the wilderness, and is an archer;
+
+**[21:21]** and he dwelleth in the wilderness of Paran, and his mother taketh for him a wife from the land of Egypt.
+
+**[21:22]** And it cometh to pass at that time that Abimelech speaketh -- Phichol also, head of his host -- unto Abraham, saying, `God `is' with thee in all that thou art doing;
+
+**[21:23]** and now, swear to me by God here: thou dost not lie to me, or to my continuator, or to my successor; according to the kindness which I have done with thee thou dost with me, and with the land in which thou hast sojourned.'
+
+**[21:24]** And Abraham saith, `I -- I do swear.'
+
+**[21:25]** And Abraham reasoned with Abimelech concerning the matter of a well of water which Abimelech's servants have taken violently away,
+
+**[21:26]** and Abimelech saith, `I have not known who hath done this thing, and even thou didst not declare to me, and I also, I have not heard save to-day.'
+
+**[21:27]** And Abraham taketh sheep and oxen, and giveth to Abimelech, and they make, both of them, a covenant;
+
+**[21:28]** and Abraham setteth seven Lambs of the flock by themselves.
+
+**[21:29]** And Abimelech saith unto Abraham, `What `are' they -- these seven lambs which thou hast set by themselves?'
+
+**[21:30]** And he saith, `For -- the seven lambs thou dost accept from my hand, so that it becometh a witness for me that I have digged this well;'
+
+**[21:31]** therefore hath he called that place `Beer-Sheba,' for there have both of them sworn.
+
+**[21:32]** And they make a covenant in Beer-Sheba, and Abimelech riseth -- Phichol also, head of his host -- and they turn back unto the land of the Philistines;
+
+**[21:33]** and `Abraham' planteth a tamarask in Beer-Sheba, and preacheth there in the name of Jehovah, God age-during;
+
+**[21:34]** and Abraham sojourneth in the land of the Philistines many days.
+
+**[22:1]** And it cometh to pass after these things that God hath tried Abraham, and saith unto him, `Abraham;' and he saith, `Here `am' I.'
+
+**[22:2]** And He saith, `Take, I pray thee, thy son, thine only one, whom thou hast loved, even Isaac, and go for thyself unto the land of Moriah, and cause him to ascend there for a burnt-offering on one of the mountains of which I speak unto thee.'
+
+**[22:3]** And Abraham riseth early in the morning, and saddleth his ass, and taketh two of his young men with him, and Isaac his son, and he cleaveth the wood of the burnt-offering, and riseth and goeth unto the place of which God hath spoken to him.
+
+**[22:4]** On the third day -- Abraham lifteth up his eyes, and seeth the place from afar;
+
+**[22:5]** and Abraham saith unto his young men, `Remain by yourselves here with the ass, and I and the youth go yonder and worship, and turn back unto you.'
+
+**[22:6]** And Abraham taketh the wood of the burnt-offering, and placeth on Isaac his son, and he taketh in his hand the fire, and the knife; and they go on both of them together.
+
+**[22:7]** And Isaac speaketh unto Abraham his father, and saith, `My father,' and he saith, `Here `am' I, my son.' And he saith, `Lo, the fire and the wood, and where the lamb for a burnt-offering?'
+
+**[22:8]** and Abraham saith, `God doth provide for Himself the lamb for a burnt-offering, my son;' and they go on both of them together.
+
+**[22:9]** And they come in unto the place of which God hath spoken to him, and there Abraham buildeth the altar, and arrangeth the wood, and bindeth Isaac his son, and placeth him upon the altar above the wood;
+
+**[22:10]** and Abraham putteth forth his hand, and taketh the knife -- to slaughter his son.
+
+**[22:11]** And the messenger of Jehovah calleth unto him from the heavens, and saith, `Abraham, Abraham;' and he saith, `Here `am' I;'
+
+**[22:12]** and He saith, `Put not forth thine hand unto the youth, nor do anything to him, for now I have known that thou art fearing God, and hast not withheld thy son, thine only one, from Me.'
+
+**[22:13]** And Abraham lifteth up his eyes, and looketh, and lo, a ram behind, seized in a thicket by its horns; and Abraham goeth, and taketh the ram, and causeth it to ascend for a burnt-offering instead of his son;
+
+**[22:14]** and Abraham calleth the name of that place `Jehovah-Jireh,' because it is said this day in the mount, `Jehovah doth provide.'
+
+**[22:15]** And the messenger of Jehovah calleth unto Abraham a second time from the heavens,
+
+**[22:16]** and saith, `By Myself I have sworn -- the affirmation of Jehovah -- that because thou hast done this thing, and hast not withheld thy son, thine only one --
+
+**[22:17]** that blessing I bless thee, and multiplying I multiply thy seed as stars of the heavens, and as sand which `is' on the sea-shore; and thy seed doth possess the gate of his enemies;
+
+**[22:18]** and blessed themselves in thy seed have all nations of the earth, because that thou hast hearkened to My voice.'
+
+**[22:19]** And Abraham turneth back unto his young men, and they rise and go together unto Beer-Sheba; and Abraham dwelleth in Beer-Sheba.
+
+**[22:20]** And it cometh to pass after these things that it is declared to Abraham, saying, `Lo, Milcah hath borne, even she, sons to Nahor thy brother:
+
+**[22:21]** Huz his first-born, and Buz his brother; and Kemuel father of Aram,
+
+**[22:22]** and Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel;
+
+**[22:23]** and Bethuel hath begotten Rebekah;' these eight hath Milcah borne to Nahor, Abraham's brother;
+
+**[22:24]** and his concubine, whose name `is' Reumah, she also hath borne Tebah, and Gaham, and Tahash, and Maachah.
+
+**[23:1]** And the life of Sarah is a hundred and twenty and seven years -- years of the life of Sarah;
+
+**[23:2]** and Sarah dieth in Kirjath-Arba, which `is' Hebron, in the land of Caanan, and Abraham goeth in to mourn for Sarah, and to bewail her.
+
+**[23:3]** And Abraham riseth up from the presence of his dead, and speaketh unto the sons of Heth, saying,
+
+**[23:4]** `A sojourner and a settler I `am' with you; give to me a possession of a burying-place with you, and I bury my dead from before me.'
+
+**[23:5]** And the sons of Heth answer Abraham, saying to him,
+
+**[23:6]** `Hear us, my lord; a prince of God `art' thou in our midst; in the choice of our burying-places bury thy dead: none of us his burying-place doth withhold from thee, from burying thy dead.'
+
+**[23:7]** And Abraham riseth and boweth himself to the people of the land, to the sons of Heth,
+
+**[23:8]** and he speaketh with them, saying, `If it is your desire to bury my dead from before me, hear me, and meet for me with Ephron, son of Zoar;
+
+**[23:9]** and he giveth to me the cave of Machpelah, which he hath, which `is' in the extremity of his field; for full money doth he give it to me, in your midst, for a possession of a burying-place.'
+
+**[23:10]** And Ephron is sitting in the midst of the sons of Heth, and Ephron the Hittite answereth Abraham in the ears of the sons of Heth, of all those entering the gate of his city, saying,
+
+**[23:11]** `Nay, my lord, hear me: the field I have given to thee, and the cave that `is' in it, to thee I have given it; before the eyes of the sons of my people I have given it to thee -- bury thy dead.'
+
+**[23:12]** And Abraham boweth himself before the people of the land,
+
+**[23:13]** and speaketh unto Ephron in the ears of the people of the land, saying, `Only -- if thou wouldst hear me -- I have given the money of the field -- accept from me, and I bury my dead there.'
+
+**[23:14]** And Ephron answereth Abraham, saying to him,
+
+**[23:15]** `My lord, hear me: the land -- four hundred shekels of silver; between me and thee, what `is' it? -- thy dead bury.'
+
+**[23:16]** And Abraham hearkeneth unto Ephron, and Abraham weigheth to Ephron the silver which he hath spoken of in the ears of the sons of Heth, four hundred silver shekels, passing with the merchant.
+
+**[23:17]** And established are the field of Ephron, which `is' in Machpelah, which `is' before Mamre, the field and the cave which `is' in it, and all the trees which `are' in the field, which `are' in all its border round about,
+
+**[23:18]** to Abraham by purchase, before the eyes of the sons of Heth, among all entering the gate of his city.
+
+**[23:19]** And after this hath Abraham buried Sarah his wife at the cave of the field of Machpelah before Mamre (which `is' Hebron), in the land of Canaan;
+
+**[23:20]** and established are the field, and the cave which `is' in it, to Abraham for a possession of a burying-place, from the sons of Heth.
+
+**[24:1]** And Abraham `is' old, he hath entered into days, and Jehovah hath blessed Abraham in all `things';
+
+**[24:2]** and Abraham saith unto his servant, the eldest of his house, who is ruling over all that he hath, `Put, I pray thee, thy hand under my thigh,
+
+**[24:3]** and I cause thee to swear by Jehovah, God of the heavens, and God of the earth, that thou dost not take a wife for my son from the daughters of the Canaanite, in the midst of whom I am dwelling;
+
+**[24:4]** but unto my land and unto my kindred dost thou go, and hast taken a wife for my son, for Isaac.'
+
+**[24:5]** And the servant saith unto him, `It may be the woman is not willing to come after me unto this land; do I at all cause thy son to turn back unto the land from whence thou camest out?'
+
+**[24:6]** And Abraham saith unto him, `Take heed to thyself, lest thou cause my son to turn back thither;
+
+**[24:7]** Jehovah, God of the heavens, who hath taken me from the house of my father, and from the land of my birth, and who hath spoken to me, and who hath sworn to me, saying, To thy seed I give this land, He doth send His messenger before thee, and thou hast taken a wife for my son from thence;
+
+**[24:8]** and if the woman be not willing to come after thee, then thou hast been acquitted from this mine oath: only my son thou dost not cause to turn back thither.'
+
+**[24:9]** And the servant putteth his hand under the thigh of Abraham his lord, and sweareth to him concerning this matter.
+
+**[24:10]** And the servant taketh ten camels of the camels of his lord and goeth, also of all the goods of his lord in his hand, and he riseth, and goeth unto Aram-Naharaim, unto the city of Nahor;
+
+**[24:11]** and he causeth the camels to kneel at the outside of the city, at the well of water, at even-time, at the time of the coming out of the women who draw water.
+
+**[24:12]** And he saith, `Jehovah, God of my lord Abraham, cause to meet, I pray Thee, before me this day -- (and do kindness with my lord Abraham;
+
+**[24:13]** lo, I am standing by the fountain of water, and daughters of the men of the city are coming out to draw water;
+
+**[24:14]** and it hath been, the young person unto whom I say, Incline, I pray thee, thy pitcher, and I drink, and she hath said, Drink, and I water also thy camels) -- her Thou hast decided for Thy servant, for Isaac; and by it I know that Thou hast done kindness with my lord.'
+
+**[24:15]** And it cometh to pass, before he hath finished speaking, that lo, Rebekah (who was born to Bethuel, son of Milcah, wife of Nahor, brother of Abraham) is coming out, and her pitcher on her shoulder,
+
+**[24:16]** and the young person `is' of very good appearance, a virgin, and a man hath not known her; and she goeth down to the fountain, and filleth her pitcher, and cometh up.
+
+**[24:17]** And the servant runneth to meet her, and saith, `Let me swallow, I pray thee, a little water from thy pitcher;'
+
+**[24:18]** and she saith, `Drink, my lord;' and she hasteth, and letteth down her pitcher upon her hand, and giveth him drink.
+
+**[24:19]** And she finisheth giving him drink, and saith, `Also for thy camels I draw till they have finished drinking;'
+
+**[24:20]** and she hasteth, and emptieth her pitcher into the drinking-trough, and runneth again unto the well to draw, and draweth for all his camels.
+
+**[24:21]** And the man, wondering at her, remaineth silent, to know whether Jehovah hath made his way prosperous or not.
+
+**[24:22]** And it cometh to pass when the camels have finished drinking, that the man taketh a golden ring (whose weight `is' a bekah), and two bracelets for her hands (whose weight `is' ten `bekahs' of gold),
+
+**[24:23]** and saith, `Whose daughter `art' thou? declare to me, I pray thee, is the house of thy father a place for us to lodge in?'
+
+**[24:24]** And she saith unto him, `I `am' daughter of Bethuel, son of Milcah, whom she hath borne to Nahor.'
+
+**[24:25]** She saith also unto him, `Both straw and provender `are' abundant with us, also a place to lodge in.'
+
+**[24:26]** And the man boweth, and doth obeisance to Jehovah,
+
+**[24:27]** and saith, `Blessed `is' Jehovah, God of my lord Abraham, who hath not left off His kindness and His truth with my lord; -- I `being' in the way, Jehovah hath led me to the house of my lord's brethren.'
+
+**[24:28]** And the young person runneth, and declareth to the house of her mother according to these words.
+
+**[24:29]** And Rebekah hath a brother, and his name `is' Laban, and Laban runneth unto the man who `is' without, unto the fountain;
+
+**[24:30]** yea, it cometh to pass, when he seeth the ring, and the bracelets on the hands of his sister, and when he heareth the words of Rebekah his sister, saying, `Thus hath the man spoken unto me,' that he cometh in unto the man, and lo, he is standing by the camels by the fountain.
+
+**[24:31]** And he saith, `Come in, O blessed one of Jehovah, why standest thou without, and I -- I have prepared the house and place for the camels!'
+
+**[24:32]** And he bringeth in the man into the house, and looseth the camels, and giveth straw and provender for the camels, and water to wash his feet, and the feet of the men who `are' with him:
+
+**[24:33]** and setteth before him to eat; but he saith, `I do not eat till I have spoken my word;' and he saith, `Speak.'
+
+**[24:34]** And he saith, `I `am' Abraham's servant;
+
+**[24:35]** and Jehovah hath blessed my lord exceedingly, and he is great; and He giveth to him flock, and herd, and silver, and gold, and men-servants, and maid-servants, and camels, and asses;
+
+**[24:36]** and Sarah, my lord's wife, beareth a son to my lord, after she hath been aged, and he giveth to him all that he hath.
+
+**[24:37]** `And my lord causeth me to swear, saying, Thou dost not take a wife to my son from the daughters of the Canaanite, in whose land I am dwelling.
+
+**[24:38]** If not -- unto the house of my father thou dost go, and unto my family, and thou hast taken a wife for my son.
+
+**[24:39]** `And I say unto my lord, It may be the woman doth not come after me;
+
+**[24:40]** and he saith unto me, Jehovah, before whom I have walked habitually, doth send His messenger with thee, and hath prospered thy way, and thou hast taken a wife for my son from my family, and from the house of my father;
+
+**[24:41]** then art thou acquitted from my oath, when thou comest unto my family, and if they give not `one' to thee; then thou hast been acquitted from my oath.
+
+**[24:42]** `And I come to-day unto the fountain, and I say, Jehovah, God of my lord Abraham, if Thou art, I pray Thee, making prosperous my way in which I am going --
+
+**[24:43]** (lo, I am standing by the fountain of water), then the virgin who is coming out to draw, and I have said unto her, Let me drink, I pray thee, a little water from thy pitcher,
+
+**[24:44]** and she hath said unto me, Both drink thou, and also for thy camels I draw -- she is the woman whom Jehovah hath decided for my lord's son.
+
+**[24:45]** `Before I finish speaking unto my heart, then lo, Rebekah is coming out, and her pitcher on her shoulder, and she goeth down to the fountain, and draweth; and I say unto her, Let me drink, I pray thee,
+
+**[24:46]** and she hasteth and letteth down her pitcher from off her and saith, Drink, and thy camels also I water; and I drink, and the camels also she hath watered.
+
+**[24:47]** `And I ask her, and say, Whose daughter `art' thou? and she saith, Daughter of Bethuel, son of Nahor, whom Milcah hath borne to him, and I put the ring on her nose, and the bracelets on her hands,
+
+**[24:48]** and I bow, and do obeisance before Jehovah, and I bless Jehovah, God of my lord Abraham, who hath led me in the true way to receive the daughter of my lord's brother for his son.
+
+**[24:49]** `And now, if ye are dealing kindly and truly with my lord, declare to me; and if not, declare to me; and I turn unto the right or unto the left.'
+
+**[24:50]** And Laban answereth -- Bethuel also -- and they say, `The thing hath gone out from Jehovah; we are not able to speak unto thee bad or good;
+
+**[24:51]** lo, Rebekah `is' before thee, take and go, and she is a wife to thy lord's son, as Jehovah hath spoken.'
+
+**[24:52]** And it cometh to pass, when the servant of Abraham hath heard their words, that he boweth himself towards the earth before Jehovah;
+
+**[24:53]** and the servant taketh out vessels of silver, and vessels of gold, and garments, and giveth to Rebekah; precious things also he hath given to her brother and to her mother.
+
+**[24:54]** And they eat and drink, he and the men who `are' with him, and lodge all night; and they rise in the morning, and he saith, `Send me to my lord;'
+
+**[24:55]** and her brother saith -- her mother also -- `Let the young person abide with us a week or ten days, afterwards doth she go.'
+
+**[24:56]** And he saith unto them, `Do not delay me, seeing Jehovah hath prospered my way; send me away, and I go to my lord;'
+
+**[24:57]** and they say, `Let us call for the young person, and ask at her mouth;'
+
+**[24:58]** and they call for Rebekah, and say unto her, `Dost thou go with this man?' and she saith, `I go.'
+
+**[24:59]** And they send away Rebekah their sister, and her nurse, and Abraham's servant, and his men;
+
+**[24:60]** and they bless Rebekah, and say to her, `Thou `art' our sister; become thou thousands of myriads, and thy seed doth possess the gate of those hating it.'
+
+**[24:61]** And Rebekah and her young women arise, and ride on the camels, and go after the man; and the servant taketh Rebekah and goeth.
+
+**[24:62]** And Isaac hath come in from the entrance of the Well of the Living One, my Beholder; and he is dwelling in the land of the south,
+
+**[24:63]** and Isaac goeth out to meditate in the field, at the turning of the evening, and he lifteth up his eyes, and looketh, and lo, camels are coming.
+
+**[24:64]** And Rebekah lifteth up her eyes, and seeth Isaac, and alighteth from off the camel;
+
+**[24:65]** and she saith unto the servant, `Who `is' this man who is walking in the field to meet us?' and the servant saith, `It `is' my lord;' and she taketh the veil, and covereth herself.
+
+**[24:66]** And the servant recounteth to Isaac all the things that he hath done,
+
+**[24:67]** and Isaac bringeth her in unto the tent of Sarah his mother, and he taketh Rebekah, and she becometh his wife, and he loveth her, and Isaac is comforted after `the death of' his mother.
+
+**[25:1]** And Abraham addeth and taketh a wife, and her name `is' Keturah;
+
+**[25:2]** and she beareth to him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
+
+**[25:3]** And Jokshan hath begotten Sheba and Dedan; and the sons of Dedan were Asshurim, and Letushim, and Leummim;
+
+**[25:4]** and the sons of Midian `are' Ephah, and Epher, and Hanoch, and Abidah, and Eldaah: all these `are' sons of Keturah.
+
+**[25:5]** And Abraham giveth all that he hath to Isaac;
+
+**[25:6]** and to the sons of the concubines whom Abraham hath, Abraham hath given gifts, and sendeth them away from Isaac his son (in his being yet alive) eastward, unto the east country.
+
+**[25:7]** And these `are' the days of the years of the life of Abraham, which he lived, a hundred and seventy and five years;
+
+**[25:8]** and Abraham expireth, and dieth in a good old age, aged and satisfied, and is gathered unto his people.
+
+**[25:9]** And Isaac and Ishmael his sons bury him at the cave of Machpelah, at the field of Ephron, son of Zoar the Hittite, which `is' before Mamre --
+
+**[25:10]** the field which Abraham bought from the sons of Heth -- there hath Abraham been buried, and Sarah his wife.
+
+**[25:11]** And it cometh to pass after the death of Abraham, that God blesseth Isaac his son; and Isaac dwelleth by the Well of the Living One, my Beholder.
+
+**[25:12]** And these `are' births of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, hath borne to Abraham;
+
+**[25:13]** and these `are' the names of the sons of Ishmael, by their names, according to their births: first-born of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,
+
+**[25:14]** and Mishma, and Dumah, and Massa,
+
+**[25:15]** Hadar, and Tema, Jetur, Naphish, and Kedemah:
+
+**[25:16]** these are sons of Ishmael, and these their names, by their villages, and by their towers; twelve princes according to their peoples.
+
+**[25:17]** And these `are' the years of the life of Ishmael, a hundred and thirty and seven years; and he expireth, and dieth, and is gathered unto his people;
+
+**[25:18]** and they tabernacle from Havilah unto Shur, which `is' before Egypt, in `thy' going towards Asshur; in the presence of all his brethren hath he fallen.
+
+**[25:19]** And these `are' births of Isaac, Abraham's son: Abraham hath begotten Isaac;
+
+**[25:20]** and Isaac is a son of forty years in his taking Rebekah, daughter of Bethuel the Aramaean, from Padan-Aram, sister of Laban the Aramaean, to him for a wife.
+
+**[25:21]** And Isaac maketh entreaty to Jehovah before his wife, for she `is' barren: and Jehovah is entreated of him, and Rebekah his wife conceiveth,
+
+**[25:22]** and the children struggle together within her, and she saith, `If `it is' right -- why `am' I thus?' and she goeth to seek Jehovah.
+
+**[25:23]** And Jehovah saith to her, `Two nations `are' in thy womb, and two peoples from thy bowels are parted; and the `one' people than the `other' people is stronger; and the elder doth serve the younger.'
+
+**[25:24]** And her days to bear are fulfilled, and lo, twins `are' in her womb;
+
+**[25:25]** and the first cometh out all red as a hairy robe, and they call his name Esau;
+
+**[25:26]** and afterwards hath his brother come out, and his hand is taking hold on Esau's heel, and one calleth his name Jacob; and Isaac `is' a son of sixty years in her bearing them.
+
+**[25:27]** And the youths grew, and Esau is a man acquainted `with' hunting, a man of the field; and Jacob `is' a plain man, inhabiting tents;
+
+**[25:28]** and Isaac loveth Esau, for `his' hunting `is' in his mouth; and Rebekah is loving Jacob.
+
+**[25:29]** And Jacob boileth pottage, and Esau cometh in from the field, and he `is' weary;
+
+**[25:30]** and Esau saith unto Jacob, `Let me eat, I pray thee, some of this red red thing, for I `am' weary;' therefore hath `one' called his name Edom `Red';
+
+**[25:31]** and Jacob saith, `Sell to-day thy birthright to me.'
+
+**[25:32]** And Esau saith, `Lo, I am going to die, and what is this to me -- birthright?'
+
+**[25:33]** and Jacob saith, `Swear to me to-day:' and he sweareth to him, and selleth his birthright to Jacob;
+
+**[25:34]** and Jacob hath given to Esau bread and pottage of lentiles, and he eateth, and drinketh, and riseth, and goeth; and Esau despiseth the birthright.
+
+**[26:1]** And there is a famine in the land, besides the first famine which was in the days of Abraham, and Isaac goeth unto Abimelech king of the Philistines, to Gerar.
+
+**[26:2]** And Jehovah appeareth unto him, and saith, `Go not down towards Egypt, tabernacle in the land concerning which I speak unto thee,
+
+**[26:3]** sojourn in this land, and I am with thee, and bless thee, for to thee and to thy seed I give all these lands, and I have established the oath which I have sworn to Abraham thy father;
+
+**[26:4]** and I have multiplied thy seed as stars of the heavens, and I have given to thy seed all these lands; and blessed themselves in thy seed have all nations of the earth;
+
+**[26:5]** because that Abraham hath hearkened to My voice, and keepeth My charge, My commands, My statutes, and My laws.'
+
+**[26:6]** And Isaac dwelleth in Gerar;
+
+**[26:7]** and men of the place ask him of his wife, and he saith, `She `is' my sister:' for he hath been afraid to say, `My wife -- lest the men of the place kill me for Rebekah, for she `is' of good appearance.'
+
+**[26:8]** And it cometh to pass, when the days have been prolonged to him there, that Abimelech king of the Philistines looketh through the window, and seeth, and lo, Isaac is playing with Rebekah his wife.
+
+**[26:9]** And Abimelech calleth for Isaac, and saith, `Lo, she `is' surely thy wife; and how hast thou said, She `is' my sister?' and Isaac saith unto him, `Because I said, Lest I die for her.'
+
+**[26:10]** And Abimelech saith, `What `is' this thou hast done to us? as a little thing one of the people had lain with thy wife, and thou hadst brought upon us guilt;'
+
+**[26:11]** and Abimelech commandeth all the people, saying, `He who cometh against this man or against his wife, dying doth die.'
+
+**[26:12]** And Isaac soweth in that land, and findeth in that year a hundredfold, and Jehovah blesseth him;
+
+**[26:13]** and the man is great, and goeth on, going on and becoming great, till that he hath been very great,
+
+**[26:14]** and he hath possession of a flock, and possession of a herd, and an abundant service; and the Philistines envy him,
+
+**[26:15]** and all the wells which his father's servants digged in the days of Abraham his father, the Philistines have stopped them, and fill them with dust.
+
+**[26:16]** And Abimelech saith unto Isaac, `Go from us; for thou hast become much mightier than we;'
+
+**[26:17]** and Isaac goeth from thence, and encampeth in the valley of Gerar, and dwelleth there;
+
+**[26:18]** and Isaac turneth back, and diggeth the wells of water which they digged in the days of Abraham his father, which the Philistines do stop after the death of Abraham, and he calleth to them names according to the names which his father called them.
+
+**[26:19]** And Isaac's servants dig in the valley, and find there a well of living water,
+
+**[26:20]** and shepherds of Gerar strive with shepherds of Isaac, saying, `The water `is' ours;' and he calleth the name of the well `Strife,' because they have striven habitually with him;
+
+**[26:21]** and they dig another well, and they strive also for it, and he calleth its name `Hatred.'
+
+**[26:22]** And he removeth from thence, and diggeth another well, and they have not striven for it, and he calleth its name Enlargements, and saith, `For -- now hath Jehovah given enlargement to us, and we have been fruitful in the land.'
+
+**[26:23]** And he goeth up from thence `to' Beer-Sheba,
+
+**[26:24]** and Jehovah appeareth unto him during that night, and saith, `I `am' the God of Abraham thy father, fear not, for I `am' with thee, and have blessed thee, and have multiplied thy seed, because of Abraham My servant;'
+
+**[26:25]** and he buildeth there an altar, and preacheth in the name of Jehovah, and stretcheth out there his tent, and there Isaac's servants dig a well.
+
+**[26:26]** And Abimelech hath gone unto him from Gerar, and Ahuzzath his friend, and Phichol head of his host;
+
+**[26:27]** and Isaac saith unto them, `Wherefore have ye come unto me, and ye have hated me, and ye send me away from you?'
+
+**[26:28]** And they say, `We have certainly seen that Jehovah hath been with thee, and we say, `Let there be, we pray thee, an oath between us, between us and thee, and let us make a covenant with thee;
+
+**[26:29]** do not evil with us, as we have not touched thee, and as we have only done good with thee, and send thee away in peace; thou `art' now blessed of Jehovah.'
+
+**[26:30]** And he maketh for them a banquet, and they eat and drink,
+
+**[26:31]** and rise early in the morning, and swear one to another, and Isaac sendeth them away, and they go from him in peace.
+
+**[26:32]** And it cometh to pass during that day that Isaac's servants come and declare to him concerning the circumstances of the well which they have digged, and say to him, `We have found water;'
+
+**[26:33]** and he calleth it Shebah, `oath,' therefore the name of the city `is' Beer-Sheba, `well of the oath,' unto this day.
+
+**[26:34]** And Esau is a son of forty years, and he taketh a wife, Judith, daughter of Beeri the Hittite, and Bashemath, daughter of Elon the Hittite,
+
+**[26:35]** and they are a bitterness of spirit to Isaac and to Rebekah.
+
+**[27:1]** And it cometh to pass that Isaac `is' aged, and his eyes are too dim for seeing, and he calleth Esau his elder son, and saith unto him, `My son;' and he saith unto him, `Here `am' I.'
+
+**[27:2]** And he saith, `Lo, I pray thee, I have become aged, I have not known the day of my death;
+
+**[27:3]** and now, take up, I pray thee, thy instruments, thy quiver, and thy bow, and go out to the field, and hunt for me provision,
+
+**[27:4]** and make for me tasteful things, `such' as I have loved, and bring in to me, and I do eat, so that my soul doth bless thee before I die.'
+
+**[27:5]** And Rebekah is hearkening while Isaac is speaking unto Esau his son; and Esau goeth to the field to hunt provision -- to bring in;
+
+**[27:6]** and Rebekah hath spoken unto Jacob her son, saying, `Lo, I have heard thy father speaking unto Esau thy brother, saying,
+
+**[27:7]** Bring for me provision, and make for me tasteful things, and I do eat, and bless thee before Jehovah before my death.
+
+**[27:8]** `And now, my son, hearken to my voice, to that which I am commanding thee:
+
+**[27:9]** Go, I pray thee, unto the flock, and take for me from thence two good kids of the goats, and I make them tasteful things for thy father, `such' as he hath loved;
+
+**[27:10]** and thou hast taken in to thy father, and he hath eaten, so that his soul doth bless thee before his death.
+
+**[27:11]** And Jacob saith unto Rebekah his mother, `Lo, Esau my brother `is' a hairy man, and I a smooth man,
+
+**[27:12]** it may be my father doth feel me, and I have been in his eyes as a deceiver, and have brought upon me disesteem, and not a blessing;'
+
+**[27:13]** and his mother saith to him, `On me thy disesteem, my son; only hearken to my voice, and go, take for me.'
+
+**[27:14]** And he goeth, and taketh, and bringeth to his mother, and his mother maketh tasteful things, `such' as his father hath loved;
+
+**[27:15]** and Rebekah taketh the desirable garments of Esau her elder son, which `are' with her in the house, and doth put on Jacob her younger son;
+
+**[27:16]** and the skins of the kids of the goats she hath put on his hands, and on the smooth of his neck,
+
+**[27:17]** and she giveth the tasteful things, and the bread which she hath made, into the hand of Jacob her son.
+
+**[27:18]** And he cometh in unto his father, and saith, `My father;' and he saith, `Here `am' I; who `art' thou, my son?'
+
+**[27:19]** And Jacob saith unto his father, `I `am' Esau thy first-born; I have done as thou hast spoken unto me; rise, I pray thee, sit, and eat of my provision, so that thy soul doth bless me.'
+
+**[27:20]** And Isaac saith unto his son, `What `is' this thou hast hasted to find, my son?' and he saith, `That which Jehovah thy God hath caused to come before me.'
+
+**[27:21]** And Isaac saith unto Jacob, `Come nigh, I pray thee, and I feel thee, my son, whether thou `art' he, my son Esau, or not.'
+
+**[27:22]** And Jacob cometh nigh unto Isaac his father, and he feeleth him, and saith, `The voice `is' the voice of Jacob, and the hands hands of Esau.'
+
+**[27:23]** And he hath not discerned him, for his hands have been hairy, as the hands of Esau his brother, and he blesseth him,
+
+**[27:24]** and saith, `Thou art he -- my son Esau?' and he saith, `I `am'.'
+
+**[27:25]** And he saith, `Bring nigh to me, and I do eat of my son's provision, so that my soul doth bless thee;' and he bringeth nigh to him, and he eateth; and he bringeth to him wine, and he drinketh.
+
+**[27:26]** And Isaac his father saith to him, `Come nigh, I pray thee, and kiss me, my son;'
+
+**[27:27]** and he cometh nigh, and kisseth him, and he smelleth the fragrance of his garments, and blesseth him, and saith, `See, the fragrance of my son `is' as the fragrance of a field which Jehovah hath blessed;
+
+**[27:28]** and God doth give to thee of the dew of heaven, and of the fatness of the earth, and abundance of corn and wine;
+
+**[27:29]** peoples serve thee, and nations bow themselves to thee, be thou mighty over thy brethren, and the sons of thy mother bow themselves to thee; those who curse thee `are' cursed, and those who bless thee `are' blessed.'
+
+**[27:30]** And it cometh to pass, as Isaac hath finished blessing Jacob, and Jacob is only just going out from the presence of Isaac his father, that Esau his brother hath come in from his hunting;
+
+**[27:31]** and he also maketh tasteful things, and bringeth to his father, and saith to his father, `Let my father arise, and eat of his son's provision, so that thy soul doth bless me.'
+
+**[27:32]** And Isaac his father saith to him, `Who `art' thou?' and he saith, `I `am' thy son, thy first-born, Esau;'
+
+**[27:33]** and Isaac trembleth a very great trembling, and saith, `Who, now, `is' he who hath provided provision, and bringeth in to me, and I eat of all before thou comest in, and I bless him? -- yea, blessed is he.'
+
+**[27:34]** When Esau heareth the words of his father, then he crieth a very great and bitter cry, and saith to his father, `Bless me, me also, O my father;'
+
+**[27:35]** and he saith, `Thy brother hath come with subtilty, and taketh thy blessing.'
+
+**[27:36]** And he saith, `Is it because `one' called his name Jacob that he doth take me by the heel these two times? my birthright he hath taken; and lo, now, he hath taken my blessing;' he saith also, `Hast thou not kept back a blessing for me?'
+
+**[27:37]** And Isaac answereth and saith to Esau, `Lo, a mighty one have I set him over thee, and all his brethren have I given to him for servants, and `with' corn and wine have I sustained him; and for thee now, what shall I do, my son?'
+
+**[27:38]** And Esau saith unto his father, `One blessing hast thou my father? bless me, me also, O my father;' and Esau lifteth up his voice, and weepeth.
+
+**[27:39]** And Isaac his father answereth and saith unto him, `Lo, of the fatness of the earth is thy dwelling, and of the dew of the heavens from above;
+
+**[27:40]** and by thy sword dost thou live, and thy brother dost thou serve; and it hath come to pass when thou rulest, that thou hast broken his yoke from off thy neck.'
+
+**[27:41]** And Esau hateth Jacob, because of the blessing with which his father blessed him, and Esau saith in his heart, `The days of mourning `for' my father draw near, and I slay Jacob my brother.'
+
+**[27:42]** And the words of Esau her elder son are declared to Rebekah, and she sendeth and calleth for Jacob her younger son, and saith unto him, `Lo, Esau thy brother is comforting himself in regard to thee -- to slay thee;
+
+**[27:43]** and now, my son, hearken to my voice, and rise, flee for thyself unto Laban my brother, to Haran,
+
+**[27:44]** and thou hast dwelt with him some days, till thy brother's fury turn back,
+
+**[27:45]** till thy brother's anger turn back from thee, and he hath forgotten that which thou hast done to him, and I have sent and taken thee from thence; why am I bereaved even of you both the same day?'
+
+**[27:46]** And Rebekah saith unto Isaac, `I have been disgusted with my life because of the presence of the daughters of Heth; if Jacob take a wife of the daughters of Heth, like these -- from the daughters of the land -- why do I live?'
+
+**[28:1]** And Isaac calleth unto Jacob, and blesseth him, and commandeth him, and saith to him, `Thou dost not take a wife of the daughters of Caanan;
+
+**[28:2]** rise, go to Padan-Aram, to the house of Bethuel, thy mother's father, and take for thyself from thence a wife, of the daughters of Laban, thy mother's brother;
+
+**[28:3]** and God Almighty doth bless thee, and make thee fruitful, and multiply thee, and thou hast become an assembly of peoples;
+
+**[28:4]** and He doth give to thee the blessing of Abraham, to thee and to thy seed with thee, to cause thee to possess the land of thy sojournings, which God gave to Abraham.'
+
+**[28:5]** And Isaac sendeth away Jacob, and he goeth to Padan-Aram, unto Laban, son of Bethuel the Aramaean, brother of Rebekah, mother of Jacob and Esau.
+
+**[28:6]** And Esau seeth that Isaac hath blessed Jacob, and hath sent him to Padan-Aram to take to himself from thence a wife -- in his blessing him that he layeth a charge upon him, saying, Thou dost not take a wife from the daughters of Canaan --
+
+**[28:7]** that Jacob hearkeneth unto his father and unto his mother, and goeth to Padan-Aram --
+
+**[28:8]** and Esau seeth that the daughters of Canaan are evil in the eyes of Isaac his father,
+
+**[28:9]** and Esau goeth unto Ishmael, and taketh Mahalath, daughter of Ishmael, Abraham's son, sister of Nebajoth, unto his wives, to himself, for a wife.
+
+**[28:10]** And Jacob goeth out from Beer-Sheba, and goeth toward Haran,
+
+**[28:11]** and he toucheth at a `certain' place, and lodgeth there, for the sun hath gone in, and he taketh of the stones of the place, and maketh `them' his pillows, and lieth down in that place.
+
+**[28:12]** And he dreameth, and lo, a ladder set up on the earth, and its head is touching the heavens; and lo, messengers of God are going up and coming down by it;
+
+**[28:13]** and lo, Jehovah is standing upon it, and He saith, `I `am' Jehovah, God of Abraham thy father, and God of Isaac; the land on which thou art lying, to thee I give it, and to thy seed;
+
+**[28:14]** and thy seed hath been as the dust of the land, and thou hast broken forth westward, and eastward, and northward, and southward, and all families of the ground have been blessed in thee and in thy seed.
+
+**[28:15]** `And lo, I `am' with thee, and have kept thee whithersoever thou goest, and have caused thee to turn back unto this ground; for I leave thee not till that I have surely done that which I have spoken to thee.'
+
+**[28:16]** And Jacob awaketh out of his sleep, and saith, `Surely Jehovah is in this place, and I knew not;'
+
+**[28:17]** and he feareth, and saith, `How fearful `is' this place; this is nothing but a house of God, and this a gate of the heavens.'
+
+**[28:18]** And Jacob riseth early in the morning, and taketh the stone which he hath made his pillows, and maketh it a standing pillar, and poureth oil upon its top,
+
+**[28:19]** and he calleth the name of that place Bethel, `house of God,' and yet, Luz `is' the name of the city at the first.
+
+**[28:20]** And Jacob voweth a vow, saying, `Seeing God is with me, and hath kept me in this way which I am going, and hath given to me bread to eat, and a garment to put on --
+
+**[28:21]** when I have turned back in peace unto the house of my father, and Jehovah hath become my God,
+
+**[28:22]** then this stone which I have made a standing pillar is a house of God, and all that Thou dost give to me -- tithing I tithe to Thee.'
+
+**[29:1]** And Jacob lifteth up his feet, and goeth towards the land of the sons of the east;
+
+**[29:2]** and he looketh, and lo, a well in the field, and lo, there three droves of a flock crouching by it, for from that well they water the droves, and the great stone `is' on the mouth of the well.
+
+**[29:3]** (When thither have all the droves been gathered, and they have rolled the stone from off the mouth of the well, and have watered the flock, then they have turned back the stone on the mouth of the well to its place.)
+
+**[29:4]** And Jacob saith to them, `My brethren, from whence `are' ye?' and they say, `We `are' from Haran.'
+
+**[29:5]** And he saith to them, `Have ye known Laban, son of Nahor?' and they say, `We have known.'
+
+**[29:6]** And he saith to them, `Hath he peace?' and they say, `Peace; and lo, Rachel his daughter is coming with the flock.'
+
+**[29:7]** And he saith, `Lo, the day `is' still great, `it is' not time for the cattle to be gathered; water ye the flock, and go, delight yourselves.'
+
+**[29:8]** And they say, `We are not able, till that all the droves be gathered together, and they have rolled away the stone from the mouth of the well, and we have watered the flock.'
+
+**[29:9]** He is yet speaking with them, and Rachel hath come with the flock which her father hath, for she `is' shepherdess;
+
+**[29:10]** and it cometh to pass when Jacob hath seen Rachel, daughter of Laban his mother's brother, and the flock of Laban his mother's brother, that Jacob cometh nigh and rolleth the stone from off the mouth of the well, and watereth the flock of Laban his mother's brother.
+
+**[29:11]** And Jacob kisseth Rachel, and lifteth up his voice, and weepeth,
+
+**[29:12]** and Jacob declareth to Rachel that he `is' her father's brother, and that he `is' Rebekah's son, and she runneth and declareth to her father.
+
+**[29:13]** And it cometh to pass, when Laban heareth the report of Jacob his sister's son, that he runneth to meet him, and embraceth him, and kisseth him, and bringeth him in unto his house; and he recounteth to Laban all these things,
+
+**[29:14]** and Laban saith to him, `Only my bone and my flesh `art' thou;' and he dwelleth with him a month of days.
+
+**[29:15]** And Laban saith to Jacob, `Is it because thou `art' my brother that thou hast served me for nought? declare to me what `is' thy hire.'
+
+**[29:16]** And Laban hath two daughters, the name of the elder `is' Leah, and the name of the younger Rachel,
+
+**[29:17]** and the eyes of Leah `are' tender, and Rachel hath been fair of form and fair of appearance.
+
+**[29:18]** And Jacob loveth Rachel, and saith, `I serve thee seven years for Rachel thy younger daughter:'
+
+**[29:19]** and Laban saith, `It is better for me to give her to thee than to give her to another man; dwell with me;'
+
+**[29:20]** and Jacob serveth for Rachel seven years; and they are in his eyes as some days, because of his loving her.
+
+**[29:21]** And Jacob saith unto Laban, `Give up my wife, for my days have been fulfilled, and I go in unto her;'
+
+**[29:22]** and Laban gathereth all the men of the place, and maketh a banquet.
+
+**[29:23]** And it cometh to pass in the evening, that he taketh Leah, his daughter, and bringeth her in unto him, and he goeth in unto her;
+
+**[29:24]** and Laban giveth to her Zilpah, his maid-servant, to Leah his daughter, a maid-servant.
+
+**[29:25]** And it cometh to pass in the morning, that lo, it `is' Leah; and he saith unto Laban, `What `is' this thou hast done to me? for Rachel have I not served with thee? and why hast thou deceived me?'
+
+**[29:26]** And Laban saith, `It is not done so in our place, to give the younger before the first-born;
+
+**[29:27]** fulfil the week of this one, and we give to thee also this one, for the service which thou dost serve with me yet seven other years.'
+
+**[29:28]** And Jacob doth so, and fulfilleth the week of this one, and he giveth to him Rachel his daughter, to him for a wife;
+
+**[29:29]** and Laban giveth to Rachel his daughter Bilhah his maid-servant, for a maid-servant to her.
+
+**[29:30]** And he goeth in also unto Rachel, and he also loveth Rachel more than Leah; and he serveth with him yet seven other years.
+
+**[29:31]** And Jehovah seeth that Leah `is' the hated one, and He openeth her womb, and Rachel `is' barren;
+
+**[29:32]** and Leah conceiveth, and beareth a son, and calleth his name Reuben, for she said, `Because Jehovah hath looked on mine affliction; because now doth my husband love me.'
+
+**[29:33]** And she conceiveth again, and beareth a son, and saith, `Because Jehovah hath heard that I `am' the hated one, He also giveth to me even this `one';' and she calleth his name Simeon.
+
+**[29:34]** And she conceiveth again, and beareth a son, and saith, `Now `is' the time, my husband is joined unto me, because I have born to him three sons,' therefore hath `one' called his name Levi.
+
+**[29:35]** And she conceiveth again, and beareth a son, and saith this time, `I praise Jehovah;' therefore hath she called his name Judah; and she ceaseth from bearing.
+
+**[30:1]** And Rachel seeth that she hath not borne to Jacob, and Rachel is envious of her sister, and saith unto Jacob, `Give me sons, and if there is none -- I die.'
+
+**[30:2]** And Jacob's anger burneth against Rachel, and he saith, `Am I in stead of God who hath withheld from thee the fruit of the womb?'
+
+**[30:3]** And she saith, `Lo, my handmaid Bilhah, go in unto her, and she doth bear on my knees, and I am built up, even I, from her;'
+
+**[30:4]** and she giveth to him Bilhah her maid-servant for a wife, and Jacob goeth in unto her;
+
+**[30:5]** and Bilhah conceiveth, and beareth to Jacob a son,
+
+**[30:6]** and Rachel saith, `God hath decided for me, and also hath hearkened to my voice, and giveth to me a son;' therefore hath she called his name Dan.
+
+**[30:7]** And Bilhah, Rachel's maid-servant, conceiveth again, and beareth a second son to Jacob,
+
+**[30:8]** and Rachel saith, `With wrestlings of God I have wrestled with my sister, yea, I have prevailed;' and she calleth his name Napthali.
+
+**[30:9]** And Leah seeth that she hath ceased from bearing, and she taketh Zilpah her maid-servant, and giveth her to Jacob for a wife;
+
+**[30:10]** and Zilpah, Leah's maid-servant, beareth to Jacob a son,
+
+**[30:11]** and Leah saith, `A troop is coming;' and she calleth his name Gad.
+
+**[30:12]** And Zilpah, Leah's maid-servant, beareth a second son to Jacob,
+
+**[30:13]** and Leah saith, `Because of my happiness, for daughters have pronounced me happy;' and she calleth his name Asher.
+
+**[30:14]** And Reuben goeth in the days of wheat-harvest, and findeth love-apples in the field, and bringeth them in unto Leah, his mother, and Rachel saith unto Leah, `Give to me, I pray thee, of the love-apples of thy son.'
+
+**[30:15]** And she saith to her, `Is thy taking my husband a little thing, that thou hast taken also the love-apples of my son?' and Rachel saith, `Therefore doth he lie with thee to-night, for thy son's love-apples.'
+
+**[30:16]** And Jacob cometh in from the field at evening; and Leah goeth to meet him, and saith, `Unto me dost thou come in, for hiring I have hired thee with my son's love-apples;' and he lieth with her during that night.
+
+**[30:17]** And God hearkeneth unto Leah, and she conceiveth, and beareth to Jacob a son, a fifth,
+
+**[30:18]** and Leah saith, `God hath given my hire, because I have given my maid-servant to my husband;' and she calleth his name Issachar.
+
+**[30:19]** And conceive again doth Leah, and she beareth a sixth son to Jacob,
+
+**[30:20]** and Leah saith, `God hath endowed me -- a good dowry; this time doth my husband dwell with me, for I have borne to him six sons;' and she calleth his name Zebulun;
+
+**[30:21]** and afterwards hath she born a daughter, and calleth her name Dinah.
+
+**[30:22]** And God remembereth Rachel, and God hearkeneth unto her, and openeth her womb,
+
+**[30:23]** and she conceiveth and beareth a son, and saith, `God hath gathered up my reproach;'
+
+**[30:24]** and she calleth his name Joseph, saying, `Jehovah is adding to me another son.'
+
+**[30:25]** And it cometh to pass, when Rachel hath borne Joseph, that Jacob saith unto Laban, `Send me away, and I go unto my place, and to my land;
+
+**[30:26]** give up my wives and my children, for whom I have served thee, and I go; for thou -- thou hast known my service which I have served thee.'
+
+**[30:27]** And Laban saith unto him, `If, I pray thee, I have found grace in thine eyes -- I have observed diligently that Jehovah doth bless me for thy sake.'
+
+**[30:28]** He saith also, `Define thy hire to me, and I give.'
+
+**[30:29]** And he saith unto him, `Thou -- thou hast known that which I have served thee `in', and that which thy substance was with me;
+
+**[30:30]** for `it is' little which thou hast had at my appearance, and it breaketh forth into a multitude, and Jehovah blesseth thee at my coming; and now, when do I make, I also, for mine own house?'
+
+**[30:31]** And he saith, `What do I give to thee?' And Jacob saith, `Thou dost not give me anything; if thou do for me this thing, I turn back; I have delight; thy flock I watch;
+
+**[30:32]** I pass through all thy flock to-day to turn aside from thence every sheep speckled and spotted, and every brown sheep among the lambs, and speckled and spotted among the goats -- and it hath been my hire;
+
+**[30:33]** and my righteousness hath answered for me in the day to come, when it cometh in for my hire before thy face; -- every one which is not speckled and spotted among `my' goats, and brown among `my' lambs -- it is stolen with me.'
+
+**[30:34]** And Laban saith, `Lo, O that it were according to thy word;'
+
+**[30:35]** and he turneth aside during that day the ring-straked and the spotted he-goats, and all the speckled and the spotted she-goats, every one that `hath' white in it, and every brown one among the lambs, and he giveth into the hand of his sons,
+
+**[30:36]** and setteth a journey of three days between himself and Jacob; and Jacob is feeding the rest of the flock of Laban.
+
+**[30:37]** And Jacob taketh to himself a rod of fresh poplar, and of the hazel and chesnut, and doth peel in them white peelings, making bare the white that `is' on the rods,
+
+**[30:38]** and setteth up the rods which he hath peeled in the gutters in the watering troughs (when the flock cometh in to drink), over-against the flock, that they may conceive in their coming in to drink;
+
+**[30:39]** and the flocks conceive at the rods, and the flock beareth ring-straked, speckled, and spotted ones.
+
+**[30:40]** And the lambs hath Jacob parted, and he putteth the face of the flock towards the ring-straked, also all the brown in the flock of Laban, and he setteth his own droves by themselves, and hath not set them near Laban's flock.
+
+**[30:41]** And it hath come to pass whenever the strong ones of the flock conceive, that Jacob set the rods before the eyes of the flock in the gutters, to cause them to conceive by the rods,
+
+**[30:42]** and when the flock is feeble, he doth not set `them'; and the feeble ones have been Laban's, and the strong ones Jacob's.
+
+**[30:43]** And the man increaseth very exceedingly, and hath many flocks, and maid-servants, and men-servants, and camels, and asses.
+
+**[31:1]** And he heareth the words of Laban's sons, saying, `Jacob hath taken all that our father hath; yea, from that which our father hath, he hath made all this honour;'
+
+**[31:2]** and Jacob seeth the face of Laban, and lo, it is not with him as heretofore.
+
+**[31:3]** And Jehovah saith unto Jacob, `Turn back unto the land of thy fathers, and to thy kindred, and I am with thee.'
+
+**[31:4]** And Jacob sendeth and calleth for Rachel and for Leah to the field unto his flock;
+
+**[31:5]** and saith to them, `I am beholding your father's face -- that it is not towards me as heretofore, and the God of my father hath been with me,
+
+**[31:6]** and ye -- ye have known that with all my power I have served your father,
+
+**[31:7]** and your father hath played upon me, and hath changed my hire ten times; and God hath not suffered him to do evil with me.
+
+**[31:8]** `If he say thus: The speckled are thy hire, then bare all the flock speckled ones; and if he say thus: The ring-straked are thy hire, then bare all the flock ring-straked;
+
+**[31:9]** and God taketh away the substance of your father, and doth give to me.
+
+**[31:10]** `And it cometh to pass at the time of the flock conceiving, that I lift up mine eyes and see in a dream, and lo, the he-goats, which are going up on the flock, `are' ring-straked, speckled, and grisled;
+
+**[31:11]** and the messenger of God saith unto me in the dream, Jacob, and I say, Here `am' I.
+
+**[31:12]** `And He saith, Lift up, I pray thee, thine eyes, and see -- all the he-goats which are going up on the flock `are' ring-straked, speckled, and grisled, for I have seen all that Laban is doing to thee;
+
+**[31:13]** I `am' the God of Bethel where thou hast anointed a standing pillar, where thou hast vowed a vow to me; now, arise, go out from this land, and turn back unto the land of thy birth.'
+
+**[31:14]** And Rachel answereth -- Leah also -- and saith to him, `Have we yet a portion and inheritance in the house of our father?
+
+**[31:15]** have we not been reckoned strangers to him? for he hath sold us, and he also utterly consumeth our money;
+
+**[31:16]** for all the wealth which God hath taken away from our father, it `is' ours, and our children's; and now, all that God hath said unto thee -- do.'
+
+**[31:17]** And Jacob riseth, and lifteth up his sons and his wives on the camels,
+
+**[31:18]** and leadeth all his cattle, and all his substance which he hath acquired, the cattle of his getting, which he hath acquired in Padan-Aram, to go unto Isaac his father, to the land of Canaan.
+
+**[31:19]** And Laban hath gone to shear his flock, and Rachel stealeth the teraphim which her father hath;
+
+**[31:20]** and Jacob deceiveth the heart of Laban the Aramaean, because he hath not declared to him that he is fleeing;
+
+**[31:21]** and he fleeth, he and all that he hath, and riseth, and passeth over the River, and setteth his face `toward' the mount of Gilead.
+
+**[31:22]** And it is told to Laban on the third day that Jacob hath fled,
+
+**[31:23]** and he taketh his brethren with him, and pursueth after him a journey of seven days, and overtaketh him in the mount of Gilead.
+
+**[31:24]** And God cometh in unto Laban the Aramaean in a dream of the night, and saith to him, `Take heed to thyself lest thou speak with Jacob from good unto evil.'
+
+**[31:25]** And Laban overtaketh Jacob; and Jacob hath fixed his tent in the mount; and Laban with his brethren have fixed `theirs' in the mount of Gilead.
+
+**[31:26]** And Laban saith to Jacob, `What hast thou done that thou dost deceive my heart, and lead away my daughters as captives of the sword?
+
+**[31:27]** Why hast thou hidden thyself to flee, and deceivest me, and hast not declared to me, and I send thee away with joy and with songs, with tabret and with harp,
+
+**[31:28]** and hast not suffered me to kiss my sons and my daughters? -- now thou hast acted foolishly in doing `so';
+
+**[31:29]** my hand is to God to do evil with you, but the God of your father yesternight hath spoken unto me, saying, Take heed to thyself from speaking with Jacob from good unto evil.
+
+**[31:30]** `And now, thou hast certainly gone, because thou hast been very desirous for the house of thy father; why hast thou stolen my gods?'
+
+**[31:31]** And Jacob answereth and saith to Laban, `Because I was afraid, for I said, Lest thou take violently away thy daughters from me;
+
+**[31:32]** with whomsoever thou findest thy gods -- he doth not live; before our brethren discern for thyself what `is' with me, and take to thyself:' and Jacob hath not known that Rachel hath stolen them.
+
+**[31:33]** And Laban goeth into the tent of Jacob, and into the tent of Leah, and into the tent of the two handmaidens, and hath not found; and he goeth out from the tent of Leah, and goeth into the tent of Rachel.
+
+**[31:34]** And Rachel hath taken the teraphim, and putteth them in the furniture of the camel, and sitteth upon them; and Laban feeleth all the tent, and hath not found;
+
+**[31:35]** and she saith unto her father, `Let it not be displeasing in the eyes of my lord that I am not able to rise at thy presence, for the way of women `is' on me;' and he searcheth, and hath not found the teraphim.
+
+**[31:36]** And it is displeasing to Jacob, and he striveth with Laban; and Jacob answereth and saith to Laban, `What `is' my transgression? what my sin, that thou hast burned after me?
+
+**[31:37]** for thou hast felt all my vessels: what hast thou found of all the vessels of thy house? set here before my brethren, and thy brethren, and they decide between us both.
+
+**[31:38]** `These twenty years I `am' with thee: thy ewes and thy she-goats have not miscarried, and the rams of thy flock I have not eaten;
+
+**[31:39]** the torn I have not brought in unto thee -- I, I repay it -- from my hand thou dost seek it; I have been deceived by day, and I have been deceived by night;
+
+**[31:40]** I have been `thus': in the day consumed me hath drought, and frost by night, and wander doth my sleep from mine eyes.
+
+**[31:41]** `This `is' to me twenty years in thy house: I have served thee fourteen years for thy two daughters, and six years for thy flock; and thou changest my hire ten times;
+
+**[31:42]** unless the God of my father, the God of Abraham, and the Fear of Isaac, had been for me, surely now empty thou hadst sent me away; mine affliction and the labour of my hands hath God seen, and reproveth yesternight.'
+
+**[31:43]** And Laban answereth and saith unto Jacob, `The daughters `are' my daughters, and the sons my sons, and the flock my flock, and all that thou art seeing `is' mine; and to my daughters -- what do I to these to-day, or to their sons whom they have born?
+
+**[31:44]** and now, come, let us make a covenant, I and thou, and it hath been for a witness between me and thee.'
+
+**[31:45]** And Jacob taketh a stone, and lifteth it up `for' a standing pillar;
+
+**[31:46]** and Jacob saith to his brethren, `Gather stones,' and they take stones, and make a heap; and they eat there on the heap;
+
+**[31:47]** and Laban calleth it Jegar-Sahadutha; and Jacob hath called it Galeed.
+
+**[31:48]** And Laban saith, `This heap `is' witness between me and thee to-day;' therefore hath he called its name Galeed;
+
+**[31:49]** Mizpah also, for he said, `Jehovah doth watch between me and thee, for we are hidden one from another;
+
+**[31:50]** if thou afflict my daughters, or take wives beside my daughters -- there is no man with us -- see, God `is' witness between me and thee.'
+
+**[31:51]** And Laban saith to Jacob, `Lo, this heap, and lo, the standing pillar which I have cast between me and thee;
+
+**[31:52]** this heap `is' witness, and the standing pillar `is' witness, that I do not pass over this heap unto thee, and that thou dost not pass over this heap and this standing pillar unto me -- for evil;
+
+**[31:53]** the God of Abraham and the God of Nahor, doth judge between us -- the God of their father,' and Jacob sweareth by the Fear of his father Isaac.
+
+**[31:54]** And Jacob sacrificeth a sacrifice in the mount, and calleth to his brethren to eat bread, and they eat bread, and lodge in the mount;
+
+**[31:55]** and Laban riseth early in the morning, and kisseth his sons and his daughters, and blesseth them; and Laban goeth on, and turneth back to his place.
+
+**[32:1]** And Jacob hath gone on his way, and messengers of God come upon him;
+
+**[32:2]** and Jacob saith, when he hath seen them, `This `is' the camp of God;' and he calleth the name of that place `Two Camps.'
+
+**[32:3]** And Jacob sendeth messengers before him unto Esau his brother, towards the land of Seir, the field of Edom,
+
+**[32:4]** and commandeth them, saying, `Thus do ye say to my lord, to Esau: Thus said thy servant Jacob, With Laban I have sojourned, and I tarry until now;
+
+**[32:5]** and I have ox, and ass, flock, and man-servant, and maid-servant, and I send to declare to my lord, to find grace in his eyes.'
+
+**[32:6]** And the messengers turn back unto Jacob, saying, `We came in unto thy brother, unto Esau, and he also is coming to meet thee, and four hundred men with him;'
+
+**[32:7]** and Jacob feareth exceedingly, and is distressed, and he divideth the people who `are' with him, and the flock, and the herd, and the camels, into two camps,
+
+**[32:8]** and saith, `If Esau come in unto the one camp, and have smitten it -- then the camp which is left hath been for an escape.'
+
+**[32:9]** And Jacob saith, `God of my father Abraham, and God of my father Isaac, Jehovah who saith unto me, Turn back to thy land, and to thy kindred, and I do good with thee:
+
+**[32:10]** I have been unworthy of all the kind acts, and of all the truth which Thou hast done with thy servant -- for, with my staff I passed over this Jordan, and now I have become two camps.
+
+**[32:11]** `Deliver me, I pray Thee, from the hand of my brother, from the hand of Esau: for I am fearing him, less he come and have smitten me -- mother beside sons;
+
+**[32:12]** and Thou -- Thou hast said, I certainly do good with thee, and have set thy seed as the sand of the sea, which is not numbered because of the multitude.'
+
+**[32:13]** And he lodgeth there during that night, and taketh from that which is coming into his hand, a present for Esau his brother:
+
+**[32:14]** she-goats two hundred, and he-goats twenty, ewes two hundred, and rams twenty,
+
+**[32:15]** suckling camels and their young ones thirty, cows forty, and bullocks ten, she-asses twenty, and foals ten;
+
+**[32:16]** and he giveth into the hand of his servants, every drove by itself, and saith unto his servants, `Pass over before me, and a space ye do put between drove and drove.'
+
+**[32:17]** And he commandeth the first, saying, `When Esau my brother meeteth thee, and hath asked thee, saying, Whose `art' thou? and whither goest thou? and whose `are' these before thee?
+
+**[32:18]** then thou hast said, Thy servant Jacob's: it `is' a present sent to my lord, to Esau; and lo, he also `is' behind us.'
+
+**[32:19]** And he commandeth also the second, also the third, also all who are going after the droves, saying, `According to this manner do ye speak unto Esau in your finding him,
+
+**[32:20]** and ye have said also, Lo, thy servant Jacob `is' behind us;' for he said, `I pacify his face with the present which is going before me, and afterwards I see his face; it may be he lifteth up my face;'
+
+**[32:21]** and the present passeth over before his face, and he hath lodged during that night in the camp.
+
+**[32:22]** And he riseth in that night, and taketh his two wives, and his two maid-servants, and his eleven children, and passeth over the passage of Jabbok;
+
+**[32:23]** and he taketh them, and causeth them to pass over the brook, and he causeth that which he hath to pass over.
+
+**[32:24]** And Jacob is left alone, and one wrestleth with him till the ascending of the dawn;
+
+**[32:25]** and he seeth that he is not able for him, and he cometh against the hollow of his thigh, and the hollow of Jacob's thigh is disjointed in his wrestling with him;
+
+**[32:26]** and he saith, `Send me away, for the dawn hath ascended:' and he saith, `I send thee not away, except thou hast blessed me.'
+
+**[32:27]** And he saith unto him, `What `is' thy name?' and he saith, `Jacob.'
+
+**[32:28]** And he saith, `Thy name is no more called Jacob, but Israel; for thou hast been a prince with God and with men, and dost prevail.'
+
+**[32:29]** And Jacob asketh, and saith, `Declare, I pray thee, thy name;' and he saith, `Why `is' this, thou askest for My name?' and He blesseth him there.
+
+**[32:30]** And Jacob calleth the name of the place Peniel: for `I have seen God face unto face, and my life is delivered;'
+
+**[32:31]** and the sun riseth on him when he hath passed over Penuel, and he is halting on his thigh;
+
+**[32:32]** therefore the sons of Israel do not eat the sinew which shrank, which `is' on the hollow of the thigh, unto this day, because He came against the hollow of Jacob's thigh, against the sinew which shrank.
+
+**[33:1]** And Jacob lifteth up his eyes, and looketh, and lo, Esau is coming, and with him four hundred men; and he divideth the children unto Leah, and unto Rachel, and unto the two maid-servants;
+
+**[33:2]** and he setteth the maid-servants and their children first, and Leah and her children behind, and Rachel and Joseph last.
+
+**[33:3]** And he himself passed over before them, and boweth himself to the earth seven times, until his drawing nigh unto his brother,
+
+**[33:4]** and Esau runneth to meet him, and embraceth him, and falleth on his neck, and kisseth him, and they weep;
+
+**[33:5]** and he lifteth up his eyes, and seeth the women and the children, and saith, `What `are' these to thee?' And he saith, `The children with whom God hath favoured thy servant.'
+
+**[33:6]** And the maid-servants draw nigh, they and their children, and bow themselves;
+
+**[33:7]** and Leah also draweth nigh, and her children, and they bow themselves; and afterwards Joseph hath drawn nigh with Rachel, and they bow themselves.
+
+**[33:8]** And he saith, `What to thee `is' all this camp which I have met?' and he saith, `To find grace in the eyes of my lord.'
+
+**[33:9]** And Esau saith, `I have abundance, my brother, let it be to thyself that which thou hast.'
+
+**[33:10]** And Jacob saith, `Nay, I pray thee, if, I pray thee, I have found grace in thine eyes, then thou hast received my present from my hand, because that I have seen thy face, as the seeing of the face of God, and thou art pleased with me;
+
+**[33:11]** receive, I pray thee, my blessing, which is brought to thee, because God hath favoured me, and because I have all `things';' and he presseth on him, and he receiveth,
+
+**[33:12]** and saith, `Let us journey and go on, and I go on before thee.'
+
+**[33:13]** And he saith unto him, `My lord knoweth that the children `are' tender, and the suckling flock and the herd `are' with me; when they have beaten them one day, then hath all the flock died.
+
+**[33:14]** Let my lord, I pray thee, pass over before his servant, and I -- I lead on gently, according to the foot of the work which `is' before me, and to the foot of the children, until that I come unto my lord, to Seir.'
+
+**[33:15]** And Esau saith, `Let me, I pray thee, place with thee some of the people who `are' with me;' and he said, `Why `is' this? I find grace in the eyes of my lord.'
+
+**[33:16]** And turn back on that day doth Esau on his way to Seir;
+
+**[33:17]** and Jacob hath journeyed to Succoth, and buildeth to himself a house, and for his cattle hath made booths, therefore hath he called the name of the place Succoth.
+
+**[33:18]** And Jacob cometh in to Shalem, a city of Shechem, which `is' in the land of Canaan, in his coming from Padan-Aram, and encampeth before the city,
+
+**[33:19]** and he buyeth the portion of the field where he hath stretched out his tent, from the hand of the sons of Hamor, father of Shechem, for a hundred kesitah;
+
+**[33:20]** and he setteth up there an altar, and proclaimeth at it God -- the God of Israel.
+
+**[34:1]** And Dinah, daughter of Leah, whom she hath borne to Jacob, goeth out to look on the daughters of the land,
+
+**[34:2]** and Shechem, son of Hamor the Hivite, a prince of the land, seeth her, and taketh her, and lieth with her, and humbleth her;
+
+**[34:3]** and his soul cleaveth to Dinah, daughter of Jacob, and he loveth the young person, and speaketh unto the heart of the young person.
+
+**[34:4]** And Shechem speaketh unto Hamor his father, saying, `Take for me this damsel for a wife.'
+
+**[34:5]** And Jacob hath heard that he hath defiled Dinah his daughter, and his sons were with his cattle in the field, and Jacob kept silent till their coming.
+
+**[34:6]** And Hamor, father of Shechem, goeth out unto Jacob to speak with him;
+
+**[34:7]** and the sons of Jacob came in from the field when they heard, and the men grieve themselves, and it `is' very displeasing to them, for folly he hath done against Israel, to lie with the daughter of Jacob -- and so it is not done.
+
+**[34:8]** And Hamor speaketh with them, saying, `Shechem, my son, his soul hath cleaved to your daughter; give her, I pray you, to him for a wife,
+
+**[34:9]** and join ye in marriage with us; your daughters ye give to us, and our daughters ye take to yourselves,
+
+**[34:10]** and with us ye dwell, and the land is before you; dwell ye and trade `in' it, and have possessions in it.'
+
+**[34:11]** And Shechem saith unto her father, and unto her brethren, `Let me find grace in your eyes, and that which ye say unto me, I give;
+
+**[34:12]** multiply on me exceedingly dowry and gift, and I give as ye say unto me, and give to me the young person for a wife.'
+
+**[34:13]** And the sons of Jacob answer Shechem and Hamor his father deceitfully, and they speak (because he defiled Dinah their sister),
+
+**[34:14]** and say unto them, `We are not able to do this thing, to give our sister to one who hath a foreskin: for it `is' a reproach to us.
+
+**[34:15]** `Only for this we consent to you; if ye be as we, to have every male of you circumcised,
+
+**[34:16]** then we have given our daughters to you, and your daughters we take to ourselves, and we have dwelt with you, and have become one people;
+
+**[34:17]** and if ye hearken not unto us to be circumcised, then we have taken our daughter, and have gone.'
+
+**[34:18]** And their words are good in the eyes of Hamor, and in the eyes of Shechem, Hamor's son;
+
+**[34:19]** and the young man delayed not to do the thing, for he had delight in Jacob's daughter, and he is honourable above all the house of his father.
+
+**[34:20]** And Hamor cometh -- Shechem his son also -- unto the gate of their city, and they speak unto the men of their city, saying,
+
+**[34:21]** `These men are peaceable with us; then let them dwell in the land, and trade `in' it; and the land, lo, `is' wide before them; their daughters let us take to ourselves for wives, and our daughters give to them.
+
+**[34:22]** `Only for this do the men consent to us, to dwell with us, to become one people, in every male of us being circumcised, as they are circumcised;
+
+**[34:23]** their cattle, and their substance, and all their beasts -- are they not ours? only let us consent to them, and they dwell with us.'
+
+**[34:24]** And unto Hamor, and unto Shechem his son, hearken do all those going out of the gate of his city, and every male is circumcised, all those going out of the gate of his city.
+
+**[34:25]** And it cometh to pass, on the third day, in their being pained, that two of the sons of Jacob, Simeon and Levi, Dinah's brethren, take each his sword, and come in against the city confidently, and slay every male;
+
+**[34:26]** and Hamor, and Shechem his son, they have slain by the mouth of the sword, and they take Dinah out of Shechem's house, and go out.
+
+**[34:27]** Jacob's sons have come in upon the wounded, and they spoil the city, because they had defiled their sister;
+
+**[34:28]** their flock and their herd, and their asses, and that which `is' in the city, and that which `is' in the field, have they taken;
+
+**[34:29]** and all their wealth, and all their infants, and their wives they have taken captive, and they spoil also all that `is' in the house.
+
+**[34:30]** And Jacob saith unto Simeon and unto Levi, `Ye have troubled me, by causing me to stink among the inhabitants of the land, among the Canaanite, and among the Perizzite: and I `am' few in number, and they have been gathered against me, and have smitten me, and I have been destroyed, I and my house.'
+
+**[34:31]** And they say, `As a harlot doth he make our sister?'
+
+**[35:1]** And God saith unto Jacob, `Rise, go up to Bethel, and dwell there, and make there an altar to God, who appeared unto thee in thy fleeing from the face of Esau thy brother.'
+
+**[35:2]** And Jacob saith unto his household, and unto all who `are' with him, `Turn aside the gods of the stranger which `are' in your midst, and cleanse yourselves, and change your garments;
+
+**[35:3]** and we rise, and go up to Bethel, and I make there an altar to God, who is answering me in the day of my distress, and is with me in the way that I have gone.'
+
+**[35:4]** And they give unto Jacob all the gods of the stranger that `are' in their hand, and the rings that `are' in their ears, and Jacob hideth them under the oak which `is' by Shechem;
+
+**[35:5]** and they journey, and the terror of God is on the cities which `are' round about them, and they have not pursued after the sons of Jacob.
+
+**[35:6]** And Jacob cometh in to Luz which `is' in the land of Canaan (it `is' Bethel), he and all the people who `are' with him,
+
+**[35:7]** and he buildeth there an altar, and proclaimeth at the place the God of Bethel: for there had God been revealed unto him, in his fleeing from the face of his brother.
+
+**[35:8]** And Deborah, Rebekah's nurse, dieth, and she is buried at the lower part of Bethel, under the oak, and he calleth its name `Oak of weeping.'
+
+**[35:9]** And God appeareth unto Jacob again, in his coming from Padan-Aram, and blesseth him;
+
+**[35:10]** and God saith to him, `Thy name `is' Jacob: thy name is no more called Jacob, but Israel is thy name;' and He calleth his name Israel.
+
+**[35:11]** And God saith to him, `I `am' God Almighty; be fruitful and multiply, a nation and an assembly of nations is from thee, and kings from thy loins go out;
+
+**[35:12]** and the land which I have given to Abraham and to Isaac -- to thee I give it, yea to thy seed after thee I give the land.'
+
+**[35:13]** And God goeth up from him, in the place where He hath spoken with him.
+
+**[35:14]** And Jacob setteth up a standing pillar in the place where He hath spoken with him, a standing pillar of stone, and he poureth on it an oblation, and he poureth on it oil;
+
+**[35:15]** and Jacob calleth the name of the place where God spake with him Bethel.
+
+**[35:16]** And they journey from Bethel, and there is yet a kibrath of land before entering Ephratha, and Rachel beareth, and is sharply pained in her bearing;
+
+**[35:17]** and it cometh to pass, in her being sharply pained in her bearing, that the midwife saith to her, `Fear not, for this also `is' a son for thee.'
+
+**[35:18]** And it cometh to pass in the going out of her soul (for she died), that she calleth his name Ben-Oni; and his father called him Benjamin;
+
+**[35:19]** and Rachel dieth, and is buried in the way to Ephratha, which `is' Bethlehem,
+
+**[35:20]** and Jacob setteth up a standing pillar over her grave; which `is' the standing pillar of Rachel's grave unto this day.
+
+**[35:21]** And Israel journeyeth, and stretcheth out his tent beyond the tower of Edar;
+
+**[35:22]** and it cometh to pass in Israel's dwelling in that land, that Reuben goeth, and lieth with Bilhah his father's concubine; and Israel heareth.
+
+**[35:23]** And the sons of Jacob are twelve. Sons of Leah: Jacob's first-born Reuben, and Simeon, and Levi, and Judah, and Issachar, and Zebulun.
+
+**[35:24]** Sons of Rachel: Joseph and Benjamin.
+
+**[35:25]** And sons of Bilhah, Rachel's maid-servant: Dan and Naphtali.
+
+**[35:26]** And sons of Zilpah, Leah's maid-servant: Gad and Asher. These `are' sons of Jacob, who have been born to him in Padan-Aram.
+
+**[35:27]** And Jacob cometh unto Isaac his father, at Mamre, the city of Arba (which `is' Hebron), where Abraham and Isaac have sojourned.
+
+**[35:28]** And the days of Isaac are a hundred and eighty years,
+
+**[35:29]** and Isaac expireth, and dieth, and is gathered unto his people, aged and satisfied with days; and bury him do Esau and Jacob his sons.
+
+**[36:1]** And these `are' births of Esau, who `is' Edom.
+
+**[36:2]** Esau hath taken his wives from the daughters of Canaan: Adah daughter of Elon the Hittite, and Aholibamah daughter of Anah, daughter of Zibeon the Hivite,
+
+**[36:3]** and Bashemath daughter of Ishmael, sister of Nebajoth.
+
+**[36:4]** And Adah beareth to Esau, Eliphaz; and Bashemath hath born Reuel;
+
+**[36:5]** and Aholibamah hath born Jeush, and Jaalam, and Korah. These `are' sons of Esau, who were born to him in the land of Canaan.
+
+**[36:6]** And Esau taketh his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance which he hath acquired in the land of Canaan, and goeth into the country from the face of Jacob his brother;
+
+**[36:7]** for their substance was more abundant than to dwell together, and the land of their sojournings was not able to bear them because of their cattle;
+
+**[36:8]** and Esau dwelleth in mount Seir: Esau is Edom.
+
+**[36:9]** And these `are' births of Esau, father of Edom, in mount Seir.
+
+**[36:10]** These `are' the names of the sons of Esau: Eliphaz son of Adah, wife of Esau; Reuel son of Bashemath, wife of Esau.
+
+**[36:11]** And the sons of Eliphaz are Teman, Omar, Zepho, and Gatam, and Kenaz;
+
+**[36:12]** and Timnath hath been concubine to Eliphaz son of Esau, and she beareth to Eliphaz, Amalek; these `are' sons of Adah wife of Esau.
+
+**[36:13]** And these `are' sons of Reuel: Nahath and Zerah, Shammah and Mizzah; these were sons of Bashemath wife of Esau.
+
+**[36:14]** And these have been the sons of Aholibamah daughter of Anah, daughter of Zibeon, wife of Esau; and she beareth to Esau, Jeush and Jaalam and Korah.
+
+**[36:15]** These `are' chiefs of the sons of Esau: sons of Eliphaz, first-born of Esau: chief Teman, chief Omar, chief Zepho, chief Kenaz,
+
+**[36:16]** chief Korah, chief Gatam, chief Amalek; these `are' chiefs of Eliphaz, in the land of Edom; these `are' sons of Adah.
+
+**[36:17]** And these `are' sons of Reuel son of Esau: chief Nahath, chief Zerah, chief Shammah, chief Mizzah; these `are' chiefs of Reuel, in the land of Edom; these `are' sons of Bashemath wife of Esau.
+
+**[36:18]** And these `are' sons of Aholibamah wife of Esau: chief Jeush, chief Jaalam, chief Korah; these `are' chiefs of Aholibamah daughter of Anah, wife of Esau.
+
+**[36:19]** These `are' sons of Esau (who `is' Edom), and these their chiefs.
+
+**[36:20]** These `are' sons of Seir the Horite, the inhabitants of the land: Lotan, and Shobal, and Zibeon, and Anah,
+
+**[36:21]** and Dishon, and Ezer, and Dishan; these `are' chiefs of the Horites, sons of Seir, in the land of Edom.
+
+**[36:22]** And the sons of Lotan are Hori and Heman; and a sister of Lotan `is' Timna.
+
+**[36:23]** And these `are' sons of Shobal: Alvan and Manahath, and Ebal, Shepho and Onam.
+
+**[36:24]** And these `are' sons of Zibeon, both Ajah and Anah: it `is' Anah that hath found the Imim in the wilderness, in his feeding the asses of Zibeon his father.
+
+**[36:25]** And these `are' sons of Anah: Dishon, and Aholibamah daughter of Anah.
+
+**[36:26]** And these `are' sons of Dishon: Hemdan, and Eshban, and Ithran, and Cheran.
+
+**[36:27]** These `are' sons of Ezer: Bilhan, and Zaavan, and Akan.
+
+**[36:28]** These `are' sons of Dishan: Uz and Aran.
+
+**[36:29]** These `are' chiefs of the Horite: chief Lotan, chief Shobal, chief Zibeon, chief Anah,
+
+**[36:30]** chief Dishon, chief Ezer, chief Dishan: these `are' chiefs of the Horite in reference to their chiefs in the land of Seir.
+
+**[36:31]** And these `are' the kings who have reigned in the land of Edom before the reigning of a king over the sons of Israel.
+
+**[36:32]** And Bela son of Beor reigneth in Edom, and the name of his city `is' Dinhabah;
+
+**[36:33]** and Bela dieth, and reign in his stead doth Jobab son of Zerah from Bozrah;
+
+**[36:34]** and Jobab dieth, and reign in his stead doth Husham from the land of the Temanite.
+
+**[36:35]** And Husham dieth, and reign in his stead doth Hadad son of Bedad (who smiteth Midian in the field of Moab), and the name of his city `is' Avith;
+
+**[36:36]** and Hadad dieth, and reign in his stead doth Samlah of Masrekah;
+
+**[36:37]** and Samlah dieth, and reign in his stead doth Saul from Rehoboth of the River;
+
+**[36:38]** and Saul dieth, and reign in his stead doth Baal-hanan son of Achbor;
+
+**[36:39]** and Baal-hanan son of Achbor dieth, and reign in his stead doth Hadar, and the name of his city `is' Pau; and his wife's name `is' Mehetabel daughter of Matred, daughter of Me-zahab.
+
+**[36:40]** And these `are' the names of the chiefs of Esau, according to their families, according to their places, by their names: chief Timnah, chief Alvah, chief Jetheth,
+
+**[36:41]** chief Aholibamah, chief Elah, chief Pinon,
+
+**[36:42]** chief Kenaz, chief Teman, chief Mibzar,
+
+**[36:43]** chief Magdiel, chief Iram: these `are' chiefs of Edom, in reference to their dwellings, in the land of their possession; he `is' Esau father of Edom.
+
+**[37:1]** And Jacob dwelleth in the land of his father's sojournings -- in the land of Canaan.
+
+**[37:2]** These `are' births of Jacob: Joseph, a son of seventeen years, hath been enjoying himself with his brethren among the flock, (and he `is' a youth,) with the sons of Bilhah, and with the sons of Zilpah, his father's wives, and Joseph bringeth in an account of their evil unto their father.
+
+**[37:3]** And Israel hath loved Joseph more than any of his sons, for he `is' a son of his old age, and hath made for him a long coat;
+
+**[37:4]** and his brethren see that their father hath loved him more than any of his brethren, and they hate him, and have not been able to speak `to' him peaceably.
+
+**[37:5]** And Joseph dreameth a dream, and declareth to his brethren, and they add still more to hate him.
+
+**[37:6]** And he saith unto them, `Hear ye, I pray you, this dream which I have dreamed:
+
+**[37:7]** that, lo, we are binding bundles in the midst of the field, and lo, my bundle hath arisen, and hath also stood up, and lo, your bundles are round about, and bow themselves to my bundle.'
+
+**[37:8]** And his brethren say to him, `Dost thou certainly reign over us? dost thou certainly rule over us?' and they add still more to hate him, for his dreams, and for his words.
+
+**[37:9]** And he dreameth yet another dream, and recounteth it to his brethren, and saith, `Lo, I have dreamed a dream again, and lo, the sun and the moon, and eleven stars, are bowing themselves to me.'
+
+**[37:10]** And he recounteth unto his father, and unto his brethren; and his father pusheth against him, and saith to him, `What `is' this dream which thou hast dreamt? do we certainly come -- I, and thy mother, and thy brethren -- to bow ourselves to thee, to the earth?'
+
+**[37:11]** and his brethren are zealous against him, and his father hath watched the matter.
+
+**[37:12]** And his brethren go to feed the flock of their father in Shechem,
+
+**[37:13]** and Israel saith unto Joseph, `Are not thy brethren feeding in Shechem? come, and I send thee unto them;' and he saith to him, `Here `am' I;'
+
+**[37:14]** and he saith to him, `Go, I pray thee, see the peace of thy brethren, and the peace of the flock, and bring me back word;' and he sendeth him from the valley of Hebron, and he cometh to Shechem.
+
+**[37:15]** And a man findeth him, and lo, he is wandering in the field, and the man asketh him, saying, `What seekest thou?'
+
+**[37:16]** and he saith, `My brethren I am seeking, declare to me, I pray thee, where they are feeding?'
+
+**[37:17]** And the man saith, `They have journeyed from this, for I have heard some saying, Let us go to Dothan,' and Joseph goeth after his brethren, and findeth them in Dothan.
+
+**[37:18]** And they see him from afar, even before he draweth near unto them, and they conspire against him to put him to death.
+
+**[37:19]** And they say one unto another, `Lo, this man of the dreams cometh;
+
+**[37:20]** and now, come, and we slay him, and cast him into one of the pits, and have said, An evil beast hath devoured him; and we see what his dreams are.'
+
+**[37:21]** And Reuben heareth, and delivereth him out of their hand, and saith, `Let us not smite the life;'
+
+**[37:22]** and Reuben saith unto them, `Shed no blood; cast him into this pit which `is' in the wilderness, and put not forth a hand upon him,' -- in order to deliver him out of their hand, to bring him back unto his father.
+
+**[37:23]** And it cometh to pass, when Joseph hath come unto his brethren, that they strip Joseph of his coat, the long coat which `is' upon him,
+
+**[37:24]** and take him and cast him into the pit, and the pit `is' empty, there is no water in it.
+
+**[37:25]** And they sit down to eat bread, and they lift up their eyes, and look, and lo, a company of Ishmaelites coming from Gilead, and their camels bearing spices, and balm, and myrrh, going to take `them' down to Egypt.
+
+**[37:26]** And Judah saith unto his brethren, `What gain when we slay our brother, and have concealed his blood?
+
+**[37:27]** Come, and we sell him to the Ishmaelites, and our hands are not on him, for he `is' our brother -- our flesh;' and his brethren hearken.
+
+**[37:28]** And Midianite merchantmen pass by and they draw out and bring up Joseph out of the pit, and sell Joseph to the Ishmaelites for twenty silverlings, and they bring Joseph into Egypt.
+
+**[37:29]** And Reuben returneth unto the pit, and lo, Joseph is not in the pit, and he rendeth his garments,
+
+**[37:30]** and he returneth unto his brethren, and saith, `The lad is not, and I -- whither am I going?'
+
+**[37:31]** And they take the coat of Joseph, and slaughter a kid of the goats, and dip the coat in the blood,
+
+**[37:32]** and send the long coat, and they bring `it' in unto their father, and say, `This have we found; discern, we pray thee, whether it `is' thy son's coat or not?'
+
+**[37:33]** And he discerneth it, and saith, `My son's coat! an evil beast hath devoured him; torn -- torn is Joseph!'
+
+**[37:34]** And Jacob rendeth his raiment, and putteth sackcloth on his loins, and becometh a mourner for his son many days,
+
+**[37:35]** and all his sons and all his daughters rise to comfort him, and he refuseth to comfort himself, and saith, `For -- I go down mourning unto my son, to Sheol,' and his father weepeth for him.
+
+**[37:36]** And the Medanites have sold him unto Egypt, to Potiphar, a eunuch of Pharaoh, head of the executioners.
+
+**[38:1]** And it cometh to pass, at that time, that Judah goeth down from his brethren, and turneth aside unto a man, an Adullamite, whose name `is' Hirah;
+
+**[38:2]** and Judah seeth there the daughter of a man, a Canaanite, whose name `is' Shuah, and taketh her, and goeth in unto her.
+
+**[38:3]** And she conceiveth, and beareth a son, and he calleth his name Er;
+
+**[38:4]** and she conceiveth again, and beareth a son, and calleth his name Onan;
+
+**[38:5]** and she addeth again, and beareth a son, and calleth his name Shelah; and he was in Chezib in her bearing him.
+
+**[38:6]** And Judah taketh a wife for Er, his first-born, and her name `is' Tamar;
+
+**[38:7]** and Er, Judah's first-born, is evil in the eyes of Jehovah, and Jehovah doth put him to death.
+
+**[38:8]** And Judah saith to Onan, `Go in unto the wife of thy brother, and marry her, and raise up seed to thy brother;'
+
+**[38:9]** and Onan knoweth that the seed is not `reckoned' his; and it hath come to pass, if he hath gone in unto his brother's wife, that he hath destroyed `it' to the earth, so as not to give seed to his brother;
+
+**[38:10]** and that which he hath done is evil in the eyes of Jehovah, and He putteth him also to death.
+
+**[38:11]** And Judah saith to Tamar his daughter-in-law, `Abide a widow at thy father's house, till Shelah my son groweth up;' for he said, `Lest he die -- even he -- like his brethren;' and Tamar goeth and dwelleth at her father's house.
+
+**[38:12]** And the days are multiplied, and the daughter of Shuah, Judah's wife, dieth; and Judah is comforted, and goeth up unto his sheep-shearers, he and Hirah his friend the Adullamite, to Timnath.
+
+**[38:13]** And it is declared to Tamar, saying, `Lo, thy husband's father is going up to Timnath to shear his flock;'
+
+**[38:14]** and she turneth aside the garments of her widowhood from off her, and covereth herself with a vail, and wrappeth herself up, and sitteth in the opening of Enayim, which `is' by the way to Timnath, for she hath seen that Shelah hath grown up, and she hath not been given to him for a wife.
+
+**[38:15]** And Judah seeth her, and reckoneth her for a harlot, for she hath covered her face,
+
+**[38:16]** and he turneth aside unto her by the way, and saith, `Come, I pray thee, let me come in unto thee,' (for he hath not known that she `is' his daughter-in-law); and she saith, `What dost thou give to me, that thou mayest come in unto me?'
+
+**[38:17]** and he saith, `I -- I send a kid of the goats from the flock.' And she saith, `Dost thou give a pledge till thou send `it'?'
+
+**[38:18]** and he saith, `What `is' the pledge that I give to thee?' and she saith, `Thy seal, and thy ribbon, and thy staff which `is' in thy hand;' and he giveth to her, and goeth in unto her, and she conceiveth to him;
+
+**[38:19]** and she riseth, and goeth, and turneth aside her vail from off her, and putteth on the garments of her widowhood.
+
+**[38:20]** And Judah sendeth the kid of the goats by the hand of his friend the Adullamite, to receive the pledge from the hand of the woman, and he hath not found her.
+
+**[38:21]** And he asketh the men of her place, saying, `Where `is' the separated one -- she in Enayim, by the way?' and they say, `There hath not been in this `place' a separated one.'
+
+**[38:22]** And he turneth back unto Judah, and saith, `I have not found her; and the men of the place also have said, There hath not been in this `place' a separated one,'
+
+**[38:23]** and Judah saith, `Let her take to herself, lest we become despised; lo, I sent this kid, and thou hast not found her.'
+
+**[38:24]** And it cometh to pass about three months `after', that it is declared to Judah, saying, `Tamar thy daughter-in-law hath committed fornication; and also, lo, she hath conceived by fornication:' and Judah saith, `Bring her out -- and she is burnt.'
+
+**[38:25]** She is brought out, and she hath sent unto her husband's father, saying, `To a man whose these `are', I `am' pregnant;' and she saith, `Discern, I pray thee, whose `are' these -- the seal, and the ribbons, and the staff.'
+
+**[38:26]** And Judah discerneth and saith, `She hath been more righteous than I, because that I did not give her to Shelah my son;' and he hath not added to know her again.
+
+**[38:27]** And it cometh to pass in the time of her bearing, that lo, twins `are' in her womb;
+
+**[38:28]** and it cometh to pass in her bearing, that `one' giveth out a hand, and the midwife taketh and bindeth on his hand a scarlet thread, saying, `This hath come out first.'
+
+**[38:29]** And it cometh to pass as he draweth back his hand, that lo, his brother hath come out, and she saith, `What! thou hast broken forth -- on thee `is' the breach;' and he calleth his name Pharez;
+
+**[38:30]** and afterwards hath his brother come out, on whose hand `is' the scarlet thread, and he calleth his name Zarah.
+
+**[39:1]** And Joseph hath been brought down to Egypt, and Potiphar, a eunuch of Pharaoh, head of the executioners, an Egyptian man, buyeth him out of the hands of the Ishmaelites who have brought him thither.
+
+**[39:2]** And Jehovah is with Joseph, and he is a prosperous man, and he is in the house of his lord the Egyptian,
+
+**[39:3]** and his lord seeth that Jehovah is with him, and all that he is doing Jehovah is causing to prosper in his hand,
+
+**[39:4]** and Joseph findeth grace in his eyes and serveth him, and he appointeth him over his house, and all that he hath he hath given into his hand.
+
+**[39:5]** And it cometh to pass from the time that he hath appointed him over his house, and over all that he hath, that Jehovah blesseth the house of the Egyptian for Joseph's sake, and the blessing of Jehovah is on all that he hath, in the house, and in the field;
+
+**[39:6]** and he leaveth all that he hath in the hand of Joseph, and he hath not known anything that he hath, except the bread which he is eating. And Joseph is of a fair form, and of a fair appearance.
+
+**[39:7]** And it cometh to pass after these things, that his lord's wife lifteth up her eyes unto Joseph, and saith, `Lie with me;'
+
+**[39:8]** and he refuseth, and saith unto his lord's wife, `Lo, my lord hath not known what `is' with me in the house, and all that he hath he hath given into my hand;
+
+**[39:9]** none is greater in this house than I, and he hath not withheld from me anything, except thee, because thou `art' his wife; and how shall I do this great evil? -- then have I sinned against God.'
+
+**[39:10]** And it cometh to pass at her speaking unto Joseph day `by' day, that he hath not hearkened unto her, to lie near her, to be with her;
+
+**[39:11]** and it cometh to pass about this day, that he goeth into the house to do his work, and there is none of the men of the house there in the house,
+
+**[39:12]** and she catcheth him by his garment, saying, `Lie with me;' and he leaveth his garment in her hand, and fleeth, and goeth without.
+
+**[39:13]** And it cometh to pass when she seeth that he hath left his garment in her hand, and fleeth without,
+
+**[39:14]** that she calleth for the men of her house, and speaketh to them, saying, `See, he hath brought in to us a man, a Hebrew, to play with us; he hath come in unto me, to lie with me, and I call with a loud voice,
+
+**[39:15]** and it cometh to pass, when he heareth that I have lifted up my voice and call, that he leaveth his garment near me, and fleeth, and goeth without.'
+
+**[39:16]** And she placeth his garment near her, until the coming in of his lord unto his house.
+
+**[39:17]** And she speaketh unto him according to these words, saying, `The Hebrew servant whom thou hast brought unto us, hath come in unto me to play with me;
+
+**[39:18]** and it cometh to pass, when I lift my voice and call, that he leaveth his garment near me, and fleeth without.'
+
+**[39:19]** And it cometh to pass when his lord heareth the words of his wife, which she hath spoken unto him, saying, `According to these things hath thy servant done to me,' that his anger burneth;
+
+**[39:20]** and Joseph's lord taketh him, and putteth him unto the round-house, a place where the king's prisoners `are' bound; and he is there in the round-house.
+
+**[39:21]** And Jehovah is with Joseph, and stretcheth out kindness unto him, and putteth his grace in the eyes of the chief of the round-house;
+
+**[39:22]** and the chief of the round-house giveth into the hand of Joseph all the prisoners who `are' in the round-house, and of all that they are doing there, he hath been doer;
+
+**[39:23]** the chief of the round-house seeth not anything under his hand, because Jehovah `is' with him, and that which he is doing Jehovah is causing to prosper.
+
+**[40:1]** And it cometh to pass, after these things -- the butler of the king of Egypt and the baker have sinned against their lord, against the king of Egypt;
+
+**[40:2]** and Pharaoh is wroth against his two eunuchs, against the chief of the butlers, and against the chief of the bakers,
+
+**[40:3]** and giveth them in charge in the house of the chief of the executioners, unto the round-house, the place where Joseph `is' a prisoner,
+
+**[40:4]** and the chief of the executioners chargeth Joseph with them, and he serveth them; and they are days in charge.
+
+**[40:5]** And they dream a dream both of them, each his dream in one night, each according to the interpretation of his dream, the butler and the baker whom the king of Egypt hath, who `are' prisoners in the round-house.
+
+**[40:6]** And Joseph cometh in unto them in the morning, and seeth them, and lo, they `are' morose;
+
+**[40:7]** and he asketh Pharaoh's eunuchs who `are' with him in charge in the house of his lord, saying, `Wherefore `are' your faces sad to-day?'
+
+**[40:8]** And they say unto him, `A dream we have dreamed, and there is no interpreter of it;' and Joseph saith unto them, `Are not interpretations with God? recount, I pray you, to me.'
+
+**[40:9]** And the chief of the butlers recounteth his dream to Joseph, and saith to him, `In my dream, then lo, a vine `is' before me!
+
+**[40:10]** and in the vine `are' three branches, and it `is' as it were flourishing; gone up hath its blossom, its clusters have ripened grapes;
+
+**[40:11]** and Pharaoh's cup `is' in my hand, and I take the grapes and press them into the cup of Pharaoh, and I give the cup into the hand of Pharaoh.'
+
+**[40:12]** And Joseph saith to him, `This `is' its interpretation: the three branches are three days;
+
+**[40:13]** yet, within three days doth Pharaoh lift up thy head, and hath put thee back on thy station, and thou hast given the cup of Pharaoh into his hand, according to the former custom when thou wast his butler.
+
+**[40:14]** `Surely if thou hast remembered me with thee, when it is well with thee, and hast done (I pray thee) kindness with me, and hast made mention of me unto Pharaoh, then hast thou brought me out from this house,
+
+**[40:15]** for I was really stolen from the land of the Hebrews; and here also have I done nothing that they have put me in the pit.'
+
+**[40:16]** And the chief of the bakers seeth that he hath interpreted good, and he saith unto Joseph, `I also `am' in a dream, and lo, three baskets of white bread `are' on my head,
+
+**[40:17]** and in the uppermost basket `are' of all `kinds' of Pharaoh's food, work of a baker; and the birds are eating them out of the basket, from off my head.'
+
+**[40:18]** And Joseph answereth and saith, `This `is' its interpretation: the three baskets are three days;
+
+**[40:19]** yet, within three days doth Pharaoh lift up thy head from off thee, and hath hanged thee on a tree, and the birds have eaten thy flesh from off thee.'
+
+**[40:20]** And it cometh to pass, on the third day, Pharaoh's birthday, that he maketh a banquet to all his servants, and lifteth up the head of the chief of the butlers, and the head of the chief of the bakers among his servants,
+
+**[40:21]** and he putteth back the chief of the butlers to his butlership, and he giveth the cup into the hand of Pharaoh;
+
+**[40:22]** and the chief of the bakers he hath hanged, as Joseph hath interpreted to them;
+
+**[40:23]** and the chief of the butlers hath not remembered Joseph, but forgetteth him.
+
+**[41:1]** And it cometh to pass, at the end of two years of days that Pharaoh is dreaming, and lo, he is standing by the River,
+
+**[41:2]** and lo, from the River coming up are seven kine, of fair appearance, and fat `in' flesh, and they feed among the reeds;
+
+**[41:3]** and lo, seven other kine are coming up after them out of the River, of bad appearance, and lean `in' flesh, and they stand near the kine on the edge of the River,
+
+**[41:4]** and the kine of bad appearance and lean `in' flesh eat up the seven kine of fair appearance, and fat -- and Pharaoh awaketh.
+
+**[41:5]** And he sleepeth, and dreameth a second time, and lo, seven ears are coming up on one stalk, fat and good,
+
+**[41:6]** and lo, seven ears, thin, and blasted with an east wind, are springing up after them;
+
+**[41:7]** and the thin ears swallow the seven fat and full ears -- and Pharaoh awaketh, and lo, a dream.
+
+**[41:8]** And it cometh to pass in the morning, that his spirit is moved, and he sendeth and calleth all the scribes of Egypt, and all its wise men, and Pharaoh recounteth to them his dream, and there is no interpreter of them to Pharaoh.
+
+**[41:9]** And the chief of the butlers speaketh with Pharaoh, saying, `My sin I mention this day:
+
+**[41:10]** Pharaoh hath been wroth against his servants, and giveth me into charge in the house of the chief of the executioners, me and the chief of the bakers;
+
+**[41:11]** and we dream a dream in one night, I and he, each according to the interpretation of his dream we have dreamed.
+
+**[41:12]** And there `is' with us a youth, a Hebrew, servant to the chief of the executioners, and we recount to him, and he interpreteth to us our dreams, `to' each according to his dream hath he interpreted,
+
+**[41:13]** and it cometh to pass, as he hath interpreted to us so it hath been, me he put back on my station, and him he hanged.'
+
+**[41:14]** And Pharaoh sendeth and calleth Joseph, and they cause him to run out of the pit, and he shaveth, and changeth his garments, and cometh in unto Pharaoh.
+
+**[41:15]** And Pharaoh saith unto Joseph, `A dream I have dreamed, and there is no interpreter of it, and I -- I have heard concerning thee, saying, Thou understandest a dream to interpret it,'
+
+**[41:16]** and Joseph answereth Pharaoh, saying, `Without me -- God doth answer Pharaoh with peace.'
+
+**[41:17]** And Pharaoh speaketh unto Joseph: `In my dream, lo, I am standing by the edge of the River,
+
+**[41:18]** and lo, out of the River coming up are seven kine, fat `in' flesh, and of fair form, and they feed among the reeds;
+
+**[41:19]** and lo, seven other kine are coming up after them, thin, and of very bad form, and lean `in' flesh; I have not seen like these in all the land of Egypt for badness.
+
+**[41:20]** `And the lean and the bad kine eat up the first seven fat kine,
+
+**[41:21]** and they come in unto their midst, and it hath not been known that they have come in unto their midst, and their appearance `is' bad as at the commencement; and I awake.
+
+**[41:22]** `And I see in my dream, and lo, seven ears are coming up on one stalk, full and good;
+
+**[41:23]** and lo, seven ears, withered, thin, blasted with an east wind, are springing up after them;
+
+**[41:24]** and the thin ears swallow the seven good ears; and I tell unto the scribes, and there is none declaring to me.'
+
+**[41:25]** And Joseph saith unto Pharaoh, `The dream of Pharaoh is one: that which God is doing he hath declared to Pharaoh;
+
+**[41:26]** the seven good kine are seven years, and the seven good ears are seven years, the dream is one;
+
+**[41:27]** and the seven thin and bad kine which are coming up after them are seven years, and the seven empty ears, blasted with an east wind, are seven years of famine;
+
+**[41:28]** this `is' the thing which I have spoken unto Pharaoh: That which God is doing, he hath shewn Pharaoh.
+
+**[41:29]** `Lo, seven years are coming of great abundance in all the land of Egypt,
+
+**[41:30]** and seven years of famine have arisen after them, and all the plenty is forgotten in the land of Egypt, and the famine hath finished the land,
+
+**[41:31]** and the plenty is not known in the land because of that famine afterwards, for it `is' very grievous.
+
+**[41:32]** `And because of the repeating of the dream unto Pharaoh twice, surely the thing is established by God, and God is hastening to do it.
+
+**[41:33]** `And now, let Pharaoh provide a man, intelligent and wise, and set him over the land of Egypt;
+
+**[41:34]** let Pharaoh make and appoint overseers over the land, and receive a fifth of the land of Egypt in the seven years of plenty,
+
+**[41:35]** and they gather all the food of these good years that are coming, and heap up corn under the hand of Pharaoh -- food in the cities; and they have kept `it',
+
+**[41:36]** and the food hath been for a store for the land, for the seven years of famine which are in the land of Egypt; and the land is cut off by the famine.'
+
+**[41:37]** And the thing is good in the eyes of Pharaoh, and in the eyes of all his servants,
+
+**[41:38]** and Pharaoh saith unto his servants, `Do we find like this, a man in whom the spirit of God `is'?'
+
+**[41:39]** and Pharaoh saith unto Joseph, `After God's causing thee to know all this, there is none intelligent and wise as thou;
+
+**[41:40]** thou -- thou art over my house, and at thy mouth do all my people kiss; only in the throne I am greater than thou.'
+
+**[41:41]** And Pharaoh saith unto Joseph, `See, I have put thee over all the land of Egypt.'
+
+**[41:42]** And Pharaoh turneth aside his seal-ring from off his hand, and putteth it on the hand of Joseph, and clotheth him `with' garments of fine linen, and placeth a chain of gold on his neck,
+
+**[41:43]** and causeth him to ride in the second chariot which he hath, and they proclaim before him, `Bow the knee!' and -- to put him over all the land of Egypt.
+
+**[41:44]** And Pharaoh saith unto Joseph, `I `am' Pharaoh, and without thee a man doth not lift up his hand and his foot in all the land of Egypt;'
+
+**[41:45]** and Pharaoh calleth Joseph's name Zaphnath-Paaneah, and he giveth to him Asenath daughter of Poti-Pherah, priest of On, for a wife, and Joseph goeth out over the land of Egypt.
+
+**[41:46]** And Joseph `is' a son of thirty years in his standing before Pharaoh king of Egypt, and Joseph goeth out from the presence of Pharaoh, and passeth over through all the land of Egypt;
+
+**[41:47]** and the land maketh in the seven years of plenty by handfuls.
+
+**[41:48]** And he gathereth all the food of the seven years which have been in the land of Egypt, and putteth food in the cities; the food of the field which `is' round about `each' city hath he put in its midst;
+
+**[41:49]** and Joseph gathereth corn as sand of the sea, multiplying exceedingly, until that he hath ceased to number, for there is no number.
+
+**[41:50]** And to Joseph were born two sons before the year of famine cometh, whom Asenath daughter of Poti-Pherah, priest of On, hath borne to him,
+
+**[41:51]** and Joseph calleth the name of the first-born Manasseh: `for, God hath made me to forget all my labour, and all the house of my father;'
+
+**[41:52]** and the name of the second he hath called Ephraim: `for, God hath caused me to be fruitful in the land of mine affliction.'
+
+**[41:53]** And the seven years of plenty are completed which have been in the land of Egypt,
+
+**[41:54]** and the seven years of famine begin to come, as Joseph said, and famine is in all the lands, but in all the land of Egypt hath been bread;
+
+**[41:55]** and all the land of Egypt is famished, and the people crieth unto Pharaoh for bread, and Pharaoh saith to all the Egyptians, `Go unto Joseph; that which he saith to you -- do.'
+
+**[41:56]** And the famine has been over all the face of the land, and Joseph openeth all `places' which have `corn' in them, and selleth to the Egyptians; and the famine is severe in the land of Egypt,
+
+**[41:57]** and all the earth hath come to Egypt, to buy, unto Joseph, for the famine was severe in all the earth.
+
+**[42:1]** And Jacob seeth that there is corn in Egypt, and Jacob saith to his sons, `Why do you look at each other?'
+
+**[42:2]** he saith also, `Lo, I have heard that there is corn in Egypt, go down thither, and buy for us from thence, and we live and do not die;'
+
+**[42:3]** and the ten brethren of Joseph go down to buy corn in Egypt,
+
+**[42:4]** and Benjamin, Joseph's brother, Jacob hath not sent with his brethren, for he said, `Lest mischief meet him.'
+
+**[42:5]** And the sons of Israel come to buy in the midst of those coming, for the famine hath been in the land of Canaan,
+
+**[42:6]** and Joseph is the ruler over the land, he who is selling to all the people of the land, and Joseph's brethren come and bow themselves to him -- face to the earth.
+
+**[42:7]** And Joseph seeth his brethren, and discerneth them, and maketh himself strange unto them, and speaketh with them sharp things, and saith unto them, `From whence have ye come?' and they say, `From the land of Canaan -- to buy food.'
+
+**[42:8]** And Joseph discerneth his brethren, but they have not discerned him,
+
+**[42:9]** and Joseph remembereth the dreams which he dreamed of them, and saith unto them, `Ye `are' spies; to see the nakedness of the land ye have come.'
+
+**[42:10]** And they say unto him, `No, my lord, but thy servants have come to buy food;
+
+**[42:11]** we `are' all of us sons of one man, we `are' right men; thy servants have not been spies;'
+
+**[42:12]** and he saith unto them, `No, but the nakedness of the land ye have come to see;'
+
+**[42:13]** and they say, `Thy servants `are' twelve brethren; we `are' sons of one man in the land of Canaan, and lo, the young one `is' with our father to-day, and the one is not.'
+
+**[42:14]** And Joseph saith unto them, `This `is' that which I have spoken unto you, saying, Ye `are' spies,
+
+**[42:15]** by this ye are proved: Pharaoh liveth! if ye go out from this -- except by your young brother coming hither;
+
+**[42:16]** send one of you, and let him bring your brother, and ye, remain ye bound, and let your words be proved, whether truth be with you: and if not -- Pharaoh liveth! surely ye `are' spies;'
+
+**[42:17]** and he removeth them unto charge three days.
+
+**[42:18]** And Joseph saith unto them on the third day, `This do and live; God I fear!
+
+**[42:19]** if ye `are' right men, let one of your brethren be bound in the house of your ward, and ye, go, carry in corn `for' the famine of your houses,
+
+**[42:20]** and your young brother ye bring unto me, and your words are established, and ye die not;' and they do so.
+
+**[42:21]** And they say one unto another, `Verily we `are' guilty concerning our brother, because we saw the distress of his soul, in his making supplication unto us, and we did not hearken: therefore hath this distress come upon us.'
+
+**[42:22]** And Reuben answereth them, saying, `Spake I not unto you, saying, Sin not against the lad? and ye hearkened not; and his blood also, lo, it is required.'
+
+**[42:23]** And they have not known that Joseph understandeth, for the interpreter `is' between them;
+
+**[42:24]** and he turneth round from them, and weepeth, and turneth back unto them, and speaketh unto them, and taketh from them Simeon, and bindeth him before their eyes.
+
+**[42:25]** And Joseph commandeth, and they fill their vessels `with' corn, also to put back the money of each unto his sack, and to give to them provision for the way; and one doth to them so.
+
+**[42:26]** And they lift up their corn upon their asses, and go from thence,
+
+**[42:27]** and the one openeth his sack to give provender to his ass at a lodging-place, and he seeth his money, and lo, it `is' in the mouth of his bag,
+
+**[42:28]** and he saith unto his brethren, `My money hath been put back, and also, lo, in my bag:' and their heart goeth out, and they tremble, one to another saying, `What `is' this God hath done to us!'
+
+**[42:29]** And they come in unto Jacob their father, to the land of Canaan, and they declare to him all the things meeting them, saying,
+
+**[42:30]** `The man, the lord of the land, hath spoken with us sharp things, and maketh us as spies of the land;
+
+**[42:31]** and we say unto him, We `are' right men, we have not been spies,
+
+**[42:32]** we `are' twelve brethren, sons of our father, the one is not, and the young one `is' to-day with our father in the land of Canaan.
+
+**[42:33]** `And the man, the lord of the land, saith unto us, By this I know that ye `are' right men -- one of your brethren leave with me, and `for' the famine of your houses take ye and go,
+
+**[42:34]** and bring your young brother unto me, and I know that ye `are' not spies, but ye `are' right men; your brother I give to you, and ye trade with the land.'
+
+**[42:35]** And it cometh to pass, they are emptying their sacks, and lo, the bundle of each man's silver `is' in his sack, and they see their bundles of silver, they and their father, and are afraid;
+
+**[42:36]** and Jacob their father saith unto them, `Me ye have bereaved; Joseph is not, and Simeon is not, and Benjamin ye take -- against me have been all these.'
+
+**[42:37]** And Reuben speaketh unto his father, saying, `My two sons thou dost put to death, if I bring him not in unto thee; give him into my hand, and I -- I bring him back unto thee;'
+
+**[42:38]** and he saith, `My son doth not go down with you, for his brother `is' dead, and he by himself is left; when mischief hath met him in the way in which ye go, then ye have brought down my grey hairs in sorrow to sheol.'
+
+**[43:1]** And the famine `is' severe in the land;
+
+**[43:2]** and it cometh to pass, when they have finished eating the corn which they brought from Egypt, that their father saith unto them, `Turn back, buy for us a little food.'
+
+**[43:3]** And Judah speaketh unto him, saying, `The man protesting protested to us, saying, Ye do not see my face without your brother `being' with you;
+
+**[43:4]** if thou art sending our brother with us, we go down, and buy for thee food,
+
+**[43:5]** and if thou art not sending -- we do not go down, for the man said unto us, Ye do not see my face without your brother `being' with you.'
+
+**[43:6]** And Israel saith, `Why did ye evil to me, by declaring to the man that ye had yet a brother?'
+
+**[43:7]** and they say, `The man asked diligently concerning us, and concerning our kindred, saying, Is your father yet alive? have ye a brother? and we declare to him according to the tenor of these things; do we certainly know that he will say, Bring down your brother?'
+
+**[43:8]** And Judah saith unto Israel his father, `Send the youth with me, and we arise, and go, and live, and do not die, both we, and thou, and our infants.
+
+**[43:9]** I -- I am surety `for' him, from my hand thou dost require him; if I have not brought him in unto thee, and set him before thee -- then I have sinned against thee all the days;
+
+**[43:10]** for if we had not lingered, surely now we had returned these two times.'
+
+**[43:11]** And Israel their father saith unto them, `If so, now, this do: take of the praised thing of the land in your vessels, and take down to the man a present, a little balm, and a little honey, spices and myrrh, nuts and almonds;
+
+**[43:12]** and double money take in your hand, even the money which is brought back in the mouth of your bags, ye take back in your hand, it may be it `is' an oversight.
+
+**[43:13]** `And take your brother, and rise, turn back unto the man;
+
+**[43:14]** and God Almighty give to you mercies before the man, so that he hath sent to you your other brother and Benjamin; and I, when I am bereaved -- I am bereaved.'
+
+**[43:15]** And the men take this present, double money also they have taken in their hand, and Benjamin; and they rise, and go down to Egypt, and stand before Joseph;
+
+**[43:16]** and Joseph seeth Benjamin with them, and saith to him who `is' over his house, `Bring the men into the house, and slaughter an animal, and make ready, for with me do the men eat at noon.'
+
+**[43:17]** And the man doth as Joseph hath said, and the man bringeth in the men into the house of Joseph,
+
+**[43:18]** and the men are afraid because they have been brought into the house of Joseph, and they say, `For the matter of the money which was put back in our bags at the commencement are we brought in -- to roll himself upon us, and to throw himself on us, and to take us for servants -- our asses also.'
+
+**[43:19]** And they come nigh unto the man who `is' over the house of Joseph, and speak unto him at the opening of the house,
+
+**[43:20]** and say, `O, my lord, we really come down at the commencement to buy food;
+
+**[43:21]** and it cometh to pass, when we have come in unto the lodging-place, and open our bags, that lo, each one's money `is' in the mouth of his bag, our money in its weight, and we bring it back in our hand;
+
+**[43:22]** and other money have we brought down in our hand to buy food; we have not known who put our money in our bags.'
+
+**[43:23]** And he saith, `Peace to you, fear not: your God and the God of your father hath given to you hidden treasure in your bags, your money came unto me;' and he bringeth out Simeon unto them.
+
+**[43:24]** And the man bringeth in the men into Joseph's house, and giveth water, and they wash their feet; and he giveth provender for their asses,
+
+**[43:25]** and they prepare the present until the coming of Joseph at noon, for they have heard that there they do eat bread.
+
+**[43:26]** And Joseph cometh into the house, and they bring to him the present which `is' in their hand, into the house, and bow themselves to him, to the earth;
+
+**[43:27]** and he asketh of them of peace, and saith, `Is your father well? the aged man of whom ye have spoken, is he yet alive?'
+
+**[43:28]** and they say, `Thy servant our father `is' well, he is yet alive;' and they bow, and do obeisance.
+
+**[43:29]** And he lifteth up his eyes, and seeth Benjamin his brother, his mother's son, and saith, `Is this your young brother, of whom ye have spoken unto me?' and he saith, `God favour thee, my son.'
+
+**[43:30]** And Joseph hasteth, for his bowels have been moved for his brother, and he seeketh to weep, and entereth the inner chamber, and weepeth there;
+
+**[43:31]** and he washeth his face, and goeth out, and refraineth himself, and saith, `Place bread.'
+
+**[43:32]** And they place for him by himself, and for them by themselves, and for the Egyptians who are eating with him by themselves: for the Egyptians are unable to eat bread with the Hebrews, for it `is' an abomination to the Egyptians.
+
+**[43:33]** And they sit before him, the first-born according to his birthright, and the young one according to his youth, and the men wonder one at another;
+
+**[43:34]** and he lifteth up gifts from before him unto them, and the gift of Benjamin is five hands more than the gifts of all of them; and they drink, yea, they drink abundantly with him.
+
+**[44:1]** And he commandeth him who `is' over his house, saying, `Fill the bags of the men `with' food, as they are able to bear, and put the money of each in the mouth of his bag;
+
+**[44:2]** and my cup, the silver cup, thou dost put in the mouth of the bag of the young one, and his corn-money;' and he doth according to the word of Joseph which he hath spoken.
+
+**[44:3]** The morning is bright, and the men have been sent away, they and their asses --
+
+**[44:4]** they have gone out of the city -- they have not gone far off -- and Joseph hath said to him who `is' over his house, `Rise, pursue after the men; and thou hast overtaken them, and thou hast said unto them, Why have ye recompensed evil for good?
+
+**[44:5]** Is not this that with which my lord drinketh? and he observeth diligently with it; ye have done evil `in' that which ye have done.'
+
+**[44:6]** And he overtaketh them, and speaketh unto them these words,
+
+**[44:7]** and they say unto him, `Why doth my lord speak according to these words? far be it from thy servants to do according to this word;
+
+**[44:8]** lo, the money which we found in the mouth of our bags we brought back unto thee from the land of Canaan, and how do we steal from the house of thy lord silver or gold?
+
+**[44:9]** with whomsoever of thy servants it is found, he hath died, and we also are to my lord for servants.'
+
+**[44:10]** And he saith, `Now, also, according to your words, so it `is'; he with whom it is found becometh my servant, and ye are acquitted;'
+
+**[44:11]** and they hasten and take down each his bag to the earth, and each openeth his bag;
+
+**[44:12]** and he searcheth -- at the eldest he hath begun, and at the youngest he hath completed -- and the cup is found in the bag of Benjamin;
+
+**[44:13]** and they rend their garments, and each ladeth his ass, and they turn back to the city.
+
+**[44:14]** And Judah -- his brethren also -- cometh in unto the house of Joseph, and he is yet there, and they fall before him to the earth;
+
+**[44:15]** and Joseph saith to them, `What `is' this deed that ye have done? have ye not known that a man like me doth diligently observe?'
+
+**[44:16]** And Judah saith, `What do we say to my lord? what do we speak? and what -- do we justify ourselves? God hath found out the iniquity of thy servants; lo, we `are' servants to my lord, both we, and he in whose hand the cup hath been found;'
+
+**[44:17]** and he saith, `Far be it from me to do this; the man in whose hand the cup hath been found, he becometh my servant; and ye, go ye up in peace unto your father.'
+
+**[44:18]** And Judah cometh nigh unto him, and saith, `O, my lord, let thy servant speak, I pray thee, a word in the ears of my lord, and let not thine anger burn against thy servant -- for thou art as Pharaoh.
+
+**[44:19]** My lord hath asked his servants, saying, Have ye a father or brother?
+
+**[44:20]** and we say unto my lord, We have a father, an aged one, and a child of old age, a little one; and his brother died, and he is left alone of his mother, and his father hath loved him.
+
+**[44:21]** `And thou sayest unto thy servants, Bring him down unto me, and I set mine eye upon him;
+
+**[44:22]** and we say unto my lord, The youth is not able to leave his father, when he hath left his father, then he hath died;
+
+**[44:23]** and thou sayest unto thy servants, If your young brother come not down with you, ye add not to see my face.
+
+**[44:24]** `And it cometh to pass, that we have come up unto thy servant my father, that we declare to him the words of my lord;
+
+**[44:25]** and our father saith, Turn back, buy for us a little food,
+
+**[44:26]** and we say, We are not able to go down; if our young brother is with us, then we have gone down; for we are not able to see the man's face, and our young brother not with us.
+
+**[44:27]** `And thy servant my father saith unto us, Ye -- ye have known that two did my wife bare to me,
+
+**[44:28]** and the one goeth out from me, and I say, Surely he is torn -- torn! and I have not seen him since;
+
+**[44:29]** when ye have taken also this from my presence, and mischief hath met him, then ye have brought down my grey hairs with evil to sheol.
+
+**[44:30]** `And now, at my coming in unto thy servant my father, and the youth not with us (and his soul is bound up in his soul),
+
+**[44:31]** then it hath come to pass when he seeth that the youth is not, that he hath died, and thy servants have brought down the grey hairs of thy servant our father with sorrow to sheol;
+
+**[44:32]** for thy servant obtained the youth by surety from my father, saying, If I bring him not in unto thee -- then I have sinned against my father all the days.
+
+**[44:33]** `And now, let thy servant, I pray thee, abide instead of the youth a servant to my lord, and the youth goeth up with his brethren,
+
+**[44:34]** for how do I go up unto my father, and the youth not with me? lest I look on the evil which doth find my father.'
+
+**[45:1]** And Joseph hath not been able to refrain himself before all those standing by him, and he calleth, `Put out every man from me;' and no man hath stood with him when Joseph maketh himself known unto his brethren,
+
+**[45:2]** and he giveth forth his voice in weeping, and the Egyptians hear, and the house of Pharaoh heareth.
+
+**[45:3]** And Joseph saith unto his brethren, `I `am' Joseph, is my father yet alive?' and his brethren have not been able to answer him, for they have been troubled at his presence.
+
+**[45:4]** And Joseph saith unto his brethren, `Come nigh unto me, I pray you,' and they come nigh; and he saith, `I `am' Joseph, your brother, whom ye sold into Egypt;
+
+**[45:5]** and now, be not grieved, nor let it be displeasing in your eyes that ye sold me hither, for to preserve life hath God sent me before you.
+
+**[45:6]** `Because these two years the famine `is' in the heart of the land, and yet `are' five years, `in' which there is neither ploughing nor harvest;
+
+**[45:7]** and God sendeth me before you, to place of you a remnant in the land, and to give life to you by a great escape;
+
+**[45:8]** and now, ye -- ye have not sent me hither, but God, and He doth set me for a father to Pharaoh, and for lord to all his house, and ruler over all the land of Egypt.
+
+**[45:9]** `Haste, and go up unto my father, then ye have said to him, Thus said Joseph thy son, God hath set me for lord to all Egypt; come down unto me, stay not,
+
+**[45:10]** and thou hast dwelt in the land of Goshen, and been near unto me, thou and thy sons, and thy son's sons, and thy flock, and thy herd, and all that thou hast,
+
+**[45:11]** and I have nourished thee there -- for yet `are' five years of famine -- lest thou become poor, thou and thy household, and all that thou hast.
+
+**[45:12]** `And lo, your eyes are seeing, and the eyes of my brother Benjamin, that `it is' my mouth which is speaking unto you;
+
+**[45:13]** and ye have declared to my father all my honour in Egypt, and all that ye have seen, and ye have hasted, and have brought down my father hither.'
+
+**[45:14]** And he falleth on the neck of Benjamin his brother, and weepeth, and Benjamin hath wept on his neck;
+
+**[45:15]** and he kisseth all his brethren, and weepeth over them; and afterwards have his brethren spoken with him.
+
+**[45:16]** And the sound hath been heard in the house of Pharaoh, saying, `Come have the brethren of Joseph;' and it is good in the eyes of Pharaoh, and in the eyes of his servants,
+
+**[45:17]** and Pharaoh saith unto Joseph, `Say unto thy brethren, This do ye: lade your beasts, and go, enter ye the land of Canaan,
+
+**[45:18]** and take your father, and your households, and come unto me, and I give to you the good of the land of Egypt, and eat ye the fat of the land.
+
+**[45:19]** `Yea, thou -- thou hast been commanded: this do ye, take for yourselves out of the land of Egypt, waggons for your infants, and for your wives, and ye have brought your father, and come;
+
+**[45:20]** and your eye hath no pity on your vessels, for the good of all the land of Egypt `is' yours.'
+
+**[45:21]** And the sons of Israel do so, and Joseph giveth waggons to them by the command of Pharaoh, and he giveth to them provision for the way;
+
+**[45:22]** to all of them hath he given -- to each changes of garments, and to Benjamin he hath given three hundred silverlings, and five changes of garments;
+
+**[45:23]** and to his father he hath sent thus: ten asses bearing of the good things of Egypt, and ten she-asses bearing corn and bread, even food for his father for the way.
+
+**[45:24]** And he sendeth his brethren away, and they go; and he saith unto them, `Be not angry in the way.'
+
+**[45:25]** And they go up out of Egypt, and come in to the land of Canaan, unto Jacob their father,
+
+**[45:26]** and they declare to him, saying, `Joseph `is' yet alive,' and that he `is' ruler over all the land of Egypt; and his heart ceaseth, for he hath not given credence to them.
+
+**[45:27]** And they speak unto him all the words of Joseph, which he hath spoken unto them, and he seeth the waggons which Joseph hath sent to bear him away, and live doth the spirit of Jacob their father;
+
+**[45:28]** and Israel saith, `Enough! Joseph my son `is' yet alive; I go and see him before I die.'
+
+**[46:1]** And Israel journeyeth, and all that he hath, and cometh in to Beer-Sheba, and sacrificeth sacrifices to the God of his father Isaac;
+
+**[46:2]** and God speaketh to Israel in visions of the night, and saith, `Jacob, Jacob;' and he saith, `Here `am' I.'
+
+**[46:3]** And He saith, `I `am' God, God of thy father, be not afraid of going down to Egypt, for for a great nation I set thee there;
+
+**[46:4]** I -- I go down with thee to Egypt, and I -- I also certainly bring thee up, and Joseph doth put his hand on thine eyes.'
+
+**[46:5]** And Jacob riseth from Beer-Sheba, and the sons of Israel bear away Jacob their father, And their infants, and their wives, in the waggons which Pharaoh hath sent to bear him,
+
+**[46:6]** and they take their cattle, and their goods which they have acquired in the land of Canaan, and come into Egypt -- Jacob, and all his seed with him,
+
+**[46:7]** his sons, and his sons' sons with him, his daughters, and his sons' daughters, yea, all his seed he brought with him into Egypt.
+
+**[46:8]** And these `are' the names of the sons of Israel who are coming into Egypt: Jacob and his sons, Jacob's first-born, Reuben.
+
+**[46:9]** And sons of Reuben: Hanoch, and Phallu, and Hezron, and Carmi.
+
+**[46:10]** And sons of Simeon: Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul son of the Canaanitess.
+
+**[46:11]** And sons of Levi: Gershon, Kohath, and Merari.
+
+**[46:12]** And sons of Judah: Er, and Onan, and Shelah, and Pharez, and Zarah, (and Er and Onan die in the land of Canaan.) And sons of Pharez are Hezron and Hamul.
+
+**[46:13]** And sons of Issachar: Tola, and Phuvah, and Job, and Shimron.
+
+**[46:14]** And sons of Zebulun: Sered, and Elon, and Jahleel.
+
+**[46:15]** These `are' sons of Leah whom she bare to Jacob in Padan-Aram, and Dinah his daughter; all the persons of his sons and his daughters `are' thirty and three.
+
+**[46:16]** And sons of Gad: Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
+
+**[46:17]** And sons of Asher: Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister. And sons of Beriah: Heber and Malchiel.
+
+**[46:18]** These `are' sons of Zilpah, whom Laban gave to Leah his daughter, and she beareth these to Jacob -- sixteen persons.
+
+**[46:19]** Sons of Rachel, Jacob's wife: Joseph and Benjamin.
+
+**[46:20]** And born to Joseph in the land of Egypt (whom Asenath daughter of Poti-Pherah, priest of On, hath borne to him) `are' Manasseh and Ephraim.
+
+**[46:21]** And sons of Benjamin: Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
+
+**[46:22]** These `are' sons of Rachel, who were born to Jacob; all the persons `are' fourteen.
+
+**[46:23]** And sons of Dan: Hushim.
+
+**[46:24]** And sons of Naphtali: Jahzeel, and Guni, and Jezer, and Shillem.
+
+**[46:25]** These `are' sons of Bilhah, whom Laban gave to Rachel his daughter; and she beareth these to Jacob -- all the persons `are' seven.
+
+**[46:26]** All the persons who are coming to Jacob to Egypt, coming out of his thigh, apart from the wives of Jacob's sons, all the persons `are' sixty and six.
+
+**[46:27]** And the sons of Joseph who have been born to him in Egypt `are' two persons. All the persons of the house of Jacob who are coming into Egypt `are' seventy.
+
+**[46:28]** And Judah he hath sent before him unto Joseph, to direct before him to Goshen, and they come into the land of Goshen;
+
+**[46:29]** and Joseph harnesseth his chariot, and goeth up to meet Israel his father, to Goshen, and appeareth unto him, and falleth on his neck, and weepeth on his neck again;
+
+**[46:30]** and Israel saith unto Joseph, `Let me die this time, after my seeing thy face, for thou `art' yet alive.'
+
+**[46:31]** And Joseph saith unto his brethren, and unto the house of his father, `I go up, and declare to Pharaoh, and say unto him, My brethren, and the house of my father who `are' in the land of Canaan have come in unto me;
+
+**[46:32]** and the men `are' feeders of a flock, for they have been men of cattle; and their flock, and their herd, and all that they have, they have brought.'
+
+**[46:33]** `And it hath come to pass when Pharaoh calleth for you, and hath said, What `are' your works?
+
+**[46:34]** that ye have said, Thy servants have been men of cattle from our youth, even until now, both we and our fathers, -- in order that ye may dwell in the land of Goshen, for the abomination of the Egyptians is every one feeding a flock.'
+
+**[47:1]** And Joseph cometh, and declareth to Pharaoh, and saith, `My father, and my brethren, and their flock, and their herd, and all they have, have come from the land of Canaan, and lo, they `are' in the land of Goshen.'
+
+**[47:2]** And out of his brethren he hath taken five men, and setteth them before Pharaoh;
+
+**[47:3]** and Pharaoh saith unto his brethren, `What `are' your works?' and they say unto Pharaoh, `Thy servants `are' feeders of a flock, both we and our fathers;'
+
+**[47:4]** and they say unto Pharaoh, `To sojourn in the land we have come, for there is no pasture for the flock which thy servants have, for grievous `is' the famine in the land of Canaan; and now, let thy servants, we pray thee, dwell in the land of Goshen.'
+
+**[47:5]** And Pharaoh speaketh unto Joseph, saying, `Thy father and thy brethren have come unto thee:
+
+**[47:6]** the land of Egypt is before thee; in the best of the land cause thy father and thy brethren to dwell -- they dwell in the land of Goshen, and if thou hast known, and there are among them men of ability, then thou hast set them heads over the cattle I have.'
+
+**[47:7]** And Joseph bringeth in Jacob his father, and causeth him to stand before Pharaoh; and Jacob blesseth Pharaoh.
+
+**[47:8]** And Pharaoh saith unto Jacob, `How many `are' the days of the years of thy life?'
+
+**[47:9]** And Jacob saith unto Pharaoh, `The days of the years of my sojournings `are' an hundred and thirty years; few and evil have been the days of the years of my life, and they have not reached the days of the years of the life of my fathers, in the days of their sojournings.'
+
+**[47:10]** And Jacob blesseth Pharaoh, and goeth out from before Pharaoh.
+
+**[47:11]** And Joseph settleth his father and his brethren, and giveth to them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh commanded;
+
+**[47:12]** and Joseph nourisheth his father, and his brethren, and all the house of his father `with' bread, according to the mouth of the infants.
+
+**[47:13]** And there is no bread in all the land, for the famine `is' very grievous, and the land of Egypt and the land of Canaan are feeble because of the famine;
+
+**[47:14]** and Joseph gathereth all the silver that is found in the land of Egypt, and in the land of Canaan, for the corn that they are buying, and Joseph bringeth the silver into the house of Pharaoh.
+
+**[47:15]** And the silver is consumed out of the land of Egypt, and out of the land of Canaan, and all the Egyptians come in unto Joseph, saying, `Give to us bread -- why do we die before thee, though the money hath ceased?'
+
+**[47:16]** and Joseph saith, `Give your cattle; and I give to you for your cattle, if the money hath ceased.'
+
+**[47:17]** And they bring in their cattle unto Joseph, and Joseph giveth to them bread, for the horses, and for the cattle of the flock, and for the cattle of the herd, and for the asses; and he tendeth them with bread, for all their cattle, during that year.
+
+**[47:18]** And that year is finished, and they come in unto him on the second year, and say to him, `We do not hide from my lord, that since the money hath been finished, and possession of the cattle `is' unto my lord, there hath not been left before my lord save our bodies, and our ground;
+
+**[47:19]** why do we die before thine eyes, both we and our ground? buy us and our ground for bread, and we and our ground are servants to Pharaoh; and give seed, and we live, and die not, and the ground is not desolate.'
+
+**[47:20]** And Joseph buyeth all the ground of Egypt for Pharaoh, for the Egyptians have sold each his field, for the famine hath been severe upon them, and the land becometh Pharaoh's;
+
+**[47:21]** as to the people he hath removed them to cities from the `one' end of the border of Egypt even unto its `other' end.
+
+**[47:22]** Only the ground of the priests he hath not bought, for the priests have a portion from Pharaoh, and they have eaten their portion which Pharaoh hath given to them, therefore they have not sold their ground.
+
+**[47:23]** And Joseph saith unto the people, `Lo, I have bought you to-day and your ground for Pharaoh; lo, seed for you, and ye have sown the ground,
+
+**[47:24]** and it hath come to pass in the increases, that ye have given a fifth to Pharaoh, and four of the parts are for yourselves, for seed of the field, and for your food, and for those who `are' in your houses, and for food for your infants.'
+
+**[47:25]** And they say, `Thou hast revived us; we find grace in the eyes of my lord, and have been servants to Pharaoh;'
+
+**[47:26]** and Joseph setteth it for a statute unto this day, concerning the ground of Egypt, `that' Pharaoh hath a fifth; only the ground of the priests alone hath not become Pharaoh's.
+
+**[47:27]** And Israel dwelleth in the land of Egypt, in the land of Goshen, and they have possession in it, and are fruitful, and multiply exceedingly;
+
+**[47:28]** and Jacob liveth in the land of Egypt seventeen years, and the days of Jacob, the years of his life, are an hundred and forty and seven years.
+
+**[47:29]** And the days of Israel are near to die, and he calleth for his son, for Joseph, and saith to him, `If, I pray thee, I have found grace in thine eyes, put, I pray thee, thy hand under my thigh, and thou hast done with me kindness and truth; bury me not, I pray thee, in Egypt,
+
+**[47:30]** and I have lain with my fathers, and thou hast borne me out of Egypt, and buried me in their burying-place.' And he saith, `I -- I do according to thy word;'
+
+**[47:31]** and he saith, `Swear to me;' and he sweareth to him, and Israel boweth himself on the head of the bed.
+
+**[48:1]** And it cometh to pass, after these things, that `one' saith to Joseph, `Lo, thy father is sick;' and he taketh his two sons with him, Manasseh and Ephraim.
+
+**[48:2]** And `one' declareth to Jacob, and saith, `Lo, thy son Joseph is coming unto thee;' and Israel doth strengthen himself, and sit upon the bed.
+
+**[48:3]** And Jacob saith unto Joseph, `God Almighty hath appeared unto me, in Luz, in the land of Canaan, and blesseth me,
+
+**[48:4]** and saith unto me, Lo, I am making thee fruitful, and have multiplied thee, and given thee for an assembly of peoples, and given this land to thy seed after thee, a possession age-during.
+
+**[48:5]** `And now, thy two sons, who are born to thee in the land of Egypt, before my coming unto thee to Egypt, mine they `are'; Ephraim and Manasseh, as Reuben and Simeon they are mine;
+
+**[48:6]** and thy family which thou hast begotten after them are thine; by the name of their brethren they are called in their inheritance.
+
+**[48:7]** `And I -- in my coming in from Padan-`Aram' Rachel hath died by me in the land of Canaan, in the way, while yet a kibrath of land to enter Ephrata, and I bury her there in the way of Ephrata, which `is' Bethlehem.'
+
+**[48:8]** And Israel seeth the sons of Joseph, and saith, `Who `are' these?'
+
+**[48:9]** and Joseph saith unto his father, `They `are' my sons, whom God hath given to me in this `place';' and he saith, `Bring them, I pray thee, unto me, and I bless them.'
+
+**[48:10]** And the eyes of Israel have been heavy from age, he is unable to see; and he bringeth them nigh unto him, and he kisseth them, and cleaveth to them;
+
+**[48:11]** and Israel saith unto Joseph, `To see thy face I had not thought, and lo, God hath shewed me also thy seed.'
+
+**[48:12]** And Joseph bringeth them out from between his knees, and boweth himself on his face to the earth;
+
+**[48:13]** and Joseph taketh them both, Ephraim in his right hand towards Israel's left, and Manasseh in his left towards Israel's right, and bringeth `them' nigh to him.
+
+**[48:14]** And Israel putteth out his right hand, and placeth `it' upon the head of Ephraim, who `is' the younger, and his left hand upon the head of Manasseh; he hath guided his hands wisely, for Manasseh `is' the first-born.
+
+**[48:15]** And he blesseth Joseph, and saith, `God, before whom my fathers Abraham and Isaac walked habitually: God who is feeding me from my being unto this day:
+
+**[48:16]** the Messenger who is redeeming me from all evil doth bless the youths, and my name is called upon them, and the name of my fathers Abraham and Isaac; and they increase into a multitude in the midst of the land.'
+
+**[48:17]** And Joseph seeth that his father setteth his right hand on the head of Ephraim, and it is wrong in his eyes, and he supporteth the hand of his father to turn it aside from off the head of Ephraim to the head of Manasseh;
+
+**[48:18]** and Joseph saith unto his father, `Not so, my father, for this `is' the first-born; set thy right hand on his head.'
+
+**[48:19]** And his father refuseth, and saith, `I have known, my son, I have known; he also becometh a people, and he also is great, and yet, his young brother is greater than he, and his seed is the fulness of the nations;'
+
+**[48:20]** and he blesseth them in that day, saying, `By thee doth Israel bless, saying, God set thee as Ephraim and as Manasseh;' and he setteth Ephraim before Manasseh.
+
+**[48:21]** And Israel saith unto Joseph, `Lo, I am dying, and God hath been with you, and hath brought you back unto the land of your fathers;
+
+**[48:22]** and I -- I have given to thee one portion above thy brethren, which I have taken out of the hand of the Amorite by my sword and by my bow.'
+
+**[49:1]** And Jacob calleth unto his sons and saith, `Be gathered together, and I declare to you that which doth happen with you in the latter end of the days.
+
+**[49:2]** `Be assembled, and hear, sons of Jacob, And hearken unto Israel your father.
+
+**[49:3]** Reuben! my first-born thou, My power, and beginning of my strength, The abundance of exaltation, And the abundance of strength;
+
+**[49:4]** Unstable as water, thou art not abundant; For thou hast gone up thy father's bed; Then thou hast polluted: My couch he went up!
+
+**[49:5]** Simeon and Levi `are' brethren! Instruments of violence -- their espousals!
+
+**[49:6]** Into their secret, come not, O my soul! Unto their assembly be not united, O mine honour; For in their anger they slew a man, And in their self-will eradicated a prince.
+
+**[49:7]** Cursed `is' their anger, for `it is' fierce, And their wrath, for `it is' sharp; I divide them in Jacob, And I scatter them in Israel.
+
+**[49:8]** Judah! thou -- thy brethren praise thee! Thy hand `is' on the neck of thine enemies, Sons of thy father bow themselves to thee.
+
+**[49:9]** A lion's whelp `is' Judah, For prey, my son, thou hast gone up; He hath bent, he hath crouched as a lion, And as a lioness; who causeth him to arise?
+
+**[49:10]** The sceptre turneth not aside from Judah, And a lawgiver from between his feet, Till his Seed come; And his `is' the obedience of peoples.
+
+**[49:11]** Binding to the vine his ass, And to the choice vine the colt of his ass, He hath washed in wine his clothing, And in the blood of grapes his covering;
+
+**[49:12]** Red `are' eyes with wine, And white `are' teeth with milk!
+
+**[49:13]** Zebulun at a haven of the seas doth dwell, And he `is' for a haven of ships; And his side `is' unto Zidon.
+
+**[49:14]** Issacher `is' a strong ass, Crouching between the two folds;
+
+**[49:15]** And he seeth rest that `it is' good, And the land that `it is' pleasant, And he inclineth his shoulder to bear, And is to tribute a servant.
+
+**[49:16]** Dan doth judge his people, As one of the tribes of Israel;
+
+**[49:17]** Dan is a serpent by the way, An adder by the path, Which is biting the horse's heels, And its rider falleth backward.
+
+**[49:18]** For Thy salvation I have waited, Jehovah!
+
+**[49:19]** Gad! a troop assaulteth him, But he assaulteth last.
+
+**[49:20]** Out of Asher his bread `is' fat; And he giveth dainties of a king.
+
+**[49:21]** Naphtali `is' a hind sent away, Who is giving beauteous young ones.
+
+**[49:22]** Joseph `is' a fruitful son; A fruitful son by a fountain, Daughters step over the wall;
+
+**[49:23]** And embitter him -- yea, they have striven, Yea, hate him do archers;
+
+**[49:24]** And his bow abideth in strength, And strengthened are the arms of his hands By the hands of the Mighty One of Jacob, Whence is a shepherd, a son of Israel.
+
+**[49:25]** By the God of thy father who helpeth thee, And the Mighty One who blesseth thee, Blessings of the heavens from above, Blessings of the deep lying under, Blessings of breasts and womb; --
+
+**[49:26]** Thy father's blessings have been mighty Above the blessings of my progenitors, Unto the limit of the heights age-during They are for the head of Joseph, And for the crown of the one Separate `from' his brethren.
+
+**[49:27]** Benjamin! a wolf teareth; In the morning he eateth prey, And at evening he apportioneth spoil.'
+
+**[49:28]** All these `are' the twelve tribes of Israel, and this `is' that which their father hath spoken unto them, and he blesseth them; each according to his blessing he hath blessed them.
+
+**[49:29]** And he commandeth them, and saith unto them, `I am being gathered unto my people; bury me by my fathers, at the cave which `is' in the field of Ephron the Hittite;
+
+**[49:30]** in the cave which `is' in the field of Machpelah, which `is' on the front of Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite for a possession of a burying-place;
+
+**[49:31]** (there they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah);
+
+**[49:32]** the purchase of the field and of the cave which `is' in it, `is' from Sons of Heth.'
+
+**[49:33]** And Jacob finisheth commanding his sons, and gathereth up his feet unto the bed, and expireth, and is gathered unto his people.
+
+**[50:1]** And Joseph falleth on his father's face, and weepeth over him, and kisseth him;
+
+**[50:2]** and Joseph commandeth his servants, the physicians, to embalm his father, and the physicians embalm Israel;
+
+**[50:3]** and they fulfil for him forty days, for so they fulfil the days of the embalmed, and the Egyptians weep for him seventy days.
+
+**[50:4]** And the days of his weeping pass away, and Joseph speaketh unto the house of Pharaoh, saying, `If, I pray you, I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,
+
+**[50:5]** My father caused me to swear, saying, Lo, I am dying; in my burying-place which I have prepared for myself in the land of Canaan, there dost thou bury me; and now, let me go up, I pray thee, and bury my father, and return;'
+
+**[50:6]** and Pharaoh saith, `Go up and bury thy father, as he caused thee to swear.'
+
+**[50:7]** And Joseph goeth up to bury his father, and go up with him do all the servants of Pharaoh, elders of his house, and all the elders of the land of Egypt,
+
+**[50:8]** and all the house of Joseph, and his brethren, and the house of his father; only their infants, and their flock, and their herd, have they left in the land of Goshen;
+
+**[50:9]** and there go up with him both chariot and horsemen, and the camp is very great.
+
+**[50:10]** And they come unto the threshing-floor of Atad, which `is' beyond the Jordan, and they lament there, a lamentation great and very grievous; and he maketh for his father a mourning seven days,
+
+**[50:11]** and the inhabitant of the land, the Canaanite, see the mourning in the threshing-floor of Atad, and say, `A grievous mourning `is' this to the Egyptians;' therefore hath `one' called its name `The mourning of the Egyptians,' which `is' beyond the Jordan.
+
+**[50:12]** And his sons do to him so as he commanded them,
+
+**[50:13]** and his sons bear him away to the land of Canaan, and bury him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a burying-place, from Ephron the Hittite, on the front of Mamre.
+
+**[50:14]** And Joseph turneth back to Egypt, he and his brethren, and all who are going up with him to bury his father, after his burying his father.
+
+**[50:15]** And the brethren of Joseph see that their father is dead, and say, `Peradventure Joseph doth hate us, and doth certainly return to us all the evil which we did with him.'
+
+**[50:16]** And they give a charge for Joseph, saying, `Thy father commanded before his death, saying,
+
+**[50:17]** Thus ye do say to Joseph, I pray thee, bear, I pray thee, with the transgression of thy brethren, and their sin, for they have done thee evil; and now, bear, we pray thee, with the transgression of the servants of the God of thy father;' and Joseph weepeth in their speaking unto him.
+
+**[50:18]** And his brethren also go and fall before him, and say, `Lo, we `are' to thee for servants.'
+
+**[50:19]** And Joseph saith unto them, `Fear not, for `am' I in the place of God?
+
+**[50:20]** As for you, ye devised against me evil -- God devised it for good, in order to do as `at' this day, to keep alive a numerous people;
+
+**[50:21]** and now, fear not: I do nourish you and your infants;' and he comforteth them, and speaketh unto their heart.
+
+**[50:22]** And Joseph dwelleth in Egypt, he and the house of his father, and Joseph liveth a hundred and ten years,
+
+**[50:23]** and Joseph looketh on Ephraim's sons of the third `generation'; sons also of Machir, son of Manasseh, have been born on the knees of Joseph.
+
+**[50:24]** And Joseph saith unto his brethren, `I am dying, and God doth certainly inspect you, and hath caused you to go up from this land, unto the land which He hath sworn to Abraham, to Isaac, and to Jacob.'
+
+**[50:25]** And Joseph causeth the sons of Israel to swear, saying, `God doth certainly inspect you, and ye have brought up my bones from this `place'.'
+
+**[50:26]** And Joseph dieth, a son of an hundred and ten years, and they embalm him, and he is put into a coffin in Egypt.
