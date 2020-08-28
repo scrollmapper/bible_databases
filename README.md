@@ -5,9 +5,9 @@ https://scrollmapper.github.io/
 
 Here you will find the following bible versions in sql, sqlite, xml, csv, json, txt, and md format:
 
+- **King James Version (KJV)**
 - American Standard-ASV1901 (ASV)
 - Bible in Basic English (BBE)
-- King James Version (KJV)
 - World English Bible (WEB)
 - Young's Literal Translation (YLT)
 
