@@ -10,7 +10,7 @@ import Foundation
 import Combine
 
 class ScrollMapperBibleTextViewModel: ObservableObject {
-    private var uiViewModel = UIViewModel()
+    private var uiViewModel = JKCSUIViewModel()
     
     @Published var translation: ScrollMapperBibleVersion.BibleVersion = .KJV {
         didSet {

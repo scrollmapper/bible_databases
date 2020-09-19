@@ -1,5 +1,5 @@
 //
-//  JumpToViewModel.swift
+//  ScrollMapperBibleJumpToViewModel.swift
 //  ScrollMapperBible
 //
 //  Created by Zhengqian Kuang on 2020-07-14.
@@ -8,7 +8,7 @@
 
 import Foundation
 
-class JumpToViewModel: ObservableObject {
+class ScrollMapperBibleJumpToViewModel: ObservableObject {
     struct ScopeItem: Identifiable {
         let id: UInt
         let title: String

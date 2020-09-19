@@ -35,7 +35,7 @@ struct ScrollMapperBibleSearchView: View {
                 }
                 .pickerStyle(SegmentedPickerStyle())
                 
-                SearchBarUIViewRepresentable(binding: $viewModel.searchTerm)
+                JKCSSearchBarUIViewRepresentable(binding: $viewModel.searchTerm)
                 .placeholder("Input some keywords and search")
                 .onSearchButtonClicked { (searchText) in
                     //

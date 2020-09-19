@@ -74,10 +74,8 @@ struct ScrollMapperBibleSettingsView: View {
         switch item.title {
         case ScrollMapperBibleSettingsViewModel.itemTranslationsTitle:
             return AnyView(ScrollMapperBibleTranslationsView())
-        case ScrollMapperBibleSettingsViewModel.itemAcknowledgementsTitle:
-            return AnyView(EmptyView())
         case ScrollMapperBibleSettingsViewModel.itemCopyrightAndLicenseTitle:
-            return AnyView(EmptyView())
+            return AnyView(ScrollMapperBibleCopyrightAndLicenseView())
         default:
             return AnyView(EmptyView())
         }

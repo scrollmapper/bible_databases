@@ -30,23 +30,6 @@ class ScrollMapperBibleFacilities {
             landscapeMultiplier = CGFloat(1.5)
         }
             
-        // Start HTML header text
-        // let patternText = "<html><head><style>"
-        // Match Dynamic Type for this page.
-//        + "body { background-color: \(backgroundColor);} "
-//        + "@media all and (orientation:portrait) {img {max-width: 90%; height: auto;} "
-//        + "p, li { font: -apple-system-body; font-family: Georgia, serif; font-size:calc(\(bodySize * portraitMultiplier)px + 1.0vw); font-weight: normal; color: \(fontColor) } "
-//        + "h1 { font: -apple-system-headine; font-family: Verdana, sans-serif; font-size:calc(\(h1Size * portraitMultiplier)px + 1.0vw); font-weight: bold; color: \(headFontColor) } "
-//        + "h2 { font: -apple-system-headine; font-family: Verdana, sans-serif; font-size:calc(\(h2Size * portraitMultiplier)px + 1.0vw); font-weight: bold; color: \(headFontColor) } "
-//        + "h3, h4 { font: -apple-system-headine; font-family: Verdana, sans-serif; font-size:calc(\(h3Size * portraitMultiplier)px + 1.0vw); font-weight: bold; color: \(headFontColor) } } "
-//        + "@media all and (orientation:landscape) {img {max-width: 65%; height: auto;}"
-//        + "p, li { font: -apple-system-body; font-family: Georgia, serif; font-size:calc(\(bodySize * landscapeMultiplier)px + 1.0vw); font-weight: normal; color: \(fontColor) }"
-//        + "h1 { font: -apple-system-headine; font-family: Verdana, sans-serif; font-size:calc(\(h1Size * landscapeMultiplier)px + 1.0vw); font-weight: bold; color: \(headFontColor) } "
-//        + "h2 { font: -apple-system-headine; font-family: Verdana, sans-serif; font-size:calc(\(h2Size * landscapeMultiplier)px + 1.0vw); font-weight: bold; color: \(headFontColor) } "
-//        + "h3, h4 { font: -apple-system-headine; font-family: Verdana, sans-serif; font-size:calc(\(h3Size * landscapeMultiplier)px + 1.0vw); font-weight: bold; color: \(headFontColor) } } </style>"
-//        + "</head><body>"
-//        + "<meta name=\"viewport\" content=\"width: device-width\">"
-        
         var htmlString = ""
         htmlString += "<html>\n"
         htmlString += "  <head>\n"

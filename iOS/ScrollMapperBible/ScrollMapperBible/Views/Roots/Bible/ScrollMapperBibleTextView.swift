@@ -45,7 +45,7 @@ struct ScrollMapperBibleTextView: View {
                     self.crossRefView(geometryProxy: geometryProxy)
                 }
                 
-                NavigationLink(destination: JumpToView(), isActive: self.$pushJumpToView) {
+                NavigationLink(destination: ScrollMapperBibleJumpToView(), isActive: self.$pushJumpToView) {
                     Text("")
                 }.hidden()
                 

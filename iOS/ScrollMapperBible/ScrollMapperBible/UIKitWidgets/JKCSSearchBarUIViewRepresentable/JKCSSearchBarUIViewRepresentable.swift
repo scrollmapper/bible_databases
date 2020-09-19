@@ -1,6 +1,6 @@
 //
-//  SearchBarUIViewRepresentable.swift
-//  UIViewRepresentableWithModifier
+//  JKCSSearchBarUIViewRepresentable.swift
+//  ScrollMapperBible
 //
 //  Created by Zhengqian Kuang on 2020-07-10.
 //  Copyright © 2020 Kuang. All rights reserved.
@@ -9,7 +9,7 @@
 import SwiftUI
 import UIKit
 
-struct SearchBarUIViewRepresentable: UIViewRepresentable {
+struct JKCSSearchBarUIViewRepresentable: UIViewRepresentable {
     @Binding var searchText: String
     private var mutatingWrapper = MutatingWrapper()
     
@@ -81,14 +81,14 @@ struct SearchBarUIViewRepresentable: UIViewRepresentable {
         }
     }
 
-    @discardableResult func makeCoordinator() -> SearchBarUIViewRepresentable.Coordinator {
+    @discardableResult func makeCoordinator() -> JKCSSearchBarUIViewRepresentable.Coordinator {
         if mutatingWrapper.coordinator == nil {
             mutatingWrapper.coordinator = Coordinator(binding: $searchText)
         }
         return mutatingWrapper.coordinator!
     }
 
-    func makeUIView(context: UIViewRepresentableContext<SearchBarUIViewRepresentable>) -> UISearchBar {
+    func makeUIView(context: UIViewRepresentableContext<JKCSSearchBarUIViewRepresentable>) -> UISearchBar {
         if mutatingWrapper.searchBar == nil {
             mutatingWrapper.searchBar = UISearchBar(frame: .zero)
             mutatingWrapper.searchBar!.delegate = makeCoordinator()
@@ -100,7 +100,7 @@ struct SearchBarUIViewRepresentable: UIViewRepresentable {
         return mutatingWrapper.searchBar!
     }
 
-    func updateUIView(_ uiView: UISearchBar, context: UIViewRepresentableContext<SearchBarUIViewRepresentable>) {
+    func updateUIView(_ uiView: UISearchBar, context: UIViewRepresentableContext<JKCSSearchBarUIViewRepresentable>) {
         uiView.text = searchText
     }
 }

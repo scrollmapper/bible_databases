@@ -55,21 +55,12 @@ class ScrollMapperBibleSettingsViewModel: ObservableObject {
     
     static let itemTranslationsTitle = "Translations"
     
-    static let itemAcknowledgementsTitle = "Acknowledgements"
     static let itemCopyrightAndLicenseTitle = "Copyright \u{00A9} And License"
     static let itemVersionTitle = "Version" // Unclickable
     
     @Published var listData: [Section] = []
     
     private func setupListData() {
-        var sfSymbolAcknowledgements: String
-        if #available(iOS 14.0, *) {
-            sfSymbolAcknowledgements = "lasso.sparkles"
-        }
-        else {
-            sfSymbolAcknowledgements = "wand.and.stars"
-        }
-        
         var listData: [Section] = []
         listData.append(
             Section(title: "PREFERENCES", items: [
@@ -78,8 +69,7 @@ class ScrollMapperBibleSettingsViewModel: ObservableObject {
         )
         listData.append(
             Section(title: "ABOUT", items: [
-                Item(title: ScrollMapperBibleSettingsViewModel.itemAcknowledgementsTitle, imageName: JKCSImageName.system(systemName: sfSymbolAcknowledgements), navigationLink: true),
-                Item(title: ScrollMapperBibleSettingsViewModel.itemCopyrightAndLicenseTitle, imageName: JKCSImageName.system(systemName: "doc.plaintext"), navigationLink: true),
+                Item(title: ScrollMapperBibleSettingsViewModel.itemCopyrightAndLicenseTitle, imageName: JKCSImageName.system(systemName: "c.circle"), navigationLink: true),
                 Item(title: ScrollMapperBibleSettingsViewModel.itemVersionTitle, detail: version(), imageName: JKCSImageName.system(systemName: "arkit")),
             ])
         )

@@ -1,5 +1,5 @@
 //
-//  UIViewModel.swift
+//  JKCSUIViewModel.swift
 //  ScrollMapperBible
 //
 //  Created by Zhengqian Kuang on 2020-08-01.
@@ -12,7 +12,7 @@ import Combine
 let isPad = UIDevice.current.isPad
 let isPhone = UIDevice.current.isPhone
 
-class UIViewModel {
+class JKCSUIViewModel {
     var isPortrait: Bool {
         UIDevice.current.isPortrait
     }

@@ -1,5 +1,5 @@
 //
-//  JumpToView.swift
+//  ScrollMapperBibleJumpToView.swift
 //  ScrollMapperBible
 //
 //  Created by Zhengqian Kuang on 2020-07-14.
@@ -8,8 +8,8 @@
 
 import SwiftUI
 
-struct JumpToView: View {
-    @ObservedObject var viewModel = JumpToViewModel()
+struct ScrollMapperBibleJumpToView: View {
+    @ObservedObject var viewModel = ScrollMapperBibleJumpToViewModel()
     @Environment(\.presentationMode) var presentationMode
 
     var body: some View {
@@ -43,7 +43,7 @@ struct JumpToView: View {
         }
     }
     
-    private func chaptersView(item: JumpToViewModel.Item, geometryProxy: GeometryProxy) -> AnyView? {
+    private func chaptersView(item: ScrollMapperBibleJumpToViewModel.Item, geometryProxy: GeometryProxy) -> AnyView? {
         guard
             let expandedBook = viewModel.expandedBook,
             expandedBook.title_short == item.book.title_short
@@ -101,6 +101,6 @@ struct JumpToView: View {
 
 struct JumpToView_Previews: PreviewProvider {
     static var previews: some View {
-        JumpToView()
+        ScrollMapperBibleJumpToView()
     }
 }
