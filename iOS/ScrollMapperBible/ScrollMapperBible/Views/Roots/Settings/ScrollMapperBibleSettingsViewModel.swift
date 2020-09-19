@@ -55,7 +55,7 @@ class ScrollMapperBibleSettingsViewModel: ObservableObject {
     
     static let itemTranslationsTitle = "Translations"
     
-    static let itemCopyrightAndLicenseTitle = "Copyright \u{00A9} And License"
+    static let itemCopyrightAndLicenseTitle = "Copyright \u{00A9}"
     static let itemVersionTitle = "Version" // Unclickable
     
     @Published var listData: [Section] = []

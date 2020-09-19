@@ -55,9 +55,7 @@ struct PeekabooWKWebView: UIViewRepresentable {
         }
         
         @objc func didSwipe(swipeGestureRecognizer: UISwipeGestureRecognizer) {
-            if let delegate = onSwipeDelegate {
-                delegate(swipeGestureRecognizer.direction)
-            }
+            onSwipeDelegate?(swipeGestureRecognizer.direction)
         }
         
         func userContentController(_ userContentController: WKUserContentController, didReceive message: WKScriptMessage) {
@@ -67,9 +65,7 @@ struct PeekabooWKWebView: UIViewRepresentable {
                 else {
                     return
                 }
-                if let delegate = onClickDelegate {
-                    delegate(body)
-                }
+                onClickDelegate?(body)
             }
         }
     }

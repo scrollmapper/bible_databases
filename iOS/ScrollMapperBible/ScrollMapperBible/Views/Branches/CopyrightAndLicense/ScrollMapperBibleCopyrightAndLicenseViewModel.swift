@@ -9,5 +9,5 @@
 import Foundation
 
 class ScrollMapperBibleCopyrightAndLicenseViewModel: ObservableObject {
-    // @Published var someFlag = false
+    let repo: String = "https://github.com/scrollmapper/bible_databases"
 }
