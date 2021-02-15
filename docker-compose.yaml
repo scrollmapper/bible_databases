@@ -1,0 +1,29 @@
+version: '3'
+
+#
+# Docker Compose configuration for MariaDB
+#
+# To start the MariaDB instance and import the Bible data: docker-compose up
+#
+# To connect to the database from the host (presuming you have mysql-client or
+# mariadb-client installed), use a command like this:
+# mysql -h 127.0.0.1 -u root -p bible
+#
+# More information about Docker Compose: https://docs.docker.com/compose/
+#
+
+services:
+  mariadb:
+    image: mariadb:10.5
+    ports:
+      - 3306:3306
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d
+    environment:
+      # For other ways to configure the root password (or disable passwords
+      # completely), please consult the official MariaDB container
+      # documentation: https://hub.docker.com/_/mariadb
+      MYSQL_RANDOM_ROOT_PASSWORD: 'true'
+
+      MYSQL_DATABASE: bible
+    restart: always
