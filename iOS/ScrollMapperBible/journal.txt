@@ -1,0 +1,18 @@
+========
+[@EnvironmentObject]
+// https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-environmentobject-to-share-data-between-views
+
+========
+[PeekabooWKWebView]
+
+// Ref.
+//  https://medium.com/john-lewis-software-engineering/ios-wkwebview-communication-using-javascript-and-swift-ee077e0127eb
+//  https://www.hackingwithswift.com/quick-start/swiftui/how-to-wrap-a-custom-uiview-for-swiftui
+//  https://www.hackingwithswift.com/articles/112/the-ultimate-guide-to-wkwebview
+//  https://www.thetopsites.net/article/58336457.shtml // SwiftUI WKWebView detect url changing
+
+// Trouble-shooting
+//  https://forums.swift.org/t/uiviewrepresentable-not-updated-when-observed-object-changed/33890
+//  https://stackoverflow.com/questions/60971068/swiftui-wkwebview-not-loading
+
+========
