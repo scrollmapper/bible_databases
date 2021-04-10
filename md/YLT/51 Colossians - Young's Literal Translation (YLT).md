@@ -6,7 +6,7 @@
 
 **[1:3]** We give thanks to the God and Father of our Lord Jesus Christ, always praying for you,
 
-**[1:4]** having heard of your faith in Christ Jesus, and of the love that `is' to all the saints,
+**[1:4]** having heard of your faith in Christ Jesus, and of the love that \`is' to all the saints,
 
 **[1:5]** because of the hope that is laid up for you in the heavens, which ye heard of before in the word of the truth of the good news,
 
@@ -24,7 +24,7 @@
 
 **[1:12]** Giving thanks to the Father who did make us meet for the participation of the inheritance of the saints in the light,
 
-**[1:13]** who did rescue us out of the authority of the darkness, and did translate `us' into the reign of the Son of His love,
+**[1:13]** who did rescue us out of the authority of the darkness, and did translate \`us' into the reign of the Son of His love,
 
 **[1:14]** in whom we have the redemption through his blood, the forgiveness of the sins,
 
@@ -34,7 +34,7 @@
 
 **[1:17]** and himself is before all, and the all things in him have consisted.
 
-**[1:18]** And himself is the head of the body -- the assembly -- who is a beginning, a first-born out of the dead, that he might become in all `things' -- himself -- first,
+**[1:18]** And himself is the head of the body -- the assembly -- who is a beginning, a first-born out of the dead, that he might become in all \`things' -- himself -- first,
 
 **[1:19]** because in him it did please all the fulness to tabernacle,
 
@@ -44,7 +44,7 @@
 
 **[1:22]** in the body of his flesh through the death, to present you holy, and unblemished, and unblameable before himself,
 
-**[1:23]** if also ye remain in the faith, being founded and settled, and not moved away from the hope of the good news, which ye heard, which was preached in all the creation that `is' under the heaven, of which I became -- I Paul -- a ministrant.
+**[1:23]** if also ye remain in the faith, being founded and settled, and not moved away from the hope of the good news, which ye heard, which was preached in all the creation that \`is' under the heaven, of which I became -- I Paul -- a ministrant.
 
 **[1:24]** I now rejoice in my sufferings for you, and do fill up the things lacking of the tribulations of the Christ in my flesh for his body, which is the assembly,
 
@@ -52,7 +52,7 @@
 
 **[1:26]** the secret that hath been hid from the ages and from the generations, but now was manifested to his saints,
 
-**[1:27]** to whom God did will to make known what `is' the riches of the glory of this secret among the nations -- which is Christ in you, the hope of the glory,
+**[1:27]** to whom God did will to make known what \`is' the riches of the glory of this secret among the nations -- which is Christ in you, the hope of the glory,
 
 **[1:28]** whom we proclaim, warning every man, and teaching every man, in all wisdom, that we may present every man perfect in Christ Jesus,
 
@@ -80,7 +80,7 @@
 
 **[2:11]** in whom also ye were circumcised with a circumcision not made with hands, in the putting off of the body of the sins of the flesh in the circumcision of the Christ,
 
-**[2:12]** being buried with him in the baptism, in which also ye rose with `him' through the faith of the working of God, who did raise him out of the dead.
+**[2:12]** being buried with him in the baptism, in which also ye rose with \`him' through the faith of the working of God, who did raise him out of the dead.
 
 **[2:13]** And you -- being dead in the trespasses and the uncircumcision of your flesh -- He made alive together with him, having forgiven you all the trespasses,
 
@@ -90,9 +90,9 @@
 
 **[2:16]** Let no one, then, judge you in eating or in drinking, or in respect of a feast, or of a new moon, or of sabbaths,
 
-**[2:17]** which are a shadow of the coming things, and the body `is' of the Christ;
+**[2:17]** which are a shadow of the coming things, and the body \`is' of the Christ;
 
-**[2:18]** let no one beguile you of your prize, delighting in humble-mindedness and `in' worship of the messengers, intruding into the things he hath not seen, being vainly puffed up by the mind of his flesh,
+**[2:18]** let no one beguile you of your prize, delighting in humble-mindedness and \`in' worship of the messengers, intruding into the things he hath not seen, being vainly puffed up by the mind of his flesh,
 
 **[2:19]** and not holding the head, from which all the body -- through the joints and bands gathering supply, and being knit together -- may increase with the increase of God.
 
@@ -112,7 +112,7 @@
 
 **[3:4]** when the Christ -- our life -- may be manifested, then also we with him shall be manifested in glory.
 
-**[3:5]** Put to death, then, your members that `are' upon the earth -- whoredom, uncleanness, passion, evil desire, and the covetousness, which is idolatry --
+**[3:5]** Put to death, then, your members that \`are' upon the earth -- whoredom, uncleanness, passion, evil desire, and the covetousness, which is idolatry --
 
 **[3:6]** because of which things cometh the anger of God upon the sons of the disobedience,
 
@@ -130,13 +130,13 @@
 
 **[3:13]** forbearing one another, and forgiving each other, if any one with any one may have a quarrel, as also the Christ did forgive you -- so also ye;
 
-**[3:14]** and above all these things, `have' love, which is a bond of the perfection,
+**[3:14]** and above all these things, \`have' love, which is a bond of the perfection,
 
 **[3:15]** and let the peace of God rule in your hearts, to which also ye were called in one body, and become thankful.
 
 **[3:16]** Let the word of Christ dwell in you richly, in all wisdom, teaching and admonishing each other, in psalms, and hymns, and spiritual songs, in grace singing in your hearts to the Lord;
 
-**[3:17]** and all, whatever ye may do in word or in work, `do' all things in the name of the Lord Jesus -- giving thanks to the God and Father, through him.
+**[3:17]** and all, whatever ye may do in word or in work, \`do' all things in the name of the Lord Jesus -- giving thanks to the God and Father, through him.
 
 **[3:18]** The wives! be subject to your own husbands, as is fit in the Lord;
 
@@ -170,13 +170,13 @@
 
 **[4:8]** whom I did send unto you for this very thing, that he might know the things concerning you, and might comfort your hearts,
 
-**[4:9]** with Onesimus the faithful and beloved brother, who is of you; all things to you shall they make known that `are' here.
+**[4:9]** with Onesimus the faithful and beloved brother, who is of you; all things to you shall they make known that \`are' here.
 
 **[4:10]** Salute you doth Aristarchus, my fellow-captive, and Marcus, the nephew of Barnabas, (concerning whom ye did receive commands -- if he may come unto you receive him,)
 
-**[4:11]** and Jesus who is called Justus, who are of the circumcision: these only `are' fellow-workers for the reign of God who did become a comfort to me.
+**[4:11]** and Jesus who is called Justus, who are of the circumcision: these only \`are' fellow-workers for the reign of God who did become a comfort to me.
 
-**[4:12]** Salute you doth Epaphras, who `is' of you, a servant of Christ, always striving for you in the prayers, that ye may stand perfect and made full in all the will of God,
+**[4:12]** Salute you doth Epaphras, who \`is' of you, a servant of Christ, always striving for you in the prayers, that ye may stand perfect and made full in all the will of God,
 
 **[4:13]** for I do testify to him, that he hath much zeal for you, and those in Laodicea, and those in Hierapolis.
 
@@ -184,8 +184,8 @@
 
 **[4:15]** salute ye those in Laodicea -- brethren, and Nymphas, and the assembly in his house;
 
-**[4:16]** and when the epistle may be read with you, cause that also in the assembly of the Laodiceans it may be read, and the `epistle' from Laodicea that ye also may read;
+**[4:16]** and when the epistle may be read with you, cause that also in the assembly of the Laodiceans it may be read, and the \`epistle' from Laodicea that ye also may read;
 
-**[4:17]** and say to Archippus, `See to the ministration that thou didst receive in the Lord, that thou mayest fulfil it.'
+**[4:17]** and say to Archippus, \`See to the ministration that thou didst receive in the Lord, that thou mayest fulfil it.'
 
-**[4:18]** The salutation by the hand of me, Paul; remember my bonds; the grace `is' with you. Amen.
+**[4:18]** The salutation by the hand of me, Paul; remember my bonds; the grace \`is' with you. Amen.

@@ -1,8 +1,8 @@
 # Ezekiel - American Standard-ASV1901 (ASV)
 
-**[1:1]** Now it came to pass in the thirtieth year, in the fourth `month', in the fifth `day' of the month, as I was among the captives by the river Chebar, that the heavens were opened, and I saw visions of God.
+**[1:1]** Now it came to pass in the thirtieth year, in the fourth \`month', in the fifth \`day' of the month, as I was among the captives by the river Chebar, that the heavens were opened, and I saw visions of God.
 
-**[1:2]** In the fifth `day' of the month, which was the fifth year of king Jehoiachin's captivity,
+**[1:2]** In the fifth \`day' of the month, which was the fifth year of king Jehoiachin's captivity,
 
 **[1:3]** the word of Jehovah came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of Jehovah was there upon him.
 
@@ -14,17 +14,17 @@
 
 **[1:7]** And their feet were straight feet; and the sole of their feet was like the sole of a calf's foot; and they sparkled like burnished brass.
 
-**[1:8]** And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings `thus':
+**[1:8]** And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings \`thus':
 
 **[1:9]** their wings were joined one to another; they turned not when they went; they went every one straight forward.
 
 **[1:10]** As for the likeness of their faces, they had the face of a man; and they four had the face of a lion on the right side; and they four had the face of an ox on the left side; they four had also the face of an eagle.
 
-**[1:11]** And their faces and their wings were separate above; two `wings' of every one were joined one to another, and two covered their bodies.
+**[1:11]** And their faces and their wings were separate above; two \`wings' of every one were joined one to another, and two covered their bodies.
 
 **[1:12]** And they went every one straight forward: whither the spirit was to go, they went; they turned not when they went.
 
-**[1:13]** As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches: `the fire' went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
+**[1:13]** As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches: \`the fire' went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
 
 **[1:14]** And the living creatures ran and returned as the appearance of a flash of lightning.
 
@@ -98,9 +98,9 @@
 
 **[3:11]** And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord Jehovah; whether they will hear, or whether they will forbear.
 
-**[3:12]** Then the Spirit lifted me up, and I heard behind me the voice of a great rushing, `saying', Blessed be the glory of Jehovah from his place.
+**[3:12]** Then the Spirit lifted me up, and I heard behind me the voice of a great rushing, \`saying', Blessed be the glory of Jehovah from his place.
 
-**[3:13]** And `I heard' the noise of the wings of the living creatures as they touched one another, and the noise of the wheels beside them, even the noise of a great rushing.
+**[3:13]** And \`I heard' the noise of the wings of the living creatures as they touched one another, and the noise of the wheels beside them, even the noise of a great rushing.
 
 **[3:14]** So the Spirit lifted me up, and took me away; and I went in bitterness, in the heat of my spirit; and the hand of Jehovah was strong upon me.
 
@@ -136,7 +136,7 @@
 
 **[4:3]** And take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face toward it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel.
 
-**[4:4]** Moreover lie thou upon thy left side, and lay the iniquity of the house of Israel upon it; `according to' the number of the days that thou shalt lie upon it, thou shalt bear their iniquity.
+**[4:4]** Moreover lie thou upon thy left side, and lay the iniquity of the house of Israel upon it; \`according to' the number of the days that thou shalt lie upon it, thou shalt bear their iniquity.
 
 **[4:5]** For I have appointed the years of their iniquity to be unto thee a number of days, even three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.
 
@@ -146,7 +146,7 @@
 
 **[4:8]** And, behold, I lay bands upon thee, and thou shalt not turn thee from one side to the other, till thou hast accomplished the days of thy siege.
 
-**[4:9]** Take thou also unto thee wheat, and barley, and beans, and lentils, and millet, and spelt, and put them in one vessel, and make thee bread thereof; `according to' the number of the days that thou shalt lie upon thy side, even three hundred and ninety days, shalt thou eat thereof.
+**[4:9]** Take thou also unto thee wheat, and barley, and beans, and lentils, and millet, and spelt, and put them in one vessel, and make thee bread thereof; \`according to' the number of the days that thou shalt lie upon thy side, even three hundred and ninety days, shalt thou eat thereof.
 
 **[4:10]** And thy food which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it.
 
@@ -164,7 +164,7 @@
 
 **[4:17]** that they may want bread and water, and be dismayed one with another, and pine away in their iniquity.
 
-**[5:1]** And thou, son of man, take thee a sharp sword; `as' a barber's razor shalt thou take it unto thee, and shalt cause it to pass upon thy head and upon thy beard: then take thee balances to weigh, and divide the hair.
+**[5:1]** And thou, son of man, take thee a sharp sword; \`as' a barber's razor shalt thou take it unto thee, and shalt cause it to pass upon thy head and upon thy beard: then take thee balances to weigh, and divide the hair.
 
 **[5:2]** A third part shalt thou burn in the fire in the midst of the city, when the days of the siege are fulfilled; and thou shalt take a third part, and smite with the sword round about it; and a third part thou shalt scatter to the wind, and I will draw out a sword after them.
 
@@ -184,7 +184,7 @@
 
 **[5:10]** Therefore the fathers shall eat the sons in the midst of thee, and the sons shall eat their fathers; and I will execute judgments on thee; and the whole remnant of thee will I scatter unto all the winds.
 
-**[5:11]** Wherefore, as I live, saith the Lord Jehovah, surely, because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also diminish `thee'; neither shall mine eye spare, and I also will have no pity.
+**[5:11]** Wherefore, as I live, saith the Lord Jehovah, surely, because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also diminish \`thee'; neither shall mine eye spare, and I also will have no pity.
 
 **[5:12]** A third part of thee shall die with the pestilence, and with famine shall they be consumed in the midst of thee; and a third part shall fall by the sword round about thee; and a third part I will scatter unto all the winds, and will draw out a sword after them.
 
@@ -238,7 +238,7 @@
 
 **[7:6]** An end is come, the end is come; it awaketh against thee; behold, it cometh.
 
-**[7:7]** Thy doom is come unto thee, O inhabitant of the land: the time is come, the day is near, `a day of' tumult, and not `of' joyful shouting, upon the mountains.
+**[7:7]** Thy doom is come unto thee, O inhabitant of the land: the time is come, the day is near, \`a day of' tumult, and not \`of' joyful shouting, upon the mountains.
 
 **[7:8]** Now will I shortly pour out my wrath upon thee, and accomplish mine anger against thee, and will judge thee according to thy ways; and I will bring upon thee all thine abominations.
 
@@ -246,7 +246,7 @@
 
 **[7:10]** Behold, the day, behold, it cometh: thy doom is gone forth; the rod hath blossomed, pride hath budded.
 
-**[7:11]** Violence is risen up into a rod of wickedness; none of them `shall remain', nor of their multitude, nor of their wealth: neither shall there be eminency among them.
+**[7:11]** Violence is risen up into a rod of wickedness; none of them \`shall remain', nor of their multitude, nor of their wealth: neither shall there be eminency among them.
 
 **[7:12]** The time is come, the day draweth near: let not the buyer rejoice, nor the seller mourn; for wrath is upon all the multitude thereof.
 
@@ -264,11 +264,11 @@
 
 **[7:19]** They shall cast their silver in the streets, and their gold shall be as an unclean thing; their silver and their gold shall not be able to deliver them in the day of the wrath of Jehovah: they shall not satisfy their souls, neither fill their bowels; because it hath been the stumblingblock of their iniquity.
 
-**[7:20]** As for the beauty of his ornament, he set it in majesty; but they made the images of their abominations `and' their detestable things therein: therefore have I made it unto them as an unclean thing.
+**[7:20]** As for the beauty of his ornament, he set it in majesty; but they made the images of their abominations \`and' their detestable things therein: therefore have I made it unto them as an unclean thing.
 
 **[7:21]** And I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a spoil; and they shall profane it.
 
-**[7:22]** My face will I turn also from them, and they shall profane my secret `place'; and robbers shall enter into it, and profane it.
+**[7:22]** My face will I turn also from them, and they shall profane my secret \`place'; and robbers shall enter into it, and profane it.
 
 **[7:23]** Make the chain; for the land is full of bloody crimes, and the city is full of violence.
 
@@ -280,11 +280,11 @@
 
 **[7:27]** The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am Jehovah.
 
-**[8:1]** And it came to pass in the sixth year, in the sixth `month', in the fifth `day' of the month, as I sat in my house, and the elders of Judah sat before me, that the hand of the Lord Jehovah fell there upon me.
+**[8:1]** And it came to pass in the sixth year, in the sixth \`month', in the fifth \`day' of the month, as I sat in my house, and the elders of Judah sat before me, that the hand of the Lord Jehovah fell there upon me.
 
 **[8:2]** Then I beheld, and, lo, a likeness as the appearance of fire; from the appearance of his loins and downward, fire; and from his loins and upward, as the appearance of brightness, as it were glowing metal.
 
-**[8:3]** And he put forth the form of a hand, and took me by a lock of my head; and the Spirit lifted me up between earth and heaven, and brought me in the visions of God to Jerusalem, to the door of the gate of the inner `court' that looketh toward the north; where was the seat of the image of jealousy, which provoketh to jealousy.
+**[8:3]** And he put forth the form of a hand, and took me by a lock of my head; and the Spirit lifted me up between earth and heaven, and brought me in the visions of God to Jerusalem, to the door of the gate of the inner \`court' that looketh toward the north; where was the seat of the image of jealousy, which provoketh to jealousy.
 
 **[8:4]** And, behold, the glory of the God of Israel was there, according to the appearance that I saw in the plain.
 
@@ -308,11 +308,11 @@
 
 **[8:14]** Then he brought me to the door of the gate of Jehovah's house which was toward the north; and behold, there sat the women weeping for Tammuz.
 
-**[8:15]** Then said he unto me, Hast thou seen `this', O son of man? thou shalt again see yet greater abominations than these.
+**[8:15]** Then said he unto me, Hast thou seen \`this', O son of man? thou shalt again see yet greater abominations than these.
 
 **[8:16]** And he brought me into the inner court of Jehovah's house; and behold, at the door of the temple of Jehovah, between the porch and the altar, were about five and twenty men, with their backs toward the temple of Jehovah, and their faces toward the east; and they were worshipping the sun toward the east.
 
-**[8:17]** Then he said unto me, Hast thou seen `this', O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have turned again to provoke me to anger: and, lo, they put the branch to their nose.
+**[8:17]** Then he said unto me, Hast thou seen \`this', O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have turned again to provoke me to anger: and, lo, they put the branch to their nose.
 
 **[8:18]** Therefore will I also deal in wrath; mine eye shall not spare, neither will I have pity; and though they cry in mine ears with a loud voice, yet will I not hear them.
 
@@ -332,7 +332,7 @@
 
 **[9:8]** And it came to pass, while they were smiting, and I was left, that I fell upon my face, and cried, and said, Ah Lord Jehovah! wilt thou destroy all the residue of Israel in thy pouring out of thy wrath upon Jerusalem?
 
-**[9:9]** Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of wrestling `of judgment': for they say, Jehovah hath forsaken the land, and Jehovah seeth not.
+**[9:9]** Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of wrestling \`of judgment': for they say, Jehovah hath forsaken the land, and Jehovah seeth not.
 
 **[9:10]** And as for me also, mine eye shall not spare, neither will I have pity, but I will bring their way upon their head.
 
@@ -340,17 +340,17 @@
 
 **[10:1]** Then I looked, and behold, in the firmament that was over the head of the cherubim there appeared above them as it were a sapphire stone, as the appearance of the likeness of a throne.
 
-**[10:2]** And he spake unto the man clothed in linen, and said, Go in between the whirling `wheels', even under the cherub, and fill both thy hands with coals of fire from between the cherubim, and scatter them over the city. And he went in in my sight.
+**[10:2]** And he spake unto the man clothed in linen, and said, Go in between the whirling \`wheels', even under the cherub, and fill both thy hands with coals of fire from between the cherubim, and scatter them over the city. And he went in in my sight.
 
 **[10:3]** Now the cherubim stood on the right side of the house, when the man went in; and the cloud filled the inner court.
 
-**[10:4]** And the glory of Jehovah mounted up from the cherub, `and stood' over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of Jehovah's glory.
+**[10:4]** And the glory of Jehovah mounted up from the cherub, \`and stood' over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of Jehovah's glory.
 
 **[10:5]** And the sound of the wings of the cherubim was heard even to the outer court, as the voice of God Almighty when he speaketh.
 
 **[10:6]** And it came to pass, when he commanded the man clothed in linen, saying, Take fire from between the whirling wheels, from between the cherubim, that he went in, and stood beside a wheel.
 
-**[10:7]** And the cherub stretched forth his hand from between the cherubim unto the fire that was between the cherubim, and took `thereof', and put it into the hands of him that was clothed in linen, who took it and went out.
+**[10:7]** And the cherub stretched forth his hand from between the cherubim unto the fire that was between the cherubim, and took \`thereof', and put it into the hands of him that was clothed in linen, who took it and went out.
 
 **[10:8]** And there appeared in the cherubim the form of a man's hand under their wings.
 
@@ -360,9 +360,9 @@
 
 **[10:11]** When they went, they went in their four directions: they turned not as they went, but to the place whither the head looked they followed it; they turned not as they went.
 
-**[10:12]** And their whole body, and their backs, and their hands, and their wings, and the wheels, were full of eyes round about, `even' the wheels that they four had.
+**[10:12]** And their whole body, and their backs, and their hands, and their wings, and the wheels, were full of eyes round about, \`even' the wheels that they four had.
 
-**[10:13]** As for the wheels, they were called in my hearing, the whirling `wheels'.
+**[10:13]** As for the wheels, they were called in my hearing, the whirling \`wheels'.
 
 **[10:14]** And every one had four faces: the first face was the face of the cherub, and the second face was the face of a man, and the third face the face of a lion, and the fourth the face of an eagle.
 
@@ -386,7 +386,7 @@
 
 **[11:2]** And he said unto me, Son of man, these are the men that devise iniquity, and that give wicked counsel in this city;
 
-**[11:3]** that say, `The time' is not near to build houses: this `city' is the caldron, and we are the flesh.
+**[11:3]** that say, \`The time' is not near to build houses: this \`city' is the caldron, and we are the flesh.
 
 **[11:4]** Therefore prophesy against them, prophesy, O son of man.
 
@@ -394,7 +394,7 @@
 
 **[11:6]** Ye have multiplied your slain in this city, and ye have filled the streets thereof with the slain.
 
-**[11:7]** Therefore thus saith the Lord Jehovah: Your slain whom ye have laid in the midst of it, they are the flesh, and this `city' is the caldron; but ye shall be brought forth out of the midst of it.
+**[11:7]** Therefore thus saith the Lord Jehovah: Your slain whom ye have laid in the midst of it, they are the flesh, and this \`city' is the caldron; but ye shall be brought forth out of the midst of it.
 
 **[11:8]** Ye have feared the sword; and I will bring the sword upon you, saith the Lord Jehovah.
 
@@ -402,7 +402,7 @@
 
 **[11:10]** Ye shall fall by the sword; I will judge you in the border of Israel; and ye shall know that I am Jehovah.
 
-**[11:11]** This `city' shall not be your caldron, neither shall ye be the flesh in the midst thereof; I will judge you in the border of Israel;
+**[11:11]** This \`city' shall not be your caldron, neither shall ye be the flesh in the midst thereof; I will judge you in the border of Israel;
 
 **[11:12]** and ye shall know that I am Jehovah: for ye have not walked in my statutes, neither have ye executed mine ordinances, but have done after the ordinances of the nations that are round about you.
 
@@ -410,7 +410,7 @@
 
 **[11:14]** And the word of Jehovah came unto me, saying,
 
-**[11:15]** Son of man, thy brethren, even thy brethren, the men of thy kindred, and all the house of Israel, all of them, `are they' unto whom the inhabitants of Jerusalem have said, Get you far from Jehovah; unto us is this land given for a possession.
+**[11:15]** Son of man, thy brethren, even thy brethren, the men of thy kindred, and all the house of Israel, all of them, \`are they' unto whom the inhabitants of Jerusalem have said, Get you far from Jehovah; unto us is this land given for a possession.
 
 **[11:16]** Therefore say, Thus saith the Lord Jehovah: Whereas I have removed them far off among the nations, and whereas I have scattered them among the countries, yet will I be to them a sanctuary for a little while in the countries where they are come.
 
@@ -450,7 +450,7 @@
 
 **[12:9]** Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?
 
-**[12:10]** Say thou unto them, Thus saith the Lord Jehovah: This burden `concerneth' the prince in Jerusalem, and all the house of Israel among whom they are.
+**[12:10]** Say thou unto them, Thus saith the Lord Jehovah: This burden \`concerneth' the prince in Jerusalem, and all the house of Israel among whom they are.
 
 **[12:11]** Say, I am your sign: like as I have done, so shall it be done unto them; they shall go into exile, into captivity.
 
@@ -468,7 +468,7 @@
 
 **[12:18]** Son of man, eat thy bread with quaking, and drink thy water with trembling and with fearfulness;
 
-**[12:19]** and say unto the people of the land, Thus saith the Lord Jehovah concerning the inhabitants of Jerusalem, and the land of Israel: They shall eat their bread with fearfulness, and drink their water in dismay, that her land may be desolate, `and despoiled' of all that is therein, because of the violence of all them that dwell therein.
+**[12:19]** and say unto the people of the land, Thus saith the Lord Jehovah concerning the inhabitants of Jerusalem, and the land of Israel: They shall eat their bread with fearfulness, and drink their water in dismay, that her land may be desolate, \`and despoiled' of all that is therein, because of the violence of all them that dwell therein.
 
 **[12:20]** And the cities that are inhabited shall be laid waste, and the land shall be a desolation; and ye shall know that I am Jehovah.
 
@@ -506,27 +506,27 @@
 
 **[13:9]** And my hand shall be against the prophets that see false visions, and that divine lies: they shall not be in the council of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I am the Lord Jehovah.
 
-**[13:10]** Because, even because they have seduced my people, saying, Peace; and there is no peace; and when one buildeth up a wall, behold, they daub it with untempered `mortar':
+**[13:10]** Because, even because they have seduced my people, saying, Peace; and there is no peace; and when one buildeth up a wall, behold, they daub it with untempered \`mortar':
 
-**[13:11]** say unto them that daub it with untempered `mortar', that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend it.
+**[13:11]** say unto them that daub it with untempered \`mortar', that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend it.
 
 **[13:12]** Lo, when the wall is fallen, shall it not be said unto you, Where is the daubing wherewith ye have daubed it?
 
 **[13:13]** Therefore thus saith the Lord Jehovah: I will even rend it with a stormy wind in my wrath; and there shall be an overflowing shower in mine anger, and great hailstones in wrath to consume it.
 
-**[13:14]** So will I break down the wall that ye have daubed with untempered `mortar', and bring it down to the ground, so that the foundation thereof shall be uncovered; and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am Jehovah.
+**[13:14]** So will I break down the wall that ye have daubed with untempered \`mortar', and bring it down to the ground, so that the foundation thereof shall be uncovered; and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am Jehovah.
 
-**[13:15]** Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered `mortar'; and I will say unto you, The wall is no more, neither they that daubed it;
+**[13:15]** Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered \`mortar'; and I will say unto you, The wall is no more, neither they that daubed it;
 
-**[13:16]** `to wit', the prophets of Israel that prophesy concerning Jerusalem, and that see visions of peace for her, and there is no peace, saith the Lord Jehovah.
+**[13:16]** \`to wit', the prophets of Israel that prophesy concerning Jerusalem, and that see visions of peace for her, and there is no peace, saith the Lord Jehovah.
 
 **[13:17]** And thou, son of man, set thy face against the daughters of thy people, that prophesy out of their own heart; and prophesy thou against them,
 
-**[13:18]** and say, Thus saith the Lord Jehovah: Woe to the women that sew pillows upon all elbows, and make kerchiefs for the head of `persons of' every stature to hunt souls! Will ye hunt the souls of my people, and save souls alive for yourselves?
+**[13:18]** and say, Thus saith the Lord Jehovah: Woe to the women that sew pillows upon all elbows, and make kerchiefs for the head of \`persons of' every stature to hunt souls! Will ye hunt the souls of my people, and save souls alive for yourselves?
 
 **[13:19]** And ye have profaned me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hearken unto lies.
 
-**[13:20]** Wherefore thus saith the Lord Jehovah: Behold, I am against your pillows, wherewith ye there hunt the souls to make `them' fly, and I will tear them from your arms; and I will let the souls go, even the souls that ye hunt to make `them' fly.
+**[13:20]** Wherefore thus saith the Lord Jehovah: Behold, I am against your pillows, wherewith ye there hunt the souls to make \`them' fly, and I will tear them from your arms; and I will let the souls go, even the souls that ye hunt to make \`them' fly.
 
 **[13:21]** Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am Jehovah.
 
@@ -552,7 +552,7 @@
 
 **[14:9]** And if the prophet be deceived and speak a word, I, Jehovah, have deceived that prophet, and I will stretch out my hand upon him, and will destroy him from the midst of my people Israel.
 
-**[14:10]** And they shall bear their iniquity: the iniquity of the prophet shall be even as the iniquity of him that seeketh `unto him';
+**[14:10]** And they shall bear their iniquity: the iniquity of the prophet shall be even as the iniquity of him that seeketh \`unto him';
 
 **[14:11]** that the house of Israel may go no more astray from me, neither defile themselves any more with all their transgressions; but that they may be my people, and I may be their God, saith the Lord Jehovah.
 
@@ -606,7 +606,7 @@
 
 **[16:5]** No eye pitied thee, to do any of these things unto thee, to have compassion upon thee; but thou wast cast out in the open field, for that thy person was abhorred, in the day that thou wast born.
 
-**[16:6]** And when I passed by thee, and saw thee weltering in thy blood, I said unto thee, `Though thou art' in thy blood, live; yea, I said unto thee, `Though thou art' in thy blood, live.
+**[16:6]** And when I passed by thee, and saw thee weltering in thy blood, I said unto thee, \`Though thou art' in thy blood, live; yea, I said unto thee, \`Though thou art' in thy blood, live.
 
 **[16:7]** I caused thee to multiply as that which groweth in the field, and thou didst increase and wax great, and thou attainedst to excellent ornament; thy breasts were fashioned, and thy hair was grown; yet thou wast naked and bare.
 
@@ -626,17 +626,17 @@
 
 **[16:15]** But thou didst trust in thy beauty, and playedst the harlot because of thy renown, and pouredst out thy whoredoms on every one that passed by; his it was.
 
-**[16:16]** And thou didst take of thy garments, and madest for thee high places decked with divers colors, and playedst the harlot upon them: `the like things' shall not come, neither shall it be `so'.
+**[16:16]** And thou didst take of thy garments, and madest for thee high places decked with divers colors, and playedst the harlot upon them: \`the like things' shall not come, neither shall it be \`so'.
 
 **[16:17]** Thou didst also take thy fair jewels of my gold and of my silver, which I had given thee, and madest for thee images of men, and didst play the harlot with them;
 
 **[16:18]** and thou tookest thy broidered garments, and coveredst them, and didst set mine oil and mine incense before them.
 
-**[16:19]** My bread also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou didst even set it before them for a sweet savor; and `thus' it was, saith the Lord Jehovah.
+**[16:19]** My bread also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou didst even set it before them for a sweet savor; and \`thus' it was, saith the Lord Jehovah.
 
 **[16:20]** Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured. Were thy whoredoms a small matter,
 
-**[16:21]** that thou hast slain my children, and delivered them up, in causing them to pass through `the fire' unto them?
+**[16:21]** that thou hast slain my children, and delivered them up, in causing them to pass through \`the fire' unto them?
 
 **[16:22]** And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, and wast weltering in thy blood.
 
@@ -648,7 +648,7 @@
 
 **[16:26]** Thou hast also committed fornication with the Egyptians, thy neighbors, great of flesh; and hast multiplied thy whoredom, to provoke me to anger.
 
-**[16:27]** Behold therefore, I have stretched out my hand over thee, and have diminished thine ordinary `food', and delivered thee unto the will of them that hate thee, the daughters of the Philistines, that are ashamed of thy lewd way.
+**[16:27]** Behold therefore, I have stretched out my hand over thee, and have diminished thine ordinary \`food', and delivered thee unto the will of them that hate thee, the daughters of the Philistines, that are ashamed of thy lewd way.
 
 **[16:28]** Thou hast played the harlot also with the Assyrians, because thou wast insatiable; yea, thou hast played the harlot with them, and yet thou wast not satisfied.
 
@@ -662,7 +662,7 @@
 
 **[16:33]** They give gifts to all harlots; but thou givest thy gifts to all thy lovers, and bribest them, that they may come unto thee on every side for thy whoredoms.
 
-**[16:34]** And thou art different from `other' women in thy whoredoms, in that none followeth thee to play the harlot; and whereas thou givest hire, and no hire is given unto thee, therefore thou art different.
+**[16:34]** And thou art different from \`other' women in thy whoredoms, in that none followeth thee to play the harlot; and whereas thou givest hire, and no hire is given unto thee, therefore thou art different.
 
 **[16:35]** Wherefore, O harlot, hear the word of Jehovah:
 
@@ -682,19 +682,19 @@
 
 **[16:43]** Because thou hast not remembered the days of thy youth, but hast raged against me in all these things; therefore, behold, I also will bring thy way upon thy head, saith the Lord Jehovah: and thou shalt not commit this lewdness with all thine abominations.
 
-**[16:44]** Behold, every one that useth proverbs shall use `this' proverb against thee, saying, As is the mother, so is her daughter.
+**[16:44]** Behold, every one that useth proverbs shall use \`this' proverb against thee, saying, As is the mother, so is her daughter.
 
 **[16:45]** Thou art the daughter of thy mother, that loatheth her husband and her children; and thou art the sister of thy sisters, who loathed their husbands and their children: your mother was a Hittite, and your father an Amorite.
 
 **[16:46]** And thine elder sister is Samaria, that dwelleth at thy left hand, she and her daughters; and thy younger sister, that dwelleth at thy right hand, is Sodom and her daughters.
 
-**[16:47]** Yet hast thou not walked in their ways, nor done after their abominations; but, as `if that were' a very little `thing', thou wast more corrupt than they in all thy ways.
+**[16:47]** Yet hast thou not walked in their ways, nor done after their abominations; but, as \`if that were' a very little \`thing', thou wast more corrupt than they in all thy ways.
 
 **[16:48]** As I live, saith the Lord Jehovah, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters.
 
 **[16:49]** Behold, this was the iniquity of thy sister Sodom: pride, fulness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy.
 
-**[16:50]** And they were haughty, and committed abomination before me: therefore I took them away as I saw `good'.
+**[16:50]** And they were haughty, and committed abomination before me: therefore I took them away as I saw \`good'.
 
 **[16:51]** Neither hath Samaria committed half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters by all thine abominations which thou hast done.
 
@@ -716,7 +716,7 @@
 
 **[16:60]** Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant.
 
-**[16:61]** Then shalt thou remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder `sisters' and thy younger; and I will give them unto thee for daughters, but not by thy covenant.
+**[16:61]** Then shalt thou remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder \`sisters' and thy younger; and I will give them unto thee for daughters, but not by thy covenant.
 
 **[16:62]** And I will establish my covenant with thee; and thou shalt know that I am Jehovah;
 
@@ -774,7 +774,7 @@
 
 **[18:2]** What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children's teeth are set on edge?
 
-**[18:3]** As I live, saith the Lord Jehovah, ye shall not have `occasion' any more to use this proverb in Israel.
+**[18:3]** As I live, saith the Lord Jehovah, ye shall not have \`occasion' any more to use this proverb in Israel.
 
 **[18:4]** Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.
 
@@ -790,7 +790,7 @@
 
 **[18:10]** If he beget a son that is a robber, a shedder of blood, and that doeth any one of these things,
 
-**[18:11]** and that doeth not any of those `duties', but even hath eaten upon the mountains, and defiled his neighbor's wife,
+**[18:11]** and that doeth not any of those \`duties', but even hath eaten upon the mountains, and defiled his neighbor's wife,
 
 **[18:12]** hath wronged the poor and needy, hath taken by robbery, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination,
 
@@ -862,7 +862,7 @@
 
 **[19:14]** And fire is gone out of the rods of its branches, it hath devoured its fruit, so that there is in it no strong rod to be a sceptre to rule. This is a lamentation, and shall be for a lamentation.
 
-**[20:1]** And it came to pass in the seventh year, in the fifth `month', the tenth `day' of the month, that certain of the elders of Israel came to inquire of Jehovah, and sat before me.
+**[20:1]** And it came to pass in the seventh year, in the fifth \`month', the tenth \`day' of the month, that certain of the elders of Israel came to inquire of Jehovah, and sat before me.
 
 **[20:2]** And the word of Jehovah came unto me, saying,
 
@@ -912,7 +912,7 @@
 
 **[20:25]** Moreover also I gave them statutes that were not good, and ordinances wherein they should not live;
 
-**[20:26]** and I polluted them in their own gifts, in that they caused to pass through `the fire' all that openeth the womb, that I might make them desolate, to the end that they might know that I am Jehovah.
+**[20:26]** and I polluted them in their own gifts, in that they caused to pass through \`the fire' all that openeth the womb, that I might make them desolate, to the end that they might know that I am Jehovah.
 
 **[20:27]** Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord Jehovah: In this moreover have your fathers blasphemed me, in that they have committed a trespass against me.
 
@@ -952,7 +952,7 @@
 
 **[20:45]** And the word of Jehovah came unto me, saying,
 
-**[20:46]** Son of man, set thy face toward the south, and drop `thy word' toward the south, and prophesy against the forest of the field in the South;
+**[20:46]** Son of man, set thy face toward the south, and drop \`thy word' toward the south, and prophesy against the forest of the field in the South;
 
 **[20:47]** and say to the forest of the South, Hear the word of Jehovah: Thus saith the Lord Jehovah, Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burnt thereby.
 
@@ -962,7 +962,7 @@
 
 **[21:1]** And the word of Jehovah came unto me, saying,
 
-**[21:2]** Son of man, set thy face toward Jerusalem, and drop `thy word' toward the sanctuaries, and prophesy against the land of Israel;
+**[21:2]** Son of man, set thy face toward Jerusalem, and drop \`thy word' toward the sanctuaries, and prophesy against the land of Israel;
 
 **[21:3]** and say to the land of Israel, Thus saith Jehovah: Behold, I am against thee, and will draw forth my sword out of its sheath, and will cut off from thee the righteous and the wicked.
 
@@ -1002,7 +1002,7 @@
 
 **[21:21]** For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he shook the arrows to and fro, he consulted the teraphim, he looked in the liver.
 
-**[21:22]** In his right hand was the divination `for' Jerusalem, to set battering rams, to open the mouth in the slaughter, to lift up the voice with shouting, to set battering rams against the gates, to cast up mounds, to build forts.
+**[21:22]** In his right hand was the divination \`for' Jerusalem, to set battering rams, to open the mouth in the slaughter, to lift up the voice with shouting, to set battering rams against the gates, to cast up mounds, to build forts.
 
 **[21:23]** And it shall be unto them as a false divination in their sight, who have sworn oaths unto them; but he bringeth iniquity to remembrance, that they may be taken.
 
@@ -1010,9 +1010,9 @@
 
 **[21:25]** And thou, O deadly wounded wicked one, the prince of Israel, whose day is come, in the time of the iniquity of the end,
 
-**[21:26]** thus saith the Lord Jehovah: Remove the mitre, and take off the crown; this `shall be' no more the same; exalt that which is low, and abase that which is high.
+**[21:26]** thus saith the Lord Jehovah: Remove the mitre, and take off the crown; this \`shall be' no more the same; exalt that which is low, and abase that which is high.
 
-**[21:27]** I will overturn, overturn, overturn it: this also shall be no more, until he come whose right it is; and I will give it `him'.
+**[21:27]** I will overturn, overturn, overturn it: this also shall be no more, until he come whose right it is; and I will give it \`him'.
 
 **[21:28]** And thou, son of man, prophesy, and say, Thus saith the Lord Jehovah concerning the children of Ammon, and concerning their reproach; and say thou, A sword, a sword is drawn, for the slaughter it is furbished, to cause it to devour, that it may be as lightning;
 
@@ -1032,7 +1032,7 @@
 
 **[22:4]** Thou art become guilty in thy blood that thou hast shed, and art defiled in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come even unto thy years: therefore have I made thee a reproach unto the nations, and a mocking to all the countries.
 
-**[22:5]** Those that are near, and those that are far from thee, shall mock thee, thou infamous one `and' full of tumult.
+**[22:5]** Those that are near, and those that are far from thee, shall mock thee, thou infamous one \`and' full of tumult.
 
 **[22:6]** Behold, the princes of Israel, every one according to his power, have been in thee to shed blood.
 
@@ -1076,9 +1076,9 @@
 
 **[22:26]** Her priests have done violence to my law, and have profaned my holy things: they have made no distinction between the holy and the common, neither have they caused men to discern between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 
-**[22:27]** Her princes in the midst thereof are like wolves ravening the prey, to shed blood, `and' to destroy souls, that they may get dishonest gain.
+**[22:27]** Her princes in the midst thereof are like wolves ravening the prey, to shed blood, \`and' to destroy souls, that they may get dishonest gain.
 
-**[22:28]** And her prophets have daubed for them with untempered `mortar', seeing false visions, and divining lies unto them, saying, Thus saith the Lord Jehovah, when Jehovah hath not spoken.
+**[22:28]** And her prophets have daubed for them with untempered \`mortar', seeing false visions, and divining lies unto them, saying, Thus saith the Lord Jehovah, when Jehovah hath not spoken.
 
 **[22:29]** The people of the land have used oppression, and exercised robbery; yea, they have vexed the poor and needy, and have oppressed the sojourner wrongfully.
 
@@ -1094,13 +1094,13 @@
 
 **[23:4]** And the names of them were Oholah the elder, and Oholibah her sister: and they became mine, and they bare sons and daughters. And as for their names, Samaria is Oholah, and Jerusalem Oholibah.
 
-**[23:5]** And Oholah played the harlot when she was mine; and she doted on her lovers, on the Assyrians `her' neighbors,
+**[23:5]** And Oholah played the harlot when she was mine; and she doted on her lovers, on the Assyrians \`her' neighbors,
 
 **[23:6]** who were clothed with blue, governors and rulers, all of them desirable young men, horsemen riding upon horses.
 
 **[23:7]** And she bestowed her whoredoms upon them, the choicest men of Assyria all of them; and on whomsoever she doted, with all their idols she defiled herself.
 
-**[23:8]** Neither hath she left her whoredoms since `the days of' Egypt; for in her youth they lay with her, and they handled the bosom of her virginity; and they poured out their whoredom upon her.
+**[23:8]** Neither hath she left her whoredoms since \`the days of' Egypt; for in her youth they lay with her, and they handled the bosom of her virginity; and they poured out their whoredom upon her.
 
 **[23:9]** Wherefore I delivered her into the hand of her lovers, into the hand of the Assyrians, upon whom she doted.
 
@@ -1108,7 +1108,7 @@
 
 **[23:11]** And her sister Oholibah saw this, yet was she more corrupt in her doting than she, and in her whoredoms which were more than the whoredoms of her sister.
 
-**[23:12]** She doted upon the Assyrians, governors and rulers, `her' neighbors, clothed most gorgeously, horsemen riding upon horses, all of them desirable young men.
+**[23:12]** She doted upon the Assyrians, governors and rulers, \`her' neighbors, clothed most gorgeously, horsemen riding upon horses, all of them desirable young men.
 
 **[23:13]** And I saw that she was defiled; they both took one way.
 
@@ -1130,7 +1130,7 @@
 
 **[23:22]** Therefore, O Oholibah, thus saith the Lord Jehovah: Behold, I will raise up thy lovers against thee, from whom thy soul is alienated, and I will bring them against thee on every side:
 
-**[23:23]** the Babylonians and all the Chaldeans, Pekod and Shoa and Koa, `and' all the Assyrians with them; desirable young men, governors and rulers all of them, princes and men of renown, all of them riding upon horses.
+**[23:23]** the Babylonians and all the Chaldeans, Pekod and Shoa and Koa, \`and' all the Assyrians with them; desirable young men, governors and rulers all of them, princes and men of renown, all of them riding upon horses.
 
 **[23:24]** And they shall come against thee with weapons, chariots, and wagons, and with a company of peoples; they shall set themselves against thee with buckler and shield and helmet round about; and I will commit the judgment unto them, and they shall judge thee according to their judgments.
 
@@ -1138,7 +1138,7 @@
 
 **[23:26]** They shall also strip thee of thy clothes, and take away thy fair jewels.
 
-**[23:27]** Thus will I make thy lewdness to cease from thee, and thy whoredom `brought' from the land of Egypt; so that thou shalt not lift up thine eyes unto them, nor remember Egypt any more.
+**[23:27]** Thus will I make thy lewdness to cease from thee, and thy whoredom \`brought' from the land of Egypt; so that thou shalt not lift up thine eyes unto them, nor remember Egypt any more.
 
 **[23:28]** For thus saith the Lord Jehovah: Behold, I will deliver thee into the hand of them whom thou hatest, into the hand of them from whom thy soul is alienated;
 
@@ -1158,7 +1158,7 @@
 
 **[23:36]** Jehovah said moreover unto me: Son of man, wilt thou judge Oholah and Oholibah? then declare unto them their abominations.
 
-**[23:37]** For they have committed adultery, and blood is in their hands; and with their idols have they committed adultery; and they have also caused their sons, whom they bare unto me, to pass through `the fire' unto them to be devoured.
+**[23:37]** For they have committed adultery, and blood is in their hands; and with their idols have they committed adultery; and they have also caused their sons, whom they bare unto me, to pass through \`the fire' unto them to be devoured.
 
 **[23:38]** Moreover this they have done unto me: they have defiled my sanctuary in the same day, and have profaned my sabbaths.
 
@@ -1168,9 +1168,9 @@
 
 **[23:41]** and sit upon a stately bed, with a table prepared before it, whereupon thou didst set mine incense and mine oil.
 
-**[23:42]** And the voice of a multitude being at ease was with her: and with men of the common sort were brought drunkards from the wilderness; and they put bracelets upon the hands of them `twain', and beautiful crowns upon their heads.
+**[23:42]** And the voice of a multitude being at ease was with her: and with men of the common sort were brought drunkards from the wilderness; and they put bracelets upon the hands of them \`twain', and beautiful crowns upon their heads.
 
-**[23:43]** Then said I of her that was old in adulteries, Now will they play the harlot with her, and she `with them'.
+**[23:43]** Then said I of her that was old in adulteries, Now will they play the harlot with her, and she \`with them'.
 
 **[23:44]** And they went in unto her, as they go in unto a harlot: so went they in unto Oholah and unto Oholibah, the lewd women.
 
@@ -1184,15 +1184,15 @@
 
 **[23:49]** And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols; and ye shall know that I am the Lord Jehovah.
 
-**[24:1]** Again, in the ninth year, in the tenth month, in the tenth `day' of the month, the word of Jehovah came unto me, saying,
+**[24:1]** Again, in the ninth year, in the tenth month, in the tenth \`day' of the month, the word of Jehovah came unto me, saying,
 
-**[24:2]** Son of man, write thee the name of the day, `even' of this selfsame day: the king of Babylon drew close unto Jerusalem this selfsame day.
+**[24:2]** Son of man, write thee the name of the day, \`even' of this selfsame day: the king of Babylon drew close unto Jerusalem this selfsame day.
 
 **[24:3]** And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord Jehovah, Set on the caldron, set it on, and also pour water into it:
 
 **[24:4]** gather the pieces thereof into it, even every good piece, the thigh, and the shoulder; fill it with the choice bones.
 
-**[24:5]** Take the choice of the flock, and also a pile `of wood' for the bones under `the caldron'; make it boil well; yea, let the bones thereof be boiled in the midst of it.
+**[24:5]** Take the choice of the flock, and also a pile \`of wood' for the bones under \`the caldron'; make it boil well; yea, let the bones thereof be boiled in the midst of it.
 
 **[24:6]** Wherefore thus saith the Lord Jehovah: Woe to the bloody city, to the caldron whose rust is therein, and whose rust is not gone out of it! take out of it piece after piece; No lot is fallen upon it.
 
@@ -1206,7 +1206,7 @@
 
 **[24:11]** Then set it empty upon the coals thereof, that it may be hot, and the brass thereof may burn, and that the filthiness of it may be molten in it, that the rust of it may be consumed.
 
-**[24:12]** She hath wearied `herself' with toil; yet her great rust goeth not forth out of her; her rust `goeth not forth' by fire.
+**[24:12]** She hath wearied \`herself' with toil; yet her great rust goeth not forth out of her; her rust \`goeth not forth' by fire.
 
 **[24:13]** In thy filthiness is lewdness: because I have cleansed thee and thou wast not cleansed, thou shalt not be cleansed from thy filthiness any more, till I have caused my wrath toward thee to rest.
 
@@ -1256,7 +1256,7 @@
 
 **[25:9]** therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Beth-jeshimoth, Baal-meon, and Kiriathaim,
 
-**[25:10]** unto the children of the east, `to go' against the children of Ammon; and I will give them for a possession, that the children of Ammon may not be remembered among the nations.
+**[25:10]** unto the children of the east, \`to go' against the children of Ammon; and I will give them for a possession, that the children of Ammon may not be remembered among the nations.
 
 **[25:11]** and I will execute judgments upon Moab; and they shall know that I am Jehovah.
 
@@ -1272,9 +1272,9 @@
 
 **[25:17]** And I will execute great vengeance upon them with wrathful rebukes; and they shall know that I am Jehovah, when I shall lay my vengeance upon them.
 
-**[26:1]** And it came to pass in the eleventh year, in the first `day' of the month, that the word of Jehovah came unto me, saying,
+**[26:1]** And it came to pass in the eleventh year, in the first \`day' of the month, that the word of Jehovah came unto me, saying,
 
-**[26:2]** Son of man, because that Tyre hath said against Jerusalem, Aha, she is broken `that was' the gate of the peoples; she is turned unto me; I shall be replenished, now that she is laid waste:
+**[26:2]** Son of man, because that Tyre hath said against Jerusalem, Aha, she is broken \`that was' the gate of the peoples; she is turned unto me; I shall be replenished, now that she is laid waste:
 
 **[26:3]** therefore thus saith the Lord Jehovah, Behold, I am against thee, O Tyre, and will cause many nations to come up against thee, as the sea causeth its waves to come up.
 
@@ -1358,7 +1358,7 @@
 
 **[27:22]** The traffickers of Sheba and Raamah, they were thy traffickers; they traded for thy wares with the chief of all spices, and with all precious stones, and gold.
 
-**[27:23]** Haran and Canneh and Eden, the traffickers of Sheba, Asshur `and' Chilmad, were thy traffickers.
+**[27:23]** Haran and Canneh and Eden, the traffickers of Sheba, Asshur \`and' Chilmad, were thy traffickers.
 
 **[27:24]** These were thy traffickers in choice wares, in wrappings of blue and broidered work, and in chests of rich apparel, bound with cords and made of cedar, among thy merchandise.
 
@@ -1370,13 +1370,13 @@
 
 **[27:28]** At the sound of the cry of thy pilots the suburbs shall shake.
 
-**[27:29]** And all that handled the oar, the mariners, `and' all the pilots of the sea, shall come down from their ships; they shall stand upon the land,
+**[27:29]** And all that handled the oar, the mariners, \`and' all the pilots of the sea, shall come down from their ships; they shall stand upon the land,
 
 **[27:30]** and shall cause their voice to be heard over thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:
 
 **[27:31]** and they shall make themselves bald for thee, and gird them with sackcloth, and they shall weep for thee in bitterness of soul with bitter mourning.
 
-**[27:32]** And in their wailing they shall take up a lamentation for thee, and lament over thee, `saying', Who is there like Tyre, like her that is brought to silence in the midst of the sea?
+**[27:32]** And in their wailing they shall take up a lamentation for thee, and lament over thee, \`saying', Who is there like Tyre, like her that is brought to silence in the midst of the sea?
 
 **[27:33]** When thy wares went forth out of the seas, thou filledst many peoples; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.
 
@@ -1394,7 +1394,7 @@
 
 **[28:4]** by thy wisdom and by thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures;
 
-**[28:5]** by thy great wisdom `and' by thy traffic hast thou increased thy riches, and thy heart is lifted up because of thy riches;-
+**[28:5]** by thy great wisdom \`and' by thy traffic hast thou increased thy riches, and thy heart is lifted up because of thy riches;-
 
 **[28:6]** therefore thus saith the Lord Jehovah: Because thou hast set thy heart as the heart of God,
 
@@ -1412,7 +1412,7 @@
 
 **[28:13]** Thou wast in Eden, the garden of God; every precious stone was thy covering, the sardius, the topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was in thee; in the day that thou wast created they were prepared.
 
-**[28:14]** Thou wast the anointed cherub that covereth: and I set thee, `so that' thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
+**[28:14]** Thou wast the anointed cherub that covereth: and I set thee, \`so that' thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
 
 **[28:15]** Thou wast perfect in thy ways from the day that thou wast created, till unrighteousness was found in thee.
 
@@ -1438,7 +1438,7 @@
 
 **[28:26]** And they shall dwell securely therein; yea, they shall build houses, and plant vineyards, and shall dwell securely, when I have executed judgments upon all those that do them despite round about them; and they shall know that I am Jehovah their God.
 
-**[29:1]** In the tenth year, in the tenth `month', in the twelfth `day' of the month, the word of Jehovah came unto me, saying,
+**[29:1]** In the tenth year, in the tenth \`month', in the twelfth \`day' of the month, the word of Jehovah came unto me, saying,
 
 **[29:2]** Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt;
 
@@ -1470,7 +1470,7 @@
 
 **[29:16]** And it shall be no more the confidence of the house of Israel, bringing iniquity to remembrance, when they turn to look after them: and they shall know that I am the Lord Jehovah.
 
-**[29:17]** And it came to pass in the seven and twentieth year, in the first `month', in the first `day' of the month, the word of Jehovah came unto me, saying,
+**[29:17]** And it came to pass in the seven and twentieth year, in the first \`month', in the first \`day' of the month, the word of Jehovah came unto me, saying,
 
 **[29:18]** Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyre: every head was made bald, and every shoulder was worn; yet had he no wages, nor his army, from Tyre, for the service that he had served against it.
 
@@ -1510,19 +1510,19 @@
 
 **[30:15]** And I will pour my wrath upon Sin, the stronghold of Egypt; and I will cut off the multitude of No.
 
-**[30:16]** And I will set a fire in Egypt: Sin shall be in great anguish, and No shall be broken up; and Memphis `shall have' adversaries in the day-time.
+**[30:16]** And I will set a fire in Egypt: Sin shall be in great anguish, and No shall be broken up; and Memphis \`shall have' adversaries in the day-time.
 
-**[30:17]** The young men of Aven and of Pibeseth shall fall by the sword; and these `cities' shall go into captivity.
+**[30:17]** The young men of Aven and of Pibeseth shall fall by the sword; and these \`cities' shall go into captivity.
 
 **[30:18]** At Tehaphnehes also the day shall withdraw itself, when I shall break there the yokes of Egypt, and the pride of her power shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.
 
 **[30:19]** Thus will I execute judgments upon Egypt; and they shall know that I am Jehovah.
 
-**[30:20]** And it came to pass in the eleventh year, in the first `month', in the seventh `day' of the month, that the word of Jehovah came unto me, saying,
+**[30:20]** And it came to pass in the eleventh year, in the first \`month', in the seventh \`day' of the month, that the word of Jehovah came unto me, saying,
 
-**[30:21]** Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it hath not been bound up, to apply `healing' medicines, to put a bandage to bind it, that it be strong to hold the sword.
+**[30:21]** Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it hath not been bound up, to apply \`healing' medicines, to put a bandage to bind it, that it be strong to hold the sword.
 
-**[30:22]** Therefore thus saith the Lord Jehovah: Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong `arm', and that which was broken; and I will cause the sword to fall out of his hand.
+**[30:22]** Therefore thus saith the Lord Jehovah: Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong \`arm', and that which was broken; and I will cause the sword to fall out of his hand.
 
 **[30:23]** And I will scatter the Egyptians among the nations, and will disperse them through the countries.
 
@@ -1532,7 +1532,7 @@
 
 **[30:26]** And I will scatter the Egyptians among the nations, and disperse them through the countries; and they shall know that I am Jehovah.
 
-**[31:1]** And it came to pass in the eleventh year, in the third `month', in the first `day' of the month, that the word of Jehovah came unto me, saying,
+**[31:1]** And it came to pass in the eleventh year, in the third \`month', in the first \`day' of the month, that the word of Jehovah came unto me, saying,
 
 **[31:2]** Son of man, say unto Pharaoh king of Egypt, and to his multitude: Whom art thou like in thy greatness?
 
@@ -1540,7 +1540,7 @@
 
 **[31:4]** The waters nourished it, the deep made it to grow: the rivers thereof ran round about its plantation; and it sent out its channels unto all the trees of the field.
 
-**[31:5]** Therefore its stature was exalted above all the trees of the field; and its boughs were multiplied, and its branches became long by reason of many waters, when it shot `them' forth.
+**[31:5]** Therefore its stature was exalted above all the trees of the field; and its boughs were multiplied, and its branches became long by reason of many waters, when it shot \`them' forth.
 
 **[31:6]** All the birds of the heavens made their nests in its boughs; and under its branches did all the beasts of the field bring forth their young; and under its shadow dwelt all great nations.
 
@@ -1558,17 +1558,17 @@
 
 **[31:13]** Upon his ruin all the birds of the heavens shall dwell, and all the beasts of the field shall be upon his branches;
 
-**[31:14]** to the end that none of all the trees by the waters exalt themselves in their stature, neither set their top among the thick boughs, nor that their mighty ones stand up on their height, `even' all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of men, with them that go down to the pit.
+**[31:14]** to the end that none of all the trees by the waters exalt themselves in their stature, neither set their top among the thick boughs, nor that their mighty ones stand up on their height, \`even' all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of men, with them that go down to the pit.
 
 **[31:15]** Thus saith the Lord Jehovah: In the day when he went down to Sheol I caused a mourning: I covered the deep for him, and I restrained the rivers thereof; and the great waters were stayed; and I caused Lebanon to mourn for him, and all the trees of the field fainted for him.
 
 **[31:16]** I made the nations to shake at the sound of his fall, when I cast him down to Sheol with them that descend into the pit; and all the trees of Eden, the choice and best of Lebanon, all that drink water, were comforted in the nether parts of the earth.
 
-**[31:17]** They also went down into Sheol with him unto them that are slain by the sword; yea, they that were his arm, `that' dwelt under his shadow in the midst of the nations.
+**[31:17]** They also went down into Sheol with him unto them that are slain by the sword; yea, they that were his arm, \`that' dwelt under his shadow in the midst of the nations.
 
 **[31:18]** To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised, with them that are slain by the sword. This is Pharaoh and all his multitude, saith the Lord Jehovah.
 
-**[32:1]** And it came to pass in the twelfth year, in the twelfth month, in the first `day' of the month, that the word of Jehovah came unto me, saying,
+**[32:1]** And it came to pass in the twelfth year, in the twelfth month, in the first \`day' of the month, that the word of Jehovah came unto me, saying,
 
 **[32:2]** Son of man, take up a lamentation over Pharaoh king of Egypt, and say unto him, Thou wast likened unto a young lion of the nations: yet art thou as a monster in the seas; and thou didst break forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers.
 
@@ -1600,7 +1600,7 @@
 
 **[32:16]** This is the lamentation wherewith they shall lament; the daughters of the nations shall lament therewith; over Egypt, and over all her multitude, shall they lament therewith, saith the Lord Jehovah.
 
-**[32:17]** It came to pass also in the twelfth year, in the fifteenth `day' of the month, that the word of Jehovah came unto me, saying,
+**[32:17]** It came to pass also in the twelfth year, in the fifteenth \`day' of the month, that the word of Jehovah came unto me, saying,
 
 **[32:18]** Son of man, wail for the multitude of Egypt, and cast them down, even her, and the daughters of the famous nations, unto the nether parts of the earth, with them that go down into the pit.
 
@@ -1620,7 +1620,7 @@
 
 **[32:26]** There is Meshech, Tubal, and all their multitude; their graves are round about them; all of them uncircumcised, slain by the sword; for they caused their terror in the land of the living.
 
-**[32:27]** And they shall not lie with the mighty that are fallen of the uncircumcised, that are gone down to Sheol with their weapons of war, and have laid their swords under their heads, and their iniquities are upon their bones; for `they were' the terror of the mighty in the land of the living.
+**[32:27]** And they shall not lie with the mighty that are fallen of the uncircumcised, that are gone down to Sheol with their weapons of war, and have laid their swords under their heads, and their iniquities are upon their bones; for \`they were' the terror of the mighty in the land of the living.
 
 **[32:28]** But thou shalt be broken in the midst of the uncircumcised, and shalt lie with them that are slain by the sword.
 
@@ -1672,7 +1672,7 @@
 
 **[33:20]** Yet ye say, The way of the Lord is not equal. O house of Israel, I will judge you every one after his ways.
 
-**[33:21]** And it came to pass in the twelfth year of our captivity, in the tenth `month', in the fifth `day' of the month, that one that had escaped out of Jerusalem came unto me, saying, The city is smitten.
+**[33:21]** And it came to pass in the twelfth year of our captivity, in the tenth \`month', in the fifth \`day' of the month, that one that had escaped out of Jerusalem came unto me, saying, The city is smitten.
 
 **[33:22]** Now the hand of Jehovah had been upon me in the evening, before he that was escaped came; and he had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.
 
@@ -1708,7 +1708,7 @@
 
 **[34:5]** And they were scattered, because there was no shepherd; and they became food to all the beasts of the field, and were scattered.
 
-**[34:6]** My sheep wandered through all the mountains, and upon every high hill: yea, my sheep were scattered upon all the face of the earth; and there was none that did search or seek `after them'.
+**[34:6]** My sheep wandered through all the mountains, and upon every high hill: yea, my sheep were scattered upon all the face of the earth; and there was none that did search or seek \`after them'.
 
 **[34:7]** Therefore, ye shepherds, hear the word of Jehovah:
 
@@ -1802,7 +1802,7 @@
 
 **[36:6]** Therefore prophesy concerning the land of Israel, and say unto the mountains and to the hills, to the watercourses and to the valleys, Thus saith the Lord Jehovah: Behold, I have spoken in my jealousy and in my wrath, because ye have borne the shame of the nations:
 
-**[36:7]** therefore thus saith the Lord Jehovah: I have sworn, `saying', Surely the nations that are round about you, they shall bear their shame.
+**[36:7]** therefore thus saith the Lord Jehovah: I have sworn, \`saying', Surely the nations that are round about you, they shall bear their shame.
 
 **[36:8]** But ye, O mountains of Israel, ye shall shoot forth your branches, and yield your fruit to my people Israel; for they are at hand to come.
 
@@ -1810,11 +1810,11 @@
 
 **[36:10]** and I will multiply men upon you, all the house of Israel, even all of it; and the cities shall be inhabited, and the waste places shall be builded;
 
-**[36:11]** and I will multiply upon you man and beast; and they shall increase and be fruitful; and I will cause you to be inhabited after your former estate, and will do better `unto you' than at your beginnings: and ye shall know that I am Jehovah.
+**[36:11]** and I will multiply upon you man and beast; and they shall increase and be fruitful; and I will cause you to be inhabited after your former estate, and will do better \`unto you' than at your beginnings: and ye shall know that I am Jehovah.
 
 **[36:12]** Yea, I will cause men to walk upon you, even my people Israel; and they shall possess thee, and thou shalt be their inheritance, and thou shalt no more henceforth bereave them of children.
 
-**[36:13]** Thus saith the Lord Jehovah: Because they say unto you, Thou `land' art a devourer of men, and hast been a bereaver of thy nation;
+**[36:13]** Thus saith the Lord Jehovah: Because they say unto you, Thou \`land' art a devourer of men, and hast been a bereaver of thy nation;
 
 **[36:14]** therefore thou shalt devour men no more, neither bereave thy nation any more, saith the Lord Jehovah;
 
@@ -1832,7 +1832,7 @@
 
 **[36:21]** But I had regard for my holy name, which the house of Israel had profaned among the nations, whither they went.
 
-**[36:22]** Therefore say unto the house of Israel, Thus saith the Lord Jehovah: I do not `this' for your sake, O house of Israel, but for my holy name, which ye have profaned among the nations, whither ye went.
+**[36:22]** Therefore say unto the house of Israel, Thus saith the Lord Jehovah: I do not \`this' for your sake, O house of Israel, but for my holy name, which ye have profaned among the nations, whither ye went.
 
 **[36:23]** And I will sanctify my great name, which hath been profaned among the nations, which ye have profaned in the midst of them; and the nations shall know that I am Jehovah, saith the Lord Jehovah, when I shall be sanctified in you before their eyes.
 
@@ -1852,7 +1852,7 @@
 
 **[36:31]** Then shall ye remember your evil ways, and your doings that were not good; and ye shall loathe yourselves in your own sight for your iniquities and for your abominations.
 
-**[36:32]** Nor for your sake do I `this', saith the Lord Jehovah, be it known unto you: be ashamed and confounded for your ways, O house of Israel.
+**[36:32]** Nor for your sake do I \`this', saith the Lord Jehovah, be it known unto you: be ashamed and confounded for your ways, O house of Israel.
 
 **[36:33]** Thus saith the Lord Jehovah: In the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited, and the waste places shall be builded.
 
@@ -1896,13 +1896,13 @@
 
 **[37:15]** The word of Jehovah came again unto me, saying,
 
-**[37:16]** And thou, son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and `for' all the house of Israel his companions:
+**[37:16]** And thou, son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and \`for' all the house of Israel his companions:
 
 **[37:17]** and join them for thee one to another into one stick, that they may become one in thy hand.
 
 **[37:18]** And when the children of thy people shall speak unto thee, saying, Wilt thou not show us what thou meanest by these?
 
-**[37:19]** say unto them, Thus saith the Lord Jehovah: Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, `even' with the stick of Judah, and make them one stick, and they shall be one in my hand.
+**[37:19]** say unto them, Thus saith the Lord Jehovah: Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, \`even' with the stick of Judah, and make them one stick, and they shall be one in my hand.
 
 **[37:20]** And the sticks whereon thou writest shall be in thy hand before their eyes.
 
@@ -1944,7 +1944,7 @@
 
 **[38:11]** and thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell securely, all of them dwelling without walls, and having neither bars nor gates;
 
-**[38:12]** to take the spoil and to take the prey; to turn thy hand against the waste places that are `now' inhabited, and against the people that are gathered out of the nations, that have gotten cattle and goods, that dwell in the middle of the earth.
+**[38:12]** to take the spoil and to take the prey; to turn thy hand against the waste places that are \`now' inhabited, and against the people that are gathered out of the nations, that have gotten cattle and goods, that dwell in the middle of the earth.
 
 **[38:13]** Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take the spoil? hast thou assembled thy company to take the prey? to carry away silver and gold, to take away cattle and goods, to take great spoil?
 
@@ -1954,7 +1954,7 @@
 
 **[38:16]** and thou shalt come up against my people Israel, as a cloud to cover the land: it shall come to pass in the latter days, that I will bring thee against my land, that the nations may know me, when I shall be sanctified in thee, O Gog, before their eyes.
 
-**[38:17]** Thus saith the Lord Jehovah: Art thou he of whom I spake in old time by my servants the prophets of Israel, that prophesied in those days for `many' years that I would bring thee against them?
+**[38:17]** Thus saith the Lord Jehovah: Art thou he of whom I spake in old time by my servants the prophets of Israel, that prophesied in those days for \`many' years that I would bring thee against them?
 
 **[38:18]** And it shall come to pass in that day, when Gog shall come against the land of Israel, saith the Lord Jehovah, that my wrath shall come up into my nostrils.
 
@@ -2026,7 +2026,7 @@
 
 **[39:29]** neither will I hide my face any more from them; for I have poured out my Spirit upon the house of Israel, saith the Lord Jehovah.
 
-**[40:1]** In the five and twentieth year of our captivity, in the beginning of the year, in the tenth `day' of the month, in the fourteenth year after that the city was smitten, in the selfsame day, the hand of Jehovah was upon me, and he brought me thither.
+**[40:1]** In the five and twentieth year of our captivity, in the beginning of the year, in the tenth \`day' of the month, in the fourteenth year after that the city was smitten, in the selfsame day, the hand of Jehovah was upon me, and he brought me thither.
 
 **[40:2]** In the visions of God brought he me into the land of Israel, and set me down upon a very high mountain, whereon was as it were the frame of a city on the south.
 
@@ -2038,7 +2038,7 @@
 
 **[40:6]** Then came he unto the gate which looketh toward the east, and went up the steps thereof: and he measured the threshold of the gate, one reed broad; and the other threshold, one reed broad.
 
-**[40:7]** And every lodge was one reed long, and one reed broad; and `the space' between the lodges was five cubits; and the threshold of the gate by the porch of the gate toward the house was one reed.
+**[40:7]** And every lodge was one reed long, and one reed broad; and \`the space' between the lodges was five cubits; and the threshold of the gate by the porch of the gate toward the house was one reed.
 
 **[40:8]** He measured also the porch of the gate toward the house, one reed.
 
@@ -2048,21 +2048,21 @@
 
 **[40:11]** And he measured the breadth of the opening of the gate, ten cubits; and the length of the gate, thirteen cubits;
 
-**[40:12]** and a border before the lodges, one cubit `on this side', and a border, one cubit on that side; and the lodges, six cubits on this side, and six cubits on that side.
+**[40:12]** and a border before the lodges, one cubit \`on this side', and a border, one cubit on that side; and the lodges, six cubits on this side, and six cubits on that side.
 
 **[40:13]** And he measured the gate from the roof of the one lodge to the roof of the other, a breadth of five and twenty cubits; door against door.
 
-**[40:14]** He made also posts, threescore cubits; and the court `reached' unto the posts, round about the gate.
+**[40:14]** He made also posts, threescore cubits; and the court \`reached' unto the posts, round about the gate.
 
-**[40:15]** And `from' the forefront of the gate at the entrance unto the forefront of the inner porch of the gate were fifty cubits.
+**[40:15]** And \`from' the forefront of the gate at the entrance unto the forefront of the inner porch of the gate were fifty cubits.
 
-**[40:16]** And there were closed windows to the lodges, and to their posts within the gate round about, and likewise to the arches; and windows were round about inward; and upon `each' post were palm-trees.
+**[40:16]** And there were closed windows to the lodges, and to their posts within the gate round about, and likewise to the arches; and windows were round about inward; and upon \`each' post were palm-trees.
 
 **[40:17]** Then brought he me into the outer court; and, lo, there were chambers and a pavement, made for the court round about: thirty chambers were upon the pavement.
 
 **[40:18]** And the pavement was by the side of the gates, answerable unto the length of the gates, even the lower pavement.
 
-**[40:19]** Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, a hundred cubits, `both' on the east and on the north.
+**[40:19]** Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, a hundred cubits, \`both' on the east and on the north.
 
 **[40:20]** And the gate of the outer court whose prospect is toward the north, he measured the length thereof and the breadth thereof.
 
@@ -2070,7 +2070,7 @@
 
 **[40:22]** And the windows thereof, and the arches thereof, and the palm-trees thereof, were after the measure of the gate whose prospect is toward the east; and they went up unto it by seven steps; and the arches thereof were before them.
 
-**[40:23]** And there was a gate to the inner court over against the `other' gate, `both' on the north and on the east; and he measured from gate to gate a hundred cubits.
+**[40:23]** And there was a gate to the inner court over against the \`other' gate, \`both' on the north and on the east; and he measured from gate to gate a hundred cubits.
 
 **[40:24]** And he led me toward the south; and, behold, a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.
 
@@ -2094,7 +2094,7 @@
 
 **[40:34]** And the arches thereof were toward the outer court; and palm-trees were upon the posts thereof, on this side, and on that side: and the ascent to it had eight steps.
 
-**[40:35]** And he brought me to the north gate: and he measured `it' according to these measures;
+**[40:35]** And he brought me to the north gate: and he measured \`it' according to these measures;
 
 **[40:36]** the lodges thereof, the posts thereof, and the arches thereof: and there were windows therein round about; the length was fifty cubits, and the breadth five and twenty cubits.
 
@@ -2104,9 +2104,9 @@
 
 **[40:39]** And in the porch of the gate were two tables on this side, and two tables on that side, to slay thereon the burnt-offering and the sin-offering and the trespass-offering.
 
-**[40:40]** And on the `one' side without, as one goeth up to the entry of the gate toward the north, were two tables; and on the other side, which belonged to the porch of the gate, were two tables.
+**[40:40]** And on the \`one' side without, as one goeth up to the entry of the gate toward the north, were two tables; and on the other side, which belonged to the porch of the gate, were two tables.
 
-**[40:41]** Four tables were on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew `the sacrifices'.
+**[40:41]** Four tables were on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew \`the sacrifices'.
 
 **[40:42]** And there were four tables for the burnt-offering, of hewn stone, a cubit and a half long, and a cubit and a half broad, and one cubit high; whereupon they laid the instruments wherewith they slew the burnt-offering and the sacrifice.
 
@@ -2134,9 +2134,9 @@
 
 **[41:5]** Then he measured the wall of the house, six cubits; and the breadth of every side-chamber, four cubits, round about the house on every side.
 
-**[41:6]** And the side-chambers were in three stories, one over another, and thirty in order; and they entered into the wall which belonged to the house for the side-chambers round about, that they might have hold `therein', and not have hold in the wall of the house.
+**[41:6]** And the side-chambers were in three stories, one over another, and thirty in order; and they entered into the wall which belonged to the house for the side-chambers round about, that they might have hold \`therein', and not have hold in the wall of the house.
 
-**[41:7]** And the side-chambers were broader as they encompassed `the house' higher and higher; for the encompassing of the house went higher and higher round about the house: therefore the breadth of the house `continued' upward; and so one went up `from' the lowest `chamber' to the highest by the middle `chamber'.
+**[41:7]** And the side-chambers were broader as they encompassed \`the house' higher and higher; for the encompassing of the house went higher and higher round about the house: therefore the breadth of the house \`continued' upward; and so one went up \`from' the lowest \`chamber' to the highest by the middle \`chamber'.
 
 **[41:8]** I saw also that the house had a raised basement round about: the foundations of the side-chambers were a full reed of six great cubits.
 
@@ -2144,7 +2144,7 @@
 
 **[41:10]** And between the chambers was a breadth of twenty cubits round about the house on every side.
 
-**[41:11]** And the doors of the side-chambers were toward `the place' that was left, one door toward the north, and another door toward the south: and the breadth of the place that was left was five cubits round about.
+**[41:11]** And the doors of the side-chambers were toward \`the place' that was left, one door toward the north, and another door toward the south: and the breadth of the place that was left was five cubits round about.
 
 **[41:12]** And the building that was before the separate place at the side toward the west was seventy cubits broad; and the wall of the building was five cubits thick round about, and the length thereof ninety cubits.
 
@@ -2154,23 +2154,23 @@
 
 **[41:15]** And he measured the length of the building before the separate place which was at the back thereof, and the galleries thereof on the one side and on the other side, a hundred cubits; and the inner temple, and the porches of the court;
 
-**[41:16]** the thresholds, and the closed windows, and the galleries round about on their three stories, over against the threshold, ceiled with wood round about, and `from' the ground up to the windows, (now the windows were covered),
+**[41:16]** the thresholds, and the closed windows, and the galleries round about on their three stories, over against the threshold, ceiled with wood round about, and \`from' the ground up to the windows, (now the windows were covered),
 
-**[41:17]** to `the space' above the door, even unto the inner house, and without, and by all the wall round about within and without, by measure.
+**[41:17]** to \`the space' above the door, even unto the inner house, and without, and by all the wall round about within and without, by measure.
 
 **[41:18]** And it was made with cherubim and palm-trees; and a palm-tree was between cherub and cherub, and every cherub had two faces;
 
-**[41:19]** so that there was the face of a man toward the palm-tree on the one side, and the face of a young lion toward the palm-tree on the other side. `thus was it' made through all the house round about:
+**[41:19]** so that there was the face of a man toward the palm-tree on the one side, and the face of a young lion toward the palm-tree on the other side. \`thus was it' made through all the house round about:
 
 **[41:20]** from the ground unto above the door were cherubim and palm-trees made: thus was the wall of the temple.
 
-**[41:21]** As for the temple, the door-posts were squared; and as for the face of the sanctuary, the appearance `thereof' was as the appearance `of the temple'.
+**[41:21]** As for the temple, the door-posts were squared; and as for the face of the sanctuary, the appearance \`thereof' was as the appearance \`of the temple'.
 
 **[41:22]** The altar was of wood, three cubits high, and the length thereof two cubits; and the corners thereof, and the length thereof, and the walls thereof, were of wood: and he said unto me, This is the table that is before Jehovah.
 
 **[41:23]** And the temple and the sanctuary had two doors.
 
-**[41:24]** And the doors had two leaves `apiece', two turning leaves: two `leaves' for the one door, and two leaves for the other.
+**[41:24]** And the doors had two leaves \`apiece', two turning leaves: two \`leaves' for the one door, and two leaves for the other.
 
 **[41:25]** And there were made on them, on the doors of the temple, cherubim and palm-trees, like as were made upon the walls; and there was a threshold of wood upon the face of the porch without.
 
@@ -2180,13 +2180,13 @@
 
 **[42:2]** Before the length of a hundred cubits was the north door, and the breadth was fifty cubits.
 
-**[42:3]** Over against the twenty `cubits' which belonged to the inner court, and over against the pavement which belonged to the outer court, was gallery against gallery in the third story.
+**[42:3]** Over against the twenty \`cubits' which belonged to the inner court, and over against the pavement which belonged to the outer court, was gallery against gallery in the third story.
 
 **[42:4]** And before the chambers was a walk of ten cubits' breadth inward, a way of one cubit; and their doors were toward the north.
 
 **[42:5]** Now the upper chambers were shorter; for the galleries took away from these, more than from the lower and the middlemost, in the building.
 
-**[42:6]** For they were in three stories, and they had not pillars as the pillars of the courts: therefore `the uppermost' was straitened more than the lowest and the middlemost from the ground.
+**[42:6]** For they were in three stories, and they had not pillars as the pillars of the courts: therefore \`the uppermost' was straitened more than the lowest and the middlemost from the ground.
 
 **[42:7]** And the wall that was without by the side of the chambers, toward the outer court before the chambers, the length thereof was fifty cubits.
 
@@ -2196,7 +2196,7 @@
 
 **[42:10]** In the thickness of the wall of the court toward the east, before the separate place, and before the building, there were chambers.
 
-**[42:11]** And the way before them was like the appearance of `the way of' the chambers which were toward the north; according to their length so was their breadth: and all their egresses were both according to their fashions, and according to their doors.
+**[42:11]** And the way before them was like the appearance of \`the way of' the chambers which were toward the north; according to their length so was their breadth: and all their egresses were both according to their fashions, and according to their doors.
 
 **[42:12]** And according to the doors of the chambers that were toward the south was a door at the head of the way, even the way directly before the wall toward the east, as one entereth into them.
 
@@ -2228,9 +2228,9 @@
 
 **[43:6]** And I heard one speaking unto me out of the house; and a man stood by me.
 
-**[43:7]** And he said unto me, Son of man, `this is' the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever. And the house of Israel shall no more defile my holy name, neither they, nor their kings, by their whoredom, and by the dead bodies of their kings `in' their high places;
+**[43:7]** And he said unto me, Son of man, \`this is' the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever. And the house of Israel shall no more defile my holy name, neither they, nor their kings, by their whoredom, and by the dead bodies of their kings \`in' their high places;
 
-**[43:8]** in their setting of their threshold by my threshold, and their door-post beside my door-post, and there was `but' the wall between me and them; and they have defiled my holy name by their abominations which they have committed: wherefore I have consumed them in mine anger.
+**[43:8]** in their setting of their threshold by my threshold, and their door-post beside my door-post, and there was \`but' the wall between me and them; and they have defiled my holy name by their abominations which they have committed: wherefore I have consumed them in mine anger.
 
 **[43:9]** Now let them put away their whoredom, and the dead bodies of their kings, far from me; and I will dwell in the midst of them for ever.
 
@@ -2246,9 +2246,9 @@
 
 **[43:15]** And the upper altar shall be four cubits; and from the altar hearth and upward there shall be four horns.
 
-**[43:16]** And the altar hearth shall be twelve `cubits' long by twelve broad, square in the four sides thereof.
+**[43:16]** And the altar hearth shall be twelve \`cubits' long by twelve broad, square in the four sides thereof.
 
-**[43:17]** And the ledge shall be fourteen `cubits' long by fourteen broad in the four sides thereof; and the border about it shall be half a cubit; and the bottom thereof shall be a cubit round about; and the steps thereof shall look toward the east.
+**[43:17]** And the ledge shall be fourteen \`cubits' long by fourteen broad in the four sides thereof; and the border about it shall be half a cubit; and the bottom thereof shall be a cubit round about; and the steps thereof shall look toward the east.
 
 **[43:18]** And he said unto me, Son of man, thus saith the Lord Jehovah: These are the ordinances of the altar in the day when they shall make it, to offer burnt-offerings thereon, and to sprinkle blood thereon.
 
@@ -2282,7 +2282,7 @@
 
 **[44:6]** And thou shalt say to the rebellious, even to the house of Israel, Thus saith the Lord Jehovah: O ye house of Israel, let it suffice you of all your abominations,
 
-**[44:7]** in that ye have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when ye offer my bread, the fat and the blood, and they have broken my covenant, `to add' unto all your abominations.
+**[44:7]** in that ye have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when ye offer my bread, the fat and the blood, and they have broken my covenant, \`to add' unto all your abominations.
 
 **[44:8]** And ye have not kept the charge of my holy things; but ye have set keepers of my charge in my sanctuary for yourselves.
 
@@ -2304,7 +2304,7 @@
 
 **[44:17]** And it shall be that, when they enter in at the gates of the inner court, they shall be clothed with linen garments; and no wool shall come upon them, while they minister in the gates of the inner court, and within.
 
-**[44:18]** They shall have linen tires upon their heads, and shall have linen breeches upon their loins; they shall not gird themselves with `anything that causeth' sweat.
+**[44:18]** They shall have linen tires upon their heads, and shall have linen breeches upon their loins; they shall not gird themselves with \`anything that causeth' sweat.
 
 **[44:19]** And when they go forth into the outer court, even into the outer court to the people, they shall put off their garments wherein they minister, and lay them in the holy chambers; and they shall put on other garments, that they sanctify not the people with their garments.
 
@@ -2332,19 +2332,19 @@
 
 **[44:31]** The priests shall not eat of anything that dieth of itself, or is torn, whether it be bird or beast.
 
-**[45:1]** Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto Jehovah, a holy portion of the land; the length shall be the length of five and twenty thousand `reeds', and the breadth shall be ten thousand: it shall be holy in all the border thereof round about.
+**[45:1]** Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto Jehovah, a holy portion of the land; the length shall be the length of five and twenty thousand \`reeds', and the breadth shall be ten thousand: it shall be holy in all the border thereof round about.
 
-**[45:2]** Of this there shall be for the holy place five hundred `in length' by five hundred `in breadth', square round about; and fifty cubits for the suburbs thereof round about.
+**[45:2]** Of this there shall be for the holy place five hundred \`in length' by five hundred \`in breadth', square round about; and fifty cubits for the suburbs thereof round about.
 
 **[45:3]** And of this measure shalt thou measure a length of five and twenty thousand, and a breadth of ten thousand: and in it shall be the sanctuary, which is most holy.
 
 **[45:4]** It is a holy portion of the land; it shall be for the priests, the ministers of the sanctuary, that come near to minister unto Jehovah; and it shall be a place for their houses, and a holy place for the sanctuary.
 
-**[45:5]** And five and twenty thousand in length, and ten thousand in breadth, shall be unto the Levites, the ministers of the house, for a possession unto themselves, `for' twenty chambers.
+**[45:5]** And five and twenty thousand in length, and ten thousand in breadth, shall be unto the Levites, the ministers of the house, for a possession unto themselves, \`for' twenty chambers.
 
 **[45:6]** And ye shall appoint the possession of the city five thousand broad, and five and twenty thousand long, side by side with the oblation of the holy portion: it shall be for the whole house of Israel.
 
-**[45:7]** And `whatsoever is' for the prince `shall be' on the one side and on the other side of the holy oblation and of the possession of the city, in front of the holy oblation and in front of the possession of the city, on the west side westward, and on the east side eastward; and in length answerable unto one of the portions, from the west border unto the east border.
+**[45:7]** And \`whatsoever is' for the prince \`shall be' on the one side and on the other side of the holy oblation and of the possession of the city, in front of the holy oblation and in front of the possession of the city, on the west side westward, and on the east side eastward; and in length answerable unto one of the portions, from the west border unto the east border.
 
 **[45:8]** In the land it shall be to him for a possession in Israel: and my princes shall no more oppress my people; but they shall give the land to the house of Israel according to their tribes.
 
@@ -2358,7 +2358,7 @@
 
 **[45:13]** This is the oblation that ye shall offer: the sixth part of an ephah from a homer of wheat; and ye shall give the sixth part of an ephah from a homer of barley;
 
-**[45:14]** and the set portion of oil, of the bath of oil, the tenth part of a bath out of the cor, `which is' ten baths, even a homer; (for ten baths are a homer;)
+**[45:14]** and the set portion of oil, of the bath of oil, the tenth part of a bath out of the cor, \`which is' ten baths, even a homer; (for ten baths are a homer;)
 
 **[45:15]** and one lamb of the flock, out of two hundred, from the well-watered pastures of Israel; -for a meal-offering, and for a burnt-offering, and for peace-offerings, to make atonement for them, saith the Lord Jehovah.
 
@@ -2366,13 +2366,13 @@
 
 **[45:17]** And it shall be the prince's part to give the burnt-offerings, and the meal-offerings, and the drink-offerings, in the feasts, and on the new moons, and on the sabbaths, in all the appointed feasts of the house of Israel: he shall prepare the sin-offering, and the meal-offering, and the burnt-offering, and the peace-offerings, to make atonement for the house of Israel.
 
-**[45:18]** Thus saith the Lord Jehovah: In the first `month', in the first `day' of the month, thou shalt take a young bullock without blemish; and thou shalt cleanse the sanctuary.
+**[45:18]** Thus saith the Lord Jehovah: In the first \`month', in the first \`day' of the month, thou shalt take a young bullock without blemish; and thou shalt cleanse the sanctuary.
 
 **[45:19]** And the priest shall take of the blood of the sin-offering, and put it upon the door-posts of the house, and upon the four corners of the ledge of the altar, and upon the posts of the gate of the inner court.
 
-**[45:20]** And so thou shalt do on the seventh `day' of the month for every one that erreth, and for him that is simple: so shall ye make atonement for the house.
+**[45:20]** And so thou shalt do on the seventh \`day' of the month for every one that erreth, and for him that is simple: so shall ye make atonement for the house.
 
-**[45:21]** In the first `month', in the fourteenth day of the month, ye shall have the passover, a feast of seven days; unleavened bread shall be eaten.
+**[45:21]** In the first \`month', in the fourteenth day of the month, ye shall have the passover, a feast of seven days; unleavened bread shall be eaten.
 
 **[45:22]** And upon that day shall the prince prepare for himself and for all the people of the land a bullock for a sin-offering.
 
@@ -2380,7 +2380,7 @@
 
 **[45:24]** And he shall prepare a meal-offering, an ephah for a bullock, and an ephah for a ram, and a hin of oil to an ephah.
 
-**[45:25]** In the seventh `month', in the fifteenth day of the month, in the feast, shall he do the like the seven days; according to the sin-offering, according to the burnt-offering, and according to the meal-offering, and according to the oil.
+**[45:25]** In the seventh \`month', in the fifteenth day of the month, in the feast, shall he do the like the seven days; according to the sin-offering, according to the burnt-offering, and according to the meal-offering, and according to the oil.
 
 **[46:1]** Thus saith the Lord Jehovah: The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath day it shall be opened, and on the day of the new moon it shall be opened.
 
@@ -2400,7 +2400,7 @@
 
 **[46:9]** But when the people of the land shall come before Jehovah in the appointed feasts, he that entereth by the way of the north gate to worship shall go forth by the way of the south gate; and he that entereth by the way of the south gate shall go forth by the way of the north gate: he shall not return by the way of the gate whereby he came in, but shall go forth straight before him.
 
-**[46:10]** And the prince, when they go in, shall go in in the midst of them; and when they go forth, they shall go forth `together'.
+**[46:10]** And the prince, when they go in, shall go in in the midst of them; and when they go forth, they shall go forth \`together'.
 
 **[46:11]** And in the feasts and in the solemnities the meal-offering shall be an ephah for a bullock, and an ephah for a ram, and for the lambs as he is able to give, and a hin of oil to an ephah.
 
@@ -2420,11 +2420,11 @@
 
 **[46:19]** Then he brought me through the entry, which was at the side of the gate, into the holy chambers for the priests, which looked toward the north: and, behold, there was a place on the hinder part westward.
 
-**[46:20]** And he said unto me, This is the place where the priests shall boil the trespass-offering and the sin-offering, `and' where they shall bake the meal-offering; that they bring them not forth into the outer court, to sanctify the people.
+**[46:20]** And he said unto me, This is the place where the priests shall boil the trespass-offering and the sin-offering, \`and' where they shall bake the meal-offering; that they bring them not forth into the outer court, to sanctify the people.
 
 **[46:21]** Then he brought me forth into the outer court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court there was a court.
 
-**[46:22]** In the four corners of the court there were courts inclosed, forty `cubits' long and thirty broad: these four in the corners were of one measure.
+**[46:22]** In the four corners of the court there were courts inclosed, forty \`cubits' long and thirty broad: these four in the corners were of one measure.
 
 **[46:23]** And there was a wall round about in them, round about the four, and boiling-places were made under the walls round about.
 
@@ -2432,21 +2432,21 @@
 
 **[47:1]** And he brought me back unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward; (for the forefront of the house was toward the east;) and the waters came down from under, from the right side of the house, on the south of the altar.
 
-**[47:2]** Then he brought me out by the way of the gate northward, and led me round by the way without unto the outer gate, by the way of `the gate' that looketh toward the east; and, behold, there ran out waters on the right side.
+**[47:2]** Then he brought me out by the way of the gate northward, and led me round by the way without unto the outer gate, by the way of \`the gate' that looketh toward the east; and, behold, there ran out waters on the right side.
 
 **[47:3]** When the man went forth eastward with the line in his hand, he measured a thousand cubits, and he caused me to pass through the waters, waters that were to the ankles.
 
-**[47:4]** Again he measured a thousand, and caused me to pass through the waters, waters that were to the knees. Again he measured a thousand, and caused me to pass through `the waters', waters that were to the loins.
+**[47:4]** Again he measured a thousand, and caused me to pass through the waters, waters that were to the knees. Again he measured a thousand, and caused me to pass through \`the waters', waters that were to the loins.
 
-**[47:5]** Afterward he measured a thousand; `and it was' a river that I could not pass through; for the waters were risen, waters to swim in, a river that could not be passed through.
+**[47:5]** Afterward he measured a thousand; \`and it was' a river that I could not pass through; for the waters were risen, waters to swim in, a river that could not be passed through.
 
-**[47:6]** And he said unto me, Son of man, hast thou seen `this'? Then he brought me, and caused me to return to the bank of the river.
+**[47:6]** And he said unto me, Son of man, hast thou seen \`this'? Then he brought me, and caused me to return to the bank of the river.
 
 **[47:7]** Now when I had returned, behold, upon the bank of the river were very many trees on the one side and on the other.
 
-**[47:8]** Then said he unto me, These waters issue forth toward the eastern region, and shall go down into the Arabah; and they shall go toward the sea; into the sea `shall the waters go' which were made to issue forth; and the waters shall be healed.
+**[47:8]** Then said he unto me, These waters issue forth toward the eastern region, and shall go down into the Arabah; and they shall go toward the sea; into the sea \`shall the waters go' which were made to issue forth; and the waters shall be healed.
 
-**[47:9]** And it shall come to pass, that every living creature which swarmeth, in every place whither the rivers come, shall live; and there shall be a very great multitude of fish; for these waters are come thither, and `the waters of the sea' shall be healed, and everything shall live whithersoever the river cometh.
+**[47:9]** And it shall come to pass, that every living creature which swarmeth, in every place whither the rivers come, shall live; and there shall be a very great multitude of fish; for these waters are come thither, and \`the waters of the sea' shall be healed, and everything shall live whithersoever the river cometh.
 
 **[47:10]** And it shall come to pass, that fishers shall stand by it: from En-gedi even unto En-eglaim shall be a place for the spreading of nets; their fish shall be after their kinds, as the fish of the great sea, exceeding many.
 
@@ -2454,7 +2454,7 @@
 
 **[47:12]** And by the river upon the bank thereof, on this side and on that side, shall grow every tree for food, whose leaf shall not whither, neither shall the fruit thereof fail: it shall bring forth new fruit every month, because the waters thereof issue out of the sanctuary; and the fruit thereof shall be for food, and the leaf thereof for healing.
 
-**[47:13]** Thus saith the Lord Jehovah: This shall be the border, whereby ye shall divide the land for inheritance according to the twelve tribes of Israel: Joseph `shall have two' portions.
+**[47:13]** Thus saith the Lord Jehovah: This shall be the border, whereby ye shall divide the land for inheritance according to the twelve tribes of Israel: Joseph \`shall have two' portions.
 
 **[47:14]** And ye shall inherit it, one as well as another; for I sware to give it unto your fathers: and this land shall fall unto you for inheritance.
 
@@ -2464,11 +2464,11 @@
 
 **[47:17]** And the border from the sea, shall be Hazar-enon at the border of Damascus; and on the north northward is the border of Hamath. This is the north side.
 
-**[47:18]** And the east side, between Hauran and Damascus and Gilead, and the land of Israel, shall be the Jordan; from the `north' border unto the east sea shall ye measure. This is the east side.
+**[47:18]** And the east side, between Hauran and Damascus and Gilead, and the land of Israel, shall be the Jordan; from the \`north' border unto the east sea shall ye measure. This is the east side.
 
-**[47:19]** And the south side southward shall be from Tamar as far as the waters of Meriboth-kadesh, to the brook `of Egypt', unto the great sea. This is the south side southward.
+**[47:19]** And the south side southward shall be from Tamar as far as the waters of Meriboth-kadesh, to the brook \`of Egypt', unto the great sea. This is the south side southward.
 
-**[47:20]** And the west side shall be the great sea, from the `south' border as far as over against the entrance of Hamath. This is the west side.
+**[47:20]** And the west side shall be the great sea, from the \`south' border as far as over against the entrance of Hamath. This is the west side.
 
 **[47:21]** So shall ye divide this land unto you according to the tribes of Israel.
 
@@ -2476,27 +2476,27 @@
 
 **[47:23]** And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord Jehovah.
 
-**[48:1]** Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar-enan at the border of Damascus, northward beside Hamath, (and they shall have their sides east `and' west,) Dan, one `portion'.
+**[48:1]** Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar-enan at the border of Damascus, northward beside Hamath, (and they shall have their sides east \`and' west,) Dan, one \`portion'.
 
-**[48:2]** And by the border of Dan, from the east side unto the west side, Asher, one `portion'.
+**[48:2]** And by the border of Dan, from the east side unto the west side, Asher, one \`portion'.
 
-**[48:3]** And by the border of Asher, from the east side even unto the west side, Naphtali, one `portion'.
+**[48:3]** And by the border of Asher, from the east side even unto the west side, Naphtali, one \`portion'.
 
-**[48:4]** And by the border of Naphtali, from the east side unto the west side, Manasseh, one `portion'.
+**[48:4]** And by the border of Naphtali, from the east side unto the west side, Manasseh, one \`portion'.
 
-**[48:5]** And by the border of Manasseh, from the east side unto the west side, Ephraim, one `portion'.
+**[48:5]** And by the border of Manasseh, from the east side unto the west side, Ephraim, one \`portion'.
 
-**[48:6]** And by the border of Ephraim, from the east side even unto the west side, Reuben, one `portion'.
+**[48:6]** And by the border of Ephraim, from the east side even unto the west side, Reuben, one \`portion'.
 
-**[48:7]** And by the border of Reuben, from the east side unto the west side, Judah, one `portion'.
+**[48:7]** And by the border of Reuben, from the east side unto the west side, Judah, one \`portion'.
 
-**[48:8]** And by the border of Judah, from the east side unto the west side, shall be the oblation which ye shall offer, five and twenty thousand `reeds' in breadth, and in length as one of the portions, from the east side unto the west side: and the sanctuary shall be in the midst of it.
+**[48:8]** And by the border of Judah, from the east side unto the west side, shall be the oblation which ye shall offer, five and twenty thousand \`reeds' in breadth, and in length as one of the portions, from the east side unto the west side: and the sanctuary shall be in the midst of it.
 
-**[48:9]** The oblation that ye shall offer unto Jehovah shall be five and twenty thousand `reeds' in length, and ten thousand in breadth.
+**[48:9]** The oblation that ye shall offer unto Jehovah shall be five and twenty thousand \`reeds' in length, and ten thousand in breadth.
 
-**[48:10]** And for these, even for the priests, shall be the holy oblation: toward the north five and twenty thousand `in length', and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of Jehovah shall be in the midst thereof.
+**[48:10]** And for these, even for the priests, shall be the holy oblation: toward the north five and twenty thousand \`in length', and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of Jehovah shall be in the midst thereof.
 
-**[48:11]** `It shall be' for the priests that are sanctified of the sons of Zadok, that have kept my charge, that went not astray when the children of Israel went astray, as the Levites went astray.
+**[48:11]** \`It shall be' for the priests that are sanctified of the sons of Zadok, that have kept my charge, that went not astray when the children of Israel went astray, as the Levites went astray.
 
 **[48:12]** And it shall be unto them an oblation from the oblation of the land, a thing most holy, by the border of the Levites.
 
@@ -2520,28 +2520,28 @@
 
 **[48:22]** Moreover from the possession of the Levites, and from the possession of the city, being in the midst of that which is the prince's, between the border of Judah and the border of Benjamin, it shall be for the prince.
 
-**[48:23]** And as for the rest of the tribes: from the east side unto the west side, Benjamin, one `portion'.
+**[48:23]** And as for the rest of the tribes: from the east side unto the west side, Benjamin, one \`portion'.
 
-**[48:24]** And by the border of Benjamin, from the east side unto the west side, Simeon, one `portion'.
+**[48:24]** And by the border of Benjamin, from the east side unto the west side, Simeon, one \`portion'.
 
-**[48:25]** And by the border of Simeon, from the east side unto the west side, Issachar, one `portion'.
+**[48:25]** And by the border of Simeon, from the east side unto the west side, Issachar, one \`portion'.
 
-**[48:26]** And by the border of Issachar, from the east side unto the west side, Zebulun, one `portion'.
+**[48:26]** And by the border of Issachar, from the east side unto the west side, Zebulun, one \`portion'.
 
-**[48:27]** And by the border of Zebulun, from the east side unto the west side, Gad, one `portion'.
+**[48:27]** And by the border of Zebulun, from the east side unto the west side, Gad, one \`portion'.
 
-**[48:28]** And by the border of Gad, at the south side southward, the border shall be even from Tamar unto the waters of Meribath-kadesh, to the brook `of Egypt', unto the great sea.
+**[48:28]** And by the border of Gad, at the south side southward, the border shall be even from Tamar unto the waters of Meribath-kadesh, to the brook \`of Egypt', unto the great sea.
 
 **[48:29]** This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their several portions, saith the Lord Jehovah.
 
-**[48:30]** And these are the egresses of the city: On the north side four thousand and five hundred `reeds' by measure;
+**[48:30]** And these are the egresses of the city: On the north side four thousand and five hundred \`reeds' by measure;
 
 **[48:31]** and the gates of the city shall be after the names of the tribes of Israel, three gates northward: the gate of Reuben, one; the gate of Judah, one; the gate of Levi, one.
 
-**[48:32]** And at the east side four thousand and five hundred `reeds', and three gates: even the gate of Joseph, one; the gate of Benjamin, one; the gate of Dan, one.
+**[48:32]** And at the east side four thousand and five hundred \`reeds', and three gates: even the gate of Joseph, one; the gate of Benjamin, one; the gate of Dan, one.
 
-**[48:33]** And at the south side four thousand and five hundred `reeds' by measure, and three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.
+**[48:33]** And at the south side four thousand and five hundred \`reeds' by measure, and three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.
 
-**[48:34]** At the west side four thousand and five hundred `reeds', with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one.
+**[48:34]** At the west side four thousand and five hundred \`reeds', with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one.
 
-**[48:35]** It shall be eighteen thousand `reeds' round about: and the name of the city from that day shall be, Jehovah is there.
+**[48:35]** It shall be eighteen thousand \`reeds' round about: and the name of the city from that day shall be, Jehovah is there.

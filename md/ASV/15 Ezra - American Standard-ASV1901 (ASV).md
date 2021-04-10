@@ -1,6 +1,6 @@
 # Ezra - American Standard-ASV1901 (ASV)
 
-**[1:1]** Now in the first year of Cyrus king of Persia, that the word of Jehovah by the mouth of Jeremiah might be accomplished, Jehovah stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and `put it' also in writing, saying,
+**[1:1]** Now in the first year of Cyrus king of Persia, that the word of Jehovah by the mouth of Jeremiah might be accomplished, Jehovah stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and \`put it' also in writing, saying,
 
 **[1:2]** Thus saith Cyrus king of Persia, All the kingdoms of the earth hath Jehovah, the God of heaven, given me; and he hath charged me to build him a house in Jerusalem, which is in Judah.
 
@@ -8,7 +8,7 @@
 
 **[1:4]** And whosoever is left, in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, besides the freewill-offering for the house of God which is in Jerusalem.
 
-**[1:5]** Then rose up the heads of fathers' `houses' of Judah and Benjamin, and the priests, and the Levites, even all whose spirit God had stirred to go up to build the house of Jehovah which is in Jerusalem.
+**[1:5]** Then rose up the heads of fathers' \`houses' of Judah and Benjamin, and the priests, and the Levites, even all whose spirit God had stirred to go up to build the house of Jehovah which is in Jerusalem.
 
 **[1:6]** And all they that were round about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, besides all that was willingly offered.
 
@@ -32,7 +32,7 @@
 
 **[2:5]** The children of Arah, seven hundred seventy and five.
 
-**[2:6]** The children of Pahath-moab, of the children of Jeshua `and' Joab, two thousand eight hundred and twelve.
+**[2:6]** The children of Pahath-moab, of the children of Jeshua \`and' Joab, two thousand eight hundred and twelve.
 
 **[2:7]** The children of Elam, a thousand two hundred fifty and four.
 
@@ -138,13 +138,13 @@
 
 **[2:58]** All the Nethinim, and the children of Solomon's servants, were three hundred ninety and two.
 
-**[2:59]** And these were they that went up from Tel-melah, Tel-harsha, Cherub, Addan, `and' Immer; but they could not show their fathers' houses, and their seed, whether they were of Israel:
+**[2:59]** And these were they that went up from Tel-melah, Tel-harsha, Cherub, Addan, \`and' Immer; but they could not show their fathers' houses, and their seed, whether they were of Israel:
 
 **[2:60]** the children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.
 
 **[2:61]** And of the children of the priests: the children of Habaiah, the children of Hakkoz, the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name.
 
-**[2:62]** These sought their register `among' those that were reckoned by genealogy, but they were not found: therefore were they deemed polluted and put from the priesthood.
+**[2:62]** These sought their register \`among' those that were reckoned by genealogy, but they were not found: therefore were they deemed polluted and put from the priesthood.
 
 **[2:63]** And the governor said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.
 
@@ -154,9 +154,9 @@
 
 **[2:66]** Their horses were seven hundred thirty and six; their mules, two hundred forty and five;
 
-**[2:67]** their camels, four hundred thirty and five; `their' asses, six thousand seven hundred and twenty.
+**[2:67]** their camels, four hundred thirty and five; \`their' asses, six thousand seven hundred and twenty.
 
-**[2:68]** And some of the heads of fathers' `houses', when they came to the house of Jehovah which is in Jerusalem, offered willingly for the house of God to set it up in its place:
+**[2:68]** And some of the heads of fathers' \`houses', when they came to the house of Jehovah which is in Jerusalem, offered willingly for the house of God to set it up in its place:
 
 **[2:69]** they gave after their ability into the treasury of the work threescore and one thousand darics of gold, and five thousand pounds of silver, and one hundred priests' garments.
 
@@ -168,9 +168,9 @@
 
 **[3:3]** And they set the altar upon its base; for fear was upon them because of the peoples of the countries: and they offered burnt-offerings thereon unto Jehovah, even burnt-offerings morning and evening.
 
-**[3:4]** And they kept the feast of tabernacles, as it is written, and `offered' the daily burnt-offerings by number, according to the ordinance, as the duty of every day required;
+**[3:4]** And they kept the feast of tabernacles, as it is written, and \`offered' the daily burnt-offerings by number, according to the ordinance, as the duty of every day required;
 
-**[3:5]** and afterward the continual burnt-offering, and `the offerings' of the new moons, and of all the set feasts of Jehovah that were consecrated, and of every one that willingly offered a freewill-offering unto Jehovah.
+**[3:5]** and afterward the continual burnt-offering, and \`the offerings' of the new moons, and of all the set feasts of Jehovah that were consecrated, and of every one that willingly offered a freewill-offering unto Jehovah.
 
 **[3:6]** From the first day of the seventh month began they to offer burnt-offerings unto Jehovah: but the foundation of the temple of Jehovah was not yet laid.
 
@@ -182,17 +182,17 @@
 
 **[3:10]** And when the builders laid the foundation of the temple of Jehovah, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise Jehovah, after the order of David king of Israel.
 
-**[3:11]** And they sang one to another in praising and giving thanks unto Jehovah, `saying', For he is good, for his lovingkindness `endureth' for ever toward Israel. And all the people shouted with a great shout, when they praised Jehovah, because the foundation of the house of Jehovah was laid.
+**[3:11]** And they sang one to another in praising and giving thanks unto Jehovah, \`saying', For he is good, for his lovingkindness \`endureth' for ever toward Israel. And all the people shouted with a great shout, when they praised Jehovah, because the foundation of the house of Jehovah was laid.
 
-**[3:12]** But many of the priests and Levites and heads of fathers' `houses', the old men that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
+**[3:12]** But many of the priests and Levites and heads of fathers' \`houses', the old men that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
 
 **[3:13]** so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard afar off.
 
 **[4:1]** Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple unto Jehovah, the God of Israel;
 
-**[4:2]** then they drew near to Zerubbabel, and to the heads of fathers' `houses', and said unto them, Let us build with you; for we seek your God, as ye do; and we sacrifice unto him since the days of Esar-haddon king of Assyria, who brought us up hither.
+**[4:2]** then they drew near to Zerubbabel, and to the heads of fathers' \`houses', and said unto them, Let us build with you; for we seek your God, as ye do; and we sacrifice unto him since the days of Esar-haddon king of Assyria, who brought us up hither.
 
-**[4:3]** But Zerubbabel, and Jeshua, and the rest of the heads of fathers' `houses' of Israel, said unto them, Ye have nothing to do with us in building a house unto our God; but we ourselves together will build unto Jehovah, the God of Israel, as king Cyrus the king of Persia hath commanded us.
+**[4:3]** But Zerubbabel, and Jeshua, and the rest of the heads of fathers' \`houses' of Israel, said unto them, Ye have nothing to do with us in building a house unto our God; but we ourselves together will build unto Jehovah, the God of Israel, as king Cyrus the king of Persia hath commanded us.
 
 **[4:4]** Then the people of the land weakened the hands of the people of Judah, and troubled them in building,
 
@@ -200,13 +200,13 @@
 
 **[4:6]** And in the reign of Ahasuerus, in the beginning of his reign, wrote they an accusation against the inhabitants of Judah and Jerusalem.
 
-**[4:7]** And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of his companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian `character', and set forth in the Syrian `tongue'.
+**[4:7]** And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of his companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian \`character', and set forth in the Syrian \`tongue'.
 
 **[4:8]** Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:
 
-**[4:9]** then `wrote' Rehum the chancellor, and Shimshai the scribe, and the rest of their companions, the Dinaites, and the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Shushanchites, the Dehaites, the Elamites,
+**[4:9]** then \`wrote' Rehum the chancellor, and Shimshai the scribe, and the rest of their companions, the Dinaites, and the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Shushanchites, the Dehaites, the Elamites,
 
-**[4:10]** and the rest of the nations whom the great and noble Osnappar brought over, and set in the city of Samaria, and in the rest `of the country' beyond the River, and so forth.
+**[4:10]** and the rest of the nations whom the great and noble Osnappar brought over, and set in the city of Samaria, and in the rest \`of the country' beyond the River, and so forth.
 
 **[4:11]** This is the copy of the letter that they sent unto Artaxerxes the king: Thy servants the men beyond the River, and so forth.
 
@@ -220,13 +220,13 @@
 
 **[4:16]** We certify the king that, if this city be builded, and the walls finished, by this means thou shalt have no portion beyond the River.
 
-**[4:17]** `Then' sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and in the rest `of the country' beyond the River: Peace, and so forth.
+**[4:17]** \`Then' sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and in the rest \`of the country' beyond the River: Peace, and so forth.
 
 **[4:18]** The letter which ye sent unto us hath been plainly read before me.
 
 **[4:19]** And I decreed, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and that rebellion and sedition have been made therein.
 
-**[4:20]** There have been mighty kings also over Jerusalem, who have ruled over all `the country' beyond the River; and tribute, custom, and toll, was paid unto them.
+**[4:20]** There have been mighty kings also over Jerusalem, who have ruled over all \`the country' beyond the River; and tribute, custom, and toll, was paid unto them.
 
 **[4:21]** Make ye now a decree to cause these men to cease, and that this city be not builded, until a decree shall be made by me.
 
@@ -236,7 +236,7 @@
 
 **[4:24]** Then ceased the work of the house of God which is at Jerusalem; and it ceased until the second year of the reign of Darius king of Persia.
 
-**[5:1]** Now the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem; in the name of the God of Israel `prophesied they' unto them.
+**[5:1]** Now the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem; in the name of the God of Israel \`prophesied they' unto them.
 
 **[5:2]** Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem; and with them were the prophets of God, helping them.
 
@@ -286,13 +286,13 @@
 
 **[6:8]** Moreover I make a decree what ye shall do to these elders of the Jews for the building of this house of God: that of the king's goods, even of the tribute beyond the River, expenses be given with all diligence unto these men, that they be not hindered.
 
-**[6:9]** And that which they have need of, both young bullocks, and rams, and lambs, for burnt-offerings to the God of heaven; `also' wheat, salt, wine, and oil, according to the word of the priests that are at Jerusalem, let it be given them day by day without fail;
+**[6:9]** And that which they have need of, both young bullocks, and rams, and lambs, for burnt-offerings to the God of heaven; \`also' wheat, salt, wine, and oil, according to the word of the priests that are at Jerusalem, let it be given them day by day without fail;
 
 **[6:10]** that they may offer sacrifices of sweet savor unto the God of heaven, and pray for the life of the king, and of his sons.
 
 **[6:11]** Also I have made a decree, that whosoever shall alter this word, let a beam be pulled out from his house, and let him be lifted up and fastened thereon; and let his house be made a dunghill for this:
 
-**[6:12]** and the God that hath caused his name to dwell there overthrow all kings and peoples that shall put forth their hand to alter `the same', to destroy this house of God which is at Jerusalem. I Darius have made a decree; let it be done with all diligence.
+**[6:12]** and the God that hath caused his name to dwell there overthrow all kings and peoples that shall put forth their hand to alter \`the same', to destroy this house of God which is at Jerusalem. I Darius have made a decree; let it be done with all diligence.
 
 **[6:13]** Then Tattenai, the governor beyond the River, Shethar-bozenai, and their companions, because that Darius the king had sent, did accordingly with all diligence.
 
@@ -306,7 +306,7 @@
 
 **[6:18]** And they set the priests in their divisions, and the Levites in their courses, for the service of God, which is at Jerusalem; as it is written in the book of Moses.
 
-**[6:19]** And the children of the captivity kept the passover upon the fourteenth `day' of the first month.
+**[6:19]** And the children of the captivity kept the passover upon the fourteenth \`day' of the first month.
 
 **[6:20]** For the priests and the Levites had purified themselves together; all of them were pure: and they killed the passover for all the children of the captivity, and for their brethren the priests, and for themselves.
 
@@ -330,7 +330,7 @@
 
 **[7:8]** And he came to Jerusalem in the fifth month, which was in the seventh year of the king.
 
-**[7:9]** For upon the first `day' of the first month began he to go up from Babylon; and on the first `day' of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
+**[7:9]** For upon the first \`day' of the first month began he to go up from Babylon; and on the first \`day' of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
 
 **[7:10]** For Ezra had set his heart to seek the law of Jehovah, and to do it, and to teach in Israel statutes and ordinances.
 
@@ -370,7 +370,7 @@
 
 **[7:28]** and hath extended lovingkindness unto me before the king, and his counsellors, and before all the king's mighty princes. And I was strengthened according to the hand of Jehovah my God upon me, and I gathered together out of Israel chief men to go up with me.
 
-**[8:1]** Now these are the heads of their fathers' `houses', and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king:
+**[8:1]** Now these are the heads of their fathers' \`houses', and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king:
 
 **[8:2]** Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush.
 
@@ -394,7 +394,7 @@
 
 **[8:12]** And of the sons of Azgad, Johanan the son of Hakkatan; and with him a hundred and ten males.
 
-**[8:13]** And of the sons of Adonikam, `that were' the last; and these are their names: Eliphelet, Jeuel, and Shemaiah; and with them threescore males.
+**[8:13]** And of the sons of Adonikam, \`that were' the last; and these are their names: Eliphelet, Jeuel, and Shemaiah; and with them threescore males.
 
 **[8:14]** And of the sons of Bigvai, Uthai and Zabbud; and with them seventy males.
 
@@ -402,7 +402,7 @@
 
 **[8:16]** Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, who were teachers.
 
-**[8:17]** And I sent them forth unto Iddo the chief at the place Casiphia; and I told them what they should say unto Iddo, `and' his brethren the Nethinim, at the place Casiphia, that they should bring unto us ministers for the house of our God.
+**[8:17]** And I sent them forth unto Iddo the chief at the place Casiphia; and I told them what they should say unto Iddo, \`and' his brethren the Nethinim, at the place Casiphia, that they should bring unto us ministers for the house of our God.
 
 **[8:18]** And according to the good hand of our God upon us they brought us a man of discretion, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;
 
@@ -426,11 +426,11 @@
 
 **[8:28]** And I said unto them, Ye are holy unto Jehovah, and the vessels are holy; and the silver and the gold are a freewill-offering unto Jehovah, the God of your fathers.
 
-**[8:29]** Watch ye, and keep them, until ye weigh them before the chiefs of the priests and the Levites, and the princes of the fathers' `houses' of Israel, at Jerusalem, in the chambers of the house of Jehovah.
+**[8:29]** Watch ye, and keep them, until ye weigh them before the chiefs of the priests and the Levites, and the princes of the fathers' \`houses' of Israel, at Jerusalem, in the chambers of the house of Jehovah.
 
 **[8:30]** So the priests and the Levites received the weight of the silver and the gold, and the vessels, to bring them to Jerusalem unto the house of our God.
 
-**[8:31]** Then we departed from the river Ahava on the twelfth `day' of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy and the lier-in-wait by the way.
+**[8:31]** Then we departed from the river Ahava on the twelfth \`day' of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy and the lier-in-wait by the way.
 
 **[8:32]** And we came to Jerusalem, and abode there three days.
 
@@ -442,7 +442,7 @@
 
 **[8:36]** And they delivered the king's commissions unto the king's satraps, and to the governors beyond the River: and they furthered the people and the house of God.
 
-**[9:1]** Now when these things were done, the princes drew near unto me, saying, The people of Israel, and the priests and the Levites, have not separated themselves from the peoples of the lands, `doing' according to their abominations, even of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
+**[9:1]** Now when these things were done, the princes drew near unto me, saying, The people of Israel, and the priests and the Levites, have not separated themselves from the peoples of the lands, \`doing' according to their abominations, even of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
 
 **[9:2]** For they have taken of their daughters for themselves and for their sons, so that the holy seed have mingled themselves with the peoples of the lands: yea, the hand of the princes and rulers hath been chief in this trespass.
 
@@ -482,13 +482,13 @@
 
 **[10:5]** Then arose Ezra, and made the chiefs of the priests, the Levites, and all Israel, to swear that they would do according to this word. So they sware.
 
-**[10:6]** Then Ezra rose up from before the house of God, and went into the chamber of Jehohanan the son of Eliashib: and `when' he came thither, he did eat no bread, nor drink water; for he mourned because of the trespass of them of the captivity.
+**[10:6]** Then Ezra rose up from before the house of God, and went into the chamber of Jehohanan the son of Eliashib: and \`when' he came thither, he did eat no bread, nor drink water; for he mourned because of the trespass of them of the captivity.
 
 **[10:7]** And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;
 
 **[10:8]** and that whosoever came not within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the assembly of the captivity.
 
-**[10:9]** Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within the three days; it was the ninth month, on the twentieth `day' of the month: and all the people sat in the broad place before the house of God, trembling because of this matter, and for the great rain.
+**[10:9]** Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within the three days; it was the ninth month, on the twentieth \`day' of the month: and all the people sat in the broad place before the house of God, trembling because of this matter, and for the great rain.
 
 **[10:10]** And Ezra the priest stood up, and said unto them, Ye have trespassed, and have married foreign women, to increase the guilt of Israel.
 
@@ -500,15 +500,15 @@
 
 **[10:14]** Let now our princes be appointed for all the assembly, and let all them that are in our cities that have married foreign women come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God be turned from us, until this matter be despatched.
 
-**[10:15]** Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this `matter': and Meshullam and Shabbethai the Levite helped them.
+**[10:15]** Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this \`matter': and Meshullam and Shabbethai the Levite helped them.
 
-**[10:16]** And the children of the captivity did so. And Ezra the priest, `with' certain heads of fathers' `houses', after their fathers' houses, and all of them by their names, were set apart; and they sat down in the first day of the tenth month to examine the matter.
+**[10:16]** And the children of the captivity did so. And Ezra the priest, \`with' certain heads of fathers' \`houses', after their fathers' houses, and all of them by their names, were set apart; and they sat down in the first day of the tenth month to examine the matter.
 
 **[10:17]** And they made an end with all the men that had married foreign women by the first day of the first month.
 
-**[10:18]** And among the sons of the priests there were found that had married foreign women: `namely', of the sons of Jeshua, the son of Jozadak, and his brethren, Maaseiah, and Eliezer, and Jarib, and Gedaliah.
+**[10:18]** And among the sons of the priests there were found that had married foreign women: \`namely', of the sons of Jeshua, the son of Jozadak, and his brethren, Maaseiah, and Eliezer, and Jarib, and Gedaliah.
 
-**[10:19]** And they gave their hand that they would put away their wives; and being guilty, `they offered' a ram of the flock for their guilt.
+**[10:19]** And they gave their hand that they would put away their wives; and being guilty, \`they offered' a ram of the flock for their guilt.
 
 **[10:20]** And of the sons of Immer: Hanani and Zebadiah.
 
@@ -532,7 +532,7 @@
 
 **[10:30]** And of the sons of Pahath-moab: Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, and Binnui, and Manasseh.
 
-**[10:31]** And `of' the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
+**[10:31]** And \`of' the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
 
 **[10:32]** Benjamin, Malluch, Shemariah.
 

@@ -12,7 +12,7 @@
 
 **[1:6]** who did testify of thy love before an assembly, whom thou wilt do well, having sent forward worthily of God,
 
-**[1:7]** because for `His' name they went forth, nothing receiving from the nations;
+**[1:7]** because for \`His' name they went forth, nothing receiving from the nations;
 
 **[1:8]** we, then, ought to receive such, that fellow-workers we may become to the truth.
 

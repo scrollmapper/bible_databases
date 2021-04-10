@@ -36,7 +36,7 @@
 
 **[1:18]** And when she saw that she was stedfastly minded to go with her, she left off speaking unto her.
 
-**[1:19]** So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and `the women' said, Is this Naomi?
+**[1:19]** So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and \`the women' said, Is this Naomi?
 
 **[1:20]** And she said unto them, Call me not Naomi, call me Mara; for the Almighty hath dealt very bitterly with me.
 
@@ -118,11 +118,11 @@
 
 **[3:14]** And she lay at his feet until the morning. And she rose up before one could discern another. For he said, Let it not be known that the woman came to the threshing-floor.
 
-**[3:15]** And he said, Bring the mantle that is upon thee, and hold it; and she held it; and he measured six `measures' of barley, and laid it on her: and he went into the city.
+**[3:15]** And he said, Bring the mantle that is upon thee, and hold it; and she held it; and he measured six \`measures' of barley, and laid it on her: and he went into the city.
 
 **[3:16]** And when she came to her mother-in-law, she said, Who art thou, my daughter? And she told her all that the man had done to her.
 
-**[3:17]** And she said, These six `measures' of barley gave he me; for he said, Go not empty unto thy mother-in-law.
+**[3:17]** And she said, These six \`measures' of barley gave he me; for he said, Go not empty unto thy mother-in-law.
 
 **[3:18]** Then said she, Sit still, my daughter, until thou know how the matter will fall; for the man will not rest, until he have finished the thing this day.
 
@@ -138,7 +138,7 @@
 
 **[4:6]** And the near kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance: take thou my right of redemption on thee; for I cannot redeem it.
 
-**[4:7]** Now this was `the custom' in former time in Israel concerning redeeming and concerning exchanging, to confirm all things: a man drew off his shoe, and gave it to his neighbor; and this was the `manner of' attestation in Israel.
+**[4:7]** Now this was \`the custom' in former time in Israel concerning redeeming and concerning exchanging, to confirm all things: a man drew off his shoe, and gave it to his neighbor; and this was the \`manner of' attestation in Israel.
 
 **[4:8]** So the near kinsman said unto Boaz, Buy it for thyself. And he drew off his shoe.
 

@@ -42,7 +42,7 @@
 
 **[2:6]** Thus saith Jehovah: For three transgressions of Israel, yea, for four, I will not turn away the punishment thereof; because they have sold the righteous for silver, and the needy for a pair of shoes-
 
-**[2:7]** they that pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father go unto the `same' maiden, to profane my holy name:
+**[2:7]** they that pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father go unto the \`same' maiden, to profane my holy name:
 
 **[2:8]** and they lay themselves down beside every altar upon clothes taken in pledge; and in the house of their God they drink the wine of such as have been fined.
 
@@ -54,11 +54,11 @@
 
 **[2:12]** But ye gave the Nazirites wine to drink, and commanded the prophets, saying, Prophesy not.
 
-**[2:13]** Behold, I will press `you' in your place, as a cart presseth that is full of sheaves.
+**[2:13]** Behold, I will press \`you' in your place, as a cart presseth that is full of sheaves.
 
 **[2:14]** And flight shall perish from the swift; and the strong shall not strengthen his force; neither shall the mighty deliver himself;
 
-**[2:15]** neither shall he stand that handleth the bow; and he that is swift of foot shall not deliver `himself'; neither shall he that rideth the horse deliver himself;
+**[2:15]** neither shall he stand that handleth the bow; and he that is swift of foot shall not deliver \`himself'; neither shall he that rideth the horse deliver himself;
 
 **[2:16]** and he that is courageous among the mighty shall flee away naked in that day, saith Jehovah.
 
@@ -70,7 +70,7 @@
 
 **[3:4]** Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?
 
-**[3:5]** Can a bird fall in a snare upon the earth, where no gin is `set' for him? shall a snare spring up from the ground, and have taken nothing at all?
+**[3:5]** Can a bird fall in a snare upon the earth, where no gin is \`set' for him? shall a snare spring up from the ground, and have taken nothing at all?
 
 **[3:6]** Shall the trumpet be blown in a city, and the people not be afraid? shall evil befall a city, and Jehovah hath not done it?
 
@@ -82,7 +82,7 @@
 
 **[3:10]** For they know not to do right, saith Jehovah, who store up violence and robbery in their palaces.
 
-**[3:11]** Therefore thus saith the Lord Jehovah: An adversary `there shall be', even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be plundered.
+**[3:11]** Therefore thus saith the Lord Jehovah: An adversary \`there shall be', even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be plundered.
 
 **[3:12]** Thus saith Jehovah: As the shepherd rescueth out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued that sit in Samaria in the corner of a couch, and on the silken cushions of a bed.
 
@@ -96,9 +96,9 @@
 
 **[4:2]** The Lord Jehovah hath sworn by his holiness, that, lo, the days shall come upon you, that they shall take you away with hooks, and your residue with fish-hooks.
 
-**[4:3]** And ye shall go out at the breaches, every one straight before her; and ye shall cast `yourselves' into Harmon, saith Jehovah.
+**[4:3]** And ye shall go out at the breaches, every one straight before her; and ye shall cast \`yourselves' into Harmon, saith Jehovah.
 
-**[4:4]** Come to Beth-el, and transgress; to Gilgal, `and' multiply transgression; and bring your sacrifices every morning, `and' your tithes every three days;
+**[4:4]** Come to Beth-el, and transgress; to Gilgal, \`and' multiply transgression; and bring your sacrifices every morning, \`and' your tithes every three days;
 
 **[4:5]** and offer a sacrifice of thanksgiving of that which is leavened, and proclaim freewill-offerings and publish them: for this pleaseth you, O ye children of Israel, saith the Lord Jehovah.
 
@@ -112,9 +112,9 @@
 
 **[4:10]** I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have carried away your horses; and I have made the stench of your camp to come up even into your nostrils: yet have ye not returned unto me, saith Jehovah.
 
-**[4:11]** I have overthrown `cities' among you, as when God overthrew Sodom and Gomorrah, and ye were as a brand plucked out of the burning: yet have ye not returned unto me, saith Jehovah.
+**[4:11]** I have overthrown \`cities' among you, as when God overthrew Sodom and Gomorrah, and ye were as a brand plucked out of the burning: yet have ye not returned unto me, saith Jehovah.
 
-**[4:12]** Therefore thus will I do unto thee, O Israel; `and' because I will do this unto thee, prepare to meet thy God, O Israel.
+**[4:12]** Therefore thus will I do unto thee, O Israel; \`and' because I will do this unto thee, prepare to meet thy God, O Israel.
 
 **[4:13]** For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought; that maketh the morning darkness, and treadeth upon the high places of the Earth-jehovah, the God of hosts, is his name.
 
@@ -132,7 +132,7 @@
 
 **[5:7]** Ye who turn justice to wormwood, and cast down righteousness to the earth,
 
-**[5:8]** `seek him' that maketh the Pleiades and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night; that calleth for the waters of the sea, and poureth them out upon the face of the earth (Jehovah is his name);
+**[5:8]** \`seek him' that maketh the Pleiades and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night; that calleth for the waters of the sea, and poureth them out upon the face of the earth (Jehovah is his name);
 
 **[5:9]** that bringeth sudden destruction upon the strong, so that destruction cometh upon the fortress.
 
@@ -140,7 +140,7 @@
 
 **[5:11]** Forasmuch therefore as ye trample upon the poor, and take exactions from him of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink the wine thereof.
 
-**[5:12]** For I know how manifold are your transgressions, and how mighty are your sins-ye that afflict the just, that take a bribe, and that turn aside the needy in the gate `from their right'.
+**[5:12]** For I know how manifold are your transgressions, and how mighty are your sins-ye that afflict the just, that take a bribe, and that turn aside the needy in the gate \`from their right'.
 
 **[5:13]** Therefore he that is prudent shall keep silence in such a time; for it is an evil time.
 
@@ -194,7 +194,7 @@
 
 **[6:11]** For, behold, Jehovah commandeth, and the great house shall be smitten with breaches, and the little house with clefts.
 
-**[6:12]** Shall horses run upon the rock? will one plow `there' with oxen? that ye have turned justice into gall, and the fruit of righteousness into wormwood;
+**[6:12]** Shall horses run upon the rock? will one plow \`there' with oxen? that ye have turned justice into gall, and the fruit of righteousness into wormwood;
 
 **[6:13]** ye that rejoice in a thing of nought, that say, Have we not taken to us horns by our own strength?
 
@@ -230,7 +230,7 @@
 
 **[7:15]** and Jehovah took me from following the flock, and Jehovah said unto me, Go, prophesy unto my people Israel.
 
-**[7:16]** Now therefore hear thou the word of Jehovah: Thou sayest, Prophesy not against Israel, and drop not `thy word' against the house of Isaac;
+**[7:16]** Now therefore hear thou the word of Jehovah: Thou sayest, Prophesy not against Israel, and drop not \`thy word' against the house of Isaac;
 
 **[7:17]** therefore thus saith Jehovah: Thy wife shall be a harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou thyself shalt die in a land that is unclean, and Israel shall surely be led away captive out of his land.
 
@@ -270,15 +270,15 @@
 
 **[9:4]** And though they go into captivity before their enemies, thence will I command the sword, and it shall slay them: and I will set mine eyes upon them for evil, and not for good.
 
-**[9:5]** For the Lord, Jehovah of hosts, `is' he that toucheth the land and it melteth, and all that dwell therein shall mourn; and it shall rise up wholly like the River, and shall sink again, like the River of Egypt;
+**[9:5]** For the Lord, Jehovah of hosts, \`is' he that toucheth the land and it melteth, and all that dwell therein shall mourn; and it shall rise up wholly like the River, and shall sink again, like the River of Egypt;
 
-**[9:6]** `it is' he that buildeth his chambers in the heavens, and hath founded his vault upon the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth; Jehovah is his name.
+**[9:6]** \`it is' he that buildeth his chambers in the heavens, and hath founded his vault upon the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth; Jehovah is his name.
 
 **[9:7]** Are ye not as the children of the Ethiopians unto me, O children of Israel? saith Jehovah. Have not I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?
 
 **[9:8]** Behold, the eyes of the Lord Jehovah are upon the sinful kingdom, and I will destroy it from off the face of the earth; save that I will not utterly destroy the house of Jacob, saith Jehovah.
 
-**[9:9]** For, lo, I will command, and I will sift the house of Israel among all the nations, like as `grain' is sifted in a sieve, yet shall not the least kernel fall upon the earth.
+**[9:9]** For, lo, I will command, and I will sift the house of Israel among all the nations, like as \`grain' is sifted in a sieve, yet shall not the least kernel fall upon the earth.
 
 **[9:10]** All the sinners of my people shall die by the sword, who say, The evil shall not overtake nor meet us.
 

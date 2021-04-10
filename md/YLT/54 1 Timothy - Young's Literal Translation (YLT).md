@@ -14,7 +14,7 @@
 
 **[1:7]** willing to be teachers of law, not understanding either the things they say, nor concerning what they asseverate,
 
-**[1:8]** and we have known that the law `is' good, if any one may use it lawfully;
+**[1:8]** and we have known that the law \`is' good, if any one may use it lawfully;
 
 **[1:9]** having known this, that for a righteous man law is not set, but for lawless and insubordinate persons, ungodly and sinners, impious and profane, parricides and matricides, men-slayers,
 
@@ -22,17 +22,17 @@
 
 **[1:11]** according to the good news of the glory of the blessed God, with which I was entrusted.
 
-**[1:12]** And I give thanks to him who enabled me -- Christ Jesus our Lord -- that he did reckon me stedfast, having put `me' to the ministration,
+**[1:12]** And I give thanks to him who enabled me -- Christ Jesus our Lord -- that he did reckon me stedfast, having put \`me' to the ministration,
 
-**[1:13]** who before was speaking evil, and persecuting, and insulting, but I found kindness, because, being ignorant, I did `it' in unbelief,
+**[1:13]** who before was speaking evil, and persecuting, and insulting, but I found kindness, because, being ignorant, I did \`it' in unbelief,
 
-**[1:14]** and exceedingly abound did the grace of our Lord, with faith and love that `is' in Christ Jesus:
+**[1:14]** and exceedingly abound did the grace of our Lord, with faith and love that \`is' in Christ Jesus:
 
-**[1:15]** stedfast `is' the word, and of all acceptation worthy, that Christ Jesus came to the world to save sinners -- first of whom I am;
+**[1:15]** stedfast \`is' the word, and of all acceptation worthy, that Christ Jesus came to the world to save sinners -- first of whom I am;
 
 **[1:16]** but because of this I found kindness, that in me first Jesus Christ might shew forth all long-suffering, for a pattern of those about to believe on him to life age-during:
 
-**[1:17]** and to the King of the ages, the incorruptible, invisible, only wise God, `is' honour and glory -- to the ages of the ages! Amen.
+**[1:17]** and to the King of the ages, the incorruptible, invisible, only wise God, \`is' honour and glory -- to the ages of the ages! Amen.
 
 **[1:18]** This charge I commit to thee, child Timotheus, according to the prophesies that went before upon thee, that thou mayest war in them the good warfare,
 
@@ -44,11 +44,11 @@
 
 **[2:2]** for kings, and all who are in authority, that a quiet and peaceable life we may lead in all piety and gravity,
 
-**[2:3]** for this `is' right and acceptable before God our Saviour,
+**[2:3]** for this \`is' right and acceptable before God our Saviour,
 
 **[2:4]** who doth will all men to be saved, and to come to the full knowledge of the truth;
 
-**[2:5]** for one `is' God, one also `is' mediator of God and of men, the man Christ Jesus,
+**[2:5]** for one \`is' God, one also \`is' mediator of God and of men, the man Christ Jesus,
 
 **[2:6]** who did give himself a ransom for all -- the testimony in its own times --
 
@@ -70,7 +70,7 @@
 
 **[2:15]** and she shall be saved through the child-bearing, if they remain in faith, and love, and sanctification, with sobriety.
 
-**[3:1]** Stedfast `is' the word: If any one the oversight doth long for, a right work he desireth;
+**[3:1]** Stedfast \`is' the word: If any one the oversight doth long for, a right work he desireth;
 
 **[3:2]** it behoveth, therefore, the overseer to be blameless, of one wife a husband, vigilant, sober, decent, a friend of strangers, apt to teach,
 
@@ -78,7 +78,7 @@
 
 **[3:4]** his own house leading well, having children in subjection with all gravity,
 
-**[3:5]** (and if any one his own house `how' to lead hath not known, how an assembly of God shall he take care of?)
+**[3:5]** (and if any one his own house \`how' to lead hath not known, how an assembly of God shall he take care of?)
 
 **[3:6]** not a new convert, lest having been puffed up he may fall to a judgment of the devil;
 
@@ -94,11 +94,11 @@
 
 **[3:12]** Ministrants -- let them be of one wife husbands; the children leading well, and their own houses,
 
-**[3:13]** for those who did minister well a good step to themselves do acquire, and much boldness in faith that `is' in Christ Jesus.
+**[3:13]** for those who did minister well a good step to themselves do acquire, and much boldness in faith that \`is' in Christ Jesus.
 
 **[3:14]** These things I write to thee, hoping to come unto thee soon,
 
-**[3:15]** and if I delay, that thou mayest know how it behoveth `thee' to conduct thyself in the house of God, which is an assembly of the living God -- a pillar and foundation of the truth,
+**[3:15]** and if I delay, that thou mayest know how it behoveth \`thee' to conduct thyself in the house of God, which is an assembly of the living God -- a pillar and foundation of the truth,
 
 **[3:16]** and, confessedly, great is the secret of piety -- God was manifested in flesh, declared righteous in spirit, seen by messengers, preached among nations, believed on in the world, taken up in glory!
 
@@ -108,7 +108,7 @@
 
 **[4:3]** forbidding to marry -- to abstain from meats that God created to be received with thanksgiving by those believing and acknowledging the truth,
 
-**[4:4]** because every creature of God `is' good, and nothing `is' to be rejected, with thanksgiving being received,
+**[4:4]** because every creature of God \`is' good, and nothing \`is' to be rejected, with thanksgiving being received,
 
 **[4:5]** for it is sanctified through the word of God and intercession.
 
@@ -118,7 +118,7 @@
 
 **[4:8]** for the bodily exercise is unto little profit, and the piety is to all things profitable, a promise having of the life that now is, and of that which is coming;
 
-**[4:9]** stedfast `is' the word, and of all acceptation worthy;
+**[4:9]** stedfast \`is' the word, and of all acceptation worthy;
 
 **[4:10]** for for this we both labour and are reproached, because we hope on the living God, who is Saviour of all men -- especially of those believing.
 
@@ -158,7 +158,7 @@
 
 **[5:12]** having judgment, because the first faith they did cast away,
 
-**[5:13]** and at the same time also, they learn `to be' idle, going about the houses; and not only idle, but also tattlers and busybodies, speaking the things they ought not;
+**[5:13]** and at the same time also, they learn \`to be' idle, going about the houses; and not only idle, but also tattlers and busybodies, speaking the things they ought not;
 
 **[5:14]** I wish, therefore, younger ones to marry, to bear children, to be mistress of the house, to give no occasion to the opposer to reviling;
 
@@ -168,7 +168,7 @@
 
 **[5:17]** The well-leading elders of double honour let them be counted worthy, especially those labouring in word and teaching,
 
-**[5:18]** for the Writing saith, `An ox treading out thou shalt not muzzle,' and `Worthy `is' the workman of his reward.'
+**[5:18]** for the Writing saith, \`An ox treading out thou shalt not muzzle,' and \`Worthy \`is' the workman of his reward.'
 
 **[5:19]** Against an elder an accusation receive not, except upon two or three witnesses.
 
@@ -186,7 +186,7 @@
 
 **[6:1]** As many as are servants under a yoke, their own masters worthy of all honour let them reckon, that the name of God and the teaching may not be evil spoken of;
 
-**[6:2]** and those having believing masters, let them not slight `them', because they are brethren, but rather let them serve, because they are stedfast and beloved, who of the benefit are partaking. These things be teaching and exhorting;
+**[6:2]** and those having believing masters, let them not slight \`them', because they are brethren, but rather let them serve, because they are stedfast and beloved, who of the benefit are partaking. These things be teaching and exhorting;
 
 **[6:3]** if any one be teaching otherwise, and do not consent to sound words -- those of our Lord Jesus Christ -- and to the teaching according to piety,
 
@@ -196,7 +196,7 @@
 
 **[6:6]** but it is great gain -- the piety with contentment;
 
-**[6:7]** for nothing did we bring into the world -- `it is' manifest that we are able to carry nothing out;
+**[6:7]** for nothing did we bring into the world -- \`it is' manifest that we are able to carry nothing out;
 
 **[6:8]** but having food and raiment -- with these we shall suffice ourselves;
 
@@ -214,7 +214,7 @@
 
 **[6:15]** which in His own times He shall shew -- the blessed and only potentate, the King of the kings and Lord of the lords,
 
-**[6:16]** who only is having immortality, dwelling in light unapproachable, whom no one of men did see, nor is able to see, to whom `is' honour and might age-during! Amen.
+**[6:16]** who only is having immortality, dwelling in light unapproachable, whom no one of men did see, nor is able to see, to whom \`is' honour and might age-during! Amen.
 
 **[6:17]** Those rich in the present age charge thou not to be high-minded, nor to hope in the uncertainty of riches, but in the living God, who is giving to us all things richly for enjoyment; --
 
@@ -224,4 +224,4 @@
 
 **[6:20]** O Timotheus, the thing entrusted guard thou, avoiding the profane vain-words and opposition of the falsely-named knowledge,
 
-**[6:21]** which certain professing -- concerning the faith did swerve; the grace `is' with you. Amen.
+**[6:21]** which certain professing -- concerning the faith did swerve; the grace \`is' with you. Amen.

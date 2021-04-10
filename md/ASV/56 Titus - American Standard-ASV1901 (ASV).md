@@ -40,15 +40,15 @@
 
 **[2:4]** that they may train the young women to love their husbands, to love their children,
 
-**[2:5]** `to be' sober-minded, chaste, workers at home, kind, being in subjection to their own husbands, that the word of God be not blasphemed:
+**[2:5]** \`to be' sober-minded, chaste, workers at home, kind, being in subjection to their own husbands, that the word of God be not blasphemed:
 
 **[2:6]** the younger men likewise exhort to be sober-minded:
 
-**[2:7]** in all things showing thyself an ensample of good works; in thy doctrine `showing' uncorruptness, gravity,
+**[2:7]** in all things showing thyself an ensample of good works; in thy doctrine \`showing' uncorruptness, gravity,
 
 **[2:8]** sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of us.
 
-**[2:9]** `Exhort' servants to be in subjection to their own masters, `and' to be well-pleasing `to them' in all things; not gainsaying;
+**[2:9]** \`Exhort' servants to be in subjection to their own masters, \`and' to be well-pleasing \`to them' in all things; not gainsaying;
 
 **[2:10]** not purloining, but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
 
@@ -70,7 +70,7 @@
 
 **[3:4]** But when the kindness of God our Saviour, and his love toward man, appeared,
 
-**[3:5]** not by works `done' in righteousness, which we did ourselves, but according to his mercy he saved us, through the washing of regeneration and renewing of the Holy Spirit,
+**[3:5]** not by works \`done' in righteousness, which we did ourselves, but according to his mercy he saved us, through the washing of regeneration and renewing of the Holy Spirit,
 
 **[3:6]** which he poured out upon us richly, through Jesus Christ our Saviour;
 
@@ -88,6 +88,6 @@
 
 **[3:13]** Set forward Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.
 
-**[3:14]** And let our `people' also learn to maintain good works for necessary uses, that they be not unfruitful.
+**[3:14]** And let our \`people' also learn to maintain good works for necessary uses, that they be not unfruitful.
 
 **[3:15]** All that are with me salute thee. Salute them that love us in faith. Grace be with you all.

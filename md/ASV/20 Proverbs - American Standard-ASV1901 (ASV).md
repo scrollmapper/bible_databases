@@ -12,7 +12,7 @@
 
 **[1:6]** To understand a proverb, and a figure, The words of the wise, and their dark sayings.
 
-**[1:7]** The fear of Jehovah is the beginning of knowledge; `But' the foolish despise wisdom and instruction.
+**[1:7]** The fear of Jehovah is the beginning of knowledge; \`But' the foolish despise wisdom and instruction.
 
 **[1:8]** My son, hear the instruction of thy father, And forsake not the law of thy mother:
 
@@ -50,7 +50,7 @@
 
 **[1:25]** But ye have set at nought all my counsel, And would none of my reproof:
 
-**[1:26]** I also will laugh in `the day of' your calamity; I will mock when your fear cometh;
+**[1:26]** I also will laugh in \`the day of' your calamity; I will mock when your fear cometh;
 
 **[1:27]** When your fear cometh as a storm, And your calamity cometh on as a whirlwind; When distress and anguish come upon you.
 
@@ -76,13 +76,13 @@
 
 **[2:5]** Then shalt thou understand the fear of Jehovah, And find the knowledge of God.
 
-**[2:6]** For Jehovah giveth wisdom; Out of his mouth `cometh' knowledge and understanding:
+**[2:6]** For Jehovah giveth wisdom; Out of his mouth \`cometh' knowledge and understanding:
 
-**[2:7]** He layeth up sound wisdom for the upright; `He is' a shield to them that walk in integrity;
+**[2:7]** He layeth up sound wisdom for the upright; \`He is' a shield to them that walk in integrity;
 
 **[2:8]** That he may guard the paths of justice, And preserve the way of his saints.
 
-**[2:9]** Then shalt thou understand righteousness and justice, And equity, `yea', every good path.
+**[2:9]** Then shalt thou understand righteousness and justice, And equity, \`yea', every good path.
 
 **[2:10]** For wisdom shall enter into thy heart, And knowledge shall be pleasant unto thy soul;
 
@@ -180,7 +180,7 @@
 
 **[3:35]** The wise shall inherit glory; But shame shall be the promotion of fools.
 
-**[4:1]** Hear, `my' sons, the instruction of a father, And attend to know understanding:
+**[4:1]** Hear, \`my' sons, the instruction of a father, And attend to know understanding:
 
 **[4:2]** For I give you good doctrine; Forsake ye not my law.
 
@@ -192,7 +192,7 @@
 
 **[4:6]** Forsake her not, and she will preserve thee; Love her, and she will keep thee.
 
-**[4:7]** Wisdom `is' the principal thing; `therefore' get wisdom; Yea, with all thy getting get understanding.
+**[4:7]** Wisdom \`is' the principal thing; \`therefore' get wisdom; Yea, with all thy getting get understanding.
 
 **[4:8]** Exalt her, and she will promote thee; She will bring thee to honor, when thou dost embrace her.
 
@@ -244,15 +244,15 @@
 
 **[5:5]** Her feet go down to death; Her steps take hold on Sheol;
 
-**[5:6]** So that she findeth not the level path of life: Her ways are unstable, `and' she knoweth `it' not.
+**[5:6]** So that she findeth not the level path of life: Her ways are unstable, \`and' she knoweth \`it' not.
 
-**[5:7]** Now therefore, `my' sons, hearken unto me, And depart not from the words of my mouth.
+**[5:7]** Now therefore, \`my' sons, hearken unto me, And depart not from the words of my mouth.
 
 **[5:8]** Remove thy way far from her, And come not nigh the door of her house;
 
 **[5:9]** Lest thou give thine honor unto others, And thy years unto the cruel;
 
-**[5:10]** Lest strangers be filled with thy strength, And thy labors `be' in the house of an alien,
+**[5:10]** Lest strangers be filled with thy strength, And thy labors \`be' in the house of an alien,
 
 **[5:11]** And thou mourn at thy latter end, When thy flesh and thy body are consumed,
 
@@ -270,7 +270,7 @@
 
 **[5:18]** Let thy fountain be blessed; And rejoice in the wife of thy youth.
 
-**[5:19]** `As' a loving hind and a pleasant doe, Let her breasts satisfy thee at all times; And be thou ravished always with her love.
+**[5:19]** \`As' a loving hind and a pleasant doe, Let her breasts satisfy thee at all times; And be thou ravished always with her love.
 
 **[5:20]** For why shouldest thou, my son, be ravished with a strange woman, And embrace the bosom of a foreigner?
 
@@ -288,7 +288,7 @@
 
 **[6:4]** Give not sleep to thine eyes, Nor slumber to thine eyelids;
 
-**[6:5]** Deliver thyself as a roe from the hand `of the hunter', And as a bird from the hand of the fowler.
+**[6:5]** Deliver thyself as a roe from the hand \`of the hunter', And as a bird from the hand of the fowler.
 
 **[6:6]** Go to the ant, thou sluggard; Consider her ways, and be wise:
 
@@ -298,7 +298,7 @@
 
 **[6:9]** How long wilt thou sleep, O sluggard? When wilt thou arise out of thy sleep?
 
-**[6:10]** `Yet' a little sleep, a little slumber, A little folding of the hands to sleep:
+**[6:10]** \`Yet' a little sleep, a little slumber, A little folding of the hands to sleep:
 
 **[6:11]** So shall thy poverty come as a robber, And thy want as an armed man.
 
@@ -330,7 +330,7 @@
 
 **[6:25]** Lust not after her beauty in thy heart; Neither let her take thee with her eyelids.
 
-**[6:26]** For on account of a harlot `a man is brought' to a piece of bread; And the adulteress hunteth for the precious life.
+**[6:26]** For on account of a harlot \`a man is brought' to a piece of bread; And the adulteress hunteth for the precious life.
 
 **[6:27]** Can a man take fire in his bosom, And his clothes not be burned?
 
@@ -356,7 +356,7 @@
 
 **[7:3]** Bind them upon thy fingers; Write them upon the tablet of thy heart.
 
-**[7:4]** Say unto wisdom, Thou art my sister; And call understanding `thy' kinswoman:
+**[7:4]** Say unto wisdom, Thou art my sister; And call understanding \`thy' kinswoman:
 
 **[7:5]** That they may keep thee from the strange woman, From the foreigner that flattereth with her words.
 
@@ -374,7 +374,7 @@
 
 **[7:12]** Now she is in the streets, now in the broad places, And lieth in wait at every corner.
 
-**[7:13]** So she caught him, and kissed him, `And' with an impudent face she said unto him:
+**[7:13]** So she caught him, and kissed him, \`And' with an impudent face she said unto him:
 
 **[7:14]** Sacrifices of peace-offerings are with me; This day have I paid my vows.
 
@@ -392,11 +392,11 @@
 
 **[7:21]** With her much fair speech she causeth him to yield; With the flattering of her lips she forceth him along.
 
-**[7:22]** He goeth after her straightway, As an ox goeth to the slaughter, Or as `one in' fetters to the correction of the fool;
+**[7:22]** He goeth after her straightway, As an ox goeth to the slaughter, Or as \`one in' fetters to the correction of the fool;
 
 **[7:23]** Till an arrow strike through his liver; As a bird hasteth to the snare, And knoweth not that it is for his life.
 
-**[7:24]** Now therefore, `my' sons, hearken unto me, And attend to the words of my mouth.
+**[7:24]** Now therefore, \`my' sons, hearken unto me, And attend to the words of my mouth.
 
 **[7:25]** Let not thy heart decline to her ways; Go not astray in her paths.
 
@@ -426,7 +426,7 @@
 
 **[8:11]** For wisdom is better than rubies; And all the things that may be desired are not to be compared unto it.
 
-**[8:12]** I wisdom have made prudence my dwelling, And find out knowledge `and' discretion.
+**[8:12]** I wisdom have made prudence my dwelling, And find out knowledge \`and' discretion.
 
 **[8:13]** The fear of Jehovah is to hate evil: Pride, and arrogancy, and the evil way, And the perverse mouth, do I hate.
 
@@ -434,11 +434,11 @@
 
 **[8:15]** By me kings reign, And princes decree justice.
 
-**[8:16]** By me princes rule, And nobles, `even' all the judges of the earth.
+**[8:16]** By me princes rule, And nobles, \`even' all the judges of the earth.
 
 **[8:17]** I love them that love me; And those that seek me diligently shall find me.
 
-**[8:18]** Riches and honor are with me; `Yea', durable wealth and righteousness.
+**[8:18]** Riches and honor are with me; \`Yea', durable wealth and righteousness.
 
 **[8:19]** My fruit is better than gold, yea, than fine gold; And my revenue than choice silver.
 
@@ -462,11 +462,11 @@
 
 **[8:29]** When he gave to the sea its bound, That the waters should not transgress his commandment, When he marked out the foundations of the earth;
 
-**[8:30]** Then I was by him, `as' a master workman; And I was daily `his' delight, Rejoicing always before him,
+**[8:30]** Then I was by him, \`as' a master workman; And I was daily \`his' delight, Rejoicing always before him,
 
 **[8:31]** Rejoicing in his habitable earth; And my delight was with the sons of men.
 
-**[8:32]** Now therefore, `my' sons, hearken unto me; For blessed are they that keep my ways.
+**[8:32]** Now therefore, \`my' sons, hearken unto me; For blessed are they that keep my ways.
 
 **[8:33]** Hear instruction, and be wise, And refuse it not.
 
@@ -488,11 +488,11 @@
 
 **[9:6]** Leave off, ye simple ones, and live; And walk in the way of understanding.
 
-**[9:7]** He that correcteth a scoffer getteth to himself reviling; And he that reproveth a wicked man `getteth' himself a blot.
+**[9:7]** He that correcteth a scoffer getteth to himself reviling; And he that reproveth a wicked man \`getteth' himself a blot.
 
 **[9:8]** Reprove not a scoffer, lest he hate thee: Reprove a wise man, and he will love thee.
 
-**[9:9]** Give `instruction' to a wise man, and he will be yet wiser: Teach a righteous man, and he will increase in learning.
+**[9:9]** Give \`instruction' to a wise man, and he will be yet wiser: Teach a righteous man, and he will increase in learning.
 
 **[9:10]** The fear of Jehovah is the beginning of wisdom; And the knowledge of the Holy One is understanding.
 
@@ -500,7 +500,7 @@
 
 **[9:12]** If thou art wise, thou art wise for thyself; And if thou scoffest, thou alone shalt bear it.
 
-**[9:13]** The foolish woman is clamorous; `She is' simple, and knoweth nothing.
+**[9:13]** The foolish woman is clamorous; \`She is' simple, and knoweth nothing.
 
 **[9:14]** And she sitteth at the door of her house, On a seat in the high places of the city,
 
@@ -508,7 +508,7 @@
 
 **[9:16]** Whoso is simple, let him turn in hither; And as for him that is void of understanding, she saith to him,
 
-**[9:17]** Stolen waters are sweet, And bread `eaten' in secret is pleasant.
+**[9:17]** Stolen waters are sweet, And bread \`eaten' in secret is pleasant.
 
 **[9:18]** But he knoweth not that the dead are there; That her guests are in the depths of Sheol.
 
@@ -520,7 +520,7 @@
 
 **[10:4]** He becometh poor that worketh with a slack hand; But the hand of the diligent maketh rich.
 
-**[10:5]** He that gathereth in summer is a wise son; `But' he that sleepeth in harvest is a son that causeth shame.
+**[10:5]** He that gathereth in summer is a wise son; \`But' he that sleepeth in harvest is a son that causeth shame.
 
 **[10:6]** Blessings are upon the head of the righteous; But violence covereth the mouth of the wicked.
 
@@ -542,7 +542,7 @@
 
 **[10:15]** The rich man's wealth is his strong city: The destruction of the poor is their poverty.
 
-**[10:16]** The labor of the righteous `tendeth' to life; The increase of the wicked, to sin.
+**[10:16]** The labor of the righteous \`tendeth' to life; The increase of the wicked, to sin.
 
 **[10:17]** He is in the way of life that heedeth correction; But he that forsaketh reproof erreth.
 
@@ -550,13 +550,13 @@
 
 **[10:19]** In the multitude of words there wanteth not transgression; But he that refraineth his lips doeth wisely.
 
-**[10:20]** The tongue of the righteous is `as' choice silver: The heart of the wicked is little worth.
+**[10:20]** The tongue of the righteous is \`as' choice silver: The heart of the wicked is little worth.
 
 **[10:21]** The lips of the righteous feed many; But the foolish die for lack of understanding.
 
 **[10:22]** The blessing of Jehovah, it maketh rich; And he addeth no sorrow therewith.
 
-**[10:23]** It is as sport to a fool to do wickedness; And `so is' wisdom to a man of understanding.
+**[10:23]** It is as sport to a fool to do wickedness; And \`so is' wisdom to a man of understanding.
 
 **[10:24]** The fear of the wicked, it shall come upon him; And the desire of the righteous shall be granted.
 
@@ -566,7 +566,7 @@
 
 **[10:27]** The fear of Jehovah prolongeth days; But the years of the wicked shall be shortened.
 
-**[10:28]** The hope of the righteous `shall be' gladness; But the expectation of the wicked shall perish.
+**[10:28]** The hope of the righteous \`shall be' gladness; But the expectation of the wicked shall perish.
 
 **[10:29]** The way of Jehovah is a stronghold to the upright; But it is a destruction to the workers of iniquity.
 
@@ -574,7 +574,7 @@
 
 **[10:31]** The mouth of the righteous bringeth forth wisdom; But the perverse tongue shall be cut off.
 
-**[10:32]** The lips of the righteous know what is acceptable; But the mouth of the wicked `speaketh' perverseness.
+**[10:32]** The lips of the righteous know what is acceptable; But the mouth of the wicked \`speaketh' perverseness.
 
 **[11:1]** A false balance is an abomination to Jehovah; But a just weight is his delight.
 
@@ -588,7 +588,7 @@
 
 **[11:6]** The righteousness of the upright shall deliver them; But the treacherous shall be taken in their own iniquity.
 
-**[11:7]** When a wicked man dieth, `his' expectation shall perish; And the hope of iniquity perisheth.
+**[11:7]** When a wicked man dieth, \`his' expectation shall perish; And the hope of iniquity perisheth.
 
 **[11:8]** The righteous is delivered out of trouble, And the wicked cometh in his stead.
 
@@ -610,19 +610,19 @@
 
 **[11:17]** The merciful man doeth good to his own soul; But he that is cruel troubleth his own flesh.
 
-**[11:18]** The wicked earneth deceitful wages; But he that soweth righteousness `hath' a sure reward.
+**[11:18]** The wicked earneth deceitful wages; But he that soweth righteousness \`hath' a sure reward.
 
-**[11:19]** He that is stedfast in righteousness `shall attain' unto life; And he that pursueth evil `doeth it' to his own death.
+**[11:19]** He that is stedfast in righteousness \`shall attain' unto life; And he that pursueth evil \`doeth it' to his own death.
 
-**[11:20]** They that are perverse in heart are an abomination to Jehovah; But such as are perfect in `their' way are his delight.
+**[11:20]** They that are perverse in heart are an abomination to Jehovah; But such as are perfect in \`their' way are his delight.
 
-**[11:21]** `Though' hand `join' in hand, the evil man shall not be unpunished; But the seed of the righteous shall be delivered.
+**[11:21]** \`Though' hand \`join' in hand, the evil man shall not be unpunished; But the seed of the righteous shall be delivered.
 
-**[11:22]** `As' a ring of gold in a swine's snout, `So is' a fair woman that is without discretion.
+**[11:22]** \`As' a ring of gold in a swine's snout, \`So is' a fair woman that is without discretion.
 
-**[11:23]** The desire of the righteous is only good; `But' the expectation of the wicked is wrath.
+**[11:23]** The desire of the righteous is only good; \`But' the expectation of the wicked is wrath.
 
-**[11:24]** There is that scattereth, and increaseth yet more; And there is that withholdeth more than is meet, but `it tendeth' only to want.
+**[11:24]** There is that scattereth, and increaseth yet more; And there is that withholdeth more than is meet, but \`it tendeth' only to want.
 
 **[11:25]** The liberal soul shall be made fat; And he that watereth shall be watered also himself.
 
@@ -646,7 +646,7 @@
 
 **[12:4]** A worthy woman is the crown of her husband; But she that maketh ashamed is as rottenness in his bones.
 
-**[12:5]** The thoughts of the righteous are just; `But' the counsels of the wicked are deceit.
+**[12:5]** The thoughts of the righteous are just; \`But' the counsels of the wicked are deceit.
 
 **[12:6]** The words of the wicked are of lying in wait for blood; But the mouth of the upright shall deliver them.
 
@@ -658,9 +658,9 @@
 
 **[12:10]** A righteous man regardeth the life of his beast; But the tender mercies of the wicked are cruel.
 
-**[12:11]** He that tilleth his land shall have plenty of bread; But he that followeth after vain `persons' is void of understanding.
+**[12:11]** He that tilleth his land shall have plenty of bread; But he that followeth after vain \`persons' is void of understanding.
 
-**[12:12]** The wicked desireth the net of evil men; But the root of the righteous yieldeth `fruit'.
+**[12:12]** The wicked desireth the net of evil men; But the root of the righteous yieldeth \`fruit'.
 
 **[12:13]** In the transgression of the lips is a snare to the evil man; But the righteous shall come out of trouble.
 
@@ -690,15 +690,15 @@
 
 **[12:26]** The righteous is a guide to his neighbor; But the way of the wicked causeth them to err.
 
-**[12:27]** The slothful man roasteth not that which he took in hunting; But the precious substance of men `is to' the diligent.
+**[12:27]** The slothful man roasteth not that which he took in hunting; But the precious substance of men \`is to' the diligent.
 
 **[12:28]** In the way of righteousness is life; And in the pathway thereof there is no death.
 
-**[13:1]** A wise son `heareth' his father's instruction; But a scoffer heareth not rebuke.
+**[13:1]** A wise son \`heareth' his father's instruction; But a scoffer heareth not rebuke.
 
-**[13:2]** A man shall eat good by the fruit of his mouth; But the soul of the treacherous `shall eat' violence.
+**[13:2]** A man shall eat good by the fruit of his mouth; But the soul of the treacherous \`shall eat' violence.
 
-**[13:3]** He that guardeth his mouth keepeth his life; `But' he that openeth wide his lips shall have destruction.
+**[13:3]** He that guardeth his mouth keepeth his life; \`But' he that openeth wide his lips shall have destruction.
 
 **[13:4]** The soul of the sluggard desireth, and hath nothing; But the soul of the diligent shall be made fat.
 
@@ -724,11 +724,11 @@
 
 **[13:15]** Good understanding giveth favor; But the way of the transgressor is hard.
 
-**[13:16]** Every prudent man worketh with knowledge; But a fool flaunteth `his' folly.
+**[13:16]** Every prudent man worketh with knowledge; But a fool flaunteth \`his' folly.
 
 **[13:17]** A wicked messenger falleth into evil; But a faithful ambassador is health.
 
-**[13:18]** Poverty and shame `shall be to' him that refuseth correction; But he that regardeth reproof shall be honored.
+**[13:18]** Poverty and shame \`shall be to' him that refuseth correction; But he that regardeth reproof shall be honored.
 
 **[13:19]** The desire accomplished is sweet to the soul; But it is an abomination to fools to depart from evil.
 
@@ -738,7 +738,7 @@
 
 **[13:22]** A good man leaveth an inheritance to his children's children; And the wealth of the sinner is laid up for the righteous.
 
-**[13:23]** Much food `is in' the tillage of the poor; But there is that is destroyed by reason of injustice.
+**[13:23]** Much food \`is in' the tillage of the poor; But there is that is destroyed by reason of injustice.
 
 **[13:24]** He that spareth his rod hateth his son; But he that loveth him chasteneth him betimes.
 
@@ -748,15 +748,15 @@
 
 **[14:2]** He that walketh in his uprightness feareth Jehovah; But he that is perverse in his ways despiseth him.
 
-**[14:3]** In the mouth of the foolish is a rod for `his' pride; But the lips of the wise shall preserve them.
+**[14:3]** In the mouth of the foolish is a rod for \`his' pride; But the lips of the wise shall preserve them.
 
 **[14:4]** Where no oxen are, the crib is clean; But much increase is by the strength of the ox.
 
 **[14:5]** A faithful witness will not lie; But a false witness uttereth lies.
 
-**[14:6]** A scoffer seeketh wisdom, and `findeth it' not; But knowledge is easy unto him that hath understanding.
+**[14:6]** A scoffer seeketh wisdom, and \`findeth it' not; But knowledge is easy unto him that hath understanding.
 
-**[14:7]** Go into the presence of a foolish man, And thou shalt not perceive `in him' the lips of knowledge.
+**[14:7]** Go into the presence of a foolish man, And thou shalt not perceive \`in him' the lips of knowledge.
 
 **[14:8]** The wisdom of the prudent is to understand his way; But the folly of fools is deceit.
 
@@ -770,7 +770,7 @@
 
 **[14:13]** Even in laughter the heart is sorrowful; And the end of mirth is heaviness.
 
-**[14:14]** The backslider in heart shall be filled with his own ways; And a good man `shall be satisfied' from himself.
+**[14:14]** The backslider in heart shall be filled with his own ways; And a good man \`shall be satisfied' from himself.
 
 **[14:15]** The simple believeth every word; But the prudent man looketh well to his going.
 
@@ -786,13 +786,13 @@
 
 **[14:21]** He that despiseth his neighbor sinneth; But he that hath pity on the poor, happy is he.
 
-**[14:22]** Do they not err that devise evil? But mercy and truth `shall be to' them that devise good.
+**[14:22]** Do they not err that devise evil? But mercy and truth \`shall be to' them that devise good.
 
-**[14:23]** In all labor there is profit; But the talk of the lips `tendeth' only to penury.
+**[14:23]** In all labor there is profit; But the talk of the lips \`tendeth' only to penury.
 
-**[14:24]** The crown of the wise is their riches; `But' the folly of fools is `only' folly.
+**[14:24]** The crown of the wise is their riches; \`But' the folly of fools is \`only' folly.
 
-**[14:25]** A true witness delivereth souls; But he that uttereth lies `causeth' deceit.
+**[14:25]** A true witness delivereth souls; But he that uttereth lies \`causeth' deceit.
 
 **[14:26]** In the fear of Jehovah is strong confidence; And his children shall have a place of refuge.
 
@@ -808,11 +808,11 @@
 
 **[14:32]** The wicked is thrust down in his evil-doing; But the righteous hath a refuge in his death.
 
-**[14:33]** Wisdom resteth in the heart of him that hath understanding; But `that which is' in the inward part of fools is made known.
+**[14:33]** Wisdom resteth in the heart of him that hath understanding; But \`that which is' in the inward part of fools is made known.
 
 **[14:34]** Righteousness exalteth a nation; But sin is a reproach to any people.
 
-**[14:35]** The king's favor is toward a servant that dealeth wisely; But his wrath will be `against' him that causeth shame.
+**[14:35]** The king's favor is toward a servant that dealeth wisely; But his wrath will be \`against' him that causeth shame.
 
 **[15:1]** A soft answer turneth away wrath; But a grievous word stirreth up anger.
 
@@ -826,13 +826,13 @@
 
 **[15:6]** In the house of the righteous is much treasure; But in the revenues of the wicked is trouble.
 
-**[15:7]** The lips of the wise disperse knowledge; But the heart of the foolish `doeth' not so.
+**[15:7]** The lips of the wise disperse knowledge; But the heart of the foolish \`doeth' not so.
 
 **[15:8]** The sacrifice of the wicked is an abomination to Jehovah; But the prayer of the upright is his delight.
 
 **[15:9]** The way of the wicked is an abomination to Jehovah; But he loveth him that followeth after righteousness.
 
-**[15:10]** There is grievous correction for him that forsaketh the way; `And' he that hateth reproof shall die.
+**[15:10]** There is grievous correction for him that forsaketh the way; \`And' he that hateth reproof shall die.
 
 **[15:11]** Sheol and Abaddon are before Jehovah: How much more then the hearts of the children of men!
 
@@ -842,7 +842,7 @@
 
 **[15:14]** The heart of him that hath understanding seeketh knowledge; But the mouth of fools feedeth on folly.
 
-**[15:15]** All the days of the afflicted are evil; But he that is of a cheerful heart `hath' a continual feast.
+**[15:15]** All the days of the afflicted are evil; But he that is of a cheerful heart \`hath' a continual feast.
 
 **[15:16]** Better is little, with the fear of Jehovah, Than great treasure and trouble therewith.
 
@@ -860,11 +860,11 @@
 
 **[15:23]** A man hath joy in the answer of his mouth; And a word in due season, how good is it!
 
-**[15:24]** To the wise the way of life `goeth' upward, That he may depart from Sheol beneath.
+**[15:24]** To the wise the way of life \`goeth' upward, That he may depart from Sheol beneath.
 
 **[15:25]** Jehovah will root up the house of the proud; But he will establish the border of the widow.
 
-**[15:26]** Evil devices are an abomination to Jehovah; But pleasant words `are' pure.
+**[15:26]** Evil devices are an abomination to Jehovah; But pleasant words \`are' pure.
 
 **[15:27]** He that is greedy of gain troubleth his own house; But he that hateth bribes shall live.
 
@@ -872,13 +872,13 @@
 
 **[15:29]** Jehovah is far from the wicked; But he heareth the prayer of the righteous.
 
-**[15:30]** The light of the eyes rejoiceth the heart; `And' good tidings make the bones fat.
+**[15:30]** The light of the eyes rejoiceth the heart; \`And' good tidings make the bones fat.
 
 **[15:31]** The ear that hearkeneth to the reproof of life Shall abide among the wise.
 
 **[15:32]** He that refuseth correction despiseth his own soul; But he that hearkeneth to reproof getteth understanding.
 
-**[15:33]** The fear of Jehovah is the instruction of wisdom; And before honor `goeth' humility.
+**[15:33]** The fear of Jehovah is the instruction of wisdom; And before honor \`goeth' humility.
 
 **[16:1]** The plans of the heart belong to man; But the answer of the tongue is from Jehovah.
 
@@ -888,7 +888,7 @@
 
 **[16:4]** Jehovah hath made everything for its own end; Yea, even the wicked for the day of evil.
 
-**[16:5]** Every one that is proud in heart is an abomination to Jehovah: `Though' hand `join' in hand, he shall not be unpunished.
+**[16:5]** Every one that is proud in heart is an abomination to Jehovah: \`Though' hand \`join' in hand, he shall not be unpunished.
 
 **[16:6]** By mercy and truth iniquity is atoned for; And by the fear of Jehovah men depart from evil.
 
@@ -906,7 +906,7 @@
 
 **[16:13]** Righteous lips are the delight of kings; And they love him that speaketh right.
 
-**[16:14]** The wrath of a king is `as' messengers of death; But a wise man will pacify it.
+**[16:14]** The wrath of a king is \`as' messengers of death; But a wise man will pacify it.
 
 **[16:15]** In the light of the king's countenance is life; And his favor is as a cloud of the latter rain.
 
@@ -914,7 +914,7 @@
 
 **[16:17]** The highway of the upright is to depart from evil: He that keepeth his way preserveth his soul.
 
-**[16:18]** Pride `goeth' before destruction, And a haughty spirit before a fall.
+**[16:18]** Pride \`goeth' before destruction, And a haughty spirit before a fall.
 
 **[16:19]** Better it is to be of a lowly spirit with the poor, Than to divide the spoil with the proud.
 
@@ -922,15 +922,15 @@
 
 **[16:21]** The wise in heart shall be called prudent; And the sweetness of the lips increaseth learning.
 
-**[16:22]** Understanding is a well-spring of life unto him that hath it; But the correction of fools is `their' folly.
+**[16:22]** Understanding is a well-spring of life unto him that hath it; But the correction of fools is \`their' folly.
 
 **[16:23]** The heart of the wise instructeth his mouth, And addeth learning to his lips.
 
-**[16:24]** Pleasant words are `as' a honeycomb, Sweet to the soul, and health to the bones.
+**[16:24]** Pleasant words are \`as' a honeycomb, Sweet to the soul, and health to the bones.
 
 **[16:25]** There is a way which seemeth right unto a man, But the end thereof are the ways of death.
 
-**[16:26]** The appetite of the laboring man laboreth for him; For his mouth urgeth him `thereto'.
+**[16:26]** The appetite of the laboring man laboreth for him; For his mouth urgeth him \`thereto'.
 
 **[16:27]** A worthless man deviseth mischief; And in his lips there is as a scorching fire.
 
@@ -938,7 +938,7 @@
 
 **[16:29]** A man of violence enticeth his neighbor, And leadeth him in a way that is not good.
 
-**[16:30]** He that shutteth his eyes, `it is' to devise perverse things: He that compresseth his lips bringeth evil to pass.
+**[16:30]** He that shutteth his eyes, \`it is' to devise perverse things: He that compresseth his lips bringeth evil to pass.
 
 **[16:31]** The hoary head is a crown of glory; It shall be found in the way of righteousness.
 
@@ -952,15 +952,15 @@
 
 **[17:3]** The refining pot is for silver, and the furnace for gold; But Jehovah trieth the hearts.
 
-**[17:4]** An evil-doer giveth heed to wicked lips; `And' a liar giveth ear to a mischievous tongue.
+**[17:4]** An evil-doer giveth heed to wicked lips; \`And' a liar giveth ear to a mischievous tongue.
 
-**[17:5]** Whoso mocketh the poor reproacheth his Maker; `And' he that is glad at calamity shall not be unpunished.
+**[17:5]** Whoso mocketh the poor reproacheth his Maker; \`And' he that is glad at calamity shall not be unpunished.
 
 **[17:6]** Children's children are the crown of old men; And the glory of children are their fathers.
 
 **[17:7]** Excellent speech becometh not a fool; Much less do lying lips a prince.
 
-**[17:8]** A bribe is `as' a precious stone in the eyes of him that hath it; Whithersoever it turneth, it prospereth.
+**[17:8]** A bribe is \`as' a precious stone in the eyes of him that hath it; Whithersoever it turneth, it prospereth.
 
 **[17:9]** He that covereth a transgression seeketh love; But he that harpeth on a matter separateth chief friends.
 
@@ -972,7 +972,7 @@
 
 **[17:13]** Whoso rewardeth evil for good, Evil shall not depart from his house.
 
-**[17:14]** The beginning of strife is `as' when one letteth out water: Therefore leave off contention, before there is quarrelling.
+**[17:14]** The beginning of strife is \`as' when one letteth out water: Therefore leave off contention, before there is quarrelling.
 
 **[17:15]** He that justifieth the wicked, and he that condemneth the righteous, Both of them alike are an abomination to Jehovah.
 
@@ -986,7 +986,7 @@
 
 **[17:20]** He that hath a wayward heart findeth no good; And he that hath a perverse tongue falleth into mischief.
 
-**[17:21]** He that begetteth a fool `doeth it' to his sorrow; And the father of a fool hath no joy.
+**[17:21]** He that begetteth a fool \`doeth it' to his sorrow; And the father of a fool hath no joy.
 
 **[17:22]** A cheerful heart is a good medicine; But a broken spirit drieth up the bones.
 
@@ -996,21 +996,21 @@
 
 **[17:25]** A foolish son is a grief to his father, And bitterness to her that bare him.
 
-**[17:26]** Also to punish the righteous is not good, `Nor' to smite the noble for `their' uprightness.
+**[17:26]** Also to punish the righteous is not good, \`Nor' to smite the noble for \`their' uprightness.
 
 **[17:27]** He that spareth his words hath knowledge; And he that is of a cool spirit is a man of understanding.
 
-**[17:28]** Even a fool, when he holdeth his peace, is counted wise; When he shutteth his lips, he is `esteemed as' prudent.
+**[17:28]** Even a fool, when he holdeth his peace, is counted wise; When he shutteth his lips, he is \`esteemed as' prudent.
 
-**[18:1]** He that separateth himself seeketh `his own' desire, And rageth against all sound wisdom.
+**[18:1]** He that separateth himself seeketh \`his own' desire, And rageth against all sound wisdom.
 
 **[18:2]** A fool hath no delight in understanding, But only that his heart may reveal itself.
 
-**[18:3]** When the wicked cometh, there cometh also contempt, And with ignominy `cometh' reproach.
+**[18:3]** When the wicked cometh, there cometh also contempt, And with ignominy \`cometh' reproach.
 
-**[18:4]** The words of a man's mouth are `as' deep waters; The wellspring of wisdom is `as' a flowing brook.
+**[18:4]** The words of a man's mouth are \`as' deep waters; The wellspring of wisdom is \`as' a flowing brook.
 
-**[18:5]** To respect the person of the wicked is not good, `Nor' to turn aside the righteous in judgment.
+**[18:5]** To respect the person of the wicked is not good, \`Nor' to turn aside the righteous in judgment.
 
 **[18:6]** A fool's lips enter into contention, And his mouth calleth for stripes.
 
@@ -1024,7 +1024,7 @@
 
 **[18:11]** The rich man's wealth is his strong city, And as a high wall in his own imagination.
 
-**[18:12]** Before destruction the heart of man is haughty; And before honor `goeth' humility.
+**[18:12]** Before destruction the heart of man is haughty; And before honor \`goeth' humility.
 
 **[18:13]** He that giveth answer before he heareth, It is folly and shame unto him.
 
@@ -1034,11 +1034,11 @@
 
 **[18:16]** A man's gift maketh room for him, And bringeth him before great men.
 
-**[18:17]** He that pleadeth his cause first `seemeth' just; But his neighbor cometh and searcheth him out.
+**[18:17]** He that pleadeth his cause first \`seemeth' just; But his neighbor cometh and searcheth him out.
 
 **[18:18]** The lot causeth contentions to cease, And parteth between the mighty.
 
-**[18:19]** A brother offended `is harder to be won' than a strong city; And `such' contentions are like the bars of a castle.
+**[18:19]** A brother offended \`is harder to be won' than a strong city; And \`such' contentions are like the bars of a castle.
 
 **[18:20]** A man's belly shall be filled with the fruit of his mouth; With the increase of his lips shall he be satisfied.
 
@@ -1048,7 +1048,7 @@
 
 **[18:23]** The poor useth entreaties; But the rich answereth roughly.
 
-**[18:24]** He that maketh many friends `doeth it' to his own destruction; But there is a friend that sticketh closer than a brother.
+**[18:24]** He that maketh many friends \`doeth it' to his own destruction; But there is a friend that sticketh closer than a brother.
 
 **[19:1]** Better is the poor that walketh in his integrity Than he that is perverse in his lips and is a fool.
 
@@ -1062,7 +1062,7 @@
 
 **[19:6]** Many will entreat the favor of the liberal man; And every man is a friend to him that giveth gifts.
 
-**[19:7]** All the brethren of the poor do hate him: How much more do his friends go far from him! He pursueth `them with' words, `but' they are gone.
+**[19:7]** All the brethren of the poor do hate him: How much more do his friends go far from him! He pursueth \`them with' words, \`but' they are gone.
 
 **[19:8]** He that getteth wisdom loveth his own soul: He that keepeth understanding shall find good.
 
@@ -1080,13 +1080,13 @@
 
 **[19:15]** Slothfulness casteth into a deep sleep; And the idle soul shall suffer hunger.
 
-**[19:16]** He that keepeth the commandment keepeth his soul; `But' he that is careless of his ways shall die.
+**[19:16]** He that keepeth the commandment keepeth his soul; \`But' he that is careless of his ways shall die.
 
 **[19:17]** He that hath pity upon the poor lendeth unto Jehovah, And his good deed will he pay him again.
 
 **[19:18]** Chasten thy son, seeing there is hope; nd set not thy heart on his destruction.
 
-**[19:19]** A man of great wrath shall bear the penalty; For if thou deliver `him', thou must do it yet again.
+**[19:19]** A man of great wrath shall bear the penalty; For if thou deliver \`him', thou must do it yet again.
 
 **[19:20]** Hear counsel, and receive instruction, That thou mayest be wise in thy latter end.
 
@@ -1094,15 +1094,15 @@
 
 **[19:22]** That which maketh a man to be desired is his kindness; And a poor man is better than a liar.
 
-**[19:23]** The fear of Jehovah `tendeth' to life; And he `that hath it' shall abide satisfied; He shall not be visited with evil.
+**[19:23]** The fear of Jehovah \`tendeth' to life; And he \`that hath it' shall abide satisfied; He shall not be visited with evil.
 
 **[19:24]** The sluggard burieth his hand in the dish, And will not so much as bring it to his mouth again.
 
-**[19:25]** Smite a scoffer, and the simple will learn prudence; And reprove one that hath understanding, `and' he will understand knowledge.
+**[19:25]** Smite a scoffer, and the simple will learn prudence; And reprove one that hath understanding, \`and' he will understand knowledge.
 
 **[19:26]** He that doeth violence to his father, and chaseth away his mother, Is a son that causeth shame and bringeth reproach.
 
-**[19:27]** Cease, my son, to hear instruction `Only' to err from the words of knowledge.
+**[19:27]** Cease, my son, to hear instruction \`Only' to err from the words of knowledge.
 
 **[19:28]** A worthless witness mocketh at justice; And the mouth of the wicked swalloweth iniquity.
 
@@ -1110,13 +1110,13 @@
 
 **[20:1]** Wine is a mocker, strong drink a brawler; And whosoever erreth thereby is not wise.
 
-**[20:2]** The terror of a king is as the roaring of a lion: He that provoketh him to anger sinneth `against' his own life.
+**[20:2]** The terror of a king is as the roaring of a lion: He that provoketh him to anger sinneth \`against' his own life.
 
 **[20:3]** It is an honor for a man to keep aloof from strife; But every fool will be quarrelling.
 
 **[20:4]** The sluggard will not plow by reason of the winter; Therefore he shall beg in harvest, and have nothing.
 
-**[20:5]** Counsel in the heart of man is `like' deep water; But a man of understanding will draw it out.
+**[20:5]** Counsel in the heart of man is \`like' deep water; But a man of understanding will draw it out.
 
 **[20:6]** Most men will proclaim every one his own kindness; But a faithful man who can find?
 
@@ -1132,13 +1132,13 @@
 
 **[20:12]** The hearing ear, and the seeing eye, Jehovah hath made even both of them.
 
-**[20:13]** Love not sleep, let thou come to poverty; Open thine eyes, `and' thou shalt be satisfied with bread.
+**[20:13]** Love not sleep, let thou come to poverty; Open thine eyes, \`and' thou shalt be satisfied with bread.
 
 **[20:14]** It is bad, it is bad, saith the buyer; But when he is gone his way, then he boasteth.
 
 **[20:15]** There is gold, and abundance of rubies; But the lips of knowledge are a precious jewel.
 
-**[20:16]** Take his garment that is surety for a stranger; And hold him in pledge `that is surety' for foreigners.
+**[20:16]** Take his garment that is surety for a stranger; And hold him in pledge \`that is surety' for foreigners.
 
 **[20:17]** Bread of falsehood is sweet to a man; But afterwards his mouth shall be filled with gravel.
 
@@ -1148,7 +1148,7 @@
 
 **[20:20]** Whoso curseth his father or his mother, His lamp shall be put out in blackness of darkness.
 
-**[20:21]** An inheritance `may be' gotten hastily at the beginning; But the end thereof shall not be blessed.
+**[20:21]** An inheritance \`may be' gotten hastily at the beginning; But the end thereof shall not be blessed.
 
 **[20:22]** Say not thou, I will recompense evil: Wait for Jehovah, and he will save thee.
 
@@ -1156,9 +1156,9 @@
 
 **[20:24]** A man's goings are of Jehovah; How then can man understand his way?
 
-**[20:25]** It is a snare to a man rashly to say, `It is' holy, And after vows to make inquiry.
+**[20:25]** It is a snare to a man rashly to say, \`It is' holy, And after vows to make inquiry.
 
-**[20:26]** A wise king winnoweth the wicked, And bringeth the `threshing' -wheel over them.
+**[20:26]** A wise king winnoweth the wicked, And bringeth the \`threshing' -wheel over them.
 
 **[20:27]** The spirit of man is the lamp of Jehovah, Searching all his innermost parts.
 
@@ -1166,7 +1166,7 @@
 
 **[20:29]** The glory of young men is their strength; And the beauty of old men is the hoary head.
 
-**[20:30]** Stripes that wound cleanse away evil; And strokes `reach' the innermost parts.
+**[20:30]** Stripes that wound cleanse away evil; And strokes \`reach' the innermost parts.
 
 **[21:1]** The king's heart is in the hand of Jehovah as the watercourses: He turneth it whithersoever he will.
 
@@ -1174,9 +1174,9 @@
 
 **[21:3]** To do righteousness and justice Is more acceptable to Jehovah than sacrifice.
 
-**[21:4]** A high look, and a proud heart, `Even' the lamp of the wicked, is sin.
+**[21:4]** A high look, and a proud heart, \`Even' the lamp of the wicked, is sin.
 
-**[21:5]** The thoughts of the diligent `tend' only to plenteousness; But every one that is hasty `hasteth' only to want.
+**[21:5]** The thoughts of the diligent \`tend' only to plenteousness; But every one that is hasty \`hasteth' only to want.
 
 **[21:6]** The getting of treasures by a lying tongue Is a vapor driven to and fro by them that seek death.
 
@@ -1190,7 +1190,7 @@
 
 **[21:11]** When the scoffer is punished, the simple is made wise; And when the wise is instructed, he receiveth knowledge.
 
-**[21:12]** The righteous man considereth the house of the wicked, `How' the wicked are overthrown to `their' ruin.
+**[21:12]** The righteous man considereth the house of the wicked, \`How' the wicked are overthrown to \`their' ruin.
 
 **[21:13]** Whoso stoppeth his ears at the cry of the poor, He also shall cry, but shall not be heard.
 
@@ -1202,7 +1202,7 @@
 
 **[21:17]** He that loveth pleasure shall be a poor man: He that loveth wine and oil shall not be rich.
 
-**[21:18]** The wicked is a ransom for the righteous; And the treacherous `cometh' in the stead of the upright.
+**[21:18]** The wicked is a ransom for the righteous; And the treacherous \`cometh' in the stead of the upright.
 
 **[21:19]** It is better to dwell in a desert land, Than with a contentious and fretful woman.
 
@@ -1230,15 +1230,15 @@
 
 **[21:31]** The horse is prepared against the day of battle; But victory is of Jehovah.
 
-**[22:1]** A `good' name is rather to be chosen than great riches, `And' loving favor rather than silver and gold.
+**[22:1]** A \`good' name is rather to be chosen than great riches, \`And' loving favor rather than silver and gold.
 
 **[22:2]** The rich and the poor meet together: Jehovah is the maker of them all.
 
 **[22:3]** A prudent man seeth the evil, and hideth himself; But the simple pass on, and suffer for it.
 
-**[22:4]** The reward of humility `and' the fear of Jehovah `Is' riches, and honor, and life.
+**[22:4]** The reward of humility \`and' the fear of Jehovah \`Is' riches, and honor, and life.
 
-**[22:5]** Thorns `and' snares are in the way of the perverse: He that keepeth his soul shall be far from them.
+**[22:5]** Thorns \`and' snares are in the way of the perverse: He that keepeth his soul shall be far from them.
 
 **[22:6]** Train up a child in the way he should go, And even when he is old he will not depart from it.
 
@@ -1250,23 +1250,23 @@
 
 **[22:10]** Cast out the scoffer, and contention will go out; Yea, strife and ignominy will cease.
 
-**[22:11]** He that loveth pureness of heart, `For' the grace of his lips the king will be his friend.
+**[22:11]** He that loveth pureness of heart, \`For' the grace of his lips the king will be his friend.
 
-**[22:12]** The eyes of Jehovah preserve `him that hath' knowledge; But he overthroweth the words of the treacherous man.
+**[22:12]** The eyes of Jehovah preserve \`him that hath' knowledge; But he overthroweth the words of the treacherous man.
 
 **[22:13]** The sluggard saith, There is a lion without: I shall be slain in the streets.
 
 **[22:14]** The mouth of strange women is a deep pit: He that is abhorred of Jehovah shall fall therein.
 
-**[22:15]** Foolishness is bound up in the heart of a child; `But' the rod of correction shall drive it far from him.
+**[22:15]** Foolishness is bound up in the heart of a child; \`But' the rod of correction shall drive it far from him.
 
-**[22:16]** He that oppresseth the poor to increase his `gain', `And' he that giveth to the rich, `shall come' only to want.
+**[22:16]** He that oppresseth the poor to increase his \`gain', \`And' he that giveth to the rich, \`shall come' only to want.
 
 **[22:17]** Incline thine ear, and hear the words of the wise, And apply thy heart unto my knowledge.
 
 **[22:18]** For it is a pleasant thing if thou keep them within thee, If they be established together upon thy lips.
 
-**[22:19]** That thy trust may be in Jehovah, I have made `them' known to thee this day, even to thee.
+**[22:19]** That thy trust may be in Jehovah, I have made \`them' known to thee this day, even to thee.
 
 **[22:20]** Have not I written unto thee excellent things Of counsels and knowledge,
 
@@ -1280,7 +1280,7 @@
 
 **[22:25]** Lest thou learn this ways, And get a snare to thy soul.
 
-**[22:26]** Be thou not one of them that strike hands, `Or' of them that are sureties for debts.
+**[22:26]** Be thou not one of them that strike hands, \`Or' of them that are sureties for debts.
 
 **[22:27]** If thou hast not wherewith to pay, Why should he take away thy bed from under thee?
 
@@ -1296,7 +1296,7 @@
 
 **[23:4]** Weary not thyself to be rich; Cease from thine own wisdom.
 
-**[23:5]** Wilt thou set thine eyes upon that which is not? For `riches' certainly make themselves wings, Like an eagle that flieth toward heaven.
+**[23:5]** Wilt thou set thine eyes upon that which is not? For \`riches' certainly make themselves wings, Like an eagle that flieth toward heaven.
 
 **[23:6]** Eat thou not the bread of him that hath an evil eye, Neither desire thou his dainties:
 
@@ -1312,7 +1312,7 @@
 
 **[23:12]** Apply thy heart unto instruction, And thine ears to the words of knowledge.
 
-**[23:13]** Withhold not correction from the child; `For' if thou beat him with the rod, he will not die.
+**[23:13]** Withhold not correction from the child; \`For' if thou beat him with the rod, he will not die.
 
 **[23:14]** Thou shalt beat him with the rod, And shalt deliver his soul from Sheol.
 
@@ -1320,7 +1320,7 @@
 
 **[23:16]** Yea, my heart will rejoice, When thy lips speak right things.
 
-**[23:17]** Let not thy heart envy sinners; But `be thou' in the fear of Jehovah all the day long:
+**[23:17]** Let not thy heart envy sinners; But \`be thou' in the fear of Jehovah all the day long:
 
 **[23:18]** For surely there is a reward; And thy hope shall not be cut off.
 
@@ -1328,11 +1328,11 @@
 
 **[23:20]** Be not among winebibbers, Among gluttonous eaters of flesh:
 
-**[23:21]** For the drunkard and the glutton shall come to poverty; And drowsiness will clothe `a man' with rags.
+**[23:21]** For the drunkard and the glutton shall come to poverty; And drowsiness will clothe \`a man' with rags.
 
 **[23:22]** Hearken unto thy father that begat thee, And despise not thy mother when she is old.
 
-**[23:23]** Buy the truth, and sell it not; `Yea', wisdom, and instruction, and understanding.
+**[23:23]** Buy the truth, and sell it not; \`Yea', wisdom, and instruction, and understanding.
 
 **[23:24]** The father of the righteous will greatly rejoice; And he that begetteth a wise child will have joy of him.
 
@@ -1356,7 +1356,7 @@
 
 **[23:34]** Yea, thou shalt be as he that lieth down in the midst of the sea, Or as he that lieth upon the top of a mast.
 
-**[23:35]** They have stricken me, `shalt thou say', and I was not hurt; They have beaten me, and I felt it not: When shall I awake? I will seek it yet again.
+**[23:35]** They have stricken me, \`shalt thou say', and I was not hurt; They have beaten me, and I felt it not: When shall I awake? I will seek it yet again.
 
 **[24:1]** Be not thou envious against evil men; Neither desire to be with them:
 
@@ -1398,15 +1398,15 @@
 
 **[24:20]** For there shall be no reward to the evil man; The lamp of the wicked shall be put out.
 
-**[24:21]** My son, fear thou Jehovah and the king; `And' company not with them that are given to change:
+**[24:21]** My son, fear thou Jehovah and the king; \`And' company not with them that are given to change:
 
 **[24:22]** For their calamity shall rise suddenly; And the destruction from them both, who knoweth it?
 
-**[24:23]** These also are `sayings' of the wise. To have respect of persons in judgment is not good.
+**[24:23]** These also are \`sayings' of the wise. To have respect of persons in judgment is not good.
 
 **[24:24]** He that saith unto the wicked, Thou art righteous; Peoples shall curse him, nations shall abhor him:
 
-**[24:25]** But to them that rebuke `him' shall be delight, And a good blessing shall come upon them.
+**[24:25]** But to them that rebuke \`him' shall be delight, And a good blessing shall come upon them.
 
 **[24:26]** He kisseth the lips Who giveth a right answer.
 
@@ -1422,7 +1422,7 @@
 
 **[24:32]** Then I beheld, and considered well; I saw, and received instruction:
 
-**[24:33]** `Yet' a little sleep, a little slumber, A little folding of the hands to sleep;
+**[24:33]** \`Yet' a little sleep, a little slumber, A little folding of the hands to sleep;
 
 **[24:34]** So shall thy poverty come as a robber, And thy want as an armed man.
 
@@ -1434,25 +1434,25 @@
 
 **[25:4]** Take away the dross from the silver, And there cometh forth a vessel for the refiner:
 
-**[25:5]** Take away the wicked `from' before the king, And his throne shall be established in righteousness.
+**[25:5]** Take away the wicked \`from' before the king, And his throne shall be established in righteousness.
 
 **[25:6]** Put not thyself forward in the presence of the king, And stand not in the place of great men:
 
 **[25:7]** For better is it that it be said unto thee, Come up hither, Than that thou shouldest be put lower in the presence of the prince, Whom thine eyes have seen.
 
-**[25:8]** Go not forth hastily to strive, Lest `thou know not' what to do in the end thereof, When thy neighbor hath put thee to shame.
+**[25:8]** Go not forth hastily to strive, Lest \`thou know not' what to do in the end thereof, When thy neighbor hath put thee to shame.
 
-**[25:9]** Debate thy cause with thy neighbor `himself', And disclose not the secret of another;
+**[25:9]** Debate thy cause with thy neighbor \`himself', And disclose not the secret of another;
 
 **[25:10]** Lest he that heareth it revile thee, And thine infamy turn not away.
 
-**[25:11]** A word fitly spoken Is `like' apples of gold in network of silver.
+**[25:11]** A word fitly spoken Is \`like' apples of gold in network of silver.
 
-**[25:12]** `As' an ear-ring of gold, and an ornament of fine gold, `So is' a wise reprover upon an obedient ear.
+**[25:12]** \`As' an ear-ring of gold, and an ornament of fine gold, \`So is' a wise reprover upon an obedient ear.
 
-**[25:13]** As the cold of snow in the time of harvest, `So is' a faithful messenger to them that send him; For he refresheth the soul of his masters.
+**[25:13]** As the cold of snow in the time of harvest, \`So is' a faithful messenger to them that send him; For he refresheth the soul of his masters.
 
-**[25:14]** `As' clouds and wind without rain, `So is' he that boasteth himself of his gifts falsely.
+**[25:14]** \`As' clouds and wind without rain, \`So is' he that boasteth himself of his gifts falsely.
 
 **[25:15]** By long forbearing is a ruler persuaded, And a soft tongue breaketh the bone.
 
@@ -1462,9 +1462,9 @@
 
 **[25:18]** A man that beareth false witness against his neighbor Is a maul, and a sword, and a sharp arrow.
 
-**[25:19]** Confidence in an unfaithful man in time of trouble Is `like' a broken tooth, and a foot out of joint.
+**[25:19]** Confidence in an unfaithful man in time of trouble Is \`like' a broken tooth, and a foot out of joint.
 
-**[25:20]** `As' one that taketh off a garment in cold weather, `and as' vinegar upon soda, So is he that singeth songs to a heavy heart.
+**[25:20]** \`As' one that taketh off a garment in cold weather, \`and as' vinegar upon soda, So is he that singeth songs to a heavy heart.
 
 **[25:21]** If thine enemy be hungry, give him bread to eat; And if he be thirsty, give him water to drink:
 
@@ -1474,13 +1474,13 @@
 
 **[25:24]** It is better to dwell in the corner of the housetop, Than with a contentious woman in a wide house.
 
-**[25:25]** `As' cold waters to a thirsty soul, So is good news from a far country.
+**[25:25]** \`As' cold waters to a thirsty soul, So is good news from a far country.
 
-**[25:26]** `As' a troubled fountain, and a corrupted spring, `So is' a righteous man that giveth way before the wicked.
+**[25:26]** \`As' a troubled fountain, and a corrupted spring, \`So is' a righteous man that giveth way before the wicked.
 
-**[25:27]** It is not good to eat much honey: So `for men' to search out their own glory is grievous.
+**[25:27]** It is not good to eat much honey: So \`for men' to search out their own glory is grievous.
 
-**[25:28]** He whose spirit is without restraint Is `like' a city that is broken down and without walls.
+**[25:28]** He whose spirit is without restraint Is \`like' a city that is broken down and without walls.
 
 **[26:1]** As snow in summer, and as rain in harvest, So honor is not seemly for a fool.
 
@@ -1492,29 +1492,29 @@
 
 **[26:5]** Answer a fool according to his folly, Lest he be wise in his own conceit.
 
-**[26:6]** He that sendeth a message by the hand of a fool Cutteth off `his own' feet, `and' drinketh in damage.
+**[26:6]** He that sendeth a message by the hand of a fool Cutteth off \`his own' feet, \`and' drinketh in damage.
 
 **[26:7]** The legs of the lame hang loose: So is a parable in the mouth of fools.
 
 **[26:8]** As one that bindeth a stone in a sling, So is he that giveth honor to a fool.
 
-**[26:9]** `As' a thorn that goeth up into the hand of a drunkard, So is a parable in the mouth of fools.
+**[26:9]** \`As' a thorn that goeth up into the hand of a drunkard, So is a parable in the mouth of fools.
 
-**[26:10]** `As' an archer that woundeth all, So is he that hireth a fool and he that hireth them that pass by.
+**[26:10]** \`As' an archer that woundeth all, So is he that hireth a fool and he that hireth them that pass by.
 
-**[26:11]** As a dog that returneth to his vomit, `So is' a fool that repeateth his folly.
+**[26:11]** As a dog that returneth to his vomit, \`So is' a fool that repeateth his folly.
 
 **[26:12]** Seest thou a man wise in his own conceit? There is more hope of a fool than of him.
 
 **[26:13]** The sluggard saith, There is a lion in the way; A lion is in the streets.
 
-**[26:14]** `As' the door turneth upon its hinges, So doth the sluggard upon his bed.
+**[26:14]** \`As' the door turneth upon its hinges, So doth the sluggard upon his bed.
 
 **[26:15]** The sluggard burieth his hand in the dish; It wearieth him to bring it again to his mouth.
 
 **[26:16]** The sluggard is wiser in his own conceit Than seven men that can render a reason.
 
-**[26:17]** He that passeth by, `and' vexeth himself with strife belonging not to him, Is `like' one that taketh a dog by the ears.
+**[26:17]** He that passeth by, \`and' vexeth himself with strife belonging not to him, Is \`like' one that taketh a dog by the ears.
 
 **[26:18]** As a madman who casteth firebrands, Arrows, and death,
 
@@ -1522,17 +1522,17 @@
 
 **[26:20]** For lack of wood the fire goeth out; And where there is no whisperer, contention ceaseth.
 
-**[26:21]** `As' coals are to hot embers, and wood to fire, So is a contentious man to inflame strife.
+**[26:21]** \`As' coals are to hot embers, and wood to fire, So is a contentious man to inflame strife.
 
 **[26:22]** The words of a whisperer are as dainty morsels, And they go down into the innermost parts.
 
-**[26:23]** Fervent lips and a wicked heart Are `like' an earthen vessel overlaid with silver dross.
+**[26:23]** Fervent lips and a wicked heart Are \`like' an earthen vessel overlaid with silver dross.
 
 **[26:24]** He that hateth dissembleth with his lips; But he layeth up deceit within him:
 
 **[26:25]** When he speaketh fair, believe him not; For there are seven abominations in his heart:
 
-**[26:26]** Though `his' hatred cover itself with guile, His wickedness shall be openly showed before the assembly.
+**[26:26]** Though \`his' hatred cover itself with guile, His wickedness shall be openly showed before the assembly.
 
 **[26:27]** Whoso diggeth a pit shall fall therein; And he that rolleth a stone, it shall return upon him.
 
@@ -1554,15 +1554,15 @@
 
 **[27:8]** As a bird that wandereth from her nest, So is a man that wandereth from his place.
 
-**[27:9]** Oil and perfume rejoice the heart; So doth the sweetness of a man's friend `that cometh' of hearty counsel.
+**[27:9]** Oil and perfume rejoice the heart; So doth the sweetness of a man's friend \`that cometh' of hearty counsel.
 
 **[27:10]** Thine own friend, and thy father's friend, forsake not; And go not to thy brother's house in the day of thy calamity: Better is a neighbor that is near than a brother far off.
 
 **[27:11]** My son, be wise, and make my heart glad, That I may answer him that reproacheth me.
 
-**[27:12]** A prudent man seeth the evil, `and' hideth himself; `But' the simple pass on, `and' suffer for it.
+**[27:12]** A prudent man seeth the evil, \`and' hideth himself; \`But' the simple pass on, \`and' suffer for it.
 
-**[27:13]** Take his garment that is surety for a stranger; And hold him in pledge `that is surety' for a foreign woman.
+**[27:13]** Take his garment that is surety for a stranger; And hold him in pledge \`that is surety' for a foreign woman.
 
 **[27:14]** He that blesseth his friend with a loud voice, rising early in the morning, It shall be counted a curse to him.
 
@@ -1574,15 +1574,15 @@
 
 **[27:18]** Whoso keepeth the fig-tree shall eat the fruit thereof; And he that regardeth his master shall be honored.
 
-**[27:19]** As in water face `answereth' to face, So the heart of man to man.
+**[27:19]** As in water face \`answereth' to face, So the heart of man to man.
 
 **[27:20]** Sheol and Abaddon are never satisfied; And the eyes of man are never satisfied.
 
-**[27:21]** The refining pot is for silver, and the furnace for gold; And a man is `tried' by his praise.
+**[27:21]** The refining pot is for silver, and the furnace for gold; And a man is \`tried' by his praise.
 
 **[27:22]** Though thou shouldest bray a fool in a mortar with a pestle along with bruised grain, Yet will not his foolishness depart from him.
 
-**[27:23]** Be thou diligent to know the state of thy flocks, `And' look well to thy herds:
+**[27:23]** Be thou diligent to know the state of thy flocks, \`And' look well to thy herds:
 
 **[27:24]** For riches are not for ever: And doth the crown endure unto all generations?
 
@@ -1590,19 +1590,19 @@
 
 **[27:26]** The lambs are for thy clothing, And the goats are the price of the field;
 
-**[27:27]** And `there will be' goats' milk enough for thy food, for the food of thy household, And maintenance for thy maidens.
+**[27:27]** And \`there will be' goats' milk enough for thy food, for the food of thy household, And maintenance for thy maidens.
 
 **[28:1]** The wicked flee when no man pursueth; But the righteous are bold as a lion.
 
-**[28:2]** For the transgression of a land many are the princes thereof; But by men of understanding `and' knowledge the state `thereof' shall be prolonged.
+**[28:2]** For the transgression of a land many are the princes thereof; But by men of understanding \`and' knowledge the state \`thereof' shall be prolonged.
 
-**[28:3]** A needy man that oppresseth the poor Is `like' a sweeping rain which leaveth no food.
+**[28:3]** A needy man that oppresseth the poor Is \`like' a sweeping rain which leaveth no food.
 
 **[28:4]** They that forsake the law praise the wicked; But such as keep the law contend with them.
 
 **[28:5]** Evil men understand not justice; But they that seek Jehovah understand all things.
 
-**[28:6]** Better is the poor that walketh in his integrity, Than he that is perverse in `his' ways, though he be rich.
+**[28:6]** Better is the poor that walketh in his integrity, Than he that is perverse in \`his' ways, though he be rich.
 
 **[28:7]** Whoso keepeth the law is a wise son; But he that is a companion of gluttons shameth his father.
 
@@ -1620,15 +1620,15 @@
 
 **[28:14]** Happy is the man that feareth alway; But he that hardeneth his heart shall fall into mischief.
 
-**[28:15]** `As' a roaring lion, and a ranging bear, `So is' a wicked ruler over a poor people.
+**[28:15]** \`As' a roaring lion, and a ranging bear, \`So is' a wicked ruler over a poor people.
 
-**[28:16]** The prince that lacketh understanding is also a great oppressor; `But' he that hateth covetousness shall prolong his days.
+**[28:16]** The prince that lacketh understanding is also a great oppressor; \`But' he that hateth covetousness shall prolong his days.
 
 **[28:17]** A man that is laden with the blood of any person Shall flee unto the pit; let no man stay him.
 
-**[28:18]** Whoso walketh uprightly shall be delivered; But he that is perverse in `his' ways shall fall at once.
+**[28:18]** Whoso walketh uprightly shall be delivered; But he that is perverse in \`his' ways shall fall at once.
 
-**[28:19]** He that tilleth his land shall have plenty of bread; But he that followeth after vain `persons' shall have poverty enough.
+**[28:19]** He that tilleth his land shall have plenty of bread; But he that followeth after vain \`persons' shall have poverty enough.
 
 **[28:20]** A faithful man shall abound with blessings; But he that maketh haste to be rich shall not be unpunished.
 
@@ -1652,7 +1652,7 @@
 
 **[29:2]** When the righteous are increased, the people rejoice; But when a wicked man beareth rule, the people sigh.
 
-**[29:3]** Whoso loveth wisdom rejoiceth his father; But he that keepeth company with harlots wasteth `his' substance.
+**[29:3]** Whoso loveth wisdom rejoiceth his father; But he that keepeth company with harlots wasteth \`his' substance.
 
 **[29:4]** The king by justice establisheth the land; But he that exacteth gifts overthroweth it.
 
@@ -1660,7 +1660,7 @@
 
 **[29:6]** In the transgression of an evil man there is a snare; But the righteous doth sing and rejoice.
 
-**[29:7]** The righteous taketh knowledge of the cause of the poor; The wicked hath not understanding to know `it'.
+**[29:7]** The righteous taketh knowledge of the cause of the poor; The wicked hath not understanding to know \`it'.
 
 **[29:8]** Scoffers set a city in a flame; But wise men turn away wrath.
 
@@ -1698,7 +1698,7 @@
 
 **[29:25]** The fear of man bringeth a snare; But whoso putteth his trust in Jehovah shall be safe.
 
-**[29:26]** Many seek the ruler's favor; But a man's judgment `cometh' from Jehovah.
+**[29:26]** Many seek the ruler's favor; But a man's judgment \`cometh' from Jehovah.
 
 **[29:27]** An unjust man is an abomination to the righteous; And he that is upright in the way is an abomination to the wicked.
 
@@ -1714,23 +1714,23 @@
 
 **[30:6]** Add thou not unto his words, Lest he reprove thee, and thou be found a liar.
 
-**[30:7]** Two things have I asked of thee; Deny me `them' not before I die:
+**[30:7]** Two things have I asked of thee; Deny me \`them' not before I die:
 
 **[30:8]** Remove far from me falsehood and lies; Give me neither poverty nor riches; Feed me with the food that is needful for me:
 
-**[30:9]** Lest I be full, and deny `thee', and say, Who is Jehovah? Or lest I be poor, and steal, And use profanely the name of my God.
+**[30:9]** Lest I be full, and deny \`thee', and say, Who is Jehovah? Or lest I be poor, and steal, And use profanely the name of my God.
 
 **[30:10]** Slander not a servant unto his master, Lest he curse thee, and thou be held guilty.
 
 **[30:11]** There is a generation that curse their father, And bless not their mother.
 
-**[30:12]** There is a generation that are pure in their own eyes, And `yet' are not washed from their filthiness.
+**[30:12]** There is a generation that are pure in their own eyes, And \`yet' are not washed from their filthiness.
 
 **[30:13]** There is a generation, oh how lofty are their eyes! And their eyelids are lifted up.
 
-**[30:14]** There is a generation whose teeth are `as' swords, and their jaw teeth `as' knives, To devour the poor from off the earth, and the needy from among men.
+**[30:14]** There is a generation whose teeth are \`as' swords, and their jaw teeth \`as' knives, To devour the poor from off the earth, and the needy from among men.
 
-**[30:15]** The horseleach hath two daughters, `crying', Give, give. There are three things that are never satisfied, `Yea', four that say not, Enough:
+**[30:15]** The horseleach hath two daughters, \`crying', Give, give. There are three things that are never satisfied, \`Yea', four that say not, Enough:
 
 **[30:16]** Sheol; and the barren womb; The earth that is not satisfied with water; And the fire that saith not, Enough.
 
@@ -1742,7 +1742,7 @@
 
 **[30:20]** So is the way of an adulterous woman; She eateth, and wipeth her mouth, And saith, I have done no wickedness.
 
-**[30:21]** For three things the earth doth tremble, And for four, `which' it cannot bear:
+**[30:21]** For three things the earth doth tremble, And for four, \`which' it cannot bear:
 
 **[30:22]** For a servant when he is king; And a fool when he is filled with food;
 
@@ -1764,7 +1764,7 @@
 
 **[30:31]** The greyhound; the he-goat also; And the king against whom there is no rising up.
 
-**[30:32]** If thou hast done foolishly in lifting up thyself, Or if thou hast thought evil, `Lay' thy hand upon thy mouth.
+**[30:32]** If thou hast done foolishly in lifting up thyself, Or if thou hast thought evil, \`Lay' thy hand upon thy mouth.
 
 **[30:33]** For the churning of milk bringeth forth butter, And the wringing of the nose bringeth forth blood; So the forcing of wrath bringeth forth strife.
 
@@ -1774,9 +1774,9 @@
 
 **[31:3]** Give not thy strength unto women, Nor thy ways to that which destroyeth kings.
 
-**[31:4]** It is not for kings, O Lemuel, it is not for kings to drink wine; Nor for princes `to say', Where is strong drink?
+**[31:4]** It is not for kings, O Lemuel, it is not for kings to drink wine; Nor for princes \`to say', Where is strong drink?
 
-**[31:5]** Lest they drink, and forget the law, And pervert the justice `due' to any that is afflicted.
+**[31:5]** Lest they drink, and forget the law, And pervert the justice \`due' to any that is afflicted.
 
 **[31:6]** Give strong drink unto him that is ready to perish, And wine unto the bitter in soul:
 
@@ -1822,10 +1822,10 @@
 
 **[31:27]** She looketh well to the ways of her household, And eateth not the bread of idleness.
 
-**[31:28]** Her children rise up, and call her blessed; Her husband `also', and he praiseth her, `saying':
+**[31:28]** Her children rise up, and call her blessed; Her husband \`also', and he praiseth her, \`saying':
 
 **[31:29]** Many daughters have done worthily, But thou excellest them all.
 
-**[31:30]** Grace is deceitful, and beauty is vain; `But' a woman that feareth Jehovah, she shall be praised.
+**[31:30]** Grace is deceitful, and beauty is vain; \`But' a woman that feareth Jehovah, she shall be praised.
 
 **[31:31]** Give her of the fruit of her hands; And let her works praise her in the gates.

@@ -4,7 +4,7 @@
 
 **[1:2]** And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god: and he brought the vessels into the treasure-house of his god.
 
-**[1:3]** And the king spake unto Ashpenaz the master of his eunuchs, that he should bring in `certain' of the children of Israel, even of the seed royal and of the nobles;
+**[1:3]** And the king spake unto Ashpenaz the master of his eunuchs, that he should bring in \`certain' of the children of Israel, even of the seed royal and of the nobles;
 
 **[1:4]** youths in whom was no blemish, but well-favored, and skilful in all wisdom, and endued with knowledge, and understanding science, and such as had ability to stand in the king's palace; and that he should teach them the learning and the tongue of the Chaldeans.
 
@@ -12,7 +12,7 @@
 
 **[1:6]** Now among these were, of the children of Judah, Daniel, Hananiah, Mishael, and Azariah.
 
-**[1:7]** And the prince of the eunuchs gave names unto them: unto Daniel he gave `the name of' Belteshazzar; and to Hananiah, `of' Shadrach; and to Mishael, `of' Meshach; and to Azariah, `of' Abed-nego.
+**[1:7]** And the prince of the eunuchs gave names unto them: unto Daniel he gave \`the name of' Belteshazzar; and to Hananiah, \`of' Shadrach; and to Mishael, \`of' Meshach; and to Azariah, \`of' Abed-nego.
 
 **[1:8]** But Daniel purposed in his heart that he would not defile himself with the king's dainties, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.
 
@@ -98,7 +98,7 @@
 
 **[2:28]** but there is a God in heaven that revealeth secrets, and he hath made known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these:
 
-**[2:29]** as for thee, O king, thy thoughts came `into thy mind' upon thy bed, what should come to pass hereafter; and he that revealeth secrets hath made known to thee what shall come to pass.
+**[2:29]** as for thee, O king, thy thoughts came \`into thy mind' upon thy bed, what should come to pass hereafter; and he that revealeth secrets hath made known to thee what shall come to pass.
 
 **[2:30]** But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but to the intent that the interpretation may be made known to the king, and that thou mayest know the thoughts of thy heart.
 
@@ -164,23 +164,23 @@
 
 **[3:12]** There are certain Jews whom thou hast appointed over the affairs of the province of Babylon: Shadrach, Meshach, and Abed-nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.
 
-**[3:13]** Then Nebuchadnezzar in `his' rage and fury commanded to bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the king.
+**[3:13]** Then Nebuchadnezzar in \`his' rage and fury commanded to bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the king.
 
 **[3:14]** Nebuchadnezzar answered and said unto them, Is it of purpose, O Shadrach, Meshach, and Abed-nego, that ye serve not my god, nor worship the golden image which I have set up?
 
-**[3:15]** Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of music, ye fall down and worship the image which I have made, `well': but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that god that shall deliver you out of my hands?
+**[3:15]** Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of music, ye fall down and worship the image which I have made, \`well': but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that god that shall deliver you out of my hands?
 
 **[3:16]** Shadrach, Meshach, and Abed-nego answered and said to the king, O Nebuchadnezzar, we have no need to answer thee in this matter.
 
-**[3:17]** If it be `so', our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of thy hand, O king.
+**[3:17]** If it be \`so', our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of thy hand, O king.
 
 **[3:18]** But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.
 
-**[3:19]** Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego: `therefore' he spake, and commanded that they should heat the furnace seven times more than it was wont to be heated.
+**[3:19]** Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego: \`therefore' he spake, and commanded that they should heat the furnace seven times more than it was wont to be heated.
 
-**[3:20]** And he commanded certain mighty men that were in his army to bind Shadrach, Meshach, and Abed-nego, `and' to cast them into the burning fiery furnace.
+**[3:20]** And he commanded certain mighty men that were in his army to bind Shadrach, Meshach, and Abed-nego, \`and' to cast them into the burning fiery furnace.
 
-**[3:21]** Then these men were bound in their hosen, their tunics, and their mantles, and their `other' garments, and were cast into the midst of the burning fiery furnace.
+**[3:21]** Then these men were bound in their hosen, their tunics, and their mantles, and their \`other' garments, and were cast into the midst of the burning fiery furnace.
 
 **[3:22]** Therefore because the king's commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed-nego.
 
@@ -214,7 +214,7 @@
 
 **[4:7]** Then came in the magicians, the enchanters, the Chaldeans, and the soothsayers; and I told the dream before them; but they did not make known unto me the interpretation thereof.
 
-**[4:8]** But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my god, and in whom is the spirit of the holy gods: and I told the dream before him, `saying',
+**[4:8]** But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my god, and in whom is the spirit of the holy gods: and I told the dream before him, \`saying',
 
 **[4:9]** O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.
 
@@ -260,11 +260,11 @@
 
 **[4:30]** The king spake and said, Is not this great Babylon, which I have built for the royal dwelling-place, by the might of my power and for the glory of my majesty?
 
-**[4:31]** While the word was in the king's mouth, there fell a voice from heaven, `saying', O king Nebuchadnezzar, to thee it is spoken: The kingdom is departed from thee:
+**[4:31]** While the word was in the king's mouth, there fell a voice from heaven, \`saying', O king Nebuchadnezzar, to thee it is spoken: The kingdom is departed from thee:
 
 **[4:32]** and thou shalt be driven from men; and they dwelling shall be with the beasts of the field; thou shalt be made to eat grass as oxen; and seven times shall pass over thee; until thou know that the Most High ruleth in the kingdom of men, and giveth it to whomsoever he will.
 
-**[4:33]** The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hair was grown like eagles' `feathers', and his nails like birds' `claws'.
+**[4:33]** The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hair was grown like eagles' \`feathers', and his nails like birds' \`claws'.
 
 **[4:34]** And at the end of the days I, Nebuchadnezzar, lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the Most High, and I praised and honored him that liveth for ever; for his dominion is an everlasting dominion, and his kingdom from generation to generation.
 
@@ -292,9 +292,9 @@
 
 **[5:9]** Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were perplexed.
 
-**[5:10]** `Now' the queen by reason of the words of the king and his lords came into the banquet house: the queen spake and said, O king, live forever; let not thy thoughts trouble thee, nor let thy countenance be changed.
+**[5:10]** \`Now' the queen by reason of the words of the king and his lords came into the banquet house: the queen spake and said, O king, live forever; let not thy thoughts trouble thee, nor let thy countenance be changed.
 
-**[5:11]** There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, were found in him; and the king Nebuchadnezzar thy father, the king, `I say', thy father, made him master of the magicians, enchanters, Chaldeans, and soothsayers;
+**[5:11]** There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, were found in him; and the king Nebuchadnezzar thy father, the king, \`I say', thy father, made him master of the magicians, enchanters, Chaldeans, and soothsayers;
 
 **[5:12]** forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and showing of dark sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will show the interpretation.
 
@@ -366,7 +366,7 @@
 
 **[6:15]** Then these men assembled together unto the king, and said unto the king, Know, O king, that it is a law of the Medes and Persians, that no interdict nor statute which the king establisheth may be changed.
 
-**[6:16]** Then the king commanded, and they brought Daniel, and cast him into the den of lions. `Now' the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
+**[6:16]** Then the king commanded, and they brought Daniel, and cast him into the den of lions. \`Now' the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
 
 **[6:17]** And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that nothing might be changed concerning Daniel.
 
@@ -408,7 +408,7 @@
 
 **[7:8]** I considered the horns, and, behold, there came up among them another horn, a little one, before which three of the first horns were plucked up by the roots: and, behold, in this horn were eyes like the eyes of a man, and a mouth speaking great things.
 
-**[7:9]** I beheld till thrones were placed, and one that was ancient of days did sit: his raiment was white as snow, and the hair of his head like pure wool; his throne was fiery flames, `and' the wheels thereof burning fire.
+**[7:9]** I beheld till thrones were placed, and one that was ancient of days did sit: his raiment was white as snow, and the hair of his head like pure wool; his throne was fiery flames, \`and' the wheels thereof burning fire.
 
 **[7:10]** A fiery stream issued and came forth from before him: thousands of thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
 
@@ -430,7 +430,7 @@
 
 **[7:19]** Then I desired to know the truth concerning the fourth beast, which was diverse from all of them, exceeding terrible, whose teeth were of iron, and its nails of brass; which devoured, brake in pieces, and stamped the residue with its feet;
 
-**[7:20]** and concerning the ten horns that were on its head, and the other `horn' which came up, and before which three fell, even that horn that had eyes, and a mouth that spake great things, whose look was more stout than its fellows.
+**[7:20]** and concerning the ten horns that were on its head, and the other \`horn' which came up, and before which three fell, even that horn that had eyes, and a mouth that spake great things, whose look was more stout than its fellows.
 
 **[7:21]** I beheld, and the same horn made war with the saints, and prevailed against them;
 
@@ -462,23 +462,23 @@
 
 **[8:7]** And I saw him come close unto the ram, and he was moved with anger against him, and smote the ram, and brake his two horns; and there was no power in the ram to stand before him; but he cast him down to the ground, and trampled upon him; and there was none that could deliver the ram out of his hand.
 
-**[8:8]** And the he-goat magnified himself exceedingly: and when he was strong, the great horn was broken; and instead of it there came up four notable `horns' toward the four winds of heaven.
+**[8:8]** And the he-goat magnified himself exceedingly: and when he was strong, the great horn was broken; and instead of it there came up four notable \`horns' toward the four winds of heaven.
 
-**[8:9]** And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the glorious `land'.
+**[8:9]** And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the glorious \`land'.
 
 **[8:10]** And it waxed great, even to the host of heaven; and some of the host and of the stars it cast down to the ground, and trampled upon them.
 
-**[8:11]** Yea, it magnified itself, even to the prince of the host; and it took away from him the continual `burnt-offering', and the place of his sanctuary was cast down.
+**[8:11]** Yea, it magnified itself, even to the prince of the host; and it took away from him the continual \`burnt-offering', and the place of his sanctuary was cast down.
 
-**[8:12]** And the host was given over `to it' together with the continual `burnt-offering' through transgression; and it cast down truth to the ground, and it did `its pleasure' and prospered.
+**[8:12]** And the host was given over \`to it' together with the continual \`burnt-offering' through transgression; and it cast down truth to the ground, and it did \`its pleasure' and prospered.
 
-**[8:13]** Then I heard a holy one speaking; and another holy one said unto that certain one who spake, How long shall be the vision `concerning' the continual `burnt-offering', and the transgression that maketh desolate, to give both the sanctuary and the host to be trodden under foot?
+**[8:13]** Then I heard a holy one speaking; and another holy one said unto that certain one who spake, How long shall be the vision \`concerning' the continual \`burnt-offering', and the transgression that maketh desolate, to give both the sanctuary and the host to be trodden under foot?
 
-**[8:14]** And he said unto me, Unto two thousand and three hundred evenings `and' mornings; then shall the sanctuary be cleansed.
+**[8:14]** And he said unto me, Unto two thousand and three hundred evenings \`and' mornings; then shall the sanctuary be cleansed.
 
 **[8:15]** And it came to pass, when I, even I Daniel, had seen the vision, that I sought to understand it; and, behold, there stood before me as the appearance of a man.
 
-**[8:16]** And I heard a man's voice between `the banks of' the Ulai, which called, and said, Gabriel, make this man to understand the vision.
+**[8:16]** And I heard a man's voice between \`the banks of' the Ulai, which called, and said, Gabriel, make this man to understand the vision.
 
 **[8:17]** So he came near where I stood; and when he came, I was affrighted, and fell upon my face: but he said unto me, Understand, O son of man; for the vision belongeth to the time of the end.
 
@@ -494,11 +494,11 @@
 
 **[8:23]** And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 
-**[8:24]** And his power shall be mighty, but not by his own power; and he shall destroy wonderfully, and shall prosper and do `his pleasure'; and he shall destroy the mighty ones and the holy people.
+**[8:24]** And his power shall be mighty, but not by his own power; and he shall destroy wonderfully, and shall prosper and do \`his pleasure'; and he shall destroy the mighty ones and the holy people.
 
-**[8:25]** And through his policy he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and in `their' security shall he destroy many: he shall also stand up against the prince of princes; but he shall be broken without hand.
+**[8:25]** And through his policy he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and in \`their' security shall he destroy many: he shall also stand up against the prince of princes; but he shall be broken without hand.
 
-**[8:26]** And the vision of the evenings and mornings which hath been told is true: but shut thou up the vision; for it belongeth to many days `to come'.
+**[8:26]** And the vision of the evenings and mornings which hath been told is true: but shut thou up the vision; for it belongeth to many days \`to come'.
 
 **[8:27]** And I, Daniel, fainted, and was sick certain days; then I rose up, and did the king's business: and I wondered at the vision, but none understood it.
 
@@ -554,7 +554,7 @@
 
 **[9:26]** And after the threescore and two weeks shall the anointed one be cut off, and shall have nothing: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and even unto the end shall be war; desolations are determined.
 
-**[9:27]** And he shall make a firm covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease; and upon the wing of abominations `shall come' one that maketh desolate; and even unto the full end, and that determined, shall `wrath' be poured out upon the desolate.
+**[9:27]** And he shall make a firm covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease; and upon the wing of abominations \`shall come' one that maketh desolate; and even unto the full end, and that determined, shall \`wrath' be poured out upon the desolate.
 
 **[10:1]** In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing was true, even a great warfare: and he understood the thing, and had understanding of the vision.
 
@@ -582,7 +582,7 @@
 
 **[10:13]** But the prince of the kingdom of Persia withstood me one and twenty days; but, lo, Michael, one of the chief princes, came to help me: and I remained there with the kings of Persia.
 
-**[10:14]** Now I am come to make thee understand what shall befall thy people in the latter days; for the vision is yet for `many' days:
+**[10:14]** Now I am come to make thee understand what shall befall thy people in the latter days; for the vision is yet for \`many' days:
 
 **[10:15]** and when he had spoken unto me according to these words, I set my face toward the ground, and was dumb.
 
@@ -606,13 +606,13 @@
 
 **[11:4]** And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven, but not to his posterity, nor according to his dominion wherewith he ruled; for his kingdom shall be plucked up, even for others besides these.
 
-**[11:5]** And the king of the south shall be strong, and `one' of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.
+**[11:5]** And the king of the south shall be strong, and \`one' of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.
 
 **[11:6]** And at the end of years they shall join themselves together; and the daughter of the king of the south shall come to the king of the north to make an agreement: but she shall not retain the strength of her arm; neither shall he stand, nor his arm; but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in those times.
 
 **[11:7]** But out of a shoot from her roots shall one stand up in his place, who shall come unto the army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail.
 
-**[11:8]** And also their gods, with their molten images, `and' with their goodly vessels of silver and of gold, shall he carry captive into Egypt; and he shall refrain some years from the king of the north.
+**[11:8]** And also their gods, with their molten images, \`and' with their goodly vessels of silver and of gold, shall he carry captive into Egypt; and he shall refrain some years from the king of the north.
 
 **[11:9]** And he shall come into the realm of the king of the south, but he shall return into his own land.
 
@@ -622,7 +622,7 @@
 
 **[11:12]** And the multitude shall be lifted up, and his heart shall be exalted; and he shall cast down tens of thousands, but he shall not prevail.
 
-**[11:13]** And the king of the north shall return, and shall set forth a multitude greater than the former; and he shall come on at the end of the times, `even of' years, with a great army and with much substance.
+**[11:13]** And the king of the north shall return, and shall set forth a multitude greater than the former; and he shall come on at the end of the times, \`even of' years, with a great army and with much substance.
 
 **[11:14]** And in those times there shall many stand up against the king of the south: also the children of the violent among thy people shall lift themselves up to establish the vision; but they shall fall.
 
@@ -652,17 +652,17 @@
 
 **[11:27]** And as for both these kings, their hearts shall be to do mischief, and they shall speak lies at one table: but it shall not prosper; for yet the end shall be at the time appointed.
 
-**[11:28]** Then shall he return into his land with great substance; and his heart `shall be' against the holy covenant; and he shall do `his pleasure', and return to his own land.
+**[11:28]** Then shall he return into his land with great substance; and his heart \`shall be' against the holy covenant; and he shall do \`his pleasure', and return to his own land.
 
 **[11:29]** At the time appointed he shall return, and come into the south; but it shall not be in the latter time as it was in the former.
 
-**[11:30]** For ships of Kittim shall come against him; therefore he shall be grieved, and shall return, and have indignation against the holy covenant, and shall do `his pleasure': he shall even return, and have regard unto them that forsake the holy covenant.
+**[11:30]** For ships of Kittim shall come against him; therefore he shall be grieved, and shall return, and have indignation against the holy covenant, and shall do \`his pleasure': he shall even return, and have regard unto them that forsake the holy covenant.
 
-**[11:31]** And forces shall stand on his part, and they shall profane the sanctuary, even the fortress, and shall take away the continual `burnt-offering', and they shall set up the abomination that maketh desolate.
+**[11:31]** And forces shall stand on his part, and they shall profane the sanctuary, even the fortress, and shall take away the continual \`burnt-offering', and they shall set up the abomination that maketh desolate.
 
-**[11:32]** And such as do wickedly against the covenant shall he pervert by flatteries; but the people that know their God shall be strong, and do `exploits'.
+**[11:32]** And such as do wickedly against the covenant shall he pervert by flatteries; but the people that know their God shall be strong, and do \`exploits'.
 
-**[11:33]** And they that are wise among the people shall instruct many; yet they shall fall by the sword and by flame, by captivity and by spoil, `many' days.
+**[11:33]** And they that are wise among the people shall instruct many; yet they shall fall by the sword and by flame, by captivity and by spoil, \`many' days.
 
 **[11:34]** Now when they shall fall, they shall be helped with a little help; but many shall join themselves unto them with flatteries.
 
@@ -674,11 +674,11 @@
 
 **[11:38]** But in his place shall he honor the god of fortresses; and a god whom his fathers knew not shall he honor with gold, and silver, and with precious stones, and pleasant things.
 
-**[11:39]** And he shall deal with the strongest fortresses by the help of a foreign god: whosoever acknowledgeth `him' he will increase with glory; and he shall cause them to rule over many, and shall divide the land for a price.
+**[11:39]** And he shall deal with the strongest fortresses by the help of a foreign god: whosoever acknowledgeth \`him' he will increase with glory; and he shall cause them to rule over many, and shall divide the land for a price.
 
 **[11:40]** And at the time of the end shall the king of the south contend with him; and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass through.
 
-**[11:41]** He shall enter also into the glorious land, and many `countries' shall be overthrown; but these shall be delivered out of his hand: Edom, and Moab, and the chief of the children of Ammon.
+**[11:41]** He shall enter also into the glorious land, and many \`countries' shall be overthrown; but these shall be delivered out of his hand: Edom, and Moab, and the chief of the children of Ammon.
 
 **[11:42]** He shall stretch forth his hand also upon the countries; and the land of Egypt shall not escape.
 
@@ -708,7 +708,7 @@
 
 **[12:10]** Many shall purify themselves, and make themselves white, and be refined; but the wicked shall do wickedly; and none of the wicked shall understand; but they that are wise shall understand.
 
-**[12:11]** And from the time that the continual `burnt-offering' shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand and two hundred and ninety days.
+**[12:11]** And from the time that the continual \`burnt-offering' shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand and two hundred and ninety days.
 
 **[12:12]** Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days.
 

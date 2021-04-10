@@ -4,21 +4,21 @@
 
 **[1:2]** and the Life was manifested, and we have seen, and do testify, and declare to you the Life, the age-during, which was with the Father, and was manifested to us --
 
-**[1:3]** that which we have seen and heard declare we to you, that ye also may have fellowship with us, and our fellowship `is' with the Father, and with His Son Jesus Christ;
+**[1:3]** that which we have seen and heard declare we to you, that ye also may have fellowship with us, and our fellowship \`is' with the Father, and with His Son Jesus Christ;
 
 **[1:4]** and these things we write to you, that your joy may be full.
 
 **[1:5]** And this is the message that we have heard from Him, and announce to you, that God is light, and darkness in Him is not at all;
 
-**[1:6]** if we may say -- `we have fellowship with Him,' and in the darkness may walk -- we lie, and do not the truth;
+**[1:6]** if we may say -- \`we have fellowship with Him,' and in the darkness may walk -- we lie, and do not the truth;
 
 **[1:7]** and if in the light we may walk, as He is in the light -- we have fellowship one with another, and the blood of Jesus Christ His Son doth cleanse us from every sin;
 
-**[1:8]** if we may say -- `we have not sin,' ourselves we lead astray, and the truth is not in us;
+**[1:8]** if we may say -- \`we have not sin,' ourselves we lead astray, and the truth is not in us;
 
 **[1:9]** if we may confess our sins, stedfast He is and righteous that He may forgive us the sins, and may cleanse us from every unrighteousness;
 
-**[1:10]** if we may say -- `we have not sinned,' a liar we make Him, and His word is not in us.
+**[1:10]** if we may say -- \`we have not sinned,' a liar we make Him, and His word is not in us.
 
 **[2:1]** My little children, these things I write to you, that ye may not sin: and if any one may sin, an advocate we have with the Father, Jesus Christ, a righteous one,
 
@@ -26,7 +26,7 @@
 
 **[2:3]** and in this we know that we have known him, if his commands we may keep;
 
-**[2:4]** he who is saying, `I have known him,' and his command is not keeping, a liar he is, and in him the truth is not;
+**[2:4]** he who is saying, \`I have known him,' and his command is not keeping, a liar he is, and in him the truth is not;
 
 **[2:5]** and whoever may keep his word, truly in him the love of God hath been perfected; in this we know that in him we are.
 
@@ -44,13 +44,13 @@
 
 **[2:12]** I write to you, little children, because the sins have been forgiven you through his name;
 
-**[2:13]** I write to you, fathers, because ye have known him who `is' from the beginning; I write to you, young men, because ye have overcome the evil. I write to you, little youths, because ye have known the Father:
+**[2:13]** I write to you, fathers, because ye have known him who \`is' from the beginning; I write to you, young men, because ye have overcome the evil. I write to you, little youths, because ye have known the Father:
 
-**[2:14]** I did write to you, fathers, because ye have known him who `is' from the beginning; I did write to you, young men, because ye are strong, and the word of God in you doth remain, and ye have overcome the evil.
+**[2:14]** I did write to you, fathers, because ye have known him who \`is' from the beginning; I did write to you, young men, because ye are strong, and the word of God in you doth remain, and ye have overcome the evil.
 
 **[2:15]** Love not ye the world, nor the things in the world; if any one doth love the world, the love of the Father is not in him,
 
-**[2:16]** because all that `is' in the world -- the desire of the flesh, and the desire of the eyes, and the ostentation of the life -- is not of the Father, but of the world,
+**[2:16]** because all that \`is' in the world -- the desire of the flesh, and the desire of the eyes, and the ostentation of the life -- is not of the Father, but of the world,
 
 **[2:17]** and the world doth pass away, and the desire of it, and he who is doing the will of God, he doth remain -- to the age.
 
@@ -64,7 +64,7 @@
 
 **[2:22]** Who is the liar, except he who is denying that Jesus is the Christ? this one is the antichrist who is denying the Father and the Son;
 
-**[2:23]** every one who is denying the Son, neither hath he the Father, `he who is confessing the Son hath the Father also.'
+**[2:23]** every one who is denying the Son, neither hath he the Father, \`he who is confessing the Son hath the Father also.'
 
 **[2:24]** Ye, then, that which ye heard from the beginning, in you let it remain; if in you may remain that which from the beginning ye did hear, ye also in the Son and in the Father shall remain,
 
@@ -132,7 +132,7 @@
 
 **[4:3]** and every spirit that doth not confess Jesus Christ in the flesh having come, of God it is not; and this is that of the antichrist, which ye heard that it doth come, and now in the world it is already.
 
-**[4:4]** Ye -- of God ye are, little children, and ye have overcome them; because greater is He who `is' in you, than he who is in the world.
+**[4:4]** Ye -- of God ye are, little children, and ye have overcome them; because greater is He who \`is' in you, than he who is in the world.
 
 **[4:5]** They -- of the world they are; because of this from the world they speak, and the world doth hear them;
 
@@ -164,9 +164,9 @@
 
 **[4:19]** we -- we love him, because He -- He first loved us;
 
-**[4:20]** if any one may say -- `I love God,' and his brother he may hate, a liar he is; for he who is not loving his brother whom he hath seen, God -- whom he hath not seen -- how is he able to love?
+**[4:20]** if any one may say -- \`I love God,' and his brother he may hate, a liar he is; for he who is not loving his brother whom he hath seen, God -- whom he hath not seen -- how is he able to love?
 
-**[4:21]** and this `is' the command we have from Him, that he who is loving God, may also love his brother.
+**[4:21]** and this \`is' the command we have from Him, that he who is loving God, may also love his brother.
 
 **[5:1]** Every one who is believing that Jesus is the Christ, of God he hath been begotten, and every one who is loving Him who did beget, doth love also him who is begotten of Him:
 
@@ -180,7 +180,7 @@
 
 **[5:6]** This one is he who did come through water and blood -- Jesus the Christ, not in the water only, but in the water and the blood; and the Spirit it is that is testifying, because the Spirit is the truth,
 
-**[5:7]** because three are who are testifying `in the heaven, the Father, the Word, and the Holy Spirit, and these -- the three -- are one;
+**[5:7]** because three are who are testifying \`in the heaven, the Father, the Word, and the Holy Spirit, and these -- the three -- are one;
 
 **[5:8]** and three are who are testifying in the earth', the Spirit, and the water, and the blood, and the three are into the one.
 

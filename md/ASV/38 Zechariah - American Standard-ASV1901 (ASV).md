@@ -24,7 +24,7 @@
 
 **[1:12]** Then the angel of Jehovah answered and said, O Jehovah of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years?
 
-**[1:13]** And Jehovah answered the angel that talked with me with good words, `even' comfortable words.
+**[1:13]** And Jehovah answered the angel that talked with me with good words, \`even' comfortable words.
 
 **[1:14]** So the angel that talked with me said unto me, Cry thou, saying, Thus saith Jehovah of hosts: I am jealous for Jerusalem and for Zion with a great jealousy.
 
@@ -100,17 +100,17 @@
 
 **[4:6]** Then he answered and spake unto me, saying, This is the word of Jehovah unto Zerubbabel, saying, Not by might, nor by power, but by my Spirit, saith Jehovah of hosts.
 
-**[4:7]** Who art thou, O great mountain? before Zerubbabel `thou shalt become' a plain; and he shall bring forth the top stone with shoutings of Grace, grace, unto it.
+**[4:7]** Who art thou, O great mountain? before Zerubbabel \`thou shalt become' a plain; and he shall bring forth the top stone with shoutings of Grace, grace, unto it.
 
 **[4:8]** Moreover the word of Jehovah came unto me, saying,
 
 **[4:9]** The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that Jehovah of hosts hath sent me unto you.
 
-**[4:10]** For who hath despised the day of small things? for these seven shall rejoice, and shall see the plummet in the hand of Zerubbabel; `these are' the eyes of Jehovah, which run to and fro through the whole earth.
+**[4:10]** For who hath despised the day of small things? for these seven shall rejoice, and shall see the plummet in the hand of Zerubbabel; \`these are' the eyes of Jehovah, which run to and fro through the whole earth.
 
 **[4:11]** Then answered I, and said unto him, What are these two olive-trees upon the right side of the candlestick and upon the left side thereof?
 
-**[4:12]** And I answered the second time, and said unto him, What are these two olive-branches, which are beside the two golden spouts, that empty the golden `oil' out of themselves?
+**[4:12]** And I answered the second time, and said unto him, What are these two olive-branches, which are beside the two golden spouts, that empty the golden \`oil' out of themselves?
 
 **[4:13]** And he answered me and said, Knowest thou not what these are? And I said, No, my lord.
 
@@ -148,7 +148,7 @@
 
 **[6:5]** And the angel answered and said unto me, These are the four winds of heaven, which go forth from standing before the Lord of all the earth.
 
-**[6:6]** `The chariot' wherein are the black horses goeth forth toward the north country; and the white went forth after them; and the grizzled went forth toward the south country.
+**[6:6]** \`The chariot' wherein are the black horses goeth forth toward the north country; and the white went forth after them; and the grizzled went forth toward the south country.
 
 **[6:7]** And the strong went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.
 
@@ -158,7 +158,7 @@
 
 **[6:10]** Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah; and come thou the same day, and go into the house of Josiah the son of Zephaniah, whither they are come from Babylon;
 
-**[6:11]** yea, take `of them' silver and gold, and make crowns, and set them upon the head of Joshua the son of Jehozadak, the high priest;
+**[6:11]** yea, take \`of them' silver and gold, and make crowns, and set them upon the head of Joshua the son of Jehozadak, the high priest;
 
 **[6:12]** and speak unto him, saying, Thus speaketh Jehovah of hosts, saying, Behold, the man whose name is the Branch: and he shall grow up out of his place; and he shall build the temple of Jehovah;
 
@@ -166,21 +166,21 @@
 
 **[6:14]** And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of Jehovah.
 
-**[6:15]** And they that are far off shall come and build in the temple of Jehovah; and ye shall know that Jehovah of hosts hath sent me unto you. And `this' shall come to pass, if ye will diligently obey the voice of Jehovah your God.
+**[6:15]** And they that are far off shall come and build in the temple of Jehovah; and ye shall know that Jehovah of hosts hath sent me unto you. And \`this' shall come to pass, if ye will diligently obey the voice of Jehovah your God.
 
-**[7:1]** And it came to pass in the fourth year of king Darius, that the word of Jehovah came unto Zechariah in the fourth `day' of the ninth month, even in Chislev.
+**[7:1]** And it came to pass in the fourth year of king Darius, that the word of Jehovah came unto Zechariah in the fourth \`day' of the ninth month, even in Chislev.
 
-**[7:2]** Now `they of' Beth-el had sent Sharezer and Regem-melech, and their men, to entreat the favor of Jehovah,
+**[7:2]** Now \`they of' Beth-el had sent Sharezer and Regem-melech, and their men, to entreat the favor of Jehovah,
 
-**[7:3]** `and' to speak unto the priests of the house of Jehovah of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?
+**[7:3]** \`and' to speak unto the priests of the house of Jehovah of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?
 
 **[7:4]** Then came the word of Jehovah of hosts unto me, saying,
 
-**[7:5]** Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and in the seventh `month', even these seventy years, did ye at all fast unto me, even to me?
+**[7:5]** Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and in the seventh \`month', even these seventy years, did ye at all fast unto me, even to me?
 
 **[7:6]** And when ye eat, and when ye drink, do not ye eat for yourselves, and drink for yourselves?
 
-**[7:7]** `Should ye' not `hear' the words which Jehovah cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, and the South and the lowland were inhabited?
+**[7:7]** \`Should ye' not \`hear' the words which Jehovah cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, and the South and the lowland were inhabited?
 
 **[7:8]** And the word of Jehovah came unto Zechariah, saying,
 
@@ -196,7 +196,7 @@
 
 **[7:14]** but I will scatter them with a whirlwind among all the nations which they have not known. Thus the land was desolate after them, so that no man passed through nor returned: for they laid the pleasant land desolate.
 
-**[8:1]** And the word of Jehovah of hosts came `to me', saying,
+**[8:1]** And the word of Jehovah of hosts came \`to me', saying,
 
 **[8:2]** Thus saith Jehovah of hosts: I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.
 
@@ -218,9 +218,9 @@
 
 **[8:11]** But now I will not be unto the remnant of this people as in the former days, saith Jehovah of hosts.
 
-**[8:12]** For `there shall be' the seed of peace; the vine shall give its fruit, and the ground shall give its increase, and the heavens shall give their dew; and I will cause the remnant of this people to inherit all these things.
+**[8:12]** For \`there shall be' the seed of peace; the vine shall give its fruit, and the ground shall give its increase, and the heavens shall give their dew; and I will cause the remnant of this people to inherit all these things.
 
-**[8:13]** And it shall come to pass that, as ye were a curse among the nations, O house of Judah and house of Israel, so will I save you, and ye shall be a blessing. Fear not, `but' let your hands be strong.
+**[8:13]** And it shall come to pass that, as ye were a curse among the nations, O house of Judah and house of Israel, so will I save you, and ye shall be a blessing. Fear not, \`but' let your hands be strong.
 
 **[8:14]** For thus saith Jehovah of hosts: As I thought to do evil unto you, when your fathers provoked me to wrath, saith Jehovah of hosts, and I repented not;
 
@@ -232,17 +232,17 @@
 
 **[8:18]** And the word of Jehovah of hosts came unto me, saying,
 
-**[8:19]** Thus saith Jehovah of hosts: The fast of the fourth `month', and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love truth and peace.
+**[8:19]** Thus saith Jehovah of hosts: The fast of the fourth \`month', and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love truth and peace.
 
-**[8:20]** Thus saith Jehovah of hosts: `It shall' yet `come to pass', that there shall come peoples, and the inhabitants of many cities;
+**[8:20]** Thus saith Jehovah of hosts: \`It shall' yet \`come to pass', that there shall come peoples, and the inhabitants of many cities;
 
-**[8:21]** and the inhabitants of one `city' shall go to another, saying, Let us go speedily to entreat the favor of Jehovah, and to seek Jehovah of hosts: I will go also.
+**[8:21]** and the inhabitants of one \`city' shall go to another, saying, Let us go speedily to entreat the favor of Jehovah, and to seek Jehovah of hosts: I will go also.
 
 **[8:22]** Yea, many peoples and strong nations shall come to seek Jehovah of hosts in Jerusalem, and to entreat the favor of Jehovah.
 
-**[8:23]** Thus saith Jehovah of hosts: In those days `it shall come to pass', that ten men shall take hold, out of all the languages of the nations, they shall take hold of the skirt of him that is a Jew, saying, We will go with you, for we have heard that God is with you.
+**[8:23]** Thus saith Jehovah of hosts: In those days \`it shall come to pass', that ten men shall take hold, out of all the languages of the nations, they shall take hold of the skirt of him that is a Jew, saying, We will go with you, for we have heard that God is with you.
 
-**[9:1]** The burden of the word of Jehovah upon the land of Hadrach, and Damascus `shall be' its resting-place (for the eye of man and of all the tribes of Israel is toward Jehovah);
+**[9:1]** The burden of the word of Jehovah upon the land of Hadrach, and Damascus \`shall be' its resting-place (for the eye of man and of all the tribes of Israel is toward Jehovah);
 
 **[9:2]** and Hamath, also, which bordereth thereon; Tyre and Sidon, because they are very wise.
 
@@ -272,11 +272,11 @@
 
 **[9:15]** Jehovah of hosts will defend them; and they shall devour, and shall tread down the sling-stones; and they shall drink, and make a noise as through wine; and they shall be filled like bowls, like the corners of the altar.
 
-**[9:16]** And Jehovah their God will save them in that day as the flock of his people; for `they shall be as' the stones of a crown, lifted on high over his land.
+**[9:16]** And Jehovah their God will save them in that day as the flock of his people; for \`they shall be as' the stones of a crown, lifted on high over his land.
 
 **[9:17]** For how great is his goodness, and how great is his beauty! grain shall make the young men flourish, and new wine the virgins.
 
-**[10:1]** Ask ye of Jehovah rain in the time of the latter rain, `even of' Jehovah that maketh lightnings; and he will give them showers of rain, to every one grass in the field.
+**[10:1]** Ask ye of Jehovah rain in the time of the latter rain, \`even of' Jehovah that maketh lightnings; and he will give them showers of rain, to every one grass in the field.
 
 **[10:2]** For the teraphim have spoken vanity, and the diviners have seen a lie; and they have told false dreams, they comfort in vain: therefore they go their way like sheep, they are afflicted, because there is no shepherd.
 
@@ -284,17 +284,17 @@
 
 **[10:4]** From him shall come forth the corner-stone, from him the nail, from him the battle bow, from him every ruler together.
 
-**[10:5]** And they shall be as mighty men, treading down `their enemies' in the mire of the streets in the battle; and they shall fight, because Jehovah is with them; and the riders on horses shall be confounded.
+**[10:5]** And they shall be as mighty men, treading down \`their enemies' in the mire of the streets in the battle; and they shall fight, because Jehovah is with them; and the riders on horses shall be confounded.
 
 **[10:6]** And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them back; for I have mercy upon them; and they shall be as though I had not cast them off: for I am Jehovah their God, and I will hear them.
 
-**[10:7]** And `they of' Ephraim shall be like a mighty man, and their heart shall rejoice as through wine; yea, their children shall see it, and rejoice; their heart shall be glad in Jehovah.
+**[10:7]** And \`they of' Ephraim shall be like a mighty man, and their heart shall rejoice as through wine; yea, their children shall see it, and rejoice; their heart shall be glad in Jehovah.
 
 **[10:8]** I will hiss for them, and gather them; for I have redeemed them; and they shall increase as they have increased.
 
 **[10:9]** And I will sow them among the peoples; and they shall remember me in far countries; and they shall live with their children, and shall return.
 
-**[10:10]** I will bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and `place' shall not be found for them.
+**[10:10]** I will bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and \`place' shall not be found for them.
 
 **[10:11]** And he will pass through the sea of affliction, and will smite the waves in the sea, and all the depths of the Nile shall dry up; and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart.
 
@@ -322,19 +322,19 @@
 
 **[11:11]** And it was broken in that day; and thus the poor of the flock that gave heed unto me knew that it was the word of Jehovah.
 
-**[11:12]** And I said unto them, If ye think good, give me my hire; and if not, forbear. So they weighed for my hire thirty `pieces' of silver.
+**[11:12]** And I said unto them, If ye think good, give me my hire; and if not, forbear. So they weighed for my hire thirty \`pieces' of silver.
 
-**[11:13]** And Jehovah said unto me, Cast it unto the potter, the goodly price that I was prized at by them. And I took the thirty `pieces' of silver, and cast them unto the potter, in the house of Jehovah.
+**[11:13]** And Jehovah said unto me, Cast it unto the potter, the goodly price that I was prized at by them. And I took the thirty \`pieces' of silver, and cast them unto the potter, in the house of Jehovah.
 
 **[11:14]** Then I cut asunder mine other staff, even Bands, that I might break the brotherhood between Judah and Israel.
 
 **[11:15]** And Jehovah said unto me, Take unto thee yet again the instruments of a foolish shepherd.
 
-**[11:16]** For, lo, I will raise up a shepherd in the land, who will not visit those that are cut off, neither will seek those that are scattered, nor heal that which is broken, nor feed that which is sound; but he will eat the flesh of the fat `sheep', and will tear their hoofs in pieces.
+**[11:16]** For, lo, I will raise up a shepherd in the land, who will not visit those that are cut off, neither will seek those that are scattered, nor heal that which is broken, nor feed that which is sound; but he will eat the flesh of the fat \`sheep', and will tear their hoofs in pieces.
 
 **[11:17]** Woe to the worthless shepherd that leaveth the flock! the sword shall be upon his arm, and upon his right eye: his arm shall be clean dried up, and his right eye shall be utterly darkened.
 
-**[12:1]** The burden of the word of Jehovah concerning Israel. `Thus' saith Jehovah, who stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him:
+**[12:1]** The burden of the word of Jehovah concerning Israel. \`Thus' saith Jehovah, who stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him:
 
 **[12:2]** behold, I will make Jerusalem a cup of reeling unto all the peoples round about, and upon Judah also shall it be in the siege against Jerusalem.
 
@@ -344,7 +344,7 @@
 
 **[12:5]** And the chieftains of Judah shall say in their heart, The inhabitants of Jerusalem are my strength in Jehovah of hosts their God.
 
-**[12:6]** In that day will I make the chieftains of Judah like a pan of fire among wood, and like a flaming torch among sheaves; and they shall devour all the peoples round about, on the right hand and on the left; and `they of' Jerusalem shall yet again dwell in their own place, even in Jerusalem.
+**[12:6]** In that day will I make the chieftains of Judah like a pan of fire among wood, and like a flaming torch among sheaves; and they shall devour all the peoples round about, on the right hand and on the left; and \`they of' Jerusalem shall yet again dwell in their own place, even in Jerusalem.
 
 **[12:7]** Jehovah also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem be not magnified above Judah.
 
@@ -386,7 +386,7 @@
 
 **[14:3]** Then shall Jehovah go forth, and fight against those nations, as when he fought in the day of battle.
 
-**[14:4]** And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east; and the mount of Olives shall be cleft in the midst thereof toward the east and toward the west, `and there shall be' a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.
+**[14:4]** And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east; and the mount of Olives shall be cleft in the midst thereof toward the east and toward the west, \`and there shall be' a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.
 
 **[14:5]** And ye shall flee by the valley of my mountains; for the valley of the mountains shall reach unto Azel; yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah; and Jehovah my God shall come, and all the holy ones with thee.
 
@@ -412,9 +412,9 @@
 
 **[14:16]** And it shall come to pass, that every one that is left of all the nations that came against Jerusalem shall go up from year to year to worship the King, Jehovah of hosts, and to keep the feast of tabernacles.
 
-**[14:17]** And it shall be, that whoso of `all' the families of the earth goeth not up unto Jerusalem to worship the King, Jehovah of hosts, upon them there shall be no rain.
+**[14:17]** And it shall be, that whoso of \`all' the families of the earth goeth not up unto Jerusalem to worship the King, Jehovah of hosts, upon them there shall be no rain.
 
-**[14:18]** And if the family of Egypt go not up, and come not, neither `shall it be' upon them; there shall be the plague wherewith Jehovah will smite the nations that go not up to keep the feast of tabernacles.
+**[14:18]** And if the family of Egypt go not up, and come not, neither \`shall it be' upon them; there shall be the plague wherewith Jehovah will smite the nations that go not up to keep the feast of tabernacles.
 
 **[14:19]** This shall be the punishment of Egypt, and the punishment of all the nations that go not up to keep the feast of tabernacles.
 

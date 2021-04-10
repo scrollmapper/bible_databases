@@ -2,35 +2,35 @@
 
 **[1:1]** The burden of a word of Jehovah unto Israel by the hand of Malachi:
 
-**[1:2]** I have loved you, said Jehovah, And ye have said, `In what hast Thou loved us?'
+**[1:2]** I have loved you, said Jehovah, And ye have said, \`In what hast Thou loved us?'
 
 **[1:3]** Is not Esau Jacob's brother? -- an affirmation of Jehovah, And I love Jacob, and Esau I have hated, And I make his mountains a desolation, And his inheritance for dragons of a wilderness.
 
-**[1:4]** Because Edom saith, `We have been made poor, And we turn back and we build the wastes,' Thus said Jehovah of Hosts: They do build, and I do destroy, And `men' have called to them, `O region of wickedness,' `O people whom Jehovah defied to the age.'
+**[1:4]** Because Edom saith, \`We have been made poor, And we turn back and we build the wastes,' Thus said Jehovah of Hosts: They do build, and I do destroy, And \`men' have called to them, \`O region of wickedness,' \`O people whom Jehovah defied to the age.'
 
-**[1:5]** And your eyes do see, and ye say, `Magnified is Jehovah beyond the border of Israel,
+**[1:5]** And your eyes do see, and ye say, \`Magnified is Jehovah beyond the border of Israel,
 
-**[1:6]** A son honoureth a father, and a servant his master. And if I `am' a father, where `is' Mine honour? And if I `am' a master, where `is' My fear? Said Jehovah of Hosts to you, O priests, despising My name! And ye have said: `In what have we despised Thy name?'
+**[1:6]** A son honoureth a father, and a servant his master. And if I \`am' a father, where \`is' Mine honour? And if I \`am' a master, where \`is' My fear? Said Jehovah of Hosts to you, O priests, despising My name! And ye have said: \`In what have we despised Thy name?'
 
-**[1:7]** Ye are bringing nigh on Mine altar polluted bread, And ye have said: `In what have we polluted Thee?' In your saying: `The table of Jehovah -- it `is' despicable,'
+**[1:7]** Ye are bringing nigh on Mine altar polluted bread, And ye have said: \`In what have we polluted Thee?' In your saying: \`The table of Jehovah -- it \`is' despicable,'
 
-**[1:8]** And when ye bring nigh the blind for sacrifice, `There is no evil,' And when ye bring nigh the lame and sick, `There is no evil;' Bring it near, I pray thee, to thy governor -- Doth he accept thee? or doth he lift up thy face? Said Jehovah of Hosts.
+**[1:8]** And when ye bring nigh the blind for sacrifice, \`There is no evil,' And when ye bring nigh the lame and sick, \`There is no evil;' Bring it near, I pray thee, to thy governor -- Doth he accept thee? or doth he lift up thy face? Said Jehovah of Hosts.
 
 **[1:9]** And now, appease, I pray thee, the face of God, And He doth favour us; From your own hand hath this been, Doth He accept of you appearances? Said Jehovah of Hosts.
 
-**[1:10]** Who `is' even among you, And he shutteth the two-leaved doors? Yea, ye do not kindle Mine altar for nought, I have no pleasure in you, said Jehovah of Hosts, And a present I do not accept of your hand.
+**[1:10]** Who \`is' even among you, And he shutteth the two-leaved doors? Yea, ye do not kindle Mine altar for nought, I have no pleasure in you, said Jehovah of Hosts, And a present I do not accept of your hand.
 
-**[1:11]** For, from the rising of the sun to its going in, Great `is' My name among nations, And in every place perfume is brought nigh to My name, and a pure present, For great `is' My name among nations, Said Jehovah of Hosts.
+**[1:11]** For, from the rising of the sun to its going in, Great \`is' My name among nations, And in every place perfume is brought nigh to My name, and a pure present, For great \`is' My name among nations, Said Jehovah of Hosts.
 
-**[1:12]** And ye are polluting it in your saying, `The table of Jehovah -- it is polluted, As to its fruit -- despicable is its food.'
+**[1:12]** And ye are polluting it in your saying, \`The table of Jehovah -- it is polluted, As to its fruit -- despicable is its food.'
 
-**[1:13]** And ye have said, `Lo, what a weariness,' And ye have puffed at it, said Jehovah of Hosts, And ye have brought in plunder, And the lame and the sick, And ye have brought in the present! Do I accept it from your hand? said Jehovah.
+**[1:13]** And ye have said, \`Lo, what a weariness,' And ye have puffed at it, said Jehovah of Hosts, And ye have brought in plunder, And the lame and the sick, And ye have brought in the present! Do I accept it from your hand? said Jehovah.
 
-**[1:14]** And cursed `is' a deceiver, who hath in his drove a male, And is vowing, and is sacrificing a marred thing to the Lord, For a great king `am' I, said Jehovah of Hosts, And My name `is' revered among nations!
+**[1:14]** And cursed \`is' a deceiver, who hath in his drove a male, And is vowing, and is sacrificing a marred thing to the Lord, For a great king \`am' I, said Jehovah of Hosts, And My name \`is' revered among nations!
 
-**[2:1]** And now, to you `is' this charge, O priests,
+**[2:1]** And now, to you \`is' this charge, O priests,
 
-**[2:2]** If ye hearken not, and if ye lay `it' not to heart, To give honour to My name, said Jehovah of Hosts, I have sent against you the curse, And I have cursed your blessings, Yea, I have also cursed it, Because ye are not laying `it' to heart.
+**[2:2]** If ye hearken not, and if ye lay \`it' not to heart, To give honour to My name, said Jehovah of Hosts, I have sent against you the curse, And I have cursed your blessings, Yea, I have also cursed it, Because ye are not laying \`it' to heart.
 
 **[2:3]** Lo, I am pushing away before you the seed, And have scattered dung before your faces, Dung of your festivals, And it hath taken you away with it.
 
@@ -40,7 +40,7 @@
 
 **[2:6]** The law of truth hath been in his mouth, And perverseness hath not been found in his lips, In peace and in uprightness he walked with Me, And many he brought back from iniquity.
 
-**[2:7]** For the lips of a priest preserve knowledge, And law they do seek from his mouth, For a messenger of Jehovah of Hosts he `is'.
+**[2:7]** For the lips of a priest preserve knowledge, And law they do seek from his mouth, For a messenger of Jehovah of Hosts he \`is'.
 
 **[2:8]** And ye, ye have turned from the way, Ye have caused many to stumble in the law, Ye have corrupted the covenant of Levi, Said Jehovah of Hosts.
 
@@ -54,17 +54,17 @@
 
 **[2:13]** And this a second time ye do, Covering with tears the altar of Jehovah, With weeping and groaning, Because there is no more turning unto the present, Or receiving of a pleasing thing from your hand.
 
-**[2:14]** And ye have said, `Wherefore?' Because Jehovah hath testified between thee And the wife of thy youth, That thou hast dealt treacherously against her, And she thy companion, and thy covenant-wife.
+**[2:14]** And ye have said, \`Wherefore?' Because Jehovah hath testified between thee And the wife of thy youth, That thou hast dealt treacherously against her, And she thy companion, and thy covenant-wife.
 
-**[2:15]** And He did not make one `only', And He hath the remnant of the Spirit. And what `is' the one `alone'! He is seeking a godly seed. And ye have been watchful over your spirit, And with the wife of thy youth, None doth deal treacherously.
+**[2:15]** And He did not make one \`only', And He hath the remnant of the Spirit. And what \`is' the one \`alone'! He is seeking a godly seed. And ye have been watchful over your spirit, And with the wife of thy youth, None doth deal treacherously.
 
-**[2:16]** For `I' hate sending away, said Jehovah, God of Israel, And He `who' hath covered violence with his clothing, said Jehovah of Hosts, And ye have been watchful over your spirit, And ye do not deal treacherously.
+**[2:16]** For \`I' hate sending away, said Jehovah, God of Israel, And He \`who' hath covered violence with his clothing, said Jehovah of Hosts, And ye have been watchful over your spirit, And ye do not deal treacherously.
 
-**[2:17]** Ye have wearied Jehovah with your words, And ye have said: `In what have we wearied Him?' In your saying: `Every evil-doer `is' good in the eyes of Jehovah, And in them He is delighting,' Or, `Where `is' the God of judgment?'
+**[2:17]** Ye have wearied Jehovah with your words, And ye have said: \`In what have we wearied Him?' In your saying: \`Every evil-doer \`is' good in the eyes of Jehovah, And in them He is delighting,' Or, \`Where \`is' the God of judgment?'
 
 **[3:1]** Lo, I am sending My messenger, And he hath prepared a way before Me, And suddenly come in unto his temple Doth the Lord whom ye are seeking, Even the messenger of the covenant, Whom ye are desiring, Lo, he is coming, said Jehovah of Hosts.
 
-**[3:2]** And who is bearing the day of his coming? And who is standing in his appearing? For he `is' as fire of a refiner, And as soap of a fuller.
+**[3:2]** And who is bearing the day of his coming? And who is standing in his appearing? For he \`is' as fire of a refiner, And as soap of a fuller.
 
 **[3:3]** And he hath sat, a refiner and purifier of silver, And he hath purified the sons of Levi, And hath refined them as gold and as silver, And they have been to Jehovah bringing nigh a present in righteousness.
 
@@ -72,11 +72,11 @@
 
 **[3:5]** And I have drawn near to you for judgment, And I have been a witness, Making haste against sorcerers, And against adulterers, And against swearers to a falsehood, And against oppressors of the hire of an hireling, Of a widow, and of a fatherless one, And those turning aside a sojourner, And who fear Me not, said Jehovah of Hosts.
 
-**[3:6]** For I `am' Jehovah, I have not changed, And ye, the sons of Jacob, Ye have not been consumed.
+**[3:6]** For I \`am' Jehovah, I have not changed, And ye, the sons of Jacob, Ye have not been consumed.
 
-**[3:7]** Even from the days of your fathers Ye have turned aside from My statutes, And ye have not taken heed. Turn back unto Me, and I turn back to you, Said Jehovah of Hosts. And ye have said, `In what do we turn back?'
+**[3:7]** Even from the days of your fathers Ye have turned aside from My statutes, And ye have not taken heed. Turn back unto Me, and I turn back to you, Said Jehovah of Hosts. And ye have said, \`In what do we turn back?'
 
-**[3:8]** Doth man deceive God? but ye are deceiving Me, And ye have said: `In what have we deceived Thee?' The tithe and the heave-offering!
+**[3:8]** Doth man deceive God? but ye are deceiving Me, And ye have said: \`In what have we deceived Thee?' The tithe and the heave-offering!
 
 **[3:9]** With a curse ye are cursed! And Me ye are deceiving -- this nation -- all of it.
 
@@ -86,9 +86,9 @@
 
 **[3:12]** And declared you happy have all the nations, For ye are a delightful land, said Jehovah of Hosts.
 
-**[3:13]** Hard against Me have been your words, Said Jehovah, and ye have said: `What have we spoken against Thee?'
+**[3:13]** Hard against Me have been your words, Said Jehovah, and ye have said: \`What have we spoken against Thee?'
 
-**[3:14]** Ye have said, `A vain thing to serve God! And what gain when we kept His charge? And when we have gone in black, Because of Jehovah of Hosts?
+**[3:14]** Ye have said, \`A vain thing to serve God! And what gain when we kept His charge? And when we have gone in black, Because of Jehovah of Hosts?
 
 **[3:15]** And now, we are declaring the proud happy, Yea, built up have been those doing wickedness, Yea they have tempted God, and escape.'
 
