@@ -10,7 +10,7 @@
 
 **[1:5]** Awake, ye drunkards, and weep, And howl all drinking wine, because of the juice, For it hath been cut off from your mouth.
 
-**[1:6]** For a nation hath come up on my land, Strong, and there is no number, Its teeth `are' the teeth of a lion, And it hath the jaw-teeth of a lioness.
+**[1:6]** For a nation hath come up on my land, Strong, and there is no number, Its teeth \`are' the teeth of a lion, And it hath the jaw-teeth of a lioness.
 
 **[1:7]** It hath made my vine become a desolation, And my fig-tree become a chip, It hath made it thoroughly bare, and hath cast down, Made white have been its branches.
 
@@ -26,9 +26,9 @@
 
 **[1:13]** Gird, and lament, ye priests, Howl, ye ministrants of the altar, Come in, lodge in sackcloth, ministrants of my God, For withheld from the house of your God hath been present and libation.
 
-**[1:14]** Sanctify a fast, proclaim a restraint, Gather the elders -- all the inhabitants of the land, `Into' the house of Jehovah your God,
+**[1:14]** Sanctify a fast, proclaim a restraint, Gather the elders -- all the inhabitants of the land, \`Into' the house of Jehovah your God,
 
-**[1:15]** And cry unto Jehovah, `Alas for the day! For near `is' a day of Jehovah, And as destruction from the mighty it cometh.
+**[1:15]** And cry unto Jehovah, \`Alas for the day! For near \`is' a day of Jehovah, And as destruction from the mighty it cometh.
 
 **[1:16]** Is not before our eyes food cut off? From the house of our God joy and rejoicing?
 
@@ -40,13 +40,13 @@
 
 **[1:20]** Also the cattle of the field long for Thee, For dried up have been streams of water, And fire hath consumed comely places of a wilderness!'
 
-**[2:1]** Blow ye a trumpet in Zion, And shout ye in My holy hill, Tremble do all inhabitants of the earth, For coming is the day of Jehovah, for `it is' near!
+**[2:1]** Blow ye a trumpet in Zion, And shout ye in My holy hill, Tremble do all inhabitants of the earth, For coming is the day of Jehovah, for \`it is' near!
 
 **[2:2]** A day of darkness and thick darkness, A day of cloud and thick darkness, As darkness spread on the mountains, A people numerous and mighty, Like it there hath not been from of old, And after it there is not again -- till the years of generation and generation.
 
-**[2:3]** Before it consumed hath fire, And after it burn doth a flame, As the garden of Eden `is' the land before it, And after it a wilderness -- a desolation! And also an escape there hath not been to it,
+**[2:3]** Before it consumed hath fire, And after it burn doth a flame, As the garden of Eden \`is' the land before it, And after it a wilderness -- a desolation! And also an escape there hath not been to it,
 
-**[2:4]** As the appearance of horses `is' its appearance, And as horsemen, so they run.
+**[2:4]** As the appearance of horses \`is' its appearance, And as horsemen, so they run.
 
 **[2:5]** As the noise of chariots, on the tops of the mountains they skip, As the noise of a flame of fire devouring stubble, As a mighty people set in array for battle.
 
@@ -60,11 +60,11 @@
 
 **[2:10]** At their face trembled hath the earth, Shaken have the heavens, Sun and moon have been black, And stars have gathered up their shining.
 
-**[2:11]** And Jehovah hath given forth His voice before His force, For very great `is' His camp, For mighty `is' the doer of His word, For great `is' the day of Jehovah -- very fearful, And who doth bear it?
+**[2:11]** And Jehovah hath given forth His voice before His force, For very great \`is' His camp, For mighty \`is' the doer of His word, For great \`is' the day of Jehovah -- very fearful, And who doth bear it?
 
 **[2:12]** And also now -- an affirmation of Jehovah, Turn ye back unto Me with all your heart, And with fasting, and with weeping, And with lamentation.
 
-**[2:13]** And rend your heart, and not your garments, And turn back unto Jehovah your God, For gracious and merciful `is' He, Slow to anger, and abundant in kindness, And He hath repented concerning the evil.
+**[2:13]** And rend your heart, and not your garments, And turn back unto Jehovah your God, For gracious and merciful \`is' He, Slow to anger, and abundant in kindness, And He hath repented concerning the evil.
 
 **[2:14]** Who knoweth -- He doth turn back, Yea -- He hath repented, And He hath left behind Him a blessing, A present and libation of Jehovah your God?
 
@@ -72,11 +72,11 @@
 
 **[2:16]** Gather the people, sanctify an assembly, Assemble the aged, Gather infants and sucklings of the breasts, Go out let a bridegroom from his inner chamber, And a bride out of her closet.
 
-**[2:17]** Between the porch and the altar weep let the priests, ministrants of Jehovah, And let them say: `Have pity, O Jehovah, on Thy people, And give not Thy inheritance to reproach, To the ruling over them of nations, Why do they say among peoples, Where `is' their God?'
+**[2:17]** Between the porch and the altar weep let the priests, ministrants of Jehovah, And let them say: \`Have pity, O Jehovah, on Thy people, And give not Thy inheritance to reproach, To the ruling over them of nations, Why do they say among peoples, Where \`is' their God?'
 
 **[2:18]** And let Jehovah be zealous for His land, And have pity on His people.
 
-**[2:19]** Let Jehovah answer and say to His people, `Lo, I am sending to you the corn, And the new wine, and the oil, And ye have been satisfied with it, And I make you no more a reproach among nations,
+**[2:19]** Let Jehovah answer and say to His people, \`Lo, I am sending to you the corn, And the new wine, and the oil, And ye have been satisfied with it, And I make you no more a reproach among nations,
 
 **[2:20]** And the northern I put far off from you, And have driven him unto a land dry and desolate, With his face unto the eastern sea, And his rear unto the western sea, And come up hath his stink, And come up doth his stench, For he hath exerted himself to work.
 
@@ -86,13 +86,13 @@
 
 **[2:23]** And ye sons of Zion, joy and rejoice, In Jehovah your God, For He hath given to you the Teacher for righteousness, And causeth to come down to you a shower, Sprinkling and gathered -- in the beginning.
 
-**[2:24]** And full have been the floors `with' pure corn, And overflown have the presses `with' new wine and oil.
+**[2:24]** And full have been the floors \`with' pure corn, And overflown have the presses \`with' new wine and oil.
 
 **[2:25]** And I have recompensed to you the years That consume did the locust, the cankerworm, And the caterpillar, and the palmer-worm, My great force that I did send against you.
 
 **[2:26]** And ye have eaten, eating and being satisfied, And have praised the name of Jehovah your God, Who hath dealt with you wonderfully, And not ashamed are My people to the age.
 
-**[2:27]** And ye have known that in the midst of Israel `am' I, And I `am' Jehovah your God, and there is none else, And not ashamed are My people to the age.
+**[2:27]** And ye have known that in the midst of Israel \`am' I, And I \`am' Jehovah your God, and there is none else, And not ashamed are My people to the age.
 
 **[2:28]** And it hath come to pass afterwards, I do pour out My Spirit on all flesh, And prophesied have your sons and your daughters, Your old men do dream dreams, Your young men do see visions.
 
@@ -104,13 +104,13 @@
 
 **[2:32]** And it hath come to pass, Every one who calleth in the name of Jehovah is delivered, For in mount Zion and in Jerusalem there is an escape, As Jehovah hath said, And among the remnants whom Jehovah is calling!
 
-**[3:1]** For lo, in those days, and in that time, When I turn back `to' the captivity of Judah and Jerusalem,
+**[3:1]** For lo, in those days, and in that time, When I turn back \`to' the captivity of Judah and Jerusalem,
 
 **[3:2]** Then I have gathered all the nations, And caused them to go down unto the valley of Jehoshaphat, And I have been judged with them there, Concerning My people and Mine inheritance -- Israel, Whom they scattered among nations, And My land they have apportioned.
 
 **[3:3]** And for My people they do cast a lot, And they give the young man for an harlot, And the young woman have sold for wine, That they may drink.
 
-**[3:4]** And also, what `are' ye to Me, O Tyre and Zidon, And all circuits of Philistia? Recompence are ye rendering unto Me? And if ye are giving recompence to Me, Swiftly, hastily, I turn back your recompence on your head.
+**[3:4]** And also, what \`are' ye to Me, O Tyre and Zidon, And all circuits of Philistia? Recompence are ye rendering unto Me? And if ye are giving recompence to Me, Swiftly, hastily, I turn back your recompence on your head.
 
 **[3:5]** In that My silver and My gold ye took, And My desirable things that are good, Ye have brought in to your temples.
 
@@ -122,26 +122,26 @@
 
 **[3:9]** Proclaim ye this among nations, Sanctify a war, stir up the mighty ones, Come nigh, come up, let all the men of war.
 
-**[3:10]** Beat your ploughshares to swords, And your pruning-hooks to javelins, Let the weak say, `I `am' mighty.'
+**[3:10]** Beat your ploughshares to swords, And your pruning-hooks to javelins, Let the weak say, \`I \`am' mighty.'
 
 **[3:11]** Haste, and come in, all ye nations round, And be gathered together, Thither cause to come down, O Jehovah, Thy mighty ones.
 
 **[3:12]** Wake and come up let the nations unto the valley of Jehoshaphat, For there I sit to judge all the nations around.
 
-**[3:13]** Send ye forth a sickle, For ripened hath harvest, Come in, come down, for filled hath been the press, Overflowed hath wine-presses, For great `is' their wickedness.
+**[3:13]** Send ye forth a sickle, For ripened hath harvest, Come in, come down, for filled hath been the press, Overflowed hath wine-presses, For great \`is' their wickedness.
 
-**[3:14]** Multitudes, multitudes `are' in the valley of decision, For near `is' the day of Jehovah in the valley of decision.
+**[3:14]** Multitudes, multitudes \`are' in the valley of decision, For near \`is' the day of Jehovah in the valley of decision.
 
 **[3:15]** Sun and moon have been black, And stars have gathered up their shining.
 
-**[3:16]** And Jehovah from Zion doth roar, And from Jerusalem giveth forth His voice, And shaken have the heavens and earth, And Jehovah `is' a refuge to his people, And a stronghold to sons of Israel.
+**[3:16]** And Jehovah from Zion doth roar, And from Jerusalem giveth forth His voice, And shaken have the heavens and earth, And Jehovah \`is' a refuge to his people, And a stronghold to sons of Israel.
 
-**[3:17]** And ye have known that I `am' Jehovah your God, Dwelling in Zion, My holy mountain, And Jerusalem hath been holy, And strangers do not pass over into it again.
+**[3:17]** And ye have known that I \`am' Jehovah your God, Dwelling in Zion, My holy mountain, And Jerusalem hath been holy, And strangers do not pass over into it again.
 
-**[3:18]** And it hath come to pass, in that day, Drop down do the mountains juice, And the hills do flow `with' milk, And all streams of Judah do go `with' water, And a fountain from the house of Jehovah goeth forth, And hath watered the valley of Shittim.
+**[3:18]** And it hath come to pass, in that day, Drop down do the mountains juice, And the hills do flow \`with' milk, And all streams of Judah do go \`with' water, And a fountain from the house of Jehovah goeth forth, And hath watered the valley of Shittim.
 
-**[3:19]** Egypt a desolation becometh, And Edom a desolation, a wilderness, becometh, For violence `to' sons of Judah, Whose innocent blood they shed in their land.
+**[3:19]** Egypt a desolation becometh, And Edom a desolation, a wilderness, becometh, For violence \`to' sons of Judah, Whose innocent blood they shed in their land.
 
 **[3:20]** And Judah to the age doth dwell, And Jerusalem to generation and generation.
 
-**[3:21]** And I have declared their blood innocent, `That' I did not declare innocent, And Jehovah is dwelling in Zion!
+**[3:21]** And I have declared their blood innocent, \`That' I did not declare innocent, And Jehovah is dwelling in Zion!

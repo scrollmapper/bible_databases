@@ -1,32 +1,32 @@
 # Revelation - American Standard-ASV1901 (ASV)
 
-**[1:1]** The Revelation of Jesus Christ, which God gave him to show unto his servants, `even' the things which must shortly come to pass: and he sent and signified `it' by his angel unto his servant John;
+**[1:1]** The Revelation of Jesus Christ, which God gave him to show unto his servants, \`even' the things which must shortly come to pass: and he sent and signified \`it' by his angel unto his servant John;
 
-**[1:2]** who bare witness of the word of God, and of the testimony of Jesus Christ, `even' of all things that he saw.
+**[1:2]** who bare witness of the word of God, and of the testimony of Jesus Christ, \`even' of all things that he saw.
 
 **[1:3]** Blessed is he that readeth, and they that hear the words of the prophecy, and keep the things that are written therein: for the time is at hand.
 
 **[1:4]** John to the seven churches that are in Asia: Grace to you and peace, from him who is and who was and who is to come; and from the seven Spirits that are before his throne;
 
-**[1:5]** and from Jesus Christ, `who is' the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. Unto him that loveth us, and loosed us from our sins by his blood;
+**[1:5]** and from Jesus Christ, \`who is' the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. Unto him that loveth us, and loosed us from our sins by his blood;
 
-**[1:6]** and he made us `to be' a kingdom, `to be' priests unto his God and Father; to him `be' the glory and the dominion for ever and ever. Amen.
+**[1:6]** and he made us \`to be' a kingdom, \`to be' priests unto his God and Father; to him \`be' the glory and the dominion for ever and ever. Amen.
 
 **[1:7]** Behold, he cometh with the clouds; and every eye shall see him, and they that pierced him; and all the tribes of the earth shall mourn over him. Even so, Amen.
 
 **[1:8]** I am the Alpha and the Omega, saith the Lord God, who is and who was and who is to come, the Almighty.
 
-**[1:9]** I John, your brother and partaker with you in tribulation and kingdom and patience `which are' in Jesus, was in the isle that is called Patmos, for the word of God and the testimony of Jesus.
+**[1:9]** I John, your brother and partaker with you in tribulation and kingdom and patience \`which are' in Jesus, was in the isle that is called Patmos, for the word of God and the testimony of Jesus.
 
 **[1:10]** I was in the Spirit on the Lord's day, and I heard behind me a great voice, as of a trumpet
 
-**[1:11]** saying, What thou seest, write in a book and send `it' to the seven churches: unto Ephesus, and unto Smyrna, and unto Pergamum, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
+**[1:11]** saying, What thou seest, write in a book and send \`it' to the seven churches: unto Ephesus, and unto Smyrna, and unto Pergamum, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
 
 **[1:12]** And I turned to see the voice that spake with me. And having turned I saw seven golden candlesticks;
 
 **[1:13]** and in the midst of the candlesticks one like unto a son of man, clothed with a garment down to the foot, and girt about at the breasts with a golden girdle.
 
-**[1:14]** And his head and his hair were white as white wool, `white' as snow; and his eyes were as a flame of fire;
+**[1:14]** And his head and his hair were white as white wool, \`white' as snow; and his eyes were as a flame of fire;
 
 **[1:15]** and his feet like unto burnished brass, as if it had been refined in a furnace; and his voice as the voice of many waters.
 
@@ -46,7 +46,7 @@
 
 **[2:3]** and thou hast patience and didst bear for my name's sake, and hast not grown weary.
 
-**[2:4]** But I have `this' against thee, that thou didst leave thy first love.
+**[2:4]** But I have \`this' against thee, that thou didst leave thy first love.
 
 **[2:5]** Remember therefore whence thou art fallen, and repent and do the first works; or else I come to thee, and will move thy candlestick out of its place, except thou repent.
 
@@ -54,7 +54,7 @@
 
 **[2:7]** He that hath an ear, let him hear what the Spirit saith to the churches. To him that overcometh, to him will I give to eat of the tree of life, which is in the Paradise of God.
 
-**[2:8]** And to the angel of the church in Smyrna write: These things saith the first and the last, who was dead, and lived `again':
+**[2:8]** And to the angel of the church in Smyrna write: These things saith the first and the last, who was dead, and lived \`again':
 
 **[2:9]** I know thy tribulation, and thy poverty (but thou art rich), and the blasphemy of them that say they are Jews, and they art not, but are a synagogue of Satan.
 
@@ -64,7 +64,7 @@
 
 **[2:12]** and to the angel of the church in Pergamum write: These things saith he that hath the sharp two-edged sword:
 
-**[2:13]** I know where thou dwellest, `even' where Satan's throne is; and thou holdest fast my name, and didst not deny my faith, even in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwelleth.
+**[2:13]** I know where thou dwellest, \`even' where Satan's throne is; and thou holdest fast my name, and didst not deny my faith, even in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwelleth.
 
 **[2:14]** But I have a few things against thee, because thou hast there some that hold the teaching of Balaam, who taught Balak to cast a stumblingblock before the children of Israel, to eat things sacrificed to idols, and to commit fornication.
 
@@ -78,7 +78,7 @@
 
 **[2:19]** I know thy works, and thy love and faith and ministry and patience, and that thy last works are more than the first.
 
-**[2:20]** But I have `this' against thee, that thou sufferest the woman Jezebel, who calleth herself a prophetess; and she teacheth and seduceth my servants to commit fornication, and to eat things sacrificed to idols.
+**[2:20]** But I have \`this' against thee, that thou sufferest the woman Jezebel, who calleth herself a prophetess; and she teacheth and seduceth my servants to commit fornication, and to eat things sacrificed to idols.
 
 **[2:21]** And I gave her time that she should repent; and she willeth not to repent of her fornication.
 
@@ -102,7 +102,7 @@
 
 **[3:2]** Be thou watchful, and establish the things that remain, which were ready to die: for I have found no works of thine perfected before my God.
 
-**[3:3]** Remember therefore how thou hast received and didst hear; and keep `it', and repent. If therefore thou shalt not watch, I will come as a thief, and thou shalt not know what hour I will come upon thee.
+**[3:3]** Remember therefore how thou hast received and didst hear; and keep \`it', and repent. If therefore thou shalt not watch, I will come as a thief, and thou shalt not know what hour I will come upon thee.
 
 **[3:4]** But thou hast a few names in Sardis that did not defile their garments: and they shall walk with me in white; for they are worthy.
 
@@ -116,7 +116,7 @@
 
 **[3:9]** Behold, I give of the synagogue of Satan, of them that say they are Jews, and they are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
 
-**[3:10]** Because thou didst keep the word of my patience, I also will keep thee from the hour of trial, that `hour' which is to come upon the whole world, to try them that dwell upon the earth.
+**[3:10]** Because thou didst keep the word of my patience, I also will keep thee from the hour of trial, that \`hour' which is to come upon the whole world, to try them that dwell upon the earth.
 
 **[3:11]** I come quickly: hold fast that which thou hast, that no one take thy crown.
 
@@ -132,7 +132,7 @@
 
 **[3:17]** Because thou sayest, I am rich, and have gotten riches, and have need of nothing; and knowest not that thou art the wretched one and miserable and poor and blind and naked:
 
-**[3:18]** I counsel thee to buy of me gold refined by fire, that thou mayest become rich; and white garments, that thou mayest clothe thyself, and `that' the shame of thy nakedness be not made manifest; and eyesalve to anoint thine eyes, that thou mayest see.
+**[3:18]** I counsel thee to buy of me gold refined by fire, that thou mayest become rich; and white garments, that thou mayest clothe thyself, and \`that' the shame of thy nakedness be not made manifest; and eyesalve to anoint thine eyes, that thou mayest see.
 
 **[3:19]** As many as I love, I reprove and chasten: be zealous therefore, and repent.
 
@@ -142,21 +142,21 @@
 
 **[3:22]** He that hath an ear, let him hear what the Spirit saith to the churches.
 
-**[4:1]** After these things I saw, and behold, a door opened in heaven, and the first voice that I heard, `a voice' as of a trumpet speaking with me, one saying, Come up hither, and I will show thee the things which must come to pass hereafter.
+**[4:1]** After these things I saw, and behold, a door opened in heaven, and the first voice that I heard, \`a voice' as of a trumpet speaking with me, one saying, Come up hither, and I will show thee the things which must come to pass hereafter.
 
 **[4:2]** Straightway I was in the Spirit: and behold, there was a throne set in heaven, and one sitting upon the throne;
 
-**[4:3]** and he that sat `was' to look upon like a jasper stone and a sardius: and `there was' a rainbow round about the throne, like an emerald to look upon.
+**[4:3]** and he that sat \`was' to look upon like a jasper stone and a sardius: and \`there was' a rainbow round about the throne, like an emerald to look upon.
 
-**[4:4]** And round about the throne `were' four and twenty thrones: and upon the thrones `I saw' four and twenty elders sitting, arrayed in white garments; and on their heads crowns of gold.
+**[4:4]** And round about the throne \`were' four and twenty thrones: and upon the thrones \`I saw' four and twenty elders sitting, arrayed in white garments; and on their heads crowns of gold.
 
-**[4:5]** And out of the throne proceed lightnings and voices and thunders. And `there was' seven lamps of fire burning before the throne, which are the seven Spirits of God;
+**[4:5]** And out of the throne proceed lightnings and voices and thunders. And \`there was' seven lamps of fire burning before the throne, which are the seven Spirits of God;
 
 **[4:6]** and before the throne, as it were a sea of glass like a crystal; and in the midst of the throne, and round about the throne, four living creatures full of eyes before and behind.
 
-**[4:7]** And the first creature `was' like a lion, and the second creature like a calf, and the third creature had a face as of a man, and the fourth creature `was' like a flying eagle.
+**[4:7]** And the first creature \`was' like a lion, and the second creature like a calf, and the third creature had a face as of a man, and the fourth creature \`was' like a flying eagle.
 
-**[4:8]** and the four living creatures, having each one of them six wings, are full of eyes round about and within: and they have no rest day and night, saying, Holy, holy, holy, `is' the Lord God, the Almighty, who was and who is and who is to come.
+**[4:8]** and the four living creatures, having each one of them six wings, are full of eyes round about and within: and they have no rest day and night, saying, Holy, holy, holy, \`is' the Lord God, the Almighty, who was and who is and who is to come.
 
 **[4:9]** And when the living creatures shall give glory and honor and thanks to him that sitteth on the throne, to him that liveth for ever and ever,
 
@@ -176,19 +176,19 @@
 
 **[5:6]** And I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a Lamb standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent forth into all the earth.
 
-**[5:7]** And he came, and he taketh `it' out of the right hand of him that sat on the throne.
+**[5:7]** And he came, and he taketh \`it' out of the right hand of him that sat on the throne.
 
 **[5:8]** And when he had taken the book, the four living creatures and the four and twenty elders fell down before the Lamb, having each one a harp, and golden bowls full of incense, which are the prayers of the saints.
 
-**[5:9]** And they sing a new song, saying, Worthy art thou to take the book, and to open the seals thereof: for thou was slain, and didst purchase unto God with thy blood `men' of every tribe, and tongue, and people, and nation,
+**[5:9]** And they sing a new song, saying, Worthy art thou to take the book, and to open the seals thereof: for thou was slain, and didst purchase unto God with thy blood \`men' of every tribe, and tongue, and people, and nation,
 
-**[5:10]** and madest them `to be' unto our God a kingdom and priests; and they reign upon earth.
+**[5:10]** and madest them \`to be' unto our God a kingdom and priests; and they reign upon earth.
 
 **[5:11]** And I saw, and I heard a voice of many angels round about the throne and the living creatures and the elders; and the number of them was ten thousand times ten thousand, and thousands of thousands;
 
 **[5:12]** saying with a great voice, Worthy is the Lamb that hath been slain to receive the power, and riches, and wisdom, and might and honor, and glory, and blessing.
 
-**[5:13]** And every created thing which is in the heaven, and on the earth, and under the earth, and on the sea, and all things are in them, heard I saying, Unto him that sitteth on the throne, and unto the Lamb, `be' the blessing, and the honor, and the glory, and the dominion, for ever and ever.
+**[5:13]** And every created thing which is in the heaven, and on the earth, and under the earth, and on the sea, and all things are in them, heard I saying, Unto him that sitteth on the throne, and unto the Lamb, \`be' the blessing, and the honor, and the glory, and the dominion, for ever and ever.
 
 **[5:14]** And the four living creatures said, Amen. And the elders fell down and worshipped.
 
@@ -198,7 +198,7 @@
 
 **[6:3]** And when he opened the second seal, I heard the second living creature saying, Come.
 
-**[6:4]** And another `horse' came forth, a red horse: and to him that sat thereon it was given to take peace from the earth, and that they should slay one another: and there was given unto him a great sword.
+**[6:4]** And another \`horse' came forth, a red horse: and to him that sat thereon it was given to take peace from the earth, and that they should slay one another: and there was given unto him a great sword.
 
 **[6:5]** And when he opened the first seal, I heard the third living creature saying, Come. And I saw, and behold, a black horse; and he that sat thereon had a balance in his hand.
 
@@ -212,7 +212,7 @@
 
 **[6:10]** and they cried with a great voice, saying, How long, O Master, the holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
 
-**[6:11]** And there was given them to each one a white robe; and it was said unto them, that they should rest yet for a little time, until their fellow-servants also and their brethren, who should be killed even as they were, should have fulfilled `their course'.
+**[6:11]** And there was given them to each one a white robe; and it was said unto them, that they should rest yet for a little time, until their fellow-servants also and their brethren, who should be killed even as they were, should have fulfilled \`their course'.
 
 **[6:12]** And I saw when he opened the sixth seal, and there was a great earthquake; and the sun became black as sackcloth of hair, and the whole moon became as blood;
 
@@ -234,21 +234,21 @@
 
 **[7:4]** And I heard the number of them that were sealed, a hundred and forty and four thousand, sealed out of every tribe of the children of Israel:
 
-**[7:5]** Of the tribe of Judah `were' sealed twelve thousand: Of the tribe of Reuben twelve thousand; Of the tribe of Gad twelve thousand;
+**[7:5]** Of the tribe of Judah \`were' sealed twelve thousand: Of the tribe of Reuben twelve thousand; Of the tribe of Gad twelve thousand;
 
 **[7:6]** Of the tribe of Asher twelve thousand; Of the tribe of Naphtali twelve thousand; Of the tribe of Manasseh twelve thousand;
 
 **[7:7]** Of the tribe of Simeon twelve thousand; Of the tribe of Levi twelve thousand; Of the tribe of Issachar twelve thousand;
 
-**[7:8]** Of the tribe of Zebulun twelve thousand; Of the tribe of Joseph twelve thousand; Of the tribe of Benjamin `were' sealed twelve thousand.
+**[7:8]** Of the tribe of Zebulun twelve thousand; Of the tribe of Joseph twelve thousand; Of the tribe of Benjamin \`were' sealed twelve thousand.
 
-**[7:9]** After these things I saw, and behold, a great multitude, which no man could number, out of every nation and of `all' tribes and peoples and tongues, standing before the throne and before the Lamb, arrayed in white robes, and palms in their hands;
+**[7:9]** After these things I saw, and behold, a great multitude, which no man could number, out of every nation and of \`all' tribes and peoples and tongues, standing before the throne and before the Lamb, arrayed in white robes, and palms in their hands;
 
 **[7:10]** and they cry with a great voice, saying, Salvation unto our God who sitteth on the throne, and unto the Lamb.
 
-**[7:11]** And all the angels were standing round about the throne, and `about' the elders and the four living creatures; and they fell before the throne on their faces, and worshipped God,
+**[7:11]** And all the angels were standing round about the throne, and \`about' the elders and the four living creatures; and they fell before the throne on their faces, and worshipped God,
 
-**[7:12]** saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honor, and power, and might, `be' unto our God for ever and ever. Amen.
+**[7:12]** saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honor, and power, and might, \`be' unto our God for ever and ever. Amen.
 
 **[7:13]** And one of the elders answered, saying unto me, These that are arrayed in white robes, who are they, and whence came they?
 
@@ -276,7 +276,7 @@
 
 **[8:8]** And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;
 
-**[8:9]** and there died the third part of the creatures which were in the sea, `even' they that had life; and the third part of the ships was destroyed.
+**[8:9]** and there died the third part of the creatures which were in the sea, \`even' they that had life; and the third part of the ships was destroyed.
 
 **[8:10]** And the third angel sounded, and there fell from heaven a great star, burning as a torch, and it fell upon the third part of the rivers, and upon the fountains of the waters;
 
@@ -300,13 +300,13 @@
 
 **[9:7]** And the shapes of the locusts were like unto horses prepared for war; and upon their heads as it were crowns like unto gold, and their faces were as men's faces.
 
-**[9:8]** And they had hair as the hair of women, and their teeth were as `teeth' of lions.
+**[9:8]** And they had hair as the hair of women, and their teeth were as \`teeth' of lions.
 
 **[9:9]** And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots, of many horses rushing to war.
 
 **[9:10]** And they have tails like unto scorpions, and stings; and in their tails is their power to hurt men five months.
 
-**[9:11]** They have over them as king the angel of the abyss: his name in Hebrew is Abaddon, and in the Greek `tongue' he hath the name Apollyon.
+**[9:11]** They have over them as king the angel of the abyss: his name in Hebrew is Abaddon, and in the Greek \`tongue' he hath the name Apollyon.
 
 **[9:12]** The first Woe is past: behold, there come yet two Woes hereafter.
 
@@ -318,7 +318,7 @@
 
 **[9:16]** And the number of the armies of the horsemen was twice ten thousand times ten thousand: I heard the number of them.
 
-**[9:17]** And thus I saw the horses in the vision, and them that sat on them, having breastplates `as' of fire and of hyacinth and of brimstone: and the heads of lions; and out of their mouths proceedeth fire and smoke and brimstone.
+**[9:17]** And thus I saw the horses in the vision, and them that sat on them, having breastplates \`as' of fire and of hyacinth and of brimstone: and the heads of lions; and out of their mouths proceedeth fire and smoke and brimstone.
 
 **[9:18]** By these three plagues was the third part of men killed, by the fire and the smoke and the brimstone, which proceeded out of their mouths.
 
@@ -334,7 +334,7 @@
 
 **[10:3]** and he cried with a great voice, as a lion roareth: and when he cried, the seven thunders uttered their voices.
 
-**[10:4]** And when the seven thunders uttered `their voices', I was about to write: and I heard a voice from heaven saying, Seal up the things which the seven thunders uttered, and write them not.
+**[10:4]** And when the seven thunders uttered \`their voices', I was about to write: and I heard a voice from heaven saying, Seal up the things which the seven thunders uttered, and write them not.
 
 **[10:5]** And the angel that I saw standing upon the sea and upon the earth lifted up his right hand to heaven,
 
@@ -342,7 +342,7 @@
 
 **[10:7]** but in the days of the voice of the seventh angel, when he is about to sound, then is finished they mystery of God, according to the good tidings which he declared to his servants the prophets.
 
-**[10:8]** And the voice which I heard from heaven, `I heard it' again speaking with me, and saying, Go, take the book which is open in the hand of the angel that standeth upon the sea and upon the earth.
+**[10:8]** And the voice which I heard from heaven, \`I heard it' again speaking with me, and saying, Go, take the book which is open in the hand of the angel that standeth upon the sea and upon the earth.
 
 **[10:9]** And I went unto the angel, saying unto him that he should give me the little book. And he saith unto me, Take it, and eat it up; and it shall make thy belly bitter, but in thy mouth it shall be sweet as honey.
 
@@ -364,9 +364,9 @@
 
 **[11:7]** And when they shall have finished their testimony, the beast that cometh up out of the abyss shall make war with them, and overcome them, and kill them.
 
-**[11:8]** And their dead bodies `lie' in the street of the great city, which spiritually is called Sodom and Egypt, where also their Lord was crucified.
+**[11:8]** And their dead bodies \`lie' in the street of the great city, which spiritually is called Sodom and Egypt, where also their Lord was crucified.
 
-**[11:9]** And from among the peoples and tribes and tongues and nations do `men' look upon their dead bodies three days and a half, and suffer not their dead bodies to be laid in a tomb.
+**[11:9]** And from among the peoples and tribes and tongues and nations do \`men' look upon their dead bodies three days and a half, and suffer not their dead bodies to be laid in a tomb.
 
 **[11:10]** And they that dwell on the earth rejoice over them, and make merry; and they shall send gifts one to another; because these two prophets tormented them that dwell on the earth.
 
@@ -378,13 +378,13 @@
 
 **[11:14]** The second Woe is past: behold, the third Woe cometh quickly.
 
-**[11:15]** And the seventh angel sounded; and there followed great voices in heaven, and they said, The kingdom of the world is become `the kingdom' of our Lord, and of his Christ: and he shall reign for ever and ever.
+**[11:15]** And the seventh angel sounded; and there followed great voices in heaven, and they said, The kingdom of the world is become \`the kingdom' of our Lord, and of his Christ: and he shall reign for ever and ever.
 
 **[11:16]** And the four and twenty elders, who sit before God on their thrones, fell upon their faces and worshipped God,
 
 **[11:17]** saying, We give thee thanks, O Lord God, the Almighty, who art and who wast; because thou hast taken thy great power, and didst reign.
 
-**[11:18]** And the nations were wroth, and thy wrath came, and the time of the dead to be judged, and `the time' to give their reward to thy servants the prophets, and to the saints, and to them that fear thy name, the small and the great; and to destroy them that destroy the earth.
+**[11:18]** And the nations were wroth, and thy wrath came, and the time of the dead to be judged, and \`the time' to give their reward to thy servants the prophets, and to the saints, and to them that fear thy name, the small and the great; and to destroy them that destroy the earth.
 
 **[11:19]** And there was opened the temple of God that is in heaven; and there was seen in his temple the ark of his covenant; and there followed lightnings, and voices, and thunders, and an earthquake, and great hail.
 
@@ -400,7 +400,7 @@
 
 **[12:6]** And the woman fled into the wilderness, where she hath a place prepared of God, that there they may nourish her a thousand two hundred and threescore days.
 
-**[12:7]** And there was war in heaven: Michael and his angels `going forth' to war with the dragon; and the dragon warred and his angels;
+**[12:7]** And there was war in heaven: Michael and his angels \`going forth' to war with the dragon; and the dragon warred and his angels;
 
 **[12:8]** And they prevailed not, neither was their place found any more in heaven.
 
@@ -412,7 +412,7 @@
 
 **[12:12]** Therefore rejoice, O heavens, and ye that dwell in them. Woe for the earth and for the sea: because the devil is gone down unto you, having great wrath, knowing that he hath but a short time.
 
-**[12:13]** And when the dragon saw that he was cast down to the earth, he persecuted the woman that brought forth the man `child'.
+**[12:13]** And when the dragon saw that he was cast down to the earth, he persecuted the woman that brought forth the man \`child'.
 
 **[12:14]** And there were given to the woman the two wings of the great eagle, that she might fly into the wilderness unto her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
 
@@ -424,23 +424,23 @@
 
 **[13:1]** and he stood upon the sand of the sea. And I saw a beast coming up out of the sea, having ten horns, and seven heads, and on his horns ten diadems, and upon his heads names of blasphemy.
 
-**[13:2]** And the beast which I saw was like unto a leopard, and his feet were as `the feet' of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his throne, and great authority.
+**[13:2]** And the beast which I saw was like unto a leopard, and his feet were as \`the feet' of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his throne, and great authority.
 
-**[13:3]** And `I saw' one of his heads as though it had been smitten unto death; and his death-stroke was healed: and the whole earth wondered after the beast;
+**[13:3]** And \`I saw' one of his heads as though it had been smitten unto death; and his death-stroke was healed: and the whole earth wondered after the beast;
 
 **[13:4]** and they worshipped the dragon, because he gave his authority unto the beast; and they worshipped the beast, saying, Who is like unto the beast? And who is able to war with him?
 
 **[13:5]** and there was given to him a mouth speaking great things and blasphemies; and there was given to him authority to continue forty and two months.
 
-**[13:6]** And he opened his mouth for blasphemies against God, to blaspheme his name, and his tabernacle, `even' them that dwell in the heaven.
+**[13:6]** And he opened his mouth for blasphemies against God, to blaspheme his name, and his tabernacle, \`even' them that dwell in the heaven.
 
 **[13:7]** And it was given unto him to make war with the saints, and to overcome them: and there was given to him authority over every tribe and people and tongue and nation.
 
-**[13:8]** And all that dwell on the earth shall worship him, `every one' whose name hath not been written from the foundation of the world in the book of life of the Lamb that hath been slain.
+**[13:8]** And all that dwell on the earth shall worship him, \`every one' whose name hath not been written from the foundation of the world in the book of life of the Lamb that hath been slain.
 
 **[13:9]** If any man hath an ear, let him hear.
 
-**[13:10]** If any man `is' for captivity, into captivity he goeth: if any man shall kill with the sword, with the sword must he be killed. Here is the patience and the faith of the saints.
+**[13:10]** If any man \`is' for captivity, into captivity he goeth: if any man shall kill with the sword, with the sword must he be killed. Here is the patience and the faith of the saints.
 
 **[13:11]** And I saw another beast coming up out of the earth; and he had two horns like unto lamb, and he spake as a dragon.
 
@@ -450,21 +450,21 @@
 
 **[13:14]** And he deceiveth them that dwell on the earth by reason of the signs which it was given him to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast who hath the stroke of the sword and lived.
 
-**[13:15]** And it was given `unto him' to give breath to it, `even' to the image to the breast, that the image of the beast should both speak, and cause that as many as should not worship the image of the beast should be killed.
+**[13:15]** And it was given \`unto him' to give breath to it, \`even' to the image to the breast, that the image of the beast should both speak, and cause that as many as should not worship the image of the beast should be killed.
 
 **[13:16]** And he causeth all, the small and the great, and the rich and the poor, and the free and the bond, that there be given them a mark on their right hand, or upon their forehead;
 
-**[13:17]** and that no man should be able to buy or to sell, save he that hath the mark, `even' the name of the beast or the number of his name.
+**[13:17]** and that no man should be able to buy or to sell, save he that hath the mark, \`even' the name of the beast or the number of his name.
 
 **[13:18]** Here is wisdom. He that hath understanding, let him count the number of the beast; for it is the number of a man: and his number is Six hundred and sixty and six.
 
 **[14:1]** And I saw, and behold, the Lamb standing on the mount Zion, and with him a hundred and forty and four thousand, having his name, and the name of his Father, written on their foreheads.
 
-**[14:2]** And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and the voice which I heard `was' as `the voice' of harpers harping with their harps:
+**[14:2]** And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and the voice which I heard \`was' as \`the voice' of harpers harping with their harps:
 
-**[14:3]** and they sing as it were a new song before the throne, and before the four living creatures and the elders: and no man could learn the song save the hundred and forty and four thousand, `even' they that had been purchased out of the earth.
+**[14:3]** and they sing as it were a new song before the throne, and before the four living creatures and the elders: and no man could learn the song save the hundred and forty and four thousand, \`even' they that had been purchased out of the earth.
 
-**[14:4]** These are they that were not defiled with women; for they are virgins. These `are' they that follow the Lamb whithersoever he goeth. These were purchased from among men, `to be' the firstfruits unto God and unto the Lamb.
+**[14:4]** These are they that were not defiled with women; for they are virgins. These \`are' they that follow the Lamb whithersoever he goeth. These were purchased from among men, \`to be' the firstfruits unto God and unto the Lamb.
 
 **[14:5]** And in their mouth was found no lie: they are without blemish.
 
@@ -484,7 +484,7 @@
 
 **[14:13]** And I heard the voice from heaven saying, Write, Blessed are the dead who die in the Lord from henceforth: yea, saith the Spirit, that they may rest from their labors; for their works follow with them.
 
-**[14:14]** And I saw, and behold, a white cloud; and on the cloud `I saw' one sitting like unto a son of man, having on his head a golden crown, and in his hand sharp sickle.
+**[14:14]** And I saw, and behold, a white cloud; and on the cloud \`I saw' one sitting like unto a son of man, having on his head a golden crown, and in his hand sharp sickle.
 
 **[14:15]** And another angel came out from the temple, crying with a great voice to him that sat on the cloud, Send forth thy sickle, and reap: for the hour to reap is come; for the harvest of the earth is ripe.
 
@@ -494,11 +494,11 @@
 
 **[14:18]** And another angel came out from the altar, he that hath power over fire; and he called with a great voice to him that had the sharp sickle, saying, Send forth thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe.
 
-**[14:19]** And the angel cast his sickle into the earth, and gathered the vintage of the earth, and cast it into the winepress, the great `winepress', of the wrath of God.
+**[14:19]** And the angel cast his sickle into the earth, and gathered the vintage of the earth, and cast it into the winepress, the great \`winepress', of the wrath of God.
 
 **[14:20]** And the winepress are trodden without the city, and there came out blood from the winepress, even unto the bridles of the horses, as far as a thousand and six hundred furlongs.
 
-**[15:1]** And I saw another sign in heaven, great and marvellous, seven angels having seven plagues, `which are' the last, for in them is finished the wrath of God.
+**[15:1]** And I saw another sign in heaven, great and marvellous, seven angels having seven plagues, \`which are' the last, for in them is finished the wrath of God.
 
 **[15:2]** And I saw as it were a sea of glass mingled with fire; and them that come off victorious from the beast, and from his image, and from the number of his name, standing by the sea of glass, having harps of God.
 
@@ -508,7 +508,7 @@
 
 **[15:5]** And after these things I saw, and the temple of the tabernacle of the testimony in heaven was opened:
 
-**[15:6]** and there came out from the temple the seven angels that had the seven plagues, arrayed with `precious' stone, pure `and' bright, and girt about their breasts with golden girdles.
+**[15:6]** and there came out from the temple the seven angels that had the seven plagues, arrayed with \`precious' stone, pure \`and' bright, and girt about their breasts with golden girdles.
 
 **[15:7]** And one of the four living creatures gave unto the seven angels seven golden bowls full of the wrath of God, who liveth for ever and ever.
 
@@ -518,7 +518,7 @@
 
 **[16:2]** And the first went, and poured out his bowl into the earth; and it became a noisome and grievous sore upon the men that had the mark of the beast, and that worshipped his image.
 
-**[16:3]** And the second poured out his bowl into the sea; and it became blood as of a dead man; and every living soul died, `even' the things that were in the sea.
+**[16:3]** And the second poured out his bowl into the sea; and it became blood as of a dead man; and every living soul died, \`even' the things that were in the sea.
 
 **[16:4]** And the third poured out his bowl into the rivers and the fountains of the waters; and it became blood.
 
@@ -536,9 +536,9 @@
 
 **[16:11]** and they blasphemed the God of heaven because of their pains and their sores; and they repented not of their works.
 
-**[16:12]** And the sixth poured out his bowl upon the great river, the `river' Euphrates; and the water thereof was dried up, that the way might by made ready for the kings that `come' from the sunrising.
+**[16:12]** And the sixth poured out his bowl upon the great river, the \`river' Euphrates; and the water thereof was dried up, that the way might by made ready for the kings that \`come' from the sunrising.
 
-**[16:13]** And I saw `coming' out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet, three unclean spirits, as it were frogs:
+**[16:13]** And I saw \`coming' out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet, three unclean spirits, as it were frogs:
 
 **[16:14]** for they are spirits of demons, working signs; which go forth unto the kings of the whole world, to gather them together unto the war of the great day of God, the Almighty.
 
@@ -554,7 +554,7 @@
 
 **[16:20]** And every island fled away, and the mountains were not found.
 
-**[16:21]** And great hail, `every stone' about the weight of a talent, cometh down out of heaven upon men: and men blasphemed God because of the plague of the hail; for the plague thereof is exceeding great.
+**[16:21]** And great hail, \`every stone' about the weight of a talent, cometh down out of heaven upon men: and men blasphemed God because of the plague of the hail; for the plague thereof is exceeding great.
 
 **[17:1]** And there came one of the seven angels that had the seven bowls, and spake with me, saying, Come hither, I will show thee the judgment of the great harlot that sitteth upon many waters;
 
@@ -570,7 +570,7 @@
 
 **[17:7]** And the angel said unto me, Wherefore didst thou wonder? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and the ten horns.
 
-**[17:8]** The beast that thou sawest was, and is not; and is about to come up out of the abyss, and to go into perdition. And they that dwell on the earth shall wonder, `they' whose name hath not been written in the book of life from the foundation of the world, when they behold the beast, how that he was, and is not, and shall come.
+**[17:8]** The beast that thou sawest was, and is not; and is about to come up out of the abyss, and to go into perdition. And they that dwell on the earth shall wonder, \`they' whose name hath not been written in the book of life from the foundation of the world, when they behold the beast, how that he was, and is not, and shall come.
 
 **[17:9]** Here is the mind that hath wisdom. The seven heads are seven mountains, on which the woman sitteth:
 
@@ -582,7 +582,7 @@
 
 **[17:13]** These have one mind, and they give their power and authority unto the beast.
 
-**[17:14]** These shall war against the Lamb, and the Lamb shall overcome them, for he is Lord of lords, and King of kings; and they `also shall overcome' that are with him, called and chosen and faithful.
+**[17:14]** These shall war against the Lamb, and the Lamb shall overcome them, for he is Lord of lords, and King of kings; and they \`also shall overcome' that are with him, called and chosen and faithful.
 
 **[17:15]** And he saith unto me, The waters which thou sawest, where the harlot sitteth, are peoples, and multitudes, and nations, and tongues.
 
@@ -602,7 +602,7 @@
 
 **[18:5]** for her sins have reached even unto heaven, and God hath remembered her iniquities.
 
-**[18:6]** Render unto her even as she rendered, and double `unto her' the double according to her works: in the cup which she mingled, mingle unto her double.
+**[18:6]** Render unto her even as she rendered, and double \`unto her' the double according to her works: in the cup which she mingled, mingle unto her double.
 
 **[18:7]** How much soever she glorified herself, and waxed wanton, so much give her of torment and mourning: for she saith in her heart, I sit a queen, and am no widow, and shall in no wise see mourning.
 
@@ -616,9 +616,9 @@
 
 **[18:12]** merchandise of gold, and silver, and precious stone, and pearls, and fine linen, and purple, and silk, and scarlet; and all thyine wood, and every vessel of ivory, and every vessel made of most precious wood, and of brass, and iron, and marble;
 
-**[18:13]** and cinnamon, and spice, and incense, and ointment, and frankincense, and wine, and oil, and fine flour, and wheat, and cattle, and sheep; and `merchandise' of horses and chariots and slaves; and souls of men.
+**[18:13]** and cinnamon, and spice, and incense, and ointment, and frankincense, and wine, and oil, and fine flour, and wheat, and cattle, and sheep; and \`merchandise' of horses and chariots and slaves; and souls of men.
 
-**[18:14]** And the fruits which thy soul lusted after are gone from thee, and all things that were dainty and sumptuous are perished from thee, and `men' shall find them no more at all.
+**[18:14]** And the fruits which thy soul lusted after are gone from thee, and all things that were dainty and sumptuous are perished from thee, and \`men' shall find them no more at all.
 
 **[18:15]** The merchants of these things, who were made rich by her, shall stand afar off for the fear of her torment, weeping and mourning;
 
@@ -626,7 +626,7 @@
 
 **[18:17]** for in an hour so great riches is made desolate. And every shipmaster, and every one that saileth any wither, and mariners, and as many as gain their living by sea, stood afar off,
 
-**[18:18]** and cried out as they looked upon the smoke of her burning, saying, What `city' is like the great city?
+**[18:18]** and cried out as they looked upon the smoke of her burning, saying, What \`city' is like the great city?
 
 **[18:19]** And they cast dust on their heads, and cried, weeping and mourning, saying, Woe, woe, the great city, wherein all that had their ships in the sea were made rich by reason of her costliness! for in one hour is she made desolate.
 
@@ -654,7 +654,7 @@
 
 **[19:7]** Let us rejoice and be exceeding glad, and let us give the glory unto him: for the marriage of the Lamb is come, and his wife hath made herself ready.
 
-**[19:8]** And it was given unto her that she should array herself in fine linen, bright `and' pure: for the fine linen is the righteous acts of the saints.
+**[19:8]** And it was given unto her that she should array herself in fine linen, bright \`and' pure: for the fine linen is the righteous acts of the saints.
 
 **[19:9]** And he saith unto me, Write, Blessed are they that are bidden to the marriage supper of the Lamb. And he saith unto me, These are true words of God.
 
@@ -662,17 +662,17 @@
 
 **[19:11]** And I saw the heaven opened; and behold, a white horse, and he that sat thereon called Faithful and True; and in righteous he doth judge and make war.
 
-**[19:12]** And his eyes `are' a flame of fire, and upon his head `are' many diadems; and he hath a name written which no one knoweth but he himself.
+**[19:12]** And his eyes \`are' a flame of fire, and upon his head \`are' many diadems; and he hath a name written which no one knoweth but he himself.
 
-**[19:13]** And he `is' arrayed in a garment sprinkled with blood: and his name is called The Word of God.
+**[19:13]** And he \`is' arrayed in a garment sprinkled with blood: and his name is called The Word of God.
 
-**[19:14]** And the armies which are in heaven followed him upon white horses, clothed in fine linen, white `and' pure.
+**[19:14]** And the armies which are in heaven followed him upon white horses, clothed in fine linen, white \`and' pure.
 
 **[19:15]** And out of his mouth proceedeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness of the wrath of God, the Almighty.
 
 **[19:16]** And he hath on his garment and on his thigh a name written, KINGS OF KINGS, AND LORD OF LORDS.
 
-**[19:17]** And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the birds that fly in mid heaven, Come `and' be gathered together unto the great supper of God;
+**[19:17]** And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the birds that fly in mid heaven, Come \`and' be gathered together unto the great supper of God;
 
 **[19:18]** that ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses and of them that sit thereon, and the flesh of all men, both free and bond, and small and great.
 
@@ -680,15 +680,15 @@
 
 **[19:20]** And the beast was taken, and with him the false prophet that wrought the signs in his sight, wherewith he deceived them that had received the mark of the beast and them that worshipped his image: they two were cast alive into the lake of fire that burneth with brimstone:
 
-**[19:21]** and the rest were killed with the sword of him that sat upon the horse, `even the sword' which came forth out of his mouth: and all the birds were filled with their flesh.
+**[19:21]** and the rest were killed with the sword of him that sat upon the horse, \`even the sword' which came forth out of his mouth: and all the birds were filled with their flesh.
 
 **[20:1]** And I saw an angel coming down out of heaven, having the key of the abyss and a great chain in his hand.
 
 **[20:2]** And he laid hold on the dragon, the old serpent, which is the Devil and Satan, and bound him for a thousand years,
 
-**[20:3]** and cast him into the abyss, and shut `it', and sealed `it' over him, that he should deceive the nations no more, until the thousand years should be finished: after this he must be loosed for a little time.
+**[20:3]** and cast him into the abyss, and shut \`it', and sealed \`it' over him, that he should deceive the nations no more, until the thousand years should be finished: after this he must be loosed for a little time.
 
-**[20:4]** And I saw thrones, and they sat upon them, and judgment was given unto them: and `I saw' the souls of them that had been beheaded for the testimony of Jesus, and for the word of God, and such as worshipped not the beast, neither his image, and received not the mark upon their forehead and upon their hand; and they lived, and reigned with Christ a thousand years.
+**[20:4]** And I saw thrones, and they sat upon them, and judgment was given unto them: and \`I saw' the souls of them that had been beheaded for the testimony of Jesus, and for the word of God, and such as worshipped not the beast, neither his image, and received not the mark upon their forehead and upon their hand; and they lived, and reigned with Christ a thousand years.
 
 **[20:5]** The rest of the dead lived not until the thousand years should be finished. This is the first resurrection.
 
@@ -704,11 +704,11 @@
 
 **[20:11]** And I saw a great white throne, and him that sat upon it, from whose face the earth and the heaven fled away; and there was found no place for them.
 
-**[20:12]** And I saw the dead, the great and the small, standing before the throne; and books were opened: and another book was opened, which is `the book' of life: and the dead were judged out of the things which were written in the books, according to their works.
+**[20:12]** And I saw the dead, the great and the small, standing before the throne; and books were opened: and another book was opened, which is \`the book' of life: and the dead were judged out of the things which were written in the books, according to their works.
 
 **[20:13]** And the sea gave up the dead that were in it; and death and Hades gave up the dead that were in them: and they were judged every man according to their works.
 
-**[20:14]** And death and Hades were cast into the lake of fire. This is the second death, `even' the lake of fire.
+**[20:14]** And death and Hades were cast into the lake of fire. This is the second death, \`even' the lake of fire.
 
 **[20:15]** And if any was not found written in the book of life, he was cast into the lake of fire.
 
@@ -716,7 +716,7 @@
 
 **[21:2]** And I saw the holy city, new Jerusalem, coming down out of heaven of God, made ready as a bride adorned for her husband.
 
-**[21:3]** And I heard a great voice out of the throne saying, Behold, the tabernacle of God is with men, and he shall dwell with them, and they shall be his peoples, and God himself shall be with them, `and be' their God:
+**[21:3]** And I heard a great voice out of the throne saying, Behold, the tabernacle of God is with men, and he shall dwell with them, and they shall be his peoples, and God himself shall be with them, \`and be' their God:
 
 **[21:4]** and he shall wipe away every tear from their eyes; and death shall be no more; neither shall there be mourning, nor crying, nor pain, any more: the first things are passed away.
 
@@ -726,7 +726,7 @@
 
 **[21:7]** He that overcometh shall inherit these things; and I will be his God, and he shall be my son.
 
-**[21:8]** But for the fearful, and unbelieving, and abominable, and murderers, and fornicators, and sorcerers, and idolaters, and all liars, their part `shall be' in the lake that burneth with fire and brimstone; which is the second death.
+**[21:8]** But for the fearful, and unbelieving, and abominable, and murderers, and fornicators, and sorcerers, and idolaters, and all liars, their part \`shall be' in the lake that burneth with fire and brimstone; which is the second death.
 
 **[21:9]** And there came one of the seven angels who had the seven bowls, who were laden with the seven last plagues; and he spake with me, saying, Come hither, I will show thee the bride, the wife of the Lamb.
 
@@ -734,7 +734,7 @@
 
 **[21:11]** having the glory of God: her light was like unto a stone most precious, as it were a jasper stone, clear as crystal:
 
-**[21:12]** having a wall great and high; having twelve gates, and at the gates twelve angels; and names written thereon, which are `the names' of the twelve tribes of the children of Israel:
+**[21:12]** having a wall great and high; having twelve gates, and at the gates twelve angels; and names written thereon, which are \`the names' of the twelve tribes of the children of Israel:
 
 **[21:13]** on the east were three gates; and on the north three gates; and on the south three gates; and on the west three gates.
 
@@ -744,7 +744,7 @@
 
 **[21:16]** And the city lieth foursquare, and the length thereof is as great as the breadth: and he measured the city with the reed, twelve thousand furlongs: the length and the breadth and the height thereof are equal.
 
-**[21:17]** And he measured the wall thereof, a hundred and forty and four cubits, `according to' the measure of a man, that is, of an angel.
+**[21:17]** And he measured the wall thereof, a hundred and forty and four cubits, \`according to' the measure of a man, that is, of an angel.
 
 **[21:18]** And the building of the wall thereof was jasper: and the city was pure gold, like unto pure glass.
 
@@ -756,7 +756,7 @@
 
 **[21:22]** And I saw no temple therein: for the Lord God the Almighty, and the Lamb, are the temple thereof.
 
-**[21:23]** And the city hath no need of the sun, neither of the moon, to shine upon it: for the glory of God did lighten it, and the lamp thereof `is' the Lamb.
+**[21:23]** And the city hath no need of the sun, neither of the moon, to shine upon it: for the glory of God did lighten it, and the lamp thereof \`is' the Lamb.
 
 **[21:24]** And the nations shall walk amidst the light thereof: and the kings of the earth bring their glory into it.
 
@@ -768,11 +768,11 @@
 
 **[22:1]** And he showed me a river of water of life, bright as crystal, proceeding out of the throne of God and of the Lamb,
 
-**[22:2]** in the midst of the street thereof. And on this side of the river and on that was the tree of life, bearing twelve `manner of' fruits, yielding its fruit every month: and the leaves of the tree were for the healing of the nations.
+**[22:2]** in the midst of the street thereof. And on this side of the river and on that was the tree of life, bearing twelve \`manner of' fruits, yielding its fruit every month: and the leaves of the tree were for the healing of the nations.
 
 **[22:3]** And there shall be no curse any more: and the throne of God and of the Lamb shall be therein: and his servants shall serve him;
 
-**[22:4]** and they shall see his face; and his name `shall be' on their foreheads.
+**[22:4]** and they shall see his face; and his name \`shall be' on their foreheads.
 
 **[22:5]** And there shall be night no more; and they need no light of lamp, neither light of sun; for the Lord God shall give them light: and they shall reign for ever and ever.
 
@@ -792,7 +792,7 @@
 
 **[22:13]** I am the Alpha and the Omega, the first and the last, the beginning and the end.
 
-**[22:14]** Blessed are they that wash their robes, that they may have the right `to come' to the tree of life, and may enter in by the gates into the city.
+**[22:14]** Blessed are they that wash their robes, that they may have the right \`to come' to the tree of life, and may enter in by the gates into the city.
 
 **[22:15]** Without are the dogs, and the sorcerers, and the fornicators, and the murderers, and the idolaters, and every one that loveth and maketh a lie.
 

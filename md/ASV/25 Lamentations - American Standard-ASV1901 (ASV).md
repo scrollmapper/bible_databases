@@ -22,7 +22,7 @@
 
 **[1:11]** All her people sigh, they seek bread; They have given their pleasant things for food to refresh the soul: See, O Jehovah, and behold; for I am become abject.
 
-**[1:12]** Is it nothing to you, all ye that pass by? Behold, and see if there be any sorrow like unto my sorrow, which is brought upon me, Wherewith Jehovah hath afflicted `me' in the day of his fierce anger.
+**[1:12]** Is it nothing to you, all ye that pass by? Behold, and see if there be any sorrow like unto my sorrow, which is brought upon me, Wherewith Jehovah hath afflicted \`me' in the day of his fierce anger.
 
 **[1:13]** From on high hath he sent fire into my bones, and it prevaileth against them; He hath spread a net for my feet, he hath turned me back: He hath made me desolate and faint all the day.
 
@@ -36,7 +36,7 @@
 
 **[1:18]** Jehovah is righteous; for I have rebelled against his commandment: Hear, I pray you, all ye peoples, and behold my sorrow: My virgins and my young men are gone into captivity.
 
-**[1:19]** I called for my lovers, `but' they deceived me: My priests and mine elders gave up the ghost in the city, While they sought them food to refresh their souls.
+**[1:19]** I called for my lovers, \`but' they deceived me: My priests and mine elders gave up the ghost in the city, While they sought them food to refresh their souls.
 
 **[1:20]** Behold, O Jehovah; for I am in distress; my heart is troubled; My heart is turned within me; for I have grievously rebelled: Abroad the sword bereaveth, at home there is as death.
 
@@ -72,7 +72,7 @@
 
 **[2:14]** Thy prophets have seen for thee false and foolish visions; And they have not uncovered thine iniquity, to bring back thy captivity, But have seen for thee false oracles and causes of banishment.
 
-**[2:15]** All that pass by clap their hands at thee; They hiss and wag their head at the daughter of Jerusalem, `saying', Is this the city that men called The perfection of beauty, The joy of the whole earth?
+**[2:15]** All that pass by clap their hands at thee; They hiss and wag their head at the daughter of Jerusalem, \`saying', Is this the city that men called The perfection of beauty, The joy of the whole earth?
 
 **[2:16]** All thine enemies have opened their mouth wide against thee; They hiss and gnash the teeth; they say, We have swallowed her up; Certainly this is the day that we looked for; we have found, we have seen it.
 
@@ -84,7 +84,7 @@
 
 **[2:20]** See, O Jehovah, and behold to whom thou hast done thus! Shall the women eat their fruit, the children that are dandled in the hands? Shall the priest and the prophet be slain in the sanctuary of the Lord?
 
-**[2:21]** The youth and the old man lie on the ground in the streets; My virgins and my young men are fallen by the sword: Thou hast slain them in the day of thine anger; thou hast slaughtered, `and' not pitied.
+**[2:21]** The youth and the old man lie on the ground in the streets; My virgins and my young men are fallen by the sword: Thou hast slain them in the day of thine anger; thou hast slaughtered, \`and' not pitied.
 
 **[2:22]** Thou hast called, as in the day of a solemn assembly, my terrors on every side; And there was none that escaped or remained in the day of Jehovah's anger: Those that I have dandled and brought up hath mine enemy consumed.
 
@@ -130,7 +130,7 @@
 
 **[3:21]** This I recall to my mind; therefore have I hope.
 
-**[3:22]** `It is of' Jehovah's lovingkindnesses that we are not consumed, because his compassions fail not.
+**[3:22]** \`It is of' Jehovah's lovingkindnesses that we are not consumed, because his compassions fail not.
 
 **[3:23]** They are new every morning; great is thy faithfulness.
 
@@ -220,7 +220,7 @@
 
 **[3:66]** Thou wilt pursue them in anger, and destroy them from under the heavens of Jehovah.
 
-**[4:1]** How is the gold become dim! `how' is the most pure gold changed! The stones of the sanctuary are poured out at the head of every street.
+**[4:1]** How is the gold become dim! \`how' is the most pure gold changed! The stones of the sanctuary are poured out at the head of every street.
 
 **[4:2]** The precious sons of Zion, comparable to fine gold, How are they esteemed as earthen pitchers, the work of the hands of the potter!
 
@@ -244,15 +244,15 @@
 
 **[4:12]** The kings of the earth believed not, neither all the inhabitants of the world, That the adversary and the enemy would enter into the gates of Jerusalem.
 
-**[4:13]** `It is' because of the sins of her prophets, `and' the iniquities of her priests, That have shed the blood of the just in the midst of her.
+**[4:13]** \`It is' because of the sins of her prophets, \`and' the iniquities of her priests, That have shed the blood of the just in the midst of her.
 
 **[4:14]** They wander as blind men in the streets, they are polluted with blood, So that men cannot touch their garments.
 
-**[4:15]** Depart ye, they cried unto them, Unclean! depart, depart, touch not! When they fled away and wandered, men said among the nations, They shall no more sojourn `here'.
+**[4:15]** Depart ye, they cried unto them, Unclean! depart, depart, touch not! When they fled away and wandered, men said among the nations, They shall no more sojourn \`here'.
 
 **[4:16]** The anger of Jehovah hath scattered them; he will no more regard them: They respected not the persons of the priests, they favored not the elders.
 
-**[4:17]** Our eyes do yet fail `in looking' for our vain help: In our watching we have watched for a nation that could not save.
+**[4:17]** Our eyes do yet fail \`in looking' for our vain help: In our watching we have watched for a nation that could not save.
 
 **[4:18]** They hunt our steps, so that we cannot go in our streets: Our end is near, our days are fulfilled; for our end is come.
 
@@ -302,7 +302,7 @@
 
 **[5:19]** Thou, O Jehovah, abidest for ever; Thy throne is from generation to generation.
 
-**[5:20]** Wherefore dost thou forget us for ever, `And' forsake us so long time?
+**[5:20]** Wherefore dost thou forget us for ever, \`And' forsake us so long time?
 
 **[5:21]** Turn thou us unto thee, O Jehovah, and we shall be turned; Renew our days as of old.
 

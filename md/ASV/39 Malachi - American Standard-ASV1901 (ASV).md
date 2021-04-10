@@ -4,7 +4,7 @@
 
 **[1:2]** I have loved you, saith Jehovah. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob's brother, saith Jehovah: yet I loved Jacob;
 
-**[1:3]** but Esau I hated, and made his mountains a desolation, and `gave' his heritage to the jackals of the wilderness.
+**[1:3]** but Esau I hated, and made his mountains a desolation, and \`gave' his heritage to the jackals of the wilderness.
 
 **[1:4]** Whereas Edom saith, We are beaten down, but we will return and build the waste places; thus saith Jehovah of hosts, They shall build, but I will throw down; and men shall call them The border of wickedness, and The people against whom Jehovah hath indignation for ever.
 
@@ -18,9 +18,9 @@
 
 **[1:9]** And now, I pray you, entreat the favor of God, that he may be gracious unto us: this hath been by your means: will he accept any of your persons? saith Jehovah of hosts.
 
-**[1:10]** Oh that there were one among you that would shut the doors, that ye might not kindle `fire on' mine altar in vain! I have no pleasure in you, saith Jehovah of hosts, neither will I accept an offering at your hand.
+**[1:10]** Oh that there were one among you that would shut the doors, that ye might not kindle \`fire on' mine altar in vain! I have no pleasure in you, saith Jehovah of hosts, neither will I accept an offering at your hand.
 
-**[1:11]** For from the rising of the sun even unto the going down of the same my name `shall be' great among the Gentiles; and in every place incense `shall be' offered unto my name, and a pure offering: for my name `shall be' great among the Gentiles, saith Jehovah of hosts.
+**[1:11]** For from the rising of the sun even unto the going down of the same my name \`shall be' great among the Gentiles; and in every place incense \`shall be' offered unto my name, and a pure offering: for my name \`shall be' great among the Gentiles, saith Jehovah of hosts.
 
 **[1:12]** But ye profane it, in that ye say, The table of Jehovah is polluted, and the fruit thereof, even its food, is contemptible.
 
@@ -70,7 +70,7 @@
 
 **[3:4]** Then shall the offering of Judah and Jerusalem be pleasant unto Jehovah, as in the days of old, and as in ancient years.
 
-**[3:5]** And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against the false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the sojourner `from his right', and fear not me, saith Jehovah of hosts.
+**[3:5]** And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against the false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the sojourner \`from his right', and fear not me, saith Jehovah of hosts.
 
 **[3:6]** For I, Jehovah, change not; therefore ye, O sons of Jacob, are not consumed.
 
@@ -80,7 +80,7 @@
 
 **[3:9]** Ye are cursed with the curse; for ye rob me, even this whole nation.
 
-**[3:10]** Bring ye the whole tithe into the store-house, that there may be food in my house, and prove me now herewith, saith Jehovah of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough `to receive it'.
+**[3:10]** Bring ye the whole tithe into the store-house, that there may be food in my house, and prove me now herewith, saith Jehovah of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough \`to receive it'.
 
 **[3:11]** And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast its fruit before the time in the field, saith Jehovah of hosts.
 
@@ -94,7 +94,7 @@
 
 **[3:16]** Then they that feared Jehovah spake one with another; and Jehovah hearkened, and heard, and a book of remembrance was written before him, for them that feared Jehovah, and that thought upon his name.
 
-**[3:17]** And they shall be mine, saith Jehovah of hosts, `even' mine own possession, in the day that I make; and I will spare them, as a man spareth his own son that serveth him.
+**[3:17]** And they shall be mine, saith Jehovah of hosts, \`even' mine own possession, in the day that I make; and I will spare them, as a man spareth his own son that serveth him.
 
 **[3:18]** Then shall ye return and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.
 

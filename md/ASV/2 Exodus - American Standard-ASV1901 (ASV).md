@@ -92,7 +92,7 @@
 
 **[2:24]** And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 
-**[2:25]** And God saw the children of Israel, and God took knowledge `of them'.
+**[2:25]** And God saw the children of Israel, and God took knowledge \`of them'.
 
 **[3:1]** Now Moses was keeping the flock of Jethro his father-in-law, the priest of Midian: and he led the flock to the back of the wilderness, and came to the mountain of God, unto Horeb.
 
@@ -124,7 +124,7 @@
 
 **[3:15]** And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, Jehovah, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name forever, and this is my memorial unto all generations.
 
-**[3:16]** Go, and gather the elders of Israel together, and say unto them, Jehovah, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, hath appeared unto me, saying, I have surely visited you, and `seen' that which is done to you in Egypt:
+**[3:16]** Go, and gather the elders of Israel together, and say unto them, Jehovah, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, hath appeared unto me, saying, I have surely visited you, and \`seen' that which is done to you in Egypt:
 
 **[3:17]** and I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanite, and the Hittite, and the Amorite, and the Perizzite, and the Hivite, and the Jebusite, unto a land flowing with milk and honey.
 
@@ -148,9 +148,9 @@
 
 **[4:5]** That they may believe that Jehovah, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.
 
-**[4:6]** And Jehovah said furthermore unto him, Put now thy hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous, as `white as' snow.
+**[4:6]** And Jehovah said furthermore unto him, Put now thy hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous, as \`white as' snow.
 
-**[4:7]** And he said, Put thy hand into thy bosom again. (And he put his hand into his bosom again; and when he took it out of his bosom, behold, it was turned again as his `other' flesh.)
+**[4:7]** And he said, Put thy hand into thy bosom again. (And he put his hand into his bosom again; and when he took it out of his bosom, behold, it was turned again as his \`other' flesh.)
 
 **[4:8]** And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.
 
@@ -158,7 +158,7 @@
 
 **[4:10]** And Moses said unto Jehovah, Oh, Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant; for I am slow of speech, and of a slow tongue.
 
-**[4:11]** And Jehovah said unto him, Who hath made man's mouth? Or who maketh `a man' dumb, or deaf, or seeing, or blind? Is it not I, Jehovah?
+**[4:11]** And Jehovah said unto him, Who hath made man's mouth? Or who maketh \`a man' dumb, or deaf, or seeing, or blind? Is it not I, Jehovah?
 
 **[4:12]** Now therefore go, and I will be with thy mouth, and teach thee what thou shalt speak.
 
@@ -188,7 +188,7 @@
 
 **[4:25]** Then Zipporah took a flint, and cut off the foreskin of her son, and cast it at his feet; and she said, Surely a bridegroom of blood art thou to me.
 
-**[4:26]** So he let him alone. Then she said, A bridegroom of blood `art thou', because of the circumcision.
+**[4:26]** So he let him alone. Then she said, A bridegroom of blood \`art thou', because of the circumcision.
 
 **[4:27]** And Jehovah said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mountain of God, and kissed him.
 
@@ -224,7 +224,7 @@
 
 **[5:12]** So the people were scattered abroad throughout all the land of Egypt to gather stubble for straw.
 
-**[5:13]** And the taskmasters were urgent saying, Fulfil your works, `your' daily tasks, as when there was straw.
+**[5:13]** And the taskmasters were urgent saying, Fulfil your works, \`your' daily tasks, as when there was straw.
 
 **[5:14]** And the officers of the children of Israel, whom Pharaoh's taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task both yesterday and to-day, in making brick as heretofore?
 
@@ -236,7 +236,7 @@
 
 **[5:18]** Go therefore now, and work; for there shall no straw be given you, yet shall ye deliver the number of bricks.
 
-**[5:19]** And the officers of the children of Israel did see that they were in evil case, when it was said, Ye shall not diminish aught from your bricks, `your' daily tasks.
+**[5:19]** And the officers of the children of Israel did see that they were in evil case, when it was said, Ye shall not diminish aught from your bricks, \`your' daily tasks.
 
 **[5:20]** And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:
 
@@ -294,7 +294,7 @@
 
 **[6:24]** And the sons of Korah: Assir, and Elkanah, and Abiasaph; these are the families of the Korahites.
 
-**[6:25]** And Eleazar Aaron's son took him one of the daughters of Putiel to wife; and she bare him Phinehas. These are the heads of the fathers' `houses' of the Levites according to their families.
+**[6:25]** And Eleazar Aaron's son took him one of the daughters of Putiel to wife; and she bare him Phinehas. These are the heads of the fathers' \`houses' of the Levites according to their families.
 
 **[6:26]** These are that Aaron and Moses, to whom Jehovah said, Bring out the children of Israel from the land of Egypt according to their hosts.
 
@@ -424,7 +424,7 @@
 
 **[9:2]** For if thou refuse to let them go, and wilt hold them still,
 
-**[9:3]** behold, the hand of Jehovah is upon thy cattle which are in the field, upon the horses, upon the asses, upon the camels, upon the herds, and upon the flocks: `there shall be' a very grievous murrain.
+**[9:3]** behold, the hand of Jehovah is upon thy cattle which are in the field, upon the horses, upon the asses, upon the camels, upon the herds, and upon the flocks: \`there shall be' a very grievous murrain.
 
 **[9:4]** And Jehovah shall make a distinction between the cattle of Israel and the cattle of Egypt; and there shall nothing die of all that belongeth to the children of Israel.
 
@@ -456,7 +456,7 @@
 
 **[9:18]** Behold, to-morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the day it was founded even until now.
 
-**[9:19]** Now therefore send, hasten in thy cattle and all that thou hast in the field; `for' every man and beast that shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
+**[9:19]** Now therefore send, hasten in thy cattle and all that thou hast in the field; \`for' every man and beast that shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
 
 **[9:20]** He that feared the word of Jehovah among the servants of Pharaoh made his servants and his cattle flee into the houses.
 
@@ -474,7 +474,7 @@
 
 **[9:27]** And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: Jehovah is righteous, and I and my people are wicked.
 
-**[9:28]** Entreat Jehovah; for there hath been enough of `these' mighty thunderings and hail; and I will let you go, and ye shall stay no longer.
+**[9:28]** Entreat Jehovah; for there hath been enough of \`these' mighty thunderings and hail; and I will let you go, and ye shall stay no longer.
 
 **[9:29]** And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto Jehovah; the thunders shall cease, neither shall there be any more hail; that thou mayest know that the earth is Jehovah's.
 
@@ -572,7 +572,7 @@
 
 **[12:2]** This month shall be unto you the beginning of months: it shall be the first month of the year to you.
 
-**[12:3]** Speak ye unto all the congregation of Israel, saying, In the tenth `day' of this month they shall take to them every man a lamb, according to their fathers' houses, a lamb for a household:
+**[12:3]** Speak ye unto all the congregation of Israel, saying, In the tenth \`day' of this month they shall take to them every man a lamb, according to their fathers' houses, a lamb for a household:
 
 **[12:4]** and if the household be too little for a lamb, then shall he and his neighbor next unto his house take one according to the number of the souls; according to every man's eating ye shall make your count for the lamb.
 
@@ -600,9 +600,9 @@
 
 **[12:16]** And in the first day there shall be to you a holy convocation, and in the seventh day a holy convocation; no manner of work shall be done in them, save that which every man must eat, that only may be done by you.
 
-**[12:17]** And ye shall observe the `feast of' unleavened bread; for in this selfsame day have I brought your hosts out of the land of Egypt: therefore shall ye observe this day throughout your generations by an ordinance for ever.
+**[12:17]** And ye shall observe the \`feast of' unleavened bread; for in this selfsame day have I brought your hosts out of the land of Egypt: therefore shall ye observe this day throughout your generations by an ordinance for ever.
 
-**[12:18]** In the first `month', on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.
+**[12:18]** In the first \`month', on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.
 
 **[12:19]** Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, that soul shall be cut off from the congregation of Israel, whether he be a sojourner, or one that is born in the land.
 
@@ -730,7 +730,7 @@
 
 **[14:8]** And Jehovah hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: for the children of Israel went out with a high hand.
 
-**[14:9]** And the Egyptians pursued after them, all the horses `and' chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baal-zephon.
+**[14:9]** And the Egyptians pursued after them, all the horses \`and' chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baal-zephon.
 
 **[14:10]** And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians were marching after them; and they were sore afraid: and the children of Israel cried out unto Jehovah.
 
@@ -754,7 +754,7 @@
 
 **[14:20]** and it came between the camp of Egypt and the camp of Israel; and there was the cloud and the darkness, yet gave it light by night: and the one came not near the other all the night.
 
-**[14:21]** And Moses stretched out his hand over the sea; and Jehovah caused the sea to go `back' by a strong east wind all the night, and made the sea dry land, and the waters were divided.
+**[14:21]** And Moses stretched out his hand over the sea; and Jehovah caused the sea to go \`back' by a strong east wind all the night, and made the sea dry land, and the waters were divided.
 
 **[14:22]** And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.
 
@@ -844,7 +844,7 @@
 
 **[16:7]** and in the morning, then ye shall see the glory of Jehovah; for that he heareth your murmurings against Jehovah: and what are we, that ye murmur against us?
 
-**[16:8]** And Moses said, `This shall be', when Jehovah shall give you in the evening flesh to eat, and in the morning bread to the full; for that Jehovah heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against Jehovah.
+**[16:8]** And Moses said, \`This shall be', when Jehovah shall give you in the evening flesh to eat, and in the morning bread to the full; for that Jehovah heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against Jehovah.
 
 **[16:9]** And Moses said unto Aaron, Say unto all the congregation of the children of Israel, Come near before Jehovah; for he hath heard your murmurings.
 
@@ -890,7 +890,7 @@
 
 **[16:30]** So the people rested on the seventh day.
 
-**[16:31]** And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers `made' with honey.
+**[16:31]** And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers \`made' with honey.
 
 **[16:32]** And Moses said, This is the thing which Jehovah hath commanded, Let an omerful of it be kept throughout your generations, that they may see the bread wherewith I fed you in the wilderness, when I brought you forth from the land of Egypt.
 
@@ -940,7 +940,7 @@
 
 **[18:3]** and her two sons; of whom the name of the one was Gershom; for he said, I have been a sojourner in a foreign land:
 
-**[18:4]** and the name of the other was Eliezer; for `he said', The God of my father was my help, and delivered me from the sword of Pharaoh.
+**[18:4]** and the name of the other was Eliezer; for \`he said', The God of my father was my help, and delivered me from the sword of Pharaoh.
 
 **[18:5]** And Jethro, Moses' father-in-law, came with his sons and his wife unto Moses into the wilderness where he was encamped, at the mount of God:
 
@@ -976,7 +976,7 @@
 
 **[18:21]** Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating unjust gain; and place such over them, to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens:
 
-**[18:22]** and let them judge the people at all seasons: and it shall be, that every great matter they shall bring unto thee, but every small matter they shall judge themselves: so shall it be easier for thyself, and they shall bear `the burden' with thee.
+**[18:22]** and let them judge the people at all seasons: and it shall be, that every great matter they shall bring unto thee, but every small matter they shall judge themselves: so shall it be easier for thyself, and they shall bear \`the burden' with thee.
 
 **[18:23]** If thou shalt do this thing, and God command thee so, then thou shalt be able to endure, and all this people also shall go to their place in peace.
 
@@ -1044,7 +1044,7 @@
 
 **[20:3]** Thou shalt have no other gods before me.
 
-**[20:4]** Thou shalt not make unto thee a graven image, nor any likeness `of any thing' that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
+**[20:4]** Thou shalt not make unto thee a graven image, nor any likeness \`of any thing' that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
 
 **[20:5]** Thou shalt not bow down thyself unto them, nor serve them, for I Jehovah thy God am a jealous God, visiting the iniquity of the fathers upon the children, upon the third and upon the fourth generation of them that hate me,
 
@@ -1056,7 +1056,7 @@
 
 **[20:9]** Six days shalt thou labor, and do all thy work;
 
-**[20:10]** but the seventh day is a sabbath unto Jehovah thy God: `in it' thou shalt not do any work, thou, nor thy son, nor thy daughter, thy man-servant, nor thy maid-servant, nor thy cattle, nor thy stranger that is within thy gates:
+**[20:10]** but the seventh day is a sabbath unto Jehovah thy God: \`in it' thou shalt not do any work, thou, nor thy son, nor thy daughter, thy man-servant, nor thy maid-servant, nor thy cattle, nor thy stranger that is within thy gates:
 
 **[20:11]** for in six days Jehovah made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore Jehovah blessed the sabbath day, and hallowed it.
 
@@ -1082,7 +1082,7 @@
 
 **[20:22]** And Jehovah said unto Moses, Thus thou shalt say unto the children of Israel, Ye yourselves have seen that I have talked with you from heaven.
 
-**[20:23]** Ye shall not make `other gods' with me; gods of silver, or gods of gold, ye shall not make unto you.
+**[20:23]** Ye shall not make \`other gods' with me; gods of silver, or gods of gold, ye shall not make unto you.
 
 **[20:24]** An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt-offerings, and thy peace-offerings, thy sheep, and thine oxen: in every place where I record my name I will come unto thee and I will bless thee.
 
@@ -1108,13 +1108,13 @@
 
 **[21:9]** And if he espouse her unto his son, he shall deal with her after the manner of daughters.
 
-**[21:10]** If he take him another `wife'; her food, her raiment, and her duty of marriage, shall he not diminish.
+**[21:10]** If he take him another \`wife'; her food, her raiment, and her duty of marriage, shall he not diminish.
 
 **[21:11]** And if he do not these three things unto her, then shall she go out for nothing, without money.
 
 **[21:12]** He that smiteth a man, so that he dieth, shall surely be put to death.
 
-**[21:13]** And if a man lie not in wait, but God deliver `him' into his hand; then I will appoint thee a place whither he shall flee.
+**[21:13]** And if a man lie not in wait, but God deliver \`him' into his hand; then I will appoint thee a place whither he shall flee.
 
 **[21:14]** And if a man come presumptuously upon his neighbor, to slay him with guile; thou shalt take him from mine altar, that he may die.
 
@@ -1156,11 +1156,11 @@
 
 **[21:33]** And if a man shall open a pit, or if a man shall dig a pit and not cover it, and an ox or an ass fall therein,
 
-**[21:34]** the owner of the pit shall make it good; he shall give money unto the owner thereof, and the dead `beast' shall be his.
+**[21:34]** the owner of the pit shall make it good; he shall give money unto the owner thereof, and the dead \`beast' shall be his.
 
 **[21:35]** And if one man's ox hurt another's, so that it dieth, then they shall sell the live ox, and divide the price of it: and the dead also they shall divide.
 
-**[21:36]** Or if it be known that the ox was wont to gore in time past, and its owner hath not kept it in, he shall surely pay ox for ox, and the dead `beast' shall be his own.
+**[21:36]** Or if it be known that the ox was wont to gore in time past, and its owner hath not kept it in, he shall surely pay ox for ox, and the dead \`beast' shall be his own.
 
 **[22:1]** If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall pay five oxen for an ox, and four sheep for a sheep.
 
@@ -1176,9 +1176,9 @@
 
 **[22:7]** If a man shall deliver unto his neighbor money or stuff to keep, and it be stolen out of the man's house; if the thief be found, he shall pay double.
 
-**[22:8]** If the thief be not found, then the master of the house shall come near unto God, `to see' whether he have not put his hand unto his neighbor's goods.
+**[22:8]** If the thief be not found, then the master of the house shall come near unto God, \`to see' whether he have not put his hand unto his neighbor's goods.
 
-**[22:9]** For every matter of trespass, whether it be for ox, for ass, for sheep, for raiment, `or' for any manner of lost thing, whereof one saith, This is it, the cause of both parties shall come before God; he whom God shall condemn shall pay double unto his neighbor.
+**[22:9]** For every matter of trespass, whether it be for ox, for ass, for sheep, for raiment, \`or' for any manner of lost thing, whereof one saith, This is it, the cause of both parties shall come before God; he whom God shall condemn shall pay double unto his neighbor.
 
 **[22:10]** If a man deliver unto his neighbor an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:
 
@@ -1220,21 +1220,21 @@
 
 **[22:29]** Thou shalt not delay to offer of thy harvest, and of the outflow of thy presses. The first-born of thy sons shalt thou give unto me.
 
-**[22:30]** Likewise shalt thou do with thine oxen, `and' with thy sheep: seven days it shall be with its dam; on the eighth day thou shalt give it me.
+**[22:30]** Likewise shalt thou do with thine oxen, \`and' with thy sheep: seven days it shall be with its dam; on the eighth day thou shalt give it me.
 
 **[22:31]** And ye shall be holy men unto me: therefore ye shall not eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs.
 
 **[23:1]** Thou shalt not take up a false report: put not thy hand with the wicked to be an unrighteous witness.
 
-**[23:2]** Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to turn aside after a multitude to wrest `justice':
+**[23:2]** Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to turn aside after a multitude to wrest \`justice':
 
 **[23:3]** neither shalt thou favor a poor man in his cause.
 
 **[23:4]** If thou meet thine enemy's ox or his ass going astray, thou shalt surely bring it back to him again.
 
-**[23:5]** If thou see the ass of him that hateth thee lying under his burden, thou shalt forbear to leave him, thou shalt surely release `it' with him.
+**[23:5]** If thou see the ass of him that hateth thee lying under his burden, thou shalt forbear to leave him, thou shalt surely release \`it' with him.
 
-**[23:6]** Thou shalt not wrest the justice `due' to thy poor in his cause.
+**[23:6]** Thou shalt not wrest the justice \`due' to thy poor in his cause.
 
 **[23:7]** Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked.
 
@@ -1244,7 +1244,7 @@
 
 **[23:10]** And six years thou shalt sow thy land, and shalt gather in the increase thereof:
 
-**[23:11]** but the seventh year thou shalt let it rest and lie fallow; that the poor of thy people may eat: and what they leave the beast of the field shall eat. In like manner thou shalt deal with thy vineyard, `and' with thy oliveyard.
+**[23:11]** but the seventh year thou shalt let it rest and lie fallow; that the poor of thy people may eat: and what they leave the beast of the field shall eat. In like manner thou shalt deal with thy vineyard, \`and' with thy oliveyard.
 
 **[23:12]** Six days thou shalt do thy work, and on the seventh day thou shalt rest; that thine ox and thine ass may have rest, and the son of thy handmaid, and the sojourner, may be refreshed.
 
@@ -1332,7 +1332,7 @@
 
 **[25:3]** And this is the offering which ye shall take of them: gold, and silver, and brass,
 
-**[25:4]** and blue, and purple, and scarlet, and fine linen, and goats' `hair',
+**[25:4]** and blue, and purple, and scarlet, and fine linen, and goats' \`hair',
 
 **[25:5]** and rams' skins dyed red, and sealskins, and acacia wood,
 
@@ -1358,7 +1358,7 @@
 
 **[25:16]** And thou shalt put into the ark the testimony which I shall give thee.
 
-**[25:17]** And thou shalt make a mercy-seat of pure gold: two cubits and a half `shall be' the length thereof, and a cubit and a half the breadth thereof.
+**[25:17]** And thou shalt make a mercy-seat of pure gold: two cubits and a half \`shall be' the length thereof, and a cubit and a half the breadth thereof.
 
 **[25:18]** And thou shalt make two cherubim of gold; of beaten work shalt thou make them, at the two ends of the mercy-seat.
 
@@ -1370,7 +1370,7 @@
 
 **[25:22]** And there I will meet with thee, and I will commune with thee from above the mercy-seat, from between the two cherubim which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel.
 
-**[25:23]** And thou shalt make a table of acacia wood: two cubits `shall be' the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof.
+**[25:23]** And thou shalt make a table of acacia wood: two cubits \`shall be' the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof.
 
 **[25:24]** And thou shalt overlay it with pure gold, and make thereto a crown of gold round about.
 
@@ -1410,21 +1410,21 @@
 
 **[26:2]** The length of each curtain shall be eight and twenty cubits, and the breadth of each curtain four cubits: all the curtains shall have one measure.
 
-**[26:3]** Five curtains shall be coupled together one to another; and `the other' five curtains shall be coupled one to another.
+**[26:3]** Five curtains shall be coupled together one to another; and \`the other' five curtains shall be coupled one to another.
 
 **[26:4]** And thou shalt make loops of blue upon the edge of the one curtain from the selvedge in the coupling; and likewise shalt thou make in the edge of the curtain that is outmost in the second coupling.
 
 **[26:5]** Fifty loops shalt thou make in the one curtain, and fifty loops shalt thou make in the edge of the curtain that is in the second coupling; the loops shall be opposite one to another.
 
-**[26:6]** And thou shalt make fifty clasps of gold, and couple the curtains one to another with the clasps: and the tabernacle shall be one `whole'.
+**[26:6]** And thou shalt make fifty clasps of gold, and couple the curtains one to another with the clasps: and the tabernacle shall be one \`whole'.
 
-**[26:7]** And thou shalt make curtains of goats' `hair' for a tent over the tabernacle: eleven curtains shalt thou make them.
+**[26:7]** And thou shalt make curtains of goats' \`hair' for a tent over the tabernacle: eleven curtains shalt thou make them.
 
 **[26:8]** The length of each curtain shall be thirty cubits, and the breadth of each curtain four cubits: the eleven curtains shall have one measure.
 
 **[26:9]** And thou shalt couple five curtains by themselves, and six curtains by themselves, and shalt double over the sixth curtain in the forefront of the tent.
 
-**[26:10]** And thou shalt make fifty loops on the edge of the one curtain that is outmost in the coupling, and fifty loops upon the edge of the curtain which is `outmost in' the second coupling.
+**[26:10]** And thou shalt make fifty loops on the edge of the one curtain that is outmost in the coupling, and fifty loops upon the edge of the curtain which is \`outmost in' the second coupling.
 
 **[26:11]** And thou shalt make fifty clasps of brass, and put the clasps into the loops, and couple the tent together, that it may be one.
 
@@ -1468,7 +1468,7 @@
 
 **[26:31]** And thou shalt make a veil of blue, and purple, and scarlet, and fine twined linen: with cherubim the work of the skilful workman shall it be made.
 
-**[26:32]** And thou shalt hang it upon four pillars of acacia overlaid with gold; their hooks `shall be' of gold, upon four sockets of silver.
+**[26:32]** And thou shalt hang it upon four pillars of acacia overlaid with gold; their hooks \`shall be' of gold, upon four sockets of silver.
 
 **[26:33]** And thou shalt hang up the veil under the clasps, and shalt bring in thither within the veil the ark of the testimony: and the veil shall separate unto you between the holy place and the most holy.
 
@@ -1498,7 +1498,7 @@
 
 **[27:9]** And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen a hundred cubits long for one side:
 
-**[27:10]** and the pillars thereof shall be twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets `shall be' of silver.
+**[27:10]** and the pillars thereof shall be twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets \`shall be' of silver.
 
 **[27:11]** And likewise for the north side in length there shall be hangings a hundred cubits long, and the pillars thereof twenty, and their sockets twenty, of brass; the hooks of the pillars, and their fillets, of silver.
 
@@ -1506,7 +1506,7 @@
 
 **[27:13]** And the breadth of the court on the east side eastward shall be fifty cubits.
 
-**[27:14]** The hangings for the one side `of the gate' shall be fifteen cubits; their pillars three, and their sockets three.
+**[27:14]** The hangings for the one side \`of the gate' shall be fifteen cubits; their pillars three, and their sockets three.
 
 **[27:15]** And for the other side shall be hangings of fifteen cubits; their pillars three, and their sockets three.
 
@@ -1536,7 +1536,7 @@
 
 **[28:7]** It shall have two shoulder-pieces joined to the two ends thereof, that it may be joined together.
 
-**[28:8]** And the skilfully woven band, which is upon it, wherewith to gird it on, shall be like the work thereof `and' of the same piece; of gold, of blue, and purple, and scarlet, and fine twined linen.
+**[28:8]** And the skilfully woven band, which is upon it, wherewith to gird it on, shall be like the work thereof \`and' of the same piece; of gold, of blue, and purple, and scarlet, and fine twined linen.
 
 **[28:9]** And thou shalt take two onyx stones, and grave on them the names of the children of Israel:
 
@@ -1552,7 +1552,7 @@
 
 **[28:15]** And thou shalt make a breastplate of judgment, the work of the skilful workman; like the work of the ephod thou shalt make it; of gold, of blue, and purple, and scarlet, and fine twined linen, shalt thou make it.
 
-**[28:16]** Foursquare it shall be `and' double; a span shall be the length thereof, and a span the breadth thereof.
+**[28:16]** Foursquare it shall be \`and' double; a span shall be the length thereof, and a span the breadth thereof.
 
 **[28:17]** And thou shalt set in it settings of stones, four rows of stones: a row of sardius, topaz, and carbuncle shall be the first row;
 
@@ -1570,7 +1570,7 @@
 
 **[28:24]** And thou shalt put the two wreathen chains of gold in the two rings at the ends of the breastplate.
 
-**[28:25]** And the `other' two ends of the two wreathen chains thou shalt put on the two settings, and put them on the shoulder-pieces of the ephod in the forepart thereof.
+**[28:25]** And the \`other' two ends of the two wreathen chains thou shalt put on the two settings, and put them on the shoulder-pieces of the ephod in the forepart thereof.
 
 **[28:26]** And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate, upon the edge thereof, which is toward the side of the ephod inward.
 
@@ -1662,7 +1662,7 @@
 
 **[29:27]** And thou shalt sanctify the breast of the wave-offering, and the thigh of the heave-offering, which is waved, and which is heaved up, of the ram of consecration, even of that which is for Aaron, and of that which is for his sons:
 
-**[29:28]** and it shall be for Aaron and his sons as `their' portion for ever from the children of Israel; for it is a heave-offering: and it shall be a heave-offering from the children of Israel of the sacrifices of their peace-offerings, even their heave-offering unto Jehovah.
+**[29:28]** and it shall be for Aaron and his sons as \`their' portion for ever from the children of Israel; for it is a heave-offering: and it shall be a heave-offering from the children of Israel of the sacrifices of their peace-offerings, even their heave-offering unto Jehovah.
 
 **[29:29]** And the holy garments of Aaron shall be for his sons after him, to be anointed in them, and to be consecrated in them.
 
@@ -1672,7 +1672,7 @@
 
 **[29:32]** And Aaron and his sons shall eat the flesh of the ram, and the bread that is in the basket, at the door of the tent of meeting.
 
-**[29:33]** And they shall eat those things wherewith atonement was made, to consecrate `and' to sanctify them: but a stranger shall not eat thereof, because they are holy.
+**[29:33]** And they shall eat those things wherewith atonement was made, to consecrate \`and' to sanctify them: but a stranger shall not eat thereof, because they are holy.
 
 **[29:34]** And if aught of the flesh of the consecration, or of the bread, remain unto the morning, then thou shalt burn the remainder with fire: it shall not be eaten, because it is holy.
 
@@ -1686,13 +1686,13 @@
 
 **[29:39]** The one lamb thou shalt offer in the morning; and the other lamb thou shalt offer at even:
 
-**[29:40]** and with the one lamb a tenth part `of an ephah' of fine flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-offering.
+**[29:40]** and with the one lamb a tenth part \`of an ephah' of fine flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-offering.
 
 **[29:41]** And the other lamb thou shalt offer at even, and shalt do thereto according to the meal-offering of the morning, and according to the drink-offering thereof, for a sweet savor, an offering made by fire unto Jehovah.
 
 **[29:42]** It shall be a continual burnt-offering throughout your generations at the door of the tent of meeting before Jehovah, where I will meet with you, to speak there unto thee.
 
-**[29:43]** And there I will meet with the children of Israel; and `the Tent' shall be sanctified by my glory.
+**[29:43]** And there I will meet with the children of Israel; and \`the Tent' shall be sanctified by my glory.
 
 **[29:44]** And I will sanctify the tent of meeting, and the altar: Aaron also and his sons will I sanctify, to minister to me in the priest's office.
 
@@ -1744,7 +1744,7 @@
 
 **[30:22]** Moreover Jehovah spake unto Moses, saying,
 
-**[30:23]** Take thou also unto thee the chief spices: of flowing myrrh five hundred `shekels', and of sweet cinnamon half so much, even two hundred and fifty, and of sweet calamus two hundred and fifty,
+**[30:23]** Take thou also unto thee the chief spices: of flowing myrrh five hundred \`shekels', and of sweet cinnamon half so much, even two hundred and fifty, and of sweet calamus two hundred and fifty,
 
 **[30:24]** and of cassia five hundred, after the shekel of the sanctuary, and of olive oil a hin.
 
@@ -1762,13 +1762,13 @@
 
 **[30:31]** And thou shalt speak unto the children of Israel, saying, This shall be a holy anointing oil unto me throughout your generations.
 
-**[30:32]** Upon the flesh of man shall it not be poured, neither shall ye make any like it, according to the composition thereof: it is holy, `and' it shall be holy unto you.
+**[30:32]** Upon the flesh of man shall it not be poured, neither shall ye make any like it, according to the composition thereof: it is holy, \`and' it shall be holy unto you.
 
 **[30:33]** Whosoever compoundeth any like it, or whosoever putteth any of it upon a stranger, he shall be cut off from his people.
 
 **[30:34]** And Jehovah said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; sweet spices with pure frankincense: of each shall there be a like weight;
 
-**[30:35]** and thou shalt make of it incense, a perfume after the art of the perfumer, seasoned with salt, pure `and' holy:
+**[30:35]** and thou shalt make of it incense, a perfume after the art of the perfumer, seasoned with salt, pure \`and' holy:
 
 **[30:36]** and thou shalt beat some of it very small, and put of it before the testimony in the tent of meeting, where I will meet with thee: it shall be unto you most holy.
 
@@ -1820,7 +1820,7 @@
 
 **[32:4]** And he received it at their hand, and fashioned it with a graving tool, and made it a molten calf: and they said, These are thy gods, O Israel, which brought thee up out of the land of Egypt.
 
-**[32:5]** And when Aaron saw `this', he built an altar before it; and Aaron made proclamation, and said, To-morrow shall be a feast to Jehovah.
+**[32:5]** And when Aaron saw \`this', he built an altar before it; and Aaron made proclamation, and said, To-morrow shall be a feast to Jehovah.
 
 **[32:6]** And they rose up early on the morrow, and offered burnt-offerings, and brought peace-offerings; and the people sat down to eat and to drink, and rose up to play.
 
@@ -1854,7 +1854,7 @@
 
 **[32:21]** And Moses said unto Aaron, What did this people unto thee, that thou hast brought a great sin upon them?
 
-**[32:22]** And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they are `set' on evil.
+**[32:22]** And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they are \`set' on evil.
 
 **[32:23]** For they said unto me, Make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we know not what is become of him.
 
@@ -1862,7 +1862,7 @@
 
 **[32:25]** And when Moses saw that the people were broken loose, (for Aaron had let them loose for a derision among their enemies,)
 
-**[32:26]** then Moses stood in the gate of the camp, and said, Whoso is on Jehovah's side, `let him come' unto me. And all the sons of Levi gathered themselves together unto him.
+**[32:26]** then Moses stood in the gate of the camp, and said, Whoso is on Jehovah's side, \`let him come' unto me. And all the sons of Levi gathered themselves together unto him.
 
 **[32:27]** And he said unto them, Thus saith Jehovah, the God of Israel, Put ye every man his sword upon his thigh, and go to and fro from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbor.
 
@@ -1878,7 +1878,7 @@
 
 **[32:33]** And Jehovah said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.
 
-**[32:34]** And now go, lead the people unto `the place' of which I have spoken unto thee: behold, mine angel shall go before thee; nevertheless in the day when I visit, I will visit their sin upon them.
+**[32:34]** And now go, lead the people unto \`the place' of which I have spoken unto thee: behold, mine angel shall go before thee; nevertheless in the day when I visit, I will visit their sin upon them.
 
 **[32:35]** And Jehovah smote the people, because they made the calf, which Aaron made.
 
@@ -1898,7 +1898,7 @@
 
 **[33:8]** And it came to pass, when Moses went out unto the Tent, that all the people rose up, and stood, every man at his tent door, and looked after Moses, until he was gone into the Tent.
 
-**[33:9]** And it came to pass, when Moses entered into the Tent, the pillar of cloud descended, and stood at the door of the Tent: and `Jehovah' spake with Moses.
+**[33:9]** And it came to pass, when Moses entered into the Tent, the pillar of cloud descended, and stood at the door of the Tent: and \`Jehovah' spake with Moses.
 
 **[33:10]** And all the people saw the pillar of cloud stand at the door of the Tent: and all the people rose up and worshipped, every man at his tent door.
 
@@ -1908,9 +1908,9 @@
 
 **[33:13]** Now therefore, I pray thee, if I have found favor in thy sight, show me now thy ways, that I may know thee, to the end that I may find favor in thy sight: and consider that this nation is thy people.
 
-**[33:14]** And he said, My presence shall go `with thee', and I will give thee rest.
+**[33:14]** And he said, My presence shall go \`with thee', and I will give thee rest.
 
-**[33:15]** And he said unto him, If thy presence go not `with me', carry us not up hence.
+**[33:15]** And he said unto him, If thy presence go not \`with me', carry us not up hence.
 
 **[33:16]** For wherein now shall it be known that I have found favor in thy sight, I and thy people? is it not in that thou goest with us, so that we are separated, I and thy people, from all the people that are upon the face of the earth?
 
@@ -1940,7 +1940,7 @@
 
 **[34:6]** And Jehovah passed by before him, and proclaimed, Jehovah, Jehovah, a God merciful and gracious, slow to anger, and abundant in lovingkindness and truth,
 
-**[34:7]** keeping lovingkindness for thousands, forgiving iniquity and transgression and sin; and that will by no means clear `the guilty', visiting the iniquity of the fathers upon the children, and upon the children's children, upon the third and upon the fourth generation.
+**[34:7]** keeping lovingkindness for thousands, forgiving iniquity and transgression and sin; and that will by no means clear \`the guilty', visiting the iniquity of the fathers upon the children, and upon the children's children, upon the third and upon the fourth generation.
 
 **[34:8]** And Moses made haste, and bowed his head toward the earth, and worshipped.
 
@@ -1970,7 +1970,7 @@
 
 **[34:21]** Six days thou shalt work, but on the seventh day thou shalt rest: in plowing time and in harvest thou shalt rest.
 
-**[34:22]** And thou shalt observe the feast of weeks, `even' of the first-fruits of wheat harvest, and the feast of ingathering at the year's end.
+**[34:22]** And thou shalt observe the feast of weeks, \`even' of the first-fruits of wheat harvest, and the feast of ingathering at the year's end.
 
 **[34:23]** Three times in the year shall all thy males appear before the Lord Jehovah, the God of Israel.
 
@@ -2008,7 +2008,7 @@
 
 **[35:5]** Take ye from among you an offering unto Jehovah; whosoever is of a willing heart, let him bring it, Jehovah's offering: gold, and silver, and brass,
 
-**[35:6]** and blue, and purple, and scarlet, and fine linen, and goats' `hair',
+**[35:6]** and blue, and purple, and scarlet, and fine linen, and goats' \`hair',
 
 **[35:7]** and rams' skins dyed red, and sealskins, and acacia wood,
 
@@ -2038,17 +2038,17 @@
 
 **[35:20]** And all the congregation of the children of Israel departed from the presence of Moses.
 
-**[35:21]** And they came, every one whose heart stirred him up, and every one whom his spirit made willing, `and' brought Jehovah's offering, for the work of the tent of meeting, and for all the service thereof, and for the holy garments.
+**[35:21]** And they came, every one whose heart stirred him up, and every one whom his spirit made willing, \`and' brought Jehovah's offering, for the work of the tent of meeting, and for all the service thereof, and for the holy garments.
 
-**[35:22]** And they came, both men and women, as many as were willing-hearted, `and' brought brooches, and ear-rings, and signet-rings, and armlets, all jewels of gold; even every man that offered an offering of gold unto Jehovah.
+**[35:22]** And they came, both men and women, as many as were willing-hearted, \`and' brought brooches, and ear-rings, and signet-rings, and armlets, all jewels of gold; even every man that offered an offering of gold unto Jehovah.
 
-**[35:23]** And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats' `hair', and rams' skins dyed red, and sealskins, brought them.
+**[35:23]** And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats' \`hair', and rams' skins dyed red, and sealskins, brought them.
 
 **[35:24]** Every one that did offer an offering of silver and brass brought Jehovah's offering; and every man, with whom was found acacia wood for any work of the service, brought it.
 
 **[35:25]** And all the women that were wise-hearted did spin with their hands, and brought that which they had spun, the blue, and the purple, the scarlet, and the fine linen.
 
-**[35:26]** And all the women whose heart stirred them up in wisdom spun the goats' `hair'.
+**[35:26]** And all the women whose heart stirred them up in wisdom spun the goats' \`hair'.
 
 **[35:27]** And the rulers brought the onyx stones, and the stones to be set, for the ephod, and for the breastplate;
 
@@ -2082,11 +2082,11 @@
 
 **[36:7]** For the stuff they had was sufficient for all the work to make it, and too much.
 
-**[36:8]** And all the wise-hearted men among them that wrought the work made the tabernacle with ten curtains; of fine twined linen, and blue, and purple, and scarlet, with cherubim, the work of the skilful workman, `Bezalel' made them.
+**[36:8]** And all the wise-hearted men among them that wrought the work made the tabernacle with ten curtains; of fine twined linen, and blue, and purple, and scarlet, with cherubim, the work of the skilful workman, \`Bezalel' made them.
 
 **[36:9]** The length of each curtain was eight and twenty cubits, and the breadth of each curtain four cubits: all the curtains had one measure.
 
-**[36:10]** And he coupled five curtains one to another: and `the other' five curtains he coupled one to another.
+**[36:10]** And he coupled five curtains one to another: and \`the other' five curtains he coupled one to another.
 
 **[36:11]** And he made loops of blue upon the edge of the one curtain from the selvedge in the coupling: likewise he made in the edge of the curtain that was outmost in the second coupling.
 
@@ -2094,13 +2094,13 @@
 
 **[36:13]** And he made fifty clasps of gold, and coupled the curtains one to another with the clasps: so the tabernacle was one.
 
-**[36:14]** And he made curtains of goats' `hair' for a tent over the tabernacle: eleven curtains he made them.
+**[36:14]** And he made curtains of goats' \`hair' for a tent over the tabernacle: eleven curtains he made them.
 
 **[36:15]** The length of each curtain was thirty cubits, and four cubits the breadth of each curtain: the eleven curtains had one measure.
 
 **[36:16]** And he coupled five curtains by themselves, and six curtains by themselves.
 
-**[36:17]** And he made fifty loops on the edge of the curtain that was outmost in the coupling, and fifty loops made he upon the edge of the curtain which was `outmost in' the second coupling.
+**[36:17]** And he made fifty loops on the edge of the curtain that was outmost in the coupling, and fifty loops made he upon the edge of the curtain which was \`outmost in' the second coupling.
 
 **[36:18]** And he made fifty clasps of brass to couple the tent together, that it might be one.
 
@@ -2154,7 +2154,7 @@
 
 **[37:5]** And he put the staves into the rings on the sides of the ark, to bear the ark.
 
-**[37:6]** And he made a mercy-seat of pure gold: two cubits and a half `was' the length thereof, and a cubit and a half the breadth thereof.
+**[37:6]** And he made a mercy-seat of pure gold: two cubits and a half \`was' the length thereof, and a cubit and a half the breadth thereof.
 
 **[37:7]** And he made two cherubim of gold; of beaten work made he them, at the two ends of the mercy-seat;
 
@@ -2162,7 +2162,7 @@
 
 **[37:9]** And the cherubim spread out their wings on high, covering the mercy-seat with their wings, with their faces one to another; toward the mercy-seat were the faces of the cherubim.
 
-**[37:10]** And he made the table of acacia wood: two cubits `was' the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:
+**[37:10]** And he made the table of acacia wood: two cubits \`was' the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:
 
 **[37:11]** and he overlaid it with pure gold, and made thereto a crown of gold round about.
 
@@ -2228,7 +2228,7 @@
 
 **[38:13]** And for the east side eastward fifty cubits.
 
-**[38:14]** The hangings for the one side `of the gate' were fifteen cubits; their pillars three, and their sockets three;
+**[38:14]** The hangings for the one side \`of the gate' were fifteen cubits; their pillars three, and their sockets three;
 
 **[38:15]** and so for the other side: on this hand and that hand by the gate of the court were hangings of fifteen cubits; their pillars three, and their sockets three.
 
@@ -2242,7 +2242,7 @@
 
 **[38:20]** And all the pins of the tabernacle, and of the court round about, were of brass.
 
-**[38:21]** This is the sum of `the things for' the tabernacle, even the tabernacle of the testimony, as they were counted, according to the commandment of Moses, for the service of the Levites, by the hand of Ithamar, the son of Aaron the priest.
+**[38:21]** This is the sum of \`the things for' the tabernacle, even the tabernacle of the testimony, as they were counted, according to the commandment of Moses, for the service of the Levites, by the hand of Ithamar, the son of Aaron the priest.
 
 **[38:22]** And Bezalel the son of Uri, the son of Hur, of the tribe of Judah, made all that Jehovah commanded Moses.
 
@@ -2252,11 +2252,11 @@
 
 **[38:25]** And the silver of them that were numbered of the congregation was a hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:
 
-**[38:26]** a beka a head, `that is', half a shekel, after the shekel of the sanctuary, for every one that passed over to them that were numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty men.
+**[38:26]** a beka a head, \`that is', half a shekel, after the shekel of the sanctuary, for every one that passed over to them that were numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty men.
 
 **[38:27]** And the hundred talents of silver were for casting the sockets of the sanctuary, and the sockets of the veil; a hundred sockets for the hundred talents, a talent for a socket.
 
-**[38:28]** And of the thousand seven hundred seventy and five `shekels' he made hooks for the pillars, and overlaid their capitals, and made fillets for them.
+**[38:28]** And of the thousand seven hundred seventy and five \`shekels' he made hooks for the pillars, and overlaid their capitals, and made fillets for them.
 
 **[38:29]** And the brass of the offering was seventy talents, and two thousand and four hundred shekels.
 
@@ -2272,7 +2272,7 @@
 
 **[39:4]** They made shoulder-pieces for it, joined together; at the two ends was it joined together.
 
-**[39:5]** And the skilfully woven band, that was upon it, wherewith to gird it on, was of the same piece `and' like the work thereof; of gold, of blue, and purple, and scarlet, and fine twined linen; as Jehovah commanded Moses.
+**[39:5]** And the skilfully woven band, that was upon it, wherewith to gird it on, was of the same piece \`and' like the work thereof; of gold, of blue, and purple, and scarlet, and fine twined linen; as Jehovah commanded Moses.
 
 **[39:6]** And they wrought the onyx stones, inclosed in settings of gold, graven with the engravings of a signet, according to the names of the children of Israel.
 
@@ -2298,7 +2298,7 @@
 
 **[39:17]** And they put the two wreathen chains of gold in the two rings at the ends of the breastplate.
 
-**[39:18]** And the `other' two ends of the two wreathen chains they put on the two settings, and put them on the shoulder-pieces of the ephod, in the forepart thereof.
+**[39:18]** And the \`other' two ends of the two wreathen chains they put on the two settings, and put them on the shoulder-pieces of the ephod, in the forepart thereof.
 
 **[39:19]** And they made two rings of gold, and put them upon the two ends of the breastplate, upon the edge thereof, which was toward the side of the ephod inward.
 
@@ -2310,7 +2310,7 @@
 
 **[39:23]** And the hole of the robe in the midst thereof, as the hole of a coat of mail, with a binding round about the hole of it, that it should not be rent.
 
-**[39:24]** And they made upon the skirts of the robe pomegranates of blue, and purple, and scarlet, `and' twined `linen'.
+**[39:24]** And they made upon the skirts of the robe pomegranates of blue, and purple, and scarlet, \`and' twined \`linen'.
 
 **[39:25]** And they made bells of pure gold, and put the bells between the pomegranates upon the skirts of the robe round about, between the pomegranates;
 

@@ -14,13 +14,13 @@
 
 **[1:7]** All the rivers run into the sea, yet the sea is not full; unto the place whither the rivers go, thither they go again.
 
-**[1:8]** All things are full of weariness; man cannot utter `it': the eye is not satisfied with seeing, nor the ear filled with hearing.
+**[1:8]** All things are full of weariness; man cannot utter \`it': the eye is not satisfied with seeing, nor the ear filled with hearing.
 
 **[1:9]** That which hath been is that which shall be; and that which hath been done is that which shall be done: and there is no new thing under the sun.
 
 **[1:10]** Is there a thing whereof it may be said, See, this is new? it hath been long ago, in the ages which were before us.
 
-**[1:11]** There is no remembrance of the former `generations'; neither shall there be any remembrance of the latter `generations' that are to come, among those that shall come after.
+**[1:11]** There is no remembrance of the former \`generations'; neither shall there be any remembrance of the latter \`generations' that are to come, among those that shall come after.
 
 **[1:12]** I the Preacher was king over Israel in Jerusalem.
 
@@ -40,7 +40,7 @@
 
 **[2:2]** I said of laughter, It is mad; and of mirth, What doeth it?
 
-**[2:3]** I searched in my heart how to cheer my flesh with wine, my heart yet guiding `me' with wisdom, and how to lay hold on folly, till I might see what it was good for the sons of men that they should do under heaven all the days of their life.
+**[2:3]** I searched in my heart how to cheer my flesh with wine, my heart yet guiding \`me' with wisdom, and how to lay hold on folly, till I might see what it was good for the sons of men that they should do under heaven all the days of their life.
 
 **[2:4]** I made me great works; I builded me houses; I planted me vineyards;
 
@@ -58,7 +58,7 @@
 
 **[2:11]** Then I looked on all the works that my hands had wrought, and on the labor that I had labored to do; and, behold, all was vanity and a striving after wind, and there was no profit under the sun.
 
-**[2:12]** And I turned myself to behold wisdom, and madness, and folly: for what `can' the man `do' that cometh after the king? `even' that which hath been done long ago.
+**[2:12]** And I turned myself to behold wisdom, and madness, and folly: for what \`can' the man \`do' that cometh after the king? \`even' that which hath been done long ago.
 
 **[2:13]** Then I saw that wisdom excelleth folly, as far as light excelleth darkness.
 
@@ -80,13 +80,13 @@
 
 **[2:22]** For what hath a man of all his labor, and of the striving of his heart, wherein he laboreth under the sun?
 
-**[2:23]** For all his days are `but' sorrows, and his travail is grief; yea, even in the night his heart taketh no rest. This also is vanity.
+**[2:23]** For all his days are \`but' sorrows, and his travail is grief; yea, even in the night his heart taketh no rest. This also is vanity.
 
-**[2:24]** There is nothing better for a man `than' that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God.
+**[2:24]** There is nothing better for a man \`than' that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God.
 
 **[2:25]** For who can eat, or who can have enjoyment, more than I?
 
-**[2:26]** For to the man that pleaseth him `God' giveth wisdom, and knowledge, and joy; but to the sinner he giveth travail, to gather and to heap up, that he may give to him that pleaseth God. This also is vanity and a striving after wind.
+**[2:26]** For to the man that pleaseth him \`God' giveth wisdom, and knowledge, and joy; but to the sinner he giveth travail, to gather and to heap up, that he may give to him that pleaseth God. This also is vanity and a striving after wind.
 
 **[3:1]** For everything there is a season, and a time for very purpose under heaven:
 
@@ -122,7 +122,7 @@
 
 **[3:17]** I said in my heart, God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.
 
-**[3:18]** I said in my heart, `It is' because of the sons of men, that God may prove them, and that they may see that they themselves are `but as' beasts.
+**[3:18]** I said in my heart, \`It is' because of the sons of men, that God may prove them, and that they may see that they themselves are \`but as' beasts.
 
 **[3:19]** For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; and man hath no preeminence above the beasts: for all is vanity.
 
@@ -130,13 +130,13 @@
 
 **[3:21]** Who knoweth the spirit of man, whether it goeth upward, and the spirit of the beast, whether it goeth downward to the earth?
 
-**[3:22]** Wherefore I saw that there is nothing better, than that a man should rejoice in his works; for that is his portion: for who shall bring him `back' to see what shall be after him?
+**[3:22]** Wherefore I saw that there is nothing better, than that a man should rejoice in his works; for that is his portion: for who shall bring him \`back' to see what shall be after him?
 
 **[4:1]** Then I returned and saw all the oppressions that are done under the sun: and, behold, the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 
 **[4:2]** Wherefore I praised the dead that have been long dead more than the living that are yet alive;
 
-**[4:3]** yea, better than them both `did I esteem' him that hath not yet been, who hath not seen the evil work that is done under the sun.
+**[4:3]** yea, better than them both \`did I esteem' him that hath not yet been, who hath not seen the evil work that is done under the sun.
 
 **[4:4]** Then I saw all labor and every skilful work, that for this a man is envied of his neighbor. This also is vanity and a striving after wind.
 
@@ -146,13 +146,13 @@
 
 **[4:7]** Then I returned and saw vanity under the sun.
 
-**[4:8]** There is one that is alone, and he hath not a second; yea, he hath neither son nor brother; yet is there no end of all his labor, neither are his eyes satisfied with riches. For whom then, `saith he', do I labor, and deprive my soul of good? This also is vanity, yea, it is a sore travail.
+**[4:8]** There is one that is alone, and he hath not a second; yea, he hath neither son nor brother; yet is there no end of all his labor, neither are his eyes satisfied with riches. For whom then, \`saith he', do I labor, and deprive my soul of good? This also is vanity, yea, it is a sore travail.
 
 **[4:9]** Two are better than one, because they have a good reward for their labor.
 
 **[4:10]** For if they fall, the one will lift up his fellow; but woe to him that is alone when he falleth, and hath not another to lift him up.
 
-**[4:11]** Again, if two lie together, then they have warmth; but how can one be warm `alone'?
+**[4:11]** Again, if two lie together, then they have warmth; but how can one be warm \`alone'?
 
 **[4:12]** And if a man prevail against him that is alone, two shall withstand him; and a threefold cord is not quickly broken.
 
@@ -180,15 +180,15 @@
 
 **[5:8]** If thou seest the oppression of the poor, and the violent taking away of justice and righteousness in a province, marvel not at the matter: for one higher than the high regardeth; and there are higher than they.
 
-**[5:9]** Moreover the profit of the earth is for all: the king `himself' is served by the field.
+**[5:9]** Moreover the profit of the earth is for all: the king \`himself' is served by the field.
 
 **[5:10]** He that loveth silver shall not be satisfied with silver; nor he that loveth abundance, with increase: this also is vanity.
 
-**[5:11]** When goods increase, they are increased that eat them; and what advantage is there to the owner thereof, save the beholding `of them' with his eyes?
+**[5:11]** When goods increase, they are increased that eat them; and what advantage is there to the owner thereof, save the beholding \`of them' with his eyes?
 
 **[5:12]** The sleep of a laboring man is sweet, whether he eat little or much; but the fulness of the rich will not suffer him to sleep.
 
-**[5:13]** There is a grievous evil which I have seen under the sun, `namely', riches kept by the owner thereof to his hurt:
+**[5:13]** There is a grievous evil which I have seen under the sun, \`namely', riches kept by the owner thereof to his hurt:
 
 **[5:14]** and those riches perish by evil adventure; and if he hath begotten a son, there is nothing in his hand.
 
@@ -202,7 +202,7 @@
 
 **[5:19]** Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labor-this is the gift of God.
 
-**[5:20]** For he shall not much remember the days of his life; because God answereth `him' in the joy of his heart.
+**[5:20]** For he shall not much remember the days of his life; because God answereth \`him' in the joy of his heart.
 
 **[6:1]** There is an evil which I have seen under the sun, and it is heavy upon men:
 
@@ -218,7 +218,7 @@
 
 **[6:7]** All the labor of man is for his mouth, and yet the appetite is not filled.
 
-**[6:8]** For what advantage hath the wise more than the fool? `or' what hath the poor man, that knoweth how to walk before the living?
+**[6:8]** For what advantage hath the wise more than the fool? \`or' what hath the poor man, that knoweth how to walk before the living?
 
 **[6:9]** Better is the sight of the eyes than the wandering of the desire: this also is vanity and a striving after wind.
 
@@ -226,9 +226,9 @@
 
 **[6:11]** Seeing there are many things that increase vanity, what is man the better?
 
-**[6:12]** For who knoweth what is good for man in `his' life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
+**[6:12]** For who knoweth what is good for man in \`his' life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
 
-**[7:1]** A `good' name is better than precious oil; and the day of death, than the day of one's birth.
+**[7:1]** A \`good' name is better than precious oil; and the day of death, than the day of one's birth.
 
 **[7:2]** It is better to go to the house of mourning than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.
 
@@ -242,7 +242,7 @@
 
 **[7:7]** Surely extortion maketh the wise man foolish; and a bribe destroyeth the understanding.
 
-**[7:8]** Better is the end of a thing than the beginning thereof; `and' the patient in spirit is better than the proud in spirit.
+**[7:8]** Better is the end of a thing than the beginning thereof; \`and' the patient in spirit is better than the proud in spirit.
 
 **[7:9]** Be not hasty in thy spirit to be angry; for anger resteth in the bosom of fools.
 
@@ -254,9 +254,9 @@
 
 **[7:13]** Consider the work of God: for who can make that straight, which he hath made crooked?
 
-**[7:14]** In the day of prosperity be joyful, and in the day of adversity consider; yea, God hath made the one side by side with the other, to the end that man should not find out anything `that shall be' after him.
+**[7:14]** In the day of prosperity be joyful, and in the day of adversity consider; yea, God hath made the one side by side with the other, to the end that man should not find out anything \`that shall be' after him.
 
-**[7:15]** All this have I seen in my days of vanity: there is a righteous man that perisheth in his righteousness, and there is a wicked man that prolongeth `his life' in his evil-doing.
+**[7:15]** All this have I seen in my days of vanity: there is a righteous man that perisheth in his righteousness, and there is a wicked man that prolongeth \`his life' in his evil-doing.
 
 **[7:16]** Be not righteous overmuch; neither make thyself overwise: why shouldest thou destroy thyself?
 
@@ -276,11 +276,11 @@
 
 **[7:24]** That which is, is far off and exceeding deep; who can find it out?
 
-**[7:25]** I turned about, and my heart `was set' to know and to search out, and to seek wisdom and the reason `of things', and to know that wickedness is folly, and that foolishness is madness.
+**[7:25]** I turned about, and my heart \`was set' to know and to search out, and to seek wisdom and the reason \`of things', and to know that wickedness is folly, and that foolishness is madness.
 
-**[7:26]** And I find more bitter than death the woman whose heart is snares and nets, `and' whose hands are bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
+**[7:26]** And I find more bitter than death the woman whose heart is snares and nets, \`and' whose hands are bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
 
-**[7:27]** Behold, this have I found, saith the Preacher, `laying' one thing to another, to find out the account;
+**[7:27]** Behold, this have I found, saith the Preacher, \`laying' one thing to another, to find out the account;
 
 **[7:28]** which my soul still seeketh, but I have not found: one man among a thousand have I found; but a woman among all those have I not found.
 
@@ -288,11 +288,11 @@
 
 **[8:1]** Who is as the wise man? and who knoweth the interpretation of a thing? A man's wisdom maketh his face to shine, and the hardness of his face is changed.
 
-**[8:2]** I `counsel thee', Keep the king's command, and that in regard of the oath of God.
+**[8:2]** I \`counsel thee', Keep the king's command, and that in regard of the oath of God.
 
 **[8:3]** Be not hasty to go out of his presence; persist not in an evil thing: for he doeth whatsoever pleaseth him.
 
-**[8:4]** For the king's word `hath' power; and who may say unto him, What doest thou?
+**[8:4]** For the king's word \`hath' power; and who may say unto him, What doest thou?
 
 **[8:5]** Whoso keepeth the commandment shall know no evil thing; and a wise man's heart discerneth time and judgment:
 
@@ -302,19 +302,19 @@
 
 **[8:8]** There is no man that hath power over the spirit to retain the spirit; neither hath he power over the day of death; and there is no discharge in war: neither shall wickedness deliver him that is given to it.
 
-**[8:9]** All this have I seen, and applied my heart unto every work that is done under the sun: `there is' a time wherein one man hath power over another to his hurt.
+**[8:9]** All this have I seen, and applied my heart unto every work that is done under the sun: \`there is' a time wherein one man hath power over another to his hurt.
 
-**[8:10]** So I saw the wicked buried, and they came `to the grave'; and they that had done right went away from the holy place, and were forgotten in the city: this also is vanity.
+**[8:10]** So I saw the wicked buried, and they came \`to the grave'; and they that had done right went away from the holy place, and were forgotten in the city: this also is vanity.
 
 **[8:11]** Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
 
-**[8:12]** Though a sinner do evil a hundred times, and prolong his `days', yet surely I know that it shall be well with them that fear God, that fear before him:
+**[8:12]** Though a sinner do evil a hundred times, and prolong his \`days', yet surely I know that it shall be well with them that fear God, that fear before him:
 
-**[8:13]** but it shall not be well with the wicked, neither shall he prolong `his' days, `which are' as a shadow; because he feareth not before God.
+**[8:13]** but it shall not be well with the wicked, neither shall he prolong \`his' days, \`which are' as a shadow; because he feareth not before God.
 
 **[8:14]** There is a vanity which is done upon the earth, that there are righteous men unto whom it happeneth according to the work of the wicked; again, there are wicked men to whom it happeneth according to the work of the righteous: I said that this also is vanity.
 
-**[8:15]** Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be joyful: for that shall abide with him in his labor `all' the days of his life which God hath given him under the sun.
+**[8:15]** Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be joyful: for that shall abide with him in his labor \`all' the days of his life which God hath given him under the sun.
 
 **[8:16]** When I applied my heart to know wisdom, and to see the business that is done upon the earth (for also there is that neither day nor night seeth sleep with his eyes),
 
@@ -322,9 +322,9 @@
 
 **[9:1]** For all this I laid to my heart, even to explore all this: that the righteous, and the wise, and their works, are in the hand of God; whether it be love or hatred, man knoweth it not; all is before them.
 
-**[9:2]** All things come alike to all: there is one event to the righteous and to the wicked; to the good and to the clean and to the unclean; to him that sacrificeth and to him that sacrificeth not; as is the good, so is the sinner; `and' he that sweareth, as he that feareth an oath.
+**[9:2]** All things come alike to all: there is one event to the righteous and to the wicked; to the good and to the clean and to the unclean; to him that sacrificeth and to him that sacrificeth not; as is the good, so is the sinner; \`and' he that sweareth, as he that feareth an oath.
 
-**[9:3]** This is an evil in all that is done under the sun, that there is one event unto all: yea also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that `they go' to the dead.
+**[9:3]** This is an evil in all that is done under the sun, that there is one event unto all: yea also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that \`they go' to the dead.
 
 **[9:4]** For to him that is joined with all the living there is hope; for a living dog is better than a dead lion.
 
@@ -338,7 +338,7 @@
 
 **[9:9]** Live joyfully with the wife whom thou lovest all the days of thy life of vanity, which he hath given thee under the sun, all thy days of vanity: for that is thy portion in life, and in thy labor wherein thou laborest under the sun.
 
-**[9:10]** Whatsoever thy hand findeth to do, do `it' with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in Sheol, whither thou goest.
+**[9:10]** Whatsoever thy hand findeth to do, do \`it' with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in Sheol, whither thou goest.
 
 **[9:11]** I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill; but time and chance happeneth to them all.
 
@@ -356,11 +356,11 @@
 
 **[9:18]** Wisdom is better than weapons of war; but one sinner destroyeth much good.
 
-**[10:1]** Dead flies cause the oil of the perfumer to send forth an evil odor; `so' doth a little folly outweigh wisdom and honor.
+**[10:1]** Dead flies cause the oil of the perfumer to send forth an evil odor; \`so' doth a little folly outweigh wisdom and honor.
 
 **[10:2]** A wise man's heart is at his right hand; but a fool's heart at his left.
 
-**[10:3]** Yea also, when the fool walketh by the way, his understanding faileth him, and he saith to every one `that' he is a fool.
+**[10:3]** Yea also, when the fool walketh by the way, his understanding faileth him, and he saith to every one \`that' he is a fool.
 
 **[10:4]** If the spirit of the ruler rise up against thee, leave not thy place; for gentleness allayeth great offences.
 
@@ -372,7 +372,7 @@
 
 **[10:8]** He that diggeth a pit shall fall into it; and whoso breaketh through a wall, a serpent shall bite him.
 
-**[10:9]** Whoso heweth out stones shall be hurt therewith; `and' he that cleaveth wood is endangered thereby.
+**[10:9]** Whoso heweth out stones shall be hurt therewith; \`and' he that cleaveth wood is endangered thereby.
 
 **[10:10]** If the iron be blunt, and one do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.
 
@@ -382,7 +382,7 @@
 
 **[10:13]** The beginning of the words of his mouth is foolishness; and the end of his talk is mischievous madness.
 
-**[10:14]** A fool also multiplieth words: `yet' man knoweth not what shall be; and that which shall be after him, who can tell him?
+**[10:14]** A fool also multiplieth words: \`yet' man knoweth not what shall be; and that which shall be after him, who can tell him?
 
 **[10:15]** The labor of fools wearieth every one of them; for he knoweth not how to go to the city.
 
@@ -404,7 +404,7 @@
 
 **[11:4]** He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.
 
-**[11:5]** As thou knowest not what is the way of the wind, `nor' how the bones `do grow' in the womb of her that is with child; even so thou knowest not the work of God who doeth all.
+**[11:5]** As thou knowest not what is the way of the wind, \`nor' how the bones \`do grow' in the womb of her that is with child; even so thou knowest not the work of God who doeth all.
 
 **[11:6]** In the morning sow thy seed, and in the evening withhold not thy hand; for thou knowest not which shall prosper, whether this or that, or whether they both shall be alike good.
 
@@ -424,7 +424,7 @@
 
 **[12:4]** and the doors shall be shut in the street; when the sound of the grinding is low, and one shall rise up at the voice of a bird, and all the daughters of music shall be brought low;
 
-**[12:5]** yea, they shall be afraid of `that which is' high, and terrors `shall be' in the way; and the almond-tree shall blossom, and the grasshopper shall be a burden, and desire shall fail; because man goeth to his everlasting home, and the mourners go about the streets:
+**[12:5]** yea, they shall be afraid of \`that which is' high, and terrors \`shall be' in the way; and the almond-tree shall blossom, and the grasshopper shall be a burden, and desire shall fail; because man goeth to his everlasting home, and the mourners go about the streets:
 
 **[12:6]** before the silver cord is loosed, or the golden bowl is broken, or the pitcher is broken at the fountain, or the wheel broken at the cistern,
 
@@ -432,14 +432,14 @@
 
 **[12:8]** Vanity of vanities, saith the Preacher; all is vanity.
 
-**[12:9]** And further, because the Preacher was wise, he still taught the people knowledge; yea, he pondered, and sought out, `and' set in order many proverbs.
+**[12:9]** And further, because the Preacher was wise, he still taught the people knowledge; yea, he pondered, and sought out, \`and' set in order many proverbs.
 
-**[12:10]** The Preacher sought to find out acceptable words, and that which was written uprightly, `even' words of truth.
+**[12:10]** The Preacher sought to find out acceptable words, and that which was written uprightly, \`even' words of truth.
 
-**[12:11]** The words of the wise are as goads; and as nails well fastened are `the words of' the masters of assemblies, `which' are given from one shepherd.
+**[12:11]** The words of the wise are as goads; and as nails well fastened are \`the words of' the masters of assemblies, \`which' are given from one shepherd.
 
 **[12:12]** And furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
 
-**[12:13]** `This is' the end of the matter; all hath been heard: fear God, and keep his commandments; for this is the whole `duty' of man.
+**[12:13]** \`This is' the end of the matter; all hath been heard: fear God, and keep his commandments; for this is the whole \`duty' of man.
 
 **[12:14]** For God will bring every work into judgment, with every hidden thing, whether it be good, or whether it be evil.

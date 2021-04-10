@@ -20,7 +20,7 @@
 
 **[1:10]** Yea, he scoffeth at kings, and princes are a derision unto him; he derideth every stronghold; for he heapeth up dust, and taketh it.
 
-**[1:11]** Then shall he sweep by `as' a wind, and shall pass over, and be guilty, `even' he whose might is his god.
+**[1:11]** Then shall he sweep by \`as' a wind, and shall pass over, and be guilty, \`even' he whose might is his god.
 
 **[1:12]** Art not thou from everlasting, O Jehovah my God, my Holy One? we shall not die. O Jehovah, thou hast ordained him for judgment; and thou, O Rock, hast established him for correction.
 
@@ -62,7 +62,7 @@
 
 **[2:14]** For the earth shall be filled with the knowledge of the glory of Jehovah, as the waters cover the sea.
 
-**[2:15]** Woe unto him that giveth his neighbor drink, `to thee' that addest thy venom, and makest him drunken also, that thou mayest look on their nakedness!
+**[2:15]** Woe unto him that giveth his neighbor drink, \`to thee' that addest thy venom, and makest him drunken also, that thou mayest look on their nakedness!
 
 **[2:16]** Thou art filled with shame, and not glory: drink thou also, and be as one uncircumcised; the cup of Jehovah's right hand shall come round unto thee, and foul shame shall be upon thy glory.
 
@@ -80,17 +80,17 @@
 
 **[3:3]** God came from Teman, And the Holy One from mount Paran. Selah. His glory covered the heavens, And the earth was full of his praise.
 
-**[3:4]** And `his' brightness was as the light; He had rays `coming forth' from his hand; And there was the hiding of his power.
+**[3:4]** And \`his' brightness was as the light; He had rays \`coming forth' from his hand; And there was the hiding of his power.
 
 **[3:5]** Before him went the pestilence, And fiery bolts went forth at his feet.
 
-**[3:6]** He stood, and measured the earth; He beheld, and drove asunder the nations; And the eternal mountains were scattered; The everlasting hills did bow; His goings were `as' of old.
+**[3:6]** He stood, and measured the earth; He beheld, and drove asunder the nations; And the eternal mountains were scattered; The everlasting hills did bow; His goings were \`as' of old.
 
 **[3:7]** I saw the tents of Cushan in affliction; The curtains of the land of Midian did tremble.
 
 **[3:8]** Was Jehovah displeased with the rivers? Was thine anger against the rivers, Or thy wrath against the sea, That thou didst ride upon thy horses, Upon thy chariots of salvation?
 
-**[3:9]** Thy bow was made quite bare; The oaths to the tribes were a `sure' word. Selah. Thou didst cleave the earth with rivers.
+**[3:9]** Thy bow was made quite bare; The oaths to the tribes were a \`sure' word. Selah. Thou didst cleave the earth with rivers.
 
 **[3:10]** The mountains saw thee, and were afraid; The tempest of waters passed by; The deep uttered its voice, And lifted up its hands on high.
 
@@ -110,4 +110,4 @@
 
 **[3:18]** Yet I will rejoice in Jehovah, I will joy in the God of my salvation.
 
-**[3:19]** Jehovah, the Lord, is my strength; And he maketh my feet like hinds' `feet', And will make me to walk upon my high places.
+**[3:19]** Jehovah, the Lord, is my strength; And he maketh my feet like hinds' \`feet', And will make me to walk upon my high places.

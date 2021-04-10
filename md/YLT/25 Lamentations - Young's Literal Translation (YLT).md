@@ -2,7 +2,7 @@
 
 **[1:1]** How hath she sat alone, The city abounding with people! She hath been as a widow, The mighty among nations! Princes among provinces, She hath become tributary!
 
-**[1:2]** She weepeth sore in the night, And her tear `is' on her cheeks, There is no comforter for her out of all her lovers, All her friends dealt treacherously by her, They have been to her for enemies.
+**[1:2]** She weepeth sore in the night, And her tear \`is' on her cheeks, There is no comforter for her out of all her lovers, All her friends dealt treacherously by her, They have been to her for enemies.
 
 **[1:3]** Removed hath Judah because of affliction, And because of the abundance of her service; She hath dwelt among nations, She hath not found rest, All her pursuers have overtaken her between the straits.
 
@@ -12,17 +12,17 @@
 
 **[1:6]** And go out from the daughter of Zion doth all her honour, Her princes have been as harts -- They have not found pasture, And they go powerless before a pursuer.
 
-**[1:7]** Remembered hath Jerusalem `In' the days of her affliction and her mournings, all her desirable things that were from the days of old, In the falling of her people into the hand of an adversary, And she hath no helper; Seen her have adversaries, They have laughed at her cessation.
+**[1:7]** Remembered hath Jerusalem \`In' the days of her affliction and her mournings, all her desirable things that were from the days of old, In the falling of her people into the hand of an adversary, And she hath no helper; Seen her have adversaries, They have laughed at her cessation.
 
 **[1:8]** A sin hath Jerusalem sinned, Therefore impure she hath become, All who honoured her have esteemed her lightly, For they have seen her nakedness, Yea, she herself hath sighed and turneth backward.
 
-**[1:9]** Her uncleanness `is' in her skirts, She hath not remembered her latter end, And she cometh down wonderfully, There is no comforter for her. See, O Jehovah, mine affliction, For exerted himself hath an enemy.
+**[1:9]** Her uncleanness \`is' in her skirts, She hath not remembered her latter end, And she cometh down wonderfully, There is no comforter for her. See, O Jehovah, mine affliction, For exerted himself hath an enemy.
 
-**[1:10]** His hand spread out hath an adversary On all her desirable things, For she hath seen -- Nations have entered her sanctuary, Concerning which Thou didst command, `They do not come into the assembly to thee.'
+**[1:10]** His hand spread out hath an adversary On all her desirable things, For she hath seen -- Nations have entered her sanctuary, Concerning which Thou didst command, \`They do not come into the assembly to thee.'
 
 **[1:11]** All her people are sighing -- seeking bread, They have given their desirable things For food to refresh the body; See, O Jehovah, and behold attentively, For I have been lightly esteemed.
 
-**[1:12]** `Is it' nothing to you, all ye passing by the way? Look attentively, and see, If there is any pain like my pain, That He is rolling to me? Whom Jehovah hath afflicted In the day of the fierceness of His anger.
+**[1:12]** \`Is it' nothing to you, all ye passing by the way? Look attentively, and see, If there is any pain like my pain, That He is rolling to me? Whom Jehovah hath afflicted In the day of the fierceness of His anger.
 
 **[1:13]** From above He hath sent fire into my bone, And it subdueth it, He hath spread a net for my feet, He hath turned me backward, He hath made me desolate -- all the day sick.
 
@@ -32,19 +32,19 @@
 
 **[1:16]** For these I am weeping, My eye, my eye, is running down with waters, For, far from me hath been a comforter, Refreshing my soul, My sons have been desolate, For mighty hath been an enemy.
 
-**[1:17]** Spread forth hath Zion her hands, There is no comforter for her, Jehovah hath charged concerning Jacob, His neighbours `are' his adversaries, Jerusalem hath become impure among them.
+**[1:17]** Spread forth hath Zion her hands, There is no comforter for her, Jehovah hath charged concerning Jacob, His neighbours \`are' his adversaries, Jerusalem hath become impure among them.
 
 **[1:18]** Righteous is Jehovah, For His mouth I have provoked. Hear, I pray you, all ye peoples, and see my pain, My virgins and my young men have gone into captivity.
 
 **[1:19]** I called for my lovers, they -- they have deceived me, My priests and my elders in the city have expired; When they have sought food for themselves, Then they give back their soul.
 
-**[1:20]** See, O Jehovah, for distress `is' to me, My bowels have been troubled, Turned hath been my heart in my midst, For I have greatly provoked, From without bereaved hath the sword, In the house `it is' as death.
+**[1:20]** See, O Jehovah, for distress \`is' to me, My bowels have been troubled, Turned hath been my heart in my midst, For I have greatly provoked, From without bereaved hath the sword, In the house \`it is' as death.
 
-**[1:21]** They have heard that I have sighed, There is no comforter for me, All my enemies have heard of my calamity, They have rejoiced that Thou hast done `it', Thou hast brought in the day Thou hast called, And they are like to me.
+**[1:21]** They have heard that I have sighed, There is no comforter for me, All my enemies have heard of my calamity, They have rejoiced that Thou hast done \`it', Thou hast brought in the day Thou hast called, And they are like to me.
 
-**[1:22]** Come in doth all their evil before Thee, And one is doing to them as Thou hast done to me, For all my transgressions, For many `are' my sighs, and my heart `is' sick!
+**[1:22]** Come in doth all their evil before Thee, And one is doing to them as Thou hast done to me, For all my transgressions, For many \`are' my sighs, and my heart \`is' sick!
 
-**[2:1]** How doth the Lord cloud in His anger the daughter of Zion, He hath cast from heaven `to' earth the beauty of Israel, And hath not remembered His footstool in the day of His anger.
+**[2:1]** How doth the Lord cloud in His anger the daughter of Zion, He hath cast from heaven \`to' earth the beauty of Israel, And hath not remembered His footstool in the day of His anger.
 
 **[2:2]** Swallowed up hath the Lord, He hath not pitied any of the pleasant places of Jacob, He hath broken down in His wrath The fortresses of the daughter of Judah, He hath caused to come to the earth, He polluted the kingdom and its princes.
 
@@ -60,21 +60,21 @@
 
 **[2:8]** Devised hath Jehovah to destroy the wall of the daughter of Zion, He hath stretched out a line, He hath not turned His hand from destroying, And He causeth bulwark and wall to mourn, Together -- they have been weak.
 
-**[2:9]** Sunk into the earth have her gates, He hath destroyed and broken her bars, Her king and her princes `are' among the nations, There is no law, also her prophets Have not found vision from Jehovah.
+**[2:9]** Sunk into the earth have her gates, He hath destroyed and broken her bars, Her king and her princes \`are' among the nations, There is no law, also her prophets Have not found vision from Jehovah.
 
 **[2:10]** Sit on the earth -- keep silent do the elders of the daughter of Zion, They have caused dust to go up on their head, They have girded on sackcloth, Put down to the earth their head have the virgins of Jerusalem.
 
 **[2:11]** Consumed by tears have been my eyes, Troubled have been my bowels, Poured out to the earth hath been my liver, For the breach of the daughter of my people; In infant and suckling being feeble, In the broad places of the city,
 
-**[2:12]** To their mothers they say, `Where `are' corn and wine?' In their becoming feeble as a pierced one In the broad places of the city, In their soul pouring itself out into the bosom of their mothers.
+**[2:12]** To their mothers they say, \`Where \`are' corn and wine?' In their becoming feeble as a pierced one In the broad places of the city, In their soul pouring itself out into the bosom of their mothers.
 
-**[2:13]** What do I testify `to' thee, what do I liken to thee, O daughter of Jerusalem? What do I equal to thee, and I comfort thee, O virgin daughter of Zion? For great as a sea `is' thy breach, Who doth give healing to thee?
+**[2:13]** What do I testify \`to' thee, what do I liken to thee, O daughter of Jerusalem? What do I equal to thee, and I comfort thee, O virgin daughter of Zion? For great as a sea \`is' thy breach, Who doth give healing to thee?
 
 **[2:14]** Thy prophets have seen for thee a false and insipid thing, And have not revealed concerning thine iniquity, To turn back thy captivity, And they see for thee false burdens and causes of expulsion.
 
-**[2:15]** Clapped hands at thee have all passing by the way, They have hissed -- and they shake the head At the daughter of Jerusalem: `Is this the city of which they said: The perfection of beauty, a joy to all the land?'
+**[2:15]** Clapped hands at thee have all passing by the way, They have hissed -- and they shake the head At the daughter of Jerusalem: \`Is this the city of which they said: The perfection of beauty, a joy to all the land?'
 
-**[2:16]** Opened against thee their mouth have all thine enemies, They have hissed, yea, they gnash the teeth, They have said: `We have swallowed `her' up, Surely this `is' the day that we looked for, We have found -- we have seen.'
+**[2:16]** Opened against thee their mouth have all thine enemies, They have hissed, yea, they gnash the teeth, They have said: \`We have swallowed \`her' up, Surely this \`is' the day that we looked for, We have found -- we have seen.'
 
 **[2:17]** Jehovah hath done that which He devised, He hath fulfilled His saying That He commanded from the days of old, He hath broken down and hath not pitied, And causeth an enemy to rejoice over thee, He lifted up the horn of thine adversaries.
 
@@ -84,13 +84,13 @@
 
 **[2:20]** See, O Jehovah, and look attentively, To whom Thou hast acted thus, Do women eat their fruit, infants of a handbreadth? Slain in the sanctuary of the Lord are priest and prophet?
 
-**[2:21]** Lain on the earth `in' out-places have young and old, My virgins and my young men have fallen by the sword, Thou hast slain in a day of Thine anger, Thou hast slaughtered -- Thou hast not pitied.
+**[2:21]** Lain on the earth \`in' out-places have young and old, My virgins and my young men have fallen by the sword, Thou hast slain in a day of Thine anger, Thou hast slaughtered -- Thou hast not pitied.
 
-**[2:22]** Thou dost call as `at' a day of appointment, My fears from round about, And there hath not been in the day of the anger of Jehovah, An escaped and remaining one, They whom I stretched out and nourished, My enemy hath consumed!
+**[2:22]** Thou dost call as \`at' a day of appointment, My fears from round about, And there hath not been in the day of the anger of Jehovah, An escaped and remaining one, They whom I stretched out and nourished, My enemy hath consumed!
 
-**[3:1]** I `am' the man `who' hath seen affliction By the rod of His wrath.
+**[3:1]** I \`am' the man \`who' hath seen affliction By the rod of His wrath.
 
-**[3:2]** Me He hath led, and causeth to go `in' darkness, and without light.
+**[3:2]** Me He hath led, and causeth to go \`in' darkness, and without light.
 
 **[3:3]** Surely against me He turneth back, He turneth His hand all the day.
 
@@ -106,7 +106,7 @@
 
 **[3:9]** He hath hedged my ways with hewn work, My paths He hath made crooked.
 
-**[3:10]** A bear lying in wait He `is' to me, A lion in secret hiding-places.
+**[3:10]** A bear lying in wait He \`is' to me, A lion in secret hiding-places.
 
 **[3:11]** My ways He is turning aside, and He pulleth me in pieces, He hath made me a desolation.
 
@@ -116,7 +116,7 @@
 
 **[3:14]** I have been a derision to all my people, Their song all the day.
 
-**[3:15]** He hath filled me with bitter things, He hath filled me `with' wormwood.
+**[3:15]** He hath filled me with bitter things, He hath filled me \`with' wormwood.
 
 **[3:16]** And He breaketh with gravel my teeth, He hath covered me with ashes.
 
@@ -132,17 +132,17 @@
 
 **[3:22]** The kindnesses of Jehovah! For we have not been consumed, For not ended have His mercies.
 
-**[3:23]** New every morning, abundant `is' thy faithfulness.
+**[3:23]** New every morning, abundant \`is' thy faithfulness.
 
-**[3:24]** My portion `is' Jehovah, hath my soul said, Therefore I hope for Him.
+**[3:24]** My portion \`is' Jehovah, hath my soul said, Therefore I hope for Him.
 
-**[3:25]** Good `is' Jehovah to those waiting for Him, To the soul `that' seeketh Him.
+**[3:25]** Good \`is' Jehovah to those waiting for Him, To the soul \`that' seeketh Him.
 
 **[3:26]** Good! when one doth stay and stand still For the salvation of Jehovah.
 
 **[3:27]** Good for a man that he beareth a yoke in his youth.
 
-**[3:28]** He sitteth alone, and is silent, For He hath laid `it' upon him.
+**[3:28]** He sitteth alone, and is silent, For He hath laid \`it' upon him.
 
 **[3:29]** He putteth in the dust his mouth, if so be there is hope.
 
@@ -160,7 +160,7 @@
 
 **[3:36]** To subvert a man in his cause, the Lord hath not approved.
 
-**[3:37]** Who `is' this -- he hath said, and it is, `And' the Lord hath not commanded `it'?
+**[3:37]** Who \`is' this -- he hath said, and it is, \`And' the Lord hath not commanded \`it'?
 
 **[3:38]** From the mouth of the Most High Go not forth the evils and the good.
 
@@ -212,7 +212,7 @@
 
 **[3:62]** The lips of my withstanders, Even their meditation against me all the day.
 
-**[3:63]** Their sitting down, and their rising up, Behold attentively, I `am' their song.
+**[3:63]** Their sitting down, and their rising up, Behold attentively, I \`am' their song.
 
 **[3:64]** Thou returnest to them the deed, O Jehovah, According to the work of their hands.
 
@@ -230,7 +230,7 @@
 
 **[4:5]** Those eating of dainties have been desolate in out-places, Those supported on scarlet have embraced dunghills.
 
-**[4:6]** And greater is the iniquity of the daughter of my people, Than the sin of Sodom, That was overturned as `in' a moment, And no hands were stayed on her.
+**[4:6]** And greater is the iniquity of the daughter of my people, Than the sin of Sodom, That was overturned as \`in' a moment, And no hands were stayed on her.
 
 **[4:7]** Purer were her Nazarites than snow, Whiter than milk, ruddier of body than rubies, Of sapphire their form.
 
@@ -246,35 +246,35 @@
 
 **[4:13]** Because of the sins of her prophets, The iniquities of her priests, Who are shedding in her midst the blood of the righteous,
 
-**[4:14]** They have wandered naked in out-places, They have been polluted with blood, Without `any' being able to touch their clothing,
+**[4:14]** They have wandered naked in out-places, They have been polluted with blood, Without \`any' being able to touch their clothing,
 
-**[4:15]** `Turn aside -- unclean,' they called to them, `Turn aside, turn aside, touch not,' For they fled -- yea, they have wandered, They have said among nations: `They do not add to sojourn.'
+**[4:15]** \`Turn aside -- unclean,' they called to them, \`Turn aside, turn aside, touch not,' For they fled -- yea, they have wandered, They have said among nations: \`They do not add to sojourn.'
 
 **[4:16]** The face of Jehovah hath divided them, He doth not add to behold them, The face of priests they have not lifted up, Elders they have not favoured.
 
-**[4:17]** While we exist -- consumed are our eyes for our vain help, In our watch-tower we have watched for a nation `that' saveth not.
+**[4:17]** While we exist -- consumed are our eyes for our vain help, In our watch-tower we have watched for a nation \`that' saveth not.
 
 **[4:18]** They have hunted our steps from going in our broad-places, Near hath been our end, fulfilled our days, For come hath our end.
 
-**[4:19]** Swifter have been our pursuers, Than the eagles of the heavens, On the mountains they have burned `after' us, In the wilderness they have laid wait for us.
+**[4:19]** Swifter have been our pursuers, Than the eagles of the heavens, On the mountains they have burned \`after' us, In the wilderness they have laid wait for us.
 
-**[4:20]** The breath of our nostrils -- the anointed of Jehovah, Hath been captured in their pits, of whom we said: `In his shadow we do live among nations.'
+**[4:20]** The breath of our nostrils -- the anointed of Jehovah, Hath been captured in their pits, of whom we said: \`In his shadow we do live among nations.'
 
 **[4:21]** Joy and rejoice, O daughter of Edom, Dwelling in the land of Uz, Even unto thee pass over doth a cup, Thou art drunk, and makest thyself naked.
 
-**[4:22]** Completed `is' thy iniquity, daughter of Zion, He doth not add to remove thee, He hath inspected thy iniquity, O daughter of Edom, He hath removed `thee' because of thy sins!
+**[4:22]** Completed \`is' thy iniquity, daughter of Zion, He doth not add to remove thee, He hath inspected thy iniquity, O daughter of Edom, He hath removed \`thee' because of thy sins!
 
 **[5:1]** Remember, O Jehovah, what hath befallen us, Look attentively, and see our reproach.
 
 **[5:2]** Our inheritance hath been turned to strangers, Our houses to foreigners.
 
-**[5:3]** Orphans we have been -- without a father, our mothers `are' as widows.
+**[5:3]** Orphans we have been -- without a father, our mothers \`are' as widows.
 
 **[5:4]** Our water for money we have drunk, Our wood for a price doth come.
 
 **[5:5]** For our neck we have been pursued, We have laboured -- there hath been no rest for us.
 
-**[5:6]** `To' Egypt we have given a hand, `To' Asshur, to be satisfied with bread.
+**[5:6]** \`To' Egypt we have given a hand, \`To' Asshur, to be satisfied with bread.
 
 **[5:7]** Our fathers have sinned -- they are not, We their iniquities have borne.
 
@@ -294,7 +294,7 @@
 
 **[5:15]** Ceased hath the joy of our heart, Turned to mourning hath been our dancing.
 
-**[5:16]** Fallen hath the crown `from' our head, Wo `is' now to us, for we have sinned.
+**[5:16]** Fallen hath the crown \`from' our head, Wo \`is' now to us, for we have sinned.
 
 **[5:17]** For this hath our heart been sick, For these have our eyes been dim.
 

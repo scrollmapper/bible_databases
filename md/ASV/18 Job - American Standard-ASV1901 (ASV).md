@@ -28,7 +28,7 @@
 
 **[1:14]** that there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them;
 
-**[1:15]** and the Sabeans fell `upon them', and took them away: yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
+**[1:15]** and the Sabeans fell \`upon them', and took them away: yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
 
 **[1:16]** While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep and the servants, and consumed them; and I only am escaped alone to tell thee.
 
@@ -88,7 +88,7 @@
 
 **[3:9]** Let the stars of the twilight thereof be dark: Let it look for light, but have none; Neither let it behold the eyelids of the morning:
 
-**[3:10]** Because it shut not up the doors of my `mother's' womb, Nor hid trouble from mine eyes.
+**[3:10]** Because it shut not up the doors of my \`mother's' womb, Nor hid trouble from mine eyes.
 
 **[3:11]** Why died I not from the womb? Why did I not give up the ghost when my mother bare me?
 
@@ -114,7 +114,7 @@
 
 **[3:22]** Who rejoice exceedingly, And are glad, when they can find the grave?
 
-**[3:23]** `Why is light given' to a man whose way is hid, And whom God hath hedged in?
+**[3:23]** \`Why is light given' to a man whose way is hid, And whom God hath hedged in?
 
 **[3:24]** For my sighing cometh before I eat, And my groanings are poured out like water.
 
@@ -132,9 +132,9 @@
 
 **[4:5]** But now it is come unto thee, and thou faintest; It toucheth thee, and thou art troubled.
 
-**[4:6]** Is not thy fear `of God' thy confidence, `And' the integrity of thy ways thy hope?
+**[4:6]** Is not thy fear \`of God' thy confidence, \`And' the integrity of thy ways thy hope?
 
-**[4:7]** Remember, I pray thee, who `ever' perished, being innocent? Or where were the upright cut off?
+**[4:7]** Remember, I pray thee, who \`ever' perished, being innocent? Or where were the upright cut off?
 
 **[4:8]** According as I have seen, they that plow iniquity, And sow trouble, reap the same.
 
@@ -152,7 +152,7 @@
 
 **[4:15]** Then a spirit passed before my face; The hair of my flesh stood up.
 
-**[4:16]** It stood still, but I could not discern the appearance thereof; A form was before mine eyes: `There was' silence, and I heard a voice, `saying',
+**[4:16]** It stood still, but I could not discern the appearance thereof; A form was before mine eyes: \`There was' silence, and I heard a voice, \`saying',
 
 **[4:17]** Shall mortal man be more just than God? Shall a man be more pure than his Maker?
 
@@ -230,9 +230,9 @@
 
 **[6:6]** Can that which hath no savor be eaten without salt? Or is there any taste in the white of an egg?
 
-**[6:7]** My soul refuseth to touch `them'; They are as loathsome food to me.
+**[6:7]** My soul refuseth to touch \`them'; They are as loathsome food to me.
 
-**[6:8]** Oh that I might have my request; And that God would grant `me' the thing that I long for!
+**[6:8]** Oh that I might have my request; And that God would grant \`me' the thing that I long for!
 
 **[6:9]** Even that it would please God to crush me; That he would let loose his hand, and cut me off!
 
@@ -244,15 +244,15 @@
 
 **[6:13]** Is it not that I have no help in me, And that wisdom is driven quite from me?
 
-**[6:14]** To him that is ready to faint kindness `should be showed' from his friend; Even to him that forsaketh the fear of the Almighty.
+**[6:14]** To him that is ready to faint kindness \`should be showed' from his friend; Even to him that forsaketh the fear of the Almighty.
 
 **[6:15]** My brethren have dealt deceitfully as a brook, As the channel of brooks that pass away;
 
-**[6:16]** Which are black by reason of the ice, `And' wherein the snow hideth itself:
+**[6:16]** Which are black by reason of the ice, \`And' wherein the snow hideth itself:
 
 **[6:17]** What time they wax warm, they vanish; When it is hot, they are consumed out of their place.
 
-**[6:18]** The caravans `that travel' by the way of them turn aside; They go up into the waste, and perish.
+**[6:18]** The caravans \`that travel' by the way of them turn aside; They go up into the waste, and perish.
 
 **[6:19]** The caravans of Tema looked, The companies of Sheba waited for them.
 
@@ -270,7 +270,7 @@
 
 **[6:26]** Do ye think to reprove words, Seeing that the speeches of one that is desperate are as wind?
 
-**[6:27]** Yea, ye would cast `lots' upon the fatherless, And make merchandise of your friend.
+**[6:27]** Yea, ye would cast \`lots' upon the fatherless, And make merchandise of your friend.
 
 **[6:28]** Now therefore be pleased to look upon me; For surely I shall not lie to your face.
 
@@ -306,9 +306,9 @@
 
 **[7:14]** Then thou scarest me with dreams, And terrifiest me through visions:
 
-**[7:15]** So that my soul chooseth strangling, And death rather than `these' my bones.
+**[7:15]** So that my soul chooseth strangling, And death rather than \`these' my bones.
 
-**[7:16]** I loathe `my life'; I would not live alway: Let me alone; for my days are vanity.
+**[7:16]** I loathe \`my life'; I would not live alway: Let me alone; for my days are vanity.
 
 **[7:17]** What is man, that thou shouldest magnify him, And that thou shouldest set thy mind upon him,
 
@@ -322,7 +322,7 @@
 
 **[8:1]** Then answered Bildad the Shuhite, and said,
 
-**[8:2]** How long wilt thou speak these things? And `how long' shall the words of thy mouth be `like' a mighty wind?
+**[8:2]** How long wilt thou speak these things? And \`how long' shall the words of thy mouth be \`like' a mighty wind?
 
 **[8:3]** Doth God pervert justice? Or doth the Almighty pervert righteousness?
 
@@ -342,7 +342,7 @@
 
 **[8:11]** Can the rush grow up without mire? Can the flag grow without water?
 
-**[8:12]** Whilst it is yet in its greenness, `and' not cut down, It withereth before any `other' herb.
+**[8:12]** Whilst it is yet in its greenness, \`and' not cut down, It withereth before any \`other' herb.
 
 **[8:13]** So are the paths of all that forget God; And the hope of the godless man shall perish:
 
@@ -352,9 +352,9 @@
 
 **[8:16]** He is green before the sun, And his shoots go forth over his garden.
 
-**[8:17]** His roots are wrapped about the `stone' -heap, He beholdeth the place of stones.
+**[8:17]** His roots are wrapped about the \`stone' -heap, He beholdeth the place of stones.
 
-**[8:18]** If he be destroyed from his place, Then it shall deny him, `saying', I have not seen thee.
+**[8:18]** If he be destroyed from his place, Then it shall deny him, \`saying', I have not seen thee.
 
 **[8:19]** Behold, this is the joy of his way; And out of the earth shall others spring.
 
@@ -370,9 +370,9 @@
 
 **[9:3]** If he be pleased to contend with him, He cannot answer him one of a thousand.
 
-**[9:4]** `He is' wise in heart, and mighty in strength: Who hath hardened himself against him, and prospered?-
+**[9:4]** \`He is' wise in heart, and mighty in strength: Who hath hardened himself against him, and prospered?-
 
-**[9:5]** `Him' that removeth the mountains, and they know it not, When he overturneth them in his anger;
+**[9:5]** \`Him' that removeth the mountains, and they know it not, When he overturneth them in his anger;
 
 **[9:6]** That shaketh the earth out of its place, And the pillars thereof tremble;
 
@@ -386,11 +386,11 @@
 
 **[9:11]** Lo, he goeth by me, and I see him not: He passeth on also, but I perceive him not.
 
-**[9:12]** Behold, he seizeth `the prey', who can hinder him? Who will say unto him, What doest thou?
+**[9:12]** Behold, he seizeth \`the prey', who can hinder him? Who will say unto him, What doest thou?
 
 **[9:13]** God will not withdraw his anger; The helpers of Rahab do stoop under him.
 
-**[9:14]** How much less shall I answer him, And choose out my words `to reason' with him?
+**[9:14]** How much less shall I answer him, And choose out my words \`to reason' with him?
 
 **[9:15]** Whom, though I were righteous, yet would I not answer; I would make supplication to my judge.
 
@@ -400,7 +400,7 @@
 
 **[9:18]** He will not suffer me to take my breath, But filleth me with bitterness.
 
-**[9:19]** If `we speak' of strength, lo, `he is' mighty! And if of justice, Who, `saith he', will summon me?
+**[9:19]** If \`we speak' of strength, lo, \`he is' mighty! And if of justice, Who, \`saith he', will summon me?
 
 **[9:20]** Though I be righteous, mine own mouth shall condemn me: Though I be perfect, it shall prove me perverse.
 
@@ -410,13 +410,13 @@
 
 **[9:23]** If the scourge slay suddenly, He will mock at the trial of the innocent.
 
-**[9:24]** The earth is given into the hand of the wicked; He covereth the faces of the judges thereof: If `it be' not `he', who then is it?
+**[9:24]** The earth is given into the hand of the wicked; He covereth the faces of the judges thereof: If \`it be' not \`he', who then is it?
 
 **[9:25]** Now my days are swifter than a post: They flee away, they see no good,
 
 **[9:26]** They are passed away as the swift ships; As the eagle that swoopeth on the prey.
 
-**[9:27]** If I say, I will forget my complaint, I will put off my `sad' countenance, and be of good cheer;
+**[9:27]** If I say, I will forget my complaint, I will put off my \`sad' countenance, and be of good cheer;
 
 **[9:28]** I am afraid of all my sorrows, I know that thou wilt not hold me innocent.
 
@@ -464,7 +464,7 @@
 
 **[10:15]** If I be wicked, woe unto me; And if I be righteous, yet shall I not lift up my head; Being filled with ignominy, And looking upon mine affliction.
 
-**[10:16]** And if `my head' exalt itself, thou huntest me as a lion; And again thou showest thyself marvellous upon me.
+**[10:16]** And if \`my head' exalt itself, thou huntest me as a lion; And again thou showest thyself marvellous upon me.
 
 **[10:17]** Thou renewest thy witnesses against me, And increasest thine indignation upon me: Changes and warfare are with me.
 
@@ -474,9 +474,9 @@
 
 **[10:20]** Are not my days few? cease then, And let me alone, that I may take comfort a little,
 
-**[10:21]** Before I go whence I shall not return, `Even' to the land of darkness and of the shadow of death;
+**[10:21]** Before I go whence I shall not return, \`Even' to the land of darkness and of the shadow of death;
 
-**[10:22]** The land dark as midnight, `The land' of the shadow of death, without any order, And where the light is as midnight.
+**[10:22]** The land dark as midnight, \`The land' of the shadow of death, without any order, And where the light is as midnight.
 
 **[11:1]** Then answered Zophar the Naamathite, and said,
 
@@ -500,7 +500,7 @@
 
 **[11:11]** For he knoweth false men: He seeth iniquity also, even though he consider it not.
 
-**[11:12]** But vain man is void of understanding, Yea, man is born `as' a wild ass's colt.
+**[11:12]** But vain man is void of understanding, Yea, man is born \`as' a wild ass's colt.
 
 **[11:13]** If thou set thy heart aright, And stretch out thy hands toward him;
 
@@ -510,9 +510,9 @@
 
 **[11:16]** For thou shalt forget thy misery; Thou shalt remember it as waters that are passed away,
 
-**[11:17]** And `thy' life shall be clearer than the noonday; Though there be darkness, it shall be as the morning.
+**[11:17]** And \`thy' life shall be clearer than the noonday; Though there be darkness, it shall be as the morning.
 
-**[11:18]** And thou shalt be secure, because there is hope; Yea, thou shalt search `about thee', and shalt take thy rest in safety.
+**[11:18]** And thou shalt be secure, because there is hope; Yea, thou shalt search \`about thee', and shalt take thy rest in safety.
 
 **[11:19]** Also thou shalt lie down, and none shall make thee afraid; Yea, many shall make suit unto thee.
 
@@ -528,7 +528,7 @@
 
 **[12:5]** In the thought of him that is at ease there is contempt for misfortune; It is ready for them whose foot slippeth.
 
-**[12:6]** The tents of robbers prosper, And they that provoke God are secure; Into whose hand God bringeth `abundantly'.
+**[12:6]** The tents of robbers prosper, And they that provoke God are secure; Into whose hand God bringeth \`abundantly'.
 
 **[12:7]** But ask now the beasts, and they shall teach thee; And the birds of the heavens, and they shall tell thee:
 
@@ -542,7 +542,7 @@
 
 **[12:12]** With aged men is wisdom, And in length of days understanding.
 
-**[12:13]** With `God' is wisdom and might; He hath counsel and understanding.
+**[12:13]** With \`God' is wisdom and might; He hath counsel and understanding.
 
 **[12:14]** Behold, he breaketh down, and it cannot be built again; He shutteth up a man, and there can be no opening.
 
@@ -568,9 +568,9 @@
 
 **[12:25]** They grope in the dark without light; And he maketh them to stagger like a drunken man.
 
-**[13:1]** Lo, mine eye hath seen all `this', Mine ear hath heard and understood it.
+**[13:1]** Lo, mine eye hath seen all \`this', Mine ear hath heard and understood it.
 
-**[13:2]** What ye know, `the same' do I know also: I am not inferior unto you.
+**[13:2]** What ye know, \`the same' do I know also: I am not inferior unto you.
 
 **[13:3]** Surely I would speak to the Almighty, And I desire to reason with God.
 
@@ -644,13 +644,13 @@
 
 **[14:10]** But man dieth, and is laid low: Yea, man giveth up the ghost, and where is he?
 
-**[14:11]** `As' the waters fail from the sea, And the river wasteth and drieth up;
+**[14:11]** \`As' the waters fail from the sea, And the river wasteth and drieth up;
 
 **[14:12]** So man lieth down and riseth not: Till the heavens be no more, they shall not awake, Nor be roused out of their sleep.
 
 **[14:13]** Oh that thou wouldest hide me in Sheol, That thou wouldest keep me secret, until thy wrath be past, That thou wouldest appoint me a set time, and remember me!
 
-**[14:14]** If a man die, shall he live `again'? All the days of my warfare would I wait, Till my release should come.
+**[14:14]** If a man die, shall he live \`again'? All the days of my warfare would I wait, Till my release should come.
 
 **[14:15]** Thou wouldest call, and I would answer thee: Thou wouldest have a desire to the work of thy hands.
 
@@ -712,13 +712,13 @@
 
 **[15:22]** He believeth not that he shall return out of darkness, And he is waited for of the sword.
 
-**[15:23]** He wandereth abroad for bread, `saying', Where is it? He knoweth that the day of darkness is ready at his hand.
+**[15:23]** He wandereth abroad for bread, \`saying', Where is it? He knoweth that the day of darkness is ready at his hand.
 
 **[15:24]** Distress and anguish make him afraid; They prevail against him, as a king ready to the battle.
 
 **[15:25]** Because he hath stretched out his hand against God, And behaveth himself proudly against the Almighty;
 
-**[15:26]** He runneth upon him with a `stiff' neck, With the thick bosses of his bucklers;
+**[15:26]** He runneth upon him with a \`stiff' neck, With the thick bosses of his bucklers;
 
 **[15:27]** Because he hath covered his face with his fatness, And gathered fat upon his loins;
 
@@ -726,7 +726,7 @@
 
 **[15:29]** He shall not be rich, neither shall his substance continue, Neither shall their possessions be extended on the earth.
 
-**[15:30]** He shall not depart out of darkness; The flame shall dry up his branches, And by the breath of `God's' mouth shall he go away.
+**[15:30]** He shall not depart out of darkness; The flame shall dry up his branches, And by the breath of \`God's' mouth shall he go away.
 
 **[15:31]** Let him not trust in vanity, deceiving himself; For vanity shall be his recompense.
 
@@ -746,13 +746,13 @@
 
 **[16:4]** I also could speak as ye do; If your soul were in my soul's stead, I could join words together against you, And shake my head at you.
 
-**[16:5]** `But' I would strengthen you with my mouth, And the solace of my lips would assuage `your grief'.
+**[16:5]** \`But' I would strengthen you with my mouth, And the solace of my lips would assuage \`your grief'.
 
 **[16:6]** Though I speak, my grief is not assuaged; And though I forbear, what am I eased?
 
 **[16:7]** But now he hath made me weary: Thou hast made desolate all my company.
 
-**[16:8]** And thou hast laid fast hold on me, `which' is a witness `against me': And my leanness riseth up against me, It testifieth to my face.
+**[16:8]** And thou hast laid fast hold on me, \`which' is a witness \`against me': And my leanness riseth up against me, It testifieth to my face.
 
 **[16:9]** He hath torn me in his wrath, and persecuted me; He hath gnashed upon me with his teeth: Mine adversary sharpeneth his eyes upon me.
 
@@ -772,23 +772,23 @@
 
 **[16:17]** Although there is no violence in my hands, And my prayer is pure.
 
-**[16:18]** O earth, cover not thou my blood, And let my cry have no `resting' -place.
+**[16:18]** O earth, cover not thou my blood, And let my cry have no \`resting' -place.
 
 **[16:19]** Even now, behold, my witness is in heaven, And he that voucheth for me is on high.
 
-**[16:20]** My friends scoff at me: `But' mine eye poureth out tears unto God,
+**[16:20]** My friends scoff at me: \`But' mine eye poureth out tears unto God,
 
 **[16:21]** That he would maintain the right of a man with God, And of a son of man with his neighbor!
 
 **[16:22]** For when a few years are come, I shall go the way whence I shall not return.
 
-**[17:1]** My spirit is consumed, my days are extinct, The grave is `ready' for me.
+**[17:1]** My spirit is consumed, my days are extinct, The grave is \`ready' for me.
 
 **[17:2]** Surely there are mockers with me, And mine eye dwelleth upon their provocation.
 
 **[17:3]** Give now a pledge, be surety for me with thyself; Who is there that will strike hands with me?
 
-**[17:4]** For thou hast hid their heart from understanding: Therefore shalt thou not exalt `them'.
+**[17:4]** For thou hast hid their heart from understanding: Therefore shalt thou not exalt \`them'.
 
 **[17:5]** He that denounceth his friends for a prey, Even the eyes of his children shall fail.
 
@@ -804,11 +804,11 @@
 
 **[17:11]** My days are past, my purposes are broken off, Even the thoughts of my heart.
 
-**[17:12]** They change the night into day: The light, `say they', is near unto the darkness.
+**[17:12]** They change the night into day: The light, \`say they', is near unto the darkness.
 
 **[17:13]** If I look for Sheol as my house; If I have spread my couch in the darkness;
 
-**[17:14]** If I have said to corruption, Thou art my father; To the worm, `Thou art' my mother, and my sister;
+**[17:14]** If I have said to corruption, Thou art my father; To the worm, \`Thou art' my mother, and my sister;
 
 **[17:15]** Where then is my hope? And as for my hope, who shall see it?
 
@@ -818,7 +818,7 @@
 
 **[18:2]** How long will ye hunt for words? Consider, and afterwards we will speak.
 
-**[18:3]** Wherefore are we counted as beasts, `And' are become unclean in your sight?
+**[18:3]** Wherefore are we counted as beasts, \`And' are become unclean in your sight?
 
 **[18:4]** Thou that tearest thyself in thine anger, Shall the earth be forsaken for thee? Or shall the rock be removed out of its place?
 
@@ -830,7 +830,7 @@
 
 **[18:8]** For he is cast into a net by his own feet, And he walketh upon the toils.
 
-**[18:9]** A gin shall take `him' by the heel, `And' a snare shall lay hold on him.
+**[18:9]** A gin shall take \`him' by the heel, \`And' a snare shall lay hold on him.
 
 **[18:10]** A noose is hid for him in the ground, And a trap for him in the way.
 
@@ -838,7 +838,7 @@
 
 **[18:12]** His strength shall be hunger-bitten, And calamity shall be ready at his side.
 
-**[18:13]** The members of his body shall be devoured, `Yea', the first-born of death shall devour his members.
+**[18:13]** The members of his body shall be devoured, \`Yea', the first-born of death shall devour his members.
 
 **[18:14]** He shall be rooted out of his tent where he trusteth; And he shall be brought to the king of terrors.
 
@@ -866,7 +866,7 @@
 
 **[19:5]** If indeed ye will magnify yourselves against me, And plead against me my reproach;
 
-**[19:6]** Know now that God hath subverted me `in my cause', And hath compassed me with his net.
+**[19:6]** Know now that God hath subverted me \`in my cause', And hath compassed me with his net.
 
 **[19:7]** Behold, I cry out of wrong, but I am not heard: I cry for help, but there is no justice.
 
@@ -876,7 +876,7 @@
 
 **[19:10]** He hath broken me down on every side, and I am gone; And my hope hath he plucked up like a tree.
 
-**[19:11]** He hath also kindled his wrath against me, And he counteth me unto him as `one of' his adversaries.
+**[19:11]** He hath also kindled his wrath against me, And he counteth me unto him as \`one of' his adversaries.
 
 **[19:12]** His troops come on together, And cast up their way against me, And encamp round about my tent.
 
@@ -886,7 +886,7 @@
 
 **[19:15]** They that dwell in my house, and my maids, count me for a stranger; I am an alien in their sight.
 
-**[19:16]** I call unto my servant, and he giveth me no answer, `Though' I entreat him with my mouth.
+**[19:16]** I call unto my servant, and he giveth me no answer, \`Though' I entreat him with my mouth.
 
 **[19:17]** My breath is strange to my wife, And my supplication to the children of mine own mother.
 
@@ -906,13 +906,13 @@
 
 **[19:25]** But as for me I know that my Redeemer liveth, And at last he will stand up upon the earth:
 
-**[19:26]** And after my skin, `even' this `body', is destroyed, Then without my flesh shall I see God;
+**[19:26]** And after my skin, \`even' this \`body', is destroyed, Then without my flesh shall I see God;
 
 **[19:27]** Whom I, even I, shall see, on my side, And mine eyes shall behold, and not as a stranger. My heart is consumed within me.
 
 **[19:28]** If ye say, How we will persecute him! And that the root of the matter is found in me;
 
-**[19:29]** Be ye afraid of the sword: For wrath `bringeth' the punishments of the sword, That ye may know there is a judgment.
+**[19:29]** Be ye afraid of the sword: For wrath \`bringeth' the punishments of the sword, That ye may know there is a judgment.
 
 **[20:1]** Then answered Zophar the Naamathite, and said,
 
@@ -920,7 +920,7 @@
 
 **[20:3]** I have heard the reproof which putteth me to shame; And the spirit of my understanding answereth me.
 
-**[20:4]** Knowest thou `not' this of old time, Since man was placed upon earth,
+**[20:4]** Knowest thou \`not' this of old time, Since man was placed upon earth,
 
 **[20:5]** That the triumphing of the wicked is short, And the joy of the godless but for a moment?
 
@@ -958,17 +958,17 @@
 
 **[20:22]** In the fulness of his sufficiency he shall be in straits: The hand of every one that is in misery shall come upon him.
 
-**[20:23]** When he is about to fill his belly, `God' will cast the fierceness of his wrath upon him, And will rain it upon him while he is eating.
+**[20:23]** When he is about to fill his belly, \`God' will cast the fierceness of his wrath upon him, And will rain it upon him while he is eating.
 
 **[20:24]** He shall flee from the iron weapon, And the bow of brass shall strike him through.
 
 **[20:25]** He draweth it forth, and it cometh out of his body; Yea, the glittering point cometh out of his gall: Terrors are upon him.
 
-**[20:26]** All darkness is laid up for his treasures: A fire not blown `by man' shall devour him; It shall consume that which is left in his tent.
+**[20:26]** All darkness is laid up for his treasures: A fire not blown \`by man' shall devour him; It shall consume that which is left in his tent.
 
 **[20:27]** The heavens shall reveal his iniquity, And the earth shall rise up against him.
 
-**[20:28]** The increase of his house shall depart; `His goods' shall flow away in the day of his wrath.
+**[20:28]** The increase of his house shall depart; \`His goods' shall flow away in the day of his wrath.
 
 **[20:29]** This is the portion of a wicked man from God, And the heritage appointed unto him by God.
 
@@ -1004,11 +1004,11 @@
 
 **[21:16]** Lo, their prosperity is not in their hand: The counsel of the wicked is far from me.
 
-**[21:17]** How oft is it that the lamp of the wicked is put out? That their calamity cometh upon them? That `God' distributeth sorrows in his anger?
+**[21:17]** How oft is it that the lamp of the wicked is put out? That their calamity cometh upon them? That \`God' distributeth sorrows in his anger?
 
 **[21:18]** That they are as stubble before the wind, And as chaff that the storm carrieth away?
 
-**[21:19]** `Ye say', God layeth up his iniquity for his children. Let him recompense it unto himself, that he may know it:
+**[21:19]** \`Ye say', God layeth up his iniquity for his children. Let him recompense it unto himself, that he may know it:
 
 **[21:20]** Let his own eyes see his destruction, And let him drink of the wrath of the Almighty.
 
@@ -1038,15 +1038,15 @@
 
 **[21:33]** The clods of the valley shall be sweet unto him, And all men shall draw after him, As there were innumerable before him.
 
-**[21:34]** How then comfort ye me in vain, Seeing in your answers there remaineth `only' falsehood?
+**[21:34]** How then comfort ye me in vain, Seeing in your answers there remaineth \`only' falsehood?
 
 **[22:1]** Then answered Eliphaz the Temanite, and said,
 
 **[22:2]** Can a man be profitable unto God? Surely he that is wise is profitable unto himself.
 
-**[22:3]** Is it any pleasure to the Almighty, that thou art righteous? Or is it gain `to him', that thou makest thy ways perfect?
+**[22:3]** Is it any pleasure to the Almighty, that thou art righteous? Or is it gain \`to him', that thou makest thy ways perfect?
 
-**[22:4]** Is it for thy fear `of him' that he reproveth thee, That he entereth with thee into judgment?
+**[22:4]** Is it for thy fear \`of him' that he reproveth thee, That he entereth with thee into judgment?
 
 **[22:5]** Is not thy wickedness great? Neither is there any end to thine iniquities.
 
@@ -1078,7 +1078,7 @@
 
 **[22:19]** The righteous see it, and are glad; And the innocent laugh them to scorn,
 
-**[22:20]** `Saying', Surely they that did rise up against us are cut off, And the remnant of them the fire hath consumed.
+**[22:20]** \`Saying', Surely they that did rise up against us are cut off, And the remnant of them the fire hath consumed.
 
 **[22:21]** Acquaint now thyself with him, and be at peace: Thereby good shall come unto thee.
 
@@ -1086,7 +1086,7 @@
 
 **[22:23]** If thou return to the Almighty, thou shalt be built up, If thou put away unrighteousness far from thy tents.
 
-**[22:24]** And lay thou `thy' treasure in the dust, And `the gold of' Ophir among the stones of the brooks;
+**[22:24]** And lay thou \`thy' treasure in the dust, And \`the gold of' Ophir among the stones of the brooks;
 
 **[22:25]** And the Almighty will be thy treasure, And precious silver unto thee.
 
@@ -1096,9 +1096,9 @@
 
 **[22:28]** Thou shalt also decree a thing, and it shall be established unto thee; And light shall shine upon thy ways.
 
-**[22:29]** When they cast `thee' down, thou shalt say, `There is' lifting up; And the humble person he will save.
+**[22:29]** When they cast \`thee' down, thou shalt say, \`There is' lifting up; And the humble person he will save.
 
-**[22:30]** He will deliver `even' him that is not innocent: Yea, he shall be delivered through the cleanness of thy hands.
+**[22:30]** He will deliver \`even' him that is not innocent: Yea, he shall be delivered through the cleanness of thy hands.
 
 **[23:1]** Then Job answered and said,
 
@@ -1114,7 +1114,7 @@
 
 **[23:7]** There the upright might reason with him; So should I be delivered for ever from my judge.
 
-**[23:8]** Behold, I go forward, but he is not `there'; And backward, but I cannot perceive him;
+**[23:8]** Behold, I go forward, but he is not \`there'; And backward, but I cannot perceive him;
 
 **[23:9]** On the left hand, when he doth work, but I cannot behold him; He hideth himself on the right hand, that I cannot see him.
 
@@ -1124,7 +1124,7 @@
 
 **[23:12]** I have not gone back from the commandment of his lips; I have treasured up the words of his mouth more than my necessary food.
 
-**[23:13]** But he is in one `mind', and who can turn him? And what his soul desireth, even that he doeth.
+**[23:13]** But he is in one \`mind', and who can turn him? And what his soul desireth, even that he doeth.
 
 **[23:14]** For he performeth that which is appointed for me: And many such things are with him.
 
@@ -1142,7 +1142,7 @@
 
 **[24:4]** They turn the needy out of the way: The poor of the earth all hide themselves.
 
-**[24:5]** Behold, as wild asses in the desert They go forth to their work, seeking diligently for food; The wilderness `yieldeth' them bread for their children.
+**[24:5]** Behold, as wild asses in the desert They go forth to their work, seeking diligently for food; The wilderness \`yieldeth' them bread for their children.
 
 **[24:6]** They cut their provender in the field; And they glean the vintage of the wicked.
 
@@ -1152,9 +1152,9 @@
 
 **[24:9]** There are that pluck the fatherless from the breast, And take a pledge of the poor;
 
-**[24:10]** `So that' they go about naked without clothing, And being hungry they carry the sheaves.
+**[24:10]** \`So that' they go about naked without clothing, And being hungry they carry the sheaves.
 
-**[24:11]** They make oil within the walls of these men; They tread `their' winepresses, and suffer thirst.
+**[24:11]** They make oil within the walls of these men; They tread \`their' winepresses, and suffer thirst.
 
 **[24:12]** From out of the populous city men groan, And the soul of the wounded crieth out: Yet God regardeth not the folly.
 
@@ -1168,17 +1168,17 @@
 
 **[24:17]** For the morning is to all of them as thick darkness; For they know the terrors of the thick darkness.
 
-**[24:18]** Swiftly they `pass away' upon the face of the waters; Their portion is cursed in the earth: They turn not into the way of the vineyards.
+**[24:18]** Swiftly they \`pass away' upon the face of the waters; Their portion is cursed in the earth: They turn not into the way of the vineyards.
 
-**[24:19]** Drought and heat consume the snow waters: `So doth' Sheol `those that' have sinned.
+**[24:19]** Drought and heat consume the snow waters: \`So doth' Sheol \`those that' have sinned.
 
 **[24:20]** The womb shall forget him; The worm shall feed sweetly on him; He shall be no more remembered; And unrighteousness shall be broken as a tree.
 
 **[24:21]** He devoureth the barren that beareth not, And doeth not good to the widow.
 
-**[24:22]** Yet `God' preserveth the mighty by his power: He riseth up that hath no assurance of life.
+**[24:22]** Yet \`God' preserveth the mighty by his power: He riseth up that hath no assurance of life.
 
-**[24:23]** `God' giveth them to be in security, and they rest thereon; And his eyes are upon their ways.
+**[24:23]** \`God' giveth them to be in security, and they rest thereon; And his eyes are upon their ways.
 
 **[24:24]** They are exalted; yet a little while, and they are gone; Yea, they are brought low, they are taken out of the way as all others, And are cut off as the tops of the ears of grain.
 
@@ -1206,7 +1206,7 @@
 
 **[26:5]** They that are deceased tremble Beneath the waters and the inhabitants thereof.
 
-**[26:6]** Sheol is naked before `God', And Abaddon hath no covering.
+**[26:6]** Sheol is naked before \`God', And Abaddon hath no covering.
 
 **[26:7]** He stretcheth out the north over empty space, And hangeth the earth upon nothing.
 
@@ -1234,7 +1234,7 @@
 
 **[27:5]** Far be it from me that I should justify you: Till I die I will not put away mine integrity from me.
 
-**[27:6]** My righteousness I hold fast, and will not let it go: My heart shall not reproach `me' so long as I live.
+**[27:6]** My righteousness I hold fast, and will not let it go: My heart shall not reproach \`me' so long as I live.
 
 **[27:7]** Let mine enemy be as the wicked, And let him that riseth up against me be as the unrighteous.
 
@@ -1260,13 +1260,13 @@
 
 **[27:18]** He buildeth his house as the moth, And as a booth which the keeper maketh.
 
-**[27:19]** He lieth down rich, but he shall not be gathered `to his fathers'; He openeth his eyes, and he is not.
+**[27:19]** He lieth down rich, but he shall not be gathered \`to his fathers'; He openeth his eyes, and he is not.
 
 **[27:20]** Terrors overtake him like waters; A tempest stealeth him away in the night.
 
 **[27:21]** The east wind carrieth him away, and he departeth; And it sweepeth him out of his place.
 
-**[27:22]** For `God' shall hurl at him, and not spare: He would fain flee out of his hand.
+**[27:22]** For \`God' shall hurl at him, and not spare: He would fain flee out of his hand.
 
 **[27:23]** Men shall clap their hands at him, And shall hiss him out of his place.
 
@@ -1274,7 +1274,7 @@
 
 **[28:2]** Iron is taken out of the earth, And copper is molten out of the stone.
 
-**[28:3]** `Man' setteth an end to darkness, And searcheth out, to the furthest bound, The stones of obscurity and of thick darkness.
+**[28:3]** \`Man' setteth an end to darkness, And searcheth out, to the furthest bound, The stones of obscurity and of thick darkness.
 
 **[28:4]** He breaketh open a shaft away from where men sojourn; They are forgotten of the foot; They hang afar from men, they swing to and fro.
 
@@ -1346,7 +1346,7 @@
 
 **[29:10]** The voice of the nobles was hushed, And their tongue cleaved to the roof of their mouth.
 
-**[29:11]** For when the ear heard `me', then it blessed me; And when the eye saw `me', it gave witness unto me:
+**[29:11]** For when the ear heard \`me', then it blessed me; And when the eye saw \`me', it gave witness unto me:
 
 **[29:12]** Because I delivered the poor that cried, The fatherless also, that had none to help him.
 
@@ -1370,11 +1370,11 @@
 
 **[29:22]** After my words they spake not again; And my speech distilled upon them.
 
-**[29:23]** And they waited for me as for the rain; And they opened their mouth wide `as' for the latter rain.
+**[29:23]** And they waited for me as for the rain; And they opened their mouth wide \`as' for the latter rain.
 
 **[29:24]** I smiled on them, when they had no confidence; And the light of my countenance they cast not down.
 
-**[29:25]** I chose out their way, and sat `as' chief, And dwelt as a king in the army, As one that comforteth the mourners.
+**[29:25]** I chose out their way, and sat \`as' chief, And dwelt as a king in the army, As one that comforteth the mourners.
 
 **[30:1]** But now they that are younger than I have me in derision, Whose fathers I disdained to set with the dogs of my flock.
 
@@ -1384,13 +1384,13 @@
 
 **[30:4]** They pluck salt-wort by the bushes; And the roots of the broom are their food.
 
-**[30:5]** They are driven forth from the midst `of men'; They cry after them as after a thief;
+**[30:5]** They are driven forth from the midst \`of men'; They cry after them as after a thief;
 
 **[30:6]** So that they dwell in frightful valleys, In holes of the earth and of the rocks.
 
 **[30:7]** Among the bushes they bray; Under the nettles they are gathered together.
 
-**[30:8]** `They are' children of fools, yea, children of base men; They were scourged out of the land.
+**[30:8]** \`They are' children of fools, yea, children of base men; They were scourged out of the land.
 
 **[30:9]** And now I am become their song, Yea, I am a byword unto them.
 
@@ -1400,17 +1400,17 @@
 
 **[30:12]** Upon my right hand rise the rabble; They thrust aside my feet, And they cast up against me their ways of destruction.
 
-**[30:13]** They mar my path, They set forward my calamity, `Even' men that have no helper.
+**[30:13]** They mar my path, They set forward my calamity, \`Even' men that have no helper.
 
-**[30:14]** As through a wide breach they come: In the midst of the ruin they roll themselves `upon me'.
+**[30:14]** As through a wide breach they come: In the midst of the ruin they roll themselves \`upon me'.
 
 **[30:15]** Terrors are turned upon me; They chase mine honor as the wind; And my welfare is passed away as a cloud.
 
 **[30:16]** And now my soul is poured out within me; Days of affliction have taken hold upon me.
 
-**[30:17]** In the night season my bones are pierced in me, And the `pains' that gnaw me take no rest.
+**[30:17]** In the night season my bones are pierced in me, And the \`pains' that gnaw me take no rest.
 
-**[30:18]** By `God's' great force is my garment disfigured; It bindeth me about as the collar of my coat.
+**[30:18]** By \`God's' great force is my garment disfigured; It bindeth me about as the collar of my coat.
 
 **[30:19]** He hath cast me into the mire, And I am become like dust and ashes.
 
@@ -1418,7 +1418,7 @@
 
 **[30:21]** Thou art turned to be cruel to me; With the might of thy hand thou persecutest me.
 
-**[30:22]** Thou liftest me up to the wind, thou causest me to ride `upon it'; And thou dissolvest me in the storm.
+**[30:22]** Thou liftest me up to the wind, thou causest me to ride \`upon it'; And thou dissolvest me in the storm.
 
 **[30:23]** For I know that thou wilt bring me to death, And to the house appointed for all living.
 
@@ -1434,9 +1434,9 @@
 
 **[30:29]** I am a brother to jackals, And a companion to ostriches.
 
-**[30:30]** My skin is black, `and falleth' from me, And my bones are burned with heat.
+**[30:30]** My skin is black, \`and falleth' from me, And my bones are burned with heat.
 
-**[30:31]** Therefore is my harp `turned' to mourning, And my pipe into the voice of them that weep.
+**[30:31]** Therefore is my harp \`turned' to mourning, And my pipe into the voice of them that weep.
 
 **[31:1]** I made a covenant with mine eyes; How then should I look upon a virgin?
 
@@ -1468,7 +1468,7 @@
 
 **[31:15]** Did not he that made me in the womb make him? And did not one fashion us in the womb?
 
-**[31:16]** If I have withheld the poor from `their' desire, Or have caused the eyes of the widow to fail,
+**[31:16]** If I have withheld the poor from \`their' desire, Or have caused the eyes of the widow to fail,
 
 **[31:17]** Or have eaten my morsel alone, And the fatherless hath not eaten thereof;
 
@@ -1484,7 +1484,7 @@
 
 **[31:23]** For calamity from God is a terror to me, And by reason of his majesty I can do nothing.
 
-**[31:24]** If I have made gold my hope, And have said to the fine gold, `Thou art' my confidence;
+**[31:24]** If I have made gold my hope, And have said to the fine gold, \`Thou art' my confidence;
 
 **[31:25]** If I have rejoiced because my wealth was great, And because my hand had gotten much;
 
@@ -1506,7 +1506,7 @@
 
 **[31:34]** Because I feared the great multitude, And the contempt of families terrified me, So that I kept silence, and went not out of the door-
 
-**[31:35]** Oh that I had one to hear me! (Lo, here is my signature, let the Almighty answer me); And `that I had' the indictment which mine adversary hath written!
+**[31:35]** Oh that I had one to hear me! (Lo, here is my signature, let the Almighty answer me); And \`that I had' the indictment which mine adversary hath written!
 
 **[31:36]** Surely I would carry it upon my shoulder; I would bind it unto me as a crown:
 
@@ -1560,23 +1560,23 @@
 
 **[32:21]** Let me not, I pray you, respect any man's person; Neither will I give flattering titles unto any man.
 
-**[32:22]** For I know not to give flattering titles; `Else' would my Maker soon take me away.
+**[32:22]** For I know not to give flattering titles; \`Else' would my Maker soon take me away.
 
 **[33:1]** Howbeit, Job, I pray thee, hear my speech, And hearken to all my words.
 
 **[33:2]** Behold now, I have opened my mouth; My tongue hath spoken in my mouth.
 
-**[33:3]** My words `shall utter' the uprightness of my heart; And that which my lips know they shall speak sincerely.
+**[33:3]** My words \`shall utter' the uprightness of my heart; And that which my lips know they shall speak sincerely.
 
 **[33:4]** The Spirit of God hath made me, And the breath of the Almighty giveth me life.
 
-**[33:5]** If thou canst, answer thou me; Set `thy words' in order before me, stand forth.
+**[33:5]** If thou canst, answer thou me; Set \`thy words' in order before me, stand forth.
 
 **[33:6]** Behold, I am toward God even as thou art: I also am formed out of the clay.
 
 **[33:7]** Behold, my terror shall not make thee afraid, Neither shall my pressure be heavy upon thee.
 
-**[33:8]** Surely thou hast spoken in my hearing, And I have heard the voice of `thy' words, `saying',
+**[33:8]** Surely thou hast spoken in my hearing, And I have heard the voice of \`thy' words, \`saying',
 
 **[33:9]** I am clean, without transgression; I am innocent, neither is there iniquity in me:
 
@@ -1588,13 +1588,13 @@
 
 **[33:13]** Why dost thou strive against him, For that he giveth not account of any of his matters?
 
-**[33:14]** For God speaketh once, Yea twice, `though man' regardeth it not.
+**[33:14]** For God speaketh once, Yea twice, \`though man' regardeth it not.
 
 **[33:15]** In a dream, in a vision of the night, When deep sleep falleth upon men, In slumberings upon the bed;
 
 **[33:16]** Then he openeth the ears of men, And sealeth their instruction,
 
-**[33:17]** That he may withdraw man `from his' purpose, And hide pride from man;
+**[33:17]** That he may withdraw man \`from his' purpose, And hide pride from man;
 
 **[33:18]** He keepeth back his soul from the pit, And his life from perishing by the sword.
 
@@ -1608,7 +1608,7 @@
 
 **[33:23]** If there be with him an angel, An interpreter, one among a thousand, To show unto man what is right for him;
 
-**[33:24]** Then `God' is gracious unto him, and saith, Deliver him from going down to the pit, I have found a ransom.
+**[33:24]** Then \`God' is gracious unto him, and saith, Deliver him from going down to the pit, I have found a ransom.
 
 **[33:25]** His flesh shall be fresher than a child's; He returneth to the days of his youth.
 
@@ -1618,7 +1618,7 @@
 
 **[33:28]** He hath redeemed my soul from going into the pit, And my life shall behold the light.
 
-**[33:29]** Lo, all these things doth God work, Twice, `yea' thrice, with a man,
+**[33:29]** Lo, all these things doth God work, Twice, \`yea' thrice, with a man,
 
 **[33:30]** To bring back his soul from the pit, That he may be enlightened with the light of the living.
 
@@ -1638,7 +1638,7 @@
 
 **[34:5]** For Job hath said, I am righteous, And God hath taken away my right:
 
-**[34:6]** Notwithstanding my right I am `accounted' a liar; My wound is incurable, `though I am' without transgression.
+**[34:6]** Notwithstanding my right I am \`accounted' a liar; My wound is incurable, \`though I am' without transgression.
 
 **[34:7]** What man is like Job, Who drinketh up scoffing like water,
 
@@ -1654,15 +1654,15 @@
 
 **[34:13]** Who gave him a charge over the earth? Or who hath disposed the whole world?
 
-**[34:14]** If he set his heart upon himself, `If' he gather unto himself his spirit and his breath;
+**[34:14]** If he set his heart upon himself, \`If' he gather unto himself his spirit and his breath;
 
 **[34:15]** All flesh shall perish together, And man shall turn again unto dust.
 
-**[34:16]** If now `thou hast' understanding, hear this: Hearken to the voice of my words.
+**[34:16]** If now \`thou hast' understanding, hear this: Hearken to the voice of my words.
 
-**[34:17]** Shall even one that hateth justice govern? And wilt thou condemn him that is righteous `and' mighty?-
+**[34:17]** Shall even one that hateth justice govern? And wilt thou condemn him that is righteous \`and' mighty?-
 
-**[34:18]** `Him' that saith to a king, `Thou art' vile, `Or' to nobles, `Ye are' wicked;
+**[34:18]** \`Him' that saith to a king, \`Thou art' vile, \`Or' to nobles, \`Ye are' wicked;
 
 **[34:19]** That respecteth not the persons of princes, Nor regardeth the rich more than the poor; For they all are the work of his hands.
 
@@ -1674,7 +1674,7 @@
 
 **[34:23]** For he needeth not further to consider a man, That he should go before God in judgment.
 
-**[34:24]** He breaketh in pieces mighty men `in ways' past finding out, And setteth others in their stead.
+**[34:24]** He breaketh in pieces mighty men \`in ways' past finding out, And setteth others in their stead.
 
 **[34:25]** Therefore he taketh knowledge of their works; And he overturneth them in the night, so that they are destroyed.
 
@@ -1684,11 +1684,11 @@
 
 **[34:28]** So that they caused the cry of the poor to come unto him, And he heard the cry of the afflicted.
 
-**[34:29]** When he giveth quietness, who then can condemn? And when he hideth his face, who then can behold him? Alike whether `it be done' unto a nation, or unto a man:
+**[34:29]** When he giveth quietness, who then can condemn? And when he hideth his face, who then can behold him? Alike whether \`it be done' unto a nation, or unto a man:
 
 **[34:30]** That the godless man reign not, That there be none to ensnare the people.
 
-**[34:31]** For hath any said unto God, I have borne `chastisement', I will not offend `any more':
+**[34:31]** For hath any said unto God, I have borne \`chastisement', I will not offend \`any more':
 
 **[34:32]** That which I see not teach thou me: If I have done iniquity, I will do it no more?
 
@@ -1704,9 +1704,9 @@
 
 **[35:1]** Moreover Elihu answered and said,
 
-**[35:2]** Thinkest thou this to be `thy' right, `Or' sayest thou, My righteousness is more than God's,
+**[35:2]** Thinkest thou this to be \`thy' right, \`Or' sayest thou, My righteousness is more than God's,
 
-**[35:3]** That thou sayest, What advantage will it be unto thee? `And', What profit shall I have, more than if I had sinned?
+**[35:3]** That thou sayest, What advantage will it be unto thee? \`And', What profit shall I have, more than if I had sinned?
 
 **[35:4]** I will answer thee, And thy companions with thee.
 
@@ -1716,7 +1716,7 @@
 
 **[35:7]** If thou be righteous, what givest thou him? Or what receiveth he of thy hand?
 
-**[35:8]** Thy wickedness `may hurt' a man as thou art; And thy righteousness `may profit' a son of man.
+**[35:8]** Thy wickedness \`may hurt' a man as thou art; And thy righteousness \`may profit' a son of man.
 
 **[35:9]** By reason of the multitude of oppressions they cry out; They cry for help by reason of the arm of the mighty.
 
@@ -1726,7 +1726,7 @@
 
 **[35:12]** There they cry, but none giveth answer, Because of the pride of evil men.
 
-**[35:13]** Surely God will not hear an empty `cry', Neither will the Almighty regard it.
+**[35:13]** Surely God will not hear an empty \`cry', Neither will the Almighty regard it.
 
 **[35:14]** How much less when thou sayest thou beholdest him not, The cause is before him, and thou waitest for him!
 
@@ -1744,7 +1744,7 @@
 
 **[36:5]** Behold, God is mighty, and despiseth not any: He is mighty in strength of understanding.
 
-**[36:6]** He preserveth not the life of the wicked, But giveth to the afflicted `their' right.
+**[36:6]** He preserveth not the life of the wicked, But giveth to the afflicted \`their' right.
 
 **[36:7]** He withdraweth not his eyes from the righteous: But with kings upon the throne He setteth them for ever, and they are exalted.
 
@@ -1754,23 +1754,23 @@
 
 **[36:10]** He openeth also their ear to instruction, And commandeth that they return from iniquity.
 
-**[36:11]** If they hearken and serve `him', They shall spend their days in prosperity, And their years in pleasures.
+**[36:11]** If they hearken and serve \`him', They shall spend their days in prosperity, And their years in pleasures.
 
 **[36:12]** But if they hearken not, they shall perish by the sword, And they shall die without knowledge.
 
 **[36:13]** But they that are godless in heart lay up anger: They cry not for help when he bindeth them.
 
-**[36:14]** They die in youth, And their life `perisheth' among the unclean.
+**[36:14]** They die in youth, And their life \`perisheth' among the unclean.
 
 **[36:15]** He delivereth the afflicted by their affliction, And openeth their ear in oppression.
 
 **[36:16]** Yea, he would have allured thee out of distress Into a broad place, where there is no straitness; And that which is set on thy table would be full of fatness.
 
-**[36:17]** But thou art full of the judgment of the wicked: Judgment and justice take hold `on thee'.
+**[36:17]** But thou art full of the judgment of the wicked: Judgment and justice take hold \`on thee'.
 
 **[36:18]** For let not wrath stir thee up against chastisements; Neither let the greatness of the ransom turn thee aside.
 
-**[36:19]** Will thy cry avail, `that thou be' not in distress, Or all the forces of `thy' strength?
+**[36:19]** Will thy cry avail, \`that thou be' not in distress, Or all the forces of \`thy' strength?
 
 **[36:20]** Desire not the night, When peoples are cut off in their place.
 
@@ -1798,7 +1798,7 @@
 
 **[36:32]** He covereth his hands with the lightning, And giveth it a charge that it strike the mark.
 
-**[36:33]** The noise thereof telleth concerning him, The cattle also concerning `the storm' that cometh up.
+**[36:33]** The noise thereof telleth concerning him, The cattle also concerning \`the storm' that cometh up.
 
 **[37:1]** Yea, at this my heart trembleth, And is moved out of its place.
 
@@ -1806,17 +1806,17 @@
 
 **[37:3]** He sendeth it forth under the whole heaven, And his lightening unto the ends of the earth.
 
-**[37:4]** After it a voice roareth; He thundereth with the voice of his majesty; And he restraineth not `the lightnings' when his voice is heard.
+**[37:4]** After it a voice roareth; He thundereth with the voice of his majesty; And he restraineth not \`the lightnings' when his voice is heard.
 
 **[37:5]** God thundereth marvellously with his voice; Great things doeth he, which we cannot comprehend.
 
 **[37:6]** For he saith to the snow, Fall thou on the earth; Likewise to the shower of rain, And to the showers of his mighty rain.
 
-**[37:7]** He sealeth up the hand of every man, That all men whom he hath made may know `it'.
+**[37:7]** He sealeth up the hand of every man, That all men whom he hath made may know \`it'.
 
 **[37:8]** Then the beasts go into coverts, And remain in their dens.
 
-**[37:9]** Out of the chamber `of the south' cometh the storm, And cold out of the north.
+**[37:9]** Out of the chamber \`of the south' cometh the storm, And cold out of the north.
 
 **[37:10]** By the breath of God ice is given; And the breadth of the waters is straitened.
 
@@ -1828,15 +1828,15 @@
 
 **[37:14]** Hearken unto this, O Job: Stand still, and consider the wondrous works of God.
 
-**[37:15]** Dost thou know how God layeth `his charge' upon them, And causeth the lightning of his cloud to shine?
+**[37:15]** Dost thou know how God layeth \`his charge' upon them, And causeth the lightning of his cloud to shine?
 
 **[37:16]** Dost thou know the balancings of the clouds, The wondrous works of him who is perfect in knowledge?
 
-**[37:17]** How thy garments are warm, When the earth is still by reason of the south `wind'?
+**[37:17]** How thy garments are warm, When the earth is still by reason of the south \`wind'?
 
 **[37:18]** Canst thou with him spread out the sky, Which is strong as a molten mirror?
 
-**[37:19]** Teach us what we shall say unto him; `For' we cannot set `our speech' in order by reason of darkness.
+**[37:19]** Teach us what we shall say unto him; \`For' we cannot set \`our speech' in order by reason of darkness.
 
 **[37:20]** Shall it be told him that I would speak? Or should a man wish that he were swallowed up?
 
@@ -1844,7 +1844,7 @@
 
 **[37:22]** Out of the north cometh golden splendor: God hath upon him terrible majesty.
 
-**[37:23]** `Touching' the Almighty, we cannot find him out He is excellent in power; And in justice and plenteous righteousness he will not afflict.
+**[37:23]** \`Touching' the Almighty, we cannot find him out He is excellent in power; And in justice and plenteous righteousness he will not afflict.
 
 **[37:24]** Men do therefore fear him: He regardeth not any that are wise of heart.
 
@@ -1862,7 +1862,7 @@
 
 **[38:7]** When the morning stars sang together, And all the sons of God shouted for joy?
 
-**[38:8]** Or `who' shut up the sea with doors, When it brake forth, `as if' it had issued out of the womb;
+**[38:8]** Or \`who' shut up the sea with doors, When it brake forth, \`as if' it had issued out of the womb;
 
 **[38:9]** When I made clouds the garment thereof, And thick darkness a swaddling-band for it,
 
@@ -1870,11 +1870,11 @@
 
 **[38:11]** And said, Hitherto shalt thou come, but no further; And here shall thy proud waves be stayed?
 
-**[38:12]** Hast thou commanded the morning since thy days `began', `And' caused the dayspring to know its place;
+**[38:12]** Hast thou commanded the morning since thy days \`began', \`And' caused the dayspring to know its place;
 
 **[38:13]** That it might take hold of the ends of the earth, And the wicked be shaken out of it?
 
-**[38:14]** It is changed as clay under the seal; And `all things' stand forth as a garment:
+**[38:14]** It is changed as clay under the seal; And \`all things' stand forth as a garment:
 
 **[38:15]** And from the wicked their light is withholden, And the high arm is broken.
 
@@ -1888,7 +1888,7 @@
 
 **[38:20]** That thou shouldest take it to the bound thereof, And that thou shouldest discern the paths to the house thereof?
 
-**[38:21]** `Doubtless', thou knowest, for thou wast then born, And the number of thy days is great!
+**[38:21]** \`Doubtless', thou knowest, for thou wast then born, And the number of thy days is great!
 
 **[38:22]** Hast thou entered the treasuries of the snow, Or hast thou seen the treasures of the hail,
 
@@ -1900,13 +1900,13 @@
 
 **[38:26]** To cause it to rain on a land where no man is; On the wilderness, wherein there is no man;
 
-**[38:27]** To satisfy the waste and desolate `ground', And to cause the tender grass to spring forth?
+**[38:27]** To satisfy the waste and desolate \`ground', And to cause the tender grass to spring forth?
 
 **[38:28]** Hath the rain a father? Or who hath begotten the drops of dew?
 
 **[38:29]** Out of whose womb came the ice? And the hoary frost of heaven, who hath gendered it?
 
-**[38:30]** The waters hide themselves `and become' like stone, And the face of the deep is frozen.
+**[38:30]** The waters hide themselves \`and become' like stone, And the face of the deep is frozen.
 
 **[38:31]** Canst thou bind the cluster of the Pleiades, Or loose the bands of Orion?
 
@@ -1926,11 +1926,11 @@
 
 **[38:39]** Canst thou hunt the prey for the lioness, Or satisfy the appetite of the young lions,
 
-**[38:40]** When they couch in their dens, `And' abide in the covert to lie in wait?
+**[38:40]** When they couch in their dens, \`And' abide in the covert to lie in wait?
 
-**[38:41]** Who provideth for the raven his prey, When his young ones cry unto God, `And' wander for lack of food?
+**[38:41]** Who provideth for the raven his prey, When his young ones cry unto God, \`And' wander for lack of food?
 
-**[39:1]** Knowest thou the time when the wild goats of the rock bring forth? `Or' canst thou mark when the hinds do calve?
+**[39:1]** Knowest thou the time when the wild goats of the rock bring forth? \`Or' canst thou mark when the hinds do calve?
 
 **[39:2]** Canst thou number the months that they fulfil? Or knowest thou the time when they bring forth?
 
@@ -1952,21 +1952,21 @@
 
 **[39:11]** Wilt thou trust him, because his strength is great? Or wilt thou leave to him thy labor?
 
-**[39:12]** Wilt thou confide in him, that he will bring home thy seed, And gather `the grain' of thy threshing-floor?
+**[39:12]** Wilt thou confide in him, that he will bring home thy seed, And gather \`the grain' of thy threshing-floor?
 
-**[39:13]** The wings of the ostrich wave proudly; `But' are they the pinions and plumage of love?
+**[39:13]** The wings of the ostrich wave proudly; \`But' are they the pinions and plumage of love?
 
 **[39:14]** For she leaveth her eggs on the earth, And warmeth them in the dust,
 
 **[39:15]** And forgetteth that the foot may crush them, Or that the wild beast may trample them.
 
-**[39:16]** She dealeth hardly with her young ones, as if they were not hers: Though her labor be in vain, `she is' without fear;
+**[39:16]** She dealeth hardly with her young ones, as if they were not hers: Though her labor be in vain, \`she is' without fear;
 
 **[39:17]** Because God hath deprived her of wisdom, Neither hath he imparted to her understanding.
 
 **[39:18]** What time she lifteth up herself on high, She scorneth the horse and his rider.
 
-**[39:19]** Hast thou given the horse `his' might? Hast thou clothed his neck with the quivering mane?
+**[39:19]** Hast thou given the horse \`his' might? Hast thou clothed his neck with the quivering mane?
 
 **[39:20]** Hast thou made him to leap as a locust? The glory of his snorting is terrible.
 
@@ -1978,7 +1978,7 @@
 
 **[39:24]** He swalloweth the ground with fierceness and rage; Neither believeth he that it is the voice of the trumpet.
 
-**[39:25]** As oft as the trumpet `soundeth' he saith, Aha! And he smelleth the battle afar off, The thunder of the captains, and the shouting.
+**[39:25]** As oft as the trumpet \`soundeth' he saith, Aha! And he smelleth the battle afar off, The thunder of the captains, and the shouting.
 
 **[39:26]** Is it by thy wisdom that the hawk soareth, (And) stretcheth her wings toward the south?
 
@@ -2012,9 +2012,9 @@
 
 **[40:11]** Pour forth the overflowings of thine anger; And look upon every one that is proud, and abase him.
 
-**[40:12]** Look on every one that is proud, `and' bring him low; And tread down the wicked where they stand.
+**[40:12]** Look on every one that is proud, \`and' bring him low; And tread down the wicked where they stand.
 
-**[40:13]** Hide them in the dust together; Bind their faces in the hidden `place'.
+**[40:13]** Hide them in the dust together; Bind their faces in the hidden \`place'.
 
 **[40:14]** Then will I also confess of thee That thine own right hand can save thee.
 
@@ -2024,9 +2024,9 @@
 
 **[40:17]** He moveth his tail like a cedar: The sinews of his thighs are knit together.
 
-**[40:18]** His bones are `as' tubes of brass; His limbs are like bars of iron.
+**[40:18]** His bones are \`as' tubes of brass; His limbs are like bars of iron.
 
-**[40:19]** He is the chief of the ways of God: He `only' that made him giveth him his sword.
+**[40:19]** He is the chief of the ways of God: He \`only' that made him giveth him his sword.
 
 **[40:20]** Surely the mountains bring him forth food, Where all the beasts of the field do play.
 
@@ -2048,7 +2048,7 @@
 
 **[41:5]** Wilt thou play with him as with a bird? Or wilt thou bind him for thy maidens?
 
-**[41:6]** Will the bands `of fishermen' make traffic of him? Will they part him among the merchants?
+**[41:6]** Will the bands \`of fishermen' make traffic of him? Will they part him among the merchants?
 
 **[41:7]** Canst thou fill his skin with barbed irons, Or his head with fish-spears?
 
@@ -2058,7 +2058,7 @@
 
 **[41:10]** None is so fierce that he dare stir him up; Who then is he that can stand before me?
 
-**[41:11]** Who hath first given unto me, that I should repay him? `Whatsoever is' under the whole heaven is mine.
+**[41:11]** Who hath first given unto me, that I should repay him? \`Whatsoever is' under the whole heaven is mine.
 
 **[41:12]** I will not keep silence concerning his limbs, Nor his mighty strength, nor his goodly frame.
 
@@ -2066,7 +2066,7 @@
 
 **[41:14]** Who can open the doors of his face? Round about his teeth is terror.
 
-**[41:15]** `His' strong scales are `his' pride, Shut up together `as with' a close seal.
+**[41:15]** \`His' strong scales are \`his' pride, Shut up together \`as with' a close seal.
 
 **[41:16]** One is so near to another, That no air can come between them.
 
@@ -2076,7 +2076,7 @@
 
 **[41:19]** Out of his mouth go burning torches, And sparks of fire leap forth.
 
-**[41:20]** Out of his nostrils a smoke goeth, As of a boiling pot and `burning' rushes.
+**[41:20]** Out of his nostrils a smoke goeth, As of a boiling pot and \`burning' rushes.
 
 **[41:21]** His breath kindleth coals, And a flame goeth forth from his mouth.
 
@@ -2090,13 +2090,13 @@
 
 **[41:26]** If one lay at him with the sword, it cannot avail; Nor the spear, the dart, nor the pointed shaft.
 
-**[41:27]** He counteth iron as straw, `And' brass as rotten wood.
+**[41:27]** He counteth iron as straw, \`And' brass as rotten wood.
 
 **[41:28]** The arrow cannot make him flee: Sling-stones are turned with him into stubble.
 
 **[41:29]** Clubs are counted as stubble: He laugheth at the rushing of the javelin.
 
-**[41:30]** His underparts are `like' sharp potsherds: He spreadeth `as it were' a threshing-wain upon the mire.
+**[41:30]** His underparts are \`like' sharp potsherds: He spreadeth \`as it were' a threshing-wain upon the mire.
 
 **[41:31]** He maketh the deep to boil like a pot: He maketh the sea like a pot of ointment.
 
@@ -2116,7 +2116,7 @@
 
 **[42:5]** I had heard of thee by the hearing of the ear; But now mine eye seeth thee:
 
-**[42:6]** Wherefore I abhor `myself', And repent in dust and ashes.
+**[42:6]** Wherefore I abhor \`myself', And repent in dust and ashes.
 
 **[42:7]** And it was so, that, after Jehovah had spoken these words unto Job, Jehovah said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends; for ye have not spoken of me the thing that is right, as my servant Job hath.
 
@@ -2136,6 +2136,6 @@
 
 **[42:15]** And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren.
 
-**[42:16]** And after this Job lived a hundred and forty years, and saw his sons, and his sons' sons, `even' four generations.
+**[42:16]** And after this Job lived a hundred and forty years, and saw his sons, and his sons' sons, \`even' four generations.
 
 **[42:17]** So Job died, being old and full of days.

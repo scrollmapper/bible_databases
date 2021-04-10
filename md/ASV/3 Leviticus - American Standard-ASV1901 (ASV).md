@@ -2,7 +2,7 @@
 
 **[1:1]** And Jehovah called unto Moses, and spake unto him out of the tent of meeting, saying,
 
-**[1:2]** Speak unto the children of Israel, and say unto them, When any man of you offereth an oblation unto Jehovah, ye shall offer your oblation of the cattle, `even' of the herd and of the flock.
+**[1:2]** Speak unto the children of Israel, and say unto them, When any man of you offereth an oblation unto Jehovah, ye shall offer your oblation of the cattle, \`even' of the herd and of the flock.
 
 **[1:3]** If his oblation be a burnt-offering of the herd, he shall offer it a male without blemish: he shall offer it at the door of the tent of meeting, that he may be accepted before Jehovah.
 
@@ -32,11 +32,11 @@
 
 **[1:16]** and he shall take away its crop with the filth thereof, and cast it beside the altar on the east part, in the place of the ashes:
 
-**[1:17]** and he shall rend it by the wings thereof, `but' shall not divide it asunder; and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah.
+**[1:17]** and he shall rend it by the wings thereof, \`but' shall not divide it asunder; and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah.
 
 **[2:1]** And when any one offereth an oblation of a meal-offering unto Jehovah, his oblation shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:
 
-**[2:2]** and he shall bring it to Aaron's sons the priests; and he shall take thereout his handful of the fine flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn `it as' the memorial thereof upon the altar, an offering made by fire, of a sweet savor unto Jehovah:
+**[2:2]** and he shall bring it to Aaron's sons the priests; and he shall take thereout his handful of the fine flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn \`it as' the memorial thereof upon the altar, an offering made by fire, of a sweet savor unto Jehovah:
 
 **[2:3]** and that which is left of the meal-offering shall be Aaron's and his sons': it is a thing most holy of the offerings of Jehovah made by fire.
 
@@ -56,7 +56,7 @@
 
 **[2:11]** No meal-offering, which ye shall offer unto Jehovah, shall be made with leaven; for ye shall burn no leaven, nor any honey, as an offering made by fire unto Jehovah.
 
-**[2:12]** As an oblation of first -`fruits' ye shall offer them unto Jehovah: but they shall not come up for a sweet savor on the altar.
+**[2:12]** As an oblation of first -\`fruits' ye shall offer them unto Jehovah: but they shall not come up for a sweet savor on the altar.
 
 **[2:13]** And every oblation of thy meal-offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meal-offering: with all thine oblations thou shalt offer salt.
 
@@ -92,7 +92,7 @@
 
 **[3:13]** and he shall lay his hand upon the head of it, and kill it before the tent of meeting; and the sons of Aaron shall sprinkle the blood thereof upon the altar round about.
 
-**[3:14]** And he shall offer thereof his oblation, `even' an offering made by fire unto Jehovah; the fat that covereth the inwards, and all the fat that is upon the inwards,
+**[3:14]** And he shall offer thereof his oblation, \`even' an offering made by fire unto Jehovah; the fat that covereth the inwards, and all the fat that is upon the inwards,
 
 **[3:15]** and the two kidneys, and the fat that is upon them, which is by the loins, and the caul upon the liver, with the kidneys, shall he take away.
 
@@ -170,15 +170,15 @@
 
 **[4:35]** and all the fat thereof shall he take away, as the fat of the lamb is taken away from the sacrifice of peace-offerings; and the priest shall burn them on the altar, upon the offerings of Jehovah made by fire; and the priest shall make atonement for him as touching his sin that he hath sinned, and he shall be forgiven.
 
-**[5:1]** And if any one sin, in that he heareth the voice of adjuration, he being a witness, whether he hath seen or known, if he do not utter `it', then he shall bear his iniquity.
+**[5:1]** And if any one sin, in that he heareth the voice of adjuration, he being a witness, whether he hath seen or known, if he do not utter \`it', then he shall bear his iniquity.
 
 **[5:2]** Or if any one touch any unclean thing, whether it be the carcass of an unclean beast, or the carcass of unclean cattle, or the carcass of unclean creeping things, and it be hidden from him, and he be unclean, then he shall be guilty.
 
 **[5:3]** Or if he touch the uncleanness of man, whatsoever his uncleanness be wherewith he is unclean, and it be hid from him; when he knoweth of it, then he shall be guilty.
 
-**[5:4]** Or if any one swear rashly with his lips to do evil, or to do good, whatsoever it be that a man shall utter rashly with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these `things'.
+**[5:4]** Or if any one swear rashly with his lips to do evil, or to do good, whatsoever it be that a man shall utter rashly with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these \`things'.
 
-**[5:5]** And it shall be, when he shall be guilty in one of these `things', that he shall confess that wherein he hath sinned:
+**[5:5]** And it shall be, when he shall be guilty in one of these \`things', that he shall confess that wherein he hath sinned:
 
 **[5:6]** and he shall bring his trespass-offering unto Jehovah for his sin which he hath sinned, a female from the flock, a lamb or a goat, for a sin-offering; and the priest shall make atonement for him as concerning his sin.
 
@@ -194,7 +194,7 @@
 
 **[5:12]** And he shall bring it to the priest, and the priest shall take his handful of it as the memorial thereof, and burn it on the altar, upon the offerings of Jehovah made by fire: it is a sin-offering.
 
-**[5:13]** And the priest shall make atonement for him as touching his sin that he hath sinned in any of these things, and he shall be forgiven: and `the remnant' shall be the priest's, as the meal-offering.
+**[5:13]** And the priest shall make atonement for him as touching his sin that he hath sinned in any of these things, and he shall be forgiven: and \`the remnant' shall be the priest's, as the meal-offering.
 
 **[5:14]** And Jehovah spake unto Moses, saying,
 
@@ -242,7 +242,7 @@
 
 **[6:17]** It shall not be baken with leaven. I have given it as their portion of my offerings made by fire; it is most holy, as the sin-offering, and as the trespass-offering.
 
-**[6:18]** Every male among the children of Aaron shall eat of it, as `his' portion for ever throughout your generations, from the offerings of Jehovah made by fire: whosoever toucheth them shall be holy.
+**[6:18]** Every male among the children of Aaron shall eat of it, as \`his' portion for ever throughout your generations, from the offerings of Jehovah made by fire: whosoever toucheth them shall be holy.
 
 **[6:19]** And Jehovah spake unto Moses, saying,
 
@@ -334,11 +334,11 @@
 
 **[7:33]** He among the sons of Aaron that offereth the blood of the peace-offerings, and the fat, shall have the right thigh for a portion.
 
-**[7:34]** For the wave-breast and the heave-thigh have I taken of the children of Israel out of the sacrifices of their peace-offerings, and have given them unto Aaron the priest and unto his sons as `their' portion for ever from the children of Israel.
+**[7:34]** For the wave-breast and the heave-thigh have I taken of the children of Israel out of the sacrifices of their peace-offerings, and have given them unto Aaron the priest and unto his sons as \`their' portion for ever from the children of Israel.
 
 **[7:35]** This is the anointing-portion of Aaron, and the anointing-portion of his sons, out of the offerings of Jehovah made by fire, in the day when he presented them to minister unto Jehovah in the priest's office;
 
-**[7:36]** which Jehovah commanded to be given them of the children of Israel, in the day that he anointed them. It is `their' portion for ever throughout their generations.
+**[7:36]** which Jehovah commanded to be given them of the children of Israel, in the day that he anointed them. It is \`their' portion for ever throughout their generations.
 
 **[7:37]** This is the law of the burnt-offering, of the meal-offering, and of the sin-offering, and of the trespass-offering, and of the consecration, and of the sacrifice of peace-offerings;
 
@@ -452,7 +452,7 @@
 
 **[9:18]** He slew also the ox and the ram, the sacrifice of peace-offerings, which was for the people: and Aaron's sons delivered unto him the blood, which he sprinkled upon the altar round about,
 
-**[9:19]** and the fat of the ox and of the ram, the fat tail, and that which covereth `the inwards', and the kidneys, and the caul of the liver:
+**[9:19]** and the fat of the ox and of the ram, the fat tail, and that which covereth \`the inwards', and the kidneys, and the caul of the liver:
 
 **[9:20]** and they put the fat upon the breasts, and he burnt the fat upon the altar:
 
@@ -502,13 +502,13 @@
 
 **[10:19]** And Aaron spake unto Moses, Behold, this day have they offered their sin-offering and their burnt-offering before Jehovah; and there have befallen me such things as these: and if I had eaten the sin-offering to-day, would it have been well-pleasing in the sight of Jehovah?
 
-**[10:20]** And when Moses heard `that', it was well-pleasing in his sight.
+**[10:20]** And when Moses heard \`that', it was well-pleasing in his sight.
 
 **[11:1]** And Jehovah spake unto Moses and to Aaron, saying unto them,
 
 **[11:2]** Speak unto the children of Israel, saying, These are the living things which ye may eat among all the beasts that are on the earth.
 
-**[11:3]** Whatsoever parteth the hoof, and is clovenfooted, `and' cheweth the cud, among the beasts, that may ye eat.
+**[11:3]** Whatsoever parteth the hoof, and is clovenfooted, \`and' cheweth the cud, among the beasts, that may ye eat.
 
 **[11:4]** Nevertheless these shall ye not eat of them that chew the cud, or of them that part the hoof: the camel, because he cheweth the cud but parteth not the hoof, he is unclean unto you.
 
@@ -552,7 +552,7 @@
 
 **[11:24]** And by these ye shall become unclean: whosoever toucheth the carcass of them shall be unclean until the even;
 
-**[11:25]** And whosoever beareth `aught' of the carcass of them shall wash his clothes, and be unclean until the even.
+**[11:25]** And whosoever beareth \`aught' of the carcass of them shall wash his clothes, and be unclean until the even.
 
 **[11:26]** Every beast which parteth the hoof, and is not clovenfooted, nor cheweth the cud, is unclean unto you: every one that toucheth them shall be unclean.
 
@@ -570,15 +570,15 @@
 
 **[11:33]** And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean, and it ye shall break.
 
-**[11:34]** All food `therein' which may be eaten, that on which water cometh, shall be unclean; and all drink that may be drunk in every `such' vessel shall be unclean.
+**[11:34]** All food \`therein' which may be eaten, that on which water cometh, shall be unclean; and all drink that may be drunk in every \`such' vessel shall be unclean.
 
-**[11:35]** And every thing whereupon `any part' of their carcass falleth shall be unclean; whether oven, or range for pots, it shall be broken in pieces: they are unclean, and shall be unclean unto you.
+**[11:35]** And every thing whereupon \`any part' of their carcass falleth shall be unclean; whether oven, or range for pots, it shall be broken in pieces: they are unclean, and shall be unclean unto you.
 
 **[11:36]** Nevertheless a fountain or a pit wherein is a gathering of water shall be clean: but that which toucheth their carcass shall be unclean.
 
-**[11:37]** And if `aught' of their carcass fall upon any sowing seed which is to be sown, it is clean.
+**[11:37]** And if \`aught' of their carcass fall upon any sowing seed which is to be sown, it is clean.
 
-**[11:38]** But if water be put upon the seed, and `aught' of their carcass fall thereon, it is unclean unto you.
+**[11:38]** But if water be put upon the seed, and \`aught' of their carcass fall thereon, it is unclean unto you.
 
 **[11:39]** And if any beast, of which ye may eat, die; he that toucheth the carcass thereof shall be unclean until the even.
 
@@ -604,9 +604,9 @@
 
 **[12:3]** And in the eighth day the flesh of his foreskin shall be circumcised.
 
-**[12:4]** And she shall continue in the blood of `her' purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
+**[12:4]** And she shall continue in the blood of \`her' purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
 
-**[12:5]** But if she bear a maid-child, then she shall be unclean two weeks, as in her impurity; and she shall continue in the blood of `her' purifying threescore and six days.
+**[12:5]** But if she bear a maid-child, then she shall be unclean two weeks, as in her impurity; and she shall continue in the blood of \`her' purifying threescore and six days.
 
 **[12:6]** And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb a year old for a burnt-offering, and a young pigeon, or a turtle-dove, for a sin-offering, unto the door of the tent of meeting, unto the priest:
 
@@ -620,7 +620,7 @@
 
 **[13:3]** and the priest shall look on the plague in the skin of the flesh: and if the hair in the plague be turned white, and the appearance of the plague be deeper than the skin of his flesh, it is the plague of leprosy; and the priest shall look on him, and pronounce him unclean.
 
-**[13:4]** And if the bright spot be white in the skin of his flesh, and the appearance thereof be not deeper than the skin, and the hair thereof be not turned white, then the priest shall shut up `him that hath' the plague seven days:
+**[13:4]** And if the bright spot be white in the skin of his flesh, and the appearance thereof be not deeper than the skin, and the hair thereof be not turned white, then the priest shall shut up \`him that hath' the plague seven days:
 
 **[13:5]** and the priest shall look on him the seventh day: and, behold, if in his eyes the plague be at a stay, and the plague be not spread in the skin, then the priest shall shut him up seven days more:
 
@@ -636,9 +636,9 @@
 
 **[13:11]** it is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean: he shall not shut him up, for he is unclean.
 
-**[13:12]** And if the leprosy break out abroad in the skin, and the leprosy cover all the skin of `him that hath' the plague from his head even to his feet, as far as appeareth to the priest;
+**[13:12]** And if the leprosy break out abroad in the skin, and the leprosy cover all the skin of \`him that hath' the plague from his head even to his feet, as far as appeareth to the priest;
 
-**[13:13]** then the priest shall look; and, behold, if the leprosy have covered all his flesh, he shall pronounce `him' clean `that hath' the plague: it is all turned white: he is clean.
+**[13:13]** then the priest shall look; and, behold, if the leprosy have covered all his flesh, he shall pronounce \`him' clean \`that hath' the plague: it is all turned white: he is clean.
 
 **[13:14]** But whensoever raw flesh appeareth in him, he shall be unclean.
 
@@ -646,7 +646,7 @@
 
 **[13:16]** Or if the raw flesh turn again, and be changed unto white, then he shall come unto the priest;
 
-**[13:17]** and the priest shall look on him; and, behold, if the plague be turned into white, then the priest shall pronounce `him' clean `that hath' the plague: he is clean.
+**[13:17]** and the priest shall look on him; and, behold, if the plague be turned into white, then the priest shall pronounce \`him' clean \`that hath' the plague: he is clean.
 
 **[13:18]** And when the flesh hath in the skin thereof a boil, and it is healed,
 
@@ -660,7 +660,7 @@
 
 **[13:23]** But if the bright spot stay in its place, and be not spread, it is the scar of the boil; and the priest shall pronounce him clean.
 
-**[13:24]** Or when the flesh hath in the skin thereof a burning by fire, and the quick `flesh' of the burning become a bright spot, reddish-white, or white;
+**[13:24]** Or when the flesh hath in the skin thereof a burning by fire, and the quick \`flesh' of the burning become a bright spot, reddish-white, or white;
 
 **[13:25]** then the priest shall look upon it; and, behold, if the hair in the bright spot be turned white, and the appearance thereof be deeper than the skin; it is leprosy, it hath broken out in the burning: and the priest shall pronounce him unclean: it is the plague of leprosy.
 
@@ -674,11 +674,11 @@
 
 **[13:30]** then the priest shall look on the plague; and, behold, if the appearance thereof be deeper than the skin, and there be in it yellow thin hair, then the priest shall pronounce him unclean: it is a scall, it is leprosy of the head or of the beard.
 
-**[13:31]** And if the priest look on the plague of the scall, and, behold, the appearance thereof be not deeper than the skin, and there be no black hair in it, then the priest shall shut up `him that hath' the plague of the scall seven days:
+**[13:31]** And if the priest look on the plague of the scall, and, behold, the appearance thereof be not deeper than the skin, and there be no black hair in it, then the priest shall shut up \`him that hath' the plague of the scall seven days:
 
 **[13:32]** And in the seventh day the priest shall look on the plague; and, behold, if the scall be not spread, and there be in it no yellow hair, and the appearance of the scall be not deeper than the skin,
 
-**[13:33]** then he shall be shaven, but the scall shall he not shave; and the priest shall shut up `him that hath' the scall seven days more:
+**[13:33]** then he shall be shaven, but the scall shall he not shave; and the priest shall shut up \`him that hath' the scall seven days more:
 
 **[13:34]** and in the seventh day the priest shall look on the scall; and, behold, if the scall be not spread in the skin, and the appearance thereof be not deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.
 
@@ -692,9 +692,9 @@
 
 **[13:39]** then the priest shall look; and, behold, if the bright spots in the skin of their flesh be of a dull white, it is a tetter, it hath broken out in the skin; he is clean.
 
-**[13:40]** And if a man's hair be fallen off his head, he is bald; `yet' is he clean.
+**[13:40]** And if a man's hair be fallen off his head, he is bald; \`yet' is he clean.
 
-**[13:41]** And if his hair be fallen off from the front part of his head, he is forehead bald; `yet' is he clean.
+**[13:41]** And if his hair be fallen off from the front part of his head, he is forehead bald; \`yet' is he clean.
 
 **[13:42]** But if there be in the bald head, or the bald forehead, a reddish-white plague; it is leprosy breaking out in his bald head, or his bald forehead.
 
@@ -712,7 +712,7 @@
 
 **[13:49]** if the plague be greenish or reddish in the garment, or in the skin, or in the warp, or in the woof, or in anything of skin; it is the plague of leprosy, and shall be showed unto the priest.
 
-**[13:50]** And the priest shall look upon the plague, and shut up `that which hath' the plague seven days:
+**[13:50]** And the priest shall look upon the plague, and shut up \`that which hath' the plague seven days:
 
 **[13:51]** and he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in the skin, whatever service skin is used for; the plague is a fretting leprosy; it is unclean.
 
@@ -750,7 +750,7 @@
 
 **[14:9]** And it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, and he shall bathe his flesh in water, and he shall be clean.
 
-**[14:10]** And on the eighth day he shall take two he-lambs without blemish, and one ewe-lamb a year old without blemish, and three tenth parts `of an ephah' of fine flour for a meal-offering, mingled with oil, and one log of oil.
+**[14:10]** And on the eighth day he shall take two he-lambs without blemish, and one ewe-lamb a year old without blemish, and three tenth parts \`of an ephah' of fine flour for a meal-offering, mingled with oil, and one log of oil.
 
 **[14:11]** And the priest that cleanseth him shall set the man that is to be cleansed, and those things, before Jehovah, at the door of the tent of meeting.
 
@@ -772,7 +772,7 @@
 
 **[14:20]** and the priest shall offer the burnt-offering and the meal-offering upon the altar: and the priest shall make atonement for him, and he shall be clean.
 
-**[14:21]** And if he be poor, and cannot get so much, then he shall take one he-lamb for a trespass-offering to be waved, to make atonement for him, and one tenth part `of an ephah' of fine flour mingled with oil for a meal-offering, and a log of oil;
+**[14:21]** And if he be poor, and cannot get so much, then he shall take one he-lamb for a trespass-offering to be waved, to make atonement for him, and one tenth part \`of an ephah' of fine flour mingled with oil for a meal-offering, and a log of oil;
 
 **[14:22]** and two turtle-doves, or two young pigeons, such as he is able to get; and the one shall be a sin-offering, and the other a burnt-offering.
 
@@ -794,7 +794,7 @@
 
 **[14:31]** even such as he is able to get, the one for a sin-offering, and the other for a burnt-offering, with the meal-offering: and the priest shall make atonement for him that is to be cleansed before Jehovah.
 
-**[14:32]** This is the law of him in whom is the plague of leprosy, who is not able to get `that which pertaineth' to his cleansing.
+**[14:32]** This is the law of him in whom is the plague of leprosy, who is not able to get \`that which pertaineth' to his cleansing.
 
 **[14:33]** And Jehovah spake unto Moses and unto Aaron, saying,
 
@@ -882,7 +882,7 @@
 
 **[15:18]** The woman also with whom a man shall lie with seed of copulation, they shall both bathe themselves in water, and be unclean until the even.
 
-**[15:19]** And if a woman have an issue, `and' her issue in her flesh be blood, she shall be in her impurity seven days: and whosoever toucheth her shall be unclean until the even.
+**[15:19]** And if a woman have an issue, \`and' her issue in her flesh be blood, she shall be in her impurity seven days: and whosoever toucheth her shall be unclean until the even.
 
 **[15:20]** And everything that she lieth upon in her impurity shall be unclean: everything also that she sitteth upon shall be unclean.
 
@@ -1006,7 +1006,7 @@
 
 **[17:13]** And whatsoever man there be of the children of Israel, or of the strangers that sojourn among them, who taketh in hunting any beast or bird that may be eaten; he shall pour out the blood thereof, and cover it with dust.
 
-**[17:14]** For as to the life of all flesh, the blood thereof is `all one' with the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh; for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.
+**[17:14]** For as to the life of all flesh, the blood thereof is \`all one' with the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh; for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.
 
 **[17:15]** And every soul that eateth that which dieth of itself, or that which is torn of beasts, whether he be home-born or a sojourner, he shall wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean.
 
@@ -1022,7 +1022,7 @@
 
 **[18:5]** Ye shall therefore keep my statutes, and mine ordinances; which if a man do, he shall live in them: I am Jehovah.
 
-**[18:6]** None of you shall approach to any that are near of kin to him, to uncover `their' nakedness: I am Jehovah.
+**[18:6]** None of you shall approach to any that are near of kin to him, to uncover \`their' nakedness: I am Jehovah.
 
 **[18:7]** The nakedness of thy father, even the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness.
 
@@ -1046,13 +1046,13 @@
 
 **[18:17]** Thou shalt not uncover the nakedness of a woman and her daughter; thou shalt not take her son's daughter, or her daughter's daughter, to uncover her nakedness; they are near kinswomen: it is wickedness.
 
-**[18:18]** And thou shalt not take a wife to her sister, to be a rival `to her', to uncover her nakedness, besides the other in her life-time.
+**[18:18]** And thou shalt not take a wife to her sister, to be a rival \`to her', to uncover her nakedness, besides the other in her life-time.
 
 **[18:19]** And thou shalt not approach unto a woman to uncover her nakedness, as long as she is impure by her uncleanness.
 
 **[18:20]** And thou shalt not lie carnally with thy neighbor's wife, to defile thyself with her.
 
-**[18:21]** And thou shalt not give any of thy seed to make them pass through `the fire' to Molech; neither shalt thou profane the name of thy God: I am Jehovah.
+**[18:21]** And thou shalt not give any of thy seed to make them pass through \`the fire' to Molech; neither shalt thou profane the name of thy God: I am Jehovah.
 
 **[18:22]** Thou shalt not lie with mankind, as with womankind: it is abomination.
 
@@ -1206,7 +1206,7 @@
 
 **[21:3]** and for his sister a virgin, that is near unto him, that hath had no husband; for her may he defile himself.
 
-**[21:4]** He shall not defile himself, `being' a chief man among his people, to profane himself.
+**[21:4]** He shall not defile himself, \`being' a chief man among his people, to profane himself.
 
 **[21:5]** They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.
 
@@ -1278,13 +1278,13 @@
 
 **[22:15]** And they shall not profane the holy things of the children of Israel, which they offer unto Jehovah,
 
-**[22:16]** and `so' cause them to bear the iniquity that bringeth guilt, when they eat their holy things: for I am Jehovah who sanctifieth them.
+**[22:16]** and \`so' cause them to bear the iniquity that bringeth guilt, when they eat their holy things: for I am Jehovah who sanctifieth them.
 
 **[22:17]** And Jehovah spake unto Moses, saying,
 
 **[22:18]** Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whosoever he be of the house of Israel, or of the sojourners in Israel, that offereth his oblation, whether it be any of their vows, or any of their freewill-offerings, which they offer unto Jehovah for a burnt-offering;
 
-**[22:19]** that ye may be accepted, `ye shall offer' a male without blemish, of the bullocks, of the sheep, or of the goats.
+**[22:19]** that ye may be accepted, \`ye shall offer' a male without blemish, of the bullocks, of the sheep, or of the goats.
 
 **[22:20]** But whatsoever hath a blemish, that shall ye not offer: for it shall not be acceptable for you.
 
@@ -1294,7 +1294,7 @@
 
 **[22:23]** Either a bullock or a lamb that hath anything superfluous or lacking in his parts, that mayest thou offer for a freewill-offering; but for a vow it shall not be accepted.
 
-**[22:24]** That which hath its stones bruised, or crushed, or broken, or cut, ye shall not offer unto Jehovah; neither shall ye do `thus' in your land.
+**[22:24]** That which hath its stones bruised, or crushed, or broken, or cut, ye shall not offer unto Jehovah; neither shall ye do \`thus' in your land.
 
 **[22:25]** Neither from the hand of a foreigner shall ye offer the bread of your God of any of these; because their corruption is in them, there is a blemish in them: they shall not be accepted for you.
 
@@ -1338,7 +1338,7 @@
 
 **[23:12]** And in the day when ye wave the sheaf, ye shall offer a he-lamb without blemish a year old for a burnt-offering unto Jehovah.
 
-**[23:13]** And the meal-offering thereof shall be two tenth parts `of an ephah' of fine flour mingled with oil, an offering made by fire unto Jehovah for a sweet savor; and the drink-offering thereof shall be of wine, the fourth part of a hin.
+**[23:13]** And the meal-offering thereof shall be two tenth parts \`of an ephah' of fine flour mingled with oil, an offering made by fire unto Jehovah for a sweet savor; and the drink-offering thereof shall be of wine, the fourth part of a hin.
 
 **[23:14]** And ye shall eat neither bread, nor parched grain, nor fresh ears, until this selfsame day, until ye have brought the oblation of your God: it is a statute for ever throughout your generations in all your dwellings.
 
@@ -1346,7 +1346,7 @@
 
 **[23:16]** even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meal-offering unto Jehovah.
 
-**[23:17]** Ye shall bring out of your habitations two wave-loaves of two tenth parts `of an ephah': they shall be of fine flour, they shall be baken with leaven, for first-fruits unto Jehovah.
+**[23:17]** Ye shall bring out of your habitations two wave-loaves of two tenth parts \`of an ephah': they shall be of fine flour, they shall be baken with leaven, for first-fruits unto Jehovah.
 
 **[23:18]** And ye shall present with the bread seven lambs without blemish a year old, and one young bullock, and two rams: they shall be a burnt-offering unto Jehovah, with their meal-offering, and their drink-offerings, even an offering made by fire, of a sweet savor unto Jehovah.
 
@@ -1410,7 +1410,7 @@
 
 **[24:4]** He shall keep in order the lamps upon the pure candlestick before Jehovah continually.
 
-**[24:5]** And thou shalt take fine flour, and bake twelve cakes thereof: two tenth parts `of an ephah' shall be in one cake.
+**[24:5]** And thou shalt take fine flour, and bake twelve cakes thereof: two tenth parts \`of an ephah' shall be in one cake.
 
 **[24:6]** And thou shalt set them in two rows, six on a row, upon the pure table before Jehovah.
 
@@ -1432,7 +1432,7 @@
 
 **[24:15]** And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin.
 
-**[24:16]** And he that blasphemeth the name of Jehovah, he shall surely be put to death; all the congregation shall certainly stone him: as well the sojourner, as the home-born, when he blasphemeth the name `of Jehovah', shall be put to death.
+**[24:16]** And he that blasphemeth the name of Jehovah, he shall surely be put to death; all the congregation shall certainly stone him: as well the sojourner, as the home-born, when he blasphemeth the name \`of Jehovah', shall be put to death.
 
 **[24:17]** And he that smiteth any man mortally shall surely be put to death.
 
@@ -1468,7 +1468,7 @@
 
 **[25:10]** And ye shall hallow the fiftieth year, and proclaim liberty throughout the land unto all the inhabitants thereof: it shall be a jubilee unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.
 
-**[25:11]** A jubilee shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather `the grapes' in it of the undressed vines.
+**[25:11]** A jubilee shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather \`the grapes' in it of the undressed vines.
 
 **[25:12]** For it is a jubilee; it shall be holy unto you: ye shall eat the increase thereof out of the field.
 
@@ -1476,7 +1476,7 @@
 
 **[25:14]** And if thou sell aught unto thy neighbor, or buy of thy neighbor's hand, ye shall not wrong one another.
 
-**[25:15]** According to the number of years after the jubilee thou shalt buy of thy neighbor, `and' according unto the number of years of the crops he shall sell unto thee.
+**[25:15]** According to the number of years after the jubilee thou shalt buy of thy neighbor, \`and' according unto the number of years of the crops he shall sell unto thee.
 
 **[25:16]** According to the multitude of the years thou shalt increase the price thereof, and according to the fewness of the years thou shalt diminish the price of it; for the number of the crops doth he sell unto thee.
 
@@ -1516,13 +1516,13 @@
 
 **[25:34]** But the field of the suburbs of their cities may not be sold; for it is their perpetual possession.
 
-**[25:35]** And if thy brother be waxed poor, and his hand fail with thee; then thou shalt uphold him: `as' a stranger and a sojourner shall he live with thee.
+**[25:35]** And if thy brother be waxed poor, and his hand fail with thee; then thou shalt uphold him: \`as' a stranger and a sojourner shall he live with thee.
 
 **[25:36]** Take thou no interest of him or increase, but fear thy God; that thy brother may live with thee.
 
 **[25:37]** Thou shalt not give him thy money upon interest, nor give him thy victuals for increase.
 
-**[25:38]** I am Jehovah your God, who brought you forth out of the land of Egypt, to give you the land of Canaan, `and' to be your God.
+**[25:38]** I am Jehovah your God, who brought you forth out of the land of Egypt, to give you the land of Canaan, \`and' to be your God.
 
 **[25:39]** And if thy brother be waxed poor with thee, and sell himself unto thee; thou shalt not make him to serve as a bond-servant.
 
@@ -1540,7 +1540,7 @@
 
 **[25:46]** And ye shall make them an inheritance for your children after you, to hold for a possession; of them shall ye take your bondmen for ever: but over your brethren the children of Israel ye shall not rule, one over another, with rigor.
 
-**[25:47]** And if a stranger or sojourner with thee be waxed rich, and thy brother be waxed poor beside him, and sell himself unto the stranger `or' sojourner with thee, or to the stock of the stranger's family;
+**[25:47]** And if a stranger or sojourner with thee be waxed rich, and thy brother be waxed poor beside him, and sell himself unto the stranger \`or' sojourner with thee, or to the stock of the stranger's family;
 
 **[25:48]** after that he is sold he may be redeemed: one of his brethren may redeem him;
 
@@ -1554,7 +1554,7 @@
 
 **[25:53]** As a servant hired year by year shall he be with him: he shall not rule with rigor over him in thy sight.
 
-**[25:54]** And if he be not redeemed by these `means', then he shall go out in the year of jubilee, he, and his children with him.
+**[25:54]** And if he be not redeemed by these \`means', then he shall go out in the year of jubilee, he, and his children with him.
 
 **[25:55]** For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am Jehovah your God.
 
@@ -1680,7 +1680,7 @@
 
 **[27:15]** And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his.
 
-**[27:16]** And if a man shall sanctify unto Jehovah part of the field of his possession, then thy estimation shall be according to the sowing thereof: the sowing of a homer of barley `shall be valued' at fifty shekels of silver.
+**[27:16]** And if a man shall sanctify unto Jehovah part of the field of his possession, then thy estimation shall be according to the sowing thereof: the sowing of a homer of barley \`shall be valued' at fifty shekels of silver.
 
 **[27:17]** If he sanctify his field from the year of jubilee, according to thy estimation it shall stand.
 

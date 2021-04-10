@@ -4,13 +4,13 @@
 
 **[1:2]** Hear, O heavens, and give ear, O earth; for Jehovah hath spoken: I have nourished and brought up children, and they have rebelled against me.
 
-**[1:3]** The ox knoweth his owner, and the ass his master's crib; `but' Israel doth not know, my people doth not consider.
+**[1:3]** The ox knoweth his owner, and the ass his master's crib; \`but' Israel doth not know, my people doth not consider.
 
-**[1:4]** Ah sinful nation, a people laden with iniquity, a seed of evil-doers, children that deal corruptly! they have forsaken Jehovah, they have despised the Holy One of Israel, they are estranged `and gone' backward.
+**[1:4]** Ah sinful nation, a people laden with iniquity, a seed of evil-doers, children that deal corruptly! they have forsaken Jehovah, they have despised the Holy One of Israel, they are estranged \`and gone' backward.
 
 **[1:5]** Why will ye be still stricken, that ye revolt more and more? the whole head is sick, and the whole heart faint.
 
-**[1:6]** From the sole of the foot even unto the head there is no soundness in it; `but' wounds, and bruises, and fresh stripes: they have not been closed, neither bound up, neither mollified with oil.
+**[1:6]** From the sole of the foot even unto the head there is no soundness in it; \`but' wounds, and bruises, and fresh stripes: they have not been closed, neither bound up, neither mollified with oil.
 
 **[1:7]** Your country is desolate; your cities are burned with fire; your land, strangers devour it in your presence, and it is desolate, as overthrown by strangers.
 
@@ -72,7 +72,7 @@
 
 **[2:5]** O house of Jacob, come ye, and let us walk in the light of Jehovah.
 
-**[2:6]** For thou hast forsaken thy people the house of Jacob, because they are filled `with customs' from the east, and `are' soothsayers like the Philistines, and they strike hands with the children of foreigners.
+**[2:6]** For thou hast forsaken thy people the house of Jacob, because they are filled \`with customs' from the east, and \`are' soothsayers like the Philistines, and they strike hands with the children of foreigners.
 
 **[2:7]** And their land is full of silver and gold, neither is there any end of their treasures; their land also is full of horses, neither is there any end of their chariots.
 
@@ -116,17 +116,17 @@
 
 **[3:5]** And the people shall be oppressed, every one by another, and every one by his neighbor: the child shall behave himself proudly against the old man, and the base against the honorable.
 
-**[3:6]** When a man shall take hold of his brother in the house of his father, `saying', Thou hast clothing, be thou our ruler, and let this ruin be under thy hand;
+**[3:6]** When a man shall take hold of his brother in the house of his father, \`saying', Thou hast clothing, be thou our ruler, and let this ruin be under thy hand;
 
-**[3:7]** in that day shall he lift up `his voice', saying, I will not be a healer; for in my house is neither bread nor clothing: ye shall not make me ruler of the people.
+**[3:7]** in that day shall he lift up \`his voice', saying, I will not be a healer; for in my house is neither bread nor clothing: ye shall not make me ruler of the people.
 
 **[3:8]** For Jerusalem is ruined, and Judah is fallen; because their tongue and their doings are against Jehovah, to provoke the eyes of his glory.
 
 **[3:9]** The show of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have done evil unto themselves.
 
-**[3:10]** Say ye of the righteous, that `it shall be' well `with him'; for they shall eat the fruit of their doings.
+**[3:10]** Say ye of the righteous, that \`it shall be' well \`with him'; for they shall eat the fruit of their doings.
 
-**[3:11]** Woe unto the wicked! `it shall be' ill `with him'; for what his hands have done shall be done unto him.
+**[3:11]** Woe unto the wicked! \`it shall be' ill \`with him'; for what his hands have done shall be done unto him.
 
 **[3:12]** As for my people, children are their oppressors, and women rule over them. O my people, they that lead thee cause thee to err, and destroy the way of thy paths.
 
@@ -166,7 +166,7 @@
 
 **[4:4]** when the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof, by the spirit of justice, and by the spirit of burning.
 
-**[4:5]** And Jehovah will create over the whole habitation of mount Zion, and over her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night; for over all the glory `shall be spread' a covering.
+**[4:5]** And Jehovah will create over the whole habitation of mount Zion, and over her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night; for over all the glory \`shall be spread' a covering.
 
 **[4:6]** And there shall be a pavilion for a shade in the day-time from the heat, and for a refuge and for a covert from storm and from rain.
 
@@ -186,17 +186,17 @@
 
 **[5:8]** Woe unto them that join house to house, that lay field to field, till there be no room, and ye be made to dwell alone in the midst of the land!
 
-**[5:9]** In mine ears `saith' Jehovah of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant.
+**[5:9]** In mine ears \`saith' Jehovah of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant.
 
-**[5:10]** For ten acres of vineyard shall yield one bath, and a homer of seed shall yield `but' an ephah.
+**[5:10]** For ten acres of vineyard shall yield one bath, and a homer of seed shall yield \`but' an ephah.
 
 **[5:11]** Woe unto them that rise up early in the morning, that they may follow strong drink; that tarry late into the night, till wine inflame them!
 
-**[5:12]** And the harp and the lute, the tabret and the pipe, and wine, are `in' their feasts; but they regard not the work of Jehovah, neither have they considered the operation of his hands.
+**[5:12]** And the harp and the lute, the tabret and the pipe, and wine, are \`in' their feasts; but they regard not the work of Jehovah, neither have they considered the operation of his hands.
 
 **[5:13]** Therefore my people are gone into captivity for lack of knowledge; and their honorable men are famished, and their multitude are parched with thirst.
 
-**[5:14]** Therefore Sheol hath enlarged its desire, and opened its mouth without measure; and their glory, and their multitude, and their pomp, and he that rejoiceth among them, descend `into it'.
+**[5:14]** Therefore Sheol hath enlarged its desire, and opened its mouth without measure; and their glory, and their multitude, and their pomp, and he that rejoiceth among them, descend \`into it'.
 
 **[5:15]** And the mean man is bowed down, and the great man is humbled, and the eyes of the lofty are humbled:
 
@@ -228,7 +228,7 @@
 
 **[5:29]** their roaring shall be like a lioness, they shall roar like young lions; yea, they shall roar, and lay hold of the prey, and carry it away safe, and there shall be none to deliver.
 
-**[5:30]** And they shall roar against them in that day like the roaring of the sea: and if one look unto the land, behold, darkness `and' distress; and the light is darkened in the clouds thereof.
+**[5:30]** And they shall roar against them in that day like the roaring of the sea: and if one look unto the land, behold, darkness \`and' distress; and the light is darkened in the clouds thereof.
 
 **[6:1]** In the year that king Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and his train filled the temple.
 
@@ -288,13 +288,13 @@
 
 **[7:16]** For before the child shall know to refuse the evil, and choose the good, the land whose two kings thou abhorrest shall be forsaken.
 
-**[7:17]** Jehovah will bring upon thee, and upon thy people, and upon thy father's house, days that have not come, from the day that Ephraim departed from Judah-`even' the king of Assyria.
+**[7:17]** Jehovah will bring upon thee, and upon thy people, and upon thy father's house, days that have not come, from the day that Ephraim departed from Judah-\`even' the king of Assyria.
 
 **[7:18]** And it shall come to pass in that day, that Jehovah will hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.
 
 **[7:19]** And they shall come, and shall rest all of them in the desolate valleys, and in the clefts of the rocks, and upon all thorn-hedges, and upon all pastures.
 
-**[7:20]** In that day will the Lord shave with a razor that is hired in the parts beyond the River, `even' with the king of Assyria, the head and the hair of the feet; and it shall also consume the beard.
+**[7:20]** In that day will the Lord shave with a razor that is hired in the parts beyond the River, \`even' with the king of Assyria, the head and the hair of the feet; and it shall also consume the beard.
 
 **[7:21]** And it shall come to pass in that day, that a man shall keep alive a young cow, and two sheep;
 
@@ -318,7 +318,7 @@
 
 **[8:6]** Forasmuch as this people have refused the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah's son;
 
-**[8:7]** now therefore, behold, the Lord bringeth up upon them the waters of the River, strong and many, `even' the king of Assyria and all his glory: and it shall come up over all its channels, and go over all its banks;
+**[8:7]** now therefore, behold, the Lord bringeth up upon them the waters of the River, strong and many, \`even' the king of Assyria and all his glory: and it shall come up over all its channels, and go over all its banks;
 
 **[8:8]** and it shall sweep onward into Judah; it shall overflow and pass through; it shall reach even to the neck; and the stretching out of its wings shall fill the breadth of thy land, O Immanuel.
 
@@ -328,7 +328,7 @@
 
 **[8:11]** For Jehovah spake thus to me with a strong hand, and instructed me not to walk in the way of this people, saying,
 
-**[8:12]** Say ye not, A conspiracy, concerning all whereof this people shall say, A conspiracy; neither fear ye their fear, nor be in dread `thereof'.
+**[8:12]** Say ye not, A conspiracy, concerning all whereof this people shall say, A conspiracy; neither fear ye their fear, nor be in dread \`thereof'.
 
 **[8:13]** Jehovah of hosts, him shall ye sanctify; and let him be your fear, and let him be your dread.
 
@@ -342,13 +342,13 @@
 
 **[8:18]** Behold, I and the children whom Jehovah hath given me are for signs and for wonders in Israel from Jehovah of hosts, who dwelleth in mount Zion.
 
-**[8:19]** And when they shall say unto you, Seek unto them that have familiar spirits and unto the wizards, that chirp and that mutter: should not a people seek unto their God? on behalf of the living `should they seek' unto the dead?
+**[8:19]** And when they shall say unto you, Seek unto them that have familiar spirits and unto the wizards, that chirp and that mutter: should not a people seek unto their God? on behalf of the living \`should they seek' unto the dead?
 
 **[8:20]** To the law and to the testimony! if they speak not according to this word, surely there is no morning for them.
 
 **[8:21]** And they shall pass through it, sore distressed and hungry; and it shall come to pass that, when they shall be hungry, they shall fret themselves, and curse by their king and by their God, and turn their faces upward:
 
-**[8:22]** and they shall look unto the earth, and behold, distress and darkness, the gloom of anguish; and into thick darkness `they shall be' driven away.
+**[8:22]** and they shall look unto the earth, and behold, distress and darkness, the gloom of anguish; and into thick darkness \`they shall be' driven away.
 
 **[9:1]** But there shall be no gloom to her that was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali; but in the latter time hath he made it glorious, by the way of the sea, beyond the Jordan, Galilee of the nations.
 
@@ -366,7 +366,7 @@
 
 **[9:8]** The Lord sent a word into Jacob, and it hath lighted upon Israel.
 
-**[9:9]** And all the people shall know, `even' Ephraim and the inhabitant of Samaria, that say in pride and in stoutness of heart,
+**[9:9]** And all the people shall know, \`even' Ephraim and the inhabitant of Samaria, that say in pride and in stoutness of heart,
 
 **[9:10]** The bricks are fallen, but we will build with hewn stone; the sycomores are cut down, but we will put cedars in their place.
 
@@ -416,11 +416,11 @@
 
 **[10:12]** Wherefore it shall come to pass, that, when the Lord hath performed his whole work upon mount Zion and on Jerusalem, I will punish the fruit of the stout heart of the king of Assyria, and the glory of his high looks.
 
-**[10:13]** For he hath said, By the strength of my hand I have done it, and by my wisdom; for I have understanding: and I have removed the bounds of the peoples, and have robbed their treasures, and like a valiant man I have brought down them that sit `on thrones':
+**[10:13]** For he hath said, By the strength of my hand I have done it, and by my wisdom; for I have understanding: and I have removed the bounds of the peoples, and have robbed their treasures, and like a valiant man I have brought down them that sit \`on thrones':
 
 **[10:14]** and my hand hath found as a nest the riches of the peoples; and as one gathereth eggs that are forsaken, have I gathered all the earth: and there was none that moved the wing, or that opened the mouth, or chirped.
 
-**[10:15]** Shall the axe boast itself against him that heweth therewith? shall the saw magnify itself against him that wieldeth it? as if a rod should wield them that lift it up, `or' as if a staff should lift up `him that is' not wood.
+**[10:15]** Shall the axe boast itself against him that heweth therewith? shall the saw magnify itself against him that wieldeth it? as if a rod should wield them that lift it up, \`or' as if a staff should lift up \`him that is' not wood.
 
 **[10:16]** Therefore will the Lord, Jehovah of hosts, send among his fat ones leanness; and under his glory there shall be kindled a burning like the burning of fire.
 
@@ -432,15 +432,15 @@
 
 **[10:20]** And it shall come to pass in that day, that the remnant of Israel, and they that are escaped of the house of Jacob, shall no more again lean upon him that smote them, but shall lean upon Jehovah, the Holy One of Israel, in truth.
 
-**[10:21]** A remnant shall return, `even' the remnant of Jacob, unto the mighty God.
+**[10:21]** A remnant shall return, \`even' the remnant of Jacob, unto the mighty God.
 
-**[10:22]** For though thy people, Israel, be as the sand of the sea, `only' a remnant of them shall return: a destruction `is' determined, overflowing with righteousness.
+**[10:22]** For though thy people, Israel, be as the sand of the sea, \`only' a remnant of them shall return: a destruction \`is' determined, overflowing with righteousness.
 
 **[10:23]** For a full end, and that determined, will the Lord, Jehovah of hosts, make in the midst of all the earth.
 
 **[10:24]** Therefore thus saith the Lord, Jehovah of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian, though he smite thee with the rod, and lift up his staff against thee, after the manner of Egypt.
 
-**[10:25]** For yet a very little while, and the indignation `against thee' shall be accomplished, and mine anger `shall be directed' to his destruction.
+**[10:25]** For yet a very little while, and the indignation \`against thee' shall be accomplished, and mine anger \`shall be directed' to his destruction.
 
 **[10:26]** And Jehovah of hosts will stir up against him a scourge, as in the slaughter of Midian at the rock of Oreb: and his rod will be over the sea, and he will lift it up after the manner of Egypt.
 
@@ -494,7 +494,7 @@
 
 **[12:1]** And in that day thou shalt say, I will give thanks unto thee, O Jehovah; for though thou wast angry with me, thine anger is turned away and thou comfortest me.
 
-**[12:2]** Behold, God is my salvation; I will trust, and will not be afraid; for Jehovah, `even' Jehovah, is my strength and song; and he is become my salvation.
+**[12:2]** Behold, God is my salvation; I will trust, and will not be afraid; for Jehovah, \`even' Jehovah, is my strength and song; and he is become my salvation.
 
 **[12:3]** Therefore with joy shall ye draw water out of the wells of salvation.
 
@@ -518,13 +518,13 @@
 
 **[13:7]** Therefore shall all hands be feeble, and every heart of man shall melt:
 
-**[13:8]** and they shall be dismayed; pangs and sorrows shall take hold `of them'; they shall be in pain as a woman in travail: they shall look in amazement one at another; their faces `shall be' faces of flame.
+**[13:8]** and they shall be dismayed; pangs and sorrows shall take hold \`of them'; they shall be in pain as a woman in travail: they shall look in amazement one at another; their faces \`shall be' faces of flame.
 
 **[13:9]** Behold, the day of Jehovah cometh, cruel, with wrath and fierce anger; to make the land a desolation, and to destroy the sinners thereof out of it.
 
 **[13:10]** For the stars of heaven and the constellations thereof shall not give their light; the sun shall be darkened in its going forth, and the moon shall not cause its light to shine.
 
-**[13:11]** And I will punish the world for `their' evil, and the wicked for their iniquity: and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
+**[13:11]** And I will punish the world for \`their' evil, and the wicked for their iniquity: and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
 
 **[13:12]** I will make a man more rare than fine gold, even a man than the pure gold of Ophir.
 
@@ -538,7 +538,7 @@
 
 **[13:17]** Behold, I will stir up the Medes against them, who shall not regard silver, and as for gold, they shall not delight in it.
 
-**[13:18]** And `their' bows shall dash the young men in pieces; and they shall have no pity on the fruit of the womb; their eye shall not spare children.
+**[13:18]** And \`their' bows shall dash the young men in pieces; and they shall have no pity on the fruit of the womb; their eye shall not spare children.
 
 **[13:19]** And Babylon, the glory of kingdoms, the beauty of the Chaldeans' pride, shall be as when God overthrew Sodom and Gomorrah.
 
@@ -560,15 +560,15 @@
 
 **[14:6]** that smote the peoples in wrath with a continual stroke, that ruled the nations in anger, with a persecution that none restrained.
 
-**[14:7]** The whole earth is at rest, `and' is quiet: they break forth into singing.
+**[14:7]** The whole earth is at rest, \`and' is quiet: they break forth into singing.
 
-**[14:8]** Yea, the fir-trees rejoice at thee, `and' the cedars of Lebanon, `saying', Since thou art laid low, no hewer is come up against us.
+**[14:8]** Yea, the fir-trees rejoice at thee, \`and' the cedars of Lebanon, \`saying', Since thou art laid low, no hewer is come up against us.
 
 **[14:9]** Sheol from beneath is moved for thee to meet thee at thy coming; it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
 
 **[14:10]** All they shall answer and say unto thee, Art thou also become weak as we? art thou become like unto us?
 
-**[14:11]** Thy pomp is brought down to Sheol, `and' the noise of thy viols: the worm is spread under thee, and worms cover thee.
+**[14:11]** Thy pomp is brought down to Sheol, \`and' the noise of thy viols: the worm is spread under thee, and worms cover thee.
 
 **[14:12]** How art thou fallen from heaven, O day-star, son of the morning! how art thou cut down to the ground, that didst lay low the nations!
 
@@ -578,7 +578,7 @@
 
 **[14:15]** Yet thou shalt be brought down to Sheol, to the uttermost parts of the pit.
 
-**[14:16]** They that see thee shall gaze at thee, they shall consider thee, `saying', Is this the man that made the earth to tremble, that did shake kingdoms;
+**[14:16]** They that see thee shall gaze at thee, they shall consider thee, \`saying', Is this the man that made the earth to tremble, that did shake kingdoms;
 
 **[14:17]** that made the world as a wilderness, and overthrew the cities thereof; that let not loose his prisoners to their home?
 
@@ -612,7 +612,7 @@
 
 **[14:32]** What then shall one answer the messengers of the nation? That Jehovah hath founded Zion, and in her shall the afflicted of his people take refuge.
 
-**[15:1]** The burden of Moab. For in a night Ar of Moab is laid waste, `and' brought to nought; for in a night Kir of Moab is laid waste, `and' brought to nought.
+**[15:1]** The burden of Moab. For in a night Ar of Moab is laid waste, \`and' brought to nought; for in a night Kir of Moab is laid waste, \`and' brought to nought.
 
 **[15:2]** They are gone up to Bayith, and to Dibon, to the high places, to weep: Moab waileth over Nebo, and over Medeba; on all their heads is baldness, every beard is cut off.
 
@@ -620,7 +620,7 @@
 
 **[15:4]** And Heshbon crieth out, and Elealeh; their voice is heard even unto Jahaz: therefore the armed men of Moab cry aloud; his soul trembleth within him.
 
-**[15:5]** My heart crieth out for Moab; her nobles `flee' unto Zoar, to Eglath-shelishi-yah: for by the ascent of Luhith with weeping they go up; for in the way of Horonaim they raise up a cry of destruction.
+**[15:5]** My heart crieth out for Moab; her nobles \`flee' unto Zoar, to Eglath-shelishi-yah: for by the ascent of Luhith with weeping they go up; for in the way of Horonaim they raise up a cry of destruction.
 
 **[15:6]** For the waters of Nimrim shall be desolate; for the grass is withered away, the tender grass faileth, there is no green thing.
 
@@ -640,15 +640,15 @@
 
 **[16:5]** And a throne shall be established in lovingkindness; and one shall sit thereon in truth, in the tent of David, judging, and seeking justice, and swift to do righteousness.
 
-**[16:6]** We have heard of the pride of Moab, `that' he is very proud; even of his arrogancy, and his pride, and his wrath; his boastings are nought.
+**[16:6]** We have heard of the pride of Moab, \`that' he is very proud; even of his arrogancy, and his pride, and his wrath; his boastings are nought.
 
 **[16:7]** Therefore shall Moab wail for Moab, every one shall wail: for the raisin-cakes of Kir-hareseth shall ye mourn, utterly stricken.
 
-**[16:8]** For the fields of Heshbon languish, `and' the vine of Sibmah; the lords of the nations have broken down the choice branches thereof, which reached even unto Jazer, which wandered into the wilderness; its shoots were spread abroad, they passed over the sea.
+**[16:8]** For the fields of Heshbon languish, \`and' the vine of Sibmah; the lords of the nations have broken down the choice branches thereof, which reached even unto Jazer, which wandered into the wilderness; its shoots were spread abroad, they passed over the sea.
 
-**[16:9]** Therefore I will weep with the weeping of Jazer for the vine of Sibmah; I will water thee with my tears, O Heshbon, and Elealeh: for upon thy summer fruits and upon thy harvest the `battle' shout is fallen.
+**[16:9]** Therefore I will weep with the weeping of Jazer for the vine of Sibmah; I will water thee with my tears, O Heshbon, and Elealeh: for upon thy summer fruits and upon thy harvest the \`battle' shout is fallen.
 
-**[16:10]** And gladness is taken away, and joy out of the fruitful field; and in the vineyards there shall be no singing, neither joyful noise: no treader shall tread out wine in the presses; I have made the `vintage' shout to cease.
+**[16:10]** And gladness is taken away, and joy out of the fruitful field; and in the vineyards there shall be no singing, neither joyful noise: no treader shall tread out wine in the presses; I have made the \`vintage' shout to cease.
 
 **[16:11]** Wherefore my heart soundeth like a harp for Moab, and mine inward parts for Kir-heres.
 
@@ -684,25 +684,25 @@
 
 **[17:13]** The nations shall rush like the rushing of many waters: but he shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like the whirling dust before the storm.
 
-**[17:14]** At eventide, behold, terror; `and' before the morning they are not. This is the portion of them that despoil us, and the lot of them that rob us.
+**[17:14]** At eventide, behold, terror; \`and' before the morning they are not. This is the portion of them that despoil us, and the lot of them that rob us.
 
 **[18:1]** Ah, the land of the rustling of wings, which is beyond the rivers of Ethiopia;
 
-**[18:2]** that sendeth ambassadors by the sea, even in vessels of papyrus upon the waters, `saying', Go, ye swift messengers, to a nation tall and smooth, to a people terrible from their beginning onward, a nation that meteth out and treadeth down, whose land the rivers divide!
+**[18:2]** that sendeth ambassadors by the sea, even in vessels of papyrus upon the waters, \`saying', Go, ye swift messengers, to a nation tall and smooth, to a people terrible from their beginning onward, a nation that meteth out and treadeth down, whose land the rivers divide!
 
 **[18:3]** All ye inhabitants of the world, and ye dwellers on the earth, when an ensign is lifted up on the mountains, see ye; and when the trumpet is blown, hear ye.
 
 **[18:4]** For thus hath Jehovah said unto me, I will be still, and I will behold in my dwelling-place, like clear heat in sunshine, like a cloud of dew in the heat of harvest.
 
-**[18:5]** For before the harvest, when the blossom is over, and the flower becometh a ripening grape, he will cut off the sprigs with pruning-hooks, and the spreading branches will he take away `and' cut down.
+**[18:5]** For before the harvest, when the blossom is over, and the flower becometh a ripening grape, he will cut off the sprigs with pruning-hooks, and the spreading branches will he take away \`and' cut down.
 
 **[18:6]** They shall be left together unto the ravenous birds of the mountains, and to the beasts of the earth; and the ravenous birds shall summer upon them, and all the beasts of the earth shall winter upon them.
 
-**[18:7]** In that time shall a present be brought unto Jehovah of hosts `from' a people tall and smooth, even from a people terrible from their beginning onward, a nation that meteth out and treadeth down, whose land the rivers divide, to the place of the name of Jehovah of hosts, the mount Zion.
+**[18:7]** In that time shall a present be brought unto Jehovah of hosts \`from' a people tall and smooth, even from a people terrible from their beginning onward, a nation that meteth out and treadeth down, whose land the rivers divide, to the place of the name of Jehovah of hosts, the mount Zion.
 
 **[19:1]** The burden of Egypt. Behold, Jehovah rideth upon a swift cloud, and cometh unto Egypt: and the idols of Egypt shall tremble at his presence; and the heart of Egypt shall melt in the midst of it.
 
-**[19:2]** And I will stir up the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbor; city against city, `and' kingdom against kingdom.
+**[19:2]** And I will stir up the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbor; city against city, \`and' kingdom against kingdom.
 
 **[19:3]** And the spirit of Egypt shall fail in the midst of it; and I will destroy the counsel thereof: and they shall seek unto the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.
 
@@ -718,7 +718,7 @@
 
 **[19:9]** Moreover they that work in combed flax, and they that weave white cloth, shall be confounded.
 
-**[19:10]** And the pillars `of Egypt' shall be broken in pieces; all they that work for hire `shall be' grieved in soul.
+**[19:10]** And the pillars \`of Egypt' shall be broken in pieces; all they that work for hire \`shall be' grieved in soul.
 
 **[19:11]** The princes of Zoan are utterly foolish; the counsel of the wisest counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings?
 
@@ -806,7 +806,7 @@
 
 **[22:5]** For it is a day of discomfiture, and of treading down, and of perplexity, from the Lord, Jehovah of hosts, in the valley of vision; a breaking down of the walls, and a crying to the mountains.
 
-**[22:6]** And Elam bare the quiver, with chariots of men `and' horsemen; and Kir uncovered the shield.
+**[22:6]** And Elam bare the quiver, with chariots of men \`and' horsemen; and Kir uncovered the shield.
 
 **[22:7]** And it came to pass, that thy choicest valleys were full of chariots, and the horsemen set themselves in array at the gate.
 
@@ -824,13 +824,13 @@
 
 **[22:14]** And Jehovah of hosts revealed himself in mine ears, Surely this iniquity shall not be forgiven you till ye die, saith the Lord, Jehovah of hosts.
 
-**[22:15]** Thus saith the Lord, Jehovah of hosts, Go, get thee unto this treasurer, even unto Shebna, who is over the house, `and say',
+**[22:15]** Thus saith the Lord, Jehovah of hosts, Go, get thee unto this treasurer, even unto Shebna, who is over the house, \`and say',
 
 **[22:16]** What doest thou here? and whom has thou here, that thou hast hewed thee out here a sepulchre? hewing him out a sepulchre on high, graving a habitation for himself in the rock!
 
-**[22:17]** Behold, Jehovah, like a `strong' man, will hurl thee away violently; yea, he will wrap thee up closely.
+**[22:17]** Behold, Jehovah, like a \`strong' man, will hurl thee away violently; yea, he will wrap thee up closely.
 
-**[22:18]** He will surely wind thee round and round, `and toss thee' like a ball into a large country; there shalt thou die, and there shall be the chariots of thy glory, thou shame of thy lord's house.
+**[22:18]** He will surely wind thee round and round, \`and toss thee' like a ball into a large country; there shalt thou die, and there shall be the chariots of thy glory, thou shame of thy lord's house.
 
 **[22:19]** And I will thrust thee from thine office; and from thy station shalt thou be pulled down.
 
@@ -858,7 +858,7 @@
 
 **[23:6]** Pass ye over to Tarshish; wail, ye inhabitants of the coast.
 
-**[23:7]** Is this your joyous `city', whose antiquity is of ancient days, whose feet carried her afar off to sojourn?
+**[23:7]** Is this your joyous \`city', whose antiquity is of ancient days, whose feet carried her afar off to sojourn?
 
 **[23:8]** Who hath purposed this against Tyre, the bestower of crowns, whose merchants are princes, whose traffickers are the honorable of the earth?
 
@@ -928,7 +928,7 @@
 
 **[24:23]** Then the moon shall be confounded, and the sun ashamed; for Jehovah of hosts will reign in mount Zion, and in Jerusalem; and before his elders shall be glory.
 
-**[25:1]** O Jehovah, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things, `even' counsels of old, in faithfulness `and' truth.
+**[25:1]** O Jehovah, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things, \`even' counsels of old, in faithfulness \`and' truth.
 
 **[25:2]** For thou hast made of a city a heap, of a fortified city a ruin, a palace of strangers to be no city; it shall never be built.
 
@@ -948,7 +948,7 @@
 
 **[25:10]** For in this mountain will the hand of Jehovah rest; and Moab shall be trodden down in his place, even as straw is trodden down in the water of the dung-hill.
 
-**[25:11]** And he shall spread forth his hands in the midst thereof, as he that swimmeth spreadeth forth `his hands' to swim; but `Jehovah' will lay low his pride together with the craft of his hands.
+**[25:11]** And he shall spread forth his hands in the midst thereof, as he that swimmeth spreadeth forth \`his hands' to swim; but \`Jehovah' will lay low his pride together with the craft of his hands.
 
 **[25:12]** And the high fortress of thy walls hath he brought down, laid low, and brought to the ground, even to the dust.
 
@@ -956,9 +956,9 @@
 
 **[26:2]** Open ye the gates, that the righteous nation which keepeth faith may enter in.
 
-**[26:3]** Thou wilt keep `him' in perfect peace, `whose' mind `is' stayed `on thee'; because he trusteth in thee.
+**[26:3]** Thou wilt keep \`him' in perfect peace, \`whose' mind \`is' stayed \`on thee'; because he trusteth in thee.
 
-**[26:4]** Trust ye in Jehovah for ever; for in Jehovah, `even' Jehovah, is an everlasting rock.
+**[26:4]** Trust ye in Jehovah for ever; for in Jehovah, \`even' Jehovah, is an everlasting rock.
 
 **[26:5]** For he hath brought down them that dwell on high, the lofty city: he layeth it low, he layeth it low even to the ground; he bringeth it even to the dust.
 
@@ -966,29 +966,29 @@
 
 **[26:7]** The way of the just is uprightness: thou that art upright dost direct the path of the just.
 
-**[26:8]** Yea, in the way of thy judgments, O Jehovah, have we waited for thee; to thy name, even to thy memorial `name', is the desire of our soul.
+**[26:8]** Yea, in the way of thy judgments, O Jehovah, have we waited for thee; to thy name, even to thy memorial \`name', is the desire of our soul.
 
 **[26:9]** With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee earnestly: for when thy judgments are in the earth, the inhabitants of the world learn righteousness.
 
 **[26:10]** Let favor be showed to the wicked, yet will he not learn righteousness; in the land of uprightness will he deal wrongfully, and will not behold the majesty of Jehovah.
 
-**[26:11]** Jehovah, thy hand is lifted up, yet they see not: but they shall see `thy' zeal for the people, and be put to shame; yea, fire shall devour thine adversaries.
+**[26:11]** Jehovah, thy hand is lifted up, yet they see not: but they shall see \`thy' zeal for the people, and be put to shame; yea, fire shall devour thine adversaries.
 
 **[26:12]** Jehovah, thou wilt ordain peace for us; for thou hast also wrought all our works for us.
 
 **[26:13]** O Jehovah our God, other lords besides thee have had dominion over us; but by thee only will we make mention of thy name.
 
-**[26:14]** `They are' dead, they shall not live; `they are' deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all remembrance of them to perish.
+**[26:14]** \`They are' dead, they shall not live; \`they are' deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all remembrance of them to perish.
 
 **[26:15]** Thou hast increased the nation, O Jehovah, thou hast increased the nation; thou art glorified; thou hast enlarged all the borders of the land.
 
-**[26:16]** Jehovah, in trouble have they visited thee; they poured out a prayer `when' thy chastening was upon them.
+**[26:16]** Jehovah, in trouble have they visited thee; they poured out a prayer \`when' thy chastening was upon them.
 
 **[26:17]** Like as a woman with child, that draweth near the time of her delivery, is in pain and crieth out in her pangs; so we have been before thee, O Jehovah.
 
 **[26:18]** We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.
 
-**[26:19]** Thy dead shall live; my dead bodies shall arise. Awake and sing, ye that dwell in the dust; for thy dew is `as' the dew of herbs, and the earth shall cast forth the dead.
+**[26:19]** Thy dead shall live; my dead bodies shall arise. Awake and sing, ye that dwell in the dust; for thy dew is \`as' the dew of herbs, and the earth shall cast forth the dead.
 
 **[26:20]** Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself for a little moment, until the indignation be overpast.
 
@@ -1002,21 +1002,21 @@
 
 **[27:4]** Wrath is not in me: would that the briers and thorns were against me in battle! I would march upon them, I would burn them together.
 
-**[27:5]** Or else let him take hold of my strength, that he may make peace with me; `yea', let him make peace with me.
+**[27:5]** Or else let him take hold of my strength, that he may make peace with me; \`yea', let him make peace with me.
 
 **[27:6]** In days to come shall Jacob take root; Israel shall blossom and bud; and they shall fill the face of the world with fruit.
 
 **[27:7]** Hath he smitten them as he smote those that smote them? or are they slain according to the slaughter of them that were slain by them?
 
-**[27:8]** In measure, when thou sendest them away, thou dost content with them; he hath removed `them' with his rough blast in the day of the east wind.
+**[27:8]** In measure, when thou sendest them away, thou dost content with them; he hath removed \`them' with his rough blast in the day of the east wind.
 
-**[27:9]** Therefore by this shall the iniquity of Jacob be forgiven, and this is all the fruit of taking away his sin: that he maketh all the stones of the altar as chalkstones that are beaten in sunder, `so that' the Asherim and the sun-images shall rise no more.
+**[27:9]** Therefore by this shall the iniquity of Jacob be forgiven, and this is all the fruit of taking away his sin: that he maketh all the stones of the altar as chalkstones that are beaten in sunder, \`so that' the Asherim and the sun-images shall rise no more.
 
 **[27:10]** For the fortified city is solitary, a habitation deserted and forsaken, like the wilderness: there shall the calf feed, and there shall he lie down, and consume the branches thereof.
 
 **[27:11]** When the boughs thereof are withered, they shall be broken off; the women shall come, and set them on fire; for it is a people of no understanding: therefore he that made them will not have compassion upon them, and he that formed them will show them no favor.
 
-**[27:12]** And it shall come to pass in that day, that Jehovah will beat off `his fruit' from the flood of the River unto the brook of Egypt; and ye shall be gathered one by one, O ye children of Israel.
+**[27:12]** And it shall come to pass in that day, that Jehovah will beat off \`his fruit' from the flood of the River unto the brook of Egypt; and ye shall be gathered one by one, O ye children of Israel.
 
 **[27:13]** And it shall come to pass in that day, that a great trumpet shall be blown; and they shall come that were ready to perish in the land of Assyria, and they that were outcasts in the land of Egypt; and they shall worship Jehovah in the holy mountain at Jerusalem.
 
@@ -1034,13 +1034,13 @@
 
 **[28:7]** And even these reel with wine, and stagger with strong drink; the priest and the prophet reel with strong drink, they are swallowed up of wine, they stagger with strong drink; they err in vision, they stumble in judgment.
 
-**[28:8]** For all tables are full of vomit `and' filthiness, `so that there is' no place `clean'.
+**[28:8]** For all tables are full of vomit \`and' filthiness, \`so that there is' no place \`clean'.
 
 **[28:9]** Whom will he teach knowledge? and whom will he make to understand the message? them that are weaned from the milk, and drawn from the breasts?
 
 **[28:10]** For it is precept upon precept, precept upon precept; line upon line, line upon line; here a little, there a little.
 
-**[28:11]** Nay, but by `men of' strange lips and with another tongue will he speak to this people;
+**[28:11]** Nay, but by \`men of' strange lips and with another tongue will he speak to this people;
 
 **[28:12]** to whom he said, This is the rest, give ye rest to him that is weary; and this is the refreshing: yet they would not hear.
 
@@ -1050,7 +1050,7 @@
 
 **[28:15]** Because ye have said, We have made a covenant with death, and with Sheol are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us; for we have made lies our refuge, and under falsehood have we hid ourselves:
 
-**[28:16]** therefore thus saith the Lord Jehovah, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner -`stone' of sure foundation: he that believeth shall not be in haste.
+**[28:16]** therefore thus saith the Lord Jehovah, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner -\`stone' of sure foundation: he that believeth shall not be in haste.
 
 **[28:17]** And I will make justice the line, and righteousness the plummet; and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding-place.
 
@@ -1066,15 +1066,15 @@
 
 **[28:23]** Give ye ear, and hear my voice; hearken, and hear my speech.
 
-**[28:24]** Doth he that ploweth to sow plow continually? doth he `continually' open and harrow his ground?
+**[28:24]** Doth he that ploweth to sow plow continually? doth he \`continually' open and harrow his ground?
 
 **[28:25]** When he hath levelled the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and put in the wheat in rows, and the barley in the appointed place, and the spelt in the border thereof?
 
-**[28:26]** For his God doth instruct him aright, `and' doth teach him.
+**[28:26]** For his God doth instruct him aright, \`and' doth teach him.
 
-**[28:27]** For the fitches are not threshed with a sharp `threshing' instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod.
+**[28:27]** For the fitches are not threshed with a sharp \`threshing' instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod.
 
-**[28:28]** Bread `grain' is ground; for he will not be always threshing it: and though the wheel of his cart and his horses scatter it, he doth not grind it.
+**[28:28]** Bread \`grain' is ground; for he will not be always threshing it: and though the wheel of his cart and his horses scatter it, he doth not grind it.
 
 **[28:29]** This also cometh forth from Jehovah of hosts, who is wonderful in counsel, and excellent in wisdom.
 
@@ -1102,7 +1102,7 @@
 
 **[29:12]** and the book is delivered to him that is not learned, saying, Read this, I pray thee; and he saith, I am not learned.
 
-**[29:13]** And the Lord said, Forasmuch as this people draw nigh `unto me', and with their mouth and with their lips to honor me, but have removed their heart far from me, and their fear of me is a commandment of men which hath been taught `them';
+**[29:13]** And the Lord said, Forasmuch as this people draw nigh \`unto me', and with their mouth and with their lips to honor me, but have removed their heart far from me, and their fear of me is a commandment of men which hath been taught \`them';
 
 **[29:14]** therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder; and the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
 
@@ -1118,7 +1118,7 @@
 
 **[29:20]** For the terrible one is brought to nought, and the scoffer ceaseth, and all they that watch for iniquity are cut off;
 
-**[29:21]** that make a man an offender in `his' cause, and lay a snare for him that reproveth in the gate, and turn aside the just with a thing of nought.
+**[29:21]** that make a man an offender in \`his' cause, and lay a snare for him that reproveth in the gate, and turn aside the just with a thing of nought.
 
 **[29:22]** Therefore thus saith Jehovah, who redeemed Abraham, concerning the house of Jacob: Jacob shall not now be ashamed, neither shall his face now wax pale.
 
@@ -1136,7 +1136,7 @@
 
 **[30:5]** They shall all be ashamed because of a people that cannot profit them, that are not a help nor profit, but a shame, and also a reproach.
 
-**[30:6]** The burden of the beasts of the South. Through the land of trouble and anguish, from whence come the lioness and the lion, the viper and fiery flying serpent, they carry their riches upon the shoulders of young asses, and their treasures upon the humps of camels, to a people that shall not profit `them'.
+**[30:6]** The burden of the beasts of the South. Through the land of trouble and anguish, from whence come the lioness and the lion, the viper and fiery flying serpent, they carry their riches upon the shoulders of young asses, and their treasures upon the humps of camels, to a people that shall not profit \`them'.
 
 **[30:7]** For Egypt helpeth in vain, and to no purpose: therefore have I called her Rahab that sitteth still.
 
@@ -1158,7 +1158,7 @@
 
 **[30:16]** but ye said, No, for we will flee upon horses; therefore shall ye flee: and, We will ride upon the swift; therefore shall they that pursue you be swift.
 
-**[30:17]** One thousand `shall flee' at the threat of one; at the threat of five shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on a hill.
+**[30:17]** One thousand \`shall flee' at the threat of one; at the threat of five shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on a hill.
 
 **[30:18]** And therefore will Jehovah wait, that he may be gracious unto you; and therefore will he be exalted, that he may have mercy upon you: for Jehovah is a God of justice; blessed are all they that wait for him.
 
@@ -1174,21 +1174,21 @@
 
 **[30:24]** the oxen likewise and the young asses that till the ground shall eat savory provender, which hath been winnowed with the shovel and with the fork.
 
-**[30:25]** And there shall be upon every lofty mountain, and upon every high hill, brooks `and' streams of waters, in the day of the great slaughter, when the towers fall.
+**[30:25]** And there shall be upon every lofty mountain, and upon every high hill, brooks \`and' streams of waters, in the day of the great slaughter, when the towers fall.
 
 **[30:26]** Moreover the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day that Jehovah bindeth up the hurt of his people, and healeth the stroke of their wound.
 
 **[30:27]** Behold, the name of Jehovah cometh from far, burning with his anger, and in thick rising smoke: his lips are full of indignation, and his tongue is as a devouring fire;
 
-**[30:28]** and his breath is as an overflowing stream, that reacheth even unto the neck, to sift the nations with the sieve of destruction: and a bridle that causeth to err `shall be' in the jaws of the peoples.
+**[30:28]** and his breath is as an overflowing stream, that reacheth even unto the neck, to sift the nations with the sieve of destruction: and a bridle that causeth to err \`shall be' in the jaws of the peoples.
 
 **[30:29]** Ye shall have a song as in the night when a holy feast is kept; and gladness of heart, as when one goeth with a pipe to come unto the mountain of Jehovah, to the Rock of Israel.
 
-**[30:30]** And Jehovah will cause his glorious voice to be heard, and will show the lighting down of his arm, with the indignation of `his' anger, and the flame of a devouring fire, with a blast, and tempest, and hailstones.
+**[30:30]** And Jehovah will cause his glorious voice to be heard, and will show the lighting down of his arm, with the indignation of \`his' anger, and the flame of a devouring fire, with a blast, and tempest, and hailstones.
 
-**[30:31]** For through the voice of Jehovah shall the Assyrian be dismayed; with his rod will he smite `him'.
+**[30:31]** For through the voice of Jehovah shall the Assyrian be dismayed; with his rod will he smite \`him'.
 
-**[30:32]** And every stroke of the appointed staff, which Jehovah shall lay upon him, shall be with `the sound of' tabrets and harps; and in battles with the brandishing `of his arm' will he fight with them.
+**[30:32]** And every stroke of the appointed staff, which Jehovah shall lay upon him, shall be with \`the sound of' tabrets and harps; and in battles with the brandishing \`of his arm' will he fight with them.
 
 **[30:33]** For a Topheth is prepared of old; yea, for the king it is made ready; he hath made it deep and large; the pile thereof is fire and much wood; the breath of Jehovah, like a stream of brimstone, doth kindle it.
 
@@ -1200,7 +1200,7 @@
 
 **[31:4]** For thus saith Jehovah unto me, As the lion and the young lion growling over his prey, if a multitude of shepherds be called forth against him, will not be dismayed at their voice, nor abase himself for the noise of them: so will Jehovah of hosts come down to fight upon mount Zion, and upon the hill thereof.
 
-**[31:5]** As birds hovering, so will Jehovah of hosts protect Jerusalem; he will protect and deliver `it', he will pass over and preserve `it'.
+**[31:5]** As birds hovering, so will Jehovah of hosts protect Jerusalem; he will protect and deliver \`it', he will pass over and preserve \`it'.
 
 **[31:6]** Turn ye unto him from whom ye have deeply revolted, O children of Israel.
 
@@ -1226,11 +1226,11 @@
 
 **[32:8]** But the noble deviseth noble things; and in noble things shall he continue.
 
-**[32:9]** Rise up, ye women that are at ease, `and' hear my voice; ye careless daughters, give ear unto my speech.
+**[32:9]** Rise up, ye women that are at ease, \`and' hear my voice; ye careless daughters, give ear unto my speech.
 
 **[32:10]** For days beyond a year shall ye be troubled, ye careless women; for the vintage shall fail, the ingathering shall not come.
 
-**[32:11]** Tremble, ye women that are at ease; be troubled, ye careless ones; strip you, and make you bare, and gird `sackcloth' upon your loins.
+**[32:11]** Tremble, ye women that are at ease; be troubled, ye careless ones; strip you, and make you bare, and gird \`sackcloth' upon your loins.
 
 **[32:12]** They shall smite upon the breasts for the pleasant fields, for the fruitful vine.
 
@@ -1264,9 +1264,9 @@
 
 **[33:7]** Behold, their valiant ones cry without; the ambassadors of peace weep bitterly.
 
-**[33:8]** The highways lie waste, the wayfaring man ceaseth: `the enemy' hath broken the covenant, he hath despised the cities, he regardeth not man.
+**[33:8]** The highways lie waste, the wayfaring man ceaseth: \`the enemy' hath broken the covenant, he hath despised the cities, he regardeth not man.
 
-**[33:9]** The land mourneth and languisheth; Lebanon is confounded and withereth away; Sharon is like a desert; and Bashan and Carmel shake off `their leaves'.
+**[33:9]** The land mourneth and languisheth; Lebanon is confounded and withereth away; Sharon is like a desert; and Bashan and Carmel shake off \`their leaves'.
 
 **[33:10]** Now will I arise, saith Jehovah; now will I lift up myself; now will I be exalted.
 
@@ -1280,11 +1280,11 @@
 
 **[33:15]** He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppressions, that shaketh his hands from taking a bribe, that stoppeth his ears from hearing of blood, and shutteth his eyes from looking upon evil:
 
-**[33:16]** He shall dwell on high; his place of defence shall be the munitions of rocks; his bread shall be given `him'; his waters shall be sure.
+**[33:16]** He shall dwell on high; his place of defence shall be the munitions of rocks; his bread shall be given \`him'; his waters shall be sure.
 
 **[33:17]** Thine eyes shall see the king in his beauty: they shall behold a land that reacheth afar.
 
-**[33:18]** Thy heart shall muse on the terror: Where is he that counted, where is he that weighed `the tribute'? where is he that counted the towers?
+**[33:18]** Thy heart shall muse on the terror: Where is he that counted, where is he that weighed \`the tribute'? where is he that counted the towers?
 
 **[33:19]** Thou shalt not see the fierce people, a people of a deep speech that thou canst not comprehend, of a strange tongue that thou canst not understand.
 
@@ -1304,7 +1304,7 @@
 
 **[34:3]** Their slain also shall be cast out, and the stench of their dead bodies shall come up; and the mountains shall be melted with their blood.
 
-**[34:4]** And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll; and all their host shall fade away, as the leaf fadeth from off the vine, and as a fading `leaf' from the fig-tree.
+**[34:4]** And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll; and all their host shall fade away, as the leaf fadeth from off the vine, and as a fading \`leaf' from the fig-tree.
 
 **[34:5]** For my sword hath drunk its fill in heaven: behold, it shall come down upon Edom, and upon the people of my curse, to judgment.
 
@@ -1314,7 +1314,7 @@
 
 **[34:8]** For Jehovah hath a day of vengeance, a year of recompense for the cause of Zion.
 
-**[34:9]** And the streams of `Edom' shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.
+**[34:9]** And the streams of \`Edom' shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.
 
 **[34:10]** It shall not be quenched night nor day; the smoke thereof shall go up for ever; from generation to generation it shall lie waste; none shall pass through it for ever and ever.
 
@@ -1338,7 +1338,7 @@
 
 **[35:3]** Strengthen ye the weak hands, and confirm the feeble knees.
 
-**[35:4]** Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come `with' vengeance, `with' the recompense of God; he will come and save you.
+**[35:4]** Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come \`with' vengeance, \`with' the recompense of God; he will come and save you.
 
 **[35:5]** Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.
 
@@ -1346,9 +1346,9 @@
 
 **[35:7]** And the glowing sand shall become a pool, and the thirsty ground springs of water: in the habitation of jackals, where they lay, shall be grass with reeds and rushes.
 
-**[35:8]** And a highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but is shall be for `the redeemed': the wayfaring men, yea fools, shall not err `therein'.
+**[35:8]** And a highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but is shall be for \`the redeemed': the wayfaring men, yea fools, shall not err \`therein'.
 
-**[35:9]** No lion shall be there, nor shall any ravenous beast go up thereon; they shall not be found there; but the redeemed shall walk `there':
+**[35:9]** No lion shall be there, nor shall any ravenous beast go up thereon; they shall not be found there; but the redeemed shall walk \`there':
 
 **[35:10]** and the ransomed of Jehovah shall return, and come with singing unto Zion; and everlasting joy shall be upon their heads: they shall obtain gladness and joy, and sorrow and sighing shall flee away.
 
@@ -1360,7 +1360,7 @@
 
 **[36:4]** And Rabshakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence is this wherein thou trustest?
 
-**[36:5]** I say, `thy' counsel and strength for the war are but vain words: now on whom dost thou trust, that thou hast rebelled against me?
+**[36:5]** I say, \`thy' counsel and strength for the war are but vain words: now on whom dost thou trust, that thou hast rebelled against me?
 
 **[36:6]** Behold, thou trustest upon the staff of this bruised reed, even upon Egypt, whereon if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust on him.
 
@@ -1374,7 +1374,7 @@
 
 **[36:11]** Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand it: and speak not to us in the Jews' language, in the ears of the people that are on the wall.
 
-**[36:12]** But Rabshakeh said, Hath my master sent me to thy master, and to thee, to speak these words? `hath he' not `sent me' to the men that sit upon the wall, to eat their own dung, and to drink their own water with you?
+**[36:12]** But Rabshakeh said, Hath my master sent me to thy master, and to thee, to speak these words? \`hath he' not \`sent me' to the men that sit upon the wall, to eat their own dung, and to drink their own water with you?
 
 **[36:13]** Then Rabshakeh stood, and cried with a loud voice in the Jews' language, and said, Hear ye the words of the great king, the king of Assyria.
 
@@ -1426,7 +1426,7 @@
 
 **[37:15]** And Hezekiah prayed unto Jehovah, saying,
 
-**[37:16]** O Jehovah of hosts, the God of Israel, that sittest `above' the cherubim, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.
+**[37:16]** O Jehovah of hosts, the God of Israel, that sittest \`above' the cherubim, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.
 
 **[37:17]** Incline thine ear, O Jehovah, and hear; open thine eyes, O Jehovah, and see; and hear all the words of Sennacherib, who hath sent to defy the living God.
 
@@ -1440,7 +1440,7 @@
 
 **[37:22]** this is the word which Jehovah hath spoken concerning him: The virgin daughter of Zion hath despised thee and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.
 
-**[37:23]** Whom hast thou defied and blasphemed? and against whom hast thou exalted thy voice and lifted up thine eyes on high? `even' against the Holy One of Israel.
+**[37:23]** Whom hast thou defied and blasphemed? and against whom hast thou exalted thy voice and lifted up thine eyes on high? \`even' against the Holy One of Israel.
 
 **[37:24]** By thy servants hast thou defied the Lord, and hast said, With the multitude of my chariots am I come up to the height of the mountains, to the innermost parts of Lebanon; and I will cut down the tall cedars thereof, and the choice fir-trees thereof; and I will enter into its farthest height, the forest of its fruitful field;
 
@@ -1448,7 +1448,7 @@
 
 **[37:26]** Hast thou not heard how I have done it long ago, and formed it of ancient times? now have I brought it to pass, that it should be thine to lay waste fortified cities into ruinous heaps.
 
-**[37:27]** Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as a field `of grain' before it is grown up.
+**[37:27]** Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as a field \`of grain' before it is grown up.
 
 **[37:28]** But I know thy sitting down, and thy going out, and thy coming in, and thy raging against me.
 
@@ -1492,25 +1492,25 @@
 
 **[38:10]** I said, In the noontide of my days I shall go into the gates of Sheol: I am deprived of the residue of my years.
 
-**[38:11]** I said, I shall not see Jehovah, `even' Jehovah in the land of the living: I shall behold man no more with the inhabitants of the world.
+**[38:11]** I said, I shall not see Jehovah, \`even' Jehovah in the land of the living: I shall behold man no more with the inhabitants of the world.
 
 **[38:12]** My dwelling is removed, and is carried away from me as a shepherd's tent: I have rolled up, like a weaver, my life; he will cut me off from the loom: From day even to night wilt thou make an end of me.
 
-**[38:13]** I quieted `myself' until morning; as a lion, so he breaketh all my bones: From day even to night wilt thou make an end of me.
+**[38:13]** I quieted \`myself' until morning; as a lion, so he breaketh all my bones: From day even to night wilt thou make an end of me.
 
-**[38:14]** Like a swallow `or' a crane, so did I chatter; I did moan as a dove; mine eyes fail `with looking' upward: O Lord, I am oppressed, be thou my surety.
+**[38:14]** Like a swallow \`or' a crane, so did I chatter; I did moan as a dove; mine eyes fail \`with looking' upward: O Lord, I am oppressed, be thou my surety.
 
 **[38:15]** What shall I say? he hath both spoken unto me, and himself hath done it: I shall go softly all my years because of the bitterness of my soul.
 
 **[38:16]** O Lord, by these things men live; And wholly therein is the life of my spirit: Wherefore recover thou me, and make me to live.
 
-**[38:17]** Behold, `it was' for `my' peace `that' I had great bitterness: But thou hast in love to my soul delivered it from the pit of corruption; For thou hast cast all my sins behind thy back.
+**[38:17]** Behold, \`it was' for \`my' peace \`that' I had great bitterness: But thou hast in love to my soul delivered it from the pit of corruption; For thou hast cast all my sins behind thy back.
 
 **[38:18]** For Sheol cannot praise thee, death cannot celebrate thee: They that go down into the pit cannot hope for thy truth.
 
 **[38:19]** The living, the living, he shall praise thee, as I do this day: The father to the children shall make known thy truth.
 
-**[38:20]** Jehovah is `ready' to save me: Therefore we will sing my songs with stringed instruments All the days of our life in the house of Jehovah.
+**[38:20]** Jehovah is \`ready' to save me: Therefore we will sing my songs with stringed instruments All the days of our life in the house of Jehovah.
 
 **[38:21]** Now Isaiah had said, Let them take a cake of figs, and lay it for a plaster upon the boil, and he shall recover.
 
@@ -1552,7 +1552,7 @@
 
 **[40:10]** Behold, the Lord Jehovah will come as a mighty one, and his arm will rule for him: Behold, his reward is with him, and his recompense before him.
 
-**[40:11]** He will feed his flock like a shepherd, he will gather the lambs in his arm, and carry them in his bosom, `and' will gently lead those that have their young.
+**[40:11]** He will feed his flock like a shepherd, he will gather the lambs in his arm, and carry them in his bosom, \`and' will gently lead those that have their young.
 
 **[40:12]** Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?
 
@@ -1568,23 +1568,23 @@
 
 **[40:18]** To whom then will ye liken God? or what likeness will ye compare unto him?
 
-**[40:19]** The image, a workman hath cast `it', and the goldsmith overlayeth it with gold, and casteth `for it' silver chains.
+**[40:19]** The image, a workman hath cast \`it', and the goldsmith overlayeth it with gold, and casteth \`for it' silver chains.
 
-**[40:20]** He that is too impoverished for `such' an oblation chooseth a tree that will not rot; he seeketh unto him a skilful workman to set up a graven image, that shall not be moved.
+**[40:20]** He that is too impoverished for \`such' an oblation chooseth a tree that will not rot; he seeketh unto him a skilful workman to set up a graven image, that shall not be moved.
 
 **[40:21]** Have ye not known? have yet not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?
 
-**[40:22]** `It is' he that sitteth above the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in;
+**[40:22]** \`It is' he that sitteth above the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in;
 
 **[40:23]** that bringeth princes to nothing; that maketh the judges of the earth as vanity.
 
 **[40:24]** Yea, they have not been planted; yea, they have not been sown; yea, their stock hath not taken root in the earth: moreover he bloweth upon them, and they wither, and the whirlwind taketh them away as stubble.
 
-**[40:25]** To whom then will ye liken me, that I should be equal `to him'? saith the Holy One.
+**[40:25]** To whom then will ye liken me, that I should be equal \`to him'? saith the Holy One.
 
 **[40:26]** Lift up your eyes on high, and see who hath created these, that bringeth out their host by number; he calleth them all by name; by the greatness of his might, and for that he is strong in power, not one is lacking.
 
-**[40:27]** Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from Jehovah, and the justice `due' to me is passed away from my God?
+**[40:27]** Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from Jehovah, and the justice \`due' to me is passed away from my God?
 
 **[40:28]** Hast thou not known? hast thou not heard? The everlasting God, Jehovah, the Creator of the ends of the earth, fainteth not, neither is weary; there is no searching of his understanding.
 
@@ -1604,9 +1604,9 @@
 
 **[41:5]** The isles have seen, and fear; the ends of the earth tremble; they draw near, and come.
 
-**[41:6]** They help every one his neighbor; and `every one' saith to his brother, Be of good courage.
+**[41:6]** They help every one his neighbor; and \`every one' saith to his brother, Be of good courage.
 
-**[41:7]** So the carpenter encourageth the goldsmith, `and' he that smootheth with the hammer him that smiteth the anvil, saying of the soldering, It is good; and he fasteneth it with nails, that is should not be moved.
+**[41:7]** So the carpenter encourageth the goldsmith, \`and' he that smootheth with the hammer him that smiteth the anvil, saying of the soldering, It is good; and he fasteneth it with nails, that is should not be moved.
 
 **[41:8]** But thou, Israel, my servant, Jacob whom I have chosen, the seed of Abraham my friend,
 
@@ -1622,7 +1622,7 @@
 
 **[41:14]** Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith Jehovah, and thy Redeemer is the Holy One of Israel.
 
-**[41:15]** Behold, I have made thee `to be' a new sharp threshing instrument having teeth; thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff.
+**[41:15]** Behold, I have made thee \`to be' a new sharp threshing instrument having teeth; thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff.
 
 **[41:16]** Thou shalt winnow them, and the wind shall carry them away, and the whirlwind shall scatter them; and thou shalt rejoice in Jehovah, thou shalt glory in the Holy One of Israel.
 
@@ -1644,13 +1644,13 @@
 
 **[41:25]** I have raised up one from the north, and he is come; from the rising of the sun one that calleth upon my name: and he shall come upon rulers as upon mortar, and as the potter treadeth clay.
 
-**[41:26]** Who hath declared it from the beginning, that we may know? and beforetime, that we may say, `He is' right? yea, there is none that declareth, yea, there is none that showeth, yea, there is none that heareth your words.
+**[41:26]** Who hath declared it from the beginning, that we may know? and beforetime, that we may say, \`He is' right? yea, there is none that declareth, yea, there is none that showeth, yea, there is none that heareth your words.
 
-**[41:27]** `I am the' first `that saith' unto Zion, Behold, behold them; and I will give to Jerusalem one that bringeth good tidings.
+**[41:27]** \`I am the' first \`that saith' unto Zion, Behold, behold them; and I will give to Jerusalem one that bringeth good tidings.
 
 **[41:28]** And when I look, there is no man: even among them there is no counsellor, that, when I ask of them, can answer a word.
 
-**[41:29]** Behold, all of them, their works are vanity `and' nought; their molten images are wind and confusion.
+**[41:29]** Behold, all of them, their works are vanity \`and' nought; their molten images are wind and confusion.
 
 **[42:1]** Behold, my servant, whom I uphold; my chosen, in whom my soul delighteth: I have put my Spirit upon him; he will bring forth justice to the Gentiles.
 
@@ -1672,13 +1672,13 @@
 
 **[42:10]** Sing unto Jehovah a new song, and his praise from the end of the earth; ye that go down to the sea, and all that is therein, the isles, and the inhabitants thereof.
 
-**[42:11]** Let the wilderness and the cities thereof lift up `their voice', the villages that Kedar doth inhabit; let the inhabitants of Sela sing, let them shout from the top of the mountains.
+**[42:11]** Let the wilderness and the cities thereof lift up \`their voice', the villages that Kedar doth inhabit; let the inhabitants of Sela sing, let them shout from the top of the mountains.
 
 **[42:12]** Let them give glory unto Jehovah, and declare his praise in the islands.
 
-**[42:13]** Jehovah will go forth as a mighty man; he will stir up `his' zeal like a man of war: he will cry, yea, he will shout aloud; he will do mightily against his enemies.
+**[42:13]** Jehovah will go forth as a mighty man; he will stir up \`his' zeal like a man of war: he will cry, yea, he will shout aloud; he will do mightily against his enemies.
 
-**[42:14]** I have long time holden my peace; I have been still, and refrained myself: `now' will I cry out like a travailing woman; I will gasp and pant together.
+**[42:14]** I have long time holden my peace; I have been still, and refrained myself: \`now' will I cry out like a travailing woman; I will gasp and pant together.
 
 **[42:15]** I will lay waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and will dry up the pools.
 
@@ -1688,7 +1688,7 @@
 
 **[42:18]** Hear, ye deaf; and look, ye blind, that ye may see.
 
-**[42:19]** Who is blind, but my servant? or deaf, as my messenger that I send? who is blind as he that is at peace `with me', and blind as Jehovah's servant?
+**[42:19]** Who is blind, but my servant? or deaf, as my messenger that I send? who is blind as he that is at peace \`with me', and blind as Jehovah's servant?
 
 **[42:20]** Thou seest many things, but thou observest not; his ears are open, but he heareth not.
 
@@ -1708,7 +1708,7 @@
 
 **[43:3]** For I am Jehovah thy God, the Holy One of Israel, thy Saviour; I have given Egypt as thy ransom, Ethiopia and Seba in thy stead.
 
-**[43:4]** Since thou hast been precious in my sight, `and' honorable, and I have loved thee; therefore will I give men in thy stead, and peoples instead of thy life.
+**[43:4]** Since thou hast been precious in my sight, \`and' honorable, and I have loved thee; therefore will I give men in thy stead, and peoples instead of thy life.
 
 **[43:5]** Fear not; for I am with thee: I will bring thy seed from the east, and gather thee from the west;
 
@@ -1724,7 +1724,7 @@
 
 **[43:11]** I, even I, am Jehovah; and besides me there is no saviour.
 
-**[43:12]** I have declared, and I have saved, and I have showed; and there was no strange `god' among you: therefore ye are my witnesses, saith Jehovah, and I am God.
+**[43:12]** I have declared, and I have saved, and I have showed; and there was no strange \`god' among you: therefore ye are my witnesses, saith Jehovah, and I am God.
 
 **[43:13]** Yea, since the day was I am he; and there is none that can deliver out of my hand: I will work, and who can hinder it?
 
@@ -1752,7 +1752,7 @@
 
 **[43:25]** I, even I, am he that blotteth out thy transgressions for mine own sake; and I will not remember thy sins.
 
-**[43:26]** Put me in remembrance; let us plead together: set thou forth `thy cause', that thou mayest be justified.
+**[43:26]** Put me in remembrance; let us plead together: set thou forth \`thy cause', that thou mayest be justified.
 
 **[43:27]** Thy first father sinned, and thy teachers have transgressed against me.
 
@@ -1766,7 +1766,7 @@
 
 **[44:4]** and they shall spring up among the grass, as willows by the watercourses.
 
-**[44:5]** One shall say, I am Jehovah's; and another shall call `himself' by the name of Jacob; and another shall subscribe with his hand unto Jehovah, and surname `himself' by the name of Israel.
+**[44:5]** One shall say, I am Jehovah's; and another shall call \`himself' by the name of Jacob; and another shall subscribe with his hand unto Jehovah, and surname \`himself' by the name of Israel.
 
 **[44:6]** Thus saith Jehovah, the King of Israel, and his Redeemer, Jehovah of hosts: I am the first, and I am the last; and besides me there is no God.
 
@@ -1780,7 +1780,7 @@
 
 **[44:11]** Behold, all his fellows shall be put to shame; and the workmen, they are of men: let them all be gathered together, let them stand up; they shall fear, they shall be put to shame together.
 
-**[44:12]** The smith `maketh' an axe, and worketh in the coals, and fashioneth it with hammers, and worketh it with his strong arm: yea, he is hungry, and his strength faileth; he drinketh no water, and is faint.
+**[44:12]** The smith \`maketh' an axe, and worketh in the coals, and fashioneth it with hammers, and worketh it with his strong arm: yea, he is hungry, and his strength faileth; he drinketh no water, and is faint.
 
 **[44:13]** The carpenter stretcheth out a line; he marketh it out with a pencil; he shapeth it with planes, and he marketh it out with the compasses, and shapeth it after the figure of a man, according to the beauty of a man, to dwell in a house.
 
@@ -1812,7 +1812,7 @@
 
 **[44:27]** that saith to the deep, Be dry, and I will dry up thy rivers;
 
-**[44:28]** That saith of Cyrus, `He is' my shepherd, and shall perform all my pleasure, even saying of Jerusalem, She shall be built; and of the temple, Thy foundation shall be laid.
+**[44:28]** That saith of Cyrus, \`He is' my shepherd, and shall perform all my pleasure, even saying of Jerusalem, She shall be built; and of the temple, Thy foundation shall be laid.
 
 **[45:1]** Thus saith Jehovah to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him, and I will loose the loins of kings; to open the doors before him, and the gates shall not be shut:
 
@@ -1840,13 +1840,13 @@
 
 **[45:13]** I have raised him up in righteousness, and I will make straight all his ways: he shall build my city, and he shall let my exiles go free, not for price nor reward, saith Jehovah of hosts.
 
-**[45:14]** Thus saith Jehovah, The labor of Egypt, and the merchandise of Ethiopia, and the Sabeans, men of stature, shall come over unto thee, and they shall be thine: they shall go after thee, in chains they shall come over; and they shall fall down unto thee, they shall make supplication unto thee, `saying', Surely God is in thee; and there is none else, there is no God.
+**[45:14]** Thus saith Jehovah, The labor of Egypt, and the merchandise of Ethiopia, and the Sabeans, men of stature, shall come over unto thee, and they shall be thine: they shall go after thee, in chains they shall come over; and they shall fall down unto thee, they shall make supplication unto thee, \`saying', Surely God is in thee; and there is none else, there is no God.
 
 **[45:15]** Verily thou art a God that hidest thyself, O God of Israel, the Saviour.
 
 **[45:16]** They shall be put to shame, yea, confounded, all of them; they shall go into confusion together that are makers of idols.
 
-**[45:17]** `But' Israel shall be saved by Jehovah with an everlasting salvation: ye shall not be put to shame nor confounded world without end.
+**[45:17]** \`But' Israel shall be saved by Jehovah with an everlasting salvation: ye shall not be put to shame nor confounded world without end.
 
 **[45:18]** For thus saith Jehovah that created the heavens, the God that formed the earth and made it, that established it and created it not a waste, that formed it to be inhabited: I am Jehovah; and there is none else.
 
@@ -1854,23 +1854,23 @@
 
 **[45:20]** Assemble yourselves and come; draw near together, ye that are escaped of the nations: they have no knowledge that carry the wood of their graven image, and pray unto a god that cannot save.
 
-**[45:21]** Declare ye, and bring `it' forth; yea, let them take counsel together: who hath showed this from ancient time? who hath declared it of old? have not I, Jehovah? and there is no God else besides me, a just God and a Saviour; there is none besides me.
+**[45:21]** Declare ye, and bring \`it' forth; yea, let them take counsel together: who hath showed this from ancient time? who hath declared it of old? have not I, Jehovah? and there is no God else besides me, a just God and a Saviour; there is none besides me.
 
 **[45:22]** Look unto me, and be ye saved, all the ends of the earth; for I am God, and there is none else.
 
-**[45:23]** By myself have I sworn, the word is gone forth from my mouth `in' righteousness, and shall not return, that unto me every knee shall bow, every tongue shall swear.
+**[45:23]** By myself have I sworn, the word is gone forth from my mouth \`in' righteousness, and shall not return, that unto me every knee shall bow, every tongue shall swear.
 
 **[45:24]** Only in Jehovah, it is said of me, is righteousness and strength; even to him shall men come; and all they that were incensed against him shall be put to shame.
 
 **[45:25]** In Jehovah shall all the seed of Israel be justified, and shall glory.
 
-**[46:1]** Bel boweth down, Nebo stoopeth; their idols are upon the beasts, and upon the cattle: the things that ye carried about are made a load, a burden to the weary `beast'.
+**[46:1]** Bel boweth down, Nebo stoopeth; their idols are upon the beasts, and upon the cattle: the things that ye carried about are made a load, a burden to the weary \`beast'.
 
 **[46:2]** They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.
 
-**[46:3]** Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, that have been borne `by me' from their birth, that have been carried from the womb;
+**[46:3]** Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, that have been borne \`by me' from their birth, that have been carried from the womb;
 
-**[46:4]** and even to old age I am he, and even to hoar hairs will I carry `you'; I have made, and I will bear; yea, I will carry, and will deliver.
+**[46:4]** and even to old age I am he, and even to hoar hairs will I carry \`you'; I have made, and I will bear; yea, I will carry, and will deliver.
 
 **[46:5]** To whom will ye like me, and make me equal, and compare me, that we may be like?
 
@@ -1880,9 +1880,9 @@
 
 **[46:8]** Remember this, and show yourselves men; bring it again to mind, O ye transgressors.
 
-**[46:9]** Remember the former things of old: for I am God, and there is none else; `I am' God, and there is none like me;
+**[46:9]** Remember the former things of old: for I am God, and there is none else; \`I am' God, and there is none like me;
 
-**[46:10]** declaring the end from the beginning, and from ancient times things that are not `yet' done; saying, My counsel shall stand, and I will do all my pleasure;
+**[46:10]** declaring the end from the beginning, and from ancient times things that are not \`yet' done; saying, My counsel shall stand, and I will do all my pleasure;
 
 **[46:11]** calling a ravenous bird from the east, the man of my counsel from a far country; yea, I have spoken, I will also bring it to pass; I have purposed, I will also do it.
 
@@ -1940,13 +1940,13 @@
 
 **[48:10]** Behold, I have refined thee, but not as silver; I have chosen thee in the furnace of affliction.
 
-**[48:11]** For mine own sake, for mine own sake, will I do it; for how should `my name' be profaned? and my glory will I not give to another.
+**[48:11]** For mine own sake, for mine own sake, will I do it; for how should \`my name' be profaned? and my glory will I not give to another.
 
 **[48:12]** Hearken unto me, O Jacob, and Israel my called: I am he; I am the first, I also am the last.
 
 **[48:13]** Yea, my hand hath laid the foundation of the earth, and my right hand hath spread out the heavens: when I call unto them, they stand up together.
 
-**[48:14]** Assemble yourselves, all ye, and hear; who among them hath declared these things? He whom Jehovah loveth shall perform his pleasure on Babylon, and his arm `shall be on' the Chaldeans.
+**[48:14]** Assemble yourselves, all ye, and hear; who among them hath declared these things? He whom Jehovah loveth shall perform his pleasure on Babylon, and his arm \`shall be on' the Chaldeans.
 
 **[48:15]** I, even I, have spoken; yea, I have called him; I have brought him, and he shall make his way prosperous.
 
@@ -1970,13 +1970,13 @@
 
 **[49:3]** and he said unto me, Thou art my servant; Israel, in whom I will be glorified.
 
-**[49:4]** But I said, I have labored in vain, I have spent my strength for nought and vanity; yet surely the justice `due' to me is with Jehovah, and my recompense with my God.
+**[49:4]** But I said, I have labored in vain, I have spent my strength for nought and vanity; yet surely the justice \`due' to me is with Jehovah, and my recompense with my God.
 
 **[49:5]** And now saith Jehovah that formed me from the womb to be his servant, to bring Jacob again to him, and that Israel be gathered unto him (for I am honorable in the eyes of Jehovah, and my God is become my strength);
 
 **[49:6]** yea, he saith, It is too light a thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.
 
-**[49:7]** Thus saith Jehovah, the Redeemer of Israel, `and' his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers: Kings shall see and arise; princes, and they shall worship; because of Jehovah that is faithful, `even' the Holy One of Israel, who hath chosen thee.
+**[49:7]** Thus saith Jehovah, the Redeemer of Israel, \`and' his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers: Kings shall see and arise; princes, and they shall worship; because of Jehovah that is faithful, \`even' the Holy One of Israel, who hath chosen thee.
 
 **[49:8]** Thus saith Jehovah, In an acceptable time have I answered thee, and in a day of salvation have I helped thee; and I will preserve thee, and give thee for a covenant of the people, to raise up the land, to make them inherit the desolate heritages:
 
@@ -2058,13 +2058,13 @@
 
 **[51:10]** Is it not thou that driedst up the sea, the waters of the great deep; that madest the depths of the sea a way for the redeemed to pass over?
 
-**[51:11]** And the ransomed of Jehovah shall return, and come with singing unto Zion; and everlasting joy shall be upon their heads: they shall obtain gladness and joy; `and' sorrow and sighing shall flee away.
+**[51:11]** And the ransomed of Jehovah shall return, and come with singing unto Zion; and everlasting joy shall be upon their heads: they shall obtain gladness and joy; \`and' sorrow and sighing shall flee away.
 
 **[51:12]** I, even I, am he that comforteth you: who art thou, that thou art afraid of man that shall die, and of the son of man that shall be made as grass;
 
 **[51:13]** and hast forgotten Jehovah thy Maker, that stretched forth the heavens, and laid the foundations of the earth; and fearest continually all the day because of the fury of the oppressor, when he maketh ready to destroy? and where is the fury of the oppressor?
 
-**[51:14]** The captive exile shall speedily be loosed; and he shall not die `and go down' into the pit, neither shall his bread fail.
+**[51:14]** The captive exile shall speedily be loosed; and he shall not die \`and go down' into the pit, neither shall his bread fail.
 
 **[51:15]** For I am Jehovah thy God, who stirreth up the sea, so that the waves thereof roar: Jehovah of hosts is his name.
 
@@ -2086,7 +2086,7 @@
 
 **[52:1]** Awake, awake, put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 
-**[52:2]** Shake thyself from the dust; arise, sit `on thy throne', O Jerusalem: loose thyself from the bonds of thy neck, O captive daughter of Zion.
+**[52:2]** Shake thyself from the dust; arise, sit \`on thy throne', O Jerusalem: loose thyself from the bonds of thy neck, O captive daughter of Zion.
 
 **[52:3]** For thus saith Jehovah, Ye were sold for nought; and ye shall be redeemed without money.
 
@@ -2094,7 +2094,7 @@
 
 **[52:5]** Now therefore, what do I here, saith Jehovah, seeing that my people is taken away for nought? they that rule over them do howl, saith Jehovah, and my name continually all the day is blasphemed.
 
-**[52:6]** Therefore my people shall know my name: therefore `they shall know' in that day that I am he that doth speak; behold, it is I.
+**[52:6]** Therefore my people shall know my name: therefore \`they shall know' in that day that I am he that doth speak; behold, it is I.
 
 **[52:7]** How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace, that bringeth good tidings of good, that publisheth salvation, that saith unto Zion, Thy God reigneth!
 
@@ -2128,13 +2128,13 @@
 
 **[53:7]** He was oppressed, yet when he was afflicted he opened not his mouth; as a lamb that is led to the slaughter, and as a sheep that before its shearers is dumb, so he opened not his mouth.
 
-**[53:8]** By oppression and judgment he was taken away; and as for his generation, who `among them' considered that he was cut off out of the land of the living for the transgression of my people to whom the stroke `was due'?
+**[53:8]** By oppression and judgment he was taken away; and as for his generation, who \`among them' considered that he was cut off out of the land of the living for the transgression of my people to whom the stroke \`was due'?
 
 **[53:9]** And they made his grave with the wicked, and with a rich man in his death; although he had done no violence, neither was any deceit in his mouth.
 
-**[53:10]** Yet it pleased Jehovah to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see `his' seed, he shall prolong his days, and the pleasure of Jehovah shall prosper in his hand.
+**[53:10]** Yet it pleased Jehovah to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see \`his' seed, he shall prolong his days, and the pleasure of Jehovah shall prosper in his hand.
 
-**[53:11]** He shall see of the travail of his soul, `and' shall be satisfied: by the knowledge of himself shall my righteous servant justify many; and he shall bear their iniquities.
+**[53:11]** He shall see of the travail of his soul, \`and' shall be satisfied: by the knowledge of himself shall my righteous servant justify many; and he shall bear their iniquities.
 
 **[53:12]** Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he poured out his soul unto death, and was numbered with the transgressors: yet he bare the sin of many, and made intercession for the transgressors.
 
@@ -2154,7 +2154,7 @@
 
 **[54:8]** In overflowing wrath I hid my face from thee for a moment; but with everlasting lovingkindness will I have mercy on thee, saith Jehovah thy Redeemer.
 
-**[54:9]** For this is `as' the waters of Noah unto me; for as I have sworn that the waters of Noah shall no more go over the earth, so have I sworn that I will not be wroth with thee, nor rebuke thee.
+**[54:9]** For this is \`as' the waters of Noah unto me; for as I have sworn that the waters of Noah shall no more go over the earth, so have I sworn that I will not be wroth with thee, nor rebuke thee.
 
 **[54:10]** For the mountains may depart, and the hills be removed; but my lovingkindness shall not depart from thee, neither shall my covenant of peace be removed, saith Jehovah that hath mercy on thee.
 
@@ -2212,17 +2212,17 @@
 
 **[56:7]** even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt-offerings and their sacrifices shall be accepted upon mine altar; for my house shall be called a house of prayer for all peoples.
 
-**[56:8]** The Lord Jehovah, who gathereth the outcasts of Israel, saith, Yet will I gather `others' to him, besides his own that are gathered.
+**[56:8]** The Lord Jehovah, who gathereth the outcasts of Israel, saith, Yet will I gather \`others' to him, besides his own that are gathered.
 
-**[56:9]** All ye beasts of the field, come to devour, `yea', all ye beasts in the forest.
+**[56:9]** All ye beasts of the field, come to devour, \`yea', all ye beasts in the forest.
 
 **[56:10]** His watchmen are blind, they are all without knowledge; they are all dumb dogs, they cannot bark; dreaming, lying down, loving to slumber.
 
 **[56:11]** Yea, the dogs are greedy, they can never have enough; and these are shepherds that cannot understand: they have all turned to their own way, each one to his gain, from every quarter.
 
-**[56:12]** Come ye, `say they', I will fetch wine, and we will fill ourselves with strong drink; and to-morrow shall be as this day, `a day' great beyond measure.
+**[56:12]** Come ye, \`say they', I will fetch wine, and we will fill ourselves with strong drink; and to-morrow shall be as this day, \`a day' great beyond measure.
 
-**[57:1]** The righteous perisheth, and no man layeth it to heart; and merciful men are taken away, none considering that the righteous is taken away from the evil `to come'.
+**[57:1]** The righteous perisheth, and no man layeth it to heart; and merciful men are taken away, none considering that the righteous is taken away from the evil \`to come'.
 
 **[57:2]** He entereth into peace; they rest in their beds, each one that walketh in his uprightness.
 
@@ -2232,11 +2232,11 @@
 
 **[57:5]** ye that inflame yourselves among the oaks, under every green tree; that slay the children in the valleys, under the clefts of the rocks?
 
-**[57:6]** Among the smooth `stones' of the valley is thy portion; they, they are thy lot; even to them hast thou poured a drink-offering, thou hast offered an oblation. Shall I be appeased for these things?
+**[57:6]** Among the smooth \`stones' of the valley is thy portion; they, they are thy lot; even to them hast thou poured a drink-offering, thou hast offered an oblation. Shall I be appeased for these things?
 
 **[57:7]** Upon a high and lofty mountain hast thou set thy bed; thither also wentest thou up to offer sacrifice.
 
-**[57:8]** And behind the doors and the posts hast thou set up thy memorial: for thou hast uncovered `thyself' to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them: thou lovedst their bed where thou sawest it.
+**[57:8]** And behind the doors and the posts hast thou set up thy memorial: for thou hast uncovered \`thyself' to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them: thou lovedst their bed where thou sawest it.
 
 **[57:9]** And thou wentest to the king with oil, and didst increase thy perfumes, and didst send thine ambassadors far off, and didst debase thyself even unto Sheol.
 
@@ -2254,7 +2254,7 @@
 
 **[57:16]** For I will not contend for ever, neither will I be always wroth; for the spirit would faint before me, and the souls that I have made.
 
-**[57:17]** For the iniquity of his covetousness was I wroth, and smote him; I hid `my face' and was wroth; and he went on backsliding in the way of his heart.
+**[57:17]** For the iniquity of his covetousness was I wroth, and smote him; I hid \`my face' and was wroth; and he went on backsliding in the way of his heart.
 
 **[57:18]** I have seen his ways, and will heal him: I will lead him also, and restore comforts unto him and to his mourners.
 
@@ -2268,7 +2268,7 @@
 
 **[58:2]** Yet they seek me daily, and delight to know my ways: as a nation that did righteousness, and forsook not the ordinance of their God, they ask of me righteous judgments; they delight to draw near unto God.
 
-**[58:3]** Wherefore have we fasted, `say they', and thou seest not? `wherefore' have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find `your own' pleasure, and exact all your labors.
+**[58:3]** Wherefore have we fasted, \`say they', and thou seest not? \`wherefore' have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find \`your own' pleasure, and exact all your labors.
 
 **[58:4]** Behold, ye fast for strife and contention, and to smite with the fist of wickedness: ye fast not this day so as to make your voice to be heard on high.
 
@@ -2288,7 +2288,7 @@
 
 **[58:12]** And they that shall be of thee shall build the old waste places; thou shalt raise up the foundations of many generations; and thou shalt be called The repairer of the breach, The restorer of paths to dwell in.
 
-**[58:13]** If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, `and' the holy of Jehovah honorable; and shalt honor it, not doing thine own ways, nor finding thine own pleasure, nor speaking `thine own' words:
+**[58:13]** If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, \`and' the holy of Jehovah honorable; and shalt honor it, not doing thine own ways, nor finding thine own pleasure, nor speaking \`thine own' words:
 
 **[58:14]** then shalt thou delight thyself in Jehovah; and I will make thee to ride upon the high places of the earth; and I will feed thee with the heritage of Jacob thy father: for the mouth of Jehovah hath spoken it.
 
@@ -2378,7 +2378,7 @@
 
 **[60:22]** The little one shall become a thousand, and the small one a strong nation; I, Jehovah, will hasten it in its time.
 
-**[61:1]** The Spirit of the Lord Jehovah is upon me; because Jehovah hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the broken-hearted, to proclaim liberty to the captives, and the opening `of the prison' to them that are bound;
+**[61:1]** The Spirit of the Lord Jehovah is upon me; because Jehovah hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the broken-hearted, to proclaim liberty to the captives, and the opening \`of the prison' to them that are bound;
 
 **[61:2]** to proclaim the year of Jehovah's favor, and the day of vengeance of our God; to comfort all that mourn;
 
@@ -2390,7 +2390,7 @@
 
 **[61:6]** But ye shall be named the priests of Jehovah; men shall call you the ministers of our God: ye shall eat the wealth of the nations, and in their glory shall ye boast yourselves.
 
-**[61:7]** Instead of your shame `ye shall have' double; and instead of dishonor they shall rejoice in their portion: therefore in their land they shall possess double; everlasting joy shall be unto them.
+**[61:7]** Instead of your shame \`ye shall have' double; and instead of dishonor they shall rejoice in their portion: therefore in their land they shall possess double; everlasting joy shall be unto them.
 
 **[61:8]** For I, Jehovah, love justice, I hate robbery with iniquity; and I will give them their recompense in truth, and I will make an everlasting covenant with them.
 
@@ -2436,15 +2436,15 @@
 
 **[63:6]** And I trod down the peoples in mine anger, and made them drunk in my wrath, and I poured out their lifeblood on the earth.
 
-**[63:7]** I will make mention of the lovingkindnesses of Jehovah, `and' the praises of Jehovah, according to all that Jehovah hath bestowed on us, and the great goodness toward the house of Israel, which he hath bestowed on them according to his mercies, and according to the multitude of his lovingkindnesses.
+**[63:7]** I will make mention of the lovingkindnesses of Jehovah, \`and' the praises of Jehovah, according to all that Jehovah hath bestowed on us, and the great goodness toward the house of Israel, which he hath bestowed on them according to his mercies, and according to the multitude of his lovingkindnesses.
 
 **[63:8]** For he said, Surely, they are my people, children that will not deal falsely: so he was their Saviour.
 
 **[63:9]** In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.
 
-**[63:10]** But they rebelled, and grieved his holy Spirit: therefore he was turned to be their enemy, `and' himself fought against them.
+**[63:10]** But they rebelled, and grieved his holy Spirit: therefore he was turned to be their enemy, \`and' himself fought against them.
 
-**[63:11]** Then he remembered the days of old, Moses `and' his people, `saying', Where is he that brought them up out of the sea with the shepherds of his flock? where is he that put his holy Spirit in the midst of them?
+**[63:11]** Then he remembered the days of old, Moses \`and' his people, \`saying', Where is he that brought them up out of the sea with the shepherds of his flock? where is he that put his holy Spirit in the midst of them?
 
 **[63:12]** that caused his glorious arm to go at the right hand of Moses? that divided the waters before them, to make himself an everlasting name?
 
@@ -2458,19 +2458,19 @@
 
 **[63:17]** O Jehovah, why dost thou make us to err from thy ways, and hardenest our heart from thy fear? Return for thy servants' sake, the tribes of thine inheritance.
 
-**[63:18]** Thy holy people possessed `it' but a little while: our adversaries have trodden down thy sanctuary.
+**[63:18]** Thy holy people possessed \`it' but a little while: our adversaries have trodden down thy sanctuary.
 
 **[63:19]** We are become as they over whom thou never barest rule, as they that were not called by thy name.
 
 **[64:1]** Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might quake at thy presence,
 
-**[64:2]** as when fire kindleth the brushwood, `and' the fire causeth the waters to boil; to make thy name known to thine adversaries, that the nations may tremble at thy presence!
+**[64:2]** as when fire kindleth the brushwood, \`and' the fire causeth the waters to boil; to make thy name known to thine adversaries, that the nations may tremble at thy presence!
 
 **[64:3]** When thou didst terrible things which we looked not for, thou camest down, the mountains quaked at thy presence.
 
 **[64:4]** For from of old men have not heard, nor perceived by the ear, neither hath the eye seen a God besides thee, who worketh for him that waiteth for him.
 
-**[64:5]** Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou wast wroth, and we sinned: in them `have we been' of long time; and shall we be saved?
+**[64:5]** Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou wast wroth, and we sinned: in them \`have we been' of long time; and shall we be saved?
 
 **[64:6]** For we are all become as one that is unclean, and all our righteousnesses are as a polluted garment: and we all do fade as a leaf; and our iniquities, like the wind, take us away.
 
@@ -2486,7 +2486,7 @@
 
 **[64:12]** Wilt thou refrain thyself for these things, O Jehovah? wilt thou hold thy peace, and afflict us very sore?
 
-**[65:1]** I am inquired of by them that asked not `for me'; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name.
+**[65:1]** I am inquired of by them that asked not \`for me'; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name.
 
 **[65:2]** I have spread out my hands all the day unto a rebellious people, that walk in a way that is not good, after their own thoughts;
 
@@ -2538,9 +2538,9 @@
 
 **[66:1]** Thus saith Jehovah, Heaven is my throne, and the earth is my footstool: what manner of house will ye build unto me? and what place shall be my rest?
 
-**[66:2]** For all these things hath my hand made, and `so' all these things came to be, saith Jehovah: but to this man will I look, even to him that is poor and of a contrite spirit, and that trembleth at my word.
+**[66:2]** For all these things hath my hand made, and \`so' all these things came to be, saith Jehovah: but to this man will I look, even to him that is poor and of a contrite spirit, and that trembleth at my word.
 
-**[66:3]** He that killeth an ox is as he that slayeth a man; he that sacrificeth a lamb, as he that breaketh a dog's neck; he that offereth an oblation, `as he that offereth' swine's blood; he that burneth frankincense, as he that blesseth an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations:
+**[66:3]** He that killeth an ox is as he that slayeth a man; he that sacrificeth a lamb, as he that breaketh a dog's neck; he that offereth an oblation, \`as he that offereth' swine's blood; he that burneth frankincense, as he that blesseth an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations:
 
 **[66:4]** I also will choose their delusions, and will bring their fears upon them; because when I called, none did answer; when I spake, they did not hear: but they did that which was evil in mine eyes, and chose that wherein I delighted not.
 
@@ -2552,31 +2552,31 @@
 
 **[66:8]** Who hath heard such a thing? who hath seen such things? Shall a land be born in one day? shall a nation be brought forth at once? for as soon as Zion travailed, she brought forth her children.
 
-**[66:9]** Shall I bring to the birth, and not cause to bring forth? saith Jehovah: shall I that cause to bring forth shut `the womb'? saith thy God.
+**[66:9]** Shall I bring to the birth, and not cause to bring forth? saith Jehovah: shall I that cause to bring forth shut \`the womb'? saith thy God.
 
 **[66:10]** Rejoice ye with Jerusalem, and be glad for her, all ye that love her: rejoice for joy with her, all ye that mourn over her;
 
 **[66:11]** that ye may suck and be satisfied with the breasts of her consolations; that ye may milk out, and be delighted with the abundance of her glory.
 
-**[66:12]** For thus saith Jehovah, Behold, I will extend peace to her like a river, and the glory of the nations like an overflowing stream: and ye shall suck `thereof'; ye shall be borne upon the side, and shall be dandled upon the knees.
+**[66:12]** For thus saith Jehovah, Behold, I will extend peace to her like a river, and the glory of the nations like an overflowing stream: and ye shall suck \`thereof'; ye shall be borne upon the side, and shall be dandled upon the knees.
 
 **[66:13]** As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem.
 
-**[66:14]** And ye shall see `it', and your heart shall rejoice, and your bones shall flourish like the tender grass: and the hand of Jehovah shall be known toward his servants; and he will have indignation against his enemies.
+**[66:14]** And ye shall see \`it', and your heart shall rejoice, and your bones shall flourish like the tender grass: and the hand of Jehovah shall be known toward his servants; and he will have indignation against his enemies.
 
 **[66:15]** For, behold, Jehovah will come with fire, and his chariots shall be like the whirlwind; to render his anger with fierceness, and his rebuke with flames of fire.
 
 **[66:16]** For by fire will Jehovah execute judgment, and by his sword, upon all flesh; and the slain of Jehovah shall be many.
 
-**[66:17]** They that sanctify themselves and purify themselves `to go' unto the gardens, behind one in the midst, eating swine's flesh, and the abomination, and the mouse, they shall come to an end together, saith Jehovah.
+**[66:17]** They that sanctify themselves and purify themselves \`to go' unto the gardens, behind one in the midst, eating swine's flesh, and the abomination, and the mouse, they shall come to an end together, saith Jehovah.
 
-**[66:18]** For I `know' their works and their thoughts: `the time' cometh, that I will gather all nations and tongues; and they shall come, and shall see my glory.
+**[66:18]** For I \`know' their works and their thoughts: \`the time' cometh, that I will gather all nations and tongues; and they shall come, and shall see my glory.
 
 **[66:19]** And I will set a sign among them, and I will send such as escape of them unto the nations, to Tarshish, Pul, and Lud, that draw the bow, to Tubal and Javan, to the isles afar off, that have not heard my fame, neither have seen my glory; and they shall declare my glory among the nations.
 
 **[66:20]** And they shall bring all your brethren out of all the nations for an oblation unto Jehovah, upon horses, and in chariots, and in litters, and upon mules, and upon dromedaries, to my holy mountain Jerusalem, saith Jehovah, as the children of Israel bring their oblation in a clean vessel into the house of Jehovah.
 
-**[66:21]** And of them also will I take for priests `and' for Levites, saith Jehovah.
+**[66:21]** And of them also will I take for priests \`and' for Levites, saith Jehovah.
 
 **[66:22]** For as the new heavens and the new earth, which I will make, shall remain before me, saith Jehovah, so shall your seed and your name remain.
 

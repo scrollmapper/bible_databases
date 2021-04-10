@@ -36,7 +36,7 @@
 
 **[2:1]** Then Jonah prayed unto Jehovah his God out of the fish's belly.
 
-**[2:2]** And he said, I called by reason of mine affliction unto Jehovah, And he answered me; Out of the belly of Sheol cried I, `And' thou heardest my voice.
+**[2:2]** And he said, I called by reason of mine affliction unto Jehovah, And he answered me; Out of the belly of Sheol cried I, \`And' thou heardest my voice.
 
 **[2:3]** For thou didst cast me into the depth, in the heart of the seas, And the flood was round about me; All thy waves and thy billows passed over me.
 
@@ -44,7 +44,7 @@
 
 **[2:5]** The waters compassed me about, even to the soul; The deep was round about me; The weeds were wrapped about my head.
 
-**[2:6]** I went down to the bottoms of the mountains; The earth with its bars `closed' upon me for ever: Yet hast thou brought up my life from the pit, O Jehovah my God.
+**[2:6]** I went down to the bottoms of the mountains; The earth with its bars \`closed' upon me for ever: Yet hast thou brought up my life from the pit, O Jehovah my God.
 
 **[2:7]** When my soul fainted within me, I remembered Jehovah; And my prayer came in unto thee, into thy holy temple.
 

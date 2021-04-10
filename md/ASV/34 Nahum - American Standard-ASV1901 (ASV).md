@@ -2,9 +2,9 @@
 
 **[1:1]** The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
 
-**[1:2]** Jehovah is a jealous God and avengeth; Jehovah avengeth and is full of wrath; Jehovah taketh vengeance on his adversaries, and he reserveth `wrath' for his enemies.
+**[1:2]** Jehovah is a jealous God and avengeth; Jehovah avengeth and is full of wrath; Jehovah taketh vengeance on his adversaries, and he reserveth \`wrath' for his enemies.
 
-**[1:3]** Jehovah is slow to anger, and great in power, and will by no means clear `the guilty': Jehovah hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
+**[1:3]** Jehovah is slow to anger, and great in power, and will by no means clear \`the guilty': Jehovah hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
 
 **[1:4]** He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel; and the flower of Lebanon languisheth.
 
@@ -34,7 +34,7 @@
 
 **[2:2]** For Jehovah restoreth the excellency of Jacob, as the excellency of Israel; for the emptiers have emptied them out, and destroyed their vine-branches.
 
-**[2:3]** The shield of his mighty men is made red, the valiant men are in scarlet: the chariots flash with steel in the day of his preparation, and the cypress `spears' are brandished.
+**[2:3]** The shield of his mighty men is made red, the valiant men are in scarlet: the chariots flash with steel in the day of his preparation, and the cypress \`spears' are brandished.
 
 **[2:4]** The chariots rage in the streets; they rush to and fro in the broad ways: the appearance of them is like torches; they run like the lightnings.
 
@@ -44,13 +44,13 @@
 
 **[2:7]** And it is decreed: she is uncovered, she is carried away; and her handmaids moan as with the voice of doves, beating upon their breasts.
 
-**[2:8]** But Nineveh hath been from of old like a pool of water: yet they flee away. Stand, stand, `they cry'; but none looketh back.
+**[2:8]** But Nineveh hath been from of old like a pool of water: yet they flee away. Stand, stand, \`they cry'; but none looketh back.
 
 **[2:9]** Take ye the spoil of silver, take the spoil of gold; for there is no end of the store, the glory of all goodly furniture.
 
 **[2:10]** She is empty, and void, and waste; and the heart melteth, and the knees smite together, and anguish is in all loins, and the faces of them all are waxed pale.
 
-**[2:11]** Where is the den of the lions, and the feeding-place of the young lions, where the lion `and' the lioness walked, the lion's whelp, and none made them afraid?
+**[2:11]** Where is the den of the lions, and the feeding-place of the young lions, where the lion \`and' the lioness walked, the lion's whelp, and none made them afraid?
 
 **[2:12]** The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his caves with prey, and his dens with ravin.
 
@@ -70,7 +70,7 @@
 
 **[3:7]** And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?
 
-**[3:8]** Art thou better than No-amon, that was situate among the rivers, that had the waters round about her; whose rampart was the sea, `and' her wall was of the sea?
+**[3:8]** Art thou better than No-amon, that was situate among the rivers, that had the waters round about her; whose rampart was the sea, \`and' her wall was of the sea?
 
 **[3:9]** Ethiopia and Egypt were her strength, and it was infinite; Put and Lubim were thy helpers.
 
@@ -78,7 +78,7 @@
 
 **[3:11]** Thou also shalt be drunken; thou shalt be hid; thou also shalt seek a stronghold because of the enemy.
 
-**[3:12]** All thy fortresses shall be `like' fig-trees with the first-ripe figs: if they be shaken, they fall into the mouth of the eater.
+**[3:12]** All thy fortresses shall be \`like' fig-trees with the first-ripe figs: if they be shaken, they fall into the mouth of the eater.
 
 **[3:13]** Behold, thy people in the midst of thee are women; the gates of thy land are set wide open unto thine enemies: the fire hath devoured thy bars.
 

@@ -14,7 +14,7 @@
 
 **[2:1]** Why do the nations rage, And the peoples meditate a vain thing?
 
-**[2:2]** The kings of the earth set themselves, And the rulers take counsel together, Against Jehovah, and against his anointed, `saying',
+**[2:2]** The kings of the earth set themselves, And the rulers take counsel together, Against Jehovah, and against his anointed, \`saying',
 
 **[2:3]** Let us break their bonds asunder, And cast away their cords from us.
 
@@ -26,7 +26,7 @@
 
 **[2:7]** I will tell of the decree: Jehovah said unto me, Thou art my son; This day have I begotten thee.
 
-**[2:8]** Ask of me, and I will give `thee' the nations for thine inheritance, And the uttermost parts of the earth for thy possession.
+**[2:8]** Ask of me, and I will give \`thee' the nations for thine inheritance, And the uttermost parts of the earth for thy possession.
 
 **[2:9]** Thou shalt break them with a rod of iron; Thou shalt dash them in pieces like a potter's vessel.
 
@@ -52,9 +52,9 @@
 
 **[3:8]** Salvation belongeth unto Jehovah: Thy blessing be upon thy people. Selah Psalm 4 For the Chief Musician; on stringed instruments. A Psalm of David.
 
-**[4:1]** Answer me when I call, O God of my righteousness; Thou hast set me at large `when I was' in distress: Have mercy upon me, and hear my prayer.
+**[4:1]** Answer me when I call, O God of my righteousness; Thou hast set me at large \`when I was' in distress: Have mercy upon me, and hear my prayer.
 
-**[4:2]** O ye sons of men, how long shall my glory be turned into dishonor? `How long' will ye love vanity, and seek after falsehood? Selah
+**[4:2]** O ye sons of men, how long shall my glory be turned into dishonor? \`How long' will ye love vanity, and seek after falsehood? Selah
 
 **[4:3]** But know that Jehovah hath set apart for himself him that is godly: Jehovah will hear when I call unto him.
 
@@ -62,9 +62,9 @@
 
 **[4:5]** Offer the sacrifices of righteousness, And put your trust in Jehovah.
 
-**[4:6]** Many there are that say, Who will show us `any' good? Jehovah, lift thou up the light of thy countenance upon us.
+**[4:6]** Many there are that say, Who will show us \`any' good? Jehovah, lift thou up the light of thy countenance upon us.
 
-**[4:7]** Thou hast put gladness in my heart, More than `they have' when their grain and their new wine are increased.
+**[4:7]** Thou hast put gladness in my heart, More than \`they have' when their grain and their new wine are increased.
 
 **[4:8]** In peace will I both lay me down and sleep; For thou, Jehovah, alone makest me dwell in safety. Psalm 5 For the Chief Musician; with the Nehiloth. A Psalm of David.
 
@@ -72,7 +72,7 @@
 
 **[5:2]** Hearken unto the voice of my cry, my King, and my God; For unto thee do I pray.
 
-**[5:3]** O Jehovah, in the morning shalt thou hear my voice; In the morning will I order `my prayer' unto thee, and will keep watch.
+**[5:3]** O Jehovah, in the morning shalt thou hear my voice; In the morning will I order \`my prayer' unto thee, and will keep watch.
 
 **[5:4]** For thou art not a God that hath pleasure in wickedness: Evil shall not sojourn with thee.
 
@@ -136,7 +136,7 @@
 
 **[7:12]** If a man turn not, he will whet his sword; He hath bent his bow, and made it ready.
 
-**[7:13]** He hath also prepared for him the instruments of death; He maketh his arrows fiery `shafts'.
+**[7:13]** He hath also prepared for him the instruments of death; He maketh his arrows fiery \`shafts'.
 
 **[7:14]** Behold, he travaileth with iniquity; Yea, he hath conceived mischief, and brought forth falsehood.
 
@@ -176,7 +176,7 @@
 
 **[9:6]** The enemy are come to an end, they are desolate for ever; And the cities which thou hast overthrown, The very remembrance of them is perished.
 
-**[9:7]** But Jehovah sitteth `as king' for ever: He hath prepared his throne for judgment;
+**[9:7]** But Jehovah sitteth \`as king' for ever: He hath prepared his throne for judgment;
 
 **[9:8]** And he will judge the world in righteousness, He will minister judgment to the peoples in uprightness.
 
@@ -188,7 +188,7 @@
 
 **[9:12]** For he that maketh inquisition for blood remembereth them; He forgetteth not the cry of the poor.
 
-**[9:13]** Have mercy upon me, O Jehovah; Behold my affliction `which I suffer' of them that hate me, Thou that liftest me up from the gates of death;
+**[9:13]** Have mercy upon me, O Jehovah; Behold my affliction \`which I suffer' of them that hate me, Thou that liftest me up from the gates of death;
 
 **[9:14]** That I may show forth all thy praise. In the gates of the daughter of Zion I will rejoice in thy salvation.
 
@@ -208,9 +208,9 @@
 
 **[10:2]** In the pride of the wicked the poor is hotly pursued; Let them be taken in the devices that they have conceived.
 
-**[10:3]** For the wicked boasteth of his heart's desire, And the covetous renounceth, `yea', contemneth Jehovah.
+**[10:3]** For the wicked boasteth of his heart's desire, And the covetous renounceth, \`yea', contemneth Jehovah.
 
-**[10:4]** The wicked, in the pride of his countenance, `saith', He will not require `it'. All his thoughts are, There is no God.
+**[10:4]** The wicked, in the pride of his countenance, \`saith', He will not require \`it'. All his thoughts are, There is no God.
 
 **[10:5]** His ways are firm at all times; Thy judgments are far above out of his sight: As for all his adversaries, he puffeth at them.
 
@@ -228,9 +228,9 @@
 
 **[10:12]** Arise, O Jehovah; O God, lift up thy hand: Forget not the poor.
 
-**[10:13]** Wherefore doth the wicked contemn God, And say in his heart, Thou wilt not require `it'?
+**[10:13]** Wherefore doth the wicked contemn God, And say in his heart, Thou wilt not require \`it'?
 
-**[10:14]** Thou hast seen `it'; for thou beholdest mischief and spite, to requite it with thy hand: The helpless committeth `himself' unto thee; Thou hast been the helper of the fatherless.
+**[10:14]** Thou hast seen \`it'; for thou beholdest mischief and spite, to requite it with thy hand: The helpless committeth \`himself' unto thee; Thou hast been the helper of the fatherless.
 
 **[10:15]** Break thou the arm of the wicked; And as for the evil man, seek out his wickedness till thou find none.
 
@@ -238,9 +238,9 @@
 
 **[10:17]** Jehovah, thou hast heard the desire of the meek: Thou wilt prepare their heart, thou wilt cause thine ear to hear;
 
-**[10:18]** To judge the fatherless and the oppressed, That man who is of the earth may be terrible no more. Psalm 11 For the Chief Musician. `A Psalm' of David.
+**[10:18]** To judge the fatherless and the oppressed, That man who is of the earth may be terrible no more. Psalm 11 For the Chief Musician. \`A Psalm' of David.
 
-**[11:1]** In Jehovah do I take refuge: How say ye to my soul, Flee `as' a bird to your mountain;
+**[11:1]** In Jehovah do I take refuge: How say ye to my soul, Flee \`as' a bird to your mountain;
 
 **[11:2]** For, lo, the wicked bend the bow, They make ready their arrow upon the string, That they may shoot in darkness at the upright in heart;
 
@@ -274,13 +274,13 @@
 
 **[13:2]** How long shall I take counsel in my soul, Having sorrow in my heart all the day? How long shall mine enemy be exalted over me?
 
-**[13:3]** Consider `and' answer me, O Jehovah my God: Lighten mine eyes, lest I sleep the `sleep of' death;
+**[13:3]** Consider \`and' answer me, O Jehovah my God: Lighten mine eyes, lest I sleep the \`sleep of' death;
 
-**[13:4]** Lest mine enemy say, I have prevailed against him; `Lest' mine adversaries rejoice when I am moved.
+**[13:4]** Lest mine enemy say, I have prevailed against him; \`Lest' mine adversaries rejoice when I am moved.
 
 **[13:5]** But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation.
 
-**[13:6]** I will sing unto Jehovah, Because he hath dealt bountifully with me. Psalm 14 For the Chief Musician. `A Psalm' of David.
+**[13:6]** I will sing unto Jehovah, Because he hath dealt bountifully with me. Psalm 14 For the Chief Musician. \`A Psalm' of David.
 
 **[14:1]** The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works; There is none that doeth good.
 
@@ -288,13 +288,13 @@
 
 **[14:3]** They are all gone aside; they are together become filthy; There is none that doeth good, no, not one.
 
-**[14:4]** Have all the workers of iniquity no knowledge, Who eat up my people `as' they eat bread, And call not upon Jehovah?
+**[14:4]** Have all the workers of iniquity no knowledge, Who eat up my people \`as' they eat bread, And call not upon Jehovah?
 
 **[14:5]** There were they in great fear; For God is in the generation of the righteous.
 
 **[14:6]** Ye put to shame the counsel of the poor, Because Jehovah is his refuge.
 
-**[14:7]** Oh that the salvation of Israel were come out of Zion! When Jehovah bringeth back the captivity of his people, Then shall Jacob rejoice, `and' Israel shall be glad. Psalm 15 A Psalm of David.
+**[14:7]** Oh that the salvation of Israel were come out of Zion! When Jehovah bringeth back the captivity of his people, Then shall Jacob rejoice, \`and' Israel shall be glad. Psalm 15 A Psalm of David.
 
 **[15:1]** Jehovah, who shall sojourn in thy tabernacle? Who shall dwell in thy holy hill?
 
@@ -308,11 +308,11 @@
 
 **[16:1]** Preserve me, O God; for in thee do I take refuge.
 
-**[16:2]** `O my soul', thou hast said unto Jehovah, Thou art my Lord: I have no good beyond thee.
+**[16:2]** \`O my soul', thou hast said unto Jehovah, Thou art my Lord: I have no good beyond thee.
 
 **[16:3]** As for the saints that are in the earth, They are the excellent in whom is all my delight.
 
-**[16:4]** Their sorrows shall be multiplied that give gifts for another `god': Their drink-offerings of blood will I not offer, Nor take their names upon my lips.
+**[16:4]** Their sorrows shall be multiplied that give gifts for another \`god': Their drink-offerings of blood will I not offer, Nor take their names upon my lips.
 
 **[16:5]** Jehovah is the portion of mine inheritance and of my cup: Thou maintainest my lot.
 
@@ -338,9 +338,9 @@
 
 **[17:5]** My steps have held fast to thy paths, My feet have not slipped.
 
-**[17:6]** I have called upon thee, for thou wilt answer me, O God: Incline thine ear unto me, `and' hear my speech.
+**[17:6]** I have called upon thee, for thou wilt answer me, O God: Incline thine ear unto me, \`and' hear my speech.
 
-**[17:7]** Show thy marvellous lovingkindness, O thou that savest by thy right hand them that take refuge `in thee 'From those that rise up `against them'.
+**[17:7]** Show thy marvellous lovingkindness, O thou that savest by thy right hand them that take refuge \`in thee 'From those that rise up \`against them'.
 
 **[17:8]** Keep me as the apple of the eye; Hide me under the shadow of thy wings,
 
@@ -348,15 +348,15 @@
 
 **[17:10]** They are inclosed in their own fat: With their mouth they speak proudly.
 
-**[17:11]** They have now compassed us in our steps; They set their eyes to cast `us' down to the earth.
+**[17:11]** They have now compassed us in our steps; They set their eyes to cast \`us' down to the earth.
 
 **[17:12]** He is like a lion that is greedy of his prey, And as it were a young lion lurking in secret places.
 
 **[17:13]** Arise, O Jehovah, Confront him, cast him down: Deliver my soul from the wicked by thy sword;
 
-**[17:14]** From men by thy hand, O Jehovah, From men of the world, whose portion is in `this' life, And whose belly thou fillest with thy treasure: They are satisfied with children, And leave the rest of their substance to their babes.
+**[17:14]** From men by thy hand, O Jehovah, From men of the world, whose portion is in \`this' life, And whose belly thou fillest with thy treasure: They are satisfied with children, And leave the rest of their substance to their babes.
 
-**[17:15]** As for me, I shall behold thy face in righteousness; I shall be satisfied, when I awake, with `beholding' thy form. Psalm 18 For the Chief Musician. `A Psalm' of David the servant of Jehovah, who spake unto Jehovah the words of this song in the day that Jehovah delivered him from the hand of all his enemies, and from the hand of Saul: and he said,
+**[17:15]** As for me, I shall behold thy face in righteousness; I shall be satisfied, when I awake, with \`beholding' thy form. Psalm 18 For the Chief Musician. \`A Psalm' of David the servant of Jehovah, who spake unto Jehovah the words of this song in the day that Jehovah delivered him from the hand of all his enemies, and from the hand of Saul: and he said,
 
 **[18:1]** I love thee, O Jehovah, my strength.
 
@@ -422,7 +422,7 @@
 
 **[18:32]** The God that girdeth me with strength, And maketh my way perfect?
 
-**[18:33]** He maketh my feet like hinds' `feet': And setteth me upon my high places.
+**[18:33]** He maketh my feet like hinds' \`feet': And setteth me upon my high places.
 
 **[18:34]** He teacheth my hands to war; So that mine arms do bend a bow of brass.
 
@@ -474,15 +474,15 @@
 
 **[19:8]** The precepts of Jehovah are right, rejoicing the heart: The commandment of Jehovah is pure, enlightening the eyes.
 
-**[19:9]** The fear of Jehovah is clean, enduring for ever: The ordinances of Jehovah are true, `and' righteous altogether.
+**[19:9]** The fear of Jehovah is clean, enduring for ever: The ordinances of Jehovah are true, \`and' righteous altogether.
 
 **[19:10]** More to be desired are they than gold, yea, than much fine gold; Sweeter also than honey and the droppings of the honeycomb.
 
 **[19:11]** Moreover by them is thy servant warned: In keeping them there is great reward.
 
-**[19:12]** Who can discern `his' errors? Clear thou me from hidden `faults'.
+**[19:12]** Who can discern \`his' errors? Clear thou me from hidden \`faults'.
 
-**[19:13]** Keep back thy servant also from presumptuous `sins'; Let them not have dominion over me: Then shall I be upright, And I shall be clear from great transgression.
+**[19:13]** Keep back thy servant also from presumptuous \`sins'; Let them not have dominion over me: Then shall I be upright, And I shall be clear from great transgression.
 
 **[19:14]** Let the words of my mouth and the meditation of my heart Be acceptable in thy sight, O Jehovah, my rock, and my redeemer. Psalm 20 For the Chief Musician. A Psalm of David.
 
@@ -498,7 +498,7 @@
 
 **[20:6]** Now know I that Jehovah saveth his anointed; He will answer him from his holy heaven With the saving strength of his right hand.
 
-**[20:7]** Some `trust' in chariots, and some in horses; But we will make mention of the name of Jehovah our God.
+**[20:7]** Some \`trust' in chariots, and some in horses; But we will make mention of the name of Jehovah our God.
 
 **[20:8]** They are bowed down and fallen; But we are risen, and stand upright.
 
@@ -530,7 +530,7 @@
 
 **[21:13]** Be thou exalted, O Jehovah, in thy strength: So will we sing and praise thy power. Psalm 22 For the Chief Musician; set to Aijaleth hash-Shahar. A Psalm of David.
 
-**[22:1]** My God, my God, why hast thou forsaken me? `Why art thou so' far from helping me, `and from' the words of my groaning?
+**[22:1]** My God, my God, why hast thou forsaken me? \`Why art thou so' far from helping me, \`and from' the words of my groaning?
 
 **[22:2]** O my God, I cry in the daytime, but thou answerest not; And in the night season, and am not silent.
 
@@ -542,11 +542,11 @@
 
 **[22:6]** But I am a worm, and no man; A reproach of men, and despised of the people.
 
-**[22:7]** All they that see me laugh me to scorn: They shoot out the lip, they shake the head, `saying',
+**[22:7]** All they that see me laugh me to scorn: They shoot out the lip, they shake the head, \`saying',
 
-**[22:8]** Commit `thyself' unto Jehovah; Let him deliver him: Let him rescue him, seeing he delighteth in him.
+**[22:8]** Commit \`thyself' unto Jehovah; Let him deliver him: Let him rescue him, seeing he delighteth in him.
 
-**[22:9]** But thou art he that took me out of the womb; Thou didst make me trust `when I was' upon my mother's breasts.
+**[22:9]** But thou art he that took me out of the womb; Thou didst make me trust \`when I was' upon my mother's breasts.
 
 **[22:10]** I was cast upon thee from the womb; Thou art my God since my mother bare me.
 
@@ -554,7 +554,7 @@
 
 **[22:12]** Many bulls have compassed me; Strong bulls of Bashan have beset me round.
 
-**[22:13]** They gape upon me with their mouth, `As' a ravening and a roaring lion.
+**[22:13]** They gape upon me with their mouth, \`As' a ravening and a roaring lion.
 
 **[22:14]** I am poured out like water, And all my bones are out of joint: My heart is like wax; It is melted within me.
 
@@ -588,7 +588,7 @@
 
 **[22:29]** All the fat ones of the earth shall eat and worship: All they that go down to the dust shall bow before him, Even he that cannot keep his soul alive.
 
-**[22:30]** A seed shall serve him; It shall be told of the Lord unto the `next' generation.
+**[22:30]** A seed shall serve him; It shall be told of the Lord unto the \`next' generation.
 
 **[22:31]** They shall come and shall declare his righteousness Unto a people that shall be born, that he hath done it. Psalm 23 A Psalm of David.
 
@@ -614,7 +614,7 @@
 
 **[24:5]** He shall receive a blessing from Jehovah, And righteousness from the God of his salvation.
 
-**[24:6]** This is the generation of them that seek after him, That seek thy face, `even' Jacob. Selah
+**[24:6]** This is the generation of them that seek after him, That seek thy face, \`even' Jacob. Selah
 
 **[24:7]** Lift up your heads, O ye gates; And be ye lifted up, ye everlasting doors: And the King of glory will come in.
 
@@ -622,7 +622,7 @@
 
 **[24:9]** Lift up your heads, O ye gates; Yea, lift them up, ye everlasting doors: And the King of glory will come in.
 
-**[24:10]** Who is this King of glory? Jehovah of hosts, He is the King of glory. Selah Psalm 25 `A Psalm' of David.
+**[24:10]** Who is this King of glory? Jehovah of hosts, He is the King of glory. Selah Psalm 25 \`A Psalm' of David.
 
 **[25:1]** Unto thee, O Jehovah, do I lift up my soul.
 
@@ -666,7 +666,7 @@
 
 **[25:21]** Let integrity and uprightness preserve me, For I wait for thee.
 
-**[25:22]** Redeem Israel, O God, Out all of his troubles. Psalm 26 `A Psalm' of David.
+**[25:22]** Redeem Israel, O God, Out all of his troubles. Psalm 26 \`A Psalm' of David.
 
 **[26:1]** Judge me, O Jehovah, for I have walked in mine integrity: I have trusted also in Jehovah without wavering.
 
@@ -690,11 +690,11 @@
 
 **[26:11]** But as for me, I will walk in mine integrity: Redeem me, and be merciful unto me.
 
-**[26:12]** My foot standeth in an even place: In the congregations will I bless Jehovah. Psalm 27 `A Psalm' of David.
+**[26:12]** My foot standeth in an even place: In the congregations will I bless Jehovah. Psalm 27 \`A Psalm' of David.
 
 **[27:1]** Jehovah is my light and my salvation; Whom shall I fear? Jehovah is the strength of my life; Of whom shall I be afraid?
 
-**[27:2]** When evil-doers came upon me to eat up my flesh, `Even' mine adversaries and my foes, they stumbled and fell.
+**[27:2]** When evil-doers came upon me to eat up my flesh, \`Even' mine adversaries and my foes, they stumbled and fell.
 
 **[27:3]** Though a host should encamp against me, My heart shall not fear: Though war should rise against me, Even then will I be confident.
 
@@ -706,7 +706,7 @@
 
 **[27:7]** Hear, O Jehovah, when I cry with my voice: Have mercy also upon me, and answer me.
 
-**[27:8]** `When thou saidst', Seek ye my face; My heart said unto thee, Thy face, Jehovah, will I seek.
+**[27:8]** \`When thou saidst', Seek ye my face; My heart said unto thee, Thy face, Jehovah, will I seek.
 
 **[27:9]** Hide not thy face from me; Put not thy servant away in anger: Thou hast been my help; Cast me not off, neither forsake me, O God of my salvation.
 
@@ -716,9 +716,9 @@
 
 **[27:12]** Deliver me not over unto the will of mine adversaries: For false witnesses are risen up against me, And such as breathe out cruelty.
 
-**[27:13]** `I had fainted', unless I had believed to see the goodness of Jehovah In the land of the living.
+**[27:13]** \`I had fainted', unless I had believed to see the goodness of Jehovah In the land of the living.
 
-**[27:14]** Wait for Jehovah: Be strong, and let thy heart take courage; Yea, wait thou for Jehovah. Psalm 28 `A Psalm' of David.
+**[27:14]** Wait for Jehovah: Be strong, and let thy heart take courage; Yea, wait thou for Jehovah. Psalm 28 \`A Psalm' of David.
 
 **[28:1]** Unto thee, O Jehovah, will I call: My rock, be not thou deaf unto me; Lest, if thou be silent unto me, I become like them that go down into the pit.
 
@@ -756,9 +756,9 @@
 
 **[29:9]** The voice of Jehovah maketh the hinds to calve, And strippeth the forests bare: And in his temple everything saith, Glory.
 
-**[29:10]** Jehovah sat `as King' at the Flood; Yea, Jehovah sitteth as King for ever.
+**[29:10]** Jehovah sat \`as King' at the Flood; Yea, Jehovah sitteth as King for ever.
 
-**[29:11]** Jehovah will give strength unto his people; Jehovah will bless his people with peace. Psalm 30 A Psalm; a Song at the Dedication of the House. `A Psalm' of David.
+**[29:11]** Jehovah will give strength unto his people; Jehovah will bless his people with peace. Psalm 30 A Psalm; a Song at the Dedication of the House. \`A Psalm' of David.
 
 **[30:1]** I will extol thee, O Jehovah; for thou hast raised me up, And hast not made my foes to rejoice over me.
 
@@ -766,9 +766,9 @@
 
 **[30:3]** O Jehovah, thou hast brought up my soul from Sheol; Thou hast kept me alive, that I should not go down to the pit.
 
-**[30:4]** Sing praise unto Jehovah, O ye saints of his, And give thanks to his holy memorial `name'.
+**[30:4]** Sing praise unto Jehovah, O ye saints of his, And give thanks to his holy memorial \`name'.
 
-**[30:5]** For his anger is but for a moment; His favor is for a life-time: Weeping may tarry for the night, But joy `cometh' in the morning.
+**[30:5]** For his anger is but for a moment; His favor is for a life-time: Weeping may tarry for the night, But joy \`cometh' in the morning.
 
 **[30:6]** As for me, I said in my prosperity, I shall never be moved.
 
@@ -782,7 +782,7 @@
 
 **[30:11]** Thou hast turned for me my mourning into dancing; Thou hast loosed my sackcloth, and girded me with gladness;
 
-**[30:12]** To the end that `my' glory may sing praise to thee, and not be silent. O Jehovah my God, I will give thanks unto thee for ever. Psalm 31 For the Chief Musician. A Psalm of David.
+**[30:12]** To the end that \`my' glory may sing praise to thee, and not be silent. O Jehovah my God, I will give thanks unto thee for ever. Psalm 31 For the Chief Musician. A Psalm of David.
 
 **[31:1]** In thee, O Jehovah, do I take refuge; Let me never be put to shame: Deliver me in thy righteousness.
 
@@ -800,7 +800,7 @@
 
 **[31:8]** And thou hast not shut me up into the hand of the enemy; Thou hast set my feet in a large place.
 
-**[31:9]** Have mercy upon me, O Jehovah, for I am in distress: Mine eye wasteth away with grief, `yea', my soul and my body.
+**[31:9]** Have mercy upon me, O Jehovah, for I am in distress: Mine eye wasteth away with grief, \`yea', my soul and my body.
 
 **[31:10]** For my life is spent with sorrow, And my years with sighing: My strength faileth because of mine iniquity, And my bones are wasted away.
 
@@ -830,7 +830,7 @@
 
 **[31:23]** Oh love Jehovah, all ye his saints: Jehovah preserveth the faithful, And plentifully rewardeth him that dealeth proudly.
 
-**[31:24]** Be strong, and let your heart take courage, All ye that hope in Jehovah. Psalm 32 `A Psalm' of David. Maschil.
+**[31:24]** Be strong, and let your heart take courage, All ye that hope in Jehovah. Psalm 32 \`A Psalm' of David. Maschil.
 
 **[32:1]** Blessed is he whose transgression is forgiven, Whose sin is covered.
 
@@ -838,7 +838,7 @@
 
 **[32:3]** When I kept silence, my bones wasted away Through my groaning all the day long.
 
-**[32:4]** For day and night thy hand was heavy upon me: My moisture was changed `as' with the drought of summer. Selah
+**[32:4]** For day and night thy hand was heavy upon me: My moisture was changed \`as' with the drought of summer. Selah
 
 **[32:5]** I acknowledged my sin unto thee, And mine iniquity did I not hide: I said, I will confess my transgressions unto Jehovah; And thou forgavest the iniquity of my sin. Selah
 
@@ -848,7 +848,7 @@
 
 **[32:8]** I will instruct thee and teach thee in the way which thou shalt go: I will counsel thee with mine eye upon thee.
 
-**[32:9]** Be ye not as the horse, or as the mule, which have no understanding; Whose trappings must be bit and bridle to hold them in, `Else' they will not come near unto thee.
+**[32:9]** Be ye not as the horse, or as the mule, which have no understanding; Whose trappings must be bit and bridle to hold them in, \`Else' they will not come near unto thee.
 
 **[32:10]** Many sorrows shall be to the wicked; But he that trusteth in Jehovah, lovingkindness shall compass him about.
 
@@ -860,7 +860,7 @@
 
 **[33:3]** Sing unto him a new song; Play skilfully with a loud noise.
 
-**[33:4]** For the word of Jehovah is right; And all his work is `done' in faithfulness.
+**[33:4]** For the word of Jehovah is right; And all his work is \`done' in faithfulness.
 
 **[33:5]** He loveth righteousness and justice: The earth is full of the lovingkindness of Jehovah.
 
@@ -920,17 +920,17 @@
 
 **[34:11]** Come, ye children, hearken unto me: I will teach you the fear of Jehovah.
 
-**[34:12]** What man is he that desireth life, And loveth `many' days, that he may see good?
+**[34:12]** What man is he that desireth life, And loveth \`many' days, that he may see good?
 
 **[34:13]** Keep thy tongue from evil, And thy lips from speaking guile.
 
 **[34:14]** Depart from evil, and do good; Seek peace, and pursue it.
 
-**[34:15]** The eyes of Jehovah are toward the righteous, And his ears are `open' unto their cry.
+**[34:15]** The eyes of Jehovah are toward the righteous, And his ears are \`open' unto their cry.
 
 **[34:16]** The face of Jehovah is against them that do evil, To cut off the remembrance of them from the earth.
 
-**[34:17]** `The righteous' cried, and Jehovah heard, And delivered them out of all their troubles.
+**[34:17]** \`The righteous' cried, and Jehovah heard, And delivered them out of all their troubles.
 
 **[34:18]** Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.
 
@@ -940,7 +940,7 @@
 
 **[34:21]** Evil shall slay the wicked; And they that hate the righteous shall be condemned.
 
-**[34:22]** Jehovah redeemeth the soul of his servants; And none of them that take refuge in him shall be condemned. Psalm 35 `A Psalm' of David.
+**[34:22]** Jehovah redeemeth the soul of his servants; And none of them that take refuge in him shall be condemned. Psalm 35 \`A Psalm' of David.
 
 **[35:1]** Strive thou, O Jehovah, with them that strive with me: Fight thou against them that fight against me.
 
@@ -950,11 +950,11 @@
 
 **[35:4]** Let them be put to shame and brought to dishonor that seek after my soul: Let them be turned back and confounded that devise my hurt.
 
-**[35:5]** Let them be as chaff before the wind, And the angel of Jehovah driving `them' on.
+**[35:5]** Let them be as chaff before the wind, And the angel of Jehovah driving \`them' on.
 
 **[35:6]** Let their way be dark and slippery, And the angel of Jehovah pursuing them.
 
-**[35:7]** For without cause have they hid for me their net `in' a pit; Without cause have they digged `a pit' for my soul.
+**[35:7]** For without cause have they hid for me their net \`in' a pit; Without cause have they digged \`a pit' for my soul.
 
 **[35:8]** Let destruction come upon him unawares; And let his net that he hath hid catch himself: With destruction let him fall therein.
 
@@ -964,13 +964,13 @@
 
 **[35:11]** Unrighteous witnesses rise up; They ask me of things that I know not.
 
-**[35:12]** They reward me evil for good, `To' the bereaving of my soul.
+**[35:12]** They reward me evil for good, \`To' the bereaving of my soul.
 
 **[35:13]** But as for me, when they were sick, my clothing was sackcloth: I afflicted my soul with fasting; And my prayer returned into mine own bosom.
 
 **[35:14]** I behaved myself as though it had been my friend or my brother: I bowed down mourning, as one that bewaileth his mother.
 
-**[35:15]** But in mine adversity they rejoiced, and gathered themselves together: The abjects gathered themselves together against me, and I knew `it' not; They did tear me, and ceased not:
+**[35:15]** But in mine adversity they rejoiced, and gathered themselves together: The abjects gathered themselves together against me, and I knew \`it' not; They did tear me, and ceased not:
 
 **[35:16]** Like the profane mockers in feasts, They gnashed upon me with their teeth.
 
@@ -986,7 +986,7 @@
 
 **[35:22]** Thou hast seen it, O Jehovah; keep not silence: O Lord, be not far from me.
 
-**[35:23]** Stir up thyself, and awake to the justice `due' unto me, `Even' unto my cause, my God and my Lord.
+**[35:23]** Stir up thyself, and awake to the justice \`due' unto me, \`Even' unto my cause, my God and my Lord.
 
 **[35:24]** Judge me, O Jehovah my God, according to thy righteousness; And let them not rejoice over me.
 
@@ -996,17 +996,17 @@
 
 **[35:27]** Let them shout for joy, and be glad, that favor my righteous cause: Yea, let them say continually, Jehovah be magnified, Who hath pleasure in the prosperity of his servant.
 
-**[35:28]** And my tongue shall talk of thy righteousness `And' of thy praise all the day long. Psalm 36 For the Chief Musician. `A Psalm' of David the servant of Jehovah.
+**[35:28]** And my tongue shall talk of thy righteousness \`And' of thy praise all the day long. Psalm 36 For the Chief Musician. \`A Psalm' of David the servant of Jehovah.
 
 **[36:1]** The transgression of the wicked saith within my heart, There is no fear of God before his eyes.
 
 **[36:2]** For he flattereth himself in his own eyes, That his iniquity will not be found out and be hated.
 
-**[36:3]** The words of his mouth are iniquity and deceit: He hath ceased to be wise `and' to do good.
+**[36:3]** The words of his mouth are iniquity and deceit: He hath ceased to be wise \`and' to do good.
 
 **[36:4]** He deviseth iniquity upon his bed; He setteth himself in a way that is not good; He abhorreth not evil.
 
-**[36:5]** Thy lovingkindness, O Jehovah, is in the heavens; Thy faithfulness `reacheth' unto the skies.
+**[36:5]** Thy lovingkindness, O Jehovah, is in the heavens; Thy faithfulness \`reacheth' unto the skies.
 
 **[36:6]** Thy righteousness is like the mountains of God; Thy judgments are a great deep: O Jehovah, thou preservest man and beast.
 
@@ -1020,13 +1020,13 @@
 
 **[36:11]** Let not the foot of pride come against me, And let not the hand of the wicked drive me away.
 
-**[36:12]** There are the workers of iniquity fallen: They are thrust down, and shall not be able to rise. Psalm 37 `A Psalm' of David.
+**[36:12]** There are the workers of iniquity fallen: They are thrust down, and shall not be able to rise. Psalm 37 \`A Psalm' of David.
 
 **[37:1]** Fret not thyself because of evil-doers, Neither be thou envious against them that work unrighteousness.
 
 **[37:2]** For they shall soon be cut down like the grass, And wither as the green herb.
 
-**[37:3]** Trust in Jehovah, and do good; Dwell in the land, and feed on `his' faithfulness.
+**[37:3]** Trust in Jehovah, and do good; Dwell in the land, and feed on \`his' faithfulness.
 
 **[37:4]** Delight thyself also in Jehovah; And he will give thee the desires of thy heart.
 
@@ -1036,7 +1036,7 @@
 
 **[37:7]** Rest in Jehovah, and wait patiently for him: Fret not thyself because of him who prospereth in his way, Because of the man who bringeth wicked devices to pass.
 
-**[37:8]** Cease from anger, and forsake wrath: Fret not thyself, `it tendeth' only to evil-doing.
+**[37:8]** Cease from anger, and forsake wrath: Fret not thyself, \`it tendeth' only to evil-doing.
 
 **[37:9]** For evil-doers shall be cut off; But those that wait for Jehovah, they shall inherit the land.
 
@@ -1094,7 +1094,7 @@
 
 **[37:36]** But one passed by, and, lo, he was not: Yea, I sought him, but he could not be found.
 
-**[37:37]** Mark the perfect man, and behold the upright; For there is a `happy' end to the man of peace.
+**[37:37]** Mark the perfect man, and behold the upright; For there is a \`happy' end to the man of peace.
 
 **[37:38]** As for transgressors, they shall be destroyed together; The end of the wicked shall be cut off.
 
@@ -1124,7 +1124,7 @@
 
 **[38:11]** My lovers and my friends stand aloof from my plague; And my kinsmen stand afar off.
 
-**[38:12]** They also that seek after my life lay snares `for me'; And they that seek my hurt speak mischievous things, And meditate deceits all the day long.
+**[38:12]** They also that seek after my life lay snares \`for me'; And they that seek my hurt speak mischievous things, And meditate deceits all the day long.
 
 **[38:13]** But I, as a deaf man, hear not; And I am as a dumb man that openeth not his mouth.
 
@@ -1138,7 +1138,7 @@
 
 **[38:18]** For I will declare mine iniquity; I will be sorry for my sin.
 
-**[38:19]** But mine enemies are lively, `and' are strong; And they that hate me wrongfully are multiplied.
+**[38:19]** But mine enemies are lively, \`and' are strong; And they that hate me wrongfully are multiplied.
 
 **[38:20]** They also that render evil for good Are adversaries unto me, because I follow the thing that is good.
 
@@ -1150,13 +1150,13 @@
 
 **[39:2]** I was dumb with silence, I held my peace, even from good; And my sorrow was stirred.
 
-**[39:3]** My heart was hot within me; While I was musing the fire burned: `Then' spake I with my tongue:
+**[39:3]** My heart was hot within me; While I was musing the fire burned: \`Then' spake I with my tongue:
 
 **[39:4]** Jehovah, make me to know mine end, And the measure of my days, what it is; Let me know how frail I am.
 
-**[39:5]** Behold, thou hast made my days `as' handbreadths; And my life-time is as nothing before thee: Surely every man at his best estate is altogether vanity. Selah
+**[39:5]** Behold, thou hast made my days \`as' handbreadths; And my life-time is as nothing before thee: Surely every man at his best estate is altogether vanity. Selah
 
-**[39:6]** Surely every man walketh in a vain show; Surely they are disquieted in vain: He heapeth up `riches', and knoweth not who shall gather them.
+**[39:6]** Surely every man walketh in a vain show; Surely they are disquieted in vain: He heapeth up \`riches', and knoweth not who shall gather them.
 
 **[39:7]** And now, Lord, what wait I for? My hope is in thee.
 
@@ -1204,7 +1204,7 @@
 
 **[40:16]** Let all those that seek thee rejoice and be glad in thee: Let such as love thy salvation say continually, Jehovah be magnified.
 
-**[40:17]** But I am poor and needy; `Yet' the Lord thinketh upon me: Thou art my help and my deliverer; Make no tarrying, O my God. Psalm 41 For the Chief Musician. A Psalm of David.
+**[40:17]** But I am poor and needy; \`Yet' the Lord thinketh upon me: Thou art my help and my deliverer; Make no tarrying, O my God. Psalm 41 For the Chief Musician. A Psalm of David.
 
 **[41:1]** Blessed is he that considereth the poor: Jehovah will deliver him in the day of evil.
 
@@ -1214,13 +1214,13 @@
 
 **[41:4]** I said, O Jehovah, have mercy upon me: Heal my soul; for I have sinned against thee.
 
-**[41:5]** Mine enemies speak evil against me, `saying', When will he die, and his name perish?
+**[41:5]** Mine enemies speak evil against me, \`saying', When will he die, and his name perish?
 
-**[41:6]** And if he come to see `me', he speaketh falsehood; His heart gathereth iniquity to itself: When he goeth abroad, he telleth it.
+**[41:6]** And if he come to see \`me', he speaketh falsehood; His heart gathereth iniquity to itself: When he goeth abroad, he telleth it.
 
 **[41:7]** All that hate me whisper together against me; Against me do they devise my hurt.
 
-**[41:8]** An evil disease, `say they', cleaveth fast unto him; And now that he lieth he shall rise up no more.
+**[41:8]** An evil disease, \`say they', cleaveth fast unto him; And now that he lieth he shall rise up no more.
 
 **[41:9]** Yea, mine own familiar friend, in whom I trusted, Who did eat of my bread, Hath lifted up his heel against me.
 
@@ -1240,19 +1240,19 @@
 
 **[42:4]** These things I remember, and pour out my soul within me, How I went with the throng, and led them to the house of God, With the voice of joy and praise, a multitude keeping holyday.
 
-**[42:5]** Why art thou cast down, O my soul? And `why' art thou disquieted within me? Hope thou in God; for I shall yet praise him `For' the help of his countenance.
+**[42:5]** Why art thou cast down, O my soul? And \`why' art thou disquieted within me? Hope thou in God; for I shall yet praise him \`For' the help of his countenance.
 
 **[42:6]** O my God, my soul is cast down within me: Therefore do I remember thee from the land of the Jordan, And the Hermons, from the hill Mizar.
 
 **[42:7]** Deep calleth unto deep at the noise of thy waterfalls: All thy waves and thy billows are gone over me.
 
-**[42:8]** `Yet' Jehovah will command his lovingkindness in the day-time; And in the night his song shall be with me, `Even' a prayer unto the God of my life.
+**[42:8]** \`Yet' Jehovah will command his lovingkindness in the day-time; And in the night his song shall be with me, \`Even' a prayer unto the God of my life.
 
 **[42:9]** I will say unto God my rock, Why hast thou forgotten me? Why go I mourning because of the oppression of the enemy?
 
 **[42:10]** As with a sword in my bones, mine adversaries reproach me, While they continually say unto me, Where is thy God?
 
-**[42:11]** Why art thou cast down, O my soul? And why art thou disquieted within me? Hope thou in God; for I shall yet praise him, `Who is' the help of my countenance, and my God.
+**[42:11]** Why art thou cast down, O my soul? And why art thou disquieted within me? Hope thou in God; for I shall yet praise him, \`Who is' the help of my countenance, and my God.
 
 **[43:1]** Judge me, O God, and plead my cause against an ungodly nation: Oh deliver me from the deceitful and unjust man.
 
@@ -1262,7 +1262,7 @@
 
 **[43:4]** Then will I go unto the altar of God, Unto God my exceeding joy; And upon the harp will I praise thee, O God, my God.
 
-**[43:5]** Why art thou cast down, O my soul? And why art thou disquieted within me? Hope thou in God; for I shall yet praise him, `Who is' the help of my countenance, and my God. Psalm 44 For the Chief Musician. `A Psalm' of the sons of Korah. Maschil.
+**[43:5]** Why art thou cast down, O my soul? And why art thou disquieted within me? Hope thou in God; for I shall yet praise him, \`Who is' the help of my countenance, and my God. Psalm 44 For the Chief Musician. \`A Psalm' of the sons of Korah. Maschil.
 
 **[44:1]** We have heard with our ears, O God, Our fathers have told us, What work thou didst in their days, In the days of old.
 
@@ -1280,13 +1280,13 @@
 
 **[44:8]** In God have we made our boast all the day long, And we will give thanks unto thy name for ever. Selah
 
-**[44:9]** But now thou hast cast `us' off, and brought us to dishonor, And goest not forth with our hosts.
+**[44:9]** But now thou hast cast \`us' off, and brought us to dishonor, And goest not forth with our hosts.
 
 **[44:10]** Thou makest us to turn back from the adversary; And they that hate us take spoil for themselves.
 
-**[44:11]** Thou hast made us like sheep `appointed' for food, And hast scattered us among the nations.
+**[44:11]** Thou hast made us like sheep \`appointed' for food, And hast scattered us among the nations.
 
-**[44:12]** Thou sellest thy people for nought, And hast not increased `thy wealth' by their price.
+**[44:12]** Thou sellest thy people for nought, And hast not increased \`thy wealth' by their price.
 
 **[44:13]** Thou makest us a reproach to our neighbors, A scoffing and a derision to them that are round about us.
 
@@ -1308,13 +1308,13 @@
 
 **[44:22]** Yea, for thy sake are we killed all the day long; We are accounted as sheep for the slaughter.
 
-**[44:23]** Awake, why sleepest thou, O Lord? Arise, cast `us' not off for ever.
+**[44:23]** Awake, why sleepest thou, O Lord? Arise, cast \`us' not off for ever.
 
 **[44:24]** Wherefore hidest thou thy face, And forgettest our affliction and our oppression?
 
 **[44:25]** For our soul is bowed down to the dust: Our body cleaveth unto the earth.
 
-**[44:26]** Rise up for our help, And redeem us for thy lovingkindness' sake. Psalm 45 For the Chief Musician; set to Shoshannim. `A Psalm' of the sons of Korah. Maschil. A Song of loves.
+**[44:26]** Rise up for our help, And redeem us for thy lovingkindness' sake. Psalm 45 For the Chief Musician; set to Shoshannim. \`A Psalm' of the sons of Korah. Maschil. A Song of loves.
 
 **[45:1]** My heart overfloweth with a goodly matter; I speak the things which I have made touching the king: My tongue is the pen of a ready writer.
 
@@ -1322,15 +1322,15 @@
 
 **[45:3]** Gird thy sword upon thy thigh, O mighty one, Thy glory and thy majesty.
 
-**[45:4]** And in thy majesty ride on prosperously, Because of truth and meekness `and' righteousness: And thy right hand shall teach thee terrible things.
+**[45:4]** And in thy majesty ride on prosperously, Because of truth and meekness \`and' righteousness: And thy right hand shall teach thee terrible things.
 
-**[45:5]** Thine arrows are sharp; The peoples fall under thee; `They are' in the heart of the king's enemies.
+**[45:5]** Thine arrows are sharp; The peoples fall under thee; \`They are' in the heart of the king's enemies.
 
 **[45:6]** Thy throne, O God, is for ever and ever: A sceptre of equity is the sceptre of thy kingdom.
 
 **[45:7]** Thou hast loved righteousness, and hated wickedness: Therefore God, thy God, hath anointed thee With the oil of gladness above thy fellows.
 
-**[45:8]** All thy garments `smell of' myrrh, and aloes, `and' cassia; Out of ivory palaces stringed instruments have made thee glad.
+**[45:8]** All thy garments \`smell of' myrrh, and aloes, \`and' cassia; Out of ivory palaces stringed instruments have made thee glad.
 
 **[45:9]** Kings' daughters are among thy honorable women: At thy right hand doth stand the queen in gold of Ophir.
 
@@ -1338,9 +1338,9 @@
 
 **[45:11]** So will the king desire thy beauty; For he is thy lord; and reverence thou him.
 
-**[45:12]** And the daughter of Tyre `shall be there' with a gift; The rich among the people shall entreat thy favor.
+**[45:12]** And the daughter of Tyre \`shall be there' with a gift; The rich among the people shall entreat thy favor.
 
-**[45:13]** The king's daughter within `the palace' is all glorious: Her clothing is inwrought with gold.
+**[45:13]** The king's daughter within \`the palace' is all glorious: Her clothing is inwrought with gold.
 
 **[45:14]** She shall be led unto the king in broidered work: The virgins her companions that follow her Shall be brought unto thee.
 
@@ -1348,7 +1348,7 @@
 
 **[45:16]** Instead of thy fathers shall be thy children, Whom thou shalt make princes in all the earth.
 
-**[45:17]** I will make thy name to be remembered in all generations: Therefore shall the peoples give thee thanks for ever and ever. Psalm 46 For the Chief Musician. `A Psalm' of the sons of Korah; set to Alamoth. A Song.
+**[45:17]** I will make thy name to be remembered in all generations: Therefore shall the peoples give thee thanks for ever and ever. Psalm 46 For the Chief Musician. \`A Psalm' of the sons of Korah; set to Alamoth. A Song.
 
 **[46:1]** God is our refuge and strength, A very present help in trouble.
 
@@ -1388,11 +1388,11 @@
 
 **[47:8]** God reigneth over the nations: God sitteth upon his holy throne.
 
-**[47:9]** The princes of the peoples are gathered together `To be' the people of the God of Abraham: For the shields of the earth belong unto God; He is greatly exalted. Psalm 48 A Song; a Psalm of the sons of Korah.
+**[47:9]** The princes of the peoples are gathered together \`To be' the people of the God of Abraham: For the shields of the earth belong unto God; He is greatly exalted. Psalm 48 A Song; a Psalm of the sons of Korah.
 
 **[48:1]** Great is Jehovah, and greatly to be praised, In the city of our God, in his holy mountain.
 
-**[48:2]** Beautiful in elevation, the joy of the whole earth, Is mount Zion, `on' the sides of the north, The city of the great King.
+**[48:2]** Beautiful in elevation, the joy of the whole earth, Is mount Zion, \`on' the sides of the north, The city of the great King.
 
 **[48:3]** God hath made himself known in her palaces for a refuge.
 
@@ -1416,7 +1416,7 @@
 
 **[48:13]** Mark ye well her bulwarks; Consider her palaces: That ye may tell it to the generation following.
 
-**[48:14]** For this God is our God for ever and ever: He will be our guide `even' unto death. Psalm 49 For the Chief Musician. A Psalm of the sons of Korah.
+**[48:14]** For this God is our God for ever and ever: He will be our guide \`even' unto death. Psalm 49 For the Chief Musician. A Psalm of the sons of Korah.
 
 **[49:1]** Hear this, all ye peoples; Give ear, all ye inhabitants of the world,
 
@@ -1430,7 +1430,7 @@
 
 **[49:6]** They that trust in their wealth, And boast themselves in the multitude of their riches;
 
-**[49:7]** None `of them' can by any means redeem his brother, Nor give to God a ransom for him;
+**[49:7]** None \`of them' can by any means redeem his brother, Nor give to God a ransom for him;
 
 **[49:8]** (For the redemption of their life is costly, And it faileth for ever;)
 
@@ -1438,9 +1438,9 @@
 
 **[49:10]** For he shall see it. Wise men die; The fool and the brutish alike perish, And leave their wealth to others.
 
-**[49:11]** Their inward thought is, `that' their houses `shall continue' for ever, `And' their dwelling-places to all generations; They call their lands after their own names.
+**[49:11]** Their inward thought is, \`that' their houses \`shall continue' for ever, \`And' their dwelling-places to all generations; They call their lands after their own names.
 
-**[49:12]** But man `being' in honor abideth not: He is like the beasts that perish.
+**[49:12]** But man \`being' in honor abideth not: He is like the beasts that perish.
 
 **[49:13]** This their way is their folly: Yet after them men approve their sayings. Selah
 
@@ -1470,7 +1470,7 @@
 
 **[50:6]** And the heavens shall declare his righteousness; For God is judge himself. Selah
 
-**[50:7]** Hear, O my people, and I will speak; O Israel, and I will testify unto thee: I am God, `even' thy God.
+**[50:7]** Hear, O my people, and I will speak; O Israel, and I will testify unto thee: I am God, \`even' thy God.
 
 **[50:8]** I will not reprove thee for thy sacrifices; And thy burnt-offerings are continually before me.
 
@@ -1498,11 +1498,11 @@
 
 **[50:20]** Thou sittest and speakest against thy brother; Thou slanderest thine own mother's son.
 
-**[50:21]** These things hast thou done, and I kept silence; Thou thoughtest that I was altogether such a one as thyself: `But' I will reprove thee, and set `them' in order before thine eyes.
+**[50:21]** These things hast thou done, and I kept silence; Thou thoughtest that I was altogether such a one as thyself: \`But' I will reprove thee, and set \`them' in order before thine eyes.
 
 **[50:22]** Now consider this, ye that forget God, Lest I tear you in pieces, and there be none to deliver:
 
-**[50:23]** Whoso offereth the sacrifice of thanksgiving glorifieth me; And to him that ordereth his way `aright' Will I show the salvation of God. Psalm 51 For the Chief Musician. A Psalm of David; when Nathan the prophet came unto him, after he had gone in to Bathsheba.
+**[50:23]** Whoso offereth the sacrifice of thanksgiving glorifieth me; And to him that ordereth his way \`aright' Will I show the salvation of God. Psalm 51 For the Chief Musician. A Psalm of David; when Nathan the prophet came unto him, after he had gone in to Bathsheba.
 
 **[51:1]** Have mercy upon me, O God, according to thy lovingkindness: According to the multitude of thy tender mercies blot out my transgressions.
 
@@ -1530,7 +1530,7 @@
 
 **[51:13]** Then will I teach transgressors thy ways; And sinners shall be converted unto thee.
 
-**[51:14]** Deliver me from bloodguiltiness, O God, thou God of my salvation; `And' my tongue shall sing aloud of thy righteousness.
+**[51:14]** Deliver me from bloodguiltiness, O God, thou God of my salvation; \`And' my tongue shall sing aloud of thy righteousness.
 
 **[51:15]** O Lord, open thou my lips; And my mouth shall show forth thy praise.
 
@@ -1542,7 +1542,7 @@
 
 **[51:19]** Then will thou delight in the sacrifices of righteousness, In burnt-offering and in whole burnt-offering: Then will they offer bullocks upon thine altar. Psalm 52 For the Chief Musician. Maschil of David; when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Abimelech.
 
-**[52:1]** Why boastest thou thyself in mischief, O mighty man? The lovingkindness of God `endureth' continually.
+**[52:1]** Why boastest thou thyself in mischief, O mighty man? The lovingkindness of God \`endureth' continually.
 
 **[52:2]** Thy tongue deviseth very wickedness, Like a sharp razor, working deceitfully.
 
@@ -1552,7 +1552,7 @@
 
 **[52:5]** God will likewise destroy thee for ever; He will take thee up, and pluck thee out of thy tent, And root thee out of the land of the living. Selah
 
-**[52:6]** The righteous also shall see `it', and fear, And shall laugh at him, `saying',
+**[52:6]** The righteous also shall see \`it', and fear, And shall laugh at him, \`saying',
 
 **[52:7]** Lo, this is the man that made not God his strength, But trusted in the abundance of his riches, And strengthened himself in his wickedness.
 
@@ -1566,11 +1566,11 @@
 
 **[53:3]** Every one of them is gone back; they are together become filthy; There is none that doeth good, no, not one.
 
-**[53:4]** Have the workers of iniquity no knowledge, Who eat up my people `as' they eat bread, And call not upon God?
+**[53:4]** Have the workers of iniquity no knowledge, Who eat up my people \`as' they eat bread, And call not upon God?
 
 **[53:5]** There were they in great fear, where no fear was; For God hath scattered the bones of him that encampeth against thee: Thou hast put them to shame, because of God hath rejected them.
 
-**[53:6]** Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Then shall Jacob rejoice, `and' Israel shall be glad. Psalm 54 For the Chief Musician; on stringed instruments. Maschil of David; when the Ziphites came and said to Saul, Doth not David hide himself with us?
+**[53:6]** Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Then shall Jacob rejoice, \`and' Israel shall be glad. Psalm 54 For the Chief Musician; on stringed instruments. Maschil of David; when the Ziphites came and said to Saul, Doth not David hide himself with us?
 
 **[54:1]** Save me, O God, by thy name, And judge me in thy might.
 
@@ -1584,7 +1584,7 @@
 
 **[54:6]** With a freewill-offering will I sacrifice unto thee: I will give thanks unto thy name, O Jehovah, for it is good.
 
-**[54:7]** For he hath delivered me out of all trouble; And mine eye hath seen `my desire' upon mine enemies. Psalm 55 For the Chief Musician; on stringed instruments. Maschil of David.
+**[54:7]** For he hath delivered me out of all trouble; And mine eye hath seen \`my desire' upon mine enemies. Psalm 55 For the Chief Musician; on stringed instruments. Maschil of David.
 
 **[55:1]** Give ear to my prayer, O God; And hide not thyself from my supplication.
 
@@ -1602,7 +1602,7 @@
 
 **[55:8]** I would haste me to a shelter From the stormy wind and tempest.
 
-**[55:9]** Destroy, O Lord, `and' divide their tongue; For I have seen violence and strife in the city.
+**[55:9]** Destroy, O Lord, \`and' divide their tongue; For I have seen violence and strife in the city.
 
 **[55:10]** Day and night they go about it upon the walls thereof: Iniquity also and mischief are in the midst of it.
 
@@ -1620,9 +1620,9 @@
 
 **[55:17]** Evening, and morning, and at noonday, will I complain, and moan; And he will hear my voice.
 
-**[55:18]** He hath redeemed my soul in peace from the battle that was against me; For they were many `that strove' with me.
+**[55:18]** He hath redeemed my soul in peace from the battle that was against me; For they were many \`that strove' with me.
 
-**[55:19]** God will hear, and answer them, Even he that abideth of old, Selah `The men' who have no changes, And who fear not God.
+**[55:19]** God will hear, and answer them, Even he that abideth of old, Selah \`The men' who have no changes, And who fear not God.
 
 **[55:20]** He hath put forth his hands against such as were at peace with him: He hath profaned his covenant.
 
@@ -1630,7 +1630,7 @@
 
 **[55:22]** Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.
 
-**[55:23]** But thou, O God, wilt bring them down into the pit of destruction: Bloodthirsty and deceitful men shall not live out half their days; But I will trust in thee. Psalm 56 For the Chief Musician; set to Jonath elem rehokim. `A Psalm' of David. Michtam: when the Philistines took him in Gath.
+**[55:23]** But thou, O God, wilt bring them down into the pit of destruction: Bloodthirsty and deceitful men shall not live out half their days; But I will trust in thee. Psalm 56 For the Chief Musician; set to Jonath elem rehokim. \`A Psalm' of David. Michtam: when the Philistines took him in Gath.
 
 **[56:1]** Be merciful unto me, O God; for man would swallow me up: All the day long he fighting oppresseth me.
 
@@ -1650,23 +1650,23 @@
 
 **[56:9]** Then shall mine enemies turn back in the day that I call: This I know, that God is for me.
 
-**[56:10]** In God (I will praise `his' word), In Jehovah (I will praise `his' word),
+**[56:10]** In God (I will praise \`his' word), In Jehovah (I will praise \`his' word),
 
 **[56:11]** In God have I put my trust, I will not be afraid; What can man do unto me?
 
 **[56:12]** Thy vows are upon me, O God: I will render thank-offerings unto thee.
 
-**[56:13]** For thou hast delivered my soul from death: `Hast thou' not `delivered' my feet from falling, That I may walk before God In the light of the living? Psalm 57 For the Chief Musician; `set to' Al-tash-heth. `A Psalm' of David. Michtam; when he fled from Saul, in the cave.
+**[56:13]** For thou hast delivered my soul from death: \`Hast thou' not \`delivered' my feet from falling, That I may walk before God In the light of the living? Psalm 57 For the Chief Musician; \`set to' Al-tash-heth. \`A Psalm' of David. Michtam; when he fled from Saul, in the cave.
 
-**[57:1]** Be merciful unto me, O God, be merciful unto me; For my soul taketh refuge in thee: Yea, in the shadow of thy wings will I take refuge, Until `these' calamities be overpast.
+**[57:1]** Be merciful unto me, O God, be merciful unto me; For my soul taketh refuge in thee: Yea, in the shadow of thy wings will I take refuge, Until \`these' calamities be overpast.
 
-**[57:2]** I will cry unto God Most High, Unto God that performeth `all things' for me.
+**[57:2]** I will cry unto God Most High, Unto God that performeth \`all things' for me.
 
-**[57:3]** He will send from heaven, and save me, `When' he that would swallow me up reproacheth; Selah God will send forth his lovingkindness and his truth.
+**[57:3]** He will send from heaven, and save me, \`When' he that would swallow me up reproacheth; Selah God will send forth his lovingkindness and his truth.
 
 **[57:4]** My soul is among lions; I lie among them that are set on fire, Even the sons of men, whose teeth are spears and arrows, And their tongue a sharp sword.
 
-**[57:5]** Be thou exalted, O God, above the heavens; `Let' thy glory `be' above all the earth.
+**[57:5]** Be thou exalted, O God, above the heavens; \`Let' thy glory \`be' above all the earth.
 
 **[57:6]** They have prepared a net for my steps; My soul is bowed down: They have digged a pit before me; They are fallen into the midst thereof themselves. Selah
 
@@ -1678,7 +1678,7 @@
 
 **[57:10]** For thy lovingkindness is great unto the heavens, And thy truth unto the skies.
 
-**[57:11]** Be thou exalted, O God, above the heavens; `Let' thy glory `be' above all the earth. Psalm 58 For the Chief Musician; `set to' Al-tashheth. `A Psalm' of David Michtam.
+**[57:11]** Be thou exalted, O God, above the heavens; \`Let' thy glory \`be' above all the earth. Psalm 58 For the Chief Musician; \`set to' Al-tashheth. \`A Psalm' of David Michtam.
 
 **[58:1]** Do ye indeed in silence speak righteousness? Do ye judge uprightly, O ye sons of men?
 
@@ -1686,7 +1686,7 @@
 
 **[58:3]** The wicked are estranged from the womb: They go astray as soon as they are born, speaking lies.
 
-**[58:4]** Their poison is like the poison of a serpent: `They are' like the deaf adder that stoppeth her ear,
+**[58:4]** Their poison is like the poison of a serpent: \`They are' like the deaf adder that stoppeth her ear,
 
 **[58:5]** Which hearkeneth not to the voice of charmers, Charming never so wisely.
 
@@ -1694,13 +1694,13 @@
 
 **[58:7]** Let them melt away as water that runneth apace: When he aimeth his arrows, let them be as though they were cut off.
 
-**[58:8]** `Let them be' as a snail which melteth and passeth away, `Like' the untimely birth of a woman, that hath not seen the sun.
+**[58:8]** \`Let them be' as a snail which melteth and passeth away, \`Like' the untimely birth of a woman, that hath not seen the sun.
 
 **[58:9]** Before your pots can feel the thorns, He will take them away with a whirlwind, the green and the burning alike.
 
 **[58:10]** The righteous shall rejoice when he seeth the vengeance: He shall wash his feet in the blood of the wicked;
 
-**[58:11]** So that men shall say, Verily there is a reward for the righteous: Verily there is a God that judgeth in the earth. Psalm 59 For the Chief Musician; `set to' Al-tashheth. `A Psalm' of David. Michtam; when Saul sent, and they watched the house to kill him.
+**[58:11]** So that men shall say, Verily there is a reward for the righteous: Verily there is a God that judgeth in the earth. Psalm 59 For the Chief Musician; \`set to' Al-tashheth. \`A Psalm' of David. Michtam; when Saul sent, and they watched the house to kill him.
 
 **[59:1]** Deliver me from mine enemies, O my God: Set me on high from them that rise up against me.
 
@@ -1708,23 +1708,23 @@
 
 **[59:3]** For, lo, they lie in wait for my soul; The mighty gather themselves together against me: Not for my transgression, nor for my sin, O Jehovah.
 
-**[59:4]** They run and prepare themselves without `my' fault: Awake thou to help me, and behold.
+**[59:4]** They run and prepare themselves without \`my' fault: Awake thou to help me, and behold.
 
 **[59:5]** Even thou, O Jehovah God of hosts, the God of Israel, Arise to visit all the nations: Be not merciful to any wicked transgressors. Selah
 
 **[59:6]** They return at evening, they howl like a dog, And go round about the city.
 
-**[59:7]** Behold, they belch out with their mouth; Swords are in their lips: For who, `say they', doth hear?
+**[59:7]** Behold, they belch out with their mouth; Swords are in their lips: For who, \`say they', doth hear?
 
 **[59:8]** But thou, O Jehovah, wilt laugh at them; Thou wilt have all the nations in derision.
 
-**[59:9]** `Because of' his strength I will give heed unto thee; For God is my high tower.
+**[59:9]** \`Because of' his strength I will give heed unto thee; For God is my high tower.
 
-**[59:10]** My God with his lovingkindness will meet me: God will let me see `my desire' upon mine enemies.
+**[59:10]** My God with his lovingkindness will meet me: God will let me see \`my desire' upon mine enemies.
 
 **[59:11]** Slay them not, lest my people forget: Scatter them by thy power, and bring them down, O Lord our shield.
 
-**[59:12]** `For' the sin of their mouth, `and' the words of their lips, Let them even be taken in their pride, And for cursing and lying which they speak.
+**[59:12]** \`For' the sin of their mouth, \`and' the words of their lips, Let them even be taken in their pride, And for cursing and lying which they speak.
 
 **[59:13]** Consume them in wrath, consume them, so that they shall be no more: And let them know that God ruleth in Jacob, Unto the ends of the earth. Selah
 
@@ -1734,7 +1734,7 @@
 
 **[59:16]** But I will sing of thy strength; Yea, I will sing aloud of thy lovingkindness in the morning: For thou hast been my high tower, And a refuge in the day of my distress.
 
-**[59:17]** Unto thee, O my strength, will I sing praises: For God is my high tower, the God of my mercy. Psalm 60 For the Chief Musician; `set to' Shushan Eduth. Michtam of David, to teach; and when he strove with Aram-naharaim and with Aram-zobah, and Joab returned, and smote of Edom in the Valley of Salt twelve thousand.
+**[59:17]** Unto thee, O my strength, will I sing praises: For God is my high tower, the God of my mercy. Psalm 60 For the Chief Musician; \`set to' Shushan Eduth. Michtam of David, to teach; and when he strove with Aram-naharaim and with Aram-zobah, and Joab returned, and smote of Edom in the Valley of Salt twelve thousand.
 
 **[60:1]** O God thou hast cast us off, thou hast broken us down; Thou hast been angry; oh restore us again.
 
@@ -1758,7 +1758,7 @@
 
 **[60:11]** Give us help against the adversary; For vain is the help of man.
 
-**[60:12]** Through God we shall do valiantly; For he it is that will tread down our adversaries. Psalm 61 For the Chief Musician; on a stringed instrument. `A Psalm' of David.
+**[60:12]** Through God we shall do valiantly; For he it is that will tread down our adversaries. Psalm 61 For the Chief Musician; on a stringed instrument. \`A Psalm' of David.
 
 **[61:1]** Hear my cry, O God; Attend unto my prayer.
 
@@ -1768,7 +1768,7 @@
 
 **[61:4]** I will dwell in thy tabernacle for ever: I will take refuge in the covert of thy wings. Selah
 
-**[61:5]** For thou, O God, hast heard my vows: Thou hast given `me' the heritage of those that fear thy name.
+**[61:5]** For thou, O God, hast heard my vows: Thou hast given \`me' the heritage of those that fear thy name.
 
 **[61:6]** Thou wilt prolong the king's life; His years shall be as many generations.
 
@@ -1776,17 +1776,17 @@
 
 **[61:8]** So will I sing praise unto thy name for ever, That I may daily perform my vows. Psalm 62 For the Chief Musician; after the manner of Jeduthan. A Psalm of David.
 
-**[62:1]** My soul waiteth in silence for God only: From him `cometh' my salvation.
+**[62:1]** My soul waiteth in silence for God only: From him \`cometh' my salvation.
 
-**[62:2]** He only is my rock and my salvation: `He is' my high tower; I shall not be greatly moved.
+**[62:2]** He only is my rock and my salvation: \`He is' my high tower; I shall not be greatly moved.
 
-**[62:3]** How long will ye set upon a man, That ye may slay `him', all of you, Like a leaning wall, like a tottering fence?
+**[62:3]** How long will ye set upon a man, That ye may slay \`him', all of you, Like a leaning wall, like a tottering fence?
 
 **[62:4]** They only consult to thrust him down from his dignity; They delight in lies; They bless with their mouth, but they curse inwardly. Selah
 
 **[62:5]** My soul, wait thou in silence for God only; For my expectation is from him.
 
-**[62:6]** He only is my rock and my salvation: `He is' my high tower; I shall not be moved.
+**[62:6]** He only is my rock and my salvation: \`He is' my high tower; I shall not be moved.
 
 **[62:7]** With God is my salvation and my glory: The rock of my strength, and my refuge, is in God.
 
@@ -1794,7 +1794,7 @@
 
 **[62:9]** Surely men of low degree are vanity, and men of high degree are a lie: In the balances they will go up; They are together lighter than vanity.
 
-**[62:10]** Trust not in oppression, And become not vain in robbery: If riches increase, set not your heart `thereon'.
+**[62:10]** Trust not in oppression, And become not vain in robbery: If riches increase, set not your heart \`thereon'.
 
 **[62:11]** God hath spoken once, Twice have I heard this, That power belongeth unto God.
 
@@ -1810,7 +1810,7 @@
 
 **[63:5]** My soul shall be satisfied as with marrow and fatness; And my mouth shall praise thee with joyful lips;
 
-**[63:6]** When I remember thee upon my bed, `And' meditate on thee in the night-watches.
+**[63:6]** When I remember thee upon my bed, \`And' meditate on thee in the night-watches.
 
 **[63:7]** For thou hast been my help, And in the shadow of thy wings will I rejoice.
 
@@ -1832,7 +1832,7 @@
 
 **[64:5]** They encourage themselves in an evil purpose; They commune of laying snares privily; They say, Who will see them?
 
-**[64:6]** They search out iniquities; We have accomplished, `say they', a diligent search: And the inward thought and the heart of every one is deep.
+**[64:6]** They search out iniquities; We have accomplished, \`say they', a diligent search: And the inward thought and the heart of every one is deep.
 
 **[64:7]** But God will shoot at them; With an arrow suddenly shall they be wounded.
 
@@ -1848,7 +1848,7 @@
 
 **[65:3]** Iniquities prevail against me: As for our transgressions, thou wilt forgive them.
 
-**[65:4]** Blessed is the man whom thou choosest, and causest to approach `unto thee', That he may dwell in thy courts: We shall be satisfied with the goodness of thy house, Thy holy temple.
+**[65:4]** Blessed is the man whom thou choosest, and causest to approach \`unto thee', That he may dwell in thy courts: We shall be satisfied with the goodness of thy house, Thy holy temple.
 
 **[65:5]** By terrible things thou wilt answer us in righteousness, Oh God of our salvation, Thou that art the confidence of all the ends of the earth, And of them that are afar off upon the sea:
 
@@ -1876,7 +1876,7 @@
 
 **[66:4]** All the earth shall worship thee, And shall sing unto thee; They shall sing to thy name. Selah
 
-**[66:5]** Come, and see the works of God; `He is' terrible in his doing toward the children of men.
+**[66:5]** Come, and see the works of God; \`He is' terrible in his doing toward the children of men.
 
 **[66:6]** He turned the sea into dry land; They went through the river on foot: There did we rejoice in him.
 
@@ -1908,7 +1908,7 @@
 
 **[66:20]** Blessed be God, Who hath not turned away my prayer, Nor his lovingkindness from me. Psalm 67 For the Chief Musician; on stringed instruments. A Psalm, a song.
 
-**[67:1]** God be merciful unto us, and bless us, `And' cause his face to shine upon us; Selah
+**[67:1]** God be merciful unto us, and bless us, \`And' cause his face to shine upon us; Selah
 
 **[67:2]** That thy way may be known upon earth, Thy salvation among all nations.
 
@@ -1936,7 +1936,7 @@
 
 **[68:7]** O God, when thou wentest forth before thy people, When thou didst march through the wilderness; Selah
 
-**[68:8]** The earth trembled, The heavens also dropped `rain' at the presence of God: Yon Sinai `trembled' at the presence of God, the God of Israel.
+**[68:8]** The earth trembled, The heavens also dropped \`rain' at the presence of God: Yon Sinai \`trembled' at the presence of God, the God of Israel.
 
 **[68:9]** Thou, O God, didst send a plentiful rain, Thou didst confirm thine inheritance, when it was weary.
 
@@ -1946,17 +1946,17 @@
 
 **[68:12]** Kings of armies flee, they flee; And she that tarrieth at home divideth the spoil.
 
-**[68:13]** When ye lie among the sheepfolds, `It is as' the wings of a dove covered with silver, And her pinions with yellow gold.
+**[68:13]** When ye lie among the sheepfolds, \`It is as' the wings of a dove covered with silver, And her pinions with yellow gold.
 
-**[68:14]** When the Almighty scattered kings therein, `It was as when' it snoweth in Zalmon.
+**[68:14]** When the Almighty scattered kings therein, \`It was as when' it snoweth in Zalmon.
 
 **[68:15]** A mountain of God is the mountain of Bashan; A high mountain is the mountain of Bashan.
 
-**[68:16]** Why look ye askance, ye high mountains, At the mountain which God hath desired for his abode? Yea, Jehovah will dwell `in it' for ever.
+**[68:16]** Why look ye askance, ye high mountains, At the mountain which God hath desired for his abode? Yea, Jehovah will dwell \`in it' for ever.
 
-**[68:17]** The chariots of God are twenty thousand, even thousands upon thousands; The Lord is among them, `as in' Sinai, in the sanctuary.
+**[68:17]** The chariots of God are twenty thousand, even thousands upon thousands; The Lord is among them, \`as in' Sinai, in the sanctuary.
 
-**[68:18]** Thou hast ascended on high, thou hast led away captives; Thou hast received gifts among men, Yea, `among' the rebellious also, that Jehovah God might dwell `with them'.
+**[68:18]** Thou hast ascended on high, thou hast led away captives; Thou hast received gifts among men, Yea, \`among' the rebellious also, that Jehovah God might dwell \`with them'.
 
 **[68:19]** Blessed be the Lord, who daily beareth our burden, Even the God who is our salvation. Selah
 
@@ -1964,17 +1964,17 @@
 
 **[68:21]** But God will smite through the head of his enemies, The hairy scalp of such a one as goeth on still in his guiltiness.
 
-**[68:22]** The Lord said, I will bring again from Bashan, I will bring `them' again from the depths of the sea;
+**[68:22]** The Lord said, I will bring again from Bashan, I will bring \`them' again from the depths of the sea;
 
-**[68:23]** That thou mayest crush `them', `dipping' thy foot in blood, That the tongue of thy dogs may have its portion from `thine' enemies.
+**[68:23]** That thou mayest crush \`them', \`dipping' thy foot in blood, That the tongue of thy dogs may have its portion from \`thine' enemies.
 
 **[68:24]** They have seen thy goings, O God, Even the goings of my God, my King, into the sanctuary.
 
 **[68:25]** The singers went before, the minstrels followed after, In the midst of the damsels playing with timbrels.
 
-**[68:26]** Bless ye God in the congregations, Even the Lord, `ye that are' of the fountain of Israel.
+**[68:26]** Bless ye God in the congregations, Even the Lord, \`ye that are' of the fountain of Israel.
 
-**[68:27]** There is little Benjamin their ruler, The princes of Judah `and' their council, The princes of Zebulun, the princes of Naphtali.
+**[68:27]** There is little Benjamin their ruler, The princes of Judah \`and' their council, The princes of Zebulun, the princes of Naphtali.
 
 **[68:28]** Thy God hath commanded thy strength: Strengthen, O God, that which thou hast wrought for us.
 
@@ -1990,7 +1990,7 @@
 
 **[68:34]** Ascribe ye strength unto God: His excellency is over Israel, And his strength is in the skies.
 
-**[68:35]** O God, `thou art' terrible out of thy holy places: The God of Israel, he giveth strength and power unto `his' people. Blessed be God. Psalm 69 For the Chief Musician; set to Shoshanim. `A Psalm' of David.
+**[68:35]** O God, \`thou art' terrible out of thy holy places: The God of Israel, he giveth strength and power unto \`his' people. Blessed be God. Psalm 69 For the Chief Musician; set to Shoshanim. \`A Psalm' of David.
 
 **[69:1]** Save me, O God; For the waters are come in unto my soul.
 
@@ -2010,11 +2010,11 @@
 
 **[69:9]** For the zeal of thy house hath eaten me up; And the reproaches of them that reproach thee are fallen upon me.
 
-**[69:10]** When I wept, `and chastened' my soul with fasting, That was to my reproach.
+**[69:10]** When I wept, \`and chastened' my soul with fasting, That was to my reproach.
 
 **[69:11]** When I made sackcloth my clothing, I became a byword unto them.
 
-**[69:12]** They that sit in the gate talk of me; And `I am' the song of the drunkards.
+**[69:12]** They that sit in the gate talk of me; And \`I am' the song of the drunkards.
 
 **[69:13]** But as for me, my prayer is unto thee, O Jehovah, in an acceptable time: O God, in the abundance of thy lovingkindness, Answer me in the truth of thy salvation.
 
@@ -2034,7 +2034,7 @@
 
 **[69:21]** They gave me also gall for my food; And in my thirst they gave me vinegar to drink.
 
-**[69:22]** Let their table before them become a snare; And when they are in peace, `let it become' a trap.
+**[69:22]** Let their table before them become a snare; And when they are in peace, \`let it become' a trap.
 
 **[69:23]** Let their eyes be darkened, so that they cannot see; And make their loins continually to shake.
 
@@ -2052,7 +2052,7 @@
 
 **[69:30]** I will praise the name of God with a song, And will magnify him with thanksgiving.
 
-**[69:31]** And it will please Jehovah better than an ox, `Or' a bullock that hath horns and hoofs.
+**[69:31]** And it will please Jehovah better than an ox, \`Or' a bullock that hath horns and hoofs.
 
 **[69:32]** The meek have seen it, and are glad: Ye that seek after God, let your heart live.
 
@@ -2062,9 +2062,9 @@
 
 **[69:35]** For God will save Zion, and build the cities of Judah; And they shall abide there, and have it in possession.
 
-**[69:36]** The seed also of his servants shall inherit it; And they that love his name shall dwell therein. Psalm 70 For the Chief Musician. `A Psalm' of David; to bring to remembrance.
+**[69:36]** The seed also of his servants shall inherit it; And they that love his name shall dwell therein. Psalm 70 For the Chief Musician. \`A Psalm' of David; to bring to remembrance.
 
-**[70:1]** `Make haste', O God, to deliver me; Make haste to help me, O Jehovah.
+**[70:1]** \`Make haste', O God, to deliver me; Make haste to help me, O Jehovah.
 
 **[70:2]** Let them be put to shame and confounded That seek after my soul: Let them be turned backward and brought to dishonor That delight in my hurt.
 
@@ -2082,7 +2082,7 @@
 
 **[71:4]** Rescue me, O my God, out of the hand of the wicked, Out of the hand of the unrighteous and cruel man.
 
-**[71:5]** For thou art my hope, O Lord Jehovah: `Thou art' my trust from my youth.
+**[71:5]** For thou art my hope, O Lord Jehovah: \`Thou art' my trust from my youth.
 
 **[71:6]** By thee have I been holden up from the womb; Thou art he that took me out of my mother's bowels: My praise shall be continually of thee.
 
@@ -2098,17 +2098,17 @@
 
 **[71:12]** O God, be not far from me; O my God, make haste to help me.
 
-**[71:13]** Let them be put to shame `and' consumed that are adversaries to my soul; Let them be covered with reproach and dishonor that seek my hurt.
+**[71:13]** Let them be put to shame \`and' consumed that are adversaries to my soul; Let them be covered with reproach and dishonor that seek my hurt.
 
 **[71:14]** But I will hope continually, And will praise thee yet more and more.
 
-**[71:15]** My mouth shall tell of thy righteousness, `And' of thy salvation all the day; For I know not the numbers `thereof'.
+**[71:15]** My mouth shall tell of thy righteousness, \`And' of thy salvation all the day; For I know not the numbers \`thereof'.
 
 **[71:16]** I will come with the mighty acts of the Lord Jehovah: I will make mention of thy righteousness, even of thine only.
 
 **[71:17]** O God, thou hast taught me from my youth; And hitherto have I declared thy wondrous works.
 
-**[71:18]** Yea, even when I am old and grayheaded, O God, forsake me not, Until I have declared thy strength unto `the next' generation, Thy might to every one that is to come.
+**[71:18]** Yea, even when I am old and grayheaded, O God, forsake me not, Until I have declared thy strength unto \`the next' generation, Thy might to every one that is to come.
 
 **[71:19]** Thy righteousness also, O God, is very high; Thou who hast done great things, O God, who is like unto thee?
 
@@ -2116,11 +2116,11 @@
 
 **[71:21]** Increase thou my greatness, And turn again and comfort me.
 
-**[71:22]** I will also praise thee with the psaltery, `Even' thy truth, O my God: Unto thee will I sing praises with the harp, O thou Holy One of Israel.
+**[71:22]** I will also praise thee with the psaltery, \`Even' thy truth, O my God: Unto thee will I sing praises with the harp, O thou Holy One of Israel.
 
 **[71:23]** My lips shall shout for joy when I sing praises unto thee; And my soul, which thou hast redeemed.
 
-**[71:24]** My tongue also shall talk of thy righteousness all the day long; For they are put to shame, for they are confounded, that seek my hurt. Psalm 72 `A Psalm' of Solomon.
+**[71:24]** My tongue also shall talk of thy righteousness all the day long; For they are put to shame, for they are confounded, that seek my hurt. Psalm 72 \`A Psalm' of Solomon.
 
 **[72:1]** Give the king thy judgments, O God, And thy righteousness unto the king's son.
 
@@ -2162,7 +2162,7 @@
 
 **[72:20]** The prayers of David the son of Jesse are ended. Psalm 73 A Psalm of Asaph.
 
-**[73:1]** Surely God is good to Israel, `Even' to such as are pure in heart.
+**[73:1]** Surely God is good to Israel, \`Even' to such as are pure in heart.
 
 **[73:2]** But as for me, my feet were almost gone; My steps had well nigh slipped.
 
@@ -2170,7 +2170,7 @@
 
 **[73:4]** For there are no pangs in their death; But their strength is firm.
 
-**[73:5]** They are not in trouble as `other' men; Neither are they plagued like `other' men.
+**[73:5]** They are not in trouble as \`other' men; Neither are they plagued like \`other' men.
 
 **[73:6]** Therefore pride is as a chain about their neck; Violence covereth them as a garment.
 
@@ -2180,7 +2180,7 @@
 
 **[73:9]** They have set their mouth in the heavens, And their tongue walketh through the earth.
 
-**[73:10]** Therefore his people return hither: And waters of a full `cup' are drained by them.
+**[73:10]** Therefore his people return hither: And waters of a full \`cup' are drained by them.
 
 **[73:11]** And they say, How doth God know? And is there knowledge in the Most High?
 
@@ -2204,23 +2204,23 @@
 
 **[73:21]** For my soul was grieved, And I was pricked in my heart:
 
-**[73:22]** So brutish was I, and ignorant; I was `as' a beast before thee.
+**[73:22]** So brutish was I, and ignorant; I was \`as' a beast before thee.
 
 **[73:23]** Nevertheless I am continually with thee: Thou hast holden my right hand.
 
 **[73:24]** Thou wilt guide me with thy counsel, And afterward receive me to glory.
 
-**[73:25]** Whom have I in heaven `but thee'? And there is none upon earth that I desire besides thee.
+**[73:25]** Whom have I in heaven \`but thee'? And there is none upon earth that I desire besides thee.
 
-**[73:26]** My flesh and my heart faileth; `But' God is the strength of my heart and my portion for ever.
+**[73:26]** My flesh and my heart faileth; \`But' God is the strength of my heart and my portion for ever.
 
-**[73:27]** For, lo, they that are far from thee shall perish: Thou hast destroyed all them that play the harlot, `departing' from thee.
+**[73:27]** For, lo, they that are far from thee shall perish: Thou hast destroyed all them that play the harlot, \`departing' from thee.
 
 **[73:28]** But it is good for me to draw near unto God: I have made the Lord Jehovah my refuge, That I may tell of all thy works. Psalm 74 Maschil of Asaph.
 
-**[74:1]** O God, why hast thou cast `us' off for ever? Why doth thine anger smoke against the sheep of thy pasture?
+**[74:1]** O God, why hast thou cast \`us' off for ever? Why doth thine anger smoke against the sheep of thy pasture?
 
-**[74:2]** Remember thy congregation, which thou hast gotten of old, Which thou hast redeemed to be the tribe of thine inheritance; `And' mount Zion, wherein thou hast dwelt.
+**[74:2]** Remember thy congregation, which thou hast gotten of old, Which thou hast redeemed to be the tribe of thine inheritance; \`And' mount Zion, wherein thou hast dwelt.
 
 **[74:3]** Lift up thy feet unto the perpetual ruins, All the evil that the enemy hath done in the sanctuary.
 
@@ -2230,7 +2230,7 @@
 
 **[74:6]** And now all the carved work thereof They break down with hatchet and hammers.
 
-**[74:7]** They have set thy sanctuary on fire; They have profaned the dwelling-place of thy name `by casting it' to the ground.
+**[74:7]** They have set thy sanctuary on fire; They have profaned the dwelling-place of thy name \`by casting it' to the ground.
 
 **[74:8]** They said in their heart, Let us make havoc of them altogether: They have burned up all the synagogues of God in the land.
 
@@ -2238,7 +2238,7 @@
 
 **[74:10]** How long, O God, shall the adversary reproach? Shall the enemy blaspheme thy name for ever?
 
-**[74:11]** Why drawest thou back thy hand, even thy right hand? `Pluck it' out of thy bosom `and' consume `them'.
+**[74:11]** Why drawest thou back thy hand, even thy right hand? \`Pluck it' out of thy bosom \`and' consume \`them'.
 
 **[74:12]** Yet God is my King of old, Working salvation in the midst of the earth.
 
@@ -2262,7 +2262,7 @@
 
 **[74:22]** Arise, O God, plead thine own cause: Remember how the foolish man reproacheth thee all the day.
 
-**[74:23]** Forget not the voice of thine adversaries: The tumult of those that rise up against thee ascendeth continually. Psalm 75 For the Chief Musician; `set to' Al-tash-heth. A Psalm of Asaph; a song.
+**[74:23]** Forget not the voice of thine adversaries: The tumult of those that rise up against thee ascendeth continually. Psalm 75 For the Chief Musician; \`set to' Al-tash-heth. A Psalm of Asaph; a song.
 
 **[75:1]** We give thanks unto thee, O God; We give thanks, for thy name is near: Men tell of thy wondrous works.
 
@@ -2274,7 +2274,7 @@
 
 **[75:5]** Lift not up your horn on high; Speak not with a stiff neck.
 
-**[75:6]** For neither from the east, nor from the west, Nor yet from the south, `cometh' lifting up.
+**[75:6]** For neither from the east, nor from the west, Nor yet from the south, \`cometh' lifting up.
 
 **[75:7]** But God is the judge: He putteth down one, and lifteth up another.
 
@@ -2290,7 +2290,7 @@
 
 **[76:3]** There he brake the arrows of the bow; The shield, and the sword, and the battle. Selah
 
-**[76:4]** Glorious art thou `and' excellent, From the mountains of prey.
+**[76:4]** Glorious art thou \`and' excellent, From the mountains of prey.
 
 **[76:5]** The stouthearted are made a spoil, They have slept their sleep; And none of the men of might have found their hands.
 
@@ -2326,7 +2326,7 @@
 
 **[77:9]** Hath God forgotten to be gracious? Hath he in anger shut up his tender mercies? Selah
 
-**[77:10]** And I said, This is my infirmity; `But I will remember' the years of the right hand of the Most High.
+**[77:10]** And I said, This is my infirmity; \`But I will remember' the years of the right hand of the Most High.
 
 **[77:11]** I will make mention of the deeds of Jehovah; For I will remember thy wonders of old.
 
@@ -2358,7 +2358,7 @@
 
 **[78:5]** For he established a testimony in Jacob, And appointed a law in Israel, Which he commanded our fathers, That they should make them known to their children;
 
-**[78:6]** That the generation to come might know `them', even the children that should be born; Who should arise and tell `them' to their children,
+**[78:6]** That the generation to come might know \`them', even the children that should be born; Who should arise and tell \`them' to their children,
 
 **[78:7]** That they might set their hope in God, And not forget the works of God, But keep his commandments,
 
@@ -2422,7 +2422,7 @@
 
 **[78:37]** For their heart was not right with him, Neither were they faithful in his covenant.
 
-**[78:38]** But he, being merciful, forgave `their' iniquity, and destroyed `them' not: Yea, many a time turned he his anger away, And did not stir up all his wrath.
+**[78:38]** But he, being merciful, forgave \`their' iniquity, and destroyed \`them' not: Yea, many a time turned he his anger away, And did not stir up all his wrath.
 
 **[78:39]** And he remembered that they were but flesh, A wind that passeth away, and cometh not again.
 
@@ -2464,7 +2464,7 @@
 
 **[78:58]** For they provoked him to anger with their high places, And moved him to jealousy with their graven images.
 
-**[78:59]** When God heard `this', he was wroth, And greatly abhorred Israel;
+**[78:59]** When God heard \`this', he was wroth, And greatly abhorred Israel;
 
 **[78:60]** So that he forsook the tabernacle of Shiloh, The tent which he placed among men;
 
@@ -2518,7 +2518,7 @@
 
 **[79:13]** So we thy people and sheep of thy pasture Will give thee thanks for ever: We will show forth thy praise to all generations. Psalm 80 For the Chief Musician, set to Shoshanim Eduth.. A Psalm of Asaph.
 
-**[80:1]** Give ear, O Shepherd of Israel, Thou that leadest Joseph like a flock; Thou that sittest `above' the cherubim, shine forth.
+**[80:1]** Give ear, O Shepherd of Israel, Thou that leadest Joseph like a flock; Thou that sittest \`above' the cherubim, shine forth.
 
 **[80:2]** Before Ephraim and Benjamin and Manasseh, stir up thy might, And come to save us.
 
@@ -2534,9 +2534,9 @@
 
 **[80:8]** Thou broughtest a vine out of Egypt: Thou didst drive out the nations, and plantedst it.
 
-**[80:9]** Thou preparedst `room' before it, And it took deep root, and filled the land.
+**[80:9]** Thou preparedst \`room' before it, And it took deep root, and filled the land.
 
-**[80:10]** The mountains were covered with the shadow of it, And the boughs thereof were `like' cedars of God.
+**[80:10]** The mountains were covered with the shadow of it, And the boughs thereof were \`like' cedars of God.
 
 **[80:11]** It sent out its branches unto the sea, And its shoots unto the River.
 
@@ -2554,7 +2554,7 @@
 
 **[80:18]** So shall we not go back from thee: Quicken thou us, and we will call upon thy name.
 
-**[80:19]** Turn us again, O Jehovah God of hosts; Cause thy face to shine, and we shall be saved. Psalm 81 For the Chief Musician; set to the Gittith. `A Psalm' of Asaph.
+**[80:19]** Turn us again, O Jehovah God of hosts; Cause thy face to shine, and we shall be saved. Psalm 81 For the Chief Musician; set to the Gittith. \`A Psalm' of Asaph.
 
 **[81:1]** Sing aloud unto God our strength: Make a joyful noise unto the God of Jacob.
 
@@ -2564,7 +2564,7 @@
 
 **[81:4]** For it is a statute for Israel, An ordinance of the God of Jacob.
 
-**[81:5]** He appointed it in Joseph for a testimony, When he went out over the land of Egypt, `Where' I heard a language that I knew not.
+**[81:5]** He appointed it in Joseph for a testimony, When he went out over the land of Egypt, \`Where' I heard a language that I knew not.
 
 **[81:6]** I removed his shoulder from the burden: His hands were freed from the basket.
 
@@ -2648,7 +2648,7 @@
 
 **[84:4]** Blessed are they that dwell in thy house: They will be still praising thee. Selah
 
-**[84:5]** Blessed is the man whose strength is in thee; In whose heart are the highways `to Zion'.
+**[84:5]** Blessed is the man whose strength is in thee; In whose heart are the highways \`to Zion'.
 
 **[84:6]** Passing through the valley of Weeping they make it a place of springs; Yea, the early rain covereth it with blessings.
 
@@ -2668,7 +2668,7 @@
 
 **[85:2]** Thou hast forgiven the iniquity of thy people; Thou hast covered all their sin. Selah
 
-**[85:3]** Thou hast taken away all thy wrath; Thou hast turned `thyself' from the fierceness of thine anger.
+**[85:3]** Thou hast taken away all thy wrath; Thou hast turned \`thyself' from the fierceness of thine anger.
 
 **[85:4]** Turn us, O God of our salvation, And cause thine indignation toward us to cease.
 
@@ -2688,7 +2688,7 @@
 
 **[85:12]** Yea, Jehovah will give that which is good; And our land shall yield its increase.
 
-**[85:13]** Righteousness shall go before him, And shall make his footsteps a way `to walk in'.
+**[85:13]** Righteousness shall go before him, And shall make his footsteps a way \`to walk in'.
 
 **[86:1]** Bow down thine ear, O Jehovah, and answer me; For I am poor and needy.
 
@@ -2704,7 +2704,7 @@
 
 **[86:7]** In the day of my trouble I will call upon thee; For thou wilt answer me.
 
-**[86:8]** There is none like unto thee among the gods, O Lord; Neither `are there any works' like unto thy works.
+**[86:8]** There is none like unto thee among the gods, O Lord; Neither \`are there any works' like unto thy works.
 
 **[86:9]** All nations whom thou hast made shall come and worship before thee, O Lord; And they shall glorify thy name.
 
@@ -2736,7 +2736,7 @@
 
 **[87:6]** Jehovah will count, when he writeth up the peoples, This one was born there. Selah
 
-**[87:7]** They that sing as well as they that dance `shall say', All my fountains are in thee. Psalm 88 A Song, a Psalm of the sons of Korah; for the Chief Musician; set to Mahalath Leannoth. Maschil of Heman the Ezrahite.
+**[87:7]** They that sing as well as they that dance \`shall say', All my fountains are in thee. Psalm 88 A Song, a Psalm of the sons of Korah; for the Chief Musician; set to Mahalath Leannoth. Maschil of Heman the Ezrahite.
 
 **[88:1]** O Jehovah, the God of my salvation, I have cried day and night before thee.
 
@@ -2826,7 +2826,7 @@
 
 **[89:26]** He shall cry unto me, Thou art my Father, My God, and the rock of my salvation.
 
-**[89:27]** I also will make him `my' first-born, The highest of the kings of the earth.
+**[89:27]** I also will make him \`my' first-born, The highest of the kings of the earth.
 
 **[89:28]** My lovingkindness will I keep for him for evermore; And my covenant shall stand fast with him.
 
@@ -2846,11 +2846,11 @@
 
 **[89:36]** His seed shall endure for ever, And his throne as the sun before me.
 
-**[89:37]** It shall be established for ever as the moon, And `as' the faithful witness in the sky. Selah
+**[89:37]** It shall be established for ever as the moon, And \`as' the faithful witness in the sky. Selah
 
 **[89:38]** But thou hast cast off and rejected, Thou hast been wroth with thine anointed.
 
-**[89:39]** Thou hast abhorred the covenant of thy servant: Thou hast profaned his crown `by casting it' to the ground.
+**[89:39]** Thou hast abhorred the covenant of thy servant: Thou hast profaned his crown \`by casting it' to the ground.
 
 **[89:40]** Thou hast broken down all his hedges; Thou hast brought his strongholds to ruin.
 
@@ -2864,7 +2864,7 @@
 
 **[89:45]** The days of his youth hast thou shortened: Thou hast covered him with shame. Selah
 
-**[89:46]** How long, O Jehovah? wilt thou hide thyself for ever? `How long' shall thy wrath burn like fire?
+**[89:46]** How long, O Jehovah? wilt thou hide thyself for ever? \`How long' shall thy wrath burn like fire?
 
 **[89:47]** Oh remember how short my time is: For what vanity hast thou created all the children of men!
 
@@ -2872,7 +2872,7 @@
 
 **[89:49]** Lord, where are thy former lovingkindnesses, Which thou swarest unto David in thy faithfulness?
 
-**[89:50]** Remember, Lord, the reproach of thy servants; How I do bear in my bosom `the reproach of' all the mighty peoples,
+**[89:50]** Remember, Lord, the reproach of thy servants; How I do bear in my bosom \`the reproach of' all the mighty peoples,
 
 **[89:51]** Wherewith thine enemies have reproached, O Jehovah, Wherewith they have reproached the footsteps of thine anointed.
 
@@ -2924,7 +2924,7 @@
 
 **[91:6]** For the pestilence that walketh in darkness, Nor for the destruction that wasteth at noonday.
 
-**[91:7]** A thousand shall fall at thy side, And ten thousand at thy right hand; `But' it shall not come nigh thee.
+**[91:7]** A thousand shall fall at thy side, And ten thousand at thy right hand; \`But' it shall not come nigh thee.
 
 **[91:8]** Only with thine eyes shalt thou behold, And see the reward of the wicked.
 
@@ -2962,9 +2962,9 @@
 
 **[92:9]** For, lo, thine enemies, O Jehovah, For, lo, thine enemies shall perish; All the workers of iniquity shall be scattered.
 
-**[92:10]** But my horn hast thou exalted like `the horn of' the wild-ox: I am anointed with fresh oil.
+**[92:10]** But my horn hast thou exalted like \`the horn of' the wild-ox: I am anointed with fresh oil.
 
-**[92:11]** Mine eye also hath seen `my desire' on mine enemies, Mine ears have heard `my desire' of the evil-doers that rise up against me.
+**[92:11]** Mine eye also hath seen \`my desire' on mine enemies, Mine ears have heard \`my desire' of the evil-doers that rise up against me.
 
 **[92:12]** The righteous shall flourish like the palm-tree: He shall grow like a cedar in Lebanon.
 
@@ -2986,7 +2986,7 @@
 
 **[94:1]** O Jehovah, thou God to whom vengeance belongeth, Thou God to whom vengeance belongeth, shine forth.
 
-**[94:2]** Lift up thyself, thou judge of the earth: Render to the proud `their' desert.
+**[94:2]** Lift up thyself, thou judge of the earth: Render to the proud \`their' desert.
 
 **[94:3]** Jehovah, how long shall the wicked, How long shall the wicked triumph?
 
@@ -3002,7 +3002,7 @@
 
 **[94:9]** He that planted the ear, shall he not hear? He that formed the eye, shall he not see?
 
-**[94:10]** He that chastiseth the nations, shall not he correct, `Even' he that teacheth man knowledge?
+**[94:10]** He that chastiseth the nations, shall not he correct, \`Even' he that teacheth man knowledge?
 
 **[94:11]** Jehovah knoweth the thoughts of man, That they are vanity.
 
@@ -3048,7 +3048,7 @@
 
 **[95:9]** When your fathers tempted me, Proved me, and saw my work.
 
-**[95:10]** Forty years long was I grieved with `that' generation, And said, It is a people that do err in their heart, And they have not known my ways:
+**[95:10]** Forty years long was I grieved with \`that' generation, And said, It is a people that do err in their heart, And they have not known my ways:
 
 **[95:11]** Wherefore I sware in my wrath, That they should not enter into my rest.
 
@@ -3100,7 +3100,7 @@
 
 **[97:11]** Light is sown for the righteous, And gladness for the upright in heart.
 
-**[97:12]** Be glad in Jehovah, ye righteous; And give thanks to his holy memorial `name'. Psalm 98 A Psalm.
+**[97:12]** Be glad in Jehovah, ye righteous; And give thanks to his holy memorial \`name'. Psalm 98 A Psalm.
 
 **[98:1]** Oh sing unto Jehovah a new song; For he hath done marvellous things: His right hand, and his holy arm, hath wrought salvation for him.
 
@@ -3120,7 +3120,7 @@
 
 **[98:9]** Before Jehovah; for he cometh to judge the earth: He will judge the world with righteousness, And the peoples with equity.
 
-**[99:1]** Jehovah reigneth; let the peoples tremble: He sitteth `above' the cherubim; let the earth be moved.
+**[99:1]** Jehovah reigneth; let the peoples tremble: He sitteth \`above' the cherubim; let the earth be moved.
 
 **[99:2]** Jehovah is great in Zion; And he is high above all the peoples.
 
@@ -3146,7 +3146,7 @@
 
 **[100:4]** Enter into his gates with thanksgiving, And into his courts with praise: Give thanks unto him, and bless his name.
 
-**[100:5]** For Jehovah is good; his lovingkindness `endureth' for ever, And his faithfulness unto all generations. Psalm 101 A Psalm of David.
+**[100:5]** For Jehovah is good; his lovingkindness \`endureth' for ever, And his faithfulness unto all generations. Psalm 101 A Psalm of David.
 
 **[101:1]** I will sing of lovingkindness and justice: Unto thee, O Jehovah, will I sing praises.
 
@@ -3186,7 +3186,7 @@
 
 **[102:11]** My days are like a shadow that declineth; And I am withered like grass.
 
-**[102:12]** But thou, O Jehovah, wilt abide for ever; And thy memorial `name' unto all generations.
+**[102:12]** But thou, O Jehovah, wilt abide for ever; And thy memorial \`name' unto all generations.
 
 **[102:13]** Thou wilt arise, and have mercy upon Zion; For it is time to have pity upon her, Yea, the set time is come.
 
@@ -3218,9 +3218,9 @@
 
 **[102:27]** But thou art the same, And thy years shall have no end.
 
-**[102:28]** The children of thy servants shall continue, And their seed shall be established before thee. Psalm 103 `A Psalm' of David.
+**[102:28]** The children of thy servants shall continue, And their seed shall be established before thee. Psalm 103 \`A Psalm' of David.
 
-**[103:1]** Bless Jehovah, O my soul; And all that is within me, `bless' his holy name.
+**[103:1]** Bless Jehovah, O my soul; And all that is within me, \`bless' his holy name.
 
 **[103:2]** Bless Jehovah, O my soul, And forget not all his benefits:
 
@@ -3228,7 +3228,7 @@
 
 **[103:4]** Who redeemeth thy life from destruction; Who crowneth thee with lovingkindness and tender mercies;
 
-**[103:5]** Who satisfieth thy desire with good things, `So that' thy youth is renewed like the eagle.
+**[103:5]** Who satisfieth thy desire with good things, \`So that' thy youth is renewed like the eagle.
 
 **[103:6]** Jehovah executeth righteous acts, And judgments for all that are oppressed.
 
@@ -3236,7 +3236,7 @@
 
 **[103:8]** Jehovah is merciful and gracious, Slow to anger, and abundant in lovingkindness.
 
-**[103:9]** He will not always chide; Neither will he keep `his anger' for ever.
+**[103:9]** He will not always chide; Neither will he keep \`his anger' for ever.
 
 **[103:10]** He hath not dealt with us after our sins, Nor rewarded us after our iniquities.
 
@@ -3292,9 +3292,9 @@
 
 **[104:14]** He causeth the grass to grow for the cattle, And herb for the service of man; That he may bring forth food out of the earth,
 
-**[104:15]** And wine that maketh glad the heart of man, `And' oil to make his face to shine, And bread that strengtheneth man's heart.
+**[104:15]** And wine that maketh glad the heart of man, \`And' oil to make his face to shine, And bread that strengtheneth man's heart.
 
-**[104:16]** The trees of Jehovah are filled `with moisture', The cedars of Lebanon, which he hath planted;
+**[104:16]** The trees of Jehovah are filled \`with moisture', The cedars of Lebanon, which he hath planted;
 
 **[104:17]** Where the birds make their nests: As for the stork, the fir-trees are her house.
 
@@ -3350,7 +3350,7 @@
 
 **[105:8]** He hath remembered his covenant for ever, The word which he commanded to a thousand generations,
 
-**[105:9]** `The covenant' which he made with Abraham, And his oath unto Isaac,
+**[105:9]** \`The covenant' which he made with Abraham, And his oath unto Isaac,
 
 **[105:10]** And confirmed the same unto Jacob for a statute, To Israel for an everlasting covenant,
 
@@ -3362,13 +3362,13 @@
 
 **[105:14]** He suffered no man to do them wrong; Yea, he reproved kings for their sakes,
 
-**[105:15]** `Saying', Touch not mine anointed ones, And do my prophets no harm.
+**[105:15]** \`Saying', Touch not mine anointed ones, And do my prophets no harm.
 
 **[105:16]** And he called for a famine upon the land; He brake the whole staff of bread.
 
 **[105:17]** He sent a man before them; Joseph was sold for a servant:
 
-**[105:18]** His feet they hurt with fetters: He was laid in `chains of' iron,
+**[105:18]** His feet they hurt with fetters: He was laid in \`chains of' iron,
 
 **[105:19]** Until the time that his word came to pass, The word of Jehovah tried him.
 
@@ -3384,7 +3384,7 @@
 
 **[105:25]** He turned their heart to hate his people, To deal subtly with his servants.
 
-**[105:26]** He sent Moses his servant, `And' Aaron whom he had chosen.
+**[105:26]** He sent Moses his servant, \`And' Aaron whom he had chosen.
 
 **[105:27]** They set among them his signs, And wonders in the land of Ham.
 
@@ -3396,7 +3396,7 @@
 
 **[105:31]** He spake, and there came swarms of flies, And lice in all their borders.
 
-**[105:32]** He gave them hail for rain, `And' flaming fire in their land.
+**[105:32]** He gave them hail for rain, \`And' flaming fire in their land.
 
 **[105:33]** He smote their vines also and their fig-trees, And brake the trees of their borders.
 
@@ -3414,17 +3414,17 @@
 
 **[105:40]** They asked, and he brought quails, And satisfied them with the bread of heaven.
 
-**[105:41]** He opened the rock, and waters gushed out; They ran in the dry places `like' a river.
+**[105:41]** He opened the rock, and waters gushed out; They ran in the dry places \`like' a river.
 
-**[105:42]** For he remembered his holy word, `And' Abraham his servant.
+**[105:42]** For he remembered his holy word, \`And' Abraham his servant.
 
-**[105:43]** And he brought forth his people with joy, `And' his chosen with singing.
+**[105:43]** And he brought forth his people with joy, \`And' his chosen with singing.
 
 **[105:44]** And he gave them the lands of the nations; And they took the labor of the peoples in possession:
 
 **[105:45]** That they might keep his statutes, And observe his laws. Praise ye Jehovah.
 
-**[106:1]** Praise ye Jehovah. Oh give thanks unto Jehovah; for he is good; For his lovingkindness `endureth' forever.
+**[106:1]** Praise ye Jehovah. Oh give thanks unto Jehovah; for he is good; For his lovingkindness \`endureth' forever.
 
 **[106:2]** Who can utter the mighty acts of Jehovah, Or show forth all his praise?
 
@@ -3454,7 +3454,7 @@
 
 **[106:15]** And he gave them their request, But sent leanness into their soul.
 
-**[106:16]** They envied Moses also in the camp, `And' Aaron the saint of Jehovah.
+**[106:16]** They envied Moses also in the camp, \`And' Aaron the saint of Jehovah.
 
 **[106:17]** The earth opened and swallowed up Dathan, And covered the company of Abiram.
 
@@ -3466,9 +3466,9 @@
 
 **[106:21]** They forgat God their Saviour, Who had done great things in Egypt,
 
-**[106:22]** Wondrous works in the land of Ham, `And' terrible things by the Red Sea.
+**[106:22]** Wondrous works in the land of Ham, \`And' terrible things by the Red Sea.
 
-**[106:23]** Therefore he said that he would destroy them, Had not Moses his chosen stood before him in the breach, To turn away his wrath, lest he should destroy `them'.
+**[106:23]** Therefore he said that he would destroy them, Had not Moses his chosen stood before him in the breach, To turn away his wrath, lest he should destroy \`them'.
 
 **[106:24]** Yea, they despised the pleasant land, They believed not his word,
 
@@ -3520,9 +3520,9 @@
 
 **[106:48]** Blessed be Jehovah, the God of Israel, From everlasting even to everlasting. And let all the people say, Amen. Praise ye Jehovah.
 
-**[107:1]** O give thanks unto Jehovah; For he is good; For his lovingkindness `endureth' for ever.
+**[107:1]** O give thanks unto Jehovah; For he is good; For his lovingkindness \`endureth' for ever.
 
-**[107:2]** Let the redeemed of Jehovah say `so', Whom he hath redeemed from the hand of the adversary,
+**[107:2]** Let the redeemed of Jehovah say \`so', Whom he hath redeemed from the hand of the adversary,
 
 **[107:3]** And gathered out of the lands, From the east and from the west, From the north and from the south.
 
@@ -3558,7 +3558,7 @@
 
 **[107:19]** Then they cry unto Jehovah in their trouble, And he saveth them out of their distresses.
 
-**[107:20]** He sendeth his word, and healeth them, And delivereth `them' from their destructions.
+**[107:20]** He sendeth his word, and healeth them, And delivereth \`them' from their destructions.
 
 **[107:21]** Oh that men would praise Jehovah for his lovingkindness, And for his wonderful works to the children of men!
 
@@ -3600,7 +3600,7 @@
 
 **[107:40]** He poureth contempt upon princes, And causeth them to wander in the waste, where there is no way.
 
-**[107:41]** Yet setteth he the needy on high from affliction, And maketh `him' families like a flock.
+**[107:41]** Yet setteth he the needy on high from affliction, And maketh \`him' families like a flock.
 
 **[107:42]** The upright shall see it, and be glad; And all iniquity shall stop her mouth.
 
@@ -3612,7 +3612,7 @@
 
 **[108:3]** I will give thanks unto thee, O Jehovah, among the peoples; And I will sing praises unto thee among the nations.
 
-**[108:4]** For thy lovingkindness is great above the heavens; And thy truth `reacheth' unto the skies.
+**[108:4]** For thy lovingkindness is great above the heavens; And thy truth \`reacheth' unto the skies.
 
 **[108:5]** Be thou exalted, O God, above the heavens, And thy glory above all the earth.
 
@@ -3638,7 +3638,7 @@
 
 **[109:3]** They have compassed me about also with words of hatred, And fought against me without a cause.
 
-**[109:4]** For my love they are my adversaries: But I `give myself unto' prayer.
+**[109:4]** For my love they are my adversaries: But I \`give myself unto' prayer.
 
 **[109:5]** And they have rewarded me evil for good, And hatred for my love.
 
@@ -3646,11 +3646,11 @@
 
 **[109:7]** When he is judged, let him come forth guilty; And let his prayer be turned into sin.
 
-**[109:8]** Let his days be few; `And' let another take his office.
+**[109:8]** Let his days be few; \`And' let another take his office.
 
 **[109:9]** Let his children be fatherless, And his wife a widow.
 
-**[109:10]** Let his children be vagabonds, and beg; And let them seek `their bread' out of their desolate places.
+**[109:10]** Let his children be vagabonds, and beg; And let them seek \`their bread' out of their desolate places.
 
 **[109:11]** Let the extortioner catch all that he hath; And let strangers make spoil of his labor.
 
@@ -3662,7 +3662,7 @@
 
 **[109:15]** Let them be before Jehovah continually, That he may cut off the memory of them from the earth;
 
-**[109:16]** Because he remembered not to show kindness, But persecuted the poor and needy man, And the broken in heart, to slay `them'.
+**[109:16]** Because he remembered not to show kindness, But persecuted the poor and needy man, And the broken in heart, to slay \`them'.
 
 **[109:17]** Yea, he loved cursing, and it came unto him; And he delighted not in blessing, and it was far from him.
 
@@ -3684,7 +3684,7 @@
 
 **[109:26]** Help me, O Jehovah my God; Oh save me according to thy lovingkindness:
 
-**[109:27]** That they may know that this is thy hand; `That' thou, Jehovah, hast done it.
+**[109:27]** That they may know that this is thy hand; \`That' thou, Jehovah, hast done it.
 
 **[109:28]** Let them curse, but bless thou: When they arise, they shall be put to shame, But thy servant shall rejoice.
 
@@ -3704,7 +3704,7 @@
 
 **[110:5]** The Lord at thy right hand Will strike through kings in the day of his wrath.
 
-**[110:6]** He will judge among the nations, He will fill `the places' with dead bodies; He will strike through the head in many countries.
+**[110:6]** He will judge among the nations, He will fill \`the places' with dead bodies; He will strike through the head in many countries.
 
 **[110:7]** He will drink of the brook in the way: Therefore will he lift up the head.
 
@@ -3726,7 +3726,7 @@
 
 **[111:9]** He hath sent redemption unto his people; He hath commanded his covenant for ever: Holy and reverend is his name.
 
-**[111:10]** The fear of Jehovah is the beginning of wisdom; A good understanding have all they that do `his commandments': His praise endureth for ever.
+**[111:10]** The fear of Jehovah is the beginning of wisdom; A good understanding have all they that do \`his commandments': His praise endureth for ever.
 
 **[112:1]** Praise ye Jehovah. Blessed is the man that feareth Jehovah, That delighteth greatly in his commandments.
 
@@ -3734,7 +3734,7 @@
 
 **[112:3]** Wealth and riches are in his house; And his righteousness endureth for ever.
 
-**[112:4]** Unto the upright there ariseth light in the darkness: `He is' gracious, and merciful, and righteous.
+**[112:4]** Unto the upright there ariseth light in the darkness: \`He is' gracious, and merciful, and righteous.
 
 **[112:5]** Well is it with the man that dealeth graciously and lendeth; He shall maintain his cause in judgment.
 
@@ -3742,7 +3742,7 @@
 
 **[112:7]** He shall not be afraid of evil tidings: His heart is fixed, trusting in Jehovah.
 
-**[112:8]** His heart is established, he shall not be afraid, Until he see `his desire' upon his adversaries.
+**[112:8]** His heart is established, he shall not be afraid, Until he see \`his desire' upon his adversaries.
 
 **[112:9]** He hath dispersed, he hath given to the needy; His righteousness endureth for ever: His horn shall be exalted with honor.
 
@@ -3758,13 +3758,13 @@
 
 **[113:5]** Who is like unto Jehovah our God, That hath his seat on high,
 
-**[113:6]** That humbleth himself to behold `The things that are' in heaven and in the earth?
+**[113:6]** That humbleth himself to behold \`The things that are' in heaven and in the earth?
 
 **[113:7]** He raiseth up the poor out of the dust, And lifteth up the needy from the dunghill;
 
 **[113:8]** That he may set him with princes, Even with the princes of his people.
 
-**[113:9]** He maketh the barren woman to keep house, `And to be' a joyful mother of children. Praise ye Jehovah.
+**[113:9]** He maketh the barren woman to keep house, \`And to be' a joyful mother of children. Praise ye Jehovah.
 
 **[114:1]** When Israel went forth out of Egypt, The house of Jacob from a people of strange language;
 
@@ -3804,7 +3804,7 @@
 
 **[115:11]** Ye that fear Jehovah, trust in Jehovah: He is their help and their shield.
 
-**[115:12]** Jehovah hath been mindful of us; he will bless `us': He will bless the house of Israel; He will bless the house of Aaron.
+**[115:12]** Jehovah hath been mindful of us; he will bless \`us': He will bless the house of Israel; He will bless the house of Aaron.
 
 **[115:13]** He will bless them that fear Jehovah, Both small and great.
 
@@ -3820,7 +3820,7 @@
 
 **[116:1]** I love Jehovah, because he heareth My voice and my supplications.
 
-**[116:2]** Because he hath inclined his ear unto me, Therefore will I call `upon him' as long as I live.
+**[116:2]** Because he hath inclined his ear unto me, Therefore will I call \`upon him' as long as I live.
 
 **[116:3]** The cords of death compassed me, And the pains of Sheol gat hold upon me: I found trouble and sorrow.
 
@@ -3832,7 +3832,7 @@
 
 **[116:7]** Return unto thy rest, O my soul; For Jehovah hath dealt bountifully with thee.
 
-**[116:8]** For thou hast delivered my soul from death, Mine eyes from tears, `And' my feet from falling.
+**[116:8]** For thou hast delivered my soul from death, Mine eyes from tears, \`And' my feet from falling.
 
 **[116:9]** I will walk before Jehovah In the land of the living.
 
@@ -3858,21 +3858,21 @@
 
 **[117:1]** O praise Jehovah, all ye nations; Laud him, all ye peoples.
 
-**[117:2]** For his lovingkindness is great toward us; And the truth of Jehovah `endureth' for ever. Praise ye Jehovah. Psalm 118
+**[117:2]** For his lovingkindness is great toward us; And the truth of Jehovah \`endureth' for ever. Praise ye Jehovah. Psalm 118
 
-**[118:1]** Oh give thanks unto Jehovah; for he is good; For his lovingkindness `endureth' for ever.
+**[118:1]** Oh give thanks unto Jehovah; for he is good; For his lovingkindness \`endureth' for ever.
 
-**[118:2]** Let Israel now say, That his lovingkindness `endureth' for ever.
+**[118:2]** Let Israel now say, That his lovingkindness \`endureth' for ever.
 
-**[118:3]** Let the house of Aaron now say, That his lovingkindness `endureth' for ever.
+**[118:3]** Let the house of Aaron now say, That his lovingkindness \`endureth' for ever.
 
-**[118:4]** Let them now that fear Jehovah say, That his lovingkindness `endureth' for ever.
+**[118:4]** Let them now that fear Jehovah say, That his lovingkindness \`endureth' for ever.
 
-**[118:5]** Out of my distress I called upon Jehovah: Jehovah answered me `and set me' in a large place.
+**[118:5]** Out of my distress I called upon Jehovah: Jehovah answered me \`and set me' in a large place.
 
 **[118:6]** Jehovah is on my side; I will not fear: What can man do unto me?
 
-**[118:7]** Jehovah is on my side among them that help me: Therefore shall I see `my desire' upon them that hate me.
+**[118:7]** Jehovah is on my side among them that help me: Therefore shall I see \`my desire' upon them that hate me.
 
 **[118:8]** It is better to take refuge in Jehovah Than to put confidence in man.
 
@@ -3916,7 +3916,7 @@
 
 **[118:28]** Thou art my God, and I will give thanks unto thee: Thou art my God, I will exalt thee.
 
-**[118:29]** Oh give thanks unto Jehovah; for he is good; For his lovingkindness `endureth' for ever.
+**[118:29]** Oh give thanks unto Jehovah; for he is good; For his lovingkindness \`endureth' for ever.
 
 **[119:1]** ALEPH. Blessed are they that are perfect in the way, Who walk in the law of Jehovah.
 
@@ -3924,7 +3924,7 @@
 
 **[119:3]** Yea, they do no unrighteousness; They walk in his ways.
 
-**[119:4]** Thou hast commanded `us' thy precepts, That we should observe them diligently.
+**[119:4]** Thou hast commanded \`us' thy precepts, That we should observe them diligently.
 
 **[119:5]** Oh that my ways were established To observe thy statutes!
 
@@ -3934,7 +3934,7 @@
 
 **[119:8]** I will observe thy statutes: Oh forsake me not utterly.
 
-**[119:9]** BETH. Wherewith shall a young man cleanse his way? By taking heed `thereto' according to thy word.
+**[119:9]** BETH. Wherewith shall a young man cleanse his way? By taking heed \`thereto' according to thy word.
 
 **[119:10]** With my whole heart have I sought thee: Oh let me not wander from thy commandments.
 
@@ -3962,9 +3962,9 @@
 
 **[119:22]** Take away from me reproach and contempt; For I have kept thy testimonies.
 
-**[119:23]** Princes also sat and talked against me; `But' thy servant did meditate on thy statutes.
+**[119:23]** Princes also sat and talked against me; \`But' thy servant did meditate on thy statutes.
 
-**[119:24]** Thy testimonies also are my delight `And' my counsellors.
+**[119:24]** Thy testimonies also are my delight \`And' my counsellors.
 
 **[119:25]** DALETH. My soul cleaveth unto the dust: Quicken thou me according to thy word.
 
@@ -3976,7 +3976,7 @@
 
 **[119:29]** Remove from me the way of falsehood; And grant me thy law graciously.
 
-**[119:30]** I have chosen the way of faithfulness: Thine ordinances have I set `before me'.
+**[119:30]** I have chosen the way of faithfulness: Thine ordinances have I set \`before me'.
 
 **[119:31]** I cleave unto thy testimonies: O Jehovah, put me not to shame.
 
@@ -3992,7 +3992,7 @@
 
 **[119:37]** Turn away mine eyes from beholding vanity, And quicken me in thy ways.
 
-**[119:38]** Confirm unto thy servant thy word, Which `is in order' unto the fear of thee.
+**[119:38]** Confirm unto thy servant thy word, Which \`is in order' unto the fear of thee.
 
 **[119:39]** Turn away my reproach whereof I am afraid; For thine ordinances are good.
 
@@ -4018,7 +4018,7 @@
 
 **[119:50]** This is my comfort in my affliction; For thy word hath quickened me.
 
-**[119:51]** The proud have had me greatly in derision: `Yet' have I not swerved from thy law.
+**[119:51]** The proud have had me greatly in derision: \`Yet' have I not swerved from thy law.
 
 **[119:52]** I have remembered thine ordinances of old, O Jehovah, And have comforted myself.
 
@@ -4038,7 +4038,7 @@
 
 **[119:60]** I made haste, and delayed not, To observe thy commandments.
 
-**[119:61]** The cords of the wicked have wrapped me round; `But' I have not forgotten thy law.
+**[119:61]** The cords of the wicked have wrapped me round; \`But' I have not forgotten thy law.
 
 **[119:62]** At midnight I will rise to give thanks unto thee Because of thy righteous ordinances.
 
@@ -4072,13 +4072,13 @@
 
 **[119:77]** Let thy tender mercies come unto me, that I may live; For thy law is my delight.
 
-**[119:78]** Let the proud be put to shame; For they have overthrown me wrongfully: `But' I will meditate on thy precepts.
+**[119:78]** Let the proud be put to shame; For they have overthrown me wrongfully: \`But' I will meditate on thy precepts.
 
 **[119:79]** Let those that fear thee turn unto me; And they shall know thy testimonies.
 
 **[119:80]** Let my heart be perfect in thy statutes, That I be not put to shame.
 
-**[119:81]** KAPH. My soul fainteth for thy salvation; `But' I hope in thy word.
+**[119:81]** KAPH. My soul fainteth for thy salvation; \`But' I hope in thy word.
 
 **[119:82]** Mine eyes fail for thy word, While I say, When wilt thou comfort me?
 
@@ -4106,9 +4106,9 @@
 
 **[119:94]** I am thine, save me; For I have sought thy precepts.
 
-**[119:95]** The wicked have waited for me, to destroy me; `But' I will consider thy testimonies.
+**[119:95]** The wicked have waited for me, to destroy me; \`But' I will consider thy testimonies.
 
-**[119:96]** MEM. I have seen an end of all perfection; `But' thy commandment is exceeding broad.
+**[119:96]** MEM. I have seen an end of all perfection; \`But' thy commandment is exceeding broad.
 
 **[119:97]** Oh how love I thy law! It is my meditation all the day.
 
@@ -4122,7 +4122,7 @@
 
 **[119:102]** I have not turned aside from thine ordinances; For thou hast taught me.
 
-**[119:103]** How sweet are thy words unto my taste! `Yea, sweeter' than honey to my mouth!
+**[119:103]** How sweet are thy words unto my taste! \`Yea, sweeter' than honey to my mouth!
 
 **[119:104]** Through thy precepts I get understanding: Therefore I hate every false way.
 
@@ -4168,11 +4168,11 @@
 
 **[119:125]** I am thy servant; give me understanding, That I may know thy testimonies.
 
-**[119:126]** It is time for Jehovah to work; `For' they have made void thy law.
+**[119:126]** It is time for Jehovah to work; \`For' they have made void thy law.
 
 **[119:127]** Therefore I love thy commandments Above gold, yea, above fine gold.
 
-**[119:128]** Therefore I esteem all `thy' precepts concerning all `things' to be right; `And' I hate every false way.
+**[119:128]** Therefore I esteem all \`thy' precepts concerning all \`things' to be right; \`And' I hate every false way.
 
 **[119:129]** PE. Thy testimonies are wonderful; Therefore doth my soul keep them.
 
@@ -4198,11 +4198,11 @@
 
 **[119:140]** Thy word is very pure; Therefore thy servant loveth it.
 
-**[119:141]** I am small and despised; `Yet' do I not forget thy precepts.
+**[119:141]** I am small and despised; \`Yet' do I not forget thy precepts.
 
 **[119:142]** Thy righteousness is an everlasting righteousness, And thy law is truth.
 
-**[119:143]** Trouble and anguish have taken hold on me; `Yet' thy commandments are my delight.
+**[119:143]** Trouble and anguish have taken hold on me; \`Yet' thy commandments are my delight.
 
 **[119:144]** Thy testimonies are righteous for ever: Give me understanding, and I shall live.
 
@@ -4230,19 +4230,19 @@
 
 **[119:156]** Great are thy tender mercies, O Jehovah: Quicken me according to thine ordinances.
 
-**[119:157]** Many are my persecutors and mine adversaries; `Yet' have I not swerved from thy testimonies.
+**[119:157]** Many are my persecutors and mine adversaries; \`Yet' have I not swerved from thy testimonies.
 
 **[119:158]** I beheld the treacherous, and was grieved, Because they observe not thy word.
 
 **[119:159]** Consider how I love thy precepts: Quicken me, O Jehovah, according to thy lovingkindness.
 
-**[119:160]** The sum of thy word is truth; And every one of thy righteous ordinances `endureth' for ever.
+**[119:160]** The sum of thy word is truth; And every one of thy righteous ordinances \`endureth' for ever.
 
 **[119:161]** SHIN. Princes have persecuted me without a cause; But my heart standeth in awe of thy words.
 
 **[119:162]** I rejoice at thy word, As one that findeth great spoil.
 
-**[119:163]** I hate and abhor falsehood; `But' thy law do I love.
+**[119:163]** I hate and abhor falsehood; \`But' thy law do I love.
 
 **[119:164]** Seven times a day do I praise thee, Because of thy righteous ordinances.
 
@@ -4272,7 +4272,7 @@
 
 **[120:1]** In my distress I cried unto Jehovah, And he answered me.
 
-**[120:2]** Deliver my soul, O Jehovah, from lying lips, `And' from a deceitful tongue.
+**[120:2]** Deliver my soul, O Jehovah, from lying lips, \`And' from a deceitful tongue.
 
 **[120:3]** What shall be given unto thee, and what shall be done more unto thee, Thou deceitful tongue?
 
@@ -4282,11 +4282,11 @@
 
 **[120:6]** My soul hath long had her dwelling With him that hateth peace.
 
-**[120:7]** I am `for' peace: But when I speak, they are for war. Psalm 121 A Song of Ascents.
+**[120:7]** I am \`for' peace: But when I speak, they are for war. Psalm 121 A Song of Ascents.
 
 **[121:1]** I will lift up mine eyes unto the mountains: From whence shall my help come?
 
-**[121:2]** My help `cometh' from Jehovah, Who made heaven and earth.
+**[121:2]** My help \`cometh' from Jehovah, Who made heaven and earth.
 
 **[121:3]** He will not suffer thy foot to be moved: He that keepeth thee will not slumber.
 
@@ -4306,7 +4306,7 @@
 
 **[122:3]** Jerusalem, that art builded As a city that is compact together;
 
-**[122:4]** Whither the tribes go up, even the tribes of Jehovah, `For' an ordinance for Israel, To give thanks unto the name of Jehovah.
+**[122:4]** Whither the tribes go up, even the tribes of Jehovah, \`For' an ordinance for Israel, To give thanks unto the name of Jehovah.
 
 **[122:5]** For there are set thrones for judgment, The thrones of the house of David.
 
@@ -4320,7 +4320,7 @@
 
 **[123:1]** Unto thee do I lift up mine eyes, O thou that sittest in the heavens.
 
-**[123:2]** Behold, as the eyes of servants `look' unto the hand of their master, As the eyes of a maid unto the hand of her mistress; So our eyes `look' unto Jehovah our God, Until he have mercy upon us.
+**[123:2]** Behold, as the eyes of servants \`look' unto the hand of their master, As the eyes of a maid unto the hand of her mistress; So our eyes \`look' unto Jehovah our God, Until he have mercy upon us.
 
 **[123:3]** Have mercy upon us, O Jehovah, have mercy upon us; For we are exceedingly filled with contempt.
 
@@ -4356,19 +4356,19 @@
 
 **[126:2]** Then was our mouth filled with laughter, And our tongue with singing: Then said they among the nations, Jehovah hath done great things for them.
 
-**[126:3]** Jehovah hath done great things for us, `Whereof' we are glad.
+**[126:3]** Jehovah hath done great things for us, \`Whereof' we are glad.
 
 **[126:4]** Turn again our captivity, O Jehovah, As the streams in the South.
 
 **[126:5]** They that sow in tears shall reap in joy.
 
-**[126:6]** He that goeth forth and weepeth, bearing seed for sowing, Shall doubtless come again with joy, bringing his sheaves `with him'. Psalm 127 A Song of Ascents; of Solomon.
+**[126:6]** He that goeth forth and weepeth, bearing seed for sowing, Shall doubtless come again with joy, bringing his sheaves \`with him'. Psalm 127 A Song of Ascents; of Solomon.
 
 **[127:1]** Except Jehovah build the house, They labor in vain that build it: Except Jehovah keep the city, The watchman waketh but in vain.
 
-**[127:2]** It is vain for you to rise up early, To take rest late, To eat the bread of toil; `For' so he giveth unto his beloved sleep.
+**[127:2]** It is vain for you to rise up early, To take rest late, To eat the bread of toil; \`For' so he giveth unto his beloved sleep.
 
-**[127:3]** Lo, children are a heritage of Jehovah; `And' the fruit of the womb is `his' reward.
+**[127:3]** Lo, children are a heritage of Jehovah; \`And' the fruit of the womb is \`his' reward.
 
 **[127:4]** As arrows in the hand of a mighty man, So are the children of youth.
 
@@ -4412,7 +4412,7 @@
 
 **[130:5]** I wait for Jehovah, my soul doth wait, And in his word do I hope.
 
-**[130:6]** My soul `waiteth' for the Lord More than watchmen `wait' for the morning; `Yea, more than' watchmen for the morning.
+**[130:6]** My soul \`waiteth' for the Lord More than watchmen \`wait' for the morning; \`Yea, more than' watchmen for the morning.
 
 **[130:7]** O Israel, hope in Jehovah; For with Jehovah there is lovingkindness, And with him is plenteous redemption.
 
@@ -4472,13 +4472,13 @@
 
 **[134:3]** Jehovah bless thee out of Zion; Even he that made heaven and earth.
 
-**[135:1]** Praise ye Jehovah. Praise ye the name of Jehovah; Praise `him', O ye servants of Jehovah,
+**[135:1]** Praise ye Jehovah. Praise ye the name of Jehovah; Praise \`him', O ye servants of Jehovah,
 
 **[135:2]** Ye that stand in the house of Jehovah, In the courts of the house of our God.
 
 **[135:3]** Praise ye Jehovah; for Jehovah is good: Sing praises unto his name; for it is pleasant.
 
-**[135:4]** For Jehovah hath chosen Jacob unto himself, `And' Israel for his own possession.
+**[135:4]** For Jehovah hath chosen Jacob unto himself, \`And' Israel for his own possession.
 
 **[135:5]** For I know that Jehovah is great, And that our Lord is above all gods.
 
@@ -4496,7 +4496,7 @@
 
 **[135:12]** And gave their land for a heritage, A heritage unto Israel his people.
 
-**[135:13]** Thy name, O Jehovah, `endureth' for ever; Thy memorial `name', O Jehovah, throughout all generations.
+**[135:13]** Thy name, O Jehovah, \`endureth' for ever; Thy memorial \`name', O Jehovah, throughout all generations.
 
 **[135:14]** For Jehovah will judge his people, And repent himself concerning his servants.
 
@@ -4514,67 +4514,67 @@
 
 **[135:21]** Blessed be Jehovah out of Zion, Who dwelleth at Jerusalem. Praise ye Jehovah.
 
-**[136:1]** Oh give thanks unto Jehovah; for he is good; For his lovingkindness `endureth' for ever.
+**[136:1]** Oh give thanks unto Jehovah; for he is good; For his lovingkindness \`endureth' for ever.
 
-**[136:2]** Oh give thanks unto the God of gods; For his lovingkindness `endureth' for ever.
+**[136:2]** Oh give thanks unto the God of gods; For his lovingkindness \`endureth' for ever.
 
-**[136:3]** Oh give thanks unto the Lord of lords; For his lovingkindness `endureth' for ever:
+**[136:3]** Oh give thanks unto the Lord of lords; For his lovingkindness \`endureth' for ever:
 
-**[136:4]** To him who alone doeth great wonders; For his lovingkindness `endureth' for ever:
+**[136:4]** To him who alone doeth great wonders; For his lovingkindness \`endureth' for ever:
 
-**[136:5]** To him that by understanding made the heavens; For his lovingkindness `endureth' for ever:
+**[136:5]** To him that by understanding made the heavens; For his lovingkindness \`endureth' for ever:
 
-**[136:6]** To him that spread forth the earth above the waters; For his lovingkindness `endureth' for ever:
+**[136:6]** To him that spread forth the earth above the waters; For his lovingkindness \`endureth' for ever:
 
-**[136:7]** To him that made great lights; For his lovingkindness `endureth' for ever:
+**[136:7]** To him that made great lights; For his lovingkindness \`endureth' for ever:
 
-**[136:8]** The sun to rule by day; For his lovingkindness `endureth' for ever;
+**[136:8]** The sun to rule by day; For his lovingkindness \`endureth' for ever;
 
-**[136:9]** The moon and stars to rule by night; For his lovingkindness `endureth' for ever:
+**[136:9]** The moon and stars to rule by night; For his lovingkindness \`endureth' for ever:
 
-**[136:10]** To him that smote Egypt in their first-born; For his lovingkindness `endureth' for ever;
+**[136:10]** To him that smote Egypt in their first-born; For his lovingkindness \`endureth' for ever;
 
-**[136:11]** And brought out Israel from among them; For his lovingkindness `endureth' for ever;
+**[136:11]** And brought out Israel from among them; For his lovingkindness \`endureth' for ever;
 
-**[136:12]** With a strong hand, and with an outstretched arm; For his lovingkindness `endureth' for ever:
+**[136:12]** With a strong hand, and with an outstretched arm; For his lovingkindness \`endureth' for ever:
 
-**[136:13]** To him that divided the Red Sea in sunder; For his lovingkindness `endureth' for ever;
+**[136:13]** To him that divided the Red Sea in sunder; For his lovingkindness \`endureth' for ever;
 
-**[136:14]** And made Israel to pass through the midst of it; For his lovingkindness `endureth' for ever;
+**[136:14]** And made Israel to pass through the midst of it; For his lovingkindness \`endureth' for ever;
 
-**[136:15]** But overthrew Pharaoh and his host in the Red Sea; For his lovingkindness `endureth' for ever:
+**[136:15]** But overthrew Pharaoh and his host in the Red Sea; For his lovingkindness \`endureth' for ever:
 
-**[136:16]** To him that led his people through the wilderness; For his lovingkindness `endureth' for ever:
+**[136:16]** To him that led his people through the wilderness; For his lovingkindness \`endureth' for ever:
 
-**[136:17]** To him that smote great kings; For his lovingkindness `endureth' for ever;
+**[136:17]** To him that smote great kings; For his lovingkindness \`endureth' for ever;
 
-**[136:18]** And slew famous kings; For his lovingkindness `endureth' for ever:
+**[136:18]** And slew famous kings; For his lovingkindness \`endureth' for ever:
 
-**[136:19]** Sihon king of the Amorites; For his lovingkindness `endureth' forever;
+**[136:19]** Sihon king of the Amorites; For his lovingkindness \`endureth' forever;
 
-**[136:20]** And Og king of Bashan; For his lovingkindness `endureth' for ever;
+**[136:20]** And Og king of Bashan; For his lovingkindness \`endureth' for ever;
 
-**[136:21]** And gave their land for a heritage; For his lovingkindness `endureth' for ever;
+**[136:21]** And gave their land for a heritage; For his lovingkindness \`endureth' for ever;
 
-**[136:22]** Even a heritage unto Israel his servant; For his lovingkindness `endureth' for ever:
+**[136:22]** Even a heritage unto Israel his servant; For his lovingkindness \`endureth' for ever:
 
-**[136:23]** Who remembered us in our low estate; For his lovingkindness `endureth' for ever;
+**[136:23]** Who remembered us in our low estate; For his lovingkindness \`endureth' for ever;
 
-**[136:24]** And hath delivered us from our adversaries; For his lovingkindness `endureth' for ever:
+**[136:24]** And hath delivered us from our adversaries; For his lovingkindness \`endureth' for ever:
 
-**[136:25]** Who giveth food to all flesh; For his lovingkindness `endureth' for ever.
+**[136:25]** Who giveth food to all flesh; For his lovingkindness \`endureth' for ever.
 
-**[136:26]** Oh give thanks unto the God of heaven; For his lovingkindness `endureth' for ever.
+**[136:26]** Oh give thanks unto the God of heaven; For his lovingkindness \`endureth' for ever.
 
 **[137:1]** By the rivers of Babylon, There we sat down, yea, we wept, When we remembered Zion.
 
 **[137:2]** Upon the willows in the midst thereof We hanged up our harps.
 
-**[137:3]** For there they that led us captive required of us songs, And they that wasted us `required of us' mirth, `saying', Sing us one of the songs of Zion.
+**[137:3]** For there they that led us captive required of us songs, And they that wasted us \`required of us' mirth, \`saying', Sing us one of the songs of Zion.
 
 **[137:4]** How shall we sing Jehovah's song In a foreign land?
 
-**[137:5]** If I forget thee, O Jerusalem, Let my right hand forget `her skill'.
+**[137:5]** If I forget thee, O Jerusalem, Let my right hand forget \`her skill'.
 
 **[137:6]** Let my tongue cleave to the roof of my mouth, If I remember thee not; If I prefer not Jerusalem Above my chief joy.
 
@@ -4582,7 +4582,7 @@
 
 **[137:8]** O daughter of Babylon, that art to be destroyed, Happy shall he be, that rewardeth thee As thou hast served us.
 
-**[137:9]** Happy shall he be, that taketh and dasheth thy little ones Against the rock. Psalm 138 A `Psalm' of David.
+**[137:9]** Happy shall he be, that taketh and dasheth thy little ones Against the rock. Psalm 138 A \`Psalm' of David.
 
 **[138:1]** I will give thee thanks with my whole heart: Before the gods will I sing praises unto thee.
 
@@ -4598,9 +4598,9 @@
 
 **[138:7]** Though I walk in the midst of trouble, thou wilt revive me; Thou wilt stretch forth thy hand against the wrath of mine enemies, And thy right hand will save me.
 
-**[138:8]** Jehovah will perfect that which concerneth me: Thy lovingkindness, O Jehovah, `endureth' for ever; Forsake not the works of thine own hands. Psalm 139 For the Chief Musician. A Psalm of David.
+**[138:8]** Jehovah will perfect that which concerneth me: Thy lovingkindness, O Jehovah, \`endureth' for ever; Forsake not the works of thine own hands. Psalm 139 For the Chief Musician. A Psalm of David.
 
-**[139:1]** O Jehovah, thou hast searched me, and known `me'.
+**[139:1]** O Jehovah, thou hast searched me, and known \`me'.
 
 **[139:2]** Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.
 
@@ -4610,7 +4610,7 @@
 
 **[139:5]** Thou hast beset me behind and before, And laid thy hand upon me.
 
-**[139:6]** `Such' knowledge is too wonderful for me; It is high, I cannot attain unto it.
+**[139:6]** \`Such' knowledge is too wonderful for me; It is high, I cannot attain unto it.
 
 **[139:7]** Whither shall I go from thy Spirit? Or whither shall I flee from thy presence?
 
@@ -4622,15 +4622,15 @@
 
 **[139:11]** If I say, Surely the darkness shall overwhelm me, And the light about me shall be night;
 
-**[139:12]** Even the darkness hideth not from thee, But the night shineth as the day: The darkness and the light are both alike `to thee'.
+**[139:12]** Even the darkness hideth not from thee, But the night shineth as the day: The darkness and the light are both alike \`to thee'.
 
 **[139:13]** For thou didst form my inward parts: Thou didst cover me in my mother's womb.
 
 **[139:14]** I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.
 
-**[139:15]** My frame was not hidden from thee, When I was made in secret, `And' curiously wrought in the lowest parts of the earth.
+**[139:15]** My frame was not hidden from thee, When I was made in secret, \`And' curiously wrought in the lowest parts of the earth.
 
-**[139:16]** Thine eyes did see mine unformed substance; And in thy book they were all written, `Even' the days that were ordained `for me', When as yet there was none of them.
+**[139:16]** Thine eyes did see mine unformed substance; And in thy book they were all written, \`Even' the days that were ordained \`for me', When as yet there was none of them.
 
 **[139:17]** How precious also are thy thoughts unto me, O God! How great is the sum of them!
 
@@ -4638,7 +4638,7 @@
 
 **[139:19]** Surely thou wilt slay the wicked, O God: Depart from me therefore, ye bloodthirsty men.
 
-**[139:20]** For they speak against thee wickedly, And thine enemies take `thy name' in vain.
+**[139:20]** For they speak against thee wickedly, And thine enemies take \`thy name' in vain.
 
 **[139:21]** Do not I hate them, O Jehovah, that hate thee? And am not I grieved with those that rise up against thee?
 
@@ -4662,7 +4662,7 @@
 
 **[140:7]** O Jehovah the Lord, the strength of my salvation, Thou hast covered my head in the day of battle.
 
-**[140:8]** Grant not, O Jehovah, the desires of the wicked; Further not his evil device, `lest' they exalt themselves. Selah
+**[140:8]** Grant not, O Jehovah, the desires of the wicked; Further not his evil device, \`lest' they exalt themselves. Selah
 
 **[140:9]** As for the head of those that compass me about, Let the mischief of their own lips cover them.
 
@@ -4682,7 +4682,7 @@
 
 **[141:4]** Incline not my heart to any evil thing, To practise deeds of wickedness With men that work iniquity: And let me not eat of their dainties.
 
-**[141:5]** Let the righteous smite me, `it shall be' a kindness; And let him reprove me, `it shall be as' oil upon the head; Let not my head refuse it: For even in their wickedness shall my prayer continue.
+**[141:5]** Let the righteous smite me, \`it shall be' a kindness; And let him reprove me, \`it shall be as' oil upon the head; Let not my head refuse it: For even in their wickedness shall my prayer continue.
 
 **[141:6]** Their judges are thrown down by the sides of the rock; And they shall hear my words; for they are sweet.
 
@@ -4700,7 +4700,7 @@
 
 **[142:3]** When my spirit was overwhelmed within me, Thou knewest my path. In the way wherein I walk Have they hidden a snare for me.
 
-**[142:4]** Look on `my' right hand, and see; For there is no man that knoweth me: Refuge hath failed me; No man careth for my soul.
+**[142:4]** Look on \`my' right hand, and see; For there is no man that knoweth me: Refuge hath failed me; No man careth for my soul.
 
 **[142:5]** I cried unto thee, O Jehovah; I said, Thou art my refuge, My portion in the land of the living.
 
@@ -4708,7 +4708,7 @@
 
 **[142:7]** Bring my soul out of prison, That I may give thanks unto thy name: The righteous shall compass me about; For thou wilt deal bountifully with me. Psalm 143 A Psalm of David.
 
-**[143:1]** Hear my prayer, O Jehovah; give ear to my supplications: In thy faithfulness answer me, `and' in thy righteousness.
+**[143:1]** Hear my prayer, O Jehovah; give ear to my supplications: In thy faithfulness answer me, \`and' in thy righteousness.
 
 **[143:2]** And enter not into judgment with thy servant; For in thy sight no man living is righteous.
 
@@ -4718,7 +4718,7 @@
 
 **[143:5]** I remember the days of old; I meditate on all thy doings; I muse on the work of thy hands.
 
-**[143:6]** I spread forth my hands unto thee: My soul `thirsteth' after thee, as a weary land. Selah
+**[143:6]** I spread forth my hands unto thee: My soul \`thirsteth' after thee, as a weary land. Selah
 
 **[143:7]** Make haste to answer me, O Jehovah; my spirit faileth: Hide not thy face from me, Lest I become like them that go down into the pit.
 
@@ -4730,9 +4730,9 @@
 
 **[143:11]** Quicken me, O Jehovah, for thy name's sake: In thy righteousness bring my soul out of trouble.
 
-**[143:12]** And in thy lovingkindness cut off mine enemies, And destroy all them that afflict my soul; For I am thy servant. Psalm 144 `A Psalm' of David.
+**[143:12]** And in thy lovingkindness cut off mine enemies, And destroy all them that afflict my soul; For I am thy servant. Psalm 144 \`A Psalm' of David.
 
-**[144:1]** Blessed be Jehovah my rock, Who teacheth my hands to war, `And' my fingers to fight:
+**[144:1]** Blessed be Jehovah my rock, Who teacheth my hands to war, \`And' my fingers to fight:
 
 **[144:2]** My lovingkindness, and my fortress, My high tower, and my deliverer; My shield, and he in whom I take refuge; Who subdueth my people under me.
 
@@ -4756,11 +4756,11 @@
 
 **[144:12]** When our sons shall be as plants grown up in their youth, And our daughters as corner-stones hewn after the fashion of a palace;
 
-**[144:13]** `When' our garners are full, affording all manner of store, `And' our sheep bring forth thousands and ten thousands in our fields;
+**[144:13]** \`When' our garners are full, affording all manner of store, \`And' our sheep bring forth thousands and ten thousands in our fields;
 
-**[144:14]** `When' our oxen are well laden; `When there is' no breaking in, and no going forth, And no outcry in our streets:
+**[144:14]** \`When' our oxen are well laden; \`When there is' no breaking in, and no going forth, And no outcry in our streets:
 
-**[144:15]** Happy is the people that is in such a case; `Yea', happy is the people whose God is Jehovah. Psalm 145 `A' `Psalm' `of' praise; of David.
+**[144:15]** Happy is the people that is in such a case; \`Yea', happy is the people whose God is Jehovah. Psalm 145 \`A' \`Psalm' \`of' praise; of David.
 
 **[145:1]** I will extol thee, my God, O King; And I will bless thy name for ever and ever.
 
@@ -4786,7 +4786,7 @@
 
 **[145:12]** To make known to the sons of men his mighty acts, And the glory of the majesty of his kingdom.
 
-**[145:13]** Thy kingdom is an everlasting kingdom, And thy dominion `endureth' throughout all generations.
+**[145:13]** Thy kingdom is an everlasting kingdom, And thy dominion \`endureth' throughout all generations.
 
 **[145:14]** Jehovah upholdeth all that fall, And raiseth up all those that are bowed down.
 
@@ -4818,19 +4818,19 @@
 
 **[146:7]** Who executeth justice for the oppressed; Who giveth food to the hungry. Jehovah looseth the prisoners;
 
-**[146:8]** Jehovah openeth `the eyes of' the blind; Jehovah raiseth up them that are bowed down; Jehovah loveth the righteous;
+**[146:8]** Jehovah openeth \`the eyes of' the blind; Jehovah raiseth up them that are bowed down; Jehovah loveth the righteous;
 
 **[146:9]** Jehovah preserveth the sojourners; He upholdeth the fatherless and widow; But the way of the wicked he turneth upside down.
 
 **[146:10]** Jehovah will reign for ever, Thy God, O Zion, unto all generations. Praise ye Jehovah.
 
-**[147:1]** Praise ye Jehovah; For it is good to sing praises unto our God; For it is pleasant, `and' praise is comely.
+**[147:1]** Praise ye Jehovah; For it is good to sing praises unto our God; For it is pleasant, \`and' praise is comely.
 
 **[147:2]** Jehovah doth build up Jerusalem; He gathereth together the outcasts of Israel.
 
 **[147:3]** He healeth the broken in heart, And bindeth up their wounds.
 
-**[147:4]** He counteth the number of the stars; He calleth them all by `their' names.
+**[147:4]** He counteth the number of the stars; He calleth them all by \`their' names.
 
 **[147:5]** Great is our Lord, and mighty in power; His understanding is infinite.
 
@@ -4840,7 +4840,7 @@
 
 **[147:8]** Who covereth the heavens with clouds, Who prepareth rain for the earth, Who maketh grass to grow upon the mountains.
 
-**[147:9]** He giveth to the beast his food, `And' to the young ravens which cry.
+**[147:9]** He giveth to the beast his food, \`And' to the young ravens which cry.
 
 **[147:10]** He delighteth not in the strength of the horse: He taketh no pleasure in the legs of a man.
 
@@ -4902,7 +4902,7 @@
 
 **[149:5]** Let the saints exult in glory: Let them sing for joy upon their beds.
 
-**[149:6]** `Let' the high praises of God `be' in their mouth, And a two-edged sword in their hand;
+**[149:6]** \`Let' the high praises of God \`be' in their mouth, And a two-edged sword in their hand;
 
 **[149:7]** To execute vengeance upon the nations, And punishments upon the peoples;
 

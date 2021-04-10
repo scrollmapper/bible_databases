@@ -10,7 +10,7 @@
 
 **[1:5]** For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?
 
-**[1:6]** Therefore I will make Samaria as a heap of the field, `and' as places for planting vineyards; and I will pour down the stones thereof into the valley, and I will uncover the foundations thereof.
+**[1:6]** Therefore I will make Samaria as a heap of the field, \`and' as places for planting vineyards; and I will pour down the stones thereof into the valley, and I will uncover the foundations thereof.
 
 **[1:7]** And all her graven images shall be beaten to pieces, and all her hires shall be burned with fire, and all her idols will I lay desolate; for of the hire of a harlot hath she gathered them, and unto the hire of a harlot shall they return.
 
@@ -38,23 +38,23 @@
 
 **[2:3]** Therefore thus saith Jehovah: Behold, against this family do I devise an evil, from which ye shall not remove your necks, neither shall ye walk haughtily; for it is an evil time.
 
-**[2:4]** In that day shall they take up a parable against you, and lament with a doleful lamentation, `and' say, We are utterly ruined: he changeth the portion of my people: how doth he remove `it' from me! to the rebellious he divideth our fields.
+**[2:4]** In that day shall they take up a parable against you, and lament with a doleful lamentation, \`and' say, We are utterly ruined: he changeth the portion of my people: how doth he remove \`it' from me! to the rebellious he divideth our fields.
 
 **[2:5]** Therefore thou shalt have none that shall cast the line by lot in the assembly of Jehovah.
 
-**[2:6]** Prophesy ye not, `thus' they prophesy. They shall not prophesy to these: reproaches shall not depart.
+**[2:6]** Prophesy ye not, \`thus' they prophesy. They shall not prophesy to these: reproaches shall not depart.
 
 **[2:7]** Shall it be said, O house of Jacob, Is the Spirit of Jehovah straitened? are these his doings? Do not my words do good to him that walketh uprightly?
 
-**[2:8]** But of late my people is risen up as an enemy: ye strip the robe from off the garment from them that pass by securely `as men' averse from war.
+**[2:8]** But of late my people is risen up as an enemy: ye strip the robe from off the garment from them that pass by securely \`as men' averse from war.
 
 **[2:9]** The women of my people ye cast out from their pleasant houses; from their young children ye take away my glory for ever.
 
 **[2:10]** Arise ye, and depart; for this is not your resting-place; because of uncleanness that destroyeth, even with a grievous destruction.
 
-**[2:11]** If a man walking in a spirit of falsehood do lie, `saying', I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.
+**[2:11]** If a man walking in a spirit of falsehood do lie, \`saying', I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.
 
-**[2:12]** I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as a flock in the midst of their pasture; they shall make great noise by reason of `the multitude of' men.
+**[2:12]** I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as a flock in the midst of their pasture; they shall make great noise by reason of \`the multitude of' men.
 
 **[2:13]** The breaker is gone up before them: they have broken forth and passed on to the gate, and are gone out thereat; and their king is passed on before them, and Jehovah at the head of them.
 
@@ -102,7 +102,7 @@
 
 **[4:10]** Be in pain, and labor to bring forth, O daughter of Zion, like a woman in travail; for now shalt thou go forth out of the city, and shalt dwell in the field, and shalt come even unto Babylon: there shalt thou be rescued; there will Jehovah redeem thee from the hand of thine enemies.
 
-**[4:11]** And now many nations are assembled against thee, that say, Let her be defiled, and let our eye see `our desire' upon Zion.
+**[4:11]** And now many nations are assembled against thee, that say, Let her be defiled, and let our eye see \`our desire' upon Zion.
 
 **[4:12]** But they know not the thoughts of Jehovah, neither understand they his counsel; for he hath gathered them as the sheaves to the threshing-floor.
 
@@ -114,9 +114,9 @@
 
 **[5:3]** Therefore will he give them up, until the time that she who travaileth hath brought forth: then the residue of his brethren shall return unto the children of Israel.
 
-**[5:4]** And he shall stand, and shall feed `his flock' in the strength of Jehovah, in the majesty of the name of Jehovah his God: and they shall abide; for now shall he be great unto the ends of the earth.
+**[5:4]** And he shall stand, and shall feed \`his flock' in the strength of Jehovah, in the majesty of the name of Jehovah his God: and they shall abide; for now shall he be great unto the ends of the earth.
 
-**[5:5]** And this `man' shall be `our' peace. When the Assyrian shall come into our land, and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.
+**[5:5]** And this \`man' shall be \`our' peace. When the Assyrian shall come into our land, and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.
 
 **[5:6]** And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: and he shall deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our border.
 
@@ -130,7 +130,7 @@
 
 **[5:11]** and I will cut off the cities of thy land, and will throw down all thy strongholds.
 
-**[5:12]** And I will cut off witchcrafts out of thy hand; and thou shalt have no `more' soothsayers:
+**[5:12]** And I will cut off witchcrafts out of thy hand; and thou shalt have no \`more' soothsayers:
 
 **[5:13]** and I will cut off thy graven images and thy pillars out of the midst of thee; and thou shalt no more worship the work of thy hands;
 
@@ -146,15 +146,15 @@
 
 **[6:4]** For I brought thee up out of the land of Egypt, and redeemed thee out of the house of bondage; and I sent before thee Moses, Aaron, and Miriam.
 
-**[6:5]** O my people, remember now what Balak king of Moab devised, and what Balaam the son of Beor answered him; `remember' from Shittim unto Gilgal, that ye may know the righteous acts of Jehovah.
+**[6:5]** O my people, remember now what Balak king of Moab devised, and what Balaam the son of Beor answered him; \`remember' from Shittim unto Gilgal, that ye may know the righteous acts of Jehovah.
 
 **[6:6]** Wherewith shall I come before Jehovah, and bow myself before the high God? shall I come before him with burnt-offerings, with calves a year old?
 
-**[6:7]** will Jehovah be pleased with thousands of rams, `or' with ten thousands of rivers of oil? shall I give my first-born for my transgression, the fruit of my body for the sin of my soul?
+**[6:7]** will Jehovah be pleased with thousands of rams, \`or' with ten thousands of rivers of oil? shall I give my first-born for my transgression, the fruit of my body for the sin of my soul?
 
 **[6:8]** He hath showed thee, O man, what is good; and what doth Jehovah require of thee, but to do justly, and to love kindness, and to walk humbly with thy God?
 
-**[6:9]** The voice of Jehovah crieth unto the city, and `the man of' wisdom will see thy name: hear ye the rod, and who hath appointed it.
+**[6:9]** The voice of Jehovah crieth unto the city, and \`the man of' wisdom will see thy name: hear ye the rod, and who hath appointed it.
 
 **[6:10]** Are there yet treasures of wickedness in the house of the wicked, and a scant measure that is abominable?
 
@@ -174,9 +174,9 @@
 
 **[7:2]** The godly man is perished out of the earth, and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.
 
-**[7:3]** Their hands are upon that which is evil to do it diligently; the prince asketh, and the judge `is ready' for a reward; and the great man, he uttereth the evil desire of his soul: thus they weave it together.
+**[7:3]** Their hands are upon that which is evil to do it diligently; the prince asketh, and the judge \`is ready' for a reward; and the great man, he uttereth the evil desire of his soul: thus they weave it together.
 
-**[7:4]** The best of them is as a brier; the most upright is `worse' than a thorn hedge: the day of thy watchmen, even thy visitation, is come; now shall be their perplexity.
+**[7:4]** The best of them is as a brier; the most upright is \`worse' than a thorn hedge: the day of thy watchmen, even thy visitation, is come; now shall be their perplexity.
 
 **[7:5]** Trust ye not in a neighbor; put ye not confidence in a friend; keep the doors of thy mouth from her that lieth in thy bosom.
 
@@ -186,13 +186,13 @@
 
 **[7:8]** Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, Jehovah will be a light unto me.
 
-**[7:9]** I will bear the indignation of Jehovah, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, `and' I shall behold his righteousness.
+**[7:9]** I will bear the indignation of Jehovah, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, \`and' I shall behold his righteousness.
 
-**[7:10]** Then mine enemy shall see it, and shame shall cover her who said unto me, Where is Jehovah thy God? Mine eyes shall see `my desire' upon her; now shall she be trodden down as the mire of the streets.
+**[7:10]** Then mine enemy shall see it, and shame shall cover her who said unto me, Where is Jehovah thy God? Mine eyes shall see \`my desire' upon her; now shall she be trodden down as the mire of the streets.
 
 **[7:11]** A day for building thy walls! in that day shall the decree be far removed.
 
-**[7:12]** In that day shall they come unto thee from Assyria and the cities of Egypt, and from Egypt even to the River, and from sea to sea, and `from' mountain to mountain.
+**[7:12]** In that day shall they come unto thee from Assyria and the cities of Egypt, and from Egypt even to the River, and from sea to sea, and \`from' mountain to mountain.
 
 **[7:13]** Yet shall the land be desolate because of them that dwell therein, for the fruit of their doings.
 
@@ -208,4 +208,4 @@
 
 **[7:19]** He will again have compassion upon us; he will tread our iniquities under foot; and thou wilt cast all their sins into the depths of the sea.
 
-**[7:20]** Thou wilt perform the truth to Jacob, `and' the lovingkindness to Abraham, which thou hast sworn unto our fathers from the days of old.
+**[7:20]** Thou wilt perform the truth to Jacob, \`and' the lovingkindness to Abraham, which thou hast sworn unto our fathers from the days of old.

@@ -8,7 +8,7 @@
 
 **[1:4]** so that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and in the afflictions which ye endure;
 
-**[1:5]** `which is' a manifest token of the righteous judgment of God; to the end that ye may be counted worthy of the kingdom of God, for which ye also suffer:
+**[1:5]** \`which is' a manifest token of the righteous judgment of God; to the end that ye may be counted worthy of the kingdom of God, for which ye also suffer:
 
 **[1:6]** if so be that it is righteous thing with God to recompense affliction to them that afflict you,
 
@@ -16,11 +16,11 @@
 
 **[1:8]** rendering vengeance to them that know not God, and to them that obey not the gospel of our Lord Jesus:
 
-**[1:9]** who shall suffer punishment, `even' eternal destruction from the face of the Lord and from the glory of his might,
+**[1:9]** who shall suffer punishment, \`even' eternal destruction from the face of the Lord and from the glory of his might,
 
 **[1:10]** when he shall come to be glorified in his saints, and to be marvelled at in all them that believed (because our testimony unto you was believed) in that day.
 
-**[1:11]** To which end we also pray always for you, that our God may count you worthy of your calling, and fulfil every desire of goodness and `every' work of faith, with power;
+**[1:11]** To which end we also pray always for you, that our God may count you worthy of your calling, and fulfil every desire of goodness and \`every' work of faith, with power;
 
 **[1:12]** that the name of our Lord Jesus may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.
 
@@ -28,7 +28,7 @@
 
 **[2:2]** to the end that ye be not quickly shaken from your mind, nor yet be troubled, either by spirit, or by word, or by epistle as from us, as that the day of the Lord is just at hand;
 
-**[2:3]** let no man beguile you in any wise: for `it will not be,' except the falling away come first, and the man of sin be revealed, the son of perdition,
+**[2:3]** let no man beguile you in any wise: for \`it will not be,' except the falling away come first, and the man of sin be revealed, the son of perdition,
 
 **[2:4]** he that opposeth and exalteth himself against all that is called God or that is worshipped; so that he sitteth in the temple of God, setting himself forth as God.
 
@@ -36,11 +36,11 @@
 
 **[2:6]** And now ye know that which restraineth, to the end that he may be revealed in his own season.
 
-**[2:7]** For the mystery of lawlessness doth already work: only `there is' one that restraineth now, until he be taken out of the way.
+**[2:7]** For the mystery of lawlessness doth already work: only \`there is' one that restraineth now, until he be taken out of the way.
 
 **[2:8]** And then shall be revealed the lawless one, whom the Lord Jesus shall slay with the breath of his mouth, and bring to nought by the manifestation of his coming;
 
-**[2:9]** `even he', whose coming is according to the working of Satan with all power and signs and lying wonders,
+**[2:9]** \`even he', whose coming is according to the working of Satan with all power and signs and lying wonders,
 
 **[2:10]** and with all deceit of unrighteousness for them that perish; because they received not the love of the truth, that they might be saved.
 
@@ -58,11 +58,11 @@
 
 **[2:17]** comfort your hearts and establish them in every good work and word.
 
-**[3:1]** Finally, brethren, pray for us, that the word of the Lord may run and be glorified, even as also `it is' with you;
+**[3:1]** Finally, brethren, pray for us, that the word of the Lord may run and be glorified, even as also \`it is' with you;
 
 **[3:2]** and that we may be delivered from unreasonable and evil men; for all have not faith.
 
-**[3:3]** But the Lord is faithful, who shall establish you, and guard you from the evil `one'.
+**[3:3]** But the Lord is faithful, who shall establish you, and guard you from the evil \`one'.
 
 **[3:4]** And we have confidence in the Lord touching you, that ye both do and will do the things which we command.
 
@@ -86,7 +86,7 @@
 
 **[3:14]** And if any man obeyeth not our word by this epistle, note that man, that ye have no company with him, to the end that he may be ashamed.
 
-**[3:15]** And `yet' count him not as an enemy, but admonish him as a brother.
+**[3:15]** And \`yet' count him not as an enemy, but admonish him as a brother.
 
 **[3:16]** Now the Lord of peace himself give you peace at all times in all ways. The Lord be with you all.
 

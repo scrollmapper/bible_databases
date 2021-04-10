@@ -6,7 +6,7 @@
 
 **[1:3]** Beloved, while I was giving all diligence to write unto you of our common salvation, I was constrained to write unto you exhorting you to contend earnestly for the faith which was once for all delivered unto the saints.
 
-**[1:4]** For there are certain men crept in privily, `even' they who were of old written of beforehand unto this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying our only Master and Lord, Jesus Christ.
+**[1:4]** For there are certain men crept in privily, \`even' they who were of old written of beforehand unto this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying our only Master and Lord, Jesus Christ.
 
 **[1:5]** Now I desire to put you in remembrance, though ye know all things once for all, that the Lord, having saved a people out of the land of Egypt, afterward destroyed them that believed not.
 
@@ -30,7 +30,7 @@
 
 **[1:15]** to execute judgment upon all, and to convict all the ungodly of all their works of ungodliness which they have ungodly wrought, and of all the hard things which ungodly sinners have spoken against him.
 
-**[1:16]** These are murmurers, complainers, walking after their lusts (and their mouth speaketh great swelling `words'), showing respect of persons for the sake of advantage.
+**[1:16]** These are murmurers, complainers, walking after their lusts (and their mouth speaketh great swelling \`words'), showing respect of persons for the sake of advantage.
 
 **[1:17]** But ye, beloved, remember ye the words which have been spoken before by the apostles of our Lord Jesus Christ;
 
@@ -48,4 +48,4 @@
 
 **[1:24]** Now unto him that is able to guard you from stumbling, and to set you before the presence of his glory without blemish in exceeding joy,
 
-**[1:25]** to the only God our Saviour, through Jesus Christ our Lord, `be' glory, majesty, dominion and power, before all time, and now, and for evermore. Amen.
+**[1:25]** to the only God our Saviour, through Jesus Christ our Lord, \`be' glory, majesty, dominion and power, before all time, and now, and for evermore. Amen.

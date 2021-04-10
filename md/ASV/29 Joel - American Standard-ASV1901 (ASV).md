@@ -4,7 +4,7 @@
 
 **[1:2]** Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or in the days of your fathers?
 
-**[1:3]** Tell ye your children of it, and `let' your children `tell' their children, and their children another generation.
+**[1:3]** Tell ye your children of it, and \`let' your children \`tell' their children, and their children another generation.
 
 **[1:4]** That which the palmer-worm hath left hath the locust eaten; and that which the locust hath left hath the canker-worm eaten; and that which the canker-worm hath left hath the caterpillar eaten.
 
@@ -24,13 +24,13 @@
 
 **[1:12]** The vine is withered, and the fig-tree languisheth; the pomegranate-tree, the palm-tree also, and the apple-tree, even all the trees of the field are withered: for joy is withered away from the sons of men.
 
-**[1:13]** Gird yourselves `with sackcloth', and lament, ye priests; wail, ye ministers of the altar; come, lie all night in sackcloth, ye ministers of my God: for the meal-offering and the drink-offering are withholden from the house of your God.
+**[1:13]** Gird yourselves \`with sackcloth', and lament, ye priests; wail, ye ministers of the altar; come, lie all night in sackcloth, ye ministers of my God: for the meal-offering and the drink-offering are withholden from the house of your God.
 
-**[1:14]** Sanctify a fast, call a solemn assembly, gather the old men `and' all the inhabitants of the land unto the house of Jehovah your God, and cry unto Jehovah.
+**[1:14]** Sanctify a fast, call a solemn assembly, gather the old men \`and' all the inhabitants of the land unto the house of Jehovah your God, and cry unto Jehovah.
 
 **[1:15]** Alas for the day! for the day of Jehovah is at hand, and as destruction from the Almighty shall it come.
 
-**[1:16]** Is not the food cut off before our eyes, `yea', joy and gladness from the house of our God?
+**[1:16]** Is not the food cut off before our eyes, \`yea', joy and gladness from the house of our God?
 
 **[1:17]** The seeds rot under their clods; the garners are laid desolate, the barns are broken down; for the grain is withered.
 
@@ -54,7 +54,7 @@
 
 **[2:7]** They run like mighty men; they climb the wall like men of war; and they march every one on his ways, and they break not their ranks.
 
-**[2:8]** Neither doth one thrust another; they march every one in his path; and they burst through the weapons, and break not off `their course'.
+**[2:8]** Neither doth one thrust another; they march every one in his path; and they burst through the weapons, and break not off \`their course'.
 
 **[2:9]** They leap upon the city; they run upon the wall; they climb up into the houses; they enter in at the windows like a thief.
 
@@ -78,13 +78,13 @@
 
 **[2:19]** And Jehovah answered and said unto his people, Behold, I will send you grain, and new wine, and oil, and ye shall be satisfied therewith; and I will no more make you a reproach among the nations;
 
-**[2:20]** but I will remove far off from you the northern `army', and will drive it into a land barren and desolate, its forepart into the eastern sea, and its hinder part into the western sea; and its stench shall come up, and its ill savor shall come up, because it hath done great things.
+**[2:20]** but I will remove far off from you the northern \`army', and will drive it into a land barren and desolate, its forepart into the eastern sea, and its hinder part into the western sea; and its stench shall come up, and its ill savor shall come up, because it hath done great things.
 
 **[2:21]** Fear not, O land, be glad and rejoice; for Jehovah hath done great things.
 
 **[2:22]** Be not afraid, ye beasts of the field; for the pastures of the wilderness do spring, for the tree beareth its fruit, the fig-tree and the vine do yield their strength.
 
-**[2:23]** Be glad then, ye children of Zion, and rejoice in Jehovah your God; for he giveth you the former rain in just measure, and he causeth to come down for you the rain, the former rain and the latter rain, in the first `month'.
+**[2:23]** Be glad then, ye children of Zion, and rejoice in Jehovah your God; for he giveth you the former rain in just measure, and he causeth to come down for you the rain, the former rain and the latter rain, in the first \`month'.
 
 **[2:24]** And the floors shall be full of wheat, and the vats shall overflow with new wine and oil.
 

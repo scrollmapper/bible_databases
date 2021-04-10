@@ -8,7 +8,7 @@
 
 **[1:4]** who did give himself for our sins, that he might deliver us out of the present evil age, according to the will of God even our Father,
 
-**[1:5]** to whom `is' the glory to the ages of the ages. Amen.
+**[1:5]** to whom \`is' the glory to the ages of the ages. Amen.
 
 **[1:6]** I wonder that ye are so quickly removed from Him who did call you in the grace of Christ to another good news;
 
@@ -22,13 +22,13 @@
 
 **[1:11]** And I make known to you, brethren, the good news that were proclaimed by me, that it is not according to man,
 
-**[1:12]** for neither did I from man receive it, nor was I taught `it', but through a revelation of Jesus Christ,
+**[1:12]** for neither did I from man receive it, nor was I taught \`it', but through a revelation of Jesus Christ,
 
 **[1:13]** for ye did hear of my behaviour once in Judaism, that exceedingly I was persecuting the assembly of God, and wasting it,
 
 **[1:14]** and I was advancing in Judaism above many equals in age in mine own race, being more abundantly zealous of my fathers' deliverances,
 
-**[1:15]** and when God was well pleased -- having separated me from the womb of my mother, and having called `me' through His grace --
+**[1:15]** and when God was well pleased -- having separated me from the womb of my mother, and having called \`me' through His grace --
 
 **[1:16]** to reveal His Son in me, that I might proclaim him good news among the nations, immediately I conferred not with flesh and blood,
 
@@ -42,9 +42,9 @@
 
 **[1:21]** then I came to the regions of Syria and of Cilicia,
 
-**[1:22]** and was unknown by face to the assemblies of Judea, that `are' in Christ,
+**[1:22]** and was unknown by face to the assemblies of Judea, that \`are' in Christ,
 
-**[1:23]** and only they were hearing, that `he who is persecuting us then, doth now proclaim good news -- the faith that then he was wasting;'
+**[1:23]** and only they were hearing, that \`he who is persecuting us then, doth now proclaim good news -- the faith that then he was wasting;'
 
 **[1:24]** and they were glorifying God in me.
 
@@ -52,19 +52,19 @@
 
 **[2:2]** and I went up by revelation, and did submit to them the good news that I preach among the nations, and privately to those esteemed, lest in vain I might run or did run;
 
-**[2:3]** but not even Titus, who `is' with me, being a Greek, was compelled to be circumcised --
+**[2:3]** but not even Titus, who \`is' with me, being a Greek, was compelled to be circumcised --
 
-**[2:4]** and `that' because of the false brethren brought in unawares, who did come in privily to spy out our liberty that we have in Christ Jesus, that us they might bring under bondage,
+**[2:4]** and \`that' because of the false brethren brought in unawares, who did come in privily to spy out our liberty that we have in Christ Jesus, that us they might bring under bondage,
 
 **[2:5]** to whom not even for an hour we gave place by subjection, that the truth of the good news might remain to you.
 
 **[2:6]** And from those who were esteemed to be something -- whatever they were then, it maketh no difference to me -- the face of man God accepteth not, for -- to me those esteemed did add nothing,
 
-**[2:7]** but, on the contrary, having seen that I have been entrusted with the good news of the uncircumcision, as Peter with `that' of the circumcision,
+**[2:7]** but, on the contrary, having seen that I have been entrusted with the good news of the uncircumcision, as Peter with \`that' of the circumcision,
 
 **[2:8]** for He who did work with Peter to the apostleship of the circumcision, did work also in me in regard to the nations,
 
-**[2:9]** and having known the grace that was given to me, James, and Cephas, and John, who were esteemed to be pillars, a right hand of fellowship they did give to me, and to Barnabas, that we to the nations, and they to the circumcision `may go',
+**[2:9]** and having known the grace that was given to me, James, and Cephas, and John, who were esteemed to be pillars, a right hand of fellowship they did give to me, and to Barnabas, that we to the nations, and they to the circumcision \`may go',
 
 **[2:10]** only, of the poor that we should be mindful, which also I was diligent -- this very thing -- to do.
 
@@ -74,13 +74,13 @@
 
 **[2:13]** and dissemble with him also did the other Jews, so that also Barnabas was carried away by their dissimulation.
 
-**[2:14]** But when I saw that they are not walking uprightly to the truth of the good news, I said to Peter before all, `If thou, being a Jew, in the manner of the nations dost live, and not in the manner of the Jews, how the nations dost thou compel to Judaize?
+**[2:14]** But when I saw that they are not walking uprightly to the truth of the good news, I said to Peter before all, \`If thou, being a Jew, in the manner of the nations dost live, and not in the manner of the Jews, how the nations dost thou compel to Judaize?
 
 **[2:15]** we by nature Jews, and not sinners of the nations,
 
 **[2:16]** having known also that a man is not declared righteous by works of law, if not through the faith of Jesus Christ, also we in Christ Jesus did believe, that we might be declared righteous by the faith of Christ, and not by works of law, wherefore declared righteous by works of law shall be no flesh.'
 
-**[2:17]** And if, seeking to be declared righteous in Christ, we ourselves also were found sinners, `is' then Christ a ministrant of sin? let it not be!
+**[2:17]** And if, seeking to be declared righteous in Christ, we ourselves also were found sinners, \`is' then Christ a ministrant of sin? let it not be!
 
 **[2:18]** for if the things I threw down, these again I build up, a transgressor I set myself forth;
 
@@ -88,7 +88,7 @@
 
 **[2:20]** with Christ I have been crucified, and live no more do I, and Christ doth live in me; and that which I now live in the flesh -- in the faith I live of the Son of God, who did love me and did give himself for me;
 
-**[2:21]** I do not make void the grace of God, for if righteousness `be' through law -- then Christ died in vain.
+**[2:21]** I do not make void the grace of God, for if righteousness \`be' through law -- then Christ died in vain.
 
 **[3:1]** O thoughtless Galatians, who did bewitch you, not to obey the truth -- before whose eyes Jesus Christ was described before among you crucified?
 
@@ -98,7 +98,7 @@
 
 **[3:4]** so many things did ye suffer in vain! if, indeed, even in vain.
 
-**[3:5]** He, therefore, who is supplying to you the Spirit, and working mighty acts among you -- by works of law or by the hearing of faith `is it'?
+**[3:5]** He, therefore, who is supplying to you the Spirit, and working mighty acts among you -- by works of law or by the hearing of faith \`is it'?
 
 **[3:6]** according as Abraham did believe God, and it was reckoned to him -- to righteousness;
 
@@ -106,31 +106,31 @@
 
 **[3:8]** and the Writing having foreseen that by faith God doth declare righteous the nations did proclaim before the good news to Abraham --
 
-**[3:9]** `Blessed in thee shall be all the nations;' so that those of faith are blessed with the faithful Abraham,
+**[3:9]** \`Blessed in thee shall be all the nations;' so that those of faith are blessed with the faithful Abraham,
 
-**[3:10]** for as many as are of works of law are under a curse, for it hath been written, `Cursed `is' every one who is not remaining in all things that have been written in the Book of the Law -- to do them,'
+**[3:10]** for as many as are of works of law are under a curse, for it hath been written, \`Cursed \`is' every one who is not remaining in all things that have been written in the Book of the Law -- to do them,'
 
-**[3:11]** and that in law no one is declared righteous with God, is evident, because `The righteous by faith shall live;'
+**[3:11]** and that in law no one is declared righteous with God, is evident, because \`The righteous by faith shall live;'
 
-**[3:12]** and the law is not by faith, but -- `The man who did them shall live in them.'
+**[3:12]** and the law is not by faith, but -- \`The man who did them shall live in them.'
 
-**[3:13]** Christ did redeem us from the curse of the law, having become for us a curse, for it hath been written, `Cursed is every one who is hanging on a tree,'
+**[3:13]** Christ did redeem us from the curse of the law, having become for us a curse, for it hath been written, \`Cursed is every one who is hanging on a tree,'
 
 **[3:14]** that to the nations the blessing of Abraham may come in Christ Jesus, that the promise of the Spirit we may receive through the faith.
 
-**[3:15]** Brethren, as a man I say `it', even of man a confirmed covenant no one doth make void or doth add to,
+**[3:15]** Brethren, as a man I say \`it', even of man a confirmed covenant no one doth make void or doth add to,
 
-**[3:16]** and to Abraham were the promises spoken, and to his seed; He doth not say, `And to seeds,' as of many, but as of one, `And to thy seed,' which is Christ;
+**[3:16]** and to Abraham were the promises spoken, and to his seed; He doth not say, \`And to seeds,' as of many, but as of one, \`And to thy seed,' which is Christ;
 
 **[3:17]** and this I say, A covenant confirmed before by God to Christ, the law, that came four hundred and thirty years after, doth not set aside, to make void the promise,
 
-**[3:18]** for if by law `be' the inheritance, `it is' no more by promise, but to Abraham through promise did God grant `it'.
+**[3:18]** for if by law \`be' the inheritance, \`it is' no more by promise, but to Abraham through promise did God grant \`it'.
 
 **[3:19]** Why, then, the law? on account of the transgressions it was added, till the seed might come to which the promise hath been made, having been set in order through messengers in the hand of a mediator --
 
 **[3:20]** and the mediator is not of one, and God is one --
 
-**[3:21]** the law, then, `is' against the promises of God? -- let it not be! for if a law was given that was able to make alive, truly by law there would have been the righteousness,
+**[3:21]** the law, then, \`is' against the promises of God? -- let it not be! for if a law was given that was able to make alive, truly by law there would have been the righteousness,
 
 **[3:22]** but the Writing did shut up the whole under sin, that the promise by faith of Jesus Christ may be given to those believing.
 
@@ -146,7 +146,7 @@
 
 **[3:28]** there is not here Jew or Greek, there is not here servant nor freeman, there is not here male and female, for all ye are one in Christ Jesus;
 
-**[3:29]** and if ye `are' of Christ then of Abraham ye are seed, and according to promise -- heirs.
+**[3:29]** and if ye \`are' of Christ then of Abraham ye are seed, and according to promise -- heirs.
 
 **[4:1]** And I say, so long time as the heir is a babe, he differeth nothing from a servant -- being lord of all,
 
@@ -158,7 +158,7 @@
 
 **[4:5]** that those under law he may redeem, that the adoption of sons we may receive;
 
-**[4:6]** and because ye are sons, God did send forth the spirit of His Son into your hearts, crying, `Abba, Father!'
+**[4:6]** and because ye are sons, God did send forth the spirit of His Son into your hearts, crying, \`Abba, Father!'
 
 **[4:7]** so that thou art no more a servant, but a son, and if a son, also an heir of God through Christ.
 
@@ -170,19 +170,19 @@
 
 **[4:11]** I am afraid of you, lest in vain I did labour toward you.
 
-**[4:12]** Become as I `am' -- because I also `am' as ye brethren, I beseech you; to me ye did no hurt,
+**[4:12]** Become as I \`am' -- because I also \`am' as ye brethren, I beseech you; to me ye did no hurt,
 
 **[4:13]** and ye have known that through infirmity of the flesh I did proclaim good news to you at the first,
 
-**[4:14]** and my trial that `is' in my flesh ye did not despise nor reject, but as a messenger of God ye did receive me -- as Christ Jesus;
+**[4:14]** and my trial that \`is' in my flesh ye did not despise nor reject, but as a messenger of God ye did receive me -- as Christ Jesus;
 
 **[4:15]** what then was your happiness? for I testify to you, that if possible, your eyes having plucked out, ye would have given to me;
 
 **[4:16]** so that your enemy have I become, being true to you?
 
-**[4:17]** they are zealous for you -- `yet' not well, but they wish to shut us out, that for them ye may be zealous;
+**[4:17]** they are zealous for you -- \`yet' not well, but they wish to shut us out, that for them ye may be zealous;
 
-**[4:18]** and `it is' good to be zealously regarded, in what is good, at all times, and not only in my being present with you;
+**[4:18]** and \`it is' good to be zealously regarded, in what is good, at all times, and not only in my being present with you;
 
 **[4:19]** my little children, of whom again I travail in birth, till Christ may be formed in you,
 
@@ -192,21 +192,21 @@
 
 **[4:22]** for it hath been written, that Abraham had two sons, one by the maid-servant, and one by the free-woman,
 
-**[4:23]** but he who `is' of the maid-servant, according to flesh hath been, and he who `is' of the free-woman, through the promise;
+**[4:23]** but he who \`is' of the maid-servant, according to flesh hath been, and he who \`is' of the free-woman, through the promise;
 
 **[4:24]** which things are allegorized, for these are the two covenants: one, indeed, from mount Sinai, to servitude bringing forth, which is Hagar;
 
-**[4:25]** for this Hagar is mount Sinai in Arabia, and doth correspond to the Jerusalem that now `is', and is in servitude with her children,
+**[4:25]** for this Hagar is mount Sinai in Arabia, and doth correspond to the Jerusalem that now \`is', and is in servitude with her children,
 
 **[4:26]** and the Jerusalem above is the free-woman, which is mother of us all,
 
-**[4:27]** for it hath been written, `Rejoice, O barren, who art not bearing; break forth and cry, thou who art not travailing, because many `are' the children of the desolate -- more than of her having the husband.'
+**[4:27]** for it hath been written, \`Rejoice, O barren, who art not bearing; break forth and cry, thou who art not travailing, because many \`are' the children of the desolate -- more than of her having the husband.'
 
 **[4:28]** And we, brethren, as Isaac, are children of promise,
 
 **[4:29]** but as then he who was born according to the flesh did persecute him according to the spirit, so also now;
 
-**[4:30]** but what saith the Writing? `Cast forth the maid-servant and her son, for the son of the maid-servant may not be heir with the son of the free-woman;'
+**[4:30]** but what saith the Writing? \`Cast forth the maid-servant and her son, for the son of the maid-servant may not be heir with the son of the free-woman;'
 
 **[4:31]** then, brethren, we are not a maid-servant's children, but the free-woman's.
 
@@ -224,7 +224,7 @@
 
 **[5:7]** Ye were running well; who did hinder you -- not to obey the truth?
 
-**[5:8]** the obedience `is' not of him who is calling you!
+**[5:8]** the obedience \`is' not of him who is calling you!
 
 **[5:9]** a little leaven the whole lump doth leaven;
 
@@ -236,7 +236,7 @@
 
 **[5:13]** For ye -- to freedom ye were called, brethren, only not the freedom for an occasion to the flesh, but through the love serve ye one another,
 
-**[5:14]** for all the law in one word is fulfilled -- in this: `Thou shalt love thy neighbor as thyself;'
+**[5:14]** for all the law in one word is fulfilled -- in this: \`Thou shalt love thy neighbor as thyself;'
 
 **[5:15]** and if one another ye do bite and devour, see -- that ye may not by one another be consumed.
 
@@ -262,11 +262,11 @@
 
 **[5:26]** let us not become vain-glorious -- one another provoking, one another envying!
 
-**[6:1]** Brethren, if a man also may be overtaken in any trespass, ye who `are' spiritual restore such a one in a spirit of meekness, considering thyself -- lest thou also may be tempted;
+**[6:1]** Brethren, if a man also may be overtaken in any trespass, ye who \`are' spiritual restore such a one in a spirit of meekness, considering thyself -- lest thou also may be tempted;
 
 **[6:2]** of one another the burdens bear ye, and so fill up the law of the Christ,
 
-**[6:3]** for if any one doth think `himself' to be something -- being nothing -- himself he doth deceive;
+**[6:3]** for if any one doth think \`himself' to be something -- being nothing -- himself he doth deceive;
 
 **[6:4]** and his own work let each one prove, and then in regard to himself alone the glorying he shall have, and not in regard to the other,
 
@@ -296,4 +296,4 @@
 
 **[6:17]** Henceforth, let no one give me trouble, for I the scars of the Lord Jesus in my body do bear.
 
-**[6:18]** The grace of our Lord Jesus Christ `is' with your spirit, brethren! Amen.
+**[6:18]** The grace of our Lord Jesus Christ \`is' with your spirit, brethren! Amen.

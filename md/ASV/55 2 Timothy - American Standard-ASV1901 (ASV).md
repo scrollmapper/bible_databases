@@ -26,7 +26,7 @@
 
 **[1:13]** Hold the pattern of sound words which thou hast heard from me, in faith and love which is in Christ Jesus.
 
-**[1:14]** That good thing which was committed unto `thee' guard through the Holy Spirit which dwelleth in us.
+**[1:14]** That good thing which was committed unto \`thee' guard through the Holy Spirit which dwelleth in us.
 
 **[1:15]** This thou knowest, that all that are in Asia turned away from me; of whom are Phygelus and Hermogenes.
 
@@ -40,9 +40,9 @@
 
 **[2:2]** And the things which thou hast heard from me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.
 
-**[2:3]** Suffer hardship with `me', as a good soldier of Christ Jesus.
+**[2:3]** Suffer hardship with \`me', as a good soldier of Christ Jesus.
 
-**[2:4]** No soldier on service entangleth himself in the affairs of `this' life; that he may please him who enrolled him as a soldier.
+**[2:4]** No soldier on service entangleth himself in the affairs of \`this' life; that he may please him who enrolled him as a soldier.
 
 **[2:5]** And if also a man contend in the games, he is not crowded, except he have contended lawfully.
 
@@ -62,7 +62,7 @@
 
 **[2:13]** if we are faithless, he abideth faithful; for he cannot deny himself.
 
-**[2:14]** Of these things put them in remembrance, charging `them' in the sight of the Lord, that they strive not about words, to no profit, to the subverting of them that hear.
+**[2:14]** Of these things put them in remembrance, charging \`them' in the sight of the Lord, that they strive not about words, to no profit, to the subverting of them that hear.
 
 **[2:15]** Give diligence to present thyself approved unto God, a workman that needeth not to be ashamed, handling aright the word of truth.
 
@@ -118,11 +118,11 @@
 
 **[3:15]** And that from a babe thou hast known the sacred writings which are able to make thee wise unto salvation through faith which is in Christ Jesus.
 
-**[3:16]** Every scripture inspired of God `is' also profitable for teaching, for reproof, for correction, for instruction which is in righteousness.
+**[3:16]** Every scripture inspired of God \`is' also profitable for teaching, for reproof, for correction, for instruction which is in righteousness.
 
 **[3:17]** That the man of God may be complete, furnished completely unto every good work.
 
-**[4:1]** I charge `thee' in the sight of God, and of Christ Jesus, who shall judge the living and the dead, and by his appearing and his kingdom:
+**[4:1]** I charge \`thee' in the sight of God, and of Christ Jesus, who shall judge the living and the dead, and by his appearing and his kingdom:
 
 **[4:2]** preach the word; be urgent in season, out of season; reprove, rebuke, exhort, with all longsuffering and teaching.
 
@@ -156,7 +156,7 @@
 
 **[4:17]** But the Lord stood by me, and strengthened me; that through me the message might me fully proclaimed, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
 
-**[4:18]** The Lord will deliver me from every evil work, and will save me unto his heavenly kingdom: to whom `be' the glory forever and ever. Amen.
+**[4:18]** The Lord will deliver me from every evil work, and will save me unto his heavenly kingdom: to whom \`be' the glory forever and ever. Amen.
 
 **[4:19]** Salute Prisca and Aquila, and the house of Onesiphorus.
 

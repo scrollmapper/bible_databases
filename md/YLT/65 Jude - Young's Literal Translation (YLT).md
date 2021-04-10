@@ -16,7 +16,7 @@
 
 **[1:8]** In like manner, nevertheless, those dreaming also the flesh indeed do defile, and lordship they put away, and dignities they speak evil of,
 
-**[1:9]** yet Michael, the chief messenger, when, with the devil contending, he was disputing about the body of Moses, did not dare to bring up an evil-speaking judgment, but said, `The Lord rebuke thee!'
+**[1:9]** yet Michael, the chief messenger, when, with the devil contending, he was disputing about the body of Moses, did not dare to bring up an evil-speaking judgment, but said, \`The Lord rebuke thee!'
 
 **[1:10]** and these, as many things indeed as they have not known, they speak evil of; and as many things as naturally (as the irrational beasts) they understand, in these they are corrupted;
 
@@ -26,7 +26,7 @@
 
 **[1:13]** wild waves of a sea, foaming out their own shames; stars going astray, to whom the gloom of the darkness to the age hath been kept.
 
-**[1:14]** And prophesy also to these did the seventh from Adam -- Enoch -- saying, `Lo, the Lord did come in His saintly myriads,
+**[1:14]** And prophesy also to these did the seventh from Adam -- Enoch -- saying, \`Lo, the Lord did come in His saintly myriads,
 
 **[1:15]** to do judgment against all, and to convict all their impious ones, concerning all their works of impiety that they did impiously, and concerning all the stiff things that speak against Him did impious sinners.'
 
@@ -46,6 +46,6 @@
 
 **[1:23]** and some in fear save ye, out of the fire snatching, hating even the coat from the flesh spotted.
 
-**[1:24]** And to Him who is able to guard you not stumbling, and to set `you' in the presence of His glory unblemished, in gladness,
+**[1:24]** And to Him who is able to guard you not stumbling, and to set \`you' in the presence of His glory unblemished, in gladness,
 
-**[1:25]** to the only wise God our Saviour, `is' glory and greatness, power and authority, both now and to all the ages! Amen.
+**[1:25]** to the only wise God our Saviour, \`is' glory and greatness, power and authority, both now and to all the ages! Amen.

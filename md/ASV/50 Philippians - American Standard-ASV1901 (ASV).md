@@ -22,7 +22,7 @@
 
 **[1:11]** being filled with the fruits of righteousness, which are through Jesus Christ, unto the glory and praise of God.
 
-**[1:12]** Now I would have you know, brethren, that the things `which happened' unto me have fallen out rather unto the progress of the gospel;
+**[1:12]** Now I would have you know, brethren, that the things \`which happened' unto me have fallen out rather unto the progress of the gospel;
 
 **[1:13]** so that my bonds became manifest in Christ throughout the whole praetorian guard, and to all the rest;
 
@@ -30,7 +30,7 @@
 
 **[1:15]** Some indeed preach Christ even of envy and strife; and some also of good will:
 
-**[1:16]** the one `do it' of love, knowing that I am set for the defence of the gospel;
+**[1:16]** the one \`do it' of love, knowing that I am set for the defence of the gospel;
 
 **[1:17]** but the other proclaim Christ of faction, not sincerely, thinking to raise up affliction for me in my bonds.
 
@@ -38,11 +38,11 @@
 
 **[1:19]** For I know that this shall turn out to my salvation, through your supplication and the supply of the Spirit of Jesus Christ,
 
-**[1:20]** according to my earnest expectation and hope, that in nothing shall I be put to shame, but `that' with all boldness, as always, `so' now also Christ shall be magnified in my body, whether by life, or by death.
+**[1:20]** according to my earnest expectation and hope, that in nothing shall I be put to shame, but \`that' with all boldness, as always, \`so' now also Christ shall be magnified in my body, whether by life, or by death.
 
 **[1:21]** For to me to live is Christ, and to die is gain.
 
-**[1:22]** But if to live in the flesh, --`if' this shall bring fruit from my work, then what I shall choose I know not.
+**[1:22]** But if to live in the flesh, --\`if' this shall bring fruit from my work, then what I shall choose I know not.
 
 **[1:23]** But I am in a strait betwixt the two, having the desire to depart and be with Christ; for it is very far better:
 
@@ -64,7 +64,7 @@
 
 **[2:2]** make full my joy, that ye be of the same mind, having the same love, being of one accord, of one mind;
 
-**[2:3]** `doing' nothing through faction or through vainglory, but in lowliness of mind each counting other better than himself;
+**[2:3]** \`doing' nothing through faction or through vainglory, but in lowliness of mind each counting other better than himself;
 
 **[2:4]** not looking each of you to his own things, but each of you also to the things of others.
 
@@ -74,11 +74,11 @@
 
 **[2:7]** but emptied himself, taking the form of a servant, being made in the likeness of men;
 
-**[2:8]** and being found in fashion as a man, he humbled himself, becoming obedient `even' unto death, yea, the death of the cross.
+**[2:8]** and being found in fashion as a man, he humbled himself, becoming obedient \`even' unto death, yea, the death of the cross.
 
 **[2:9]** Wherefore also God highly exalted him, and gave unto him the name which is above every name;
 
-**[2:10]** that in the name of Jesus every knee should bow, of `things' in heaven and `things' on earth and `things' under the earth,
+**[2:10]** that in the name of Jesus every knee should bow, of \`things' in heaven and \`things' on earth and \`things' under the earth,
 
 **[2:11]** and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
 
@@ -102,7 +102,7 @@
 
 **[2:21]** For they all seek their own, not the things of Jesus Christ.
 
-**[2:22]** But ye know the proof of him, that, as a child `serveth' a father, `so' he served with me in furtherance of the gospel.
+**[2:22]** But ye know the proof of him, that, as a child \`serveth' a father, \`so' he served with me in furtherance of the gospel.
 
 **[2:23]** Him therefore I hope to send forthwith, so soon as I shall see how it will go with me:
 
@@ -136,7 +136,7 @@
 
 **[3:8]** Yea verily, and I count all things to be loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I suffered the loss of all things, and do count them but refuse, that I may gain Christ,
 
-**[3:9]** and be found in him, not having a righteousness of mine own, `even' that which is of the law, but that which is through faith in Christ, the righteousness which is from God by faith:
+**[3:9]** and be found in him, not having a righteousness of mine own, \`even' that which is of the law, but that which is through faith in Christ, the righteousness which is from God by faith:
 
 **[3:10]** that I may know him, and the power of his resurrection, and the fellowship of his sufferings, becoming conformed unto his death;
 
@@ -144,23 +144,23 @@
 
 **[3:12]** Not that I have already obtained, or am already made perfect: but I press on, if so be that I may lay hold on that for which also I was laid hold on by Christ Jesus.
 
-**[3:13]** Brethren, I could not myself yet to have laid hold: but one thing `I do', forgetting the things which are behind, and stretching forward to the things which are before,
+**[3:13]** Brethren, I could not myself yet to have laid hold: but one thing \`I do', forgetting the things which are behind, and stretching forward to the things which are before,
 
 **[3:14]** I press on toward the goal unto the prize of the high calling of God in Christ Jesus.
 
 **[3:15]** Let us therefore, as many as are perfect, be thus minded: and if in anything ye are otherwise minded, this also shall God reveal unto you:
 
-**[3:16]** only, whereunto we have attained, by that same `rule' let us walk.
+**[3:16]** only, whereunto we have attained, by that same \`rule' let us walk.
 
 **[3:17]** Brethren, be ye imitators together of me, and mark them that so walk even as ye have us for an ensample.
 
-**[3:18]** For many walk, of whom I told you often, and now tell you even weeping, `that they are' the enemies of the cross of Christ:
+**[3:18]** For many walk, of whom I told you often, and now tell you even weeping, \`that they are' the enemies of the cross of Christ:
 
-**[3:19]** whose end is perdition, whose god is the belly, and `whose' glory is in their shame, who mind earthly things.
+**[3:19]** whose end is perdition, whose god is the belly, and \`whose' glory is in their shame, who mind earthly things.
 
 **[3:20]** For our citizenship is in heaven; whence also we wait for a Saviour, the Lord Jesus Christ:
 
-**[3:21]** who shall fashion anew the body of our humiliation, `that it may be' conformed to the body of his glory, according to the working whereby he is able even to subject all things unto himself.
+**[3:21]** who shall fashion anew the body of our humiliation, \`that it may be' conformed to the body of his glory, according to the working whereby he is able even to subject all things unto himself.
 
 **[4:1]** Wherefore, my brethren beloved and longed for, my joy and crown, so stand fast in the Lord, my beloved.
 
@@ -196,11 +196,11 @@
 
 **[4:17]** Not that I seek for the gift; but I seek for the fruit that increaseth to your account.
 
-**[4:18]** But I have all things, and abound: I am filled, having received from Epaphroditus the things `that came' from you, and odor of a sweet smell, a sacrifice acceptable, well-pleasing to God.
+**[4:18]** But I have all things, and abound: I am filled, having received from Epaphroditus the things \`that came' from you, and odor of a sweet smell, a sacrifice acceptable, well-pleasing to God.
 
 **[4:19]** And my God shall supply every need of yours according to his riches in glory in Christ Jesus.
 
-**[4:20]** Now unto our God and Father `be' the glory for ever and ever. Amen.
+**[4:20]** Now unto our God and Father \`be' the glory for ever and ever. Amen.
 
 **[4:21]** Salute every saint in Christ Jesus. The brethren that are with me salute you.
 

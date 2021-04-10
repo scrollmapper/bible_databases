@@ -10,7 +10,7 @@
 
 **[1:5]** And when these days were fulfilled, the king made a feast unto all the people that were present in Shushan the palace, both great and small, seven days, in the court of the garden of the king's palace.
 
-**[1:6]** `There were hangings of' white `cloth', `of' green, and `of' blue, fastened with cords of fine linen and purple to silver rings and pillars of marble: the couches were of gold and silver, upon a pavement of red, and white, and yellow, and black marble.
+**[1:6]** \`There were hangings of' white \`cloth', \`of' green, and \`of' blue, fastened with cords of fine linen and purple to silver rings and pillars of marble: the couches were of gold and silver, upon a pavement of red, and white, and yellow, and black marble.
 
 **[1:7]** And they gave them drink in vessels of gold (the vessels being diverse one from another), and royal wine in abundance, according to the bounty of the king.
 
@@ -34,7 +34,7 @@
 
 **[1:17]** For this deed of the queen will come abroad unto all women, to make their husbands contemptible in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she came not.
 
-**[1:18]** And this day will the princesses of Persia and Media who have heard of the deed of the queen say `the like' unto all the king's princes. So `will there arise' much contempt and wrath.
+**[1:18]** And this day will the princesses of Persia and Media who have heard of the deed of the queen say \`the like' unto all the king's princes. So \`will there arise' much contempt and wrath.
 
 **[1:19]** If it please the king, let there go forth a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, that Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.
 
@@ -66,7 +66,7 @@
 
 **[2:11]** And Mordecai walked every day before the court of the women's house, to know how Esther did, and what would become of her.
 
-**[2:12]** Now when the turn of every maiden was come to go in to king Ahasuerus, after that it had been done to her according to the law for the women twelve months (for so were the days of their purifications accomplished, `to wit', six months with oil of myrrh, and six months with sweet odors and with the things for the purifying of the women),
+**[2:12]** Now when the turn of every maiden was come to go in to king Ahasuerus, after that it had been done to her according to the law for the women twelve months (for so were the days of their purifications accomplished, \`to wit', six months with oil of myrrh, and six months with sweet odors and with the things for the purifying of the women),
 
 **[2:13]** then in this wise came the maiden unto the king: whatsoever she desired was given her to go with her out of the house of the women unto the king's house.
 
@@ -86,7 +86,7 @@
 
 **[2:21]** In those days, while Mordecai was sitting in the king's gate, two of the king's chamberlains, Bigthan and Teresh, of those that kept the threshold, were wroth, and sought to lay hands on the king Ahasuerus.
 
-**[2:22]** And the thing became known to Mordecai, who showed it unto Esther the queen; and Esther told the king `thereof' in Mordecai's name.
+**[2:22]** And the thing became known to Mordecai, who showed it unto Esther the queen; and Esther told the king \`thereof' in Mordecai's name.
 
 **[2:23]** And when inquisition was made of the matter, and it was found to be so, they were both hanged on a tree: and it was written in the book of the chronicles before the king.
 
@@ -102,11 +102,11 @@
 
 **[3:6]** But he thought scorn to lay hands on Mordecai alone; for they had made known to him the people of Mordecai: wherefore Haman sought to destroy all the Jews that were throughout the whole kingdom of Ahasuerus, even the people of Mordecai.
 
-**[3:7]** In the first month, which is the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, `to' the twelfth `month', which is the month Adar.
+**[3:7]** In the first month, which is the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, \`to' the twelfth \`month', which is the month Adar.
 
-**[3:8]** And Haman said unto king Ahasuerus, There is a certain people scattered abroad and dispersed among the peoples in all the provinces of thy kingdom; and their laws are diverse from `those of' every people; neither keep they the king's laws: therefore it is not for the king's profit to suffer them.
+**[3:8]** And Haman said unto king Ahasuerus, There is a certain people scattered abroad and dispersed among the peoples in all the provinces of thy kingdom; and their laws are diverse from \`those of' every people; neither keep they the king's laws: therefore it is not for the king's profit to suffer them.
 
-**[3:9]** If it please the king, let it be written that they be destroyed: and I will pay ten thousand talents of silver into the hands of those that have the charge of the `king's' business, to bring it into the king's treasuries.
+**[3:9]** If it please the king, let it be written that they be destroyed: and I will pay ten thousand talents of silver into the hands of those that have the charge of the \`king's' business, to bring it into the king's treasuries.
 
 **[3:10]** And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews' enemy.
 
@@ -114,7 +114,7 @@
 
 **[3:12]** Then were the king's scribes called in the first month, on the thirteenth day thereof; and there was written according to all that Haman commanded unto the king's satraps, and to the governors that were over every province, and to the princes of every people, to every province according to the writing thereof, and to every people after their language; in the name of king Ahasuerus was it written, and it was sealed with the king's ring.
 
-**[3:13]** And letters were sent by posts into all the king's provinces, to destroy, to slay, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth `day' of the twelfth month, which is the month Adar, and to take the spoil of them for a prey.
+**[3:13]** And letters were sent by posts into all the king's provinces, to destroy, to slay, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth \`day' of the twelfth month, which is the month Adar, and to take the spoil of them for a prey.
 
 **[3:14]** A copy of the writing, that the decree should be given out in every province, was published unto all the peoples, that they should be ready against that day.
 
@@ -138,7 +138,7 @@
 
 **[4:9]** And Hathach came and told Esther the words of Mordecai.
 
-**[4:10]** Then Esther spake unto Hathach, and gave him a message unto Mordecai `saying':
+**[4:10]** Then Esther spake unto Hathach, and gave him a message unto Mordecai \`saying':
 
 **[4:11]** All the king's servants, and the people of the king's provinces, do know, that whosoever, whether man or woman, shall come unto the king into the inner court, who is not called, there is one law for him, that he be put to death, except those to whom the king shall hold out the golden sceptre, that he may live: but I have not been called to come in unto the king these thirty days.
 
@@ -222,7 +222,7 @@
 
 **[7:6]** And Esther said, An adversary and an enemy, even this wicked Haman. Then Haman was afraid before the king and the queen.
 
-**[7:7]** And the king arose in his wrath from the banquet of wine `and went' into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
+**[7:7]** And the king arose in his wrath from the banquet of wine \`and went' into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
 
 **[7:8]** Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the couch whereon Esther was. Then said the king, Will he even force the queen before me in the house? As the word went out of the king's mouth, they covered Haman's face.
 
@@ -246,13 +246,13 @@
 
 **[8:8]** Write ye also to the Jews, as it pleaseth you, in the king's name, and seal it with the king's ring; for the writing which is written in the king's name, and sealed with the king's ring, may no man reverse.
 
-**[8:9]** Then were the king's scribes called at that time, in the third month Sivan, on the three and twentieth `day' thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the satraps, and the governors and princes of the provinces which are from India unto Ethiopia, a hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.
+**[8:9]** Then were the king's scribes called at that time, in the third month Sivan, on the three and twentieth \`day' thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the satraps, and the governors and princes of the provinces which are from India unto Ethiopia, a hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.
 
 **[8:10]** And he wrote the name of king Ahasuerus, and sealed it with the king's ring, and sent letters by post on horseback, riding on swift steeds that were used in the king's service, bred of the stud:
 
-**[8:11]** wherein the king granted the Jews that were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, `their' little ones and women, and to take the spoil of them for a prey,
+**[8:11]** wherein the king granted the Jews that were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, \`their' little ones and women, and to take the spoil of them for a prey,
 
-**[8:12]** upon one day in all the provinces of king Ahasuerus, `namely', upon the thirteenth `day' of the twelfth month, which is the month Adar.
+**[8:12]** upon one day in all the provinces of king Ahasuerus, \`namely', upon the thirteenth \`day' of the twelfth month, which is the month Adar.
 
 **[8:13]** A copy of the writing, that the decree should be given out in every province, was published unto all the peoples, and that the Jews should be ready against that day to avenge themselves on their enemies.
 
@@ -296,11 +296,11 @@
 
 **[9:16]** And the other Jews that were in the king's provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of them that hated them seventy and five thousand; but on the spoil they laid not their hand.
 
-**[9:17]** `This was done' on the thirteenth day of the month Adar; and on the fourteenth day of the same they rested, and made it a day of feasting and gladness.
+**[9:17]** \`This was done' on the thirteenth day of the month Adar; and on the fourteenth day of the same they rested, and made it a day of feasting and gladness.
 
-**[9:18]** But the Jews that were in Shushan assembled together on the thirteenth `day' thereof, and on the fourteenth thereof; and on the fifteenth `day' of the same they rested, and made it a day of feasting and gladness.
+**[9:18]** But the Jews that were in Shushan assembled together on the thirteenth \`day' thereof, and on the fourteenth thereof; and on the fifteenth \`day' of the same they rested, and made it a day of feasting and gladness.
 
-**[9:19]** Therefore do the Jews of the villages, that dwell in the unwalled towns, make the fourteenth day of the month Adar `a day of' gladness and feasting, and a good day, and of sending portions one to another.
+**[9:19]** Therefore do the Jews of the villages, that dwell in the unwalled towns, make the fourteenth day of the month Adar \`a day of' gladness and feasting, and a good day, and of sending portions one to another.
 
 **[9:20]** And Mordecai wrote these things, and sent letters unto all the Jews that were in all the provinces of the king Ahasuerus, both nigh and far,
 
@@ -312,7 +312,7 @@
 
 **[9:24]** because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them, and had cast Pur, that is the lot, to consume them, and to destroy them;
 
-**[9:25]** but when `the matter' came before the king, he commanded by letters that his wicked device, which he had devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows.
+**[9:25]** but when \`the matter' came before the king, he commanded by letters that his wicked device, which he had devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows.
 
 **[9:26]** Wherefore they called these days Purim, after the name of Pur. Therefore because of all the words of this letter, and of that which they had seen concerning this matter, and that which had come unto them,
 
@@ -322,7 +322,7 @@
 
 **[9:29]** Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority to confirm this second letter of Purim.
 
-**[9:30]** And he sent letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, `with' words of peace and truth,
+**[9:30]** And he sent letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, \`with' words of peace and truth,
 
 **[9:31]** to confirm these days of Purim in their appointed times, according as Mordecai the Jew and Esther the queen had enjoined them, and as they had ordained for themselves and for their seed, in the matter of the fastings and their cry.
 

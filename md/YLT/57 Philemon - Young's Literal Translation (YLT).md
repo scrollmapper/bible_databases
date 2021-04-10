@@ -10,7 +10,7 @@
 
 **[1:5]** hearing of thy love and faith that thou hast unto the Lord Jesus and toward all the saints,
 
-**[1:6]** that the fellowship of thy faith may become working in the full knowledge of every good thing that `is' in you toward Christ Jesus;
+**[1:6]** that the fellowship of thy faith may become working in the full knowledge of every good thing that \`is' in you toward Christ Jesus;
 
 **[1:7]** for we have much joy and comfort in thy love, because the bowels of the saints have been refreshed through thee, brother.
 
@@ -48,4 +48,4 @@
 
 **[1:24]** Markus, Aristarchus, Demas, Lukas, my fellow-workmen!
 
-**[1:25]** The grace of our Lord Jesus Christ `is' with your spirit! Amen.
+**[1:25]** The grace of our Lord Jesus Christ \`is' with your spirit! Amen.

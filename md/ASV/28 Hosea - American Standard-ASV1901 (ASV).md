@@ -2,7 +2,7 @@
 
 **[1:1]** The word of Jehovah that came unto Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 
-**[1:2]** When Jehovah spake at the first by Hosea, Jehovah said unto Hosea, Go, take unto thee a wife of whoredom and children of whoredom; for the land doth commit great whoredom, `departing' from Jehovah.
+**[1:2]** When Jehovah spake at the first by Hosea, Jehovah said unto Hosea, Go, take unto thee a wife of whoredom and children of whoredom; for the land doth commit great whoredom, \`departing' from Jehovah.
 
 **[1:3]** So he went and took Gomer the daughter of Diblaim; and she conceived, and bare him a son.
 
@@ -10,15 +10,15 @@
 
 **[1:5]** And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.
 
-**[1:6]** And she conceived again, and bare a daughter. And `Jehovah' said unto him, Call her name Lo-ruhamah; for I will no more have mercy upon the house of Israel, that I should in any wise pardon them.
+**[1:6]** And she conceived again, and bare a daughter. And \`Jehovah' said unto him, Call her name Lo-ruhamah; for I will no more have mercy upon the house of Israel, that I should in any wise pardon them.
 
 **[1:7]** But I will have mercy upon the house of Judah, and will save them by Jehovah their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
 
 **[1:8]** Now when she had weaned Lo-ruhamah, she conceived, and bare a son.
 
-**[1:9]** And `Jehovah' said, Call his name Lo-ammi; for ye are not my people, and I will not be your `God'.
+**[1:9]** And \`Jehovah' said, Call his name Lo-ammi; for ye are not my people, and I will not be your \`God'.
 
-**[1:10]** Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass that, in the place where it was said unto them, Ye are not my people, it shall be said unto them, `Ye are' the sons of the living God.
+**[1:10]** Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass that, in the place where it was said unto them, Ye are not my people, it shall be said unto them, \`Ye are' the sons of the living God.
 
 **[1:11]** And the children of Judah and the children of Israel shall be gathered together, and they shall appoint themselves one head, and shall go up from the land; for great shall be the day of Jezreel.
 
@@ -66,11 +66,11 @@
 
 **[2:22]** and the earth shall answer the grain, and the new wine, and the oil; and they shall answer Jezreel.
 
-**[2:23]** And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them that were not my people, Thou art my people; and they shall say, `Thou art' my God.
+**[2:23]** And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them that were not my people, Thou art my people; and they shall say, \`Thou art' my God.
 
-**[3:1]** And Jehovah said unto me, Go again, love a woman beloved of `her' friend, and an adulteress, even as Jehovah loveth the children of Israel, though they turn unto other gods, and love cakes of raisins.
+**[3:1]** And Jehovah said unto me, Go again, love a woman beloved of \`her' friend, and an adulteress, even as Jehovah loveth the children of Israel, though they turn unto other gods, and love cakes of raisins.
 
-**[3:2]** So I bought her to me for fifteen `pieces' of silver, and a homer of barley, and a half-homer of barley;
+**[3:2]** So I bought her to me for fifteen \`pieces' of silver, and a homer of barley, and a half-homer of barley;
 
 **[3:3]** and I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be any man's wife: so will I also be toward thee.
 
@@ -100,11 +100,11 @@
 
 **[4:11]** Whoredom and wine and new wine take away the understanding.
 
-**[4:12]** My people ask counsel at their stock, and their staff declareth unto them; for the spirit of whoredom hath caused them to err, and they have played the harlot, `departing' from under their God.
+**[4:12]** My people ask counsel at their stock, and their staff declareth unto them; for the spirit of whoredom hath caused them to err, and they have played the harlot, \`departing' from under their God.
 
 **[4:13]** They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and terebinths, because the shadow thereof is good: therefore your daughters play the harlot, and your brides commit adultery.
 
-**[4:14]** I will not punish your daughters when they play the harlot, nor your brides when they commit adultery; for `the men' themselves go apart with harlots, and they sacrifice with the prostitutes; and the people that doth not understand shall be overthrown.
+**[4:14]** I will not punish your daughters when they play the harlot, nor your brides when they commit adultery; for \`the men' themselves go apart with harlots, and they sacrifice with the prostitutes; and the people that doth not understand shall be overthrown.
 
 **[4:15]** Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, As Jehovah liveth.
 
@@ -136,11 +136,11 @@
 
 **[5:10]** The princes of Judah are like them that remove the landmark: I will pour out my wrath upon them like water.
 
-**[5:11]** Ephraim is oppressed, he is crushed in judgment; because he was content to walk after `man's' command.
+**[5:11]** Ephraim is oppressed, he is crushed in judgment; because he was content to walk after \`man's' command.
 
 **[5:12]** Therefore am I unto Ephraim as a moth, and to the house of Judah as rottenness.
 
-**[5:13]** When Ephraim saw his sickness, and Judah `saw' his wound, then went Ephraim to Assyria, and sent to king Jareb: but he is not able to heal you, neither will he cure you of your wound.
+**[5:13]** When Ephraim saw his sickness, and Judah \`saw' his wound, then went Ephraim to Assyria, and sent to king Jareb: but he is not able to heal you, neither will he cure you of your wound.
 
 **[5:14]** For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will carry off, and there shall be none to deliver.
 
@@ -154,7 +154,7 @@
 
 **[6:4]** O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the dew that goeth early away.
 
-**[6:5]** Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are `as' the light that goeth forth.
+**[6:5]** Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are \`as' the light that goeth forth.
 
 **[6:6]** For I desire goodness, and not sacrifice; and the knowledge of God more than burnt-offerings.
 
@@ -164,7 +164,7 @@
 
 **[6:9]** And as troops of robbers wait for a man, so the company of priests murder in the way toward Shechem; yea, they have committed lewdness.
 
-**[6:10]** In the house of Israel I have seen a horrible thing: there whoredom is `found' in Ephraim, Israel is defiled.
+**[6:10]** In the house of Israel I have seen a horrible thing: there whoredom is \`found' in Ephraim, Israel is defiled.
 
 **[6:11]** Also, O Judah, there is a harvest appointed for thee, when I bring back the captivity of my people.
 
@@ -174,7 +174,7 @@
 
 **[7:3]** They make the king glad with their wickedness, and the princes with their lies.
 
-**[7:4]** They are all adulterers; they are as an oven heated by the baker; he ceaseth to stir `the fire', from the kneading of the dough, until it be leavened.
+**[7:4]** They are all adulterers; they are as an oven heated by the baker; he ceaseth to stir \`the fire', from the kneading of the dough, until it be leavened.
 
 **[7:5]** On the day of our king the princes made themselves sick with the heat of wine; he stretched out his hand with scoffers.
 
@@ -184,7 +184,7 @@
 
 **[7:8]** Ephraim, he mixeth himself among the peoples; Ephraim is a cake not turned.
 
-**[7:9]** Strangers have devoured his strength, and he knoweth `it' not: yea, gray hairs are here and there upon him, and he knoweth `it' not.
+**[7:9]** Strangers have devoured his strength, and he knoweth \`it' not: yea, gray hairs are here and there upon him, and he knoweth \`it' not.
 
 **[7:10]** And the pride of Israel doth testify to his face: yet they have not returned unto Jehovah their God, nor sought him, for all this.
 
@@ -198,9 +198,9 @@
 
 **[7:15]** Though I have taught and strengthened their arms, yet do they devise mischief against me.
 
-**[7:16]** They return, but not to `him that is' on high; they are like a deceitful bow; their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.
+**[7:16]** They return, but not to \`him that is' on high; they are like a deceitful bow; their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.
 
-**[8:1]** `Set' the trumpet to thy mouth. As an eagle `he cometh' against the house of Jehovah, because they have transgressed my covenant, and trespassed against my law.
+**[8:1]** \`Set' the trumpet to thy mouth. As an eagle \`he cometh' against the house of Jehovah, because they have transgressed my covenant, and trespassed against my law.
 
 **[8:2]** They shall cry unto me, My God, we Israel know thee.
 
@@ -216,7 +216,7 @@
 
 **[8:8]** Israel is swallowed up: now are they among the nations as a vessel wherein none delighteth.
 
-**[8:9]** For they are gone up to Assyria, `like' a wild ass alone by himself: Ephraim hath hired lovers.
+**[8:9]** For they are gone up to Assyria, \`like' a wild ass alone by himself: Ephraim hath hired lovers.
 
 **[8:10]** Yea, though they hire among the nations, now will I gather them; and they begin to be diminished by reason of the burden of the king of princes.
 
@@ -228,7 +228,7 @@
 
 **[8:14]** For Israel hath forgotten his Maker, and builded palaces; and Judah hath multiplied fortified cities: but I will send a fire upon his cities, and it shall devour the castles thereof.
 
-**[9:1]** Rejoice not, O Israel, for joy, like the peoples; for thou hast played the harlot, `departing' from thy God; thou hast loved hire upon every grain-floor.
+**[9:1]** Rejoice not, O Israel, for joy, like the peoples; for thou hast played the harlot, \`departing' from thy God; thou hast loved hire upon every grain-floor.
 
 **[9:2]** The threshing-floor and the winepress shall not feed them, and the new wine shall fail her.
 
@@ -238,11 +238,11 @@
 
 **[9:5]** What will ye do in the day of solemn assembly, and in the day of the feast of Jehovah?
 
-**[9:6]** For, lo, they are gone away from destruction; `yet' Egypt shall gather them up, Memphis shall bury them; their pleasant things of silver, nettles shall possess them; thorns shall be in their tents.
+**[9:6]** For, lo, they are gone away from destruction; \`yet' Egypt shall gather them up, Memphis shall bury them; their pleasant things of silver, nettles shall possess them; thorns shall be in their tents.
 
 **[9:7]** The days of visitation are come, the days of recompense are come; Israel shall know it: the prophet is a fool, the man that hath the spirit is mad, for the abundance of thine iniquity, and because the enmity is great.
 
-**[9:8]** Ephraim `was' a watchman with my God: as for the prophet, a fowler's snare is in all his ways, `and' enmity in the house of his God.
+**[9:8]** Ephraim \`was' a watchman with my God: as for the prophet, a fowler's snare is in all his ways, \`and' enmity in the house of his God.
 
 **[9:9]** They have deeply corrupted themselves, as in the days of Gibeah: he will remember their iniquity, he will visit their sins.
 
@@ -268,13 +268,13 @@
 
 **[10:3]** Surely now shall they say, We have no king; for we fear not Jehovah; and the king, what can he do for us?
 
-**[10:4]** They speak `vain' words, swearing falsely in making covenants: therefore judgment springeth up as hemlock in the furrows of the field.
+**[10:4]** They speak \`vain' words, swearing falsely in making covenants: therefore judgment springeth up as hemlock in the furrows of the field.
 
 **[10:5]** The inhabitants of Samaria shall be in terror for the calves of Beth-aven; for the people thereof shall mourn over it, and the priests thereof that rejoiced over it, for the glory thereof, because it is departed from it.
 
 **[10:6]** It also shall be carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.
 
-**[10:7]** `As for' Samaria, her king is cut off, as foam upon the water.
+**[10:7]** \`As for' Samaria, her king is cut off, as foam upon the water.
 
 **[10:8]** The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.
 
@@ -282,7 +282,7 @@
 
 **[10:10]** When it is my desire, I will chastise them; and the peoples shall be gathered against them, when they are bound to their two transgressions.
 
-**[10:11]** And Ephraim is a heifer that is taught, that loveth to tread out `the grain'; but I have passed over upon her fair neck: I will set a rider on Ephraim; Judah shall plow, Jacob shall break his clods.
+**[10:11]** And Ephraim is a heifer that is taught, that loveth to tread out \`the grain'; but I have passed over upon her fair neck: I will set a rider on Ephraim; Judah shall plow, Jacob shall break his clods.
 
 **[10:12]** Sow to yourselves in righteousness, reap according to kindness; break up your fallow ground; for it is time to seek Jehovah, till he come and rain righteousness upon you.
 
@@ -294,19 +294,19 @@
 
 **[11:1]** When Israel was a child, then I loved him, and called my son out of Egypt.
 
-**[11:2]** The more `the prophets' called them, the more they went from them: they sacrificed unto the Baalim, and burned incense to graven images.
+**[11:2]** The more \`the prophets' called them, the more they went from them: they sacrificed unto the Baalim, and burned incense to graven images.
 
 **[11:3]** Yet I taught Ephraim to walk; I took them on my arms; but they knew not that I healed them.
 
 **[11:4]** I drew them with cords of a man, with bands of love; and I was to them as they that lift up the yoke on their jaws; and I laid food before them.
 
-**[11:5]** They shall not return into the land of Egypt; but the Assyrian shall be their king, because they refused to return `to me'.
+**[11:5]** They shall not return into the land of Egypt; but the Assyrian shall be their king, because they refused to return \`to me'.
 
-**[11:6]** And the sword shall fall upon their cities, and shall consume their bars, and devour `them', because of their own counsels.
+**[11:6]** And the sword shall fall upon their cities, and shall consume their bars, and devour \`them', because of their own counsels.
 
-**[11:7]** And my people are bent on backsliding from me: though they call them to `him that is' on high, none at all will exalt `him'.
+**[11:7]** And my people are bent on backsliding from me: though they call them to \`him that is' on high, none at all will exalt \`him'.
 
-**[11:8]** How shall I give thee up, Ephraim? `how' shall I cast thee off, Israel? how shall I make thee as Admah? `how' shall I set thee as Zeboiim? my heart is turned within me, my compassions are kindled together.
+**[11:8]** How shall I give thee up, Ephraim? \`how' shall I cast thee off, Israel? how shall I make thee as Admah? \`how' shall I set thee as Zeboiim? my heart is turned within me, my compassions are kindled together.
 
 **[11:9]** I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee; and I will not come in wrath.
 
@@ -324,11 +324,11 @@
 
 **[12:4]** yea, he had power over the angel, and prevailed; he wept, and made supplication unto him: he found him at Beth-el, and there he spake with us,
 
-**[12:5]** even Jehovah, the God of hosts; Jehovah is his memorial `name'.
+**[12:5]** even Jehovah, the God of hosts; Jehovah is his memorial \`name'.
 
 **[12:6]** Therefore turn thou to thy God: keep kindness and justice, and wait for thy God continually.
 
-**[12:7]** `He is' a trafficker, the balances of deceit are in his hand: he loveth to oppress.
+**[12:7]** \`He is' a trafficker, the balances of deceit are in his hand: he loveth to oppress.
 
 **[12:8]** And Ephraim said, Surely I am become rich, I have found me wealth: in all my labors they shall find in me no iniquity that were sin.
 
@@ -338,7 +338,7 @@
 
 **[12:11]** Is Gilead iniquity? they are altogether false; in Gilgal they sacrifice bullocks; yea, their altars are as heaps in the furrows of the field.
 
-**[12:12]** And Jacob fled into the field of Aram, and Israel served for a wife, and for a wife he kept `sheep'.
+**[12:12]** And Jacob fled into the field of Aram, and Israel served for a wife, and for a wife he kept \`sheep'.
 
 **[12:13]** And by a prophet Jehovah brought Israel up out of Egypt, and by a prophet was he preserved.
 
@@ -360,7 +360,7 @@
 
 **[13:8]** I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart; and there will I devour them like a lioness; the wild beast shall tear them.
 
-**[13:9]** It is thy destruction, O Israel, that `thou art' against me, against thy help.
+**[13:9]** It is thy destruction, O Israel, that \`thou art' against me, against thy help.
 
 **[13:10]** Where now is thy king, that he may save thee in all thy cities? and thy judges, of whom thou saidst, Give me a king and princes?
 
@@ -378,9 +378,9 @@
 
 **[14:1]** O Israel, return unto Jehovah thy God; for thou hast fallen by thine iniquity.
 
-**[14:2]** Take with you words, and return unto Jehovah: say unto him, Take away all iniquity, and accept that which is good: so will we render `as' bullocks `the offering of' our lips.
+**[14:2]** Take with you words, and return unto Jehovah: say unto him, Take away all iniquity, and accept that which is good: so will we render \`as' bullocks \`the offering of' our lips.
 
-**[14:3]** Assyria shall not save us; we will not ride upon horses; neither will we say any more to the work of our hands, `Ye are' our gods; for in thee the fatherless findeth mercy.
+**[14:3]** Assyria shall not save us; we will not ride upon horses; neither will we say any more to the work of our hands, \`Ye are' our gods; for in thee the fatherless findeth mercy.
 
 **[14:4]** I will heal their backsliding, I will love them freely; for mine anger is turned away from him.
 
@@ -388,8 +388,8 @@
 
 **[14:6]** His branches shall spread, and his beauty shall be as the olive-tree, and his smell as Lebanon.
 
-**[14:7]** They that dwell under his shadow shall return; they shall revive `as' the grain, and blossom as the vine: the scent thereof shall be as the wine of Lebanon.
+**[14:7]** They that dwell under his shadow shall return; they shall revive \`as' the grain, and blossom as the vine: the scent thereof shall be as the wine of Lebanon.
 
-**[14:8]** Ephraim `shall say', What have I to do any more with idols? I have answered, and will regard him: I am like a green fir-tree; from me is thy fruit found.
+**[14:8]** Ephraim \`shall say', What have I to do any more with idols? I have answered, and will regard him: I am like a green fir-tree; from me is thy fruit found.
 
 **[14:9]** Who is wise, that he may understand these things? prudent, that he may know them? for the ways of Jehovah are right, and the just shall walk in them; but transgressors shall fall therein.

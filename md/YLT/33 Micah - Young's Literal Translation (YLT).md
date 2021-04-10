@@ -8,7 +8,7 @@
 
 **[1:4]** Melted have been the mountains under Him, And the valleys do rend themselves, As wax from the presence of fire, As waters cast down by a slope.
 
-**[1:5]** For the transgression of Jacob `is' all this, And for the sins of the house of Israel. What `is' the transgression of Jacob? Is it not Samaria? And what the high places of Judah? Is it not Jerusalem?
+**[1:5]** For the transgression of Jacob \`is' all this, And for the sins of the house of Israel. What \`is' the transgression of Jacob? Is it not Samaria? And what the high places of Judah? Is it not Jerusalem?
 
 **[1:6]** And I have set Samaria for a heap of the field, For plantations of a vineyard, And poured out into a valley her stones, And her foundations I uncover.
 
@@ -16,7 +16,7 @@
 
 **[1:8]** For this I lament and howl, I go spoiled and naked, I make a lamentation like dragons, And a mourning like daughters of an ostrich.
 
-**[1:9]** For mortal `are' her wounds, For it hath come unto Judah, It hath come to a gate of My people -- to Jerusalem.
+**[1:9]** For mortal \`are' her wounds, For it hath come unto Judah, It hath come to a gate of My people -- to Jerusalem.
 
 **[1:10]** In Gath tell ye not -- in Acco weep not, In Beth-Aphrah, in dust roll thyself.
 
@@ -24,7 +24,7 @@
 
 **[1:12]** For stayed for good hath the inhabitant of Maroth, For evil hath come down from Jehovah to the gate of Jerusalem.
 
-**[1:13]** Bind the chariot to a swift beast, O inhabitant of Lachish, The beginning of sin `is' she to the daughter of Zion, For in thee have been found the transgressions of Israel.
+**[1:13]** Bind the chariot to a swift beast, O inhabitant of Lachish, The beginning of sin \`is' she to the daughter of Zion, For in thee have been found the transgressions of Israel.
 
 **[1:14]** Therefore thou givest presents to Moresheth-Gath, The houses of Achzib become a lying thing to the kings of Israel.
 
@@ -32,41 +32,41 @@
 
 **[1:16]** Make bald and shave, for thy delightful sons, Enlarge thy baldness as an eagle, For they have removed from thee!
 
-**[2:1]** Wo `to' those devising iniquity, And working evil on their beds, In the light of the morning they do it, For their hand is -- to God.
+**[2:1]** Wo \`to' those devising iniquity, And working evil on their beds, In the light of the morning they do it, For their hand is -- to God.
 
 **[2:2]** And they have desired fields, And they have taken violently, And houses, and they have taken away, And have oppressed a man and his house, Even a man and his inheritance.
 
-**[2:3]** Therefore, thus said Jehovah: Lo, I am devising against this family evil, From which ye do not remove your necks, Nor walk loftily, for a time of evil it `is'.
+**[2:3]** Therefore, thus said Jehovah: Lo, I am devising against this family evil, From which ye do not remove your necks, Nor walk loftily, for a time of evil it \`is'.
 
-**[2:4]** In that day doth `one' take up for you a simile, And he hath wailed a wailing of wo, He hath said, We have been utterly spoiled, The portion of my people He doth change, How doth He move toward me! To the backslider our fields He apportioneth.
+**[2:4]** In that day doth \`one' take up for you a simile, And he hath wailed a wailing of wo, He hath said, We have been utterly spoiled, The portion of my people He doth change, How doth He move toward me! To the backslider our fields He apportioneth.
 
 **[2:5]** Therefore, thou hast no caster of a line by lot In the assembly of Jehovah.
 
 **[2:6]** Ye do not prophesy -- they do prophesy, They do not prophesy to these, It doth not remove shame.
 
-**[2:7]** Doth the house of Jacob say, `Hath the Spirit of Jehovah been shortened? Are these His doings?' Do not My words benefit the people that is walking uprightly?
+**[2:7]** Doth the house of Jacob say, \`Hath the Spirit of Jehovah been shortened? Are these His doings?' Do not My words benefit the people that is walking uprightly?
 
 **[2:8]** And yesterday My people for an enemy doth raise himself up, From the outer garment the honourable ornament ye strip off, From the confident passers by, Ye who are turning back from war.
 
 **[2:9]** The women of My people ye cast out from its delightful house, From its sucklings ye take away My honour to the age.
 
-**[2:10]** Rise and go, for this `is' not the rest, Because of uncleanness it doth corrupt, And corruption is powerful.
+**[2:10]** Rise and go, for this \`is' not the rest, Because of uncleanness it doth corrupt, And corruption is powerful.
 
-**[2:11]** If one is going `with' the wind, And `with' falsehood hath lied: `I prophesy to thee of wine, and of strong drink,' He hath been the prophet of this people!
+**[2:11]** If one is going \`with' the wind, And \`with' falsehood hath lied: \`I prophesy to thee of wine, and of strong drink,' He hath been the prophet of this people!
 
 **[2:12]** I do surely gather thee, O Jacob, all of thee, I surely bring together the remnant of Israel, Together I do set it as the flock of Bozrah, As a drove in the midst of its pasture, It maketh a noise because of man.
 
 **[2:13]** Gone up hath the breaker before them, They have broken through, Yea, they pass through the gate, Yea, they go out through it, And pass on doth their king before them, And Jehovah at their head!
 
-**[3:1]** And I say, `Hear, I pray you, heads of Jacob, And ye judges of the house of Israel, Is it not for you to know the judgment?
+**[3:1]** And I say, \`Hear, I pray you, heads of Jacob, And ye judges of the house of Israel, Is it not for you to know the judgment?
 
 **[3:2]** Ye who are hating good, and loving evil, Taking violently their skin from off them, And their flesh from off their bones,
 
-**[3:3]** And who have eaten the flesh of My people, And their skin from off them have stript, And their bones they have broken, And they have spread `them' out as in a pot, And as flesh in the midst of a caldron.
+**[3:3]** And who have eaten the flesh of My people, And their skin from off them have stript, And their bones they have broken, And they have spread \`them' out as in a pot, And as flesh in the midst of a caldron.
 
 **[3:4]** Then do they cry unto Jehovah, And He doth not answer them, And hideth His face from them at that time, As they have made evil their doings.
 
-**[3:5]** Thus said Jehovah concerning the prophets Who are causing My people to err, Who are biting with their teeth, And have cried `Peace,' And he who doth not give unto their mouth, They have sanctified against him war.
+**[3:5]** Thus said Jehovah concerning the prophets Who are causing My people to err, Who are biting with their teeth, And have cried \`Peace,' And he who doth not give unto their mouth, They have sanctified against him war.
 
 **[3:6]** Therefore a night ye have without vision, And darkness ye have without divination, And gone in hath the sun on the prophets, And black over them hath been the day.
 
@@ -78,9 +78,9 @@
 
 **[3:10]** Building up Zion with blood, And Jerusalem with iniquity.
 
-**[3:11]** Her heads for a bribe do judge, And her priests for hire do teach, And her prophets for silver divine, And on Jehovah they lean, saying, `Is not Jehovah in our midst? Evil doth not come in upon us.'
+**[3:11]** Her heads for a bribe do judge, And her priests for hire do teach, And her prophets for silver divine, And on Jehovah they lean, saying, \`Is not Jehovah in our midst? Evil doth not come in upon us.'
 
-**[3:12]** Therefore, for your sake, Zion is ploughed a field, and Jerusalem is heaps, And the mount of the house `is' for high places of a forest!
+**[3:12]** Therefore, for your sake, Zion is ploughed a field, and Jerusalem is heaps, And the mount of the house \`is' for high places of a forest!
 
 **[4:1]** And it hath come to pass, In the latter end of the days, The mount of the house of Jehovah Is established above the top of the mounts, And it hath been lifted up above the hills, And flowed unto it have peoples.
 
@@ -102,21 +102,21 @@
 
 **[4:10]** Be pained, and bring forth, O daughter of Zion, As a travailing woman, For now, thou goest forth from the city, And thou hast dwelt in the field, And thou hast gone unto Babylon, There thou art delivered, There redeem thee doth Jehovah from the hand of thine enemies.
 
-**[4:11]** And now, gathered against thee have been many nations, who are saying: `Let her be defiled, and our eyes look on Zion.'
+**[4:11]** And now, gathered against thee have been many nations, who are saying: \`Let her be defiled, and our eyes look on Zion.'
 
-**[4:12]** They have not known the thoughts of Jehovah, Nor have they understood His counsel, For He hath gathered them as a sheaf `into' a threshing-floor.
+**[4:12]** They have not known the thoughts of Jehovah, Nor have they understood His counsel, For He hath gathered them as a sheaf \`into' a threshing-floor.
 
 **[4:13]** Arise, and thresh, O daughter of Zion, For thy horn I make iron, And thy hoofs I make brass, And thou hast beaten small many peoples, And I have devoted to Jehovah their gain, And their wealth to the Lord of the whole earth!
 
 **[5:1]** Now gather thyself together, O daughter of troops, A siege he hath laid against us, With a rod they smite on the cheek the judge of Israel.
 
-**[5:2]** And thou, Beth-Lehem Ephratah, Little to be among the chiefs of Judah! From thee to Me he cometh forth -- to be ruler in Israel, And his comings forth `are' of old, From the days of antiquity.
+**[5:2]** And thou, Beth-Lehem Ephratah, Little to be among the chiefs of Judah! From thee to Me he cometh forth -- to be ruler in Israel, And his comings forth \`are' of old, From the days of antiquity.
 
 **[5:3]** Therefore he doth give them out till the time She who bringeth forth hath brought forth, And the remnant of his brethren return to the sons of Israel.
 
 **[5:4]** And he hath stood and delighted in the strength of Jehovah, In the excellency of the name of Jehovah his God, And they have remained, For now he is great unto the ends of earth.
 
-**[5:5]** And this `one' hath been peace, Asshur! when he doth come into our land, And when he doth tread in our palaces, We have raised against him seven shepherds, And eight anointed of man.
+**[5:5]** And this \`one' hath been peace, Asshur! when he doth come into our land, And when he doth tread in our palaces, We have raised against him seven shepherds, And eight anointed of man.
 
 **[5:6]** And they have afflicted the land of Asshur with the sword, And the land of Nimrod at its openings, And he hath delivered from Asshur when he doth come into our land, And when he treadeth in our borders.
 
@@ -138,9 +138,9 @@
 
 **[5:15]** And I have done vengeance in anger and in fury, With the nations who have not hearkened!
 
-**[6:1]** Hear, I pray you, that which Jehovah is saying: `Rise -- strive thou with the mountains, And cause thou the hills to hear thy voice.'
+**[6:1]** Hear, I pray you, that which Jehovah is saying: \`Rise -- strive thou with the mountains, And cause thou the hills to hear thy voice.'
 
-**[6:2]** Hear, O mountains, the strife of Jehovah, Ye strong ones -- foundations of earth! For a strife `is' to Jehovah, with His people, And with Israel He doth reason.
+**[6:2]** Hear, O mountains, the strife of Jehovah, Ye strong ones -- foundations of earth! For a strife \`is' to Jehovah, with His people, And with Israel He doth reason.
 
 **[6:3]** O My people, what have I done to thee? And what -- have I wearied thee? Testify against Me.
 
@@ -150,37 +150,37 @@
 
 **[6:6]** With what do I come before Jehovah? Do I bow to God Most High? Do I come before Him with burnt-offerings? With calves -- sons of a year?
 
-**[6:7]** Is Jehovah pleased with thousands of rams? With myriads of streams of oil? Do I give my first-born `for' my transgression? The fruit of my body `for' the sin of my soul?
+**[6:7]** Is Jehovah pleased with thousands of rams? With myriads of streams of oil? Do I give my first-born \`for' my transgression? The fruit of my body \`for' the sin of my soul?
 
-**[6:8]** He hath declared to thee, O man, what `is' good; Yea, what is Jehovah requiring of thee, Except -- to do judgment, and love kindness, And lowly to walk with thy God?
+**[6:8]** He hath declared to thee, O man, what \`is' good; Yea, what is Jehovah requiring of thee, Except -- to do judgment, and love kindness, And lowly to walk with thy God?
 
 **[6:9]** A voice of Jehovah to the city calleth, And wisdom doth fear Thy name, Hear ye the rod, and Him who appointed it.
 
-**[6:10]** Are there yet `in' the house of the wicked Treasures of wickedness, And the abhorred scanty ephah?
+**[6:10]** Are there yet \`in' the house of the wicked Treasures of wickedness, And the abhorred scanty ephah?
 
-**[6:11]** Do I reckon `it' pure with balances of wickedness? And with a bag of deceitful stones?
+**[6:11]** Do I reckon \`it' pure with balances of wickedness? And with a bag of deceitful stones?
 
-**[6:12]** Whose rich ones have been full of violence, And its inhabitants have spoken falsehood, And their tongue `is' deceitful in their mouth.
+**[6:12]** Whose rich ones have been full of violence, And its inhabitants have spoken falsehood, And their tongue \`is' deceitful in their mouth.
 
 **[6:13]** And I also, I have begun to smite thee, To make desolate, because of thy sins.
 
-**[6:14]** Thou -- thou eatest, and thou art not satisfied, And thy pit `is' in thy midst, And thou removest, and dost not deliver, And that which thou deliverest, to a sword I give.
+**[6:14]** Thou -- thou eatest, and thou art not satisfied, And thy pit \`is' in thy midst, And thou removest, and dost not deliver, And that which thou deliverest, to a sword I give.
 
 **[6:15]** Thou -- thou sowest, and thou dost not reap, Thou -- thou treadest the olive, And thou pourest not out oil, And new wine -- and thou drinkest not wine.
 
 **[6:16]** And kept habitually are the statutes of Omri, And all the work of the house of Ahab, And ye do walk in their counsels, For My giving thee for a desolation, And its inhabitants for a hissing, And the reproach of My people ye do bear!
 
-**[7:1]** My wo `is' to me, for I have been As gatherings of summer-fruit, As gleanings of harvest, There is no cluster to eat, The first-ripe fruit desired hath my soul.
+**[7:1]** My wo \`is' to me, for I have been As gatherings of summer-fruit, As gleanings of harvest, There is no cluster to eat, The first-ripe fruit desired hath my soul.
 
-**[7:2]** Perished hath the kind out of the land, And upright among men -- there are none, All of them for blood lie in wait, Each his brother they hunt `with' a net.
+**[7:2]** Perished hath the kind out of the land, And upright among men -- there are none, All of them for blood lie in wait, Each his brother they hunt \`with' a net.
 
-**[7:3]** On the evil `are' both hands to do `it' well, The prince is asking -- also the judge -- for recompence, And the great -- he is speaking the mischief of his soul, And they wrap it up.
+**[7:3]** On the evil \`are' both hands to do \`it' well, The prince is asking -- also the judge -- for recompence, And the great -- he is speaking the mischief of his soul, And they wrap it up.
 
-**[7:4]** Their best one `is' as a brier, The upright one -- than a thorn-hedge, The day of thy watchmen -- Thy visitation -- hath come. Now is their perplexity.
+**[7:4]** Their best one \`is' as a brier, The upright one -- than a thorn-hedge, The day of thy watchmen -- Thy visitation -- hath come. Now is their perplexity.
 
 **[7:5]** Believe not in a friend, trust not in a leader, From her who is lying in thy bosom keep the openings of thy mouth.
 
-**[7:6]** For a son is dishonouring a father, A daughter hath stood against her mother, A daughter-in-law against her mother-in-law, The enemies of each `are' the men of his house.
+**[7:6]** For a son is dishonouring a father, A daughter hath stood against her mother, A daughter-in-law against her mother-in-law, The enemies of each \`are' the men of his house.
 
 **[7:7]** And I -- in Jehovah I do watch, I do wait for the God of my salvation, Hear me doth my God.
 
@@ -188,7 +188,7 @@
 
 **[7:9]** The indignation of Jehovah I do bear, For I have sinned against Him, Till that He doth plead my cause, And hath executed my judgment, He doth bring me forth to the light, I look on His righteousness.
 
-**[7:10]** And see doth mine enemy, And cover her doth shame, Who saith unto me, `Where `is' Jehovah thy God?' Mine eyes do look on her, Now she is for a treading-place, As mire of the out-places.
+**[7:10]** And see doth mine enemy, And cover her doth shame, Who saith unto me, \`Where \`is' Jehovah thy God?' Mine eyes do look on her, Now she is for a treading-place, As mire of the out-places.
 
 **[7:11]** The day to build thy walls! That day -- removed is the limit.
 
@@ -196,7 +196,7 @@
 
 **[7:13]** And the land hath been for a desolation, Because of its inhabitants, Because of the fruit of their doings.
 
-**[7:14]** Rule Thou Thy people with Thy rod, The flock of Thine inheritance, Dwelling alone `in' a forest in the midst of Carmel, They enjoy Bashan and Gilead as in days of old.
+**[7:14]** Rule Thou Thy people with Thy rod, The flock of Thine inheritance, Dwelling alone \`in' a forest in the midst of Carmel, They enjoy Bashan and Gilead as in days of old.
 
 **[7:15]** According to the days of thy coming forth out of the land of Egypt, I do shew it wonderful things.
 
@@ -204,7 +204,7 @@
 
 **[7:17]** They lick dust as a serpent, as fearful things of earth, They tremble from their enclosures, Of Jehovah our God they are afraid, Yea, they are afraid of Thee.
 
-**[7:18]** Who `is' a God like Thee? taking away iniquity, And passing by the transgression of the remnant of His inheritance, He hath not retained for ever His anger, Because He -- He delighteth `in' kindness.
+**[7:18]** Who \`is' a God like Thee? taking away iniquity, And passing by the transgression of the remnant of His inheritance, He hath not retained for ever His anger, Because He -- He delighteth \`in' kindness.
 
 **[7:19]** He doth turn back, He pitieth us, He doth subdue our iniquities, And Thou castest into the depths of the sea all their sins.
 

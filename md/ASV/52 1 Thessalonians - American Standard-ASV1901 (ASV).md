@@ -2,13 +2,13 @@
 
 **[1:1]** Paul, and Silvanus, and Timothy, unto the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.
 
-**[1:2]** We give thanks to God always for you all, making mention `of you' in our prayers;
+**[1:2]** We give thanks to God always for you all, making mention \`of you' in our prayers;
 
 **[1:3]** remembering without ceasing your work of faith and labor of love and patience of hope in our Lord Jesus Christ, before our God and Father;
 
 **[1:4]** knowing, brethren beloved of God, your election,
 
-**[1:5]** how that our gospel came not unto you in word only, but also in power, and in the Holy Spirit, and `in' much assurance; even as ye know what manner of men we showed ourselves toward you for your sake.
+**[1:5]** how that our gospel came not unto you in word only, but also in power, and in the Holy Spirit, and \`in' much assurance; even as ye know what manner of men we showed ourselves toward you for your sake.
 
 **[1:6]** And ye became imitators of us, and of the Lord, having received the word in much affliction, with joy of the Holy Spirit;
 
@@ -18,13 +18,13 @@
 
 **[1:9]** For they themselves report concerning us what manner of entering in we had unto you; and how ye turned unto God from idols, to serve a living and true God,
 
-**[1:10]** and to wait for his Son from heaven, whom he raised from the dead, `even' Jesus, who delivereth us from the wrath to come.
+**[1:10]** and to wait for his Son from heaven, whom he raised from the dead, \`even' Jesus, who delivereth us from the wrath to come.
 
 **[2:1]** For yourselves, brethren, know our entering in unto you, that it hath not been found vain:
 
 **[2:2]** but having suffered before and been shamefully treated, as ye know, at Philippi, we waxed bold in our God to speak unto you the gospel of God in much conflict.
 
-**[2:3]** For our exhortation `is' not of error, nor of uncleanness, nor in guile:
+**[2:3]** For our exhortation \`is' not of error, nor of uncleanness, nor in guile:
 
 **[2:4]** but even as we have been approved of God to be intrusted with the gospel, so we speak; not as pleasing men, but God who proveth our hearts.
 
@@ -38,13 +38,13 @@
 
 **[2:9]** For ye remember, brethren, our labor and travail: working night and day, that we might not burden any of you, we preached unto you the gospel of God.
 
-**[2:10]** Ye are witnesses, and God `also', how holily and righteously and unblameably we behaved ourselves toward you that believe:
+**[2:10]** Ye are witnesses, and God \`also', how holily and righteously and unblameably we behaved ourselves toward you that believe:
 
-**[2:11]** as ye know how we `dealt with' each one of you, as a father with his own children, exhorting you, and encouraging `you', and testifying,
+**[2:11]** as ye know how we \`dealt with' each one of you, as a father with his own children, exhorting you, and encouraging \`you', and testifying,
 
 **[2:12]** to the end that ye should walk worthily of God, who calleth you into his own kingdom and glory.
 
-**[2:13]** And for this cause we also thank God without ceasing, that, when ye received from us the word of the message, `even the word' of God, ye accepted `it' not `as' the word of men, but, as it is in truth, the word of God, which also worketh in you that believe.
+**[2:13]** And for this cause we also thank God without ceasing, that, when ye received from us the word of the message, \`even the word' of God, ye accepted \`it' not \`as' the word of men, but, as it is in truth, the word of God, which also worketh in you that believe.
 
 **[2:14]** For ye, brethren, became imitators of the churches of God which are in Judaea in Christ Jesus: for ye also suffered the same things of your own countrymen, even as they did of the Jews;
 
@@ -62,7 +62,7 @@
 
 **[3:1]** Wherefore when we could no longer forbear, we thought it good to be left behind at Athens alone;
 
-**[3:2]** and sent Timothy, our brother and God's minister in the gospel of Christ, to establish you, and to comfort `you' concerning your faith;
+**[3:2]** and sent Timothy, our brother and God's minister in the gospel of Christ, to establish you, and to comfort \`you' concerning your faith;
 
 **[3:3]** that no man be moved by these afflictions; for yourselves know that hereunto we are appointed.
 
@@ -70,7 +70,7 @@
 
 **[3:5]** For this cause I also, when I could no longer forbear, sent that I might know your faith, lest by any means the tempter had tempted you, and our labor should be in vain.
 
-**[3:6]** But when Timothy came even now unto us from you, and brought us glad tidings of your faith and love, and that ye have good remembrance of us always, longing to see us, even as we also `to see' you;
+**[3:6]** But when Timothy came even now unto us from you, and brought us glad tidings of your faith and love, and that ye have good remembrance of us always, longing to see us, even as we also \`to see' you;
 
 **[3:7]** for this cause, brethren, we were comforted over you in all our distress and affliction through your faith:
 
@@ -82,7 +82,7 @@
 
 **[3:11]** Now may our God and Father himself, and our Lord Jesus, direct our way unto you:
 
-**[3:12]** and the Lord make you to increase and abound in love one toward another, and toward all men, even as we also `do' toward you;
+**[3:12]** and the Lord make you to increase and abound in love one toward another, and toward all men, even as we also \`do' toward you;
 
 **[3:13]** to the end he may establish your hearts unblameable in holiness before our God and Father, at the coming of our Lord Jesus with all his saints.
 
@@ -90,7 +90,7 @@
 
 **[4:2]** For ye know what charge we gave you through the Lord Jesus.
 
-**[4:3]** For this is the will of God, `even' your sanctification, that ye abstain from fornication;
+**[4:3]** For this is the will of God, \`even' your sanctification, that ye abstain from fornication;
 
 **[4:4]** that each one of you know how to possess himself of his own vessel in sanctification and honor,
 

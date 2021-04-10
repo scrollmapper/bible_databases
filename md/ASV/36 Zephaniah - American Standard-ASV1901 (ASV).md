@@ -6,7 +6,7 @@
 
 **[1:3]** I will consume man and beast; I will consume the birds of the heavens, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the face of the ground, saith Jehovah.
 
-**[1:4]** And I will stretch out my hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, `and' the name of the Chemarim with the priests;
+**[1:4]** And I will stretch out my hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, \`and' the name of the Chemarim with the priests;
 
 **[1:5]** and them that worship the host of heaven upon the housetops; and them that worship, that swear to Jehovah and swear by Malcam;
 
@@ -26,7 +26,7 @@
 
 **[1:13]** And their wealth shall become a spoil, and their houses a desolation: yea, they shall build houses, but shall not inhabit them; and they shall plant vineyards, but shall not drink the wine thereof.
 
-**[1:14]** The great day of Jehovah is near, it is near and hasteth greatly, `even' the voice of the day of Jehovah; the mighty man crieth there bitterly.
+**[1:14]** The great day of Jehovah is near, it is near and hasteth greatly, \`even' the voice of the day of Jehovah; the mighty man crieth there bitterly.
 
 **[1:15]** That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,
 
@@ -38,7 +38,7 @@
 
 **[2:1]** Gather yourselves together, yea, gather together, O nation that hath no shame;
 
-**[2:2]** before the decree bring forth, `before' the day pass as the chaff, before the fierce anger of Jehovah come upon you, before the day of Jehovah's anger come upon you.
+**[2:2]** before the decree bring forth, \`before' the day pass as the chaff, before the fierce anger of Jehovah come upon you, before the day of Jehovah's anger come upon you.
 
 **[2:3]** Seek ye Jehovah, all ye meek of the earth, that have kept his ordinances; seek righteousness, seek meekness: it may be ye will be hid in the day of Jehovah's anger.
 
@@ -48,7 +48,7 @@
 
 **[2:6]** And the sea-coast shall be pastures, with cottages for shepherds and folds for flocks.
 
-**[2:7]** And the coast shall be for the remnant of the house of Judah; they shall feed `their flocks' thereupon; in the houses of Ashkelon shall they lie down in the evening; for Jehovah their God will visit them, and bring back their captivity.
+**[2:7]** And the coast shall be for the remnant of the house of Judah; they shall feed \`their flocks' thereupon; in the houses of Ashkelon shall they lie down in the evening; for Jehovah their God will visit them, and bring back their captivity.
 
 **[2:8]** I have heard the reproach of Moab, and the revilings of the children of Ammon, wherewith they have reproached my people, and magnified themselves against their border.
 
@@ -62,7 +62,7 @@
 
 **[2:13]** And he will stretch out his hand against the north, and destroy Assyria, and will make Nineveh a desolation, and dry like the wilderness.
 
-**[2:14]** And herds shall lie down in the midst of her, all the beasts of the nations: both the pelican and the porcupine shall lodge in the capitals thereof; `their' voice shall sing in the windows; desolation shall be in the thresholds: for he hath laid bare the cedar-work.
+**[2:14]** And herds shall lie down in the midst of her, all the beasts of the nations: both the pelican and the porcupine shall lodge in the capitals thereof; \`their' voice shall sing in the windows; desolation shall be in the thresholds: for he hath laid bare the cedar-work.
 
 **[2:15]** This is the joyous city that dwelt carelessly, that said in her heart, I am, and there is none besides me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.
 
@@ -78,7 +78,7 @@
 
 **[3:6]** I have cut off nations; their battlements are desolate; I have made their streets waste, so that none passeth by; their cities are destroyed, so that there is no man, so that there is no inhabitant.
 
-**[3:7]** I said, Only fear thou me; receive correction; so her dwelling shall not be cut off, `according to' all that I have appointed concerning her: but they rose early and corrupted all their doings.
+**[3:7]** I said, Only fear thou me; receive correction; so her dwelling shall not be cut off, \`according to' all that I have appointed concerning her: but they rose early and corrupted all their doings.
 
 **[3:8]** Therefore wait ye for me, saith Jehovah, until the day that I rise up to the prey; for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger; for all the earth shall be devoured with the fire of my jealousy.
 
@@ -100,7 +100,7 @@
 
 **[3:17]** Jehovah thy God is in the midst of thee, a mighty one who will save; he will rejoice over thee with joy; he will rest in his love; he will joy over thee with singing.
 
-**[3:18]** I will gather them that sorrow for the solemn assembly, who were of thee; `to whom' the burden upon her was a reproach.
+**[3:18]** I will gather them that sorrow for the solemn assembly, who were of thee; \`to whom' the burden upon her was a reproach.
 
 **[3:19]** Behold, at that time I will deal with all them that afflict thee; and I will save that which is lame, and gather that which was driven away; and I will make them a praise and a name, whose shame hath been in all the earth.
 

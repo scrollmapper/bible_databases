@@ -18,9 +18,9 @@
 
 **[1:9]** every one who is transgressing, and is not remaining in the teaching of the Christ, hath not God; he who is remaining in the teaching of the Christ, this one hath both the Father and the Son;
 
-**[1:10]** if any one doth come unto you, and this teaching doth not bear, receive him not into the house, and say not to him, `Hail!'
+**[1:10]** if any one doth come unto you, and this teaching doth not bear, receive him not into the house, and say not to him, \`Hail!'
 
-**[1:11]** for he who is saying to him, `Hail,' hath fellowship with his evil works.
+**[1:11]** for he who is saying to him, \`Hail,' hath fellowship with his evil works.
 
 **[1:12]** Many things having to write to you, I did not intend through paper and ink, but I hope to come unto you, and speak mouth to mouth, that our joy may be full;
 

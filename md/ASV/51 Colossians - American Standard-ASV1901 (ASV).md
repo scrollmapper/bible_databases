@@ -2,7 +2,7 @@
 
 **[1:1]** Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother,
 
-**[1:2]** To the saints and faithful brethren in Christ `that are' at Colossae: Grace to you and peace from God our Father.
+**[1:2]** To the saints and faithful brethren in Christ \`that are' at Colossae: Grace to you and peace from God our Father.
 
 **[1:3]** We give thanks to God the Father of our Lord Jesus Christ, praying always for you,
 
@@ -10,13 +10,13 @@
 
 **[1:5]** because of the hope which is laid up for you in the heavens, whereof ye heard before in the word of the truth of the gospel,
 
-**[1:6]** which is come unto you; even as it is also in all the world bearing fruit and increasing, as `it doth' in you also, since the day ye heard and knew the grace of God in truth;
+**[1:6]** which is come unto you; even as it is also in all the world bearing fruit and increasing, as \`it doth' in you also, since the day ye heard and knew the grace of God in truth;
 
 **[1:7]** even as ye learned of Epaphras our beloved fellow-servant, who is a faithful minister of Christ on our behalf,
 
 **[1:8]** who also declared unto us your love in the Spirit.
 
-**[1:9]** For this cause we also, since the day we heard `it', do not cease to pray and make request for you, that ye may be filled with the knowledge of his will in all spiritual wisdom and understanding,
+**[1:9]** For this cause we also, since the day we heard \`it', do not cease to pray and make request for you, that ye may be filled with the knowledge of his will in all spiritual wisdom and understanding,
 
 **[1:10]** to walk worthily of the Lord unto all pleasing, bearing fruit in every good work, and increasing in the knowledge of God;
 
@@ -36,9 +36,9 @@
 
 **[1:18]** And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.
 
-**[1:19]** For it was the good pleasure `of the Father' that in him should all the fulness dwell;
+**[1:19]** For it was the good pleasure \`of the Father' that in him should all the fulness dwell;
 
-**[1:20]** and through him to reconcile all things unto himself, having made peace through the blood of his cross; through him, `I say', whether things upon the earth, or things in the heavens.
+**[1:20]** and through him to reconcile all things unto himself, having made peace through the blood of his cross; through him, \`I say', whether things upon the earth, or things in the heavens.
 
 **[1:21]** And you, being in time past alienated and enemies in your mind in your evil works,
 
@@ -50,7 +50,7 @@
 
 **[1:25]** whereof I was made a minister, according to the dispensation of God which was given me to you-ward, to fulfil the word of God,
 
-**[1:26]** `even' the mystery which hath been hid for ages and generations: but now hath it been manifested to his saints,
+**[1:26]** \`even' the mystery which hath been hid for ages and generations: but now hath it been manifested to his saints,
 
 **[1:27]** to whom God was pleased to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory:
 
@@ -60,7 +60,7 @@
 
 **[2:1]** For I would have you know how greatly I strive for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;
 
-**[2:2]** that their hearts may be comforted, they being knit together in love, and unto all riches of the full assurance of understanding, that they may know the mystery of God, `even' Christ,
+**[2:2]** that their hearts may be comforted, they being knit together in love, and unto all riches of the full assurance of understanding, that they may know the mystery of God, \`even' Christ,
 
 **[2:3]** in whom are all the treasures of wisdom and knowledge hidden.
 
@@ -68,7 +68,7 @@
 
 **[2:5]** For though I am absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 
-**[2:6]** As therefore ye received Christ Jesus the Lord, `so' walk in him,
+**[2:6]** As therefore ye received Christ Jesus the Lord, \`so' walk in him,
 
 **[2:7]** rooted and builded up in him, and established in your faith, even as ye were taught, abounding in thanksgiving.
 
@@ -82,7 +82,7 @@
 
 **[2:12]** having been buried with him in baptism, wherein ye were also raised with him through faith in the working of God, who raised him from the dead.
 
-**[2:13]** And you, being dead through your trespasses and the uncircumcision of your flesh, you, `I say', did he make alive together with him, having forgiven us all our trespasses;
+**[2:13]** And you, being dead through your trespasses and the uncircumcision of your flesh, you, \`I say', did he make alive together with him, having forgiven us all our trespasses;
 
 **[2:14]** having blotted out the bond written in ordinances that was against us, which was contrary to us: and he hath taken it out that way, nailing it to the cross;
 
@@ -102,7 +102,7 @@
 
 **[2:22]** (all which things are to perish with the using), after the precepts and doctrines of men?
 
-**[2:23]** Which things have indeed a show of wisdom in will-worship, and humility, and severity to the body; `but are' not of any value against the indulgence of the flesh.
+**[2:23]** Which things have indeed a show of wisdom in will-worship, and humility, and severity to the body; \`but are' not of any value against the indulgence of the flesh.
 
 **[3:1]** If then ye were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God.
 
@@ -110,7 +110,7 @@
 
 **[3:3]** For ye died, and your life is hid with Christ in God.
 
-**[3:4]** When Christ, `who is' our life, shall be manifested, then shall ye also with him be manifested in glory.
+**[3:4]** When Christ, \`who is' our life, shall be manifested, then shall ye also with him be manifested in glory.
 
 **[3:5]** Put to death therefore your members which are upon the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry;
 
@@ -130,13 +130,13 @@
 
 **[3:13]** forbearing one another, and forgiving each other, if any man have a complaint against any; even as the Lord forgave you, so also do ye:
 
-**[3:14]** and above all these things `put on' love, which is the bond of perfectness.
+**[3:14]** and above all these things \`put on' love, which is the bond of perfectness.
 
 **[3:15]** And let the peace of Christ rule in your hearts, to the which also ye were called in one body; and be ye thankful.
 
-**[3:16]** Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms `and' hymns `and' spiritual songs, singing with grace in your hearts unto God.
+**[3:16]** Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms \`and' hymns \`and' spiritual songs, singing with grace in your hearts unto God.
 
-**[3:17]** And whatsoever ye do, in word or in deed, `do' all in the name of the Lord Jesus, giving thanks to God the Father through him.
+**[3:17]** And whatsoever ye do, in word or in deed, \`do' all in the name of the Lord Jesus, giving thanks to God the Father through him.
 
 **[3:18]** Wives, be in subjection to your husbands, as is fitting in the Lord.
 
@@ -170,11 +170,11 @@
 
 **[4:8]** whom I have sent you for this very purpose, that ye may know our state, and that he may comfort your hearts;
 
-**[4:9]** together with Onesimus, the faithful and beloved brother, who is one of you. They shall make known unto you all things that `are done' here.
+**[4:9]** together with Onesimus, the faithful and beloved brother, who is one of you. They shall make known unto you all things that \`are done' here.
 
 **[4:10]** Aristarchus my fellow-prisoner saluteth you, and Mark, the cousin of Barnabas (touching whom ye received commandments; if he come unto you, receive him),
 
-**[4:11]** and Jesus that is called Justus, who are of the circumcision: these only `are my' fellow-workers unto the kingdom of God, men that have been a comfort unto me.
+**[4:11]** and Jesus that is called Justus, who are of the circumcision: these only \`are my' fellow-workers unto the kingdom of God, men that have been a comfort unto me.
 
 **[4:12]** Epaphras, who is one of you, a servant of Christ Jesus, saluteth you, always striving for you in his prayers, that ye may stand perfect and fully assured in all the will of God.
 
