@@ -22,7 +22,7 @@ Summary:
 
 - *bible-mysql.sql* (MySQL) is the main database and most feature-oriented due to contributions from developers. It is suggested you use that for most things, or at least convert the information from it.
 - *cross_references-mysql.sql* (MySQL) is the cross-reference table. It has been separated to become an optional feature. This is converted from the project at http://www.openbible.info/labs/cross-references/.
-- *bible-sqlite.db* (SQLite) is a basic simplified database for simpler applications (includes cross-references too).
+- *bible-sqlite.db* (SQLite) is converted from bible-mysql.sql using mysql2sqlite. (includes cross-references too).
 - *cross_references.txt* is the source cross-reference file obtained from http://www.openbible.info/labs/cross-references/
 
 
