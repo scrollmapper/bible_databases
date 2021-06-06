@@ -1,13 +1,13 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
-CREATE TABLE IF NOT EXISTS "book_info" (
-	"order"	INTEGER NOT NULL UNIQUE,
-	"title_short"	TEXT NOT NULL UNIQUE,
-	"title_full"	TEXT NOT NULL UNIQUE,
-	"abbreviation"	TEXT NOT NULL UNIQUE,
-	"category"	TEXT NOT NULL,
-	"otnt"	TEXT NOT NULL
-, "chapters"	INTEGER);
+CREATE TABLE IF NOT EXISTS `book_info` (
+	`order`	int NOT NULL AUTO_INCREMENT UNIQUE,
+	`title_short`	text NOT NULL UNIQUE,
+	`title_full`	text NOT NULL UNIQUE,
+	`abbreviation`	text NOT NULL UNIQUE,
+	`category`	text NOT NULL,
+	`otnt`	text NOT NULL,
+        `chapters` int,
+        PRIMARY KEY (`order`)
+);
 INSERT INTO book_info VALUES(1,'Genesis','The First Book of Moses Called Genesis','Gen.','Law','OT',50);
 INSERT INTO book_info VALUES(2,'Exodus','The Second Book of Moses Called Exodus','Ex.','Law','OT',40);
 INSERT INTO book_info VALUES(3,'Leviticus','The Third Book of Moses Called Leviticus','Lev.','Law','OT',27);
