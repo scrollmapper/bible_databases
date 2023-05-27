@@ -1,6 +1,6 @@
 Bible Versions and Cross-Reference Databases: mysql, sqlite, xml, csv, json, txt, md.
 ===============
-
+https://hackathon.bible/data/
 https://scrollmapper.github.io/
 
 Here you will find the following bible versions in sql, sqlite, xml, csv, json, txt, and md format:
