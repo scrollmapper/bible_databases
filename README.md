@@ -10,8 +10,9 @@ Here you will find the following bible versions in sql, sqlite, xml, csv, json, 
 - Bible in Basic English (BBE)
 - World English Bible (WEB)
 - Young's Literal Translation (YLT)
+- Literal Standard Version (LSV)
 
-All included Bible translations are in the public domain.
+All included Bible translations are in the public domain, except for LSV, which is Licensed under `CC BY-SA 4.0 DEED`.
 
 *Please let me know if any verses/text were inaccurately transferred in conversion.*
 
