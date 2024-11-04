@@ -4,7 +4,7 @@
 
 **[1:2]** Grace to you and peace from God our Father and the Lord Jesus Christ.
 
-**[1:3]** Blessed `be' the God and Father of our Lord Jesus Christ, who hath blessed us with every spiritual blessing in the heavenly `places' in Christ:
+**[1:3]** Blessed \`be' the God and Father of our Lord Jesus Christ, who hath blessed us with every spiritual blessing in the heavenly \`places' in Christ:
 
 **[1:4]** even as he chose us in him before the foundation of the world, that we should be holy and without blemish before him in love:
 
@@ -18,7 +18,7 @@
 
 **[1:9]** making known unto us the mystery of his will, according to his good pleasure which he purposed in him
 
-**[1:10]** unto a dispensation of the fulness of the times, to sum up all things in Christ, the things in the heavens, and the things upon the earth; in him, `I say,'
+**[1:10]** unto a dispensation of the fulness of the times, to sum up all things in Christ, the things in the heavens, and the things upon the earth; in him, \`I say,'
 
 **[1:11]** in whom also we were made a heritage, having been foreordained according to the purpose of him who worketh all things after the counsel of his will;
 
@@ -26,11 +26,11 @@
 
 **[1:13]** in whom ye also, having heard the word of the truth, the gospel of your salvation,-- in whom, having also believed, ye were sealed with the Holy Spirit of promise,
 
-**[1:14]** which is an earnest of our inheritance, unto the redemption of `God's' own possession, unto the praise of his glory.
+**[1:14]** which is an earnest of our inheritance, unto the redemption of \`God's' own possession, unto the praise of his glory.
 
-**[1:15]** For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which `ye show' toward all the saints,
+**[1:15]** For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which \`ye show' toward all the saints,
 
-**[1:16]** cease not to give thanks for you, making mention `of you' in my prayers;
+**[1:16]** cease not to give thanks for you, making mention \`of you' in my prayers;
 
 **[1:17]** that the God of our Lord Jesus Christ, the Father of glory, may give unto you a spirit of wisdom and revelation in the knowledge of him;
 
@@ -38,7 +38,7 @@
 
 **[1:19]** and what the exceeding greatness of his power to us-ward who believe, according to that working of the strength of his might
 
-**[1:20]** which he wrought in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly `places',
+**[1:20]** which he wrought in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly \`places',
 
 **[1:21]** far above all rule, and authority, and power, and dominion, and every name that is named, not only in this world, but also in that which is to come:
 
@@ -46,7 +46,7 @@
 
 **[1:23]** which is his body, the fulness of him that filleth all in all.
 
-**[2:1]** And you `did he make alive,' when ye were dead through your trespasses and sins,
+**[2:1]** And you \`did he make alive,' when ye were dead through your trespasses and sins,
 
 **[2:2]** wherein ye once walked according to the course of this world, according to the prince of the powers of the air, of the spirit that now worketh in the sons of disobedience;
 
@@ -56,11 +56,11 @@
 
 **[2:5]** even when we were dead through our trespasses, made us alive together with Christ (by grace have ye been saved),
 
-**[2:6]** and raised us up with him, and made us to sit with him in the heavenly `places', in Christ Jesus:
+**[2:6]** and raised us up with him, and made us to sit with him in the heavenly \`places', in Christ Jesus:
 
 **[2:7]** that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus:
 
-**[2:8]** for by grace have ye been saved through faith; and that not of yourselves, `it is' the gift of God;
+**[2:8]** for by grace have ye been saved through faith; and that not of yourselves, \`it is' the gift of God;
 
 **[2:9]** not of works, that no man should glory.
 
@@ -74,7 +74,7 @@
 
 **[2:14]** For he is our peace, who made both one, and brake down the middle wall of partition,
 
-**[2:15]** having abolished in the flesh the enmity, `even' the law of commandments `contained' in ordinances; that he might create in himself of the two one new man, `so' making peace;
+**[2:15]** having abolished in the flesh the enmity, \`even' the law of commandments \`contained' in ordinances; that he might create in himself of the two one new man, \`so' making peace;
 
 **[2:16]** and might reconcile them both in one body unto God through the cross, having slain the enmity thereby:
 
@@ -100,7 +100,7 @@
 
 **[3:5]** which in other generation was not made known unto the sons of men, as it hath now been revealed unto his holy apostles and prophets in the Spirit;
 
-**[3:6]** `to wit', that the Gentiles are fellow-heirs, and fellow-members of the body, and fellow-partakers of the promise in Christ Jesus through the gospel,
+**[3:6]** \`to wit', that the Gentiles are fellow-heirs, and fellow-members of the body, and fellow-partakers of the promise in Christ Jesus through the gospel,
 
 **[3:7]** whereof I was made a minister, according to the gift of that grace of God which was given me according to the working of his power.
 
@@ -108,7 +108,7 @@
 
 **[3:9]** and to make all men see what is the dispensation of the mystery which for ages hath been hid in God who created all things;
 
-**[3:10]** to the intent that now unto the principalities and the powers in the heavenly `places' might be made known through the church the manifold wisdom of God,
+**[3:10]** to the intent that now unto the principalities and the powers in the heavenly \`places' might be made known through the church the manifold wisdom of God,
 
 **[3:11]** according to the eternal purpose which he purposed in Christ Jesus our Lord:
 
@@ -130,7 +130,7 @@
 
 **[3:20]** Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,
 
-**[3:21]** unto him `be' the glory in the church and in Christ Jesus unto all generations for ever and ever. Amen.
+**[3:21]** unto him \`be' the glory in the church and in Christ Jesus unto all generations for ever and ever. Amen.
 
 **[4:1]** I therefore, the prisoner in the Lord, beseech you to walk worthily of the calling wherewith ye were called,
 
@@ -138,7 +138,7 @@
 
 **[4:3]** giving diligence to keep the unity of the Spirit in the bond of peace.
 
-**[4:4]** `There is' one body, and one Spirit, even as also ye were called in one hope of your calling;
+**[4:4]** \`There is' one body, and one Spirit, even as also ye were called in one hope of your calling;
 
 **[4:5]** one Lord, one faith, one baptism,
 
@@ -152,7 +152,7 @@
 
 **[4:10]** He that descended is the same also that ascended far above all the heavens, that he might fill all things.)
 
-**[4:11]** And he gave some `to be' apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
+**[4:11]** And he gave some \`to be' apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
 
 **[4:12]** for the perfecting of the saints, unto the work of ministering, unto the building up of the body of Christ:
 
@@ -160,9 +160,9 @@
 
 **[4:14]** that we may be no longer children, tossed to and fro and carried about with every wind of doctrine, by the sleight of men, in craftiness, after the wiles of error;
 
-**[4:15]** but speaking truth in love, we may grow up in all things into him, who is the head, `even' Christ;
+**[4:15]** but speaking truth in love, we may grow up in all things into him, who is the head, \`even' Christ;
 
-**[4:16]** from whom all the body fitly framed and knit together through that which every joint supplieth, according to the working in `due' measure of each several part, maketh the increase of the body unto the building up of itself in love.
+**[4:16]** from whom all the body fitly framed and knit together through that which every joint supplieth, according to the working in \`due' measure of each several part, maketh the increase of the body unto the building up of itself in love.
 
 **[4:17]** This I say therefore, and testify in the Lord, that ye no longer walk as the Gentiles also walk, in the vanity of their mind,
 
@@ -222,7 +222,7 @@
 
 **[5:13]** But all things when they are reproved are made manifest by the light: for everything that is made manifest is light.
 
-**[5:14]** Wherefore `he' saith, Awake, thou that sleepest, and arise from the dead, and Christ shall shine upon thee.
+**[5:14]** Wherefore \`he' saith, Awake, thou that sleepest, and arise from the dead, and Christ shall shine upon thee.
 
 **[5:15]** Look therefore carefully how ye walk, not as unwise, but as wise;
 
@@ -238,17 +238,17 @@
 
 **[5:21]** subjecting yourselves one to another in the fear of Christ.
 
-**[5:22]** Wives, `be in subjection' unto your own husbands, as unto the Lord.
+**[5:22]** Wives, \`be in subjection' unto your own husbands, as unto the Lord.
 
-**[5:23]** For the husband is the head of the wife, and Christ also is the head of the church, `being' himself the saviour of the body.
+**[5:23]** For the husband is the head of the wife, and Christ also is the head of the church, \`being' himself the saviour of the body.
 
-**[5:24]** But as the church is subject to Christ, so `let' the wives also `be' to their husbands in everything.
+**[5:24]** But as the church is subject to Christ, so \`let' the wives also \`be' to their husbands in everything.
 
 **[5:25]** Husbands, love your wives, even as Christ also loved the church, and gave himself up for it;
 
 **[5:26]** that he might sanctify it, having cleansed it by the washing of water with the word,
 
-**[5:27]** that he might present the church to himself a glorious `church', not having spot or wrinkle or any such thing; but that it should be holy and without blemish.
+**[5:27]** that he might present the church to himself a glorious \`church', not having spot or wrinkle or any such thing; but that it should be holy and without blemish.
 
 **[5:28]** Even so ought husbands also to love their own wives as their own bodies. He that loveth his own wife loveth himself:
 
@@ -260,7 +260,7 @@
 
 **[5:32]** This mystery is great: but I speak in regard of Christ and of the church.
 
-**[5:33]** Nevertheless do ye also severally love each one his own wife even as himself; and `let' the wife `see' that she fear her husband.
+**[5:33]** Nevertheless do ye also severally love each one his own wife even as himself; and \`let' the wife \`see' that she fear her husband.
 
 **[6:1]** Children, obey your parents in the Lord: for this is right.
 
@@ -276,7 +276,7 @@
 
 **[6:7]** with good will doing service, as unto the Lord, and not unto men:
 
-**[6:8]** knowing that whatsoever good thing each one doeth, the same shall he receive again from the Lord, whether `he be' bond or free.
+**[6:8]** knowing that whatsoever good thing each one doeth, the same shall he receive again from the Lord, whether \`he be' bond or free.
 
 **[6:9]** And, ye masters, do the same things unto them, and forbear threatening: knowing that he who is both their Master and yours is in heaven, and there is no respect of persons with him.
 
@@ -284,7 +284,7 @@
 
 **[6:11]** Put on the whole armor of God, that ye may be able to stand against the wiles of the devil.
 
-**[6:12]** For our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world-rulers of this darkness, against the spiritual `hosts' of wickedness in the heavenly `places'.
+**[6:12]** For our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world-rulers of this darkness, against the spiritual \`hosts' of wickedness in the heavenly \`places'.
 
 **[6:13]** Wherefore take up the whole armor of God, that ye may be able to withstand in the evil day, and, having done all, to stand.
 
@@ -292,7 +292,7 @@
 
 **[6:15]** and having shod your feet with the preparation of the gospel of peace;
 
-**[6:16]** withal taking up the shield of faith, wherewith ye shall be able to quench all the fiery darts of the evil `one'.
+**[6:16]** withal taking up the shield of faith, wherewith ye shall be able to quench all the fiery darts of the evil \`one'.
 
 **[6:17]** And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 
@@ -308,4 +308,4 @@
 
 **[6:23]** Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.
 
-**[6:24]** Grace be with all them that love our Lord Jesus Christ with `a love' incorruptible.
+**[6:24]** Grace be with all them that love our Lord Jesus Christ with \`a love' incorruptible.

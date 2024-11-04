@@ -28,13 +28,13 @@
 
 **[1:14]** but without thy mind I would do nothing; that thy goodness should not be as of necessity, but of free will.
 
-**[1:15]** For perhaps he was therefore parted `from thee' for a season, that thou shouldest have him for ever;
+**[1:15]** For perhaps he was therefore parted \`from thee' for a season, that thou shouldest have him for ever;
 
 **[1:16]** no longer as a servant, but more than a servant, a brother beloved, specially to me, but how much rather to thee, both in the flesh and in the Lord.
 
 **[1:17]** If then thou countest me a partner, receive him as myself.
 
-**[1:18]** But if he hath wronged the at all, or oweth `thee' aught, put that to mine account;
+**[1:18]** But if he hath wronged the at all, or oweth \`thee' aught, put that to mine account;
 
 **[1:19]** I Paul write it with mine own hand, I will repay it: that I say not unto thee that thou owest to me even thine own self besides.
 
@@ -46,6 +46,6 @@
 
 **[1:23]** Epaphras, my fellow-prisoner in Christ Jesus, saluteth thee;
 
-**[1:24]** `and so do' Mark, Aristarchus, Demas, Luke, my fellow-workers.
+**[1:24]** \`and so do' Mark, Aristarchus, Demas, Luke, my fellow-workers.
 
 **[1:25]** The grace of our Lord Jesus Christ be with your spirit. Amen.

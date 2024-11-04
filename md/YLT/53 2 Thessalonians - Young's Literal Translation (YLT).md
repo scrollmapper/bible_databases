@@ -10,7 +10,7 @@
 
 **[1:5]** a token of the righteous judgment of God, for your being counted worthy of the reign of God, for which also ye suffer,
 
-**[1:6]** since `it is' a righteous thing with God to give back to those troubling you -- trouble,
+**[1:6]** since \`it is' a righteous thing with God to give back to those troubling you -- trouble,
 
 **[1:7]** and to you who are troubled -- rest with us in the revelation of the Lord Jesus from heaven, with messengers of his power,
 
@@ -30,17 +30,17 @@
 
 **[2:3]** let not any one deceive you in any manner, because -- if the falling away may not come first, and the man of sin be revealed -- the son of the destruction,
 
-**[2:4]** who is opposing and is raising himself up above all called God or worshipped, so that he in the sanctuary of God as God hath sat down, shewing himself off that he is God -- `the day doth not come'.
+**[2:4]** who is opposing and is raising himself up above all called God or worshipped, so that he in the sanctuary of God as God hath sat down, shewing himself off that he is God -- \`the day doth not come'.
 
 **[2:5]** Do ye not remember that, being yet with you, these things I said to you?
 
 **[2:6]** and now, what is keeping down ye have known, for his being revealed in his own time,
 
-**[2:7]** for the secret of the lawlessness doth already work, only he who is keeping down now `will hinder' -- till he may be out of the way,
+**[2:7]** for the secret of the lawlessness doth already work, only he who is keeping down now \`will hinder' -- till he may be out of the way,
 
 **[2:8]** and then shall be revealed the Lawless One, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the manifestation of his presence,
 
-**[2:9]** `him,' whose presence is according to the working of the Adversary, in all power, and signs, and lying wonders,
+**[2:9]** \`him,' whose presence is according to the working of the Adversary, in all power, and signs, and lying wonders,
 
 **[2:10]** and in all deceitfulness of the unrighteousness in those perishing, because the love of the truth they did not receive for their being saved,
 
@@ -60,9 +60,9 @@
 
 **[3:1]** As to the rest, pray ye, brethren, concerning us, that the word of the Lord may run and may be glorified, as also with you,
 
-**[3:2]** and that we may be delivered from the unreasonable and evil men, for the faith `is' not of all;
+**[3:2]** and that we may be delivered from the unreasonable and evil men, for the faith \`is' not of all;
 
-**[3:3]** and stedfast is the Lord, who shall establish you, and shall guard `you' from the evil;
+**[3:3]** and stedfast is the Lord, who shall establish you, and shall guard \`you' from the evil;
 
 **[3:4]** and we have confidence in the Lord touching you, that the things that we command you ye both do and will do;
 
@@ -70,7 +70,7 @@
 
 **[3:6]** And we command you, brethren, in the name of our Lord Jesus Christ, to withdraw yourselves from every brother disorderly walking, and not after the deliverance that ye received from us,
 
-**[3:7]** for yourselves have known how it behoveth `you' to imitate us, because we did not act disorderly among you;
+**[3:7]** for yourselves have known how it behoveth \`you' to imitate us, because we did not act disorderly among you;
 
 **[3:8]** nor for nought did we eat bread of any one, but in labour and in travail, night and day working, not to be chargeable to any of you;
 
@@ -86,10 +86,10 @@
 
 **[3:14]** and if any one do not obey our word through the letter, this one note ye, and have no company with him, that he may be ashamed,
 
-**[3:15]** and as an enemy count `him' not, but admonish ye `him' as a brother;
+**[3:15]** and as an enemy count \`him' not, but admonish ye \`him' as a brother;
 
-**[3:16]** and may the Lord of the peace Himself give to you the peace always in every way; the Lord `is' with you all!
+**[3:16]** and may the Lord of the peace Himself give to you the peace always in every way; the Lord \`is' with you all!
 
 **[3:17]** The salutation by the hand of me, Paul, which is a sign in every letter; thus I write;
 
-**[3:18]** the grace of our Lord Jesus Christ `is' with you all! Amen.
+**[3:18]** the grace of our Lord Jesus Christ \`is' with you all! Amen.

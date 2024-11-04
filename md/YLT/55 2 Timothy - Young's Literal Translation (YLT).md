@@ -1,6 +1,6 @@
 # 2 Timothy - Young's Literal Translation (YLT)
 
-**[1:1]** Paul, an apostle of Jesus Christ, through the will of God, according to a promise of life that `is' in Christ Jesus,
+**[1:1]** Paul, an apostle of Jesus Christ, through the will of God, according to a promise of life that \`is' in Christ Jesus,
 
 **[1:2]** to Timotheus, beloved child: Grace, kindness, peace, from God the Father, and Christ Jesus our Lord!
 
@@ -24,7 +24,7 @@
 
 **[1:12]** for which cause also these things I suffer, but I am not ashamed, for I have known in whom I have believed, and have been persuaded that he is able that which I have committed to him to guard -- to that day.
 
-**[1:13]** The pattern hold thou of sound words, which from me thou didst hear, in faith and love that `is' in Christ Jesus;
+**[1:13]** The pattern hold thou of sound words, which from me thou didst hear, in faith and love that \`is' in Christ Jesus;
 
 **[1:14]** the good thing committed guard thou through the Holy Spirit that is dwelling in us;
 
@@ -36,7 +36,7 @@
 
 **[1:18]** may the Lord give to him to find kindness from the Lord in that day; and how many things in Ephesus he did minister thou dost very well know.
 
-**[2:1]** Thou, therefore, my child, be strong in the grace that `is' in Christ Jesus,
+**[2:1]** Thou, therefore, my child, be strong in the grace that \`is' in Christ Jesus,
 
 **[2:2]** and the things that thou didst hear from me through many witnesses, these things be committing to stedfast men, who shall be sufficient also others to teach;
 
@@ -54,15 +54,15 @@
 
 **[2:9]** in which I suffer evil -- unto bonds, as an evil-doer, but the word of God hath not been bound;
 
-**[2:10]** because of this all things do I endure, because of the choice ones, that they also salvation may obtain that `is' in Christ Jesus, with glory age-during.
+**[2:10]** because of this all things do I endure, because of the choice ones, that they also salvation may obtain that \`is' in Christ Jesus, with glory age-during.
 
-**[2:11]** Stedfast `is' the word: For if we died together -- we also shall live together;
+**[2:11]** Stedfast \`is' the word: For if we died together -- we also shall live together;
 
-**[2:12]** if we do endure together -- we shall also reign together; if we deny `him', he also shall deny us;
+**[2:12]** if we do endure together -- we shall also reign together; if we deny \`him', he also shall deny us;
 
 **[2:13]** if we are not stedfast, he remaineth stedfast; to deny himself he is not able.
 
-**[2:14]** These things remind `them' of, testifying fully before the Lord -- not to strive about words to nothing profitable, but to the subversion of those hearing;
+**[2:14]** These things remind \`them' of, testifying fully before the Lord -- not to strive about words to nothing profitable, but to the subversion of those hearing;
 
 **[2:15]** be diligent to present thyself approved to God -- a workman irreproachable, rightly dividing the word of the truth;
 
@@ -72,7 +72,7 @@
 
 **[2:18]** who concerning the truth did swerve, saying the rising again to have already been, and do overthrow the faith of some;
 
-**[2:19]** sure, nevertheless, hath the foundation of God stood, having this seal, `The Lord hath known those who are His,' and `Let him depart from unrighteousness -- every one who is naming the name of Christ.'
+**[2:19]** sure, nevertheless, hath the foundation of God stood, having this seal, \`The Lord hath known those who are His,' and \`Let him depart from unrighteousness -- every one who is naming the name of Christ.'
 
 **[2:20]** And in a great house there are not only vessels of gold and of silver, but also of wood and of earth, and some to honour, and some to dishonour:
 
@@ -116,9 +116,9 @@
 
 **[3:14]** And thou -- be remaining in the things which thou didst learn and wast entrusted with, having known from whom thou didst learn,
 
-**[3:15]** and because from a babe the Holy Writings thou hast known, which are able to make thee wise -- to salvation, through faith that `is' in Christ Jesus;
+**[3:15]** and because from a babe the Holy Writings thou hast known, which are able to make thee wise -- to salvation, through faith that \`is' in Christ Jesus;
 
-**[3:16]** every Writing `is' God-breathed, and profitable for teaching, for conviction, for setting aright, for instruction that `is' in righteousness,
+**[3:16]** every Writing \`is' God-breathed, and profitable for teaching, for conviction, for setting aright, for instruction that \`is' in righteousness,
 
 **[3:17]** that the man of God may be fitted -- for every good work having been completed.
 
@@ -156,7 +156,7 @@
 
 **[4:17]** and the Lord stood by me, and did strengthen me, that through me the preaching might be fully assured, and all the nations might hear, and I was freed out of the mouth of a lion,
 
-**[4:18]** and the Lord shall free me from every evil work, and shall save `me' -- to his heavenly kingdom; to whom `is' the glory to the ages of the ages! Amen.
+**[4:18]** and the Lord shall free me from every evil work, and shall save \`me' -- to his heavenly kingdom; to whom \`is' the glory to the ages of the ages! Amen.
 
 **[4:19]** Salute Prisca and Aquilas, and Onesiphorus' household;
 
@@ -164,4 +164,4 @@
 
 **[4:21]** be diligent to come before winter. Salute thee doth Eubulus, and Pudens, and Linus, and Claudia, and all the brethren.
 
-**[4:22]** The Lord Jesus Christ `is' with thy spirit; the grace `is' with you! Amen.
+**[4:22]** The Lord Jesus Christ \`is' with thy spirit; the grace \`is' with you! Amen.

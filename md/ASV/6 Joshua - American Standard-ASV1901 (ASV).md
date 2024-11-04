@@ -28,7 +28,7 @@
 
 **[1:14]** Your wives, your little ones, and your cattle, shall abide in the land which Moses gave you beyond the Jordan; but ye shall pass over before your brethren armed, all the mighty men of valor, and shall help them;
 
-**[1:15]** until Jehovah have given your brethren rest, as `he hath given' you, and they also have possessed the land which Jehovah your God giveth them: then ye shall return unto the land of your possession, and possess it, which Moses the servant of Jehovah gave you beyond the Jordan toward the sunrising.
+**[1:15]** until Jehovah have given your brethren rest, as \`he hath given' you, and they also have possessed the land which Jehovah your God giveth them: then ye shall return unto the land of your possession, and possess it, which Moses the servant of Jehovah gave you beyond the Jordan toward the sunrising.
 
 **[1:16]** And they answered Joshua, saying, All that thou hast commanded us we will do, and whithersoever thou sendest us we will go.
 
@@ -192,7 +192,7 @@
 
 **[5:13]** And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries?
 
-**[5:14]** And he said, Nay; but `as' prince of the host of Jehovah am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?
+**[5:14]** And he said, Nay; but \`as' prince of the host of Jehovah am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?
 
 **[5:15]** And the prince of Jehovah's host said unto Joshua, Put off thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so.
 
@@ -212,7 +212,7 @@
 
 **[6:8]** And it was so, that, when Joshua had spoken unto the people, the seven priests bearing the seven trumpets of rams' horns before Jehovah passed on, and blew the trumpets: and the ark of the covenant of Jehovah followed them.
 
-**[6:9]** And the armed men went before the priests that blew the trumpets, and the rearward went after the ark, `the priests' blowing the trumpets as they went.
+**[6:9]** And the armed men went before the priests that blew the trumpets, and the rearward went after the ark, \`the priests' blowing the trumpets as they went.
 
 **[6:10]** And Joshua commanded the people, saying, Ye shall not shout, nor let your voice be heard, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout.
 
@@ -220,7 +220,7 @@
 
 **[6:12]** And Joshua rose early in the morning, and the priests took up the ark of Jehovah.
 
-**[6:13]** And the seven priests bearing the seven trumpets of rams' horns before the ark of Jehovah went on continually, and blew the trumpets: and the armed men went before them; and the rearward came after the ark of Jehovah, `the priests' blowing the trumpets as they went.
+**[6:13]** And the seven priests bearing the seven trumpets of rams' horns before the ark of Jehovah went on continually, and blew the trumpets: and the armed men went before them; and the rearward came after the ark of Jehovah, \`the priests' blowing the trumpets as they went.
 
 **[6:14]** And the second day they compassed the city once, and returned into the camp: so they did six days.
 
@@ -234,7 +234,7 @@
 
 **[6:19]** But all the silver, and gold, and vessels of brass and iron, are holy unto Jehovah: they shall come into the treasury of Jehovah.
 
-**[6:20]** So the people shouted, and `the priests' blew the trumpets; and it came to pass, when the people heard the sound of the trumpet, that the people shouted with a great shout, and the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
+**[6:20]** So the people shouted, and \`the priests' blew the trumpets; and it came to pass, when the people heard the sound of the trumpet, that the people shouted with a great shout, and the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 
 **[6:21]** And they utterly destroyed all that was in the city, both man and woman, both young and old, and ox, and sheep, and ass, with the edge of the sword.
 
@@ -258,7 +258,7 @@
 
 **[7:4]** So there went up thither of the people about three thousand men: and they fled before the men of Ai.
 
-**[7:5]** And the men of Ai smote of them about thirty and six men; and they chased them `from' before the gate even unto Shebarim, and smote them at the descent; and the hearts of the people melted, and became as water.
+**[7:5]** And the men of Ai smote of them about thirty and six men; and they chased them \`from' before the gate even unto Shebarim, and smote them at the descent; and the hearts of the people melted, and became as water.
 
 **[7:6]** And Joshua rent his clothes, and fell to the earth upon his face before the ark of Jehovah until the evening, he and the elders of Israel; and they put dust upon their heads.
 
@@ -322,7 +322,7 @@
 
 **[8:10]** And Joshua arose up early in the morning, and mustered the people, and went up, he and the elders of Israel, before the people to Ai.
 
-**[8:11]** And all the people, `even' the `men of' war that were with him, went up, and drew nigh, and came before the city, and encamped on the north side of Ai: now there was a valley between him and Ai.
+**[8:11]** And all the people, \`even' the \`men of' war that were with him, went up, and drew nigh, and came before the city, and encamped on the north side of Ai: now there was a valley between him and Ai.
 
 **[8:12]** And he took about five thousand men, and set them in ambush between Beth-el and Ai, on the west side of the city.
 
@@ -442,7 +442,7 @@
 
 **[10:8]** And Jehovah said unto Joshua, Fear them not: for I have delivered them into thy hands; there shall not a man of them stand before thee.
 
-**[10:9]** Joshua therefore came upon them suddenly; `for' he went up from Gilgal all the night.
+**[10:9]** Joshua therefore came upon them suddenly; \`for' he went up from Gilgal all the night.
 
 **[10:10]** And Jehovah discomfited them before Israel, and he slew them with a great slaughter at Gibeon, and chased them by the way of the ascent of Beth-horon, and smote them to Azekah, and unto Makkedah.
 
@@ -560,7 +560,7 @@
 
 **[12:1]** Now these are the kings of the land, whom the children of Israel smote, and possessed their land beyond the Jordan toward the sunrising, from the valley of the Arnon unto mount Hermon, and all the Arabah eastward:
 
-**[12:2]** Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is on the edge of the valley of the Arnon, and `the city that is in' the middle of the valley, and half Gilead, even unto the river Jabbok, the border of the children of Ammon;
+**[12:2]** Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is on the edge of the valley of the Arnon, and \`the city that is in' the middle of the valley, and half Gilead, even unto the river Jabbok, the border of the children of Ammon;
 
 **[12:3]** and the Arabah unto the sea of Chinneroth, eastward, and unto the sea of the Arabah, even the Salt Sea, eastward, the way to Beth-jeshimoth; and on the south, under the slopes of Pisgah:
 
@@ -610,7 +610,7 @@
 
 **[13:2]** This is the land that yet remaineth: all the regions of the Philistines, and all the Geshurites;
 
-**[13:3]** from the Shihor, which is before Egypt, even unto the border of Ekron northward, `which' is reckoned to the Canaanites; the five lords of the Philistines; the Gazites, and the Ashdodites, the Ashkelonites, the Gittites, and the Ekronites; also the Avvim,
+**[13:3]** from the Shihor, which is before Egypt, even unto the border of Ekron northward, \`which' is reckoned to the Canaanites; the five lords of the Philistines; the Gazites, and the Ashdodites, the Ashkelonites, the Gittites, and the Ekronites; also the Avvim,
 
 **[13:4]** on the south; all the land of the Canaanites, and Mearah that belongeth to the Sidonians, unto Aphek, to the border of the Amorites;
 
@@ -650,7 +650,7 @@
 
 **[13:22]** Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among the rest of their slain.
 
-**[13:23]** And the border of the children of Reuben was the Jordan, and the border `thereof'. This was the inheritance of the children of Reuben according to their families, the cities and the villages thereof.
+**[13:23]** And the border of the children of Reuben was the Jordan, and the border \`thereof'. This was the inheritance of the children of Reuben according to their families, the cities and the villages thereof.
 
 **[13:24]** And Moses gave unto the tribe of Gad, unto the children of Gad, according to their families.
 
@@ -658,11 +658,11 @@
 
 **[13:26]** and from Heshbon unto Ramath-mizpeh, and Betonim; and from Mahanaim unto the border of Debir;
 
-**[13:27]** and in the valley, Beth-haram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, the Jordan and the border `thereof', unto the uttermost part of the sea of Chinnereth beyond the Jordan eastward.
+**[13:27]** and in the valley, Beth-haram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, the Jordan and the border \`thereof', unto the uttermost part of the sea of Chinnereth beyond the Jordan eastward.
 
 **[13:28]** This is the inheritance of the children of Gad according to their families, the cities and the villages thereof.
 
-**[13:29]** And Moses gave `inheritance' unto the half-tribe of Manasseh: and it was for the half-tribe of the children of Manasseh according to their families.
+**[13:29]** And Moses gave \`inheritance' unto the half-tribe of Manasseh: and it was for the half-tribe of the children of Manasseh according to their families.
 
 **[13:30]** And their border was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, threescore cities:
 
@@ -672,7 +672,7 @@
 
 **[13:33]** But unto the tribe of Levi Moses gave no inheritance: Jehovah, the God of Israel, is their inheritance, as he spake unto them.
 
-**[14:1]** And these are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers' `houses' of the tribes of the children of Israel, distributed unto them,
+**[14:1]** And these are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers' \`houses' of the tribes of the children of Israel, distributed unto them,
 
 **[14:2]** by the lot of their inheritance, as Jehovah commanded by Moses, for the nine tribes, and for the half-tribe.
 
@@ -700,7 +700,7 @@
 
 **[14:14]** Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite unto this day; because that he wholly followed Jehovah, the God of Israel.
 
-**[14:15]** Now the name of Hebron beforetime was Kiriath-arba; `which Arba was' the greatest man among the Anakim. And the land had rest from war.
+**[14:15]** Now the name of Hebron beforetime was Kiriath-arba; \`which Arba was' the greatest man among the Anakim. And the land had rest from war.
 
 **[15:1]** And the lot for the tribe of the children of Judah according to their families was unto the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south.
 
@@ -724,9 +724,9 @@
 
 **[15:11]** and the border went out unto the side of Ekron northward; and the border extended to Shikkeron, and passed along to mount Baalah, and went out at Jabneel; and the goings out of the border were at the sea.
 
-**[15:12]** And the west border was to the great sea, and the border `thereof'. This is the border of the children of Judah round about according to their families.
+**[15:12]** And the west border was to the great sea, and the border \`thereof'. This is the border of the children of Judah round about according to their families.
 
-**[15:13]** And unto Caleb the son of Jephunneh he gave a portion among the children of Judah, according to the commandment of Jehovah to Joshua, even Kiriath-arba, `which Arba was' the father of Anak (the same is Hebron).
+**[15:13]** And unto Caleb the son of Jephunneh he gave a portion among the children of Judah, according to the commandment of Jehovah to Joshua, even Kiriath-arba, \`which Arba was' the father of Anak (the same is Hebron).
 
 **[15:14]** And Caleb drove out thence the three sons of Anak: Sheshai, and Ahiman, and Talmai, the children of Anak.
 
@@ -736,7 +736,7 @@
 
 **[15:17]** And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.
 
-**[15:18]** And it came to pass, when she came `unto him', that she moved him to ask of her father a field: and she alighted from off her ass; and Caleb said, What wouldest thou?
+**[15:18]** And it came to pass, when she came \`unto him', that she moved him to ask of her father a field: and she alighted from off her ass; and Caleb said, What wouldest thou?
 
 **[15:19]** And she said, Give me a blessing; for that thou hast set me in the land of the South, give me also springs of water. And he gave her the upper springs and the nether springs.
 
@@ -794,7 +794,7 @@
 
 **[15:46]** from Ekron even unto the sea, all that were by the side of Ashdod, with their villages.
 
-**[15:47]** Ashdod, its towns and its villages; Gaza, its towns and its villages; unto the brook of Egypt, and the great sea, and the border `thereof'.
+**[15:47]** Ashdod, its towns and its villages; Gaza, its towns and its villages; unto the brook of Egypt, and the great sea, and the border \`thereof'.
 
 **[15:48]** And in the hill-country, Shamir, and Jattir, and Socoh,
 
@@ -836,7 +836,7 @@
 
 **[16:4]** And the children of Joseph, Manasseh and Ephraim, took their inheritance.
 
-**[16:5]** And the border of the children of Ephraim according to their families was `thus': the border of their inheritance eastward was Ataroth-addar, unto Beth-horon the upper;
+**[16:5]** And the border of the children of Ephraim according to their families was \`thus': the border of their inheritance eastward was Ataroth-addar, unto Beth-horon the upper;
 
 **[16:6]** and the border went out westward at Michmethath on the north; and the border turned about eastward unto Taanath-shiloh, and passed along it on the east of Janoah;
 
@@ -848,9 +848,9 @@
 
 **[16:10]** And they drove not out the Canaanites that dwelt in Gezer: but the Canaanites dwell in the midst of Ephraim unto this day, and are become servants to do taskwork.
 
-**[17:1]** And `this' was the lot for the tribe of Manasseh; for he was the first-born of Joseph. As for Machir the first-born of Manasseh, the father of Gilead, because he was a man of war, therefore he had Gilead and Bashan.
+**[17:1]** And \`this' was the lot for the tribe of Manasseh; for he was the first-born of Joseph. As for Machir the first-born of Manasseh, the father of Gilead, because he was a man of war, therefore he had Gilead and Bashan.
 
-**[17:2]** So `the lot' was for the rest of the children of Manasseh according to their families: for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph according to their families.
+**[17:2]** So \`the lot' was for the rest of the children of Manasseh according to their families: for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph according to their families.
 
 **[17:3]** But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these are the names of his daughters: Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
 
@@ -870,7 +870,7 @@
 
 **[17:11]** And Manasseh had in Issachar and in Asher Beth-shean and its towns, and Ibleam and its towns, and the inhabitants of Dor and its towns, and the inhabitants of En-dor and its towns, and the inhabitants of Taanach and its towns, and the inhabitants of Megiddo and its towns, even the three heights.
 
-**[17:12]** Yet the children of Manasseh could not drive out `the inhabitants of' those cities; but the Canaanites would dwell in that land.
+**[17:12]** Yet the children of Manasseh could not drive out \`the inhabitants of' those cities; but the Canaanites would dwell in that land.
 
 **[17:13]** And it came to pass, when the children of Israel were waxed strong, that they put the Canaanites to taskwork, and did not utterly drive them out.
 
@@ -894,7 +894,7 @@
 
 **[18:5]** And they shall divide it into seven portions: Judah shall abide in his border on the south, and the house of Joseph shall abide in their border on the north.
 
-**[18:6]** And ye shall describe the land into seven portions, and bring `the description' hither to me; and I will cast lots for you here before Jehovah our God.
+**[18:6]** And ye shall describe the land into seven portions, and bring \`the description' hither to me; and I will cast lots for you here before Jehovah our God.
 
 **[18:7]** For the Levites have no portion among you; for the priesthood of Jehovah is their inheritance: and Gad and Reuben and the half-tribe of Manasseh have received their inheritance beyond the Jordan eastward, which Moses the servant of Jehovah gave them.
 
@@ -910,7 +910,7 @@
 
 **[18:13]** And the border passed along from thence to Luz, to the side of Luz (the same is Beth-el), southward; and the border went down to Ataroth-addar, by the mountain that lieth on the south of Beth-horon the nether.
 
-**[18:14]** And the border extended `thence', and turned about on the west quarter southward, from the mountain that lieth before Beth-horon southward; and the goings out thereof were at Kiriath-baal (the same is Kiriath-jearim), a city of the children of Judah: this was the west quarter.
+**[18:14]** And the border extended \`thence', and turned about on the west quarter southward, from the mountain that lieth before Beth-horon southward; and the goings out thereof were at Kiriath-baal (the same is Kiriath-jearim), a city of the children of Judah: this was the west quarter.
 
 **[18:15]** And the south quarter was from the uttermost part of Kiriath-jearim; and the border went out westward, and went out to the fountain of the waters of Nephtoah;
 
@@ -938,7 +938,7 @@
 
 **[18:27]** and Rekem, and Irpeel, and Taralah,
 
-**[18:28]** and Zelah, Eleph, and the Jebusite (the same is Jerusalem), Gibeath, `and' Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.
+**[18:28]** and Zelah, Eleph, and the Jebusite (the same is Jerusalem), Gibeath, \`and' Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.
 
 **[19:1]** And the second lot came out for Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was in the midst of the inheritance of the children of Judah.
 
@@ -1040,13 +1040,13 @@
 
 **[19:50]** according to the commandment of Jehovah they gave him the city which he asked, even Timnath-serah in the hill-country of Ephraim; and he built the city, and dwelt therein.
 
-**[19:51]** These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers' `houses' of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before Jehovah, at the door of the tent of meeting. So they made an end of dividing the land.
+**[19:51]** These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers' \`houses' of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before Jehovah, at the door of the tent of meeting. So they made an end of dividing the land.
 
 **[20:1]** And Jehovah spake unto Joshua, saying,
 
 **[20:2]** Speak to the children of Israel, saying, Assign you the cities of refuge, whereof I spake unto you by Moses,
 
-**[20:3]** that the manslayer that killeth any person unwittingly `and' unawares may flee thither: and they shall be unto you for a refuge from the avenger of blood.
+**[20:3]** that the manslayer that killeth any person unwittingly \`and' unawares may flee thither: and they shall be unto you for a refuge from the avenger of blood.
 
 **[20:4]** And he shall flee unto one of those cities, and shall stand at the entrance of the gate of the city, and declare his cause in the ears of the elders of that city; and they shall take him into the city unto them, and give him a place, that he may dwell among them.
 
@@ -1060,7 +1060,7 @@
 
 **[20:9]** These were the appointed cities for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person unwittingly might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.
 
-**[21:1]** Then came near the heads of fathers' `houses' of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of fathers' `houses' of the tribes of the children of Israel;
+**[21:1]** Then came near the heads of fathers' \`houses' of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of fathers' \`houses' of the tribes of the children of Israel;
 
 **[21:2]** and they spake unto them at Shiloh in the land of Canaan, saying, Jehovah commanded Moses to give us cities to dwell in, with the suburbs thereof for our cattle.
 
@@ -1076,11 +1076,11 @@
 
 **[21:8]** And the children of Israel gave by lot unto the Levites these cities with their suburbs, as Jehovah commanded by Moses.
 
-**[21:9]** And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are `here' mentioned by name:
+**[21:9]** And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are \`here' mentioned by name:
 
 **[21:10]** and they were for the children of Aaron, of the families of the Kohathites, who were of the children of Levi; for theirs was the first lot.
 
-**[21:11]** And they gave them Kiriath-arba, `which Arba was' the father of Anak (the same is Hebron), in the hill-country of Judah, with the suburbs thereof round about it.
+**[21:11]** And they gave them Kiriath-arba, \`which Arba was' the father of Anak (the same is Hebron), in the hill-country of Judah, with the suburbs thereof round about it.
 
 **[21:12]** But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.
 
@@ -1090,7 +1090,7 @@
 
 **[21:15]** and Holon with its suburbs, and Debir with its suburbs,
 
-**[21:16]** and Ain with its suburbs, and Juttah with its suburbs, `and' Beth-shemesh with its suburbs; nine cities out of those two tribes.
+**[21:16]** and Ain with its suburbs, and Juttah with its suburbs, \`and' Beth-shemesh with its suburbs; nine cities out of those two tribes.
 
 **[21:17]** And out of the tribe of Benjamin, Gibeon with its suburbs, Geba with its suburbs,
 
@@ -1112,7 +1112,7 @@
 
 **[21:26]** All the cities of the families of the rest of the children of Kohath were ten with their suburbs.
 
-**[21:27]** And unto the children of Gershon, of the families of the Levites, out of the half-tribe of Manasseh `they gave' Golan in Bashan with its suburbs, the city of refuge for the manslayer, and Be-eshterah with its suburbs; two cities.
+**[21:27]** And unto the children of Gershon, of the families of the Levites, out of the half-tribe of Manasseh \`they gave' Golan in Bashan with its suburbs, the city of refuge for the manslayer, and Be-eshterah with its suburbs; two cities.
 
 **[21:28]** And out of the tribe of Issachar, Kishion with its suburbs, Daberath with its suburbs,
 
@@ -1138,7 +1138,7 @@
 
 **[21:39]** Heshbon with its suburbs, Jazer with its suburbs; four cities in all.
 
-**[21:40]** All `these were' the cities of the children of Merari according to their families, even the rest of the families of the Levites; and their lot was twelve cities.
+**[21:40]** All \`these were' the cities of the children of Merari according to their families, even the rest of the families of the Levites; and their lot was twelve cities.
 
 **[21:41]** All the cities of the Levites in the midst of the possession of the children of Israel were forty and eight cities with their suburbs.
 
@@ -1162,7 +1162,7 @@
 
 **[22:6]** So Joshua blessed them, and sent them away; and they went unto their tents.
 
-**[22:7]** Now to the one half-tribe of Manasseh Moses had given `inheritance' in Bashan; but unto the other half gave Joshua among their brethren beyond the Jordan westward; moreover when Joshua sent them away unto their tents, he blessed them,
+**[22:7]** Now to the one half-tribe of Manasseh Moses had given \`inheritance' in Bashan; but unto the other half gave Joshua among their brethren beyond the Jordan westward; moreover when Joshua sent them away unto their tents, he blessed them,
 
 **[22:8]** and spake unto them, saying, Return with much wealth unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brethren.
 
@@ -1196,7 +1196,7 @@
 
 **[22:23]** that we have built us an altar to turn away from following Jehovah; or if to offer thereon burnt-offering or meal-offering, or if to offer sacrifices of peace-offerings thereon, let Jehovah himself require it;
 
-**[22:24]** and if we have not `rather' out of carefulness done this, `and' of purpose, saying, In time to come your children might speak unto our children, saying, What have ye to do with Jehovah, the God of Israel?
+**[22:24]** and if we have not \`rather' out of carefulness done this, \`and' of purpose, saying, In time to come your children might speak unto our children, saying, What have ye to do with Jehovah, the God of Israel?
 
 **[22:25]** for Jehovah hath made the Jordan a border between us and you, ye children of Reuben and children of Gad; ye have no portion in Jehovah: so might your children make our children cease from fearing Jehovah.
 
@@ -1216,7 +1216,7 @@
 
 **[22:33]** And the thing pleased the children of Israel; and the children of Israel blessed God, and spake no more of going up against them to war, to destroy the land wherein the children of Reuben and the children of Gad dwelt.
 
-**[22:34]** And the children of Reuben and the children of Gad called the altar `Ed': For, `said they', it is a witness between us that Jehovah is God.
+**[22:34]** And the children of Reuben and the children of Gad called the altar \`Ed': For, \`said they', it is a witness between us that Jehovah is God.
 
 **[23:1]** And it came to pass after many days, when Jehovah had given rest unto Israel from all their enemies round about, and Joshua was old and well stricken in years;
 
@@ -1230,7 +1230,7 @@
 
 **[23:6]** Therefore be ye very courageous to keep and to do all that is written in the book of the law of Moses, that ye turn not aside therefrom to the right hand or to the left;
 
-**[23:7]** that ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear `by them', neither serve them, nor bow down yourselves unto them;
+**[23:7]** that ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear \`by them', neither serve them, nor bow down yourselves unto them;
 
 **[23:8]** but cleave unto Jehovah your God, as ye have done unto this day.
 
@@ -1294,7 +1294,7 @@
 
 **[24:22]** And Joshua said unto the people, Ye are witnesses against yourselves that ye have chosen you Jehovah, to serve him. And they said, We are witnesses.
 
-**[24:23]** Now therefore put away, `said he', the foreign gods which are among you, and incline your heart unto Jehovah, the God of Israel.
+**[24:23]** Now therefore put away, \`said he', the foreign gods which are among you, and incline your heart unto Jehovah, the God of Israel.
 
 **[24:24]** And the people said unto Joshua, Jehovah our God will we serve, and unto his voice will we hearken.
 

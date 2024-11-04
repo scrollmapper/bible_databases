@@ -14,7 +14,7 @@
 
 **[1:7]** and in the piety the brotherly kindness, and in the brotherly kindness the love;
 
-**[1:8]** for these things being to you and abounding, do make `you' neither inert nor unfruitful in regard to the acknowledging of our Lord Jesus Christ,
+**[1:8]** for these things being to you and abounding, do make \`you' neither inert nor unfruitful in regard to the acknowledging of our Lord Jesus Christ,
 
 **[1:9]** for he with whom these things are not present is blind, dim-sighted, having become forgetful of the cleansing of his old sins;
 
@@ -24,7 +24,7 @@
 
 **[1:12]** Wherefore, I will not be careless always to remind you concerning these things, though, having known them, and having been established in the present truth,
 
-**[1:13]** and I think right, so long as I am in this tabernacle, to stir you up in reminding `you',
+**[1:13]** and I think right, so long as I am in this tabernacle, to stir you up in reminding \`you',
 
 **[1:14]** having known that soon is the laying aside of my tabernacle, even as also our Lord Jesus Christ did shew to me,
 
@@ -32,7 +32,7 @@
 
 **[1:16]** For, skilfully devised fables not having followed out, we did make known to you the power and presence of our Lord Jesus Christ, but eye-witnesses having become of his majesty --
 
-**[1:17]** for having received from God the Father honour and glory, such a voice being borne to him by the excellent glory: `This is My Son -- the beloved, in whom I was well pleased;'
+**[1:17]** for having received from God the Father honour and glory, such a voice being borne to him by the excellent glory: \`This is My Son -- the beloved, in whom I was well pleased;'
 
 **[1:18]** and this voice we -- we did hear, out of heaven borne, being with him in the holy mount.
 
@@ -48,11 +48,11 @@
 
 **[2:3]** and in covetousness, with moulded words, of you they shall make merchandise, whose judgment of old is not idle, and their destruction doth not slumber.
 
-**[2:4]** For if God messengers who sinned did not spare, but with chains of thick gloom, having cast `them' down to Tartarus, did deliver `them' to judgment, having been reserved,
+**[2:4]** For if God messengers who sinned did not spare, but with chains of thick gloom, having cast \`them' down to Tartarus, did deliver \`them' to judgment, having been reserved,
 
 **[2:5]** and the old world did not spare, but the eighth person, Noah, of righteousness a preacher, did keep, a flood on the world of the impious having brought,
 
-**[2:6]** and the cities of Sodom and Gomorrah having turned to ashes, with an overthrow did condemn, an example to those about to be impious having set `them';
+**[2:6]** and the cities of Sodom and Gomorrah having turned to ashes, with an overthrow did condemn, an example to those about to be impious having set \`them';
 
 **[2:7]** and righteous Lot, worn down by the conduct in lasciviousness of the impious, He did rescue,
 
@@ -70,7 +70,7 @@
 
 **[2:14]** having eyes full of adultery, and unable to cease from sin, enticing unstable souls, having an heart exercised in covetousnesses, children of a curse,
 
-**[2:15]** having forsaken a right way, they did go astray, having followed in the way of Balaam the `son' of Bosor, who a reward of unrighteousness did love,
+**[2:15]** having forsaken a right way, they did go astray, having followed in the way of Balaam the \`son' of Bosor, who a reward of unrighteousness did love,
 
 **[2:16]** and had a rebuke of his own iniquity -- a dumb ass, in man's voice having spoken, did forbid the madness of the prophet.
 
@@ -82,17 +82,17 @@
 
 **[2:20]** for, if having escaped from the pollutions of the world, in the acknowledging of the Lord and Saviour Jesus Christ, and by these again being entangled, they have been overcome, become to them hath the last things worse than the first,
 
-**[2:21]** for it were better to them not to have acknowledged the way of the righteousness, than having acknowledged `it', to turn back from the holy command delivered to them,
+**[2:21]** for it were better to them not to have acknowledged the way of the righteousness, than having acknowledged \`it', to turn back from the holy command delivered to them,
 
-**[2:22]** and happened to them hath that of the true similitude; `A dog did turn back upon his own vomit,' and, `A sow having bathed herself -- to rolling in mire.'
+**[2:22]** and happened to them hath that of the true similitude; \`A dog did turn back upon his own vomit,' and, \`A sow having bathed herself -- to rolling in mire.'
 
-**[3:1]** This, now, beloved, a second letter to you I write, in both which I stir up your pure mind in reminding `you',
+**[3:1]** This, now, beloved, a second letter to you I write, in both which I stir up your pure mind in reminding \`you',
 
 **[3:2]** to be mindful of the sayings said before by the holy prophets, and of the command of us the apostles of the Lord and Saviour,
 
 **[3:3]** this first knowing, that there shall come in the latter end of the days scoffers, according to their own desires going on,
 
-**[3:4]** and saying, `Where is the promise of his presence? for since the fathers did fall asleep, all things so remain from the beginning of the creation;'
+**[3:4]** and saying, \`Where is the promise of his presence? for since the fathers did fall asleep, all things so remain from the beginning of the creation;'
 
 **[3:5]** for this is unobserved by them willingly, that the heavens were of old, and the earth out of water and through water standing together by the word of God,
 
@@ -100,7 +100,7 @@
 
 **[3:7]** and the present heavens and the earth, by the same word are treasured, for fire being kept to a day of judgment and destruction of the impious men.
 
-**[3:8]** And this one thing let not be unobserved by you, beloved, that one day with the Lord `is' as a thousand years, and a thousand years as one day;
+**[3:8]** And this one thing let not be unobserved by you, beloved, that one day with the Lord \`is' as a thousand years, and a thousand years as one day;
 
 **[3:9]** the Lord is not slow in regard to the promise, as certain count slowness, but is long-suffering to us, not counselling any to be lost but all to pass on to reformation,
 
@@ -120,4 +120,4 @@
 
 **[3:17]** Ye, then, beloved, knowing before, take heed, lest, together with the error of the impious being led away, ye may fall from your own stedfastness,
 
-**[3:18]** and increase ye in grace, and in the knowledge of our Lord and Saviour Jesus Christ; to him `is' the glory both now, and to the day of the age! Amen.
+**[3:18]** and increase ye in grace, and in the knowledge of our Lord and Saviour Jesus Christ; to him \`is' the glory both now, and to the day of the age! Amen.

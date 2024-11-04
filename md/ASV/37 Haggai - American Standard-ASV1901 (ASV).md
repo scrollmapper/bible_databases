@@ -2,7 +2,7 @@
 
 **[1:1]** In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of Jehovah by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying,
 
-**[1:2]** Thus speaketh Jehovah of hosts, saying, This people say, It is not the time `for us' to come, the time for Jehovah's house to be built.
+**[1:2]** Thus speaketh Jehovah of hosts, saying, This people say, It is not the time \`for us' to come, the time for Jehovah's house to be built.
 
 **[1:3]** Then came the word of Jehovah by Haggai the prophet, saying,
 
@@ -10,7 +10,7 @@
 
 **[1:5]** Now therefore thus saith Jehovah of hosts: Consider your ways.
 
-**[1:6]** Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages `to put it' into a bag with holes.
+**[1:6]** Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages \`to put it' into a bag with holes.
 
 **[1:7]** Thus saith Jehovah of hosts: Consider your ways.
 
@@ -28,9 +28,9 @@
 
 **[1:14]** And Jehovah stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people; and they came and did work on the house of Jehovah of hosts, their God,
 
-**[1:15]** in the four and twentieth day of the month, in the sixth `month', in the second year of Darius the king.
+**[1:15]** in the four and twentieth day of the month, in the sixth \`month', in the second year of Darius the king.
 
-**[2:1]** In the seventh `month', in the one and twentieth `day' of the month, came the word of Jehovah by Haggai the prophet, saying,
+**[2:1]** In the seventh \`month', in the one and twentieth \`day' of the month, came the word of Jehovah by Haggai the prophet, saying,
 
 **[2:2]** Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to the remnant of the people, saying,
 
@@ -38,7 +38,7 @@
 
 **[2:4]** Yet now be strong, O Zerubbabel, saith Jehovah; and be strong, O Joshua, son of Jehozadak, the high priest; and be strong, all ye people of the land, saith Jehovah, and work: for I am with you, saith Jehovah of hosts,
 
-**[2:5]** `according to' the word that I covenanted with you when ye came out of Egypt, and my Spirit abode among you: fear ye not.
+**[2:5]** \`according to' the word that I covenanted with you when ye came out of Egypt, and my Spirit abode among you: fear ye not.
 
 **[2:6]** For thus saith Jehovah of hosts: Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;
 
@@ -48,7 +48,7 @@
 
 **[2:9]** The latter glory of this house shall be greater than the former, saith Jehovah of hosts; and in this place will I give peace, saith Jehovah of hosts.
 
-**[2:10]** In the four and twentieth `day' of the ninth `month', in the second year of Darius, came the word of Jehovah by Haggai the prophet, saying,
+**[2:10]** In the four and twentieth \`day' of the ninth \`month', in the second year of Darius, came the word of Jehovah by Haggai the prophet, saying,
 
 **[2:11]** Thus saith Jehovah of hosts: Ask now the priests concerning the law, saying,
 
@@ -60,15 +60,15 @@
 
 **[2:15]** And now, I pray you, consider from this day and backward, before a stone was laid upon a stone in the temple of Jehovah.
 
-**[2:16]** Through all that time, when one came to a heap of twenty `measures', there were but ten; when one came to the winevat to draw out fifty `vessels', there were but twenty.
+**[2:16]** Through all that time, when one came to a heap of twenty \`measures', there were but ten; when one came to the winevat to draw out fifty \`vessels', there were but twenty.
 
-**[2:17]** I smote you with blasting and with mildew and with hail in all the work of your hands; yet ye `turned' not to me, saith Jehovah.
+**[2:17]** I smote you with blasting and with mildew and with hail in all the work of your hands; yet ye \`turned' not to me, saith Jehovah.
 
-**[2:18]** Consider, I pray you, from this day and backward, from the four and twentieth day of the ninth `month', since the day that the foundation of Jehovah's temple was laid, consider it.
+**[2:18]** Consider, I pray you, from this day and backward, from the four and twentieth day of the ninth \`month', since the day that the foundation of Jehovah's temple was laid, consider it.
 
-**[2:19]** Is the seed yet in the barn? yea, the vine, and the fig-tree, and the pomegranate, and the olive-tree have not brought forth; from this day will I bless `you'.
+**[2:19]** Is the seed yet in the barn? yea, the vine, and the fig-tree, and the pomegranate, and the olive-tree have not brought forth; from this day will I bless \`you'.
 
-**[2:20]** And the word of Jehovah came the second time unto Haggai in the four and twentieth `day' of the month, saying,
+**[2:20]** And the word of Jehovah came the second time unto Haggai in the four and twentieth \`day' of the month, saying,
 
 **[2:21]** Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;
 

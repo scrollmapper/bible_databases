@@ -2,7 +2,7 @@
 
 **[1:1]** That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we beheld, and our hands handled, concerning the Word of life
 
-**[1:2]** (and the life was manifested, and we have seen, and bear witness, and declare unto you the life, the eternal `life', which was with the Father, and was manifested unto us);
+**[1:2]** (and the life was manifested, and we have seen, and bear witness, and declare unto you the life, the eternal \`life', which was with the Father, and was manifested unto us);
 
 **[1:3]** that which we have seen and heard declare we unto you also, that ye also may have fellowship with us: yea, and our fellowship is with the Father, and with his Son Jesus Christ:
 
@@ -42,7 +42,7 @@
 
 **[2:11]** But he that hateth his brother is in the darkness, and walketh in the darkness, and knoweth not whither he goeth, because the darkness hath blinded his eyes.
 
-**[2:12]** I write unto you, `my' little children, because your sins are forgiven you for his name's sake.
+**[2:12]** I write unto you, \`my' little children, because your sins are forgiven you for his name's sake.
 
 **[2:13]** I write unto you, fathers, because ye know him who is from the beginning. I write unto you, young men, because ye have overcome the evil one. I have written unto you, little children, because ye know the Father.
 
@@ -56,33 +56,33 @@
 
 **[2:18]** Little children, it is the last hour: and as ye heard that antichrist cometh, even now have there arisen many antichrists; whereby we know that it is the last hour.
 
-**[2:19]** They went out from us, but they were not of us; for if they had been of us, they would have continued with us: but `they went out', that they might be made manifest that they all are not of us.
+**[2:19]** They went out from us, but they were not of us; for if they had been of us, they would have continued with us: but \`they went out', that they might be made manifest that they all are not of us.
 
 **[2:20]** And ye have an anointing from the Holy One, and ye know all the things.
 
 **[2:21]** I have not written unto you because ye know not the truth, but because ye know it, and because no lie is of the truth.
 
-**[2:22]** Who is the liar but he that denieth that Jesus is the Christ? This is the antichrist, `even' he that denieth the Father and the Son.
+**[2:22]** Who is the liar but he that denieth that Jesus is the Christ? This is the antichrist, \`even' he that denieth the Father and the Son.
 
 **[2:23]** Whosoever denieth the Son, the same hath not the Father: he that confesseth the Son hath the Father also.
 
 **[2:24]** As for you, let that abide in you which ye heard from the beginning. If that which ye heard from the beginning abide in you, ye also shall abide in the Son, and in the Father.
 
-**[2:25]** And this is the promise which he promised us, `even' the life eternal.
+**[2:25]** And this is the promise which he promised us, \`even' the life eternal.
 
 **[2:26]** These things have I written unto you concerning them that would lead you astray.
 
 **[2:27]** And as for you, the anointing which ye received of him abideth in you, and ye need not that any one teach you; but as his anointing teacheth you; concerning all things, and is true, and is no lie, and even as it taught you, ye abide in him.
 
-**[2:28]** And now, `my' little children, abide in him; that, if he shall be manifested, we may have boldness, and not be ashamed before him at his coming.
+**[2:28]** And now, \`my' little children, abide in him; that, if he shall be manifested, we may have boldness, and not be ashamed before him at his coming.
 
 **[2:29]** If ye know that he is righteous, ye know that every one also that doeth righteousness is begotten of him.
 
-**[3:1]** Behold what manner of love the Father hath bestowed upon us, that we should be called children of God; and `such' we are. For this cause the world knoweth us not, because it knew him not.
+**[3:1]** Behold what manner of love the Father hath bestowed upon us, that we should be called children of God; and \`such' we are. For this cause the world knoweth us not, because it knew him not.
 
 **[3:2]** Beloved, now are we children of God, and it is not yet made manifest what we shall be. We know that, if he shall be manifested, we shall be like him; for we shall see him even as he is.
 
-**[3:3]** And every one that hath this hope `set' on him purifieth himself, even as he is pure.
+**[3:3]** And every one that hath this hope \`set' on him purifieth himself, even as he is pure.
 
 **[3:4]** Every one that doeth sin doeth also lawlessness; and sin is lawlessness.
 
@@ -90,7 +90,7 @@
 
 **[3:6]** Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither knoweth him.
 
-**[3:7]** `My' little children, let no man lead you astray: he that doeth righteousness is righteous, even as he is righteous:
+**[3:7]** \`My' little children, let no man lead you astray: he that doeth righteousness is righteous, even as he is righteous:
 
 **[3:8]** he that doeth sin is of the devil; for the devil sinneth from the beginning. To this end was the Son of God manifested, that he might destroy the works of the devil.
 
@@ -112,7 +112,7 @@
 
 **[3:17]** But whoso hath the world's goods, and beholdeth his brother in need, and shutteth up his compassion from him, how doth the love of God abide in him?
 
-**[3:18]** `My' Little children, let us not love in word, neither with the tongue; but in deed and truth.
+**[3:18]** \`My' Little children, let us not love in word, neither with the tongue; but in deed and truth.
 
 **[3:19]** Hereby shall we know that we are of the truth, and shall assure our heart before him:
 
@@ -130,11 +130,11 @@
 
 **[4:2]** Hereby know ye the Spirit of God: every spirit that confesseth that Jesus Christ is come in the flesh is of God:
 
-**[4:3]** and every spirit that confesseth not Jesus is not of God: and this is the `spirit' of the antichrist, whereof ye have heard that it cometh; and now it is in the world already.
+**[4:3]** and every spirit that confesseth not Jesus is not of God: and this is the \`spirit' of the antichrist, whereof ye have heard that it cometh; and now it is in the world already.
 
-**[4:4]** Ye are of God, `my' little children, and have overcome them: because greater is he that is in you than he that is in the world.
+**[4:4]** Ye are of God, \`my' little children, and have overcome them: because greater is he that is in you than he that is in the world.
 
-**[4:5]** They are of the world: therefore speak they `as' of the world, and the world heareth them.
+**[4:5]** They are of the world: therefore speak they \`as' of the world, and the world heareth them.
 
 **[4:6]** We are of God: he that knoweth God heareth us; he who is not of God heareth us not. By this we know the spirit of truth, and the spirit of error.
 
@@ -144,7 +144,7 @@
 
 **[4:9]** Herein was the love of God manifested in us, that God hath sent his only begotten Son into the world that we might live through him.
 
-**[4:10]** Herein is love, not that we loved God, but that he loved us, and sent his Son `to be' the propitiation for our sins.
+**[4:10]** Herein is love, not that we loved God, but that he loved us, and sent his Son \`to be' the propitiation for our sins.
 
 **[4:11]** Beloved, if God so loved us, we also ought to love one another.
 
@@ -152,7 +152,7 @@
 
 **[4:13]** hereby we know that we abide in him and he in us, because he hath given us of his Spirit.
 
-**[4:14]** And we have beheld and bear witness that the Father hath sent the Son `to be' the Saviour of the world.
+**[4:14]** And we have beheld and bear witness that the Father hath sent the Son \`to be' the Saviour of the world.
 
 **[4:15]** Whosoever shall confess that Jesus is the Son of God, God abideth in him, and he in God.
 
@@ -174,11 +174,11 @@
 
 **[5:3]** For this is the love of God, that we keep his commandments: and his commandments are not grievous.
 
-**[5:4]** For whatsoever is begotten of God overcometh the world: and this is the victory that hath overcome the world, `even' our faith.
+**[5:4]** For whatsoever is begotten of God overcometh the world: and this is the victory that hath overcome the world, \`even' our faith.
 
 **[5:5]** And who is he that overcometh the world, but he that believeth that Jesus is the Son of God?
 
-**[5:6]** This is he that came by water and blood, `even' Jesus Christ; not with the water only, but with the water and with the blood.
+**[5:6]** This is he that came by water and blood, \`even' Jesus Christ; not with the water only, but with the water and with the blood.
 
 **[5:7]** And it is the Spirit that beareth witness, because the Spirit is the truth.
 
@@ -192,13 +192,13 @@
 
 **[5:12]** He that hath the Son hath the life; he that hath not the Son of God hath not the life.
 
-**[5:13]** These things have I written unto you, that ye may know that ye have eternal life, `even' unto you that believe on the name of the Son of God.
+**[5:13]** These things have I written unto you, that ye may know that ye have eternal life, \`even' unto you that believe on the name of the Son of God.
 
 **[5:14]** And this is the boldness which we have toward him, that, if we ask anything according to his will, he heareth us:
 
 **[5:15]** and if we know that he heareth us whatsoever we ask, we know that we have the petitions which we have asked of him.
 
-**[5:16]** If any man see his brother sinning a sin not unto death, he shall ask, and `God' will give him life for them that sin not unto death. There is a sin unto death: not concerning this do I say that he should make request.
+**[5:16]** If any man see his brother sinning a sin not unto death, he shall ask, and \`God' will give him life for them that sin not unto death. There is a sin unto death: not concerning this do I say that he should make request.
 
 **[5:17]** All unrighteousness is sin: and there is a sin not unto death.
 
@@ -206,6 +206,6 @@
 
 **[5:19]** We know that we are of God, and the whole world lieth in the evil one.
 
-**[5:20]** And we know that the Son of God is come, and hath given us an understanding, that we know him that is true, and we are in him that is true, `even' in his Son Jesus Christ. This is the true God, and eternal life.
+**[5:20]** And we know that the Son of God is come, and hath given us an understanding, that we know him that is true, and we are in him that is true, \`even' in his Son Jesus Christ. This is the true God, and eternal life.
 
-**[5:21]** `My' little children, guard yourselves from idols.
+**[5:21]** \`My' little children, guard yourselves from idols.
