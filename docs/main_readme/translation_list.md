@@ -1,31 +1,31 @@
 ## Available Translations (29)
 
-- [ACV](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/ACV): ACV: A Conservative Version
-- [ASV](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/ASV): ASV: American Standard Version (1901)
-- [BBE](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/BBE): BBE: 1949/1964 Bible in Basic English
-- [BSB](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/BSB): BSB: Berean Standard Bible
-- [CPDV](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/CPDV): CPDV: Catholic Public Domain Version
-- [DRC](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/DRC): DRC: Douay-Rheims Bible, Challoner Revision
-- [Darby](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/Darby): Darby: Darby Bible (1889)
-- [Geneva1599](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/Geneva1599): Geneva1599: Geneva Bible (1599)
-- [JPS](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/JPS): JPS: Jewish Publication Society Old Testament
-- [Jubilee2000](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/Jubilee2000): Jubilee2000: English Jubilee 2000 Bible
-- [KJVA](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/KJVA): KJVA: King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)
-- [KJVPCE](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/KJVPCE): KJVPCE: King James Version: Pure Cambridge Edition
-- [KJV](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/KJV): KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords
-- [LEB](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/LEB): LEB: The Lexham English Bible
-- [LITV](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/LITV): LITV: Green's Literal Translation
-- [MKJV](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/MKJV): MKJV: Green's Modern King James Version
-- [NHEBJE](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/NHEBJE): NHEBJE: New Heart English Bible: Jehovah Edition
-- [NHEBME](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/NHEBME): NHEBME: New Heart English Bible: Messianic Edition
-- [NHEB](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/NHEB): NHEB: New Heart English Bible
-- [Noyes](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/Noyes): Noyes: 1869 Noyes Translation
-- [OEB](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/OEB): OEB: Open English Bible (US Spelling)
-- [RLT](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/RLT): RLT: Revised Literal Translation (2018) of the King James Version with Strongs Numbers and Morphology
-- [RWebster](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/RWebster): RWebster: Revised Webster Version (1833)
-- [Rotherham](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/Rotherham): Rotherham: The Emphasised Bible by J. B. Rotherham
-- [Twenty](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/Twenty): Twenty: Twentieth Century New Testament
-- [Tyndale](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/Tyndale): Tyndale: William Tyndale Bible (1525/1530)
-- [UKJV](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/UKJV): UKJV: Updated King James Version
-- [Webster](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/Webster): Webster: Webster Bible
-- [YLT](https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/YLT): YLT: Young's Literal Translation (1898)
+- **ACV**: ACV: A Conservative Version
+- **ASV**: ASV: American Standard Version (1901)
+- **BBE**: BBE: 1949/1964 Bible in Basic English
+- **BSB**: BSB: Berean Standard Bible
+- **CPDV**: CPDV: Catholic Public Domain Version
+- **DRC**: DRC: Douay-Rheims Bible, Challoner Revision
+- **Darby**: Darby: Darby Bible (1889)
+- **Geneva1599**: Geneva1599: Geneva Bible (1599)
+- **JPS**: JPS: Jewish Publication Society Old Testament
+- **Jubilee2000**: Jubilee2000: English Jubilee 2000 Bible
+- **KJV**: KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords
+- **KJVA**: KJVA: King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)
+- **KJVPCE**: KJVPCE: King James Version: Pure Cambridge Edition
+- **LEB**: LEB: The Lexham English Bible
+- **LITV**: LITV: Green's Literal Translation
+- **MKJV**: MKJV: Green's Modern King James Version
+- **NHEB**: NHEB: New Heart English Bible
+- **NHEBJE**: NHEBJE: New Heart English Bible: Jehovah Edition
+- **NHEBME**: NHEBME: New Heart English Bible: Messianic Edition
+- **Noyes**: Noyes: 1869 Noyes Translation
+- **OEB**: OEB: Open English Bible (US Spelling)
+- **RLT**: RLT: Revised Literal Translation (2018) of the King James Version with Strongs Numbers and Morphology
+- **RWebster**: RWebster: Revised Webster Version (1833)
+- **Rotherham**: Rotherham: The Emphasised Bible by J. B. Rotherham
+- **Twenty**: Twenty: Twentieth Century New Testament
+- **Tyndale**: Tyndale: William Tyndale Bible (1525/1530)
+- **UKJV**: UKJV: Updated King James Version
+- **Webster**: Webster: Webster Bible
+- **YLT**: YLT: Young's Literal Translation (1898)

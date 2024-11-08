@@ -22,13 +22,11 @@ def generate_translation_list(source_dir, output_file):
     translations_dir = os.path.join(source_dir, 'en')
     translations = []
 
-    base_url = "https://github.com/scrollmapper/bible_databases/tree/2025/sources/en/"
-    
     for translation in os.listdir(translations_dir):
         translation_dir = os.path.join(translations_dir, translation)
         if os.path.isdir(translation_dir):
             title = get_translation_title(translation_dir)
-            translations.append(f"- [{translation}]({base_url}{translation}): {title}")
+            translations.append(f"- **{translation}**: {title}")
     
     translations.sort()
     translation_count = len(translations)
