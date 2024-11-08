@@ -10,7 +10,7 @@ Previously, our databases were compiled from various public domain resources. Wh
 
 Within the **scripts** folder, you'll find essential scripts for generating new format extractions from **ESword** source **.json** files, along with additional utilities.
 
-These scripts serve multiple purposes, such as database building or converting books into various formats. Our project emphasizes transparency, eliminating any "black box" that may result from undocumented text acquisition and potential inaccuracies.
+These scripts serve multiple purposes, such as database building or converting books into various formats. 
 
 Please note that **ESword** files are extracted using the SWORD-to-JSON Python package available here: [SWORD-to-JSON](https://github.com/wasdin/SWORD-to-JSON).
 
