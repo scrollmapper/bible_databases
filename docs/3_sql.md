@@ -40,7 +40,7 @@ Let's dive into some practical examples of how to query this database:
 SELECT * FROM kjv_books;
 ```
 
-Replace kjv_books with <translation>_books for other translations.
+Replace kjv_books with \<translation\>_books for other translations.
 
 #### 2. Retrieve the Passage "Turn You at My Reproof" in Proverbs
 
