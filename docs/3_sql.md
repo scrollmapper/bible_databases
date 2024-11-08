@@ -117,8 +117,6 @@ This returns a fairly complex table, but to show how well the cross-references r
 26. **Proverbs 1:25**: But ye have set at nought all my counsel, and would none of my reproof.
 27. **Proverbs 6:23**: For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life.
 
-...It is clear that the cross-reference l
-
 ## Database Schema. 
 
 Here is the database schema. It is rather simple, and applies to every translation that you bring into
