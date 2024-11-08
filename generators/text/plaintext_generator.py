@@ -1,27 +1,26 @@
 import os
-from generators.base_generator import BaseGenerator
+import json
 
-class TextGenerator(BaseGenerator):
+class TextGenerator:
     def __init__(self, source_dir, format_dir):
-        super().__init__(source_dir, format_dir)
+        self.source_dir = source_dir
+        self.format_dir = format_dir
 
     def generate(self, language, translation):
         data = self.load_json(language, translation)
-        translation_name = self.get_readme_title(language, translation)
-        prepared_data = self.prepare_data(data)
         txt_path = os.path.join(self.format_dir, 'txt', f'{translation}.txt')
 
-        with open(txt_path, 'w') as txtfile:
-            # Write translation title
-            txtfile.write(f"{translation_name}\n\n")
-            for book in prepared_data['books']:
-                # Write book title
-                txtfile.write(f"\nBook: {book['name']}\n")
+        with open(txt_path, 'w', encoding='utf-8') as txtfile:
+            for book in data['books']:
+                txtfile.write(f"### {book['name']}\n\n")
                 for chapter in book['chapters']:
-                    # Write chapter title
-                    txtfile.write(f"\n\nChapter {chapter['chapter']}\n\n")
                     for verse in chapter['verses']:
-                        # Write verse
                         txtfile.write(f"[{chapter['chapter']}:{verse['verse']}] {verse['text']}\n")
+                txtfile.write("\n")
 
-        print(f"Text file for {translation_name} ({translation}) generated at {txt_path}")
+        print(f"TXT for {translation} generated at {txt_path}")
+
+    def load_json(self, language, translation):
+        json_path = os.path.join(self.source_dir, language, translation, f"{translation}.json")
+        with open(json_path, 'r', encoding='utf-8') as file:
+            return json.load(file)

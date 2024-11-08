@@ -11,7 +11,7 @@ class MDGenerator(BaseGenerator):
         prepared_data = self.prepare_data(data)
         md_path = os.path.join(self.format_dir, 'md', f'{translation}.md')
 
-        with open(md_path, 'w') as mdfile:
+        with open(md_path, 'w', encoding='utf-8') as mdfile:
             mdfile.write(f"# {translation_name}\n\n")
             for book in prepared_data['books']:
                 mdfile.write(f"## {book['name']}\n\n")

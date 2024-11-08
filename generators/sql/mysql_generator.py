@@ -1,9 +1,10 @@
 import os
-from generators.base_generator import BaseGenerator
+import json
 
-class MySQLGenerator(BaseGenerator):
+class MySQLGenerator:
     def __init__(self, source_dir, format_dir):
-        super().__init__(source_dir, format_dir)
+        self.source_dir = source_dir
+        self.format_dir = format_dir
 
     def generate(self, language, translation):
         data = self.load_json(language, translation)
@@ -12,14 +13,15 @@ class MySQLGenerator(BaseGenerator):
         prepared_data = self.prepare_data(data)
         sql_path = os.path.join(self.format_dir, 'sql', f'{translation}.sql')
 
-        with open(sql_path, 'w') as sqlfile:
+        with open(sql_path, 'w', encoding='utf-8') as sqlfile:
             # Write the SQL header
             sqlfile.write(f"-- SQL Dump for {translation_name} ({translation})\n")
             sqlfile.write(f"-- License: {license_info}\n\n")
 
             # Drop existing tables
             sqlfile.write(f"DROP TABLE IF EXISTS `{translation}_books`;\n")
-            sqlfile.write(f"DROP TABLE IF EXISTS `{translation}_verses`;\n\n")
+            sqlfile.write(f"DROP TABLE IF EXISTS `{translation}_verses`;\n")
+            sqlfile.write("DROP TABLE IF EXISTS `translations`;\n\n")
 
             # Create translations table if it doesn't exist
             sqlfile.write("""
@@ -71,8 +73,22 @@ class MySQLGenerator(BaseGenerator):
 
     def get_license_info(self, language, translation):
         readme_path = os.path.join(self.source_dir, language, translation, "README.md")
-        with open(readme_path, 'r') as file:
+        with open(readme_path, 'r', encoding='utf-8') as file:
             for line in file:
                 if line.startswith("**License:**"):
                     return line.split("**License:** ")[1].strip()
         return "Unknown"
+
+    def load_json(self, language, translation):
+        json_path = os.path.join(self.source_dir, language, translation, f"{translation}.json")
+        with open(json_path, 'r', encoding='utf-8') as file:
+            return json.load(file)
+
+    def get_readme_title(self, language, translation):
+        readme_path = os.path.join(self.source_dir, language, translation, "README.md")
+        with open(readme_path, 'r', encoding='utf-8') as file:
+            return file.readline().strip()
+
+    def prepare_data(self, data):
+        # This method should prepare and return the data in the required format
+        return data
