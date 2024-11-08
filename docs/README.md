@@ -1,6 +1,6 @@
 ## Scrollmapper Databases: Easy Documentation
 
-This project is designed for simplicity and accessibility. You can directly utilize the available resources, or clone the entire project for personal use or further enhancement.
+This project is designed for simplicity and accessibility. You can utilize the available resources individually, or clone the entire project for personal use or further enhancement.
 
 1. [Introduction](./0_introduction.md)
 2. [Project Structure](./1_project_layout.md)
