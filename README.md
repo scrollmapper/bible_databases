@@ -1,3 +1,7 @@
+> **⚠️ Attention: This 2024 branch represents the final state of the Bible databases up until this point. Significant updates have been made to the Scrollmapper Bible databases project, including more translations, enhanced interactivity, and improved accuracy in format conversion.** 
+
+> **For the legacy version, use this branch. For the latest updates, please switch to the 2025 branch or Master.**
+
 Bible Versions and Cross-Reference Databases: mysql, sqlite, xml, csv, json, txt, md.
 ===============
 
