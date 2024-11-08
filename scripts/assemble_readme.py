@@ -9,6 +9,15 @@ def write_file(file_path, content):
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(content)
 
+def get_translation_title(translation_dir):
+    readme_path = os.path.join(translation_dir, 'README.md')
+    if os.path.exists(readme_path):
+        with open(readme_path, 'r', encoding='utf-8') as file:
+            for line in file:
+                if line.strip().startswith("#"):
+                    return line.strip("# ").strip()
+    return "Unknown Title"
+
 def generate_translation_list(source_dir, output_file):
     translations_dir = os.path.join(source_dir, 'en')
     translations = []
@@ -18,7 +27,8 @@ def generate_translation_list(source_dir, output_file):
     for translation in os.listdir(translations_dir):
         translation_dir = os.path.join(translations_dir, translation)
         if os.path.isdir(translation_dir):
-            translations.append(f"- [{translation}]({base_url}{translation})")
+            title = get_translation_title(translation_dir)
+            translations.append(f"- [{translation}]({base_url}{translation}): {title}")
     
     translations.sort()
     translation_count = len(translations)
