@@ -46,21 +46,21 @@ This is a collection of bible versions in different formats. Here are some quick
 
 The following sections describe the general database schema used in this project:
 
-#### Table: `kjv_books`
-This table lists all the books in the King James Version (KJV) of the Bible.
+#### Table: `<translation>_books`
+This table lists all the books in the given translation of the Bible.
 
 | Column Name | Type          | Nullable | Key         | Default | Extra          | Description                       |
 |-------------|---------------|----------|-------------|---------|----------------|-----------------------------------|
 | `id`        | int           | NO       | Primary Key | NULL    | auto_increment | Unique identifier for each book.  |
 | `name`      | varchar(255)  | YES      |             | NULL    |                | The name of the book.             |
 
-#### Table: `kjv_verses`
-This table contains all the verses in the King James Version (KJV) of the Bible.
+#### Table: `<translation>_verses`
+This table contains all the verses in the given translation of the Bible.
 
 | Column Name | Type          | Nullable | Key         | Default | Extra          | Description                       |
 |-------------|---------------|----------|-------------|---------|----------------|-----------------------------------|
 | `id`        | int           | NO       | Primary Key | NULL    | auto_increment | Unique identifier for each verse. |
-| `book_id`   | int           | YES      | Index       | NULL    |                | The ID of the book (foreign key to `kjv_books`). |
+| `book_id`   | int           | YES      | Index       | NULL    |                | The ID of the book (foreign key to `<translation>_books`). |
 | `chapter`   | int           | YES      |             | NULL    |                | The chapter number.               |
 | `verse`     | int           | YES      |             | NULL    |                | The verse number.                 |
 | `text`      | text          | YES      |             | NULL    |                | The text of the verse.            |
@@ -88,6 +88,7 @@ This table contains cross-reference data between different verses.
 | `to_verse_start`| int           | YES      |             | NULL    |                | The starting verse number in the `to_book`. |
 | `to_verse_end`  | int           | YES      |             | NULL    |                | The ending verse number in the `to_book`. |
 | `votes`         | int           | YES      |             | NULL    |                | The number of votes indicating the relevance of the cross-reference. |
+
 
 # MIT License
 

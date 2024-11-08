@@ -2,21 +2,21 @@
 
 The following sections describe the general database schema used in this project:
 
-#### Table: `kjv_books`
-This table lists all the books in the King James Version (KJV) of the Bible.
+#### Table: `<translation>_books`
+This table lists all the books in the given translation of the Bible.
 
 | Column Name | Type          | Nullable | Key         | Default | Extra          | Description                       |
 |-------------|---------------|----------|-------------|---------|----------------|-----------------------------------|
 | `id`        | int           | NO       | Primary Key | NULL    | auto_increment | Unique identifier for each book.  |
 | `name`      | varchar(255)  | YES      |             | NULL    |                | The name of the book.             |
 
-#### Table: `kjv_verses`
-This table contains all the verses in the King James Version (KJV) of the Bible.
+#### Table: `<translation>_verses`
+This table contains all the verses in the given translation of the Bible.
 
 | Column Name | Type          | Nullable | Key         | Default | Extra          | Description                       |
 |-------------|---------------|----------|-------------|---------|----------------|-----------------------------------|
 | `id`        | int           | NO       | Primary Key | NULL    | auto_increment | Unique identifier for each verse. |
-| `book_id`   | int           | YES      | Index       | NULL    |                | The ID of the book (foreign key to `kjv_books`). |
+| `book_id`   | int           | YES      | Index       | NULL    |                | The ID of the book (foreign key to `<translation>_books`). |
 | `chapter`   | int           | YES      |             | NULL    |                | The chapter number.               |
 | `verse`     | int           | YES      |             | NULL    |                | The verse number.                 |
 | `text`      | text          | YES      |             | NULL    |                | The text of the verse.            |
