@@ -1,5 +1,7 @@
 import os
 import json
+import unicodedata
+import pymysql
 
 class MySQLGenerator:
     def __init__(self, source_dir, format_dir):
@@ -67,7 +69,8 @@ class MySQLGenerator:
             for book_index, book in enumerate(prepared_data['books'], start=1):
                 for chapter in book['chapters']:
                     for verse in chapter['verses']:
-                        sqlfile.write(f"INSERT INTO `{translation}_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES ({book_index}, {chapter['chapter']}, {verse['verse']}, '{verse['text']}');\n")
+                        escaped_text = pymysql.converters.escape_string(normalize_text(verse['text']))
+                        sqlfile.write(f"INSERT INTO `{translation}_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES ({book_index}, {chapter['chapter']}, {verse['verse']}, '{escaped_text}');\n")
 
         print(f"SQL dump for {translation_name} ({translation}) generated at {sql_path}")
 
@@ -92,3 +95,12 @@ class MySQLGenerator:
     def prepare_data(self, data):
         # This method should prepare and return the data in the required format
         return data
+
+def normalize_text(text):
+    # Replace common characters
+    text = text.replace("Æ", "'")
+    
+    # Unicode normalization
+    text = unicodedata.normalize('NFKD', text)
+    
+    return text

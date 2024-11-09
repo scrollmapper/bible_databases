@@ -29,7 +29,7 @@ def main():
     translations = [d for d in os.listdir(os.path.join(source_directory, language)) if os.path.isdir(os.path.join(source_directory, language, d))]
     print(f"Choose your translation for {language}:")
     translation = list_options(translations, "Enter the number corresponding to your translation: ")
-
+  
     # Step 3: Generate MySQL Dump for Translation
     mysql_generator = MySQLGenerator(source_directory, format_directory)
     mysql_generator.generate(language, translation)
@@ -55,7 +55,7 @@ def main():
 
     # Run the MySQL import commands
     print("Building the database...")
-    sql_files = [f for f in os.listdir(os.path.join(format_directory, 'sql')) if f.endswith('.sql')]
+    sql_files = [f for f in os.listdir(os.path.join(format_directory, 'sql')) if f == "%s.sql"%translation]
 
     # Disable foreign key checks before importing
     subprocess.run(f"mysql -u {db_user} -p{db_password} {db_name} -e \"{disable_fk_checks}\"", shell=True, check=True)
