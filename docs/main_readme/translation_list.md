@@ -1,0 +1,31 @@
+## Available Translations (29)
+
+- **ACV**: ACV: A Conservative Version
+- **ASV**: ASV: American Standard Version (1901)
+- **BBE**: BBE: 1949/1964 Bible in Basic English
+- **BSB**: BSB: Berean Standard Bible
+- **CPDV**: CPDV: Catholic Public Domain Version
+- **DRC**: DRC: Douay-Rheims Bible, Challoner Revision
+- **Darby**: Darby: Darby Bible (1889)
+- **Geneva1599**: Geneva1599: Geneva Bible (1599)
+- **JPS**: JPS: Jewish Publication Society Old Testament
+- **Jubilee2000**: Jubilee2000: English Jubilee 2000 Bible
+- **KJV**: KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords
+- **KJVA**: KJVA: King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)
+- **KJVPCE**: KJVPCE: King James Version: Pure Cambridge Edition
+- **LEB**: LEB: The Lexham English Bible
+- **LITV**: LITV: Green's Literal Translation
+- **MKJV**: MKJV: Green's Modern King James Version
+- **NHEB**: NHEB: New Heart English Bible
+- **NHEBJE**: NHEBJE: New Heart English Bible: Jehovah Edition
+- **NHEBME**: NHEBME: New Heart English Bible: Messianic Edition
+- **Noyes**: Noyes: 1869 Noyes Translation
+- **OEB**: OEB: Open English Bible (US Spelling)
+- **RLT**: RLT: Revised Literal Translation (2018) of the King James Version with Strongs Numbers and Morphology
+- **RWebster**: RWebster: Revised Webster Version (1833)
+- **Rotherham**: Rotherham: The Emphasised Bible by J. B. Rotherham
+- **Twenty**: Twenty: Twentieth Century New Testament
+- **Tyndale**: Tyndale: William Tyndale Bible (1525/1530)
+- **UKJV**: UKJV: Updated King James Version
+- **Webster**: Webster: Webster Bible
+- **YLT**: YLT: Young's Literal Translation (1898)
