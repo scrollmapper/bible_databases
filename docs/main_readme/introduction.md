@@ -1,4 +1,4 @@
-# Bible Versions and Cross-Reference Databases: MySQL, CSV, JSON, YAML, TXT, MD.
+# Bible Versions and Cross-Reference Databases: MySQL, SQLite, CSV, JSON, YAML, TXT, MD.
 
 This is a collection of bible versions in different formats. Here are some quick introductions:
 

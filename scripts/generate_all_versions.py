@@ -6,14 +6,15 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from generators.sql.mysql_generator import MySQLGenerator
 from generators.sql.cross_references_generator_mysql import CrossReferencesGeneratorMySQL
+from generators.sqlite.sqlite_generator import SQLiteGenerator
+from generators.json.json_generator import JSONGenerator
 from generators.text.csv_generator import CSVGenerator
 from generators.text.plaintext_generator import TextGenerator
-from generators.json.json_generator import JSONGenerator
 from generators.text.yaml_generator import YAMLGenerator
 from generators.text.markdown_generator import MDGenerator
 
 def create_format_directories(format_directory):
-    formats = ['sql', 'csv', 'txt', 'json', 'yaml', 'md']
+    formats = ['sql', 'sqlite', 'csv', 'txt', 'json', 'yaml', 'md']
     for fmt in formats:
         dir_path = os.path.join(format_directory, fmt)
         if not os.path.exists(dir_path):
@@ -40,6 +41,10 @@ def generate_all_versions():
         # Generate MySQL dump for the translation
         mysql_generator = MySQLGenerator(source_directory, format_directory)
         mysql_generator.generate('en', translation)
+
+        # Generate SQLite database for the translation
+        sqlite_generator = SQLiteGenerator(source_directory, format_directory)
+        sqlite_generator.generate('en', translation)
 
         # Generate CSV format
         csv_generator = CSVGenerator(source_directory, format_directory)

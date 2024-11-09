@@ -5,19 +5,23 @@ This repository contains a collection of scripts designed to generate various fo
 ### Scripts
 
 - **build_mysql_database.py**
-  - **Description**: This script builds a MySQL database from Bible translations and optionally includes cross-references. It prompts the user for database credentials and uses SQL dumps to populate the database.
+  - **Description**: Builds a MySQL database from Bible translations and optionally includes cross-references. Prompts the user for database credentials and uses SQL dumps to populate the database.
   - **Usage**: Run the script and follow the prompts to select translations and include cross-references.
 
+- **export_sqlite_database.py**
+  - **Description**: Creates an SQLite database for a selected Bible translation and includes cross references. Prompts the user for the path where the new database should be built.
+  - **Usage**: Run the script and follow the prompts to create the SQLite database with cross references.
+
 - **generate_all_versions.py**
-  - **Description**: This script automates the generation of all Bible translations in multiple formats (SQL, CSV, JSON, TXT, YAML, MD). It iterates through all available translations and creates the corresponding files.
+  - **Description**: Automates the generation of all Bible translations in multiple formats (SQL, SQLite, CSV, JSON, TXT, YAML, MD). Iterates through all available translations and creates the corresponding files.
   - **Usage**: Run the script to generate all formats for each translation.
 
 - **generate_cross_references.py**
-  - **Description**: Generates cross-reference data for Bible translations. This script processes raw cross-reference data and formats it for use with Bible translations.
+  - **Description**: Generates cross-reference data for Bible translations. Processes raw cross-reference data and formats it for use with Bible translations.
   - **Usage**: Run the script to create cross-reference files.
 
 - **generate_cross_references_mysql.py**
-  - **Description**: Specifically generates cross-reference data for MySQL databases. It formats the cross-reference data into SQL insert statements.
+  - **Description**: Specifically generates cross-reference data for MySQL databases. Formats the cross-reference data into SQL insert statements.
   - **Usage**: Run the script to create cross-reference SQL files.
 
 - **generate_csv.py**
@@ -35,6 +39,10 @@ This repository contains a collection of scripts designed to generate various fo
 - **generate_mysql.py**
   - **Description**: Generates MySQL SQL dump files for Bible translations. Each translation is processed and output as an SQL dump file.
   - **Usage**: Run the script to create SQL dump files for each translation.
+
+- **generate_sqlite.py**
+  - **Description**: Generates SQLite database files for Bible translations. Each translation is processed and output as an SQLite database file.
+  - **Usage**: Run the script to create SQLite database files for each translation.
 
 - **generate_txt.py**
   - **Description**: Generates plain text (TXT) files for Bible translations. Each translation is processed and output as a text file.
