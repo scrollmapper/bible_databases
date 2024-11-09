@@ -19,14 +19,20 @@ def get_translation_title(translation_dir):
     return "Unknown Title"
 
 def generate_translation_list(source_dir, output_file):
-    translations_dir = os.path.join(source_dir, 'en')
     translations = []
 
-    for translation in os.listdir(translations_dir):
-        translation_dir = os.path.join(translations_dir, translation)
-        if os.path.isdir(translation_dir):
-            title = get_translation_title(translation_dir)
-            translations.append(f"- **{translation}**: {title}")
+    # Loop through all languages
+    for language in os.listdir(source_dir):
+        language_dir = os.path.join(source_dir, language)
+        if not os.path.isdir(language_dir):
+            continue
+        
+        # Loop through all translations within the language
+        for translation in os.listdir(language_dir):
+            translation_dir = os.path.join(language_dir, translation)
+            if os.path.isdir(translation_dir):
+                title = get_translation_title(translation_dir)
+                translations.append(f"- **{translation} ({language})**: {title}")
     
     translations.sort()
     translation_count = len(translations)
