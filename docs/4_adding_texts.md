@@ -6,10 +6,10 @@ unique issues to overcome in conversion.
 Be sure you have the dependencies for this project installed:
 
 ```
-pip install mysql.connector
-pip install past.builtins
-pip install pysword.modules
-pip install yaml
+pip install mysql-connector-python
+pip install future
+pip install pysword
+pip install pyyaml
 ```
 
 ## Step One: Find the translation...
