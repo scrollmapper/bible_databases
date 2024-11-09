@@ -22,51 +22,55 @@ def create_format_directories(format_directory):
 
 def generate_all_versions():
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-    source_directory = os.path.join(base_dir, 'sources', 'en')
-   
+    source_directory = os.path.join(base_dir, 'sources')
+
     format_directory = os.path.join(base_dir, 'formats')
 
     # Create necessary directories for formats
     create_format_directories(format_directory)
 
-    # List all translations
-    translations = [d for d in os.listdir(source_directory) if os.path.isdir(os.path.join(source_directory, d))]
- 
-    # Generate all formats for each translation
-    for translation in translations:
+    # List all languages
+    languages = [d for d in os.listdir(source_directory) if os.path.isdir(os.path.join(source_directory, d))]
+
+    # Generate all formats for each language and translation
+    for language in languages:
+        language_path = os.path.join(source_directory, language)
         
-        print(f"Generating formats for {translation}...")
-        source_directory = os.path.join(base_dir, 'sources')
+        # List all translations for the current language
+        translations = [d for d in os.listdir(language_path) if os.path.isdir(os.path.join(language_path, d))]
 
-        # Generate MySQL dump for the translation
-        mysql_generator = MySQLGenerator(source_directory, format_directory)
-        mysql_generator.generate('en', translation)
+        for translation in translations:
+            print(f"Generating formats for {translation} in {language}...")
+            
+            # Generate MySQL dump for the translation
+            mysql_generator = MySQLGenerator(source_directory, format_directory)
+            mysql_generator.generate(language, translation)
 
-        # Generate SQLite database for the translation
-        sqlite_generator = SQLiteGenerator(source_directory, format_directory)
-        sqlite_generator.generate('en', translation)
+            # Generate SQLite database for the translation
+            sqlite_generator = SQLiteGenerator(source_directory, format_directory)
+            sqlite_generator.generate(language, translation)
 
-        # Generate CSV format
-        csv_generator = CSVGenerator(source_directory, format_directory)
-        csv_generator.generate('en', translation)
+            # Generate CSV format
+            csv_generator = CSVGenerator(source_directory, format_directory)
+            csv_generator.generate(language, translation)
 
-        # Generate TXT format
-        txt_generator = TextGenerator(source_directory, format_directory)
-        txt_generator.generate('en', translation)
+            # Generate TXT format
+            txt_generator = TextGenerator(source_directory, format_directory)
+            txt_generator.generate(language, translation)
 
-        # Generate JSON format
-        json_generator = JSONGenerator(source_directory, format_directory)
-        json_generator.generate('en', translation)
+            # Generate JSON format
+            json_generator = JSONGenerator(source_directory, format_directory)
+            json_generator.generate(language, translation)
 
-        # Generate YAML format
-        yaml_generator = YAMLGenerator(source_directory, format_directory)
-        yaml_generator.generate('en', translation)
+            # Generate YAML format
+            yaml_generator = YAMLGenerator(source_directory, format_directory)
+            yaml_generator.generate(language, translation)
 
-        # Generate MD format
-        md_generator = MDGenerator(source_directory, format_directory)
-        md_generator.generate('en', translation)
+            # Generate MD format
+            md_generator = MDGenerator(source_directory, format_directory)
+            md_generator.generate(language, translation)
 
-        print(f"Completed generating formats for {translation}")
+            print(f"Completed generating formats for {translation} in {language}")
 
 if __name__ == "__main__":
     generate_all_versions()
