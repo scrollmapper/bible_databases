@@ -60,6 +60,10 @@ Python is the primary scripting language used in this project. To ensure consist
 - **Description**: Exports data from the SQLite database to a specified format.
 - **Usage**: Run the script to export data from the SQLite database.
 
+#### `verify_text_integrity_<format>.py`
+- **Description**: Checks the integrity of the reformatted text against the source .json files in sources directory.
+- **Usage**: Run the script and follow the prompts.
+
 ### How to Run the Scripts
 
 1. **Setup**:
