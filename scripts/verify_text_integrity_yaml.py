@@ -13,10 +13,16 @@ def normalize_text(text):
     return text
 
 def list_options(options, prompt):
+    if len(options) == 1:
+        return options[0]
     for i, option in enumerate(options, 1):
         print(f"{i}. {option}")
-    choice = int(input(prompt)) - 1
-    return options[choice]
+    choice = input(prompt)
+    if choice.isdigit():
+        choice = int(choice) - 1
+        return options[choice]
+    return choice  # Assume the input is the option itself
+
 
 def load_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
