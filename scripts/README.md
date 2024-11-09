@@ -52,6 +52,10 @@ This repository contains a collection of scripts designed to generate various fo
   - **Description**: Generates YAML files for Bible translations. Each translation is processed and output as a YAML file.
   - **Usage**: Run the script to create YAML files for each translation.
 
+#### `verify_text_integrity_<format>.py`
+- **Description**: Checks the integrity of the reformatted text against the source .json files in sources directory. It will output the verification in this directory. Relocate it or delete it after check.
+- **Usage**: Run the script and follow the prompts.
+
 ### How to Run the Scripts
 
 1. **Setup**:
