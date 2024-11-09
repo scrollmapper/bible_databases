@@ -2,6 +2,17 @@
 
 Python is the primary scripting language used in this project. To ensure consistency and compatibility, we recommend using Python 3.9. This version has been tested thoroughly with our scripts and provides the necessary features and stability for text management and data processing.
 
+### Dependencies:
+
+To use the scripts in the scripts directory, be sure you have the dependencies installed:
+
+```
+pip install mysql.connector
+pip install past.builtins
+pip install pysword.modules
+pip install yaml
+```
+
 ### Scripts Breakdown
 
 #### `assemble_readme.py`

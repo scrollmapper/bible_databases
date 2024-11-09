@@ -4,6 +4,11 @@ This repository contains a collection of scripts designed to generate various fo
 
 ### Scripts
 
+- **extract_esword_zips.py**
+  - **Description**: Extracts all ESword zip files in the sources directory that do not yet have an accompanying `<translation>.json` file.
+  - **Usage**: Run the script ... it knows what to do.
+
+
 - **build_mysql_database.py**
   - **Description**: Builds a MySQL database from Bible translations and optionally includes cross-references. Prompts the user for database credentials and uses SQL dumps to populate the database. You can use this for every version you wish to add. Cross-reference tables only need
   to be added once.
