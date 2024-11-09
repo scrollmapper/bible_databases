@@ -5,7 +5,8 @@ This repository contains a collection of scripts designed to generate various fo
 ### Scripts
 
 - **build_mysql_database.py**
-  - **Description**: Builds a MySQL database from Bible translations and optionally includes cross-references. Prompts the user for database credentials and uses SQL dumps to populate the database.
+  - **Description**: Builds a MySQL database from Bible translations and optionally includes cross-references. Prompts the user for database credentials and uses SQL dumps to populate the database. You can use this for every version you wish to add. Cross-reference tables only need
+  to be added once.
   - **Usage**: Run the script and follow the prompts to select translations and include cross-references.
 
 - **export_sqlite_database.py**
