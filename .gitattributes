@@ -1,0 +1,2 @@
+sources/*.zip filter=lfs diff=lfs merge=lfs -text
+sources/*.json filter=lfs diff=lfs merge=lfs -text

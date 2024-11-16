@@ -8,12 +8,12 @@ class BaseGenerator:
 
     def load_json(self, language, translation):
         json_path = os.path.join(self.source_dir, language, translation, f"{translation}.json")
-        with open(json_path, 'r') as file:
+        with open(json_path, 'r', encoding='utf-8') as file:
             return json.load(file)
     
     def get_readme_title(self, language, translation):
         readme_path = os.path.join(self.source_dir, language, translation, "README.md")
-        with open(readme_path, 'r') as file:
+        with open(readme_path, 'r', encoding='utf-8') as file:
             for line in file:
                 if line.startswith("# "):
                     return line[2:].strip()
