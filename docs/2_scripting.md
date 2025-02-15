@@ -19,7 +19,7 @@ pip install yaml
 - **Description**: Dynamically assembles the README.md file from various parts located in the `docs/main_readme` directory.
 - **Usage**: Run the script to generate the complete README.md.
 
-- **export_sqlite_database.py**
+#### `export_sqlite_database.py`
   - **Description**: Creates an SQLite database for a selected Bible translation and includes cross references. Prompts the user for the path where the new database should be built.
   - **Usage**: Run the script and follow the prompts to create the SQLite database with cross references.
 
