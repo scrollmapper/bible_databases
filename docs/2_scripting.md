@@ -19,7 +19,7 @@ pip install yaml
 - **Description**: Dynamically assembles the README.md file from various parts located in the `docs/main_readme` directory.
 - **Usage**: Run the script to generate the complete README.md.
 
-- **export_sqlite_database.py**
+#### `export_sqlite_database.py`
   - **Description**: Creates an SQLite database for a selected Bible translation and includes cross references. Prompts the user for the path where the new database should be built.
   - **Usage**: Run the script and follow the prompts to create the SQLite database with cross references.
 
@@ -39,6 +39,10 @@ pip install yaml
 - **Description**: Specifically generates cross-reference data for MySQL databases. Formats the cross-reference data into SQL insert statements.
 - **Usage**: Run the script to create cross-reference SQL files.
 
+#### `generate_cross_references_psql.py`
+- **Description**: Specifically generates cross-reference data for PostgreSQL databases. Formats the cross-reference data into SQL insert statements.
+- **Usage**: Run the script to create cross-reference SQL files.
+
 #### `generate_csv.py`
 - **Description**: Generates CSV files for Bible translations. Each translation is processed and output as a CSV file.
 - **Usage**: Run the script to create CSV files for each translation.
@@ -53,6 +57,10 @@ pip install yaml
 
 #### `generate_mysql.py`
 - **Description**: Generates MySQL SQL dump files for Bible translations. Each translation is processed and output as an SQL dump file.
+- **Usage**: Run the script to create SQL dump files for each translation.
+
+#### `generate_psql.py`
+- **Description**: Generates PostgreSQL SQL dump files for Bible translations. Each translation is processed and output as an SQL dump file.
 - **Usage**: Run the script to create SQL dump files for each translation.
 
 #### `generate_sqlite.py`
