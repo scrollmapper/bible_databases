@@ -1,0 +1,13 @@
+name: Plain text integrity
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pysword pyarrow PyYAML
+      - run: python -m unittest discover -s tests -p 'test_plain_text_markup.py' -v
+      - run: python scripts/verify_plain_text_markup.py

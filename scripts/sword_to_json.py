@@ -120,6 +120,12 @@ CONDITIONAL_REMOVE_TAGS = {
     "title",
 }
 
+# This legacy marker is escaped as text inside the ChiUn SWORD module.
+# XML parsing therefore exposes it as literal text rather than an element.
+# Keep this list explicit: angle brackets also mark real editorial text in
+# translations such as the Sahidic Coptic Bible.
+ESCAPED_SOURCE_MARKERS = ("<WAHb>",)
+
 
 def get_osis_output_file(output_file):
     root, ext = os.path.splitext(output_file)
@@ -234,6 +240,8 @@ def osis_fragment_to_plain_text(osis_text):
         text = strip_tags_fallback(osis_text)
 
     text = html.unescape(text)
+    for marker in ESCAPED_SOURCE_MARKERS:
+        text = text.replace(marker, "")
 
     # Normalize whitespace.
     text = re.sub(r"\s+", " ", text).strip()

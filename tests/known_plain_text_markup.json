@@ -1,0 +1,212 @@
+[
+  {
+    "location": [
+      "en/LEB/LEB.json",
+      "Acts",
+      15,
+      23,
+      "<block>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "en/LEB/LEB.json",
+      "Acts",
+      15,
+      29,
+      "</block>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "en/LEB/LEB.json",
+      "Acts",
+      23,
+      26,
+      "<block>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "en/LEB/LEB.json",
+      "Acts",
+      23,
+      30,
+      "</block>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "en/LEB/LEB.json",
+      "Revelation of John",
+      22,
+      21,
+      "</leb>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fi/FinPR/FinPR.json",
+      "Matthew",
+      6,
+      13,
+      "<FO>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fi/FinPR/FinPR.json",
+      "Matthew",
+      6,
+      13,
+      "<Fo>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fr/FreLXXGiguet/FreLXXGiguet.json",
+      "I Maccabees",
+      13,
+      54,
+      "</ref>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fr/FreLXXGiguet/FreLXXGiguet.json",
+      "I Samuel",
+      1,
+      11,
+      "<ref>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fr/FreLXXGiguet/FreLXXGiguet.json",
+      "I Samuel",
+      1,
+      14,
+      "</ref>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fr/FreLXXGiguet/FreLXXGiguet.json",
+      "I Samuel",
+      19,
+      24,
+      "</ref>"
+    ],
+    "count": 2
+  },
+  {
+    "location": [
+      "fr/FreLXXGiguet/FreLXXGiguet.json",
+      "Isaiah",
+      27,
+      7,
+      "</ref>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fr/FreLXXGiguet/FreLXXGiguet.json",
+      "Job",
+      20,
+      14,
+      "</ref>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fr/FreLXXGiguet/FreLXXGiguet.json",
+      "Job",
+      20,
+      14,
+      "<ref>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "fr/FreLXXGiguet/FreLXXGiguet.json",
+      "Joshua",
+      15,
+      17,
+      "<ref>"
+    ],
+    "count": 2
+  },
+  {
+    "location": [
+      "ru/RusSynodal/RusSynodal.json",
+      "Job",
+      2,
+      9,
+      "</note>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "ru/RusSynodal/RusSynodal.json",
+      "Job",
+      2,
+      9,
+      "<note>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "ru/RusSynodal/RusSynodal.json",
+      "Job",
+      9,
+      9,
+      "</note>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "ru/RusSynodal/RusSynodal.json",
+      "Job",
+      9,
+      9,
+      "<note>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "ru/RusSynodal/RusSynodal.json",
+      "Psalms",
+      143,
+      15,
+      "</title>"
+    ],
+    "count": 1
+  },
+  {
+    "location": [
+      "ru/RusSynodal/RusSynodal.json",
+      "Psalms",
+      143,
+      15,
+      "<title type=\"psalm\">"
+    ],
+    "count": 1
+  }
+]

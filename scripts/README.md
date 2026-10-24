@@ -81,3 +81,19 @@ This repository contains a collection of scripts designed to generate various fo
 Example:
 ```bash
 python generate_all_versions.py
+```
+
+### Plain-text markup regression checks
+
+Run `python -m unittest discover -s tests -p 'test_plain_text_markup.py' -v`
+and `python scripts/verify_plain_text_markup.py` before publishing regenerated
+data. GitHub Actions runs both checks on pushes and pull requests.
+
+The converter removes the confirmed escaped `<WAHb>` source marker while
+preserving original ZIP/OSIS data and legitimate bracketed editorial text.
+The audit rejects new XML-like tags, including nested entity escaping, at any
+plain-source verse location. `tests/known_plain_text_markup.json` explicitly
+records 23 pre-existing markers in other translations for separate review;
+issue #126 is not an exception. Do not add findings to that list merely to make
+the check pass. Removing a marker is safe for the audit; new locations or extra
+occurrences fail and require inspection of the original source.
